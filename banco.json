@@ -8333,8 +8333,8 @@
     {
       "number": 34,
       "code": "ENCAPS26-II P034",
-      "course": "ENCAPS Medicina · Por desarrollar",
-      "topic": "ENCAPS Medicina 2026-II",
+      "course": "Gestión del riesgo de desastres · Salud ambiental",
+      "topic": "Amenazas de origen biológico: flora, fauna, vectores y epidemias",
       "question": "Es la probabilidad de producir efectos nocivos para el individuo, ocasionadas por animales o plantas en un desastre natural, desequilibrando el proceso salud-enfermedad. ¿A qué tipo de riesgo se refiere?",
       "options": {
         "A": "Epidémico",
@@ -8343,18 +8343,282 @@
         "D": "Social"
       },
       "correct": "C",
-      "comment": "Tema pendiente de desarrollo detallado. La alternativa correcta indicada es la resaltada en el PDF del usuario; todavía no se ha cotejado independientemente contra el listado oficial de claves del MINSA.",
-      "pearl": "",
-      "keywords": [],
-      "estadoDesarrollo": "pendiente",
+      "comment": "CLAVE DEL PDF: C. Biológico\n\nEl PDF resalta C, BIOLÓGICO. La pregunta menciona efectos nocivos generados por ANIMALES O PLANTAS durante un desastre natural. La fuente de daño procede de seres vivos y procesos biológicos; por eso es un peligro/amenaza biológica. Pueden incluirse vectores, brotes infecciosos, plagas, zoonosis, toxinas naturales y plantas venenosas.\n\nLa respuesta se distingue de «ambiental» porque casi todos estos fenómenos ocurren en el ambiente, pero su mecanismo causal descrito es biológico. El tipo se define por el AGENTE que daña, no por el espacio físico donde ocurre. Una inundación es amenaza hidrometeorológica; las infecciones transmitidas por aguas contaminadas o proliferación de vectores después de ella son consecuencias o amenazas biológicas asociadas.\n\nEl texto usa «probabilidad de producir efectos» como riesgo, pero técnicamente distinguir PELIGRO (amenaza potencialmente dañina) de RIESGO (probabilidad de pérdidas resultante de interacción entre amenaza, exposición, vulnerabilidad y capacidades) evita confusión en gestión de desastres. Los manuales peruanos categorizan plagas y epidemias entre peligros de origen biológico.\n\nEjemplo en una comunidad afectada por lluvias o desborde: roedores y aguas contaminadas elevan posibilidades de leptospirosis, proliferan mosquitos vectores, o aumenta contacto con animales ponzoñosos. El equipo de salud prioriza vigilancia, agua segura, control de vectores, alimentos y rutas de referencia según perfil epidemiológico.\n\nUn agente biológico no es necesariamente contagioso: toxinas de plantas, venenos de ciertos animales, infestaciones masivas y microorganismos son procesos distintos. El criterio común es origen biológico; la prevención depende del tipo concreto.\n\nAmenaza o peligro: Proceso, fenómeno o actividad con potencial de ocasionar daño. Se clasifica por origen geológico, hidrometeorológico, biológico y otras fuentes. Puede existir aunque nadie esté expuesto.\n\nRiesgo: Posibilidad de pérdidas sanitarias, humanas, ambientales o materiales por interacción entre amenaza, exposición y vulnerabilidad, modulada por capacidades. No es sinónimo exacto de peligro.\n\nAmenaza biológica: Procesos orgánicos o transmitidos por vectores, incluyendo microorganismos patógenos, toxinas y sustancias bioactivas que pueden lesionar o producir brotes, plagas e infestaciones.\n\nAnimales: Zoonosis por roedores, vectores mosquitos, picaduras o mordeduras, serpientes, animales venenosos, infestaciones. Riesgo específico varía con especie, exposición y patógeno.\n\nPlantas: Plantas tóxicas, hongos, toxinas de origen vegetal, polen alergénico o plagas que afectan cultivos y seguridad alimentaria. No confundir toda planta con amenaza biológica.\n\nEpidemias: Aparición de casos por encima de lo esperado en lugar/período; puede vincularse a desplazamientos, interrupción de agua segura y vigilancia, pero no todo desastre ocasiona epidemia.\n\nPlagas: Proliferación masiva de organismos que afecta salud, producción o entorno; en INDECI figura como peligro de origen biológico.\n\nAmenaza ambiental: Categoría amplia sobre agentes físicos, químicos o contaminación. El distractor B es plausible por ocurrir en ambiente, pero «animal/planta» especifica origen biológico.\n\nRiesgo epidémico: Riesgo de brotes transmisibles. Es una subclase posible de riesgo biológico, pero demasiado estrecha si incluye plantas tóxicas y animales no infecciosos.\n\nRiesgo social: Derivado de conflictos, exclusión, violencia o vulnerabilidad social. Los determinantes sociales pueden amplificar efectos biológicos, pero no son el agente señalado.\n\nFenómeno combinado: Inundación hidrometeorológica → desplazamiento humano → falta de agua segura → incremento de enfermedades gastrointestinales. Distinguir cadena causal y riesgos secundarios.\n\nEvaluación territorial: Identificar agentes, lugares de contacto, temporada, poblaciones vulnerables, recursos, centros de atención, rutas de evacuación y sistema de vigilancia.\n\nRespuesta sanitaria: Control de vectores y reservorios, manejo seguro de agua y alimentos, campañas de comunicación, protección personal, disponibilidad de antivenenos cuando corresponda y vigilancia de enfermedades.\n\nAnálisis del riesgo vs alerta: No activar respuestas universales por «desastre»: utilizar datos de exposición y signos clínicos para priorizar medidas por tipo de amenaza.\n\nA: Epidémico cubre brotes de enfermedad, pero la definición del ítem incluye daños por animales y plantas más allá de epidemias.\n\nB: Ambiental es demasiado genérico: puede incluir fenómenos físicos o contaminación química; aquí se especifican seres vivos.\n\nC: Clave resaltada: peligro o riesgo de origen biológico por fauna, flora y agentes asociados.\n\nD: Social refiere a factores de organización, conflicto o vulnerabilidad humana, no a fuente de peligro de animales/plantas.\n\nNORMATIVA\n\nCENEPRED: Manual para evaluación de riesgos biológicos — https://www.gob.pe/institucion/cenepred/informes-publicaciones/1927304-manual-para-la-evaluacion-de-riesgos-biologico\n\nCongreso del Perú: Conceptos de gestión del riesgo de desastres — https://www3.congreso.gob.pe/didp/emergencias_2023/desastres_conceptos\n\nMEF: conceptos básicos de gestión de desastres — https://mef.gob.pe/contenidos/inv_publica/docs/estudios_documentos/documentos/ConceptosDesastres.pdf\n\nMNEMOTECNIA\n\n**BIOLÓGICO = BICHOS Y BOTÁNICA**. Visualiza un mosquito y una planta venenosa frente a un centro de salud después de una inundación. Si el daño surge de SER VIVO, piensa C.\n\nTRAMPAS\n\nAmbiental es una categoría amplia, pero la fuente descrita por el ítem es animal o planta.\n\nUna epidemia es peligro biológico, pero no todo peligro biológico es epidémico.\n\nRiesgo y peligro no son idénticos en gestión de desastres.\n\nUn evento hidrometeorológico puede generar riesgos biológicos secundarios.\n\nNo asumir que todos los animales transmiten infecciones; también hay venenos y lesiones directas.\n\nLa prevención debe adaptarse al agente específico y al contexto epidemiológico.\n\nREPASO\n\n¿Cuál es la alternativa resaltada? — C, biológico.\n\nNombra dos peligros de origen biológico del INDECI. — Epidemias y plagas.\n\n¿Todo riesgo biológico implica infección? — No, también toxinas, animales venenosos y otros procesos.\n\n¿Qué diferencia riesgo de peligro? — El peligro es potencial de daño; riesgo depende además de exposición y vulnerabilidad.\n\n¿Una inundación y el aumento posterior de mosquitos son el mismo tipo? — No; la inundación es hidrometeorológica y la proliferación vectorial biológica.\n\n¿Qué elemento indica la clasificación en examen? — Animales y plantas.\n\nCASOS\n\nTras lluvias, aumenta notablemente la población de roedores y se detecta transmisión de leptospirosis. ¿Qué peligro secundario predomina? A: Geodinámica interna / B: Tecnológico / C: Biológico / D: Geológico Clave C Reservorios y microorganismos constituyen peligro biológico.\n\nUn poblado registra inundación por río crecido sin evidencia de plagas ni brote. ¿Cuál es el origen principal del peligro desencadenante? A: Biológico / B: Socioeconómico exclusivamente / C: De origen radiactivo / D: Hidrometeorológico Clave D El desborde es un fenómeno hidrometeorológico, aunque podría producir riesgos biológicos posteriores.",
+      "pearl": "P34-C: animales o plantas que generan daño durante desastre → riesgo/amenaza de origen BIOLÓGICO.",
+      "keywords": [
+        "riesgo biológico",
+        "desastres naturales",
+        "flora fauna",
+        "plagas",
+        "epidemias",
+        "amenaza",
+        "vulnerabilidad"
+      ],
+      "estadoDesarrollo": "completo",
       "estadoClave": "resaltada_en_pdf_usuario_no_cotejada_independientemente_con_tabla_minsa",
-      "lesson": null
+      "lesson": {
+        "respuesta_resumida": "C. Biológico",
+        "razonamiento": "El PDF resalta C, BIOLÓGICO. La pregunta menciona efectos nocivos generados por ANIMALES O PLANTAS durante un desastre natural. La fuente de daño procede de seres vivos y procesos biológicos; por eso es un peligro/amenaza biológica. Pueden incluirse vectores, brotes infecciosos, plagas, zoonosis, toxinas naturales y plantas venenosas.\n\nLa respuesta se distingue de «ambiental» porque casi todos estos fenómenos ocurren en el ambiente, pero su mecanismo causal descrito es biológico. El tipo se define por el AGENTE que daña, no por el espacio físico donde ocurre. Una inundación es amenaza hidrometeorológica; las infecciones transmitidas por aguas contaminadas o proliferación de vectores después de ella son consecuencias o amenazas biológicas asociadas.\n\nEl texto usa «probabilidad de producir efectos» como riesgo, pero técnicamente distinguir PELIGRO (amenaza potencialmente dañina) de RIESGO (probabilidad de pérdidas resultante de interacción entre amenaza, exposición, vulnerabilidad y capacidades) evita confusión en gestión de desastres. Los manuales peruanos categorizan plagas y epidemias entre peligros de origen biológico.\n\nEjemplo en una comunidad afectada por lluvias o desborde: roedores y aguas contaminadas elevan posibilidades de leptospirosis, proliferan mosquitos vectores, o aumenta contacto con animales ponzoñosos. El equipo de salud prioriza vigilancia, agua segura, control de vectores, alimentos y rutas de referencia según perfil epidemiológico.\n\nUn agente biológico no es necesariamente contagioso: toxinas de plantas, venenos de ciertos animales, infestaciones masivas y microorganismos son procesos distintos. El criterio común es origen biológico; la prevención depende del tipo concreto.",
+        "temario": [
+          "Amenaza o peligro: Proceso, fenómeno o actividad con potencial de ocasionar daño. Se clasifica por origen geológico, hidrometeorológico, biológico y otras fuentes. Puede existir aunque nadie esté expuesto.",
+          "Riesgo: Posibilidad de pérdidas sanitarias, humanas, ambientales o materiales por interacción entre amenaza, exposición y vulnerabilidad, modulada por capacidades. No es sinónimo exacto de peligro.",
+          "Amenaza biológica: Procesos orgánicos o transmitidos por vectores, incluyendo microorganismos patógenos, toxinas y sustancias bioactivas que pueden lesionar o producir brotes, plagas e infestaciones.",
+          "Animales: Zoonosis por roedores, vectores mosquitos, picaduras o mordeduras, serpientes, animales venenosos, infestaciones. Riesgo específico varía con especie, exposición y patógeno.",
+          "Plantas: Plantas tóxicas, hongos, toxinas de origen vegetal, polen alergénico o plagas que afectan cultivos y seguridad alimentaria. No confundir toda planta con amenaza biológica.",
+          "Epidemias: Aparición de casos por encima de lo esperado en lugar/período; puede vincularse a desplazamientos, interrupción de agua segura y vigilancia, pero no todo desastre ocasiona epidemia.",
+          "Plagas: Proliferación masiva de organismos que afecta salud, producción o entorno; en INDECI figura como peligro de origen biológico.",
+          "Amenaza ambiental: Categoría amplia sobre agentes físicos, químicos o contaminación. El distractor B es plausible por ocurrir en ambiente, pero «animal/planta» especifica origen biológico.",
+          "Riesgo epidémico: Riesgo de brotes transmisibles. Es una subclase posible de riesgo biológico, pero demasiado estrecha si incluye plantas tóxicas y animales no infecciosos.",
+          "Riesgo social: Derivado de conflictos, exclusión, violencia o vulnerabilidad social. Los determinantes sociales pueden amplificar efectos biológicos, pero no son el agente señalado.",
+          "Fenómeno combinado: Inundación hidrometeorológica → desplazamiento humano → falta de agua segura → incremento de enfermedades gastrointestinales. Distinguir cadena causal y riesgos secundarios.",
+          "Evaluación territorial: Identificar agentes, lugares de contacto, temporada, poblaciones vulnerables, recursos, centros de atención, rutas de evacuación y sistema de vigilancia.",
+          "Respuesta sanitaria: Control de vectores y reservorios, manejo seguro de agua y alimentos, campañas de comunicación, protección personal, disponibilidad de antivenenos cuando corresponda y vigilancia de enfermedades.",
+          "Análisis del riesgo vs alerta: No activar respuestas universales por «desastre»: utilizar datos de exposición y signos clínicos para priorizar medidas por tipo de amenaza."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Epidémico cubre brotes de enfermedad, pero la definición del ítem incluye daños por animales y plantas más allá de epidemias.",
+          "B": "Ambiental es demasiado genérico: puede incluir fenómenos físicos o contaminación química; aquí se especifican seres vivos.",
+          "C": "Clave resaltada: peligro o riesgo de origen biológico por fauna, flora y agentes asociados.",
+          "D": "Social refiere a factores de organización, conflicto o vulnerabilidad humana, no a fuente de peligro de animales/plantas."
+        },
+        "normativa": [
+          {
+            "nombre": "CENEPRED: Manual para evaluación de riesgos biológicos",
+            "url": "https://www.gob.pe/institucion/cenepred/informes-publicaciones/1927304-manual-para-la-evaluacion-de-riesgos-biologico",
+            "aplicacion": "Procedimiento técnico de evaluación de riesgo de origen biológico."
+          },
+          {
+            "nombre": "Congreso del Perú: Conceptos de gestión del riesgo de desastres",
+            "url": "https://www3.congreso.gob.pe/didp/emergencias_2023/desastres_conceptos",
+            "aplicacion": "Glosario: amenazas de origen biológico, vectores, epidemias, plantas y animales."
+          },
+          {
+            "nombre": "MEF: conceptos básicos de gestión de desastres",
+            "url": "https://mef.gob.pe/contenidos/inv_publica/docs/estudios_documentos/documentos/ConceptosDesastres.pdf",
+            "aplicacion": "Peligros naturales, incluidos biológicos, y distinción amenaza-vulnerabilidad."
+          }
+        ],
+        "mnemotecnia": "**BIOLÓGICO = BICHOS Y BOTÁNICA**. Visualiza un mosquito y una planta venenosa frente a un centro de salud después de una inundación. Si el daño surge de SER VIVO, piensa C.",
+        "trampas": [
+          "Ambiental es una categoría amplia, pero la fuente descrita por el ítem es animal o planta.",
+          "Una epidemia es peligro biológico, pero no todo peligro biológico es epidémico.",
+          "Riesgo y peligro no son idénticos en gestión de desastres.",
+          "Un evento hidrometeorológico puede generar riesgos biológicos secundarios.",
+          "No asumir que todos los animales transmiten infecciones; también hay venenos y lesiones directas.",
+          "La prevención debe adaptarse al agente específico y al contexto epidemiológico."
+        ],
+        "perla": "P34-C: animales o plantas que generan daño durante desastre → riesgo/amenaza de origen BIOLÓGICO.",
+        "repaso_activo": [
+          {
+            "pregunta": "¿Cuál es la alternativa resaltada?",
+            "respuesta": "C, biológico."
+          },
+          {
+            "pregunta": "Nombra dos peligros de origen biológico del INDECI.",
+            "respuesta": "Epidemias y plagas."
+          },
+          {
+            "pregunta": "¿Todo riesgo biológico implica infección?",
+            "respuesta": "No, también toxinas, animales venenosos y otros procesos."
+          },
+          {
+            "pregunta": "¿Qué diferencia riesgo de peligro?",
+            "respuesta": "El peligro es potencial de daño; riesgo depende además de exposición y vulnerabilidad."
+          },
+          {
+            "pregunta": "¿Una inundación y el aumento posterior de mosquitos son el mismo tipo?",
+            "respuesta": "No; la inundación es hidrometeorológica y la proliferación vectorial biológica."
+          },
+          {
+            "pregunta": "¿Qué elemento indica la clasificación en examen?",
+            "respuesta": "Animales y plantas."
+          }
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Tras lluvias, aumenta notablemente la población de roedores y se detecta transmisión de leptospirosis. ¿Qué peligro secundario predomina?",
+            "alternativas": {
+              "A": "Geodinámica interna",
+              "B": "Tecnológico",
+              "C": "Biológico",
+              "D": "Geológico"
+            },
+            "respuesta": "C",
+            "explicacion": "Reservorios y microorganismos constituyen peligro biológico."
+          },
+          {
+            "enunciado": "Un poblado registra inundación por río crecido sin evidencia de plagas ni brote. ¿Cuál es el origen principal del peligro desencadenante?",
+            "alternativas": {
+              "A": "Biológico",
+              "B": "Socioeconómico exclusivamente",
+              "C": "De origen radiactivo",
+              "D": "Hidrometeorológico"
+            },
+            "respuesta": "D",
+            "explicacion": "El desborde es un fenómeno hidrometeorológico, aunque podría producir riesgos biológicos posteriores."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Amenazas de origen biológico: flora, fauna, vectores y epidemias",
+          "eje": "CENEPRED/INDECI · Peligros y vulnerabilidad",
+          "confiabilidad": "Clave resaltada en cuadernillo proporcionado por el usuario.",
+          "respuesta_resumida": "C. Biológico",
+          "razonamiento": [
+            "El PDF resalta C, BIOLÓGICO. La pregunta menciona efectos nocivos generados por ANIMALES O PLANTAS durante un desastre natural. La fuente de daño procede de seres vivos y procesos biológicos; por eso es un peligro/amenaza biológica. Pueden incluirse vectores, brotes infecciosos, plagas, zoonosis, toxinas naturales y plantas venenosas.",
+            "La respuesta se distingue de «ambiental» porque casi todos estos fenómenos ocurren en el ambiente, pero su mecanismo causal descrito es biológico. El tipo se define por el AGENTE que daña, no por el espacio físico donde ocurre. Una inundación es amenaza hidrometeorológica; las infecciones transmitidas por aguas contaminadas o proliferación de vectores después de ella son consecuencias o amenazas biológicas asociadas.",
+            "El texto usa «probabilidad de producir efectos» como riesgo, pero técnicamente distinguir PELIGRO (amenaza potencialmente dañina) de RIESGO (probabilidad de pérdidas resultante de interacción entre amenaza, exposición, vulnerabilidad y capacidades) evita confusión en gestión de desastres. Los manuales peruanos categorizan plagas y epidemias entre peligros de origen biológico.",
+            "Ejemplo en una comunidad afectada por lluvias o desborde: roedores y aguas contaminadas elevan posibilidades de leptospirosis, proliferan mosquitos vectores, o aumenta contacto con animales ponzoñosos. El equipo de salud prioriza vigilancia, agua segura, control de vectores, alimentos y rutas de referencia según perfil epidemiológico.",
+            "Un agente biológico no es necesariamente contagioso: toxinas de plantas, venenos de ciertos animales, infestaciones masivas y microorganismos son procesos distintos. El criterio común es origen biológico; la prevención depende del tipo concreto."
+          ],
+          "temario": [
+            {
+              "subtitulo": "Amenaza o peligro",
+              "texto": "Proceso, fenómeno o actividad con potencial de ocasionar daño. Se clasifica por origen geológico, hidrometeorológico, biológico y otras fuentes. Puede existir aunque nadie esté expuesto."
+            },
+            {
+              "subtitulo": "Riesgo",
+              "texto": "Posibilidad de pérdidas sanitarias, humanas, ambientales o materiales por interacción entre amenaza, exposición y vulnerabilidad, modulada por capacidades. No es sinónimo exacto de peligro."
+            },
+            {
+              "subtitulo": "Amenaza biológica",
+              "texto": "Procesos orgánicos o transmitidos por vectores, incluyendo microorganismos patógenos, toxinas y sustancias bioactivas que pueden lesionar o producir brotes, plagas e infestaciones."
+            },
+            {
+              "subtitulo": "Animales",
+              "texto": "Zoonosis por roedores, vectores mosquitos, picaduras o mordeduras, serpientes, animales venenosos, infestaciones. Riesgo específico varía con especie, exposición y patógeno."
+            },
+            {
+              "subtitulo": "Plantas",
+              "texto": "Plantas tóxicas, hongos, toxinas de origen vegetal, polen alergénico o plagas que afectan cultivos y seguridad alimentaria. No confundir toda planta con amenaza biológica."
+            },
+            {
+              "subtitulo": "Epidemias",
+              "texto": "Aparición de casos por encima de lo esperado en lugar/período; puede vincularse a desplazamientos, interrupción de agua segura y vigilancia, pero no todo desastre ocasiona epidemia."
+            },
+            {
+              "subtitulo": "Plagas",
+              "texto": "Proliferación masiva de organismos que afecta salud, producción o entorno; en INDECI figura como peligro de origen biológico."
+            },
+            {
+              "subtitulo": "Amenaza ambiental",
+              "texto": "Categoría amplia sobre agentes físicos, químicos o contaminación. El distractor B es plausible por ocurrir en ambiente, pero «animal/planta» especifica origen biológico."
+            },
+            {
+              "subtitulo": "Riesgo epidémico",
+              "texto": "Riesgo de brotes transmisibles. Es una subclase posible de riesgo biológico, pero demasiado estrecha si incluye plantas tóxicas y animales no infecciosos."
+            },
+            {
+              "subtitulo": "Riesgo social",
+              "texto": "Derivado de conflictos, exclusión, violencia o vulnerabilidad social. Los determinantes sociales pueden amplificar efectos biológicos, pero no son el agente señalado."
+            },
+            {
+              "subtitulo": "Fenómeno combinado",
+              "texto": "Inundación hidrometeorológica → desplazamiento humano → falta de agua segura → incremento de enfermedades gastrointestinales. Distinguir cadena causal y riesgos secundarios."
+            },
+            {
+              "subtitulo": "Evaluación territorial",
+              "texto": "Identificar agentes, lugares de contacto, temporada, poblaciones vulnerables, recursos, centros de atención, rutas de evacuación y sistema de vigilancia."
+            },
+            {
+              "subtitulo": "Respuesta sanitaria",
+              "texto": "Control de vectores y reservorios, manejo seguro de agua y alimentos, campañas de comunicación, protección personal, disponibilidad de antivenenos cuando corresponda y vigilancia de enfermedades."
+            },
+            {
+              "subtitulo": "Análisis del riesgo vs alerta",
+              "texto": "No activar respuestas universales por «desastre»: utilizar datos de exposición y signos clínicos para priorizar medidas por tipo de amenaza."
+            }
+          ],
+          "distractores": {
+            "A": "Epidémico cubre brotes de enfermedad, pero la definición del ítem incluye daños por animales y plantas más allá de epidemias.",
+            "B": "Ambiental es demasiado genérico: puede incluir fenómenos físicos o contaminación química; aquí se especifican seres vivos.",
+            "C": "Clave resaltada: peligro o riesgo de origen biológico por fauna, flora y agentes asociados.",
+            "D": "Social refiere a factores de organización, conflicto o vulnerabilidad humana, no a fuente de peligro de animales/plantas."
+          },
+          "normativa": [
+            {
+              "nombre": "CENEPRED: Manual para evaluación de riesgos biológicos",
+              "url": "https://www.gob.pe/institucion/cenepred/informes-publicaciones/1927304-manual-para-la-evaluacion-de-riesgos-biologico",
+              "aplicacion": "Procedimiento técnico de evaluación de riesgo de origen biológico."
+            },
+            {
+              "nombre": "Congreso del Perú: Conceptos de gestión del riesgo de desastres",
+              "url": "https://www3.congreso.gob.pe/didp/emergencias_2023/desastres_conceptos",
+              "aplicacion": "Glosario: amenazas de origen biológico, vectores, epidemias, plantas y animales."
+            },
+            {
+              "nombre": "MEF: conceptos básicos de gestión de desastres",
+              "url": "https://mef.gob.pe/contenidos/inv_publica/docs/estudios_documentos/documentos/ConceptosDesastres.pdf",
+              "aplicacion": "Peligros naturales, incluidos biológicos, y distinción amenaza-vulnerabilidad."
+            }
+          ],
+          "mnemotecnia": "**BIOLÓGICO = BICHOS Y BOTÁNICA**. Visualiza un mosquito y una planta venenosa frente a un centro de salud después de una inundación. Si el daño surge de SER VIVO, piensa C.",
+          "trampas": [
+            "Ambiental es una categoría amplia, pero la fuente descrita por el ítem es animal o planta.",
+            "Una epidemia es peligro biológico, pero no todo peligro biológico es epidémico.",
+            "Riesgo y peligro no son idénticos en gestión de desastres.",
+            "Un evento hidrometeorológico puede generar riesgos biológicos secundarios.",
+            "No asumir que todos los animales transmiten infecciones; también hay venenos y lesiones directas.",
+            "La prevención debe adaptarse al agente específico y al contexto epidemiológico."
+          ],
+          "perla": "P34-C: animales o plantas que generan daño durante desastre → riesgo/amenaza de origen BIOLÓGICO.",
+          "repaso_activo": [
+            {
+              "pregunta": "¿Cuál es la alternativa resaltada?",
+              "respuesta": "C, biológico."
+            },
+            {
+              "pregunta": "Nombra dos peligros de origen biológico del INDECI.",
+              "respuesta": "Epidemias y plagas."
+            },
+            {
+              "pregunta": "¿Todo riesgo biológico implica infección?",
+              "respuesta": "No, también toxinas, animales venenosos y otros procesos."
+            },
+            {
+              "pregunta": "¿Qué diferencia riesgo de peligro?",
+              "respuesta": "El peligro es potencial de daño; riesgo depende además de exposición y vulnerabilidad."
+            },
+            {
+              "pregunta": "¿Una inundación y el aumento posterior de mosquitos son el mismo tipo?",
+              "respuesta": "No; la inundación es hidrometeorológica y la proliferación vectorial biológica."
+            },
+            {
+              "pregunta": "¿Qué elemento indica la clasificación en examen?",
+              "respuesta": "Animales y plantas."
+            }
+          ],
+          "refuerzo": [
+            {
+              "enunciado": "Tras lluvias, aumenta notablemente la población de roedores y se detecta transmisión de leptospirosis. ¿Qué peligro secundario predomina?",
+              "alternativas": {
+                "A": "Geodinámica interna",
+                "B": "Tecnológico",
+                "C": "Biológico",
+                "D": "Geológico"
+              },
+              "respuesta": "C",
+              "explicacion": "Reservorios y microorganismos constituyen peligro biológico."
+            },
+            {
+              "enunciado": "Un poblado registra inundación por río crecido sin evidencia de plagas ni brote. ¿Cuál es el origen principal del peligro desencadenante?",
+              "alternativas": {
+                "A": "Biológico",
+                "B": "Socioeconómico exclusivamente",
+                "C": "De origen radiactivo",
+                "D": "Hidrometeorológico"
+              },
+              "respuesta": "D",
+              "explicacion": "El desborde es un fenómeno hidrometeorológico, aunque podría producir riesgos biológicos posteriores."
+            }
+          ]
+        }
+      }
     },
     {
       "number": 35,
       "code": "ENCAPS26-II P035",
-      "course": "ENCAPS Medicina · Por desarrollar",
-      "topic": "ENCAPS Medicina 2026-II",
+      "course": "Investigación científica · Redacción académica",
+      "topic": "Resumen científico (abstract): síntesis completa y límite de palabras",
       "question": "En el informe de investigación, la parte que contiene de manera suscinta toda la información de la investigación realizada y tiene un límite de palabras, se denomina:",
       "options": {
         "A": "Introducción",
@@ -8363,12 +8627,279 @@
         "D": "Resumen"
       },
       "correct": "D",
-      "comment": "Tema pendiente de desarrollo detallado. La alternativa correcta indicada es la resaltada en el PDF del usuario; todavía no se ha cotejado independientemente contra el listado oficial de claves del MINSA.",
-      "pearl": "",
-      "keywords": [],
-      "estadoDesarrollo": "pendiente",
+      "comment": "CLAVE DEL PDF: D. Resumen\n\nEl PDF resalta D, RESUMEN. Es la sección que sintetiza de manera breve los elementos principales de una investigación terminada y suele estar restringida por un número máximo de palabras definido por la universidad, revista o institución. No equivale a la introducción, la discusión ni las conclusiones aisladas.\n\nUn buen resumen de estudio original contiene antecedentes o contexto mínimo, objetivo, diseño y métodos, población/muestra, principales resultados con cifras y conclusión sustentada en datos. En revistas biomédicas se llama ABSTRACT en inglés. El ICMJE recomienda resúmenes estructurados para investigación original, revisiones sistemáticas y metaanálisis.\n\nEl enunciado dice «toda la información» de manera sucinta, no «todos los detalles». Un resumen no reproduce íntegramente tablas, citas y discusión; selecciona la información decisiva para que el lector entienda qué se investigó, cómo, qué se encontró y qué significa. Si es un protocolo sin resultados, no se deben inventar resultados ni presentar como estudio completado.\n\nEl límite de palabras NO es universal. Algunas revistas admiten 250 palabras, otras 300, y tesis o congresos imponen cifras distintas; hay que verificar instrucciones específicas. No afirmar que siempre tiene exactamente 250 palabras a partir de la definición del examen.\n\nEn medicina el resumen puede ayudar a localizar estudios relevantes, pero no sustituye lectura de métodos, análisis de sesgos, intervalos de confianza y resultados completos antes de cambiar la práctica.\n\nDefinición: El resumen es representación breve y fiel de la investigación realizada, redactada usualmente al terminar el informe. Permite evaluar tema, métodos y hallazgos sin leer el texto completo.\n\nTipos: Estructurado (con subtítulos objetivo, métodos, resultados, conclusión) y no estructurado (párrafo integrado). El formato depende de género, revista o reglamento institucional.\n\nObjetivo: Una frase clara que define la pregunta o propósito. Evitar afirmaciones vagas como «dar a conocer un tema» si se estudió una hipótesis concreta.\n\nMétodos: Diseño, entorno, período, población, muestra, técnicas, mediciones y análisis relevantes, solo datos esenciales para entender cómo se obtuvo evidencia.\n\nResultados: Presentar datos principales, magnitudes y, cuando procede, efecto estimado e incertidumbre/IC95%, no frases vacías como «hubo resultados significativos» sin valores.\n\nConclusiones: Responder al objetivo de acuerdo con resultados; no extrapolar causalidad que no demuestra diseño, ni recomendar políticas sin fundamento.\n\nAntecedentes: Contexto mínimo del problema; no desarrollar marco teórico extenso ni presentar bibliografía larga en resumen.\n\nPalabras clave: Acompañan resumen según exigencias de revista; ayudan indexación. Preferir DeCS/MeSH cuando corresponda; no se confunden con el propio texto.\n\nLímite de palabras: Varía: puede ser 150, 250 o 300, u otro límite establecido por guía editorial. Contar según sistema que utiliza revista y excluir/contar subtítulos cuando lo especifique.\n\nResumen de tesis: Puede incluir planteamiento, objetivo, metodología, resultados y conclusión, además de palabras clave, conforme reglamento universitario.\n\nIntroducción: Expone problema, antecedentes, importancia y objetivos con más detalle; no presenta toda la investigación ya realizada en forma comprimida.\n\nDiscusión: Interpreta resultados, los compara con literatura, propone explicaciones, limitaciones e implicancias. No se limita a sintetizar todo.\n\nConclusiones: Señalan respuestas finales derivadas de datos; carecen de la descripción completa de métodos y resultados que caracteriza al resumen.\n\nIMRaD: Estructura del manuscrito: Introducción, Métodos, Resultados, Discusión. El resumen puede sintetizar las partes, pero suele culminar con conclusión.\n\nErrores de redacción: Resultados que no aparecen en artículo; cifras contradictorias; falta de diseño o denominadores; afirmaciones causales injustificadas; abreviaturas no definidas; exceso del límite.\n\nEstrategia de escritura: Escribir borrador después de tablas y análisis final, revisar concordancia con resultados, eliminar adjetivos, verificar palabras y seguir instrucciones para autores.\n\nA: Introducción explica antecedentes y plantea problema/objetivo, pero no presenta de forma completa y breve métodos, resultados y conclusiones finales.\n\nB: Discusión interpreta resultados y literatura; no es la síntesis de todo el proyecto con límite de palabras.\n\nC: Conclusiones son respuestas finales al objetivo, sin detallar metodología y resultados esenciales del estudio.\n\nD: Clave del PDF: resumen/abstract, síntesis concisa de la investigación con límite editorial de palabras.\n\nNORMATIVA\n\nICMJE: Preparing a Manuscript for Submission, sección Abstract — https://icmje.org/recommendations/browse/manuscript-preparation/preparing-for-submission.html\n\nJMA Journal: instrucciones para autores y resumen estructurado — https://www.jmaj.jp/images/JMAJ_IFA20250523.pdf\n\nMNEMOTECNIA\n\n**R-O-M-R-C**: Resumen = Objetivo, Métodos, Resultados, Conclusión (y contexto breve). Visualiza una investigación completa comprimida en una miniatura con contador de palabras.\n\nTRAMPAS\n\nEl límite de palabras no es universal ni siempre de 250.\n\nUn resumen no es simplemente la introducción abreviada.\n\nNo confundir conclusiones con resumen completo del estudio.\n\nEl abstract describe resultados realmente obtenidos: no inventar datos.\n\nNo incluir afirmaciones causales injustificadas por diseño transversal.\n\nLos resúmenes de protocolos sin resultados tienen estructura distinta.\n\nNo copiar íntegramente tablas, citas o bibliografía extensa dentro del abstract.\n\nREPASO\n\n¿Qué clave marca el PDF? — D, resumen.\n\n¿Qué contiene un resumen científico completo? — Contexto/objetivo, métodos, resultados principales y conclusión.\n\n¿El límite siempre es 250 palabras? — No, depende de las instrucciones.\n\n¿Qué se encuentra en la discusión? — Interpretación y comparación de hallazgos con antecedentes.\n\n¿Puede el resumen anunciar cifras que no existen en resultados? — No.\n\n¿Qué significan siglas IMRaD? — Introducción, Métodos, Resultados y Discusión.\n\nCASOS\n\nUn artículo presenta 220 palabras de objetivo, diseño, muestra, hallazgos cuantitativos y conclusión, conforme a revista. ¿Qué sección es? A: Discusión / B: Marco teórico / C: Justificación / D: Resumen estructurado Clave D Es una síntesis limitada de los elementos nucleares del estudio.\n\nLa sección compara efectos estimados con estudios previos, explica discrepancias y enumera limitaciones. ¿Cuál es? A: Discusión / B: Resumen / C: Título / D: Anexos Clave A La discusión interpreta resultados y los compara con evidencia disponible.",
+      "pearl": "P35-D: síntesis concisa de TODO el estudio y con límite editorial de palabras = RESUMEN / ABSTRACT.",
+      "keywords": [
+        "resumen",
+        "abstract",
+        "estructura IMRaD",
+        "límite de palabras",
+        "objetivo",
+        "métodos",
+        "resultados",
+        "conclusión"
+      ],
+      "estadoDesarrollo": "completo",
       "estadoClave": "resaltada_en_pdf_usuario_no_cotejada_independientemente_con_tabla_minsa",
-      "lesson": null
+      "lesson": {
+        "respuesta_resumida": "D. Resumen",
+        "razonamiento": "El PDF resalta D, RESUMEN. Es la sección que sintetiza de manera breve los elementos principales de una investigación terminada y suele estar restringida por un número máximo de palabras definido por la universidad, revista o institución. No equivale a la introducción, la discusión ni las conclusiones aisladas.\n\nUn buen resumen de estudio original contiene antecedentes o contexto mínimo, objetivo, diseño y métodos, población/muestra, principales resultados con cifras y conclusión sustentada en datos. En revistas biomédicas se llama ABSTRACT en inglés. El ICMJE recomienda resúmenes estructurados para investigación original, revisiones sistemáticas y metaanálisis.\n\nEl enunciado dice «toda la información» de manera sucinta, no «todos los detalles». Un resumen no reproduce íntegramente tablas, citas y discusión; selecciona la información decisiva para que el lector entienda qué se investigó, cómo, qué se encontró y qué significa. Si es un protocolo sin resultados, no se deben inventar resultados ni presentar como estudio completado.\n\nEl límite de palabras NO es universal. Algunas revistas admiten 250 palabras, otras 300, y tesis o congresos imponen cifras distintas; hay que verificar instrucciones específicas. No afirmar que siempre tiene exactamente 250 palabras a partir de la definición del examen.\n\nEn medicina el resumen puede ayudar a localizar estudios relevantes, pero no sustituye lectura de métodos, análisis de sesgos, intervalos de confianza y resultados completos antes de cambiar la práctica.",
+        "temario": [
+          "Definición: El resumen es representación breve y fiel de la investigación realizada, redactada usualmente al terminar el informe. Permite evaluar tema, métodos y hallazgos sin leer el texto completo.",
+          "Tipos: Estructurado (con subtítulos objetivo, métodos, resultados, conclusión) y no estructurado (párrafo integrado). El formato depende de género, revista o reglamento institucional.",
+          "Objetivo: Una frase clara que define la pregunta o propósito. Evitar afirmaciones vagas como «dar a conocer un tema» si se estudió una hipótesis concreta.",
+          "Métodos: Diseño, entorno, período, población, muestra, técnicas, mediciones y análisis relevantes, solo datos esenciales para entender cómo se obtuvo evidencia.",
+          "Resultados: Presentar datos principales, magnitudes y, cuando procede, efecto estimado e incertidumbre/IC95%, no frases vacías como «hubo resultados significativos» sin valores.",
+          "Conclusiones: Responder al objetivo de acuerdo con resultados; no extrapolar causalidad que no demuestra diseño, ni recomendar políticas sin fundamento.",
+          "Antecedentes: Contexto mínimo del problema; no desarrollar marco teórico extenso ni presentar bibliografía larga en resumen.",
+          "Palabras clave: Acompañan resumen según exigencias de revista; ayudan indexación. Preferir DeCS/MeSH cuando corresponda; no se confunden con el propio texto.",
+          "Límite de palabras: Varía: puede ser 150, 250 o 300, u otro límite establecido por guía editorial. Contar según sistema que utiliza revista y excluir/contar subtítulos cuando lo especifique.",
+          "Resumen de tesis: Puede incluir planteamiento, objetivo, metodología, resultados y conclusión, además de palabras clave, conforme reglamento universitario.",
+          "Introducción: Expone problema, antecedentes, importancia y objetivos con más detalle; no presenta toda la investigación ya realizada en forma comprimida.",
+          "Discusión: Interpreta resultados, los compara con literatura, propone explicaciones, limitaciones e implicancias. No se limita a sintetizar todo.",
+          "Conclusiones: Señalan respuestas finales derivadas de datos; carecen de la descripción completa de métodos y resultados que caracteriza al resumen.",
+          "IMRaD: Estructura del manuscrito: Introducción, Métodos, Resultados, Discusión. El resumen puede sintetizar las partes, pero suele culminar con conclusión.",
+          "Errores de redacción: Resultados que no aparecen en artículo; cifras contradictorias; falta de diseño o denominadores; afirmaciones causales injustificadas; abreviaturas no definidas; exceso del límite.",
+          "Estrategia de escritura: Escribir borrador después de tablas y análisis final, revisar concordancia con resultados, eliminar adjetivos, verificar palabras y seguir instrucciones para autores."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Introducción explica antecedentes y plantea problema/objetivo, pero no presenta de forma completa y breve métodos, resultados y conclusiones finales.",
+          "B": "Discusión interpreta resultados y literatura; no es la síntesis de todo el proyecto con límite de palabras.",
+          "C": "Conclusiones son respuestas finales al objetivo, sin detallar metodología y resultados esenciales del estudio.",
+          "D": "Clave del PDF: resumen/abstract, síntesis concisa de la investigación con límite editorial de palabras."
+        },
+        "normativa": [
+          {
+            "nombre": "ICMJE: Preparing a Manuscript for Submission, sección Abstract",
+            "url": "https://icmje.org/recommendations/browse/manuscript-preparation/preparing-for-submission.html",
+            "aplicacion": "Contenidos de resumen estructurado de estudios originales y revisión: contexto, propósito, métodos, resultados y conclusiones."
+          },
+          {
+            "nombre": "JMA Journal: instrucciones para autores y resumen estructurado",
+            "url": "https://www.jmaj.jp/images/JMAJ_IFA20250523.pdf",
+            "aplicacion": "Ejemplo de límite editorial de 300 palabras, variable entre revistas."
+          }
+        ],
+        "mnemotecnia": "**R-O-M-R-C**: Resumen = Objetivo, Métodos, Resultados, Conclusión (y contexto breve). Visualiza una investigación completa comprimida en una miniatura con contador de palabras.",
+        "trampas": [
+          "El límite de palabras no es universal ni siempre de 250.",
+          "Un resumen no es simplemente la introducción abreviada.",
+          "No confundir conclusiones con resumen completo del estudio.",
+          "El abstract describe resultados realmente obtenidos: no inventar datos.",
+          "No incluir afirmaciones causales injustificadas por diseño transversal.",
+          "Los resúmenes de protocolos sin resultados tienen estructura distinta.",
+          "No copiar íntegramente tablas, citas o bibliografía extensa dentro del abstract."
+        ],
+        "perla": "P35-D: síntesis concisa de TODO el estudio y con límite editorial de palabras = RESUMEN / ABSTRACT.",
+        "repaso_activo": [
+          {
+            "pregunta": "¿Qué clave marca el PDF?",
+            "respuesta": "D, resumen."
+          },
+          {
+            "pregunta": "¿Qué contiene un resumen científico completo?",
+            "respuesta": "Contexto/objetivo, métodos, resultados principales y conclusión."
+          },
+          {
+            "pregunta": "¿El límite siempre es 250 palabras?",
+            "respuesta": "No, depende de las instrucciones."
+          },
+          {
+            "pregunta": "¿Qué se encuentra en la discusión?",
+            "respuesta": "Interpretación y comparación de hallazgos con antecedentes."
+          },
+          {
+            "pregunta": "¿Puede el resumen anunciar cifras que no existen en resultados?",
+            "respuesta": "No."
+          },
+          {
+            "pregunta": "¿Qué significan siglas IMRaD?",
+            "respuesta": "Introducción, Métodos, Resultados y Discusión."
+          }
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Un artículo presenta 220 palabras de objetivo, diseño, muestra, hallazgos cuantitativos y conclusión, conforme a revista. ¿Qué sección es?",
+            "alternativas": {
+              "A": "Discusión",
+              "B": "Marco teórico",
+              "C": "Justificación",
+              "D": "Resumen estructurado"
+            },
+            "respuesta": "D",
+            "explicacion": "Es una síntesis limitada de los elementos nucleares del estudio."
+          },
+          {
+            "enunciado": "La sección compara efectos estimados con estudios previos, explica discrepancias y enumera limitaciones. ¿Cuál es?",
+            "alternativas": {
+              "A": "Discusión",
+              "B": "Resumen",
+              "C": "Título",
+              "D": "Anexos"
+            },
+            "respuesta": "A",
+            "explicacion": "La discusión interpreta resultados y los compara con evidencia disponible."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Resumen científico (abstract): síntesis completa y límite de palabras",
+          "eje": "ICMJE · Estructura objetivo–métodos–resultados–conclusiones",
+          "confiabilidad": "Clave resaltada en cuadernillo proporcionado por el usuario.",
+          "respuesta_resumida": "D. Resumen",
+          "razonamiento": [
+            "El PDF resalta D, RESUMEN. Es la sección que sintetiza de manera breve los elementos principales de una investigación terminada y suele estar restringida por un número máximo de palabras definido por la universidad, revista o institución. No equivale a la introducción, la discusión ni las conclusiones aisladas.",
+            "Un buen resumen de estudio original contiene antecedentes o contexto mínimo, objetivo, diseño y métodos, población/muestra, principales resultados con cifras y conclusión sustentada en datos. En revistas biomédicas se llama ABSTRACT en inglés. El ICMJE recomienda resúmenes estructurados para investigación original, revisiones sistemáticas y metaanálisis.",
+            "El enunciado dice «toda la información» de manera sucinta, no «todos los detalles». Un resumen no reproduce íntegramente tablas, citas y discusión; selecciona la información decisiva para que el lector entienda qué se investigó, cómo, qué se encontró y qué significa. Si es un protocolo sin resultados, no se deben inventar resultados ni presentar como estudio completado.",
+            "El límite de palabras NO es universal. Algunas revistas admiten 250 palabras, otras 300, y tesis o congresos imponen cifras distintas; hay que verificar instrucciones específicas. No afirmar que siempre tiene exactamente 250 palabras a partir de la definición del examen.",
+            "En medicina el resumen puede ayudar a localizar estudios relevantes, pero no sustituye lectura de métodos, análisis de sesgos, intervalos de confianza y resultados completos antes de cambiar la práctica."
+          ],
+          "temario": [
+            {
+              "subtitulo": "Definición",
+              "texto": "El resumen es representación breve y fiel de la investigación realizada, redactada usualmente al terminar el informe. Permite evaluar tema, métodos y hallazgos sin leer el texto completo."
+            },
+            {
+              "subtitulo": "Tipos",
+              "texto": "Estructurado (con subtítulos objetivo, métodos, resultados, conclusión) y no estructurado (párrafo integrado). El formato depende de género, revista o reglamento institucional."
+            },
+            {
+              "subtitulo": "Objetivo",
+              "texto": "Una frase clara que define la pregunta o propósito. Evitar afirmaciones vagas como «dar a conocer un tema» si se estudió una hipótesis concreta."
+            },
+            {
+              "subtitulo": "Métodos",
+              "texto": "Diseño, entorno, período, población, muestra, técnicas, mediciones y análisis relevantes, solo datos esenciales para entender cómo se obtuvo evidencia."
+            },
+            {
+              "subtitulo": "Resultados",
+              "texto": "Presentar datos principales, magnitudes y, cuando procede, efecto estimado e incertidumbre/IC95%, no frases vacías como «hubo resultados significativos» sin valores."
+            },
+            {
+              "subtitulo": "Conclusiones",
+              "texto": "Responder al objetivo de acuerdo con resultados; no extrapolar causalidad que no demuestra diseño, ni recomendar políticas sin fundamento."
+            },
+            {
+              "subtitulo": "Antecedentes",
+              "texto": "Contexto mínimo del problema; no desarrollar marco teórico extenso ni presentar bibliografía larga en resumen."
+            },
+            {
+              "subtitulo": "Palabras clave",
+              "texto": "Acompañan resumen según exigencias de revista; ayudan indexación. Preferir DeCS/MeSH cuando corresponda; no se confunden con el propio texto."
+            },
+            {
+              "subtitulo": "Límite de palabras",
+              "texto": "Varía: puede ser 150, 250 o 300, u otro límite establecido por guía editorial. Contar según sistema que utiliza revista y excluir/contar subtítulos cuando lo especifique."
+            },
+            {
+              "subtitulo": "Resumen de tesis",
+              "texto": "Puede incluir planteamiento, objetivo, metodología, resultados y conclusión, además de palabras clave, conforme reglamento universitario."
+            },
+            {
+              "subtitulo": "Introducción",
+              "texto": "Expone problema, antecedentes, importancia y objetivos con más detalle; no presenta toda la investigación ya realizada en forma comprimida."
+            },
+            {
+              "subtitulo": "Discusión",
+              "texto": "Interpreta resultados, los compara con literatura, propone explicaciones, limitaciones e implicancias. No se limita a sintetizar todo."
+            },
+            {
+              "subtitulo": "Conclusiones",
+              "texto": "Señalan respuestas finales derivadas de datos; carecen de la descripción completa de métodos y resultados que caracteriza al resumen."
+            },
+            {
+              "subtitulo": "IMRaD",
+              "texto": "Estructura del manuscrito: Introducción, Métodos, Resultados, Discusión. El resumen puede sintetizar las partes, pero suele culminar con conclusión."
+            },
+            {
+              "subtitulo": "Errores de redacción",
+              "texto": "Resultados que no aparecen en artículo; cifras contradictorias; falta de diseño o denominadores; afirmaciones causales injustificadas; abreviaturas no definidas; exceso del límite."
+            },
+            {
+              "subtitulo": "Estrategia de escritura",
+              "texto": "Escribir borrador después de tablas y análisis final, revisar concordancia con resultados, eliminar adjetivos, verificar palabras y seguir instrucciones para autores."
+            }
+          ],
+          "distractores": {
+            "A": "Introducción explica antecedentes y plantea problema/objetivo, pero no presenta de forma completa y breve métodos, resultados y conclusiones finales.",
+            "B": "Discusión interpreta resultados y literatura; no es la síntesis de todo el proyecto con límite de palabras.",
+            "C": "Conclusiones son respuestas finales al objetivo, sin detallar metodología y resultados esenciales del estudio.",
+            "D": "Clave del PDF: resumen/abstract, síntesis concisa de la investigación con límite editorial de palabras."
+          },
+          "normativa": [
+            {
+              "nombre": "ICMJE: Preparing a Manuscript for Submission, sección Abstract",
+              "url": "https://icmje.org/recommendations/browse/manuscript-preparation/preparing-for-submission.html",
+              "aplicacion": "Contenidos de resumen estructurado de estudios originales y revisión: contexto, propósito, métodos, resultados y conclusiones."
+            },
+            {
+              "nombre": "JMA Journal: instrucciones para autores y resumen estructurado",
+              "url": "https://www.jmaj.jp/images/JMAJ_IFA20250523.pdf",
+              "aplicacion": "Ejemplo de límite editorial de 300 palabras, variable entre revistas."
+            }
+          ],
+          "mnemotecnia": "**R-O-M-R-C**: Resumen = Objetivo, Métodos, Resultados, Conclusión (y contexto breve). Visualiza una investigación completa comprimida en una miniatura con contador de palabras.",
+          "trampas": [
+            "El límite de palabras no es universal ni siempre de 250.",
+            "Un resumen no es simplemente la introducción abreviada.",
+            "No confundir conclusiones con resumen completo del estudio.",
+            "El abstract describe resultados realmente obtenidos: no inventar datos.",
+            "No incluir afirmaciones causales injustificadas por diseño transversal.",
+            "Los resúmenes de protocolos sin resultados tienen estructura distinta.",
+            "No copiar íntegramente tablas, citas o bibliografía extensa dentro del abstract."
+          ],
+          "perla": "P35-D: síntesis concisa de TODO el estudio y con límite editorial de palabras = RESUMEN / ABSTRACT.",
+          "repaso_activo": [
+            {
+              "pregunta": "¿Qué clave marca el PDF?",
+              "respuesta": "D, resumen."
+            },
+            {
+              "pregunta": "¿Qué contiene un resumen científico completo?",
+              "respuesta": "Contexto/objetivo, métodos, resultados principales y conclusión."
+            },
+            {
+              "pregunta": "¿El límite siempre es 250 palabras?",
+              "respuesta": "No, depende de las instrucciones."
+            },
+            {
+              "pregunta": "¿Qué se encuentra en la discusión?",
+              "respuesta": "Interpretación y comparación de hallazgos con antecedentes."
+            },
+            {
+              "pregunta": "¿Puede el resumen anunciar cifras que no existen en resultados?",
+              "respuesta": "No."
+            },
+            {
+              "pregunta": "¿Qué significan siglas IMRaD?",
+              "respuesta": "Introducción, Métodos, Resultados y Discusión."
+            }
+          ],
+          "refuerzo": [
+            {
+              "enunciado": "Un artículo presenta 220 palabras de objetivo, diseño, muestra, hallazgos cuantitativos y conclusión, conforme a revista. ¿Qué sección es?",
+              "alternativas": {
+                "A": "Discusión",
+                "B": "Marco teórico",
+                "C": "Justificación",
+                "D": "Resumen estructurado"
+              },
+              "respuesta": "D",
+              "explicacion": "Es una síntesis limitada de los elementos nucleares del estudio."
+            },
+            {
+              "enunciado": "La sección compara efectos estimados con estudios previos, explica discrepancias y enumera limitaciones. ¿Cuál es?",
+              "alternativas": {
+                "A": "Discusión",
+                "B": "Resumen",
+                "C": "Título",
+                "D": "Anexos"
+              },
+              "respuesta": "A",
+              "explicacion": "La discusión interpreta resultados y los compara con evidencia disponible."
+            }
+          ]
+        }
+      }
     },
     {
       "number": 36,
