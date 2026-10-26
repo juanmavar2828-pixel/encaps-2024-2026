@@ -5569,8 +5569,8 @@
     {
       "number": 24,
       "code": "ENCAPS26-II P024",
-      "course": "ENCAPS Medicina · Por desarrollar",
-      "topic": "ENCAPS Medicina 2026-II",
+      "course": "Pediatría",
+      "topic": "Bronquiolitis aguda: gravedad y referencia",
       "question": "Lactante de 3 meses, desde hace tres días presenta rinorrea, tos y alza térmica, fue diagnosticada de rinofaringitis viral, madre lo trae a urgencias por dificultad para lactar. Examen: FC:140X'; FR: 70X'; T°: 37.8 °C; tórax: retracción subcostal, crepitantes, sibilancias espiratorias; APCV: RCR no soplos; abdomen: no visceromegalia; neurológico: sensorio alerta. Usted diagnostica bronquiolitis aguda. Según ESBA (Score Escala de Severidad de la Bronquiolitis Aguda). ¿Cuál es la indicación médica más adecuada?",
       "options": {
         "A": "Manejo ambulatorio",
@@ -5579,12 +5579,218 @@
         "D": "Referir a hospital"
       },
       "correct": "D",
-      "comment": "Tema pendiente de desarrollo detallado. La alternativa correcta indicada es la resaltada en el PDF del usuario; todavía no se ha cotejado independientemente contra el listado oficial de claves del MINSA.",
-      "pearl": "",
-      "keywords": [],
-      "estadoDesarrollo": "pendiente",
+      "comment": "Clave del documento: D, referir a hospital. Lactante de tres meses con frecuencia respiratoria 70/min, retracción subcostal y dificultad para lactar presenta signos relevantes de compromiso respiratorio y alimentario.\n\nEl cuadro catarral seguido de sibilancias y crepitantes orienta a bronquiolitis. La atención inicial se basa en evaluación, soporte y referencia según gravedad, no antibióticos rutinarios.\n\nEl ítem cita ESBA, pero no aporta todos los componentes para calcular un puntaje exacto; no corresponde inventarlo. La referencia se fundamenta en el conjunto de signos de alarma.\n\nDefinición: Bronquiolitis es infección viral de vías aéreas inferiores en lactantes, frecuentemente con primer episodio de sibilancias.\n\nRiesgo: Lactantes pequeños, prematurez, cardiopatías y enfermedad pulmonar aumentan probabilidad de complicaciones.\n\nTaquipnea: 70 respiraciones por minuto y retracción subcostal indican aumento importante del trabajo respiratorio.\n\nAlimentación: La dificultad para lactar sugiere compromiso funcional y riesgo de deshidratación.\n\nESBA: No se calcula una escala clínica válida sin conocer los componentes necesarios; aquí no hay puntaje numérico confiable.\n\nReferir: Los signos respiratorios importantes más mala tolerancia oral justifican evaluación hospitalaria y posible soporte.\n\nEvaluación: Comprobar saturación, perfusión, hidratación y capacidad de alimentarse. Considerar apnea, fatiga y comorbilidad.\n\nTratamiento: Predomina soporte e hidratación; antibióticos no se usan de rutina salvo sospecha de coinfección bacteriana.\n\nSeguimiento: Si la enfermedad es leve y hay alimentación suficiente, pueden utilizarse cuidados ambulatorios con vigilancia y signos de alarma.\n\nMNEMOTECNIA\n\n70 + TIRAJE + NO LACTA = HOSPITAL.",
+      "pearl": "P24-D: bronquiolitis con FR 70, tiraje y dificultad de lactancia → REFERIR A HOSPITAL.",
+      "keywords": [
+        "bronquiolitis",
+        "ESBA",
+        "referir",
+        "lactante"
+      ],
+      "estadoDesarrollo": "completo",
       "estadoClave": "resaltada_en_pdf_usuario_no_cotejada_independientemente_con_tabla_minsa",
-      "lesson": null
+      "lesson": {
+        "respuesta_resumida": "D. Referir a hospital",
+        "razonamiento": "Clave del documento: D, referir a hospital. Lactante de tres meses con frecuencia respiratoria 70/min, retracción subcostal y dificultad para lactar presenta signos relevantes de compromiso respiratorio y alimentario.\n\nEl cuadro catarral seguido de sibilancias y crepitantes orienta a bronquiolitis. La atención inicial se basa en evaluación, soporte y referencia según gravedad, no antibióticos rutinarios.\n\nEl ítem cita ESBA, pero no aporta todos los componentes para calcular un puntaje exacto; no corresponde inventarlo. La referencia se fundamenta en el conjunto de signos de alarma.",
+        "temario": [
+          "Definición: Bronquiolitis es infección viral de vías aéreas inferiores en lactantes, frecuentemente con primer episodio de sibilancias.",
+          "Riesgo: Lactantes pequeños, prematurez, cardiopatías y enfermedad pulmonar aumentan probabilidad de complicaciones.",
+          "Taquipnea: 70 respiraciones por minuto y retracción subcostal indican aumento importante del trabajo respiratorio.",
+          "Alimentación: La dificultad para lactar sugiere compromiso funcional y riesgo de deshidratación.",
+          "ESBA: No se calcula una escala clínica válida sin conocer los componentes necesarios; aquí no hay puntaje numérico confiable.",
+          "Referir: Los signos respiratorios importantes más mala tolerancia oral justifican evaluación hospitalaria y posible soporte.",
+          "Evaluación: Comprobar saturación, perfusión, hidratación y capacidad de alimentarse. Considerar apnea, fatiga y comorbilidad.",
+          "Tratamiento: Predomina soporte e hidratación; antibióticos no se usan de rutina salvo sospecha de coinfección bacteriana.",
+          "Seguimiento: Si la enfermedad es leve y hay alimentación suficiente, pueden utilizarse cuidados ambulatorios con vigilancia y signos de alarma."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Ambulatorio no es suficiente con tiraje, FR 70 y mala lactancia.",
+          "B": "Monitoreo en casa no sustituye evaluación de gravedad.",
+          "C": "Los antibióticos no son el tratamiento habitual de bronquiolitis viral.",
+          "D": "Clave resaltada: referir a hospital."
+        },
+        "normativa": [
+          {
+            "nombre": "MINSA, RM 556-2019/MINSA",
+            "url": "https://www.gob.pe/institucion/minsa/normas-legales/280741-556-2019-minsa",
+            "aplicacion": "Guía peruana para bronquiolitis en menores de dos años."
+          },
+          {
+            "nombre": "Hospital de Emergencias Pediátricas, guía 2025",
+            "url": "https://www.gob.pe/institucion/hep/normas-legales/7402929-218-2025-dg-hep-minsa",
+            "aplicacion": "Valoración de gravedad y manejo de bronquiolitis."
+          }
+        ],
+        "mnemotecnia": "70 + TIRAJE + NO LACTA = HOSPITAL.",
+        "trampas": [
+          "No inventar valor ESBA.",
+          "Niño alerta puede tener dificultad respiratoria importante.",
+          "Mala alimentación es signo de alarma.",
+          "Antibióticos no son tratamiento de rutina.",
+          "Evaluar oxigenación aunque el examen no indique la saturación."
+        ],
+        "perla": "P24-D: bronquiolitis con FR 70, tiraje y dificultad de lactancia → REFERIR A HOSPITAL.",
+        "repaso_activo": [
+          {
+            "pregunta": "¿Qué clave marca el PDF?",
+            "respuesta": "D."
+          },
+          {
+            "pregunta": "¿Qué signos justifican referencia?",
+            "respuesta": "FR 70, tiraje, mala lactancia."
+          },
+          {
+            "pregunta": "¿Se conoce ESBA exacta?",
+            "respuesta": "No."
+          },
+          {
+            "pregunta": "¿Se dan antibióticos de rutina?",
+            "respuesta": "No."
+          }
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Lactante de 2 meses con tiraje marcado y mala alimentación. ¿Qué hacer?",
+            "alternativas": {
+              "A": "Alta",
+              "B": "Solo vigilar en domicilio",
+              "C": "Antibiótico rutinario",
+              "D": "Estabilizar y referir"
+            },
+            "respuesta": "D",
+            "explicacion": "Son signos de gravedad respiratoria."
+          },
+          {
+            "enunciado": "Lactante con bronquiolitis leve, buen apetito y sin dificultad respiratoria. ¿Qué opción?",
+            "alternativas": {
+              "A": "Soporte y seguimiento",
+              "B": "Antibiótico sistemático",
+              "C": "Corticoides rutinarios",
+              "D": "Hospitalizar siempre"
+            },
+            "respuesta": "A",
+            "explicacion": "Sin criterios de gravedad puede manejarse ambulatoriamente."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Bronquiolitis: gravedad y referencia",
+          "eje": "Pediatría",
+          "confiabilidad": "Clave del PDF aportado",
+          "respuesta_resumida": "D. Referir a hospital",
+          "razonamiento": [
+            "Clave del documento: D, referir a hospital. Lactante de tres meses con frecuencia respiratoria 70/min, retracción subcostal y dificultad para lactar presenta signos relevantes de compromiso respiratorio y alimentario.",
+            "El cuadro catarral seguido de sibilancias y crepitantes orienta a bronquiolitis. La atención inicial se basa en evaluación, soporte y referencia según gravedad, no antibióticos rutinarios.",
+            "El ítem cita ESBA, pero no aporta todos los componentes para calcular un puntaje exacto; no corresponde inventarlo. La referencia se fundamenta en el conjunto de signos de alarma."
+          ],
+          "temario": [
+            {
+              "subtitulo": "Definición",
+              "texto": "Bronquiolitis es infección viral de vías aéreas inferiores en lactantes, frecuentemente con primer episodio de sibilancias."
+            },
+            {
+              "subtitulo": "Riesgo",
+              "texto": "Lactantes pequeños, prematurez, cardiopatías y enfermedad pulmonar aumentan probabilidad de complicaciones."
+            },
+            {
+              "subtitulo": "Taquipnea",
+              "texto": "70 respiraciones por minuto y retracción subcostal indican aumento importante del trabajo respiratorio."
+            },
+            {
+              "subtitulo": "Alimentación",
+              "texto": "La dificultad para lactar sugiere compromiso funcional y riesgo de deshidratación."
+            },
+            {
+              "subtitulo": "ESBA",
+              "texto": "No se calcula una escala clínica válida sin conocer los componentes necesarios; aquí no hay puntaje numérico confiable."
+            },
+            {
+              "subtitulo": "Referir",
+              "texto": "Los signos respiratorios importantes más mala tolerancia oral justifican evaluación hospitalaria y posible soporte."
+            },
+            {
+              "subtitulo": "Evaluación",
+              "texto": "Comprobar saturación, perfusión, hidratación y capacidad de alimentarse. Considerar apnea, fatiga y comorbilidad."
+            },
+            {
+              "subtitulo": "Tratamiento",
+              "texto": "Predomina soporte e hidratación; antibióticos no se usan de rutina salvo sospecha de coinfección bacteriana."
+            },
+            {
+              "subtitulo": "Seguimiento",
+              "texto": "Si la enfermedad es leve y hay alimentación suficiente, pueden utilizarse cuidados ambulatorios con vigilancia y signos de alarma."
+            }
+          ],
+          "distractores": {
+            "A": "Ambulatorio no es suficiente con tiraje, FR 70 y mala lactancia.",
+            "B": "Monitoreo en casa no sustituye evaluación de gravedad.",
+            "C": "Los antibióticos no son el tratamiento habitual de bronquiolitis viral.",
+            "D": "Clave resaltada: referir a hospital."
+          },
+          "normativa": [
+            {
+              "nombre": "MINSA, RM 556-2019/MINSA",
+              "url": "https://www.gob.pe/institucion/minsa/normas-legales/280741-556-2019-minsa",
+              "aplicacion": "Guía peruana para bronquiolitis en menores de dos años."
+            },
+            {
+              "nombre": "Hospital de Emergencias Pediátricas, guía 2025",
+              "url": "https://www.gob.pe/institucion/hep/normas-legales/7402929-218-2025-dg-hep-minsa",
+              "aplicacion": "Valoración de gravedad y manejo de bronquiolitis."
+            }
+          ],
+          "mnemotecnia": "70 + TIRAJE + NO LACTA = HOSPITAL.",
+          "trampas": [
+            "No inventar valor ESBA.",
+            "Niño alerta puede tener dificultad respiratoria importante.",
+            "Mala alimentación es signo de alarma.",
+            "Antibióticos no son tratamiento de rutina.",
+            "Evaluar oxigenación aunque el examen no indique la saturación."
+          ],
+          "perla": "P24-D: bronquiolitis con FR 70, tiraje y dificultad de lactancia → REFERIR A HOSPITAL.",
+          "repaso_activo": [
+            {
+              "pregunta": "¿Qué clave marca el PDF?",
+              "respuesta": "D."
+            },
+            {
+              "pregunta": "¿Qué signos justifican referencia?",
+              "respuesta": "FR 70, tiraje, mala lactancia."
+            },
+            {
+              "pregunta": "¿Se conoce ESBA exacta?",
+              "respuesta": "No."
+            },
+            {
+              "pregunta": "¿Se dan antibióticos de rutina?",
+              "respuesta": "No."
+            }
+          ],
+          "refuerzo": [
+            {
+              "enunciado": "Lactante de 2 meses con tiraje marcado y mala alimentación. ¿Qué hacer?",
+              "alternativas": {
+                "A": "Alta",
+                "B": "Solo vigilar en domicilio",
+                "C": "Antibiótico rutinario",
+                "D": "Estabilizar y referir"
+              },
+              "respuesta": "D",
+              "explicacion": "Son signos de gravedad respiratoria."
+            },
+            {
+              "enunciado": "Lactante con bronquiolitis leve, buen apetito y sin dificultad respiratoria. ¿Qué opción?",
+              "alternativas": {
+                "A": "Soporte y seguimiento",
+                "B": "Antibiótico sistemático",
+                "C": "Corticoides rutinarios",
+                "D": "Hospitalizar siempre"
+              },
+              "respuesta": "A",
+              "explicacion": "Sin criterios de gravedad puede manejarse ambulatoriamente."
+            }
+          ]
+        }
+      }
     },
     {
       "number": 25,
