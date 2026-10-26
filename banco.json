@@ -5027,8 +5027,8 @@
     {
       "number": 22,
       "code": "ENCAPS26-II P022",
-      "course": "ENCAPS Medicina · Por desarrollar",
-      "topic": "ENCAPS Medicina 2026-II",
+      "course": "Inmunizaciones · Gestación",
+      "topic": "VRS materno 32–36 semanas",
       "question": "Gestante de 32 semanas no controlada, es captada por el profesional de la salud en las actividades extramurales, recomienda iniciar el control prenatal y completar el esquema de vacunación. ¿Cuál es la primera vacuna a indicar?",
       "options": {
         "A": "Sarampión y rubeola",
@@ -5037,12 +5037,266 @@
         "D": "Virus respiratorio sincitial"
       },
       "correct": "D",
-      "comment": "Tema pendiente de desarrollo detallado. La alternativa correcta indicada es la resaltada en el PDF del usuario; todavía no se ha cotejado independientemente contra el listado oficial de claves del MINSA.",
-      "pearl": "",
-      "keywords": [],
-      "estadoDesarrollo": "pendiente",
+      "comment": "El cuadernillo resalta D (virus respiratorio sincitial, VRS). La gestante tiene exactamente 32 semanas, edad que marca el inicio de la ventana para vacuna materna VRS de las 32 a 36 semanas establecida en el esquema peruano 2026.\n\nEl MINSA incorporó esta inmunización en abril de 2026 mediante la RM 403-2026 y aprobó el nuevo esquema por RM 561-2026 en junio. La vacuna busca que la madre desarrolle anticuerpos que crucen la placenta y protejan al lactante contra enfermedad respiratoria grave, incluidas bronquiolitis y neumonía.\n\nLa expresión «primera vacuna» se interpreta según las cuatro alternativas ofrecidas: no significa que toda gestante deba recibir siempre VRS antes de Tdap, influenza o hepatitis B. Una embarazada captada tardíamente requiere revisar íntegramente su carné y completar intervenciones indicadas por etapa y antecedentes.\n\nNirsevimab es anticuerpo monoclonal de acción prolongada administrado al lactante conforme al programa y criterios de elegibilidad. No es una vacuna materna ni necesariamente se suma de forma automática en todos los binomios madre-hijo.\n\nLa rubéola y el sarampión se previenen con vacunas de virus vivos atenuados que no se administran de rutina durante gestación; la vacuna VPH se difiere hasta después del embarazo. Estas alternativas no son la intervención prenatal específica por edad gestacional.\n\nNorma nacional 2026: RM 403-2026/MINSA modificó el esquema para introducir protección contra VRS; RM 561-2026/MINSA aprobó NTS 246-MINSA/DGIESP-2026. Su intervalo para gestantes es 32 a 36 semanas.\n\nVentana gestacional: Dosis de vacuna materna en gestantes elegibles entre 32–36 semanas, conforme a norma, contraindicaciones y disponibilidad del programa. La edad gestacional debe estar bien establecida.\n\nObjetivo inmunológico: Vacunación materna produce anticuerpos y permite su transferencia transplacentaria. El bebé puede obtener protección en primeros meses, periodo de mayor vulnerabilidad por inmadurez respiratoria e inmunitaria.\n\nVRS en lactantes: Causa bronquiolitis y neumonía, con inflamación de bronquiolos, moco, aumento del trabajo respiratorio y riesgo de hipoxemia, apnea o deshidratación. Prematurez y menor edad elevan riesgos.\n\nNirsevimab: Anticuerpo monoclonal administrado al bebé, no es vacuna de la madre. Proporciona anticuerpos pasivos y se utiliza siguiendo calendario y criterios oficiales; evitar duplicaciones no indicadas.\n\nTdap en gestantes: Vacuna contra tétanos, difteria y tos ferina indicada en cada embarazo conforme a semana y calendario del MINSA; en una captación a las 32 semanas debe revisarse si aún falta. La pregunta no la ofrece.\n\nVacuna contra influenza: Está indicada durante gestación según esquema y contexto epidemiológico; protege de influenza grave materna y neonatal. No debe omitirse por elegir la respuesta VRS en un examen.\n\nHepatitis B y otros tamizajes: Revisar antecedentes de HBV, completar dosis según criterio, evaluar riesgos, realizar tamizaje VIH, sífilis, anemia y demás controles prenatales. Captación tardía amerita gestión integral, no solo una vacuna.\n\nPor qué SR/SRP no: Contiene virus vivos atenuados: durante embarazo no se administra rutinariamente; si la mujer es susceptible se programa inmunización después del parto cuando corresponda.\n\nPor qué VPH no: La vacunación frente a virus del papiloma humano no se inicia o continúa de rutina durante embarazo; dosis pendientes se postergan según indicaciones.\n\nConsejería y registro: Explicar objetivo, edad gestacional, seguridad, vigilancia de ESAVI, registro de lote, fecha y plan de próxima atención; comunicación comprensible y seguimiento efectivo en comunidades con barreras de acceso.\n\nCuestión de examen: La pista no es simplemente «embarazada», sino «32 semanas» sumada al esquema nuevo 2026. Responder VRS sin extrapolar que reemplaza otras vacunas.\n\nDISTRACTORES\n\nA: Sarampión/rubéola: vacuna viva atenuada, no indicada de rutina durante gestación.\n\nB: Neumococo y hepatitis A: no es el par de la inmunización materna específica del ítem.\n\nC: VPH: se pospone durante embarazo; no responde ventana 32–36 semanas.\n\nD: Clave resaltada. VRS materno se indica en gestantes de 32–36 semanas según actualización peruana 2026.\n\nMNEMOTECNIA\n\n32 → VRS: visualiza un gran 32 dibujado en el vientre de una gestante, y anticuerpos que cruzan como paraguas protectores hacia el bebé. Nirsevimab → N de recién Nacido.\n\nTRAMPAS\n\n«Primera» entre alternativas no significa orden obligatorio por encima de todas las otras vacunas prenatales.\n\nNirsevimab NO es vacuna, es anticuerpo monoclonal.\n\nLa vacuna VRS materna se administra entre 32–36 semanas según MINSA 2026.\n\nNo administrar SR/SRP de virus vivos en embarazo.\n\nVPH se difiere durante gestación.\n\nVRS materna no sustituye Tdap, influenza ni control prenatal.\n\nCambios del esquema de 2026 no se contestan con cronogramas históricos anteriores.\n\nPERLA\n\nENCAPS 2026-II P22-D: 32 semanas de gestación → vacuna materna VRS (ventana 32–36 semanas); nirsevimab es anticuerpo del bebé.",
+      "pearl": "ENCAPS 2026-II P22-D: 32 semanas de gestación → vacuna materna VRS (ventana 32–36 semanas); nirsevimab es anticuerpo del bebé.",
+      "keywords": [
+        "VRS",
+        "32 semanas",
+        "nirsevimab",
+        "embarazo",
+        "vacunación"
+      ],
+      "estadoDesarrollo": "completo",
       "estadoClave": "resaltada_en_pdf_usuario_no_cotejada_independientemente_con_tabla_minsa",
-      "lesson": null
+      "lesson": {
+        "respuesta_resumida": "D. Virus respiratorio sincitial, según PDF",
+        "razonamiento": "El cuadernillo resalta D (virus respiratorio sincitial, VRS). La gestante tiene exactamente 32 semanas, edad que marca el inicio de la ventana para vacuna materna VRS de las 32 a 36 semanas establecida en el esquema peruano 2026.\n\nEl MINSA incorporó esta inmunización en abril de 2026 mediante la RM 403-2026 y aprobó el nuevo esquema por RM 561-2026 en junio. La vacuna busca que la madre desarrolle anticuerpos que crucen la placenta y protejan al lactante contra enfermedad respiratoria grave, incluidas bronquiolitis y neumonía.\n\nLa expresión «primera vacuna» se interpreta según las cuatro alternativas ofrecidas: no significa que toda gestante deba recibir siempre VRS antes de Tdap, influenza o hepatitis B. Una embarazada captada tardíamente requiere revisar íntegramente su carné y completar intervenciones indicadas por etapa y antecedentes.\n\nNirsevimab es anticuerpo monoclonal de acción prolongada administrado al lactante conforme al programa y criterios de elegibilidad. No es una vacuna materna ni necesariamente se suma de forma automática en todos los binomios madre-hijo.\n\nLa rubéola y el sarampión se previenen con vacunas de virus vivos atenuados que no se administran de rutina durante gestación; la vacuna VPH se difiere hasta después del embarazo. Estas alternativas no son la intervención prenatal específica por edad gestacional.",
+        "temario": [
+          "Norma nacional 2026: RM 403-2026/MINSA modificó el esquema para introducir protección contra VRS; RM 561-2026/MINSA aprobó NTS 246-MINSA/DGIESP-2026. Su intervalo para gestantes es 32 a 36 semanas.",
+          "Ventana gestacional: Dosis de vacuna materna en gestantes elegibles entre 32–36 semanas, conforme a norma, contraindicaciones y disponibilidad del programa. La edad gestacional debe estar bien establecida.",
+          "Objetivo inmunológico: Vacunación materna produce anticuerpos y permite su transferencia transplacentaria. El bebé puede obtener protección en primeros meses, periodo de mayor vulnerabilidad por inmadurez respiratoria e inmunitaria.",
+          "VRS en lactantes: Causa bronquiolitis y neumonía, con inflamación de bronquiolos, moco, aumento del trabajo respiratorio y riesgo de hipoxemia, apnea o deshidratación. Prematurez y menor edad elevan riesgos.",
+          "Nirsevimab: Anticuerpo monoclonal administrado al bebé, no es vacuna de la madre. Proporciona anticuerpos pasivos y se utiliza siguiendo calendario y criterios oficiales; evitar duplicaciones no indicadas.",
+          "Tdap en gestantes: Vacuna contra tétanos, difteria y tos ferina indicada en cada embarazo conforme a semana y calendario del MINSA; en una captación a las 32 semanas debe revisarse si aún falta. La pregunta no la ofrece.",
+          "Vacuna contra influenza: Está indicada durante gestación según esquema y contexto epidemiológico; protege de influenza grave materna y neonatal. No debe omitirse por elegir la respuesta VRS en un examen.",
+          "Hepatitis B y otros tamizajes: Revisar antecedentes de HBV, completar dosis según criterio, evaluar riesgos, realizar tamizaje VIH, sífilis, anemia y demás controles prenatales. Captación tardía amerita gestión integral, no solo una vacuna.",
+          "Por qué SR/SRP no: Contiene virus vivos atenuados: durante embarazo no se administra rutinariamente; si la mujer es susceptible se programa inmunización después del parto cuando corresponda.",
+          "Por qué VPH no: La vacunación frente a virus del papiloma humano no se inicia o continúa de rutina durante embarazo; dosis pendientes se postergan según indicaciones.",
+          "Consejería y registro: Explicar objetivo, edad gestacional, seguridad, vigilancia de ESAVI, registro de lote, fecha y plan de próxima atención; comunicación comprensible y seguimiento efectivo en comunidades con barreras de acceso.",
+          "Cuestión de examen: La pista no es simplemente «embarazada», sino «32 semanas» sumada al esquema nuevo 2026. Responder VRS sin extrapolar que reemplaza otras vacunas."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Sarampión/rubéola: vacuna viva atenuada, no indicada de rutina durante gestación.",
+          "B": "Neumococo y hepatitis A: no es el par de la inmunización materna específica del ítem.",
+          "C": "VPH: se pospone durante embarazo; no responde ventana 32–36 semanas.",
+          "D": "Clave resaltada. VRS materno se indica en gestantes de 32–36 semanas según actualización peruana 2026."
+        },
+        "normativa": [
+          {
+            "nombre": "MINSA, RM N.º 561-2026/MINSA, NTS 246-MINSA/DGIESP-2026",
+            "url": "https://www.gob.pe/institucion/minsa/normas-legales/8265031-561-2026-minsa",
+            "aplicacion": "Nuevo esquema nacional de inmunizaciones aprobado junio 2026."
+          },
+          {
+            "nombre": "RM 403-2026/MINSA",
+            "url": "https://busquedas.elperuano.pe/dispositivo/NL/2508383-1",
+            "aplicacion": "Incorporación de protección VRS al esquema nacional en abril 2026."
+          },
+          {
+            "nombre": "MINSA, orientación vacuna VRS y nirsevimab",
+            "url": "https://www.gob.pe/115636-que-es-el-virus-respiratorio-sincitial-proteccion-gratuita-contra-el-vrs",
+            "aplicacion": "Describe edades y tipos de prevención del VRS."
+          }
+        ],
+        "mnemotecnia": "32 → VRS: visualiza un gran 32 dibujado en el vientre de una gestante, y anticuerpos que cruzan como paraguas protectores hacia el bebé. Nirsevimab → N de recién Nacido.",
+        "trampas": [
+          "«Primera» entre alternativas no significa orden obligatorio por encima de todas las otras vacunas prenatales.",
+          "Nirsevimab NO es vacuna, es anticuerpo monoclonal.",
+          "La vacuna VRS materna se administra entre 32–36 semanas según MINSA 2026.",
+          "No administrar SR/SRP de virus vivos en embarazo.",
+          "VPH se difiere durante gestación.",
+          "VRS materna no sustituye Tdap, influenza ni control prenatal.",
+          "Cambios del esquema de 2026 no se contestan con cronogramas históricos anteriores."
+        ],
+        "perla": "ENCAPS 2026-II P22-D: 32 semanas de gestación → vacuna materna VRS (ventana 32–36 semanas); nirsevimab es anticuerpo del bebé.",
+        "repaso_activo": [
+          {
+            "pregunta": "¿Qué edad gestacional permite iniciar la vacuna VRS del MINSA 2026?",
+            "respuesta": "32 semanas."
+          },
+          {
+            "pregunta": "¿Hasta qué semana indica la orientación peruana?",
+            "respuesta": "36 semanas."
+          },
+          {
+            "pregunta": "¿Cuál es la clave del examen?",
+            "respuesta": "D, virus respiratorio sincitial."
+          },
+          {
+            "pregunta": "¿Cuál es la diferencia con nirsevimab?",
+            "respuesta": "Nirsevimab es anticuerpo monoclonal para el lactante."
+          },
+          {
+            "pregunta": "¿Por qué no SR?",
+            "respuesta": "Vacuna viva atenuada, no administrada rutinariamente en gestación."
+          },
+          {
+            "pregunta": "¿Elegir D elimina otras vacunas gestacionales?",
+            "respuesta": "No; revisar esquema y antecedentes completos."
+          }
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Gestante de 33 semanas no vacunada consulta por protección prenatal específica frente a bronquiolitis grave del bebé. ¿Cuál es una intervención incorporada en Perú en 2026?",
+            "alternativas": {
+              "A": "Vacuna VRS materna.",
+              "B": "Vacuna SRP durante embarazo.",
+              "C": "Vacuna VPH de rescate inmediato.",
+              "D": "Nirsevimab intramuscular en la madre."
+            },
+            "respuesta": "A",
+            "explicacion": "La vacuna VRS materna corresponde a gestantes entre 32 y 36 semanas."
+          },
+          {
+            "enunciado": "Se afirma que una vacuna VRS materna y nirsevimab son exactamente la misma medida. ¿Qué es correcto?",
+            "alternativas": {
+              "A": "Ambos producen protección activa en gestantes.",
+              "B": "Nirsevimab es vacuna del segundo trimestre.",
+              "C": "VRS es inmunización exclusiva del niño posnatal.",
+              "D": "La vacuna materna provoca anticuerpos maternos; nirsevimab aporta anticuerpo monoclonal al lactante."
+            },
+            "respuesta": "D",
+            "explicacion": "Son estrategias biológicamente diferentes, indicadas a personas diferentes."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Vacunación materna contra VRS: 32–36 semanas",
+          "eje": "NTS de inmunizaciones 2026",
+          "confiabilidad": "Clave marcada en el cuadernillo aportado",
+          "respuesta_resumida": "D. Virus respiratorio sincitial",
+          "razonamiento": [
+            "El cuadernillo resalta D (virus respiratorio sincitial, VRS). La gestante tiene exactamente 32 semanas, edad que marca el inicio de la ventana para vacuna materna VRS de las 32 a 36 semanas establecida en el esquema peruano 2026.",
+            "El MINSA incorporó esta inmunización en abril de 2026 mediante la RM 403-2026 y aprobó el nuevo esquema por RM 561-2026 en junio. La vacuna busca que la madre desarrolle anticuerpos que crucen la placenta y protejan al lactante contra enfermedad respiratoria grave, incluidas bronquiolitis y neumonía.",
+            "La expresión «primera vacuna» se interpreta según las cuatro alternativas ofrecidas: no significa que toda gestante deba recibir siempre VRS antes de Tdap, influenza o hepatitis B. Una embarazada captada tardíamente requiere revisar íntegramente su carné y completar intervenciones indicadas por etapa y antecedentes.",
+            "Nirsevimab es anticuerpo monoclonal de acción prolongada administrado al lactante conforme al programa y criterios de elegibilidad. No es una vacuna materna ni necesariamente se suma de forma automática en todos los binomios madre-hijo.",
+            "La rubéola y el sarampión se previenen con vacunas de virus vivos atenuados que no se administran de rutina durante gestación; la vacuna VPH se difiere hasta después del embarazo. Estas alternativas no son la intervención prenatal específica por edad gestacional."
+          ],
+          "temario": [
+            {
+              "subtitulo": "Norma nacional 2026",
+              "texto": "RM 403-2026/MINSA modificó el esquema para introducir protección contra VRS; RM 561-2026/MINSA aprobó NTS 246-MINSA/DGIESP-2026. Su intervalo para gestantes es 32 a 36 semanas."
+            },
+            {
+              "subtitulo": "Ventana gestacional",
+              "texto": "Dosis de vacuna materna en gestantes elegibles entre 32–36 semanas, conforme a norma, contraindicaciones y disponibilidad del programa. La edad gestacional debe estar bien establecida."
+            },
+            {
+              "subtitulo": "Objetivo inmunológico",
+              "texto": "Vacunación materna produce anticuerpos y permite su transferencia transplacentaria. El bebé puede obtener protección en primeros meses, periodo de mayor vulnerabilidad por inmadurez respiratoria e inmunitaria."
+            },
+            {
+              "subtitulo": "VRS en lactantes",
+              "texto": "Causa bronquiolitis y neumonía, con inflamación de bronquiolos, moco, aumento del trabajo respiratorio y riesgo de hipoxemia, apnea o deshidratación. Prematurez y menor edad elevan riesgos."
+            },
+            {
+              "subtitulo": "Nirsevimab",
+              "texto": "Anticuerpo monoclonal administrado al bebé, no es vacuna de la madre. Proporciona anticuerpos pasivos y se utiliza siguiendo calendario y criterios oficiales; evitar duplicaciones no indicadas."
+            },
+            {
+              "subtitulo": "Tdap en gestantes",
+              "texto": "Vacuna contra tétanos, difteria y tos ferina indicada en cada embarazo conforme a semana y calendario del MINSA; en una captación a las 32 semanas debe revisarse si aún falta. La pregunta no la ofrece."
+            },
+            {
+              "subtitulo": "Vacuna contra influenza",
+              "texto": "Está indicada durante gestación según esquema y contexto epidemiológico; protege de influenza grave materna y neonatal. No debe omitirse por elegir la respuesta VRS en un examen."
+            },
+            {
+              "subtitulo": "Hepatitis B y otros tamizajes",
+              "texto": "Revisar antecedentes de HBV, completar dosis según criterio, evaluar riesgos, realizar tamizaje VIH, sífilis, anemia y demás controles prenatales. Captación tardía amerita gestión integral, no solo una vacuna."
+            },
+            {
+              "subtitulo": "Por qué SR/SRP no",
+              "texto": "Contiene virus vivos atenuados: durante embarazo no se administra rutinariamente; si la mujer es susceptible se programa inmunización después del parto cuando corresponda."
+            },
+            {
+              "subtitulo": "Por qué VPH no",
+              "texto": "La vacunación frente a virus del papiloma humano no se inicia o continúa de rutina durante embarazo; dosis pendientes se postergan según indicaciones."
+            },
+            {
+              "subtitulo": "Consejería y registro",
+              "texto": "Explicar objetivo, edad gestacional, seguridad, vigilancia de ESAVI, registro de lote, fecha y plan de próxima atención; comunicación comprensible y seguimiento efectivo en comunidades con barreras de acceso."
+            },
+            {
+              "subtitulo": "Cuestión de examen",
+              "texto": "La pista no es simplemente «embarazada», sino «32 semanas» sumada al esquema nuevo 2026. Responder VRS sin extrapolar que reemplaza otras vacunas."
+            }
+          ],
+          "distractores": {
+            "A": "Sarampión/rubéola: vacuna viva atenuada, no indicada de rutina durante gestación.",
+            "B": "Neumococo y hepatitis A: no es el par de la inmunización materna específica del ítem.",
+            "C": "VPH: se pospone durante embarazo; no responde ventana 32–36 semanas.",
+            "D": "Clave resaltada. VRS materno se indica en gestantes de 32–36 semanas según actualización peruana 2026."
+          },
+          "normativa": [
+            {
+              "nombre": "MINSA, RM N.º 561-2026/MINSA, NTS 246-MINSA/DGIESP-2026",
+              "url": "https://www.gob.pe/institucion/minsa/normas-legales/8265031-561-2026-minsa",
+              "aplicacion": "Nuevo esquema nacional de inmunizaciones aprobado junio 2026."
+            },
+            {
+              "nombre": "RM 403-2026/MINSA",
+              "url": "https://busquedas.elperuano.pe/dispositivo/NL/2508383-1",
+              "aplicacion": "Incorporación de protección VRS al esquema nacional en abril 2026."
+            },
+            {
+              "nombre": "MINSA, orientación vacuna VRS y nirsevimab",
+              "url": "https://www.gob.pe/115636-que-es-el-virus-respiratorio-sincitial-proteccion-gratuita-contra-el-vrs",
+              "aplicacion": "Describe edades y tipos de prevención del VRS."
+            }
+          ],
+          "mnemotecnia": "32 → VRS: visualiza un gran 32 dibujado en el vientre de una gestante, y anticuerpos que cruzan como paraguas protectores hacia el bebé. Nirsevimab → N de recién Nacido.",
+          "trampas": [
+            "«Primera» entre alternativas no significa orden obligatorio por encima de todas las otras vacunas prenatales.",
+            "Nirsevimab NO es vacuna, es anticuerpo monoclonal.",
+            "La vacuna VRS materna se administra entre 32–36 semanas según MINSA 2026.",
+            "No administrar SR/SRP de virus vivos en embarazo.",
+            "VPH se difiere durante gestación.",
+            "VRS materna no sustituye Tdap, influenza ni control prenatal.",
+            "Cambios del esquema de 2026 no se contestan con cronogramas históricos anteriores."
+          ],
+          "perla": "ENCAPS 2026-II P22-D: 32 semanas de gestación → vacuna materna VRS (ventana 32–36 semanas); nirsevimab es anticuerpo del bebé.",
+          "repaso_activo": [
+            {
+              "pregunta": "¿Qué edad gestacional permite iniciar la vacuna VRS del MINSA 2026?",
+              "respuesta": "32 semanas."
+            },
+            {
+              "pregunta": "¿Hasta qué semana indica la orientación peruana?",
+              "respuesta": "36 semanas."
+            },
+            {
+              "pregunta": "¿Cuál es la clave del examen?",
+              "respuesta": "D, virus respiratorio sincitial."
+            },
+            {
+              "pregunta": "¿Cuál es la diferencia con nirsevimab?",
+              "respuesta": "Nirsevimab es anticuerpo monoclonal para el lactante."
+            },
+            {
+              "pregunta": "¿Por qué no SR?",
+              "respuesta": "Vacuna viva atenuada, no administrada rutinariamente en gestación."
+            },
+            {
+              "pregunta": "¿Elegir D elimina otras vacunas gestacionales?",
+              "respuesta": "No; revisar esquema y antecedentes completos."
+            }
+          ],
+          "refuerzo": [
+            {
+              "enunciado": "Gestante de 33 semanas no vacunada consulta por protección prenatal específica frente a bronquiolitis grave del bebé. ¿Cuál es una intervención incorporada en Perú en 2026?",
+              "alternativas": {
+                "A": "Vacuna VRS materna.",
+                "B": "Vacuna SRP durante embarazo.",
+                "C": "Vacuna VPH de rescate inmediato.",
+                "D": "Nirsevimab intramuscular en la madre."
+              },
+              "respuesta": "A",
+              "explicacion": "La vacuna VRS materna corresponde a gestantes entre 32 y 36 semanas."
+            },
+            {
+              "enunciado": "Se afirma que una vacuna VRS materna y nirsevimab son exactamente la misma medida. ¿Qué es correcto?",
+              "alternativas": {
+                "A": "Ambos producen protección activa en gestantes.",
+                "B": "Nirsevimab es vacuna del segundo trimestre.",
+                "C": "VRS es inmunización exclusiva del niño posnatal.",
+                "D": "La vacuna materna provoca anticuerpos maternos; nirsevimab aporta anticuerpo monoclonal al lactante."
+              },
+              "respuesta": "D",
+              "explicacion": "Son estrategias biológicamente diferentes, indicadas a personas diferentes."
+            }
+          ]
+        }
+      }
     },
     {
       "number": 23,
