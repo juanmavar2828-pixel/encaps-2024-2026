@@ -6646,8 +6646,8 @@
     {
       "number": 28,
       "code": "ENCAPS26-II P028",
-      "course": "ENCAPS Medicina · Por desarrollar",
-      "topic": "ENCAPS Medicina 2026-II",
+      "course": "Gestión sanitaria · Planeamiento estratégico",
+      "topic": "Objetivos estratégicos: cambios futuros y resultados de salud deseados",
       "question": "El jefe de una zona sanitaria, en reunión con sus coordinadores de estrategias y el comité multisectorial, definen las condiciones futuras que esperan lograr, enunciados claros y precisos de los resultados en salud que se esperan obtener. Esto es un ejemplo de:",
       "options": {
         "A": "Análisis situacional",
@@ -6656,18 +6656,278 @@
         "D": "Manual de operaciones"
       },
       "correct": "C",
-      "comment": "Tema pendiente de desarrollo detallado. La alternativa correcta indicada es la resaltada en el PDF del usuario; todavía no se ha cotejado independientemente contra el listado oficial de claves del MINSA.",
-      "pearl": "",
-      "keywords": [],
-      "estadoDesarrollo": "pendiente",
+      "comment": "C. Objetivos estratégicos\n\nLa respuesta C, OBJETIVOS ESTRATÉGICOS, coincide con la marca del examen. El enunciado habla de condiciones FUTURAS que se espera lograr y de enunciados claros y precisos de los RESULTADOS sanitarios esperados. Un objetivo estratégico expresa una situación o cambio deseado en la población, sistema o territorio dentro de un horizonte temporal.\n\nEl análisis situacional explica dónde estamos, por qué y con qué problemas o capacidades, mientras que formular objetivos expresa hacia dónde queremos llegar. Ejemplo situacional: «La continuidad del tratamiento de TB disminuyó de 92% a 78% en una RIS». Objetivo estratégico: «Mejorar la continuidad y culminación del tratamiento de TB en la población atendida». Indicador y meta concretan cómo medirlo (por ejemplo porcentaje de culminación y año meta).\n\nSegún las guías CEPLAN de planeamiento institucional, el PEI orienta la estrategia institucional para alcanzar resultados en la población, mientras el POI concreta las actividades y recursos de corto plazo que implementan esa estrategia. Los resultados son distintos de productos, acciones o insumos. Reunirse para elaborar una campaña no es un resultado de salud: es actividad.\n\nLas opciones «análisis estratégicos» o «manual de operaciones» son distractores porque ninguna, tal como aparece, designa los cambios sanitarios que el equipo multisectorial espera lograr. El manual describe procesos, atribuciones o procedimientos operativos; no equivale al conjunto de resultados esperados.\n\nPlaneamiento estratégico: Proceso organizado de evaluar realidad, definir futuro deseado, elegir objetivos y acciones, asignar recursos y seguir resultados. Integra decisiones sanitarias y multisectoriales para cerrar brechas.\n\nAnálisis situacional o diagnóstico: Describe problemas actuales por frecuencia, gravedad, territorio y determinantes, capacidades del EESS, limitaciones y oportunidades; puede usar ASIS, FODA, series históricas y entrevistas. No es todavía la declaración del cambio deseado.\n\nSituación futura deseada: Imagen prospectiva factible de condiciones mejoradas. Orienta objetivos; no se formula como simple deseo vago, sino vinculada con problemas priorizados y evidencia de capacidad de acción.\n\nObjetivo estratégico: Enunciado que indica un resultado o cambio significativo a alcanzar. Una buena formulación usa verbo apropiado y resultado verificable, por ejemplo «Reducir complicaciones prevenibles de diabetes en adultos de la provincia».\n\nIndicador: Variable cuantitativa o cualitativa operacionalizada que permite medir avance hacia el objetivo. Ejemplos: proporción de pacientes diabéticos controlados, tasa de mortalidad materna, culminación terapéutica de TB.\n\nMeta: Valor cuantificado que el indicador debe alcanzar en un plazo. «Aumentar cobertura» es objetivo; «alcanzar 85% en 2028» puede ser meta. Verificar línea basal, factibilidad y calidad de fuente.\n\nAcción estratégica: Intervención que contribuye a conseguir objetivo: expandir captación, seguimiento domiciliario, coordinación de referencia o teleorientación, por ejemplo.\n\nActividad operativa: Tarea concreta y programada: realizar sesiones, adquirir dispositivos, capacitar personal, registrar control de anemia. Tiene responsable, cronograma y presupuesto.\n\nPEI versus POI: El Plan Estratégico Institucional establece orientación y objetivos de varios años; el Plan Operativo Institucional organiza actividades, producción institucional y programación de recursos. Una actividad no debe confundirse con el resultado final.\n\nResultados, productos e insumos: Resultado: cambio en condición de salud, bienestar o acceso. Producto: bien/servicio entregado (p. ej. consulta). Actividad: visitas y procedimientos. Insumo: personal, medicamento, presupuesto. Más consultas por sí solas no garantizan menos enfermedad.\n\nParticipación multisectorial: Las metas de salud dependen también de saneamiento, educación, transporte y comunidad. Definir objetivos de forma colegiada mejora pertinencia, pero cada actor necesita responsabilidades y seguimiento.\n\nEjemplo para I-4 altoandino: Diagnóstico: baja captación de gestantes antes de 14 semanas. Objetivo: incrementar atención prenatal oportuna. Indicador: proporción captadas antes de 14 semanas. Meta: valor factible y año. Acciones: seguimiento comunitario; actividades: visitas mensuales y registro de citas.\n\nCriterios de buena formulación: Relevancia, claridad, consistencia con prioridades de la red, medibilidad, horizonte temporal, factibilidad y protección de equidad. Los indicadores deben tener ficha técnica, fuente y calidad verificables.\n\nA: Análisis situacional describe hechos y brechas presentes; no denomina propiamente los resultados futuros que se espera lograr.\n\nB: Análisis estratégicos es actividad de estudio y selección de opciones, no enunciado de los resultados finales esperados.\n\nC: Clave del PDF. Los objetivos estratégicos expresan resultados y cambios sanitarios futuros deseados.\n\nD: Manual de operaciones describe la ejecución administrativa/procedimental, no la finalidad estratégica en salud.\n\nCEPLAN, Guía para el Planeamiento Institucional, actualización 2024 — https://www.gob.pe/institucion/ceplan/informes-publicaciones/5661161-guia-para-el-planeamiento-institucional-actualizada-2024\n\nCEPLAN, Guía para el planeamiento estratégico sectorial, 2024 — https://www.gob.pe/institucion/ceplan/informes-publicaciones/5771193-guia-para-el-planeamiento-estrategico-sectorial-actualizada-2024\n\nMINSA, ejemplo institucional PEI — https://www.gob.pe/institucion/minsa/informes-publicaciones/1067626-plan-estrategico-institucional-pei-del-ministerio-de-salud-periodo-2019-2023\n\nMNEMOTECNIA ASIS = FOTO del presente; OBJETIVO = DESTINO; INDICADOR = RELOJ/REGLA que mide; META = NÚMERO; POI = AGENDA. Imagina una ambulancia con un mapa: dónde estoy (ASIS), adónde voy (objetivo), distancia (indicador), llegar antes de 2028 (meta) y ruta de actividades (POI).\n\nTRAMPA «Condiciones futuras esperadas» es pista más fuerte que el simple hecho de reunirse.\n\nTRAMPA Objetivo no equivale a meta cuantificada ni a actividad puntual.\n\nTRAMPA Análisis situacional reconoce causas y brechas, no formula por sí solo el resultado futuro.\n\nTRAMPA El manual de operaciones no sustituye PEI ni POI.\n\nTRAMPA Más consultas no siempre significan resultado sanitario favorable.\n\nTRAMPA Un objetivo sin indicador es difícil de evaluar; no confundir ambos conceptos.\n\nTRAMPA La formulación participativa no garantiza logro sin recursos, roles y monitoreo.\n\nPERLA ENCAPS 2026-II P28-C: expresar RESULTADOS DE SALUD FUTUROS DESEADOS = OBJETIVOS ESTRATÉGICOS; diagnóstico es presente, POI organiza actividades.\n\n¿Qué clave se marca? → C, objetivos estratégicos.\n\n¿Qué describe análisis situacional? → Situación actual, problemas, brechas y determinantes.\n\n¿Qué expresa un objetivo? → Cambio o resultado deseado a futuro.\n\n¿Qué mide un indicador? → Avance verificable hacia un resultado.\n\n¿En qué se diferencia meta de objetivo? → Meta fija valor y plazo esperados de indicador; objetivo enuncia cambio.\n\n¿Qué instrumento programa actividades del año? → POI, en articulación con el PEI.\n\nUna red anuncia: «Reducir las complicaciones por diabetes en adultos de nuestra jurisdicción al final del período institucional». ¿Qué elemento de planeamiento es? CLAVE C Expresa cambio futuro de resultados en salud, no actividad o bien.\n\nEl equipo escribe: «Realizar doce sesiones de capacitación para personal de salud entre enero y diciembre». ¿Qué representa principalmente? CLAVE D Es actividad con frecuencia y plazo; aún no determina si cambian resultados de salud.",
+      "pearl": "ENCAPS 2026-II P28-C: expresar RESULTADOS DE SALUD FUTUROS DESEADOS = OBJETIVOS ESTRATÉGICOS; diagnóstico es presente, POI organiza actividades.",
+      "keywords": [
+        "objetivo estratégico",
+        "situación futura deseada",
+        "CEPLAN",
+        "PEI",
+        "POI",
+        "análisis situacional",
+        "resultado en salud"
+      ],
+      "estadoDesarrollo": "completo",
       "estadoClave": "resaltada_en_pdf_usuario_no_cotejada_independientemente_con_tabla_minsa",
-      "lesson": null
+      "lesson": {
+        "respuesta_resumida": "C. Objetivos estratégicos",
+        "razonamiento": "La respuesta C, OBJETIVOS ESTRATÉGICOS, coincide con la marca del examen. El enunciado habla de condiciones FUTURAS que se espera lograr y de enunciados claros y precisos de los RESULTADOS sanitarios esperados. Un objetivo estratégico expresa una situación o cambio deseado en la población, sistema o territorio dentro de un horizonte temporal.\n\nEl análisis situacional explica dónde estamos, por qué y con qué problemas o capacidades, mientras que formular objetivos expresa hacia dónde queremos llegar. Ejemplo situacional: «La continuidad del tratamiento de TB disminuyó de 92% a 78% en una RIS». Objetivo estratégico: «Mejorar la continuidad y culminación del tratamiento de TB en la población atendida». Indicador y meta concretan cómo medirlo (por ejemplo porcentaje de culminación y año meta).\n\nSegún las guías CEPLAN de planeamiento institucional, el PEI orienta la estrategia institucional para alcanzar resultados en la población, mientras el POI concreta las actividades y recursos de corto plazo que implementan esa estrategia. Los resultados son distintos de productos, acciones o insumos. Reunirse para elaborar una campaña no es un resultado de salud: es actividad.\n\nLas opciones «análisis estratégicos» o «manual de operaciones» son distractores porque ninguna, tal como aparece, designa los cambios sanitarios que el equipo multisectorial espera lograr. El manual describe procesos, atribuciones o procedimientos operativos; no equivale al conjunto de resultados esperados.",
+        "temario": [
+          "Planeamiento estratégico: Proceso organizado de evaluar realidad, definir futuro deseado, elegir objetivos y acciones, asignar recursos y seguir resultados. Integra decisiones sanitarias y multisectoriales para cerrar brechas.",
+          "Análisis situacional o diagnóstico: Describe problemas actuales por frecuencia, gravedad, territorio y determinantes, capacidades del EESS, limitaciones y oportunidades; puede usar ASIS, FODA, series históricas y entrevistas. No es todavía la declaración del cambio deseado.",
+          "Situación futura deseada: Imagen prospectiva factible de condiciones mejoradas. Orienta objetivos; no se formula como simple deseo vago, sino vinculada con problemas priorizados y evidencia de capacidad de acción.",
+          "Objetivo estratégico: Enunciado que indica un resultado o cambio significativo a alcanzar. Una buena formulación usa verbo apropiado y resultado verificable, por ejemplo «Reducir complicaciones prevenibles de diabetes en adultos de la provincia».",
+          "Indicador: Variable cuantitativa o cualitativa operacionalizada que permite medir avance hacia el objetivo. Ejemplos: proporción de pacientes diabéticos controlados, tasa de mortalidad materna, culminación terapéutica de TB.",
+          "Meta: Valor cuantificado que el indicador debe alcanzar en un plazo. «Aumentar cobertura» es objetivo; «alcanzar 85% en 2028» puede ser meta. Verificar línea basal, factibilidad y calidad de fuente.",
+          "Acción estratégica: Intervención que contribuye a conseguir objetivo: expandir captación, seguimiento domiciliario, coordinación de referencia o teleorientación, por ejemplo.",
+          "Actividad operativa: Tarea concreta y programada: realizar sesiones, adquirir dispositivos, capacitar personal, registrar control de anemia. Tiene responsable, cronograma y presupuesto.",
+          "PEI versus POI: El Plan Estratégico Institucional establece orientación y objetivos de varios años; el Plan Operativo Institucional organiza actividades, producción institucional y programación de recursos. Una actividad no debe confundirse con el resultado final.",
+          "Resultados, productos e insumos: Resultado: cambio en condición de salud, bienestar o acceso. Producto: bien/servicio entregado (p. ej. consulta). Actividad: visitas y procedimientos. Insumo: personal, medicamento, presupuesto. Más consultas por sí solas no garantizan menos enfermedad.",
+          "Participación multisectorial: Las metas de salud dependen también de saneamiento, educación, transporte y comunidad. Definir objetivos de forma colegiada mejora pertinencia, pero cada actor necesita responsabilidades y seguimiento.",
+          "Ejemplo para I-4 altoandino: Diagnóstico: baja captación de gestantes antes de 14 semanas. Objetivo: incrementar atención prenatal oportuna. Indicador: proporción captadas antes de 14 semanas. Meta: valor factible y año. Acciones: seguimiento comunitario; actividades: visitas mensuales y registro de citas.",
+          "Criterios de buena formulación: Relevancia, claridad, consistencia con prioridades de la red, medibilidad, horizonte temporal, factibilidad y protección de equidad. Los indicadores deben tener ficha técnica, fuente y calidad verificables."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Análisis situacional describe hechos y brechas presentes; no denomina propiamente los resultados futuros que se espera lograr.",
+          "B": "Análisis estratégicos es actividad de estudio y selección de opciones, no enunciado de los resultados finales esperados.",
+          "C": "Clave del PDF. Los objetivos estratégicos expresan resultados y cambios sanitarios futuros deseados.",
+          "D": "Manual de operaciones describe la ejecución administrativa/procedimental, no la finalidad estratégica en salud."
+        },
+        "normativa": [
+          {
+            "nombre": "CEPLAN, Guía para el Planeamiento Institucional, actualización 2024",
+            "url": "https://www.gob.pe/institucion/ceplan/informes-publicaciones/5661161-guia-para-el-planeamiento-institucional-actualizada-2024",
+            "aplicacion": "Articula situación actual, futura deseada, PEI, POI y estrategia institucional."
+          },
+          {
+            "nombre": "CEPLAN, Guía para el planeamiento estratégico sectorial, 2024",
+            "url": "https://www.gob.pe/institucion/ceplan/informes-publicaciones/5771193-guia-para-el-planeamiento-estrategico-sectorial-actualizada-2024",
+            "aplicacion": "Planificación de escenarios y desarrollo de estrategia hacia situación futura."
+          },
+          {
+            "nombre": "MINSA, ejemplo institucional PEI",
+            "url": "https://www.gob.pe/institucion/minsa/informes-publicaciones/1067626-plan-estrategico-institucional-pei-del-ministerio-de-salud-periodo-2019-2023",
+            "aplicacion": "Ilustra vínculo entre objetivos estratégicos, actividades operativas y resultados."
+          }
+        ],
+        "mnemotecnia": "ASIS = FOTO del presente; OBJETIVO = DESTINO; INDICADOR = RELOJ/REGLA que mide; META = NÚMERO; POI = AGENDA. Imagina una ambulancia con un mapa: dónde estoy (ASIS), adónde voy (objetivo), distancia (indicador), llegar antes de 2028 (meta) y ruta de actividades (POI).",
+        "trampas": [
+          "«Condiciones futuras esperadas» es pista más fuerte que el simple hecho de reunirse.",
+          "Objetivo no equivale a meta cuantificada ni a actividad puntual.",
+          "Análisis situacional reconoce causas y brechas, no formula por sí solo el resultado futuro.",
+          "El manual de operaciones no sustituye PEI ni POI.",
+          "Más consultas no siempre significan resultado sanitario favorable.",
+          "Un objetivo sin indicador es difícil de evaluar; no confundir ambos conceptos.",
+          "La formulación participativa no garantiza logro sin recursos, roles y monitoreo."
+        ],
+        "perla": "ENCAPS 2026-II P28-C: expresar RESULTADOS DE SALUD FUTUROS DESEADOS = OBJETIVOS ESTRATÉGICOS; diagnóstico es presente, POI organiza actividades.",
+        "repaso_activo": [
+          {
+            "pregunta": "¿Qué clave se marca?",
+            "respuesta": "C, objetivos estratégicos."
+          },
+          {
+            "pregunta": "¿Qué describe análisis situacional?",
+            "respuesta": "Situación actual, problemas, brechas y determinantes."
+          },
+          {
+            "pregunta": "¿Qué expresa un objetivo?",
+            "respuesta": "Cambio o resultado deseado a futuro."
+          },
+          {
+            "pregunta": "¿Qué mide un indicador?",
+            "respuesta": "Avance verificable hacia un resultado."
+          },
+          {
+            "pregunta": "¿En qué se diferencia meta de objetivo?",
+            "respuesta": "Meta fija valor y plazo esperados de indicador; objetivo enuncia cambio."
+          },
+          {
+            "pregunta": "¿Qué instrumento programa actividades del año?",
+            "respuesta": "POI, en articulación con el PEI."
+          }
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Una red anuncia: «Reducir las complicaciones por diabetes en adultos de nuestra jurisdicción al final del período institucional». ¿Qué elemento de planeamiento es?",
+            "alternativas": {
+              "A": "Indicador de producción.",
+              "B": "Actividad de capacitación.",
+              "C": "Objetivo estratégico.",
+              "D": "Insumo presupuestal."
+            },
+            "respuesta": "C",
+            "explicacion": "Expresa cambio futuro de resultados en salud, no actividad o bien."
+          },
+          {
+            "enunciado": "El equipo escribe: «Realizar doce sesiones de capacitación para personal de salud entre enero y diciembre». ¿Qué representa principalmente?",
+            "alternativas": {
+              "A": "Visión de país.",
+              "B": "Resultado de salud final.",
+              "C": "Indicador de morbimortalidad.",
+              "D": "Actividad operativa programada."
+            },
+            "respuesta": "D",
+            "explicacion": "Es actividad con frecuencia y plazo; aún no determina si cambian resultados de salud."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Objetivos estratégicos: cambios futuros y resultados de salud deseados",
+          "eje": "CEPLAN y sistema SINAPLAN · PEI / POI · resultados e indicadores",
+          "confiabilidad": "Clave resaltada en PDF proporcionado, aún no cotejada con tabla oficial MINSA.",
+          "respuesta_resumida": "C. Objetivos estratégicos",
+          "razonamiento": [
+            "La respuesta C, OBJETIVOS ESTRATÉGICOS, coincide con la marca del examen. El enunciado habla de condiciones FUTURAS que se espera lograr y de enunciados claros y precisos de los RESULTADOS sanitarios esperados. Un objetivo estratégico expresa una situación o cambio deseado en la población, sistema o territorio dentro de un horizonte temporal.",
+            "El análisis situacional explica dónde estamos, por qué y con qué problemas o capacidades, mientras que formular objetivos expresa hacia dónde queremos llegar. Ejemplo situacional: «La continuidad del tratamiento de TB disminuyó de 92% a 78% en una RIS». Objetivo estratégico: «Mejorar la continuidad y culminación del tratamiento de TB en la población atendida». Indicador y meta concretan cómo medirlo (por ejemplo porcentaje de culminación y año meta).",
+            "Según las guías CEPLAN de planeamiento institucional, el PEI orienta la estrategia institucional para alcanzar resultados en la población, mientras el POI concreta las actividades y recursos de corto plazo que implementan esa estrategia. Los resultados son distintos de productos, acciones o insumos. Reunirse para elaborar una campaña no es un resultado de salud: es actividad.",
+            "Las opciones «análisis estratégicos» o «manual de operaciones» son distractores porque ninguna, tal como aparece, designa los cambios sanitarios que el equipo multisectorial espera lograr. El manual describe procesos, atribuciones o procedimientos operativos; no equivale al conjunto de resultados esperados."
+          ],
+          "temario": [
+            {
+              "subtitulo": "Planeamiento estratégico",
+              "texto": "Proceso organizado de evaluar realidad, definir futuro deseado, elegir objetivos y acciones, asignar recursos y seguir resultados. Integra decisiones sanitarias y multisectoriales para cerrar brechas."
+            },
+            {
+              "subtitulo": "Análisis situacional o diagnóstico",
+              "texto": "Describe problemas actuales por frecuencia, gravedad, territorio y determinantes, capacidades del EESS, limitaciones y oportunidades; puede usar ASIS, FODA, series históricas y entrevistas. No es todavía la declaración del cambio deseado."
+            },
+            {
+              "subtitulo": "Situación futura deseada",
+              "texto": "Imagen prospectiva factible de condiciones mejoradas. Orienta objetivos; no se formula como simple deseo vago, sino vinculada con problemas priorizados y evidencia de capacidad de acción."
+            },
+            {
+              "subtitulo": "Objetivo estratégico",
+              "texto": "Enunciado que indica un resultado o cambio significativo a alcanzar. Una buena formulación usa verbo apropiado y resultado verificable, por ejemplo «Reducir complicaciones prevenibles de diabetes en adultos de la provincia»."
+            },
+            {
+              "subtitulo": "Indicador",
+              "texto": "Variable cuantitativa o cualitativa operacionalizada que permite medir avance hacia el objetivo. Ejemplos: proporción de pacientes diabéticos controlados, tasa de mortalidad materna, culminación terapéutica de TB."
+            },
+            {
+              "subtitulo": "Meta",
+              "texto": "Valor cuantificado que el indicador debe alcanzar en un plazo. «Aumentar cobertura» es objetivo; «alcanzar 85% en 2028» puede ser meta. Verificar línea basal, factibilidad y calidad de fuente."
+            },
+            {
+              "subtitulo": "Acción estratégica",
+              "texto": "Intervención que contribuye a conseguir objetivo: expandir captación, seguimiento domiciliario, coordinación de referencia o teleorientación, por ejemplo."
+            },
+            {
+              "subtitulo": "Actividad operativa",
+              "texto": "Tarea concreta y programada: realizar sesiones, adquirir dispositivos, capacitar personal, registrar control de anemia. Tiene responsable, cronograma y presupuesto."
+            },
+            {
+              "subtitulo": "PEI versus POI",
+              "texto": "El Plan Estratégico Institucional establece orientación y objetivos de varios años; el Plan Operativo Institucional organiza actividades, producción institucional y programación de recursos. Una actividad no debe confundirse con el resultado final."
+            },
+            {
+              "subtitulo": "Resultados, productos e insumos",
+              "texto": "Resultado: cambio en condición de salud, bienestar o acceso. Producto: bien/servicio entregado (p. ej. consulta). Actividad: visitas y procedimientos. Insumo: personal, medicamento, presupuesto. Más consultas por sí solas no garantizan menos enfermedad."
+            },
+            {
+              "subtitulo": "Participación multisectorial",
+              "texto": "Las metas de salud dependen también de saneamiento, educación, transporte y comunidad. Definir objetivos de forma colegiada mejora pertinencia, pero cada actor necesita responsabilidades y seguimiento."
+            },
+            {
+              "subtitulo": "Ejemplo para I-4 altoandino",
+              "texto": "Diagnóstico: baja captación de gestantes antes de 14 semanas. Objetivo: incrementar atención prenatal oportuna. Indicador: proporción captadas antes de 14 semanas. Meta: valor factible y año. Acciones: seguimiento comunitario; actividades: visitas mensuales y registro de citas."
+            },
+            {
+              "subtitulo": "Criterios de buena formulación",
+              "texto": "Relevancia, claridad, consistencia con prioridades de la red, medibilidad, horizonte temporal, factibilidad y protección de equidad. Los indicadores deben tener ficha técnica, fuente y calidad verificables."
+            }
+          ],
+          "distractores": {
+            "A": "Análisis situacional describe hechos y brechas presentes; no denomina propiamente los resultados futuros que se espera lograr.",
+            "B": "Análisis estratégicos es actividad de estudio y selección de opciones, no enunciado de los resultados finales esperados.",
+            "C": "Clave del PDF. Los objetivos estratégicos expresan resultados y cambios sanitarios futuros deseados.",
+            "D": "Manual de operaciones describe la ejecución administrativa/procedimental, no la finalidad estratégica en salud."
+          },
+          "normativa": [
+            {
+              "nombre": "CEPLAN, Guía para el Planeamiento Institucional, actualización 2024",
+              "url": "https://www.gob.pe/institucion/ceplan/informes-publicaciones/5661161-guia-para-el-planeamiento-institucional-actualizada-2024",
+              "aplicacion": "Articula situación actual, futura deseada, PEI, POI y estrategia institucional."
+            },
+            {
+              "nombre": "CEPLAN, Guía para el planeamiento estratégico sectorial, 2024",
+              "url": "https://www.gob.pe/institucion/ceplan/informes-publicaciones/5771193-guia-para-el-planeamiento-estrategico-sectorial-actualizada-2024",
+              "aplicacion": "Planificación de escenarios y desarrollo de estrategia hacia situación futura."
+            },
+            {
+              "nombre": "MINSA, ejemplo institucional PEI",
+              "url": "https://www.gob.pe/institucion/minsa/informes-publicaciones/1067626-plan-estrategico-institucional-pei-del-ministerio-de-salud-periodo-2019-2023",
+              "aplicacion": "Ilustra vínculo entre objetivos estratégicos, actividades operativas y resultados."
+            }
+          ],
+          "mnemotecnia": "ASIS = FOTO del presente; OBJETIVO = DESTINO; INDICADOR = RELOJ/REGLA que mide; META = NÚMERO; POI = AGENDA. Imagina una ambulancia con un mapa: dónde estoy (ASIS), adónde voy (objetivo), distancia (indicador), llegar antes de 2028 (meta) y ruta de actividades (POI).",
+          "trampas": [
+            "«Condiciones futuras esperadas» es pista más fuerte que el simple hecho de reunirse.",
+            "Objetivo no equivale a meta cuantificada ni a actividad puntual.",
+            "Análisis situacional reconoce causas y brechas, no formula por sí solo el resultado futuro.",
+            "El manual de operaciones no sustituye PEI ni POI.",
+            "Más consultas no siempre significan resultado sanitario favorable.",
+            "Un objetivo sin indicador es difícil de evaluar; no confundir ambos conceptos.",
+            "La formulación participativa no garantiza logro sin recursos, roles y monitoreo."
+          ],
+          "perla": "ENCAPS 2026-II P28-C: expresar RESULTADOS DE SALUD FUTUROS DESEADOS = OBJETIVOS ESTRATÉGICOS; diagnóstico es presente, POI organiza actividades.",
+          "repaso_activo": [
+            {
+              "pregunta": "¿Qué clave se marca?",
+              "respuesta": "C, objetivos estratégicos."
+            },
+            {
+              "pregunta": "¿Qué describe análisis situacional?",
+              "respuesta": "Situación actual, problemas, brechas y determinantes."
+            },
+            {
+              "pregunta": "¿Qué expresa un objetivo?",
+              "respuesta": "Cambio o resultado deseado a futuro."
+            },
+            {
+              "pregunta": "¿Qué mide un indicador?",
+              "respuesta": "Avance verificable hacia un resultado."
+            },
+            {
+              "pregunta": "¿En qué se diferencia meta de objetivo?",
+              "respuesta": "Meta fija valor y plazo esperados de indicador; objetivo enuncia cambio."
+            },
+            {
+              "pregunta": "¿Qué instrumento programa actividades del año?",
+              "respuesta": "POI, en articulación con el PEI."
+            }
+          ],
+          "refuerzo": [
+            {
+              "enunciado": "Una red anuncia: «Reducir las complicaciones por diabetes en adultos de nuestra jurisdicción al final del período institucional». ¿Qué elemento de planeamiento es?",
+              "alternativas": {
+                "A": "Indicador de producción.",
+                "B": "Actividad de capacitación.",
+                "C": "Objetivo estratégico.",
+                "D": "Insumo presupuestal."
+              },
+              "respuesta": "C",
+              "explicacion": "Expresa cambio futuro de resultados en salud, no actividad o bien."
+            },
+            {
+              "enunciado": "El equipo escribe: «Realizar doce sesiones de capacitación para personal de salud entre enero y diciembre». ¿Qué representa principalmente?",
+              "alternativas": {
+                "A": "Visión de país.",
+                "B": "Resultado de salud final.",
+                "C": "Indicador de morbimortalidad.",
+                "D": "Actividad operativa programada."
+              },
+              "respuesta": "D",
+              "explicacion": "Es actividad con frecuencia y plazo; aún no determina si cambian resultados de salud."
+            }
+          ]
+        }
+      }
     },
     {
       "number": 29,
       "code": "ENCAPS26-II P029",
-      "course": "ENCAPS Medicina · Por desarrollar",
-      "topic": "ENCAPS Medicina 2026-II",
+      "course": "Interculturalidad · Epidemiología y equidad",
+      "topic": "Registro de pertenencia étnica para analizar inequidades en salud",
       "question": "En el siglo XX en los registros civiles; se retiró la categoría “raza” para visibilizar a los indígenas dentro del sistema de salud y otras prestaciones del estado. Al no incluirse la pertenencia ...... en los registros de los servicios de salud, se torna imposible distinguir dentro de los agregados epidemiológicos, el estado de salud de la población indígena.",
       "options": {
         "A": "étnica",
@@ -6676,12 +6936,264 @@
         "D": "religiosa 09 de agosto 2026 Página 3 de 11"
       },
       "correct": "A",
-      "comment": "Tema pendiente de desarrollo detallado. La alternativa correcta indicada es la resaltada en el PDF del usuario; todavía no se ha cotejado independientemente contra el listado oficial de claves del MINSA.",
-      "pearl": "",
-      "keywords": [],
-      "estadoDesarrollo": "pendiente",
+      "comment": "A. étnica\n\nLa respuesta resaltada es A, pertenencia ÉTNICA. El enunciado señala que no registrar esta pertenencia impide separar datos epidemiológicos agregados de poblaciones indígenas y no indígenas. La variable es clave para identificar desigualdades de acceso, morbilidad, mortalidad o continuidad en la atención.\n\nLa Directiva Administrativa N.º 240-MINSA/2017/INS, aprobada por RM N.º 975-2017/MINSA, regula el registro de la pertenencia étnica en sistemas de información sanitaria y destaca el respeto a la diversidad étnica e información estadística diferenciada para políticas dirigidas a pueblos indígenas/originarios y población afroperuana. La pregunta no pretende reemplazar raza por una etiqueta biológica: aborda un registro social-cultural pertinente.\n\nEs importante distinguir pertenencia étnica de características físicas, color de piel, apellido, vestimenta o una lengua que el trabajador atribuya de forma automática. Se debe usar el criterio de autoidentificación/autoadscripción de la persona dentro de las categorías e instrumentos oficiales, con comunicación comprensible, protección de datos y sin discriminación.\n\nLa pregunta contiene una afirmación histórica acerca de la categoría «raza» en registros civiles del siglo XX. Ese relato se mantiene como parte del enunciado proporcionado, pero no se convierte por sí solo en un hecho histórico independiente verificado aquí. La respuesta exige completar «pertenencia étnica» y justificar su utilidad epidemiológica.\n\nEjemplo: un informe distrital calcula cobertura de control de hipertensión. Si no se registra pertenencia étnica, no puede detectar diferencias sistemáticas entre pueblos o poblaciones de autoidentificación diferenciada, aun cuando puedan existir barreras idiomáticas, geográficas o culturales. Desagregar es condición necesaria, no suficiente: se requiere calidad, denominadores y confidencialidad.\n\nPertenencia étnica: Vínculo subjetivo y social con un pueblo o colectivo étnico conforme a autoidentificación, historia, prácticas y pertenencia reconocida. No es una categoría biológica que pueda deducirse por fenotipo o por diagnóstico.\n\nDirectiva 240-MINSA/2017/INS: Regula el proceso de registro de pertenencia étnica en sistemas de información sanitaria de instituciones públicas y privadas en Perú. Busca estadística desagregada útil para políticas interculturales y equitativas.\n\nAutoidentificación: La respuesta debe provenir de la propia persona, formulada con lenguaje comprensible, opciones oficialmente definidas y respeto de la posibilidad de no declarar según reglas aplicables; evitar atribución basada en apellido, apariencia, región o vestimenta.\n\n¿Por qué no «raza»?: Las clasificaciones raciales históricas han tenido usos discriminatorios y no equivalen a pertenencia cultural y social. El objetivo epidemiológico es identificar inequidades estructurales, no inferir un riesgo genético a partir de una etiqueta étnica.\n\nVariable «cultural»: Es un adjetivo amplio que puede describir hábitos, prácticas o valores, pero el registro sanitario de la directiva exige la categoría específica «pertenencia étnica».\n\nIdentidad personal: Se refiere a múltiples características de la persona (individuales, sociales, etc.). «Pertenencia étnica» es una dimensión particular para análisis de desigualdades de salud.\n\nIdentidad lingüística: Lengua materna facilita comunicación y pertinencia cultural, pero no reemplaza autoidentificación étnica. Una persona indígena puede tener español como primera lengua o manejar varias.\n\nRegistro adecuado en EESS: Plantear pregunta conforme a formulario oficial, respetar respuesta, codificar de forma consistente, revisar completitud y calidad, mantener acceso limitado a datos sensibles y usar información solo para finalidades legítimas.\n\nIndicadores y denominadores: Al desagregar prevalencia de anemia o cobertura prenatal por pertenencia étnica, usar denominadores coherentes y considerar subregistro, errores de clasificación y tamaño de subgrupos. Evitar sacar conclusiones de números pequeños sin incertidumbre.\n\nAplicación de equidad: Identificar brechas en acceso prenatal, TB, anemia, vacunación, atención de salud mental y continuidad, y diseñar servicios adaptados con intérpretes, agentes comunitarios y coordinación territorial.\n\nInterculturalidad clínica: Aproximación respetuosa a las creencias, lengua, prácticas y preferencias del paciente, sin estereotiparlo por etiqueta étnica. Información suficiente, consentimiento, pertinencia lingüística y trato sin discriminación.\n\nÉtica de datos: Evitar identificación indirecta en comunidades pequeñas: tablas con celdas diminutas, nombres y diagnósticos pueden revelar información personal. Limitar uso y publicación a resultados agregados seguros.\n\nTrampa de examen: La frase «al no incluirse la pertenencia ____» apunta al término formal de la directiva. No confundir con identidad general, religión o cultura a secas.\n\nA: Clave PDF: la pertenencia étnica es variable explícita que permite estadísticas de salud desagregadas.\n\nB: Cultural es categoría amplia de costumbres/prácticas, no el nombre exacto del registro normado.\n\nC: Identidad por sí sola es demasiado genérica: la expresión técnica solicitada es pertenencia étnica.\n\nD: Religiosa no permite distinguir pueblos indígenas conforme a la variable sanitaria; además es dato diferente que exige respeto a privacidad.\n\nMINSA, RM N.º 975-2017/MINSA — https://www.gob.pe/institucion/minsa/normas-legales/188187-975-2017-minsa\n\nMINSA, publicación de la directiva sobre pertenencia étnica — https://www.gob.pe/institucion/minsa/informes-publicaciones/314036-directiva-administrativa-para-el-registro-de-la-pertenencia-etnica-en-el-sistema-de-informacion-de-salud\n\nMNEMOTECNIA ÉTNICA = E de ESTADÍSTICA DIFERENCIADA. Imagina un mapa de Puno con colores de registros VOLUNTARIOS, y una pantalla que revela brechas de vacunación. Preguntar a la persona, nunca adivinar por su ropa.\n\nTRAMPA «Raza» y pertenencia étnica no son intercambiables.\n\nTRAMPA No inferir pertenencia étnica por lengua, apellido, vestimenta o rasgos físicos.\n\nTRAMPA Idioma materno y pertenencia étnica son variables diferentes, aunque puedan relacionarse.\n\nTRAMPA Una variable incompleta o codificada erróneamente puede generar inequidades invisibles.\n\nTRAMPA Desagregar datos no debe permitir identificar pacientes individuales.\n\nTRAMPA Una pertenencia étnica no determina por sí sola comportamientos o diagnósticos de la persona.\n\nTRAMPA El relato histórico sobre eliminación de «raza» pertenece al enunciado; aquí se verifica la directiva sanitaria, no toda la cronología.\n\nPERLA ENCAPS 2026-II P29-A: sin registro de PERTENENCIA ÉTNICA no se pueden visibilizar brechas de salud de pueblos indígenas en estadísticas agregadas.\n\n¿Cuál es el término que completa «pertenencia ___»? → Étnica.\n\n¿Qué número de Directiva MINSA regula el registro? → 240-MINSA/2017/INS.\n\n¿Qué RM la aprueba? → RM 975-2017/MINSA.\n\n¿Puede el trabajador asignar etnicidad por apariencia? → No; respetar autoidentificación.\n\n¿Idioma materno equivale a etnicidad? → No, son variables distintas.\n\n¿Para qué se desagregan indicadores? → Identificar inequidades y orientar políticas pertinentes.\n\nEl personal presume que una paciente se identifica como quechua por su apellido, sin preguntarle, y registra esa opción. ¿Cuál es el error principal? CLAVE D La pertenencia étnica debe recogerse de forma respetuosa según las reglas de autorreconocimiento.\n\nUna DIRESA quiere estudiar brechas de control prenatal entre grupos autoidentificados, pero el HIS no tiene el campo étnico. ¿Qué acción técnica es prioritaria? CLAVE A Sin variable validada no es posible calcular los indicadores desagregados; privacidad y calidad son fundamentales.",
+      "pearl": "ENCAPS 2026-II P29-A: sin registro de PERTENENCIA ÉTNICA no se pueden visibilizar brechas de salud de pueblos indígenas en estadísticas agregadas.",
+      "keywords": [
+        "pertenencia étnica",
+        "pueblos indígenas",
+        "registro de salud",
+        "identificación étnica",
+        "autodefinición",
+        "interculturalidad",
+        "HIS",
+        "equidad"
+      ],
+      "estadoDesarrollo": "completo",
       "estadoClave": "resaltada_en_pdf_usuario_no_cotejada_independientemente_con_tabla_minsa",
-      "lesson": null
+      "lesson": {
+        "respuesta_resumida": "A. étnica",
+        "razonamiento": "La respuesta resaltada es A, pertenencia ÉTNICA. El enunciado señala que no registrar esta pertenencia impide separar datos epidemiológicos agregados de poblaciones indígenas y no indígenas. La variable es clave para identificar desigualdades de acceso, morbilidad, mortalidad o continuidad en la atención.\n\nLa Directiva Administrativa N.º 240-MINSA/2017/INS, aprobada por RM N.º 975-2017/MINSA, regula el registro de la pertenencia étnica en sistemas de información sanitaria y destaca el respeto a la diversidad étnica e información estadística diferenciada para políticas dirigidas a pueblos indígenas/originarios y población afroperuana. La pregunta no pretende reemplazar raza por una etiqueta biológica: aborda un registro social-cultural pertinente.\n\nEs importante distinguir pertenencia étnica de características físicas, color de piel, apellido, vestimenta o una lengua que el trabajador atribuya de forma automática. Se debe usar el criterio de autoidentificación/autoadscripción de la persona dentro de las categorías e instrumentos oficiales, con comunicación comprensible, protección de datos y sin discriminación.\n\nLa pregunta contiene una afirmación histórica acerca de la categoría «raza» en registros civiles del siglo XX. Ese relato se mantiene como parte del enunciado proporcionado, pero no se convierte por sí solo en un hecho histórico independiente verificado aquí. La respuesta exige completar «pertenencia étnica» y justificar su utilidad epidemiológica.\n\nEjemplo: un informe distrital calcula cobertura de control de hipertensión. Si no se registra pertenencia étnica, no puede detectar diferencias sistemáticas entre pueblos o poblaciones de autoidentificación diferenciada, aun cuando puedan existir barreras idiomáticas, geográficas o culturales. Desagregar es condición necesaria, no suficiente: se requiere calidad, denominadores y confidencialidad.",
+        "temario": [
+          "Pertenencia étnica: Vínculo subjetivo y social con un pueblo o colectivo étnico conforme a autoidentificación, historia, prácticas y pertenencia reconocida. No es una categoría biológica que pueda deducirse por fenotipo o por diagnóstico.",
+          "Directiva 240-MINSA/2017/INS: Regula el proceso de registro de pertenencia étnica en sistemas de información sanitaria de instituciones públicas y privadas en Perú. Busca estadística desagregada útil para políticas interculturales y equitativas.",
+          "Autoidentificación: La respuesta debe provenir de la propia persona, formulada con lenguaje comprensible, opciones oficialmente definidas y respeto de la posibilidad de no declarar según reglas aplicables; evitar atribución basada en apellido, apariencia, región o vestimenta.",
+          "¿Por qué no «raza»?: Las clasificaciones raciales históricas han tenido usos discriminatorios y no equivalen a pertenencia cultural y social. El objetivo epidemiológico es identificar inequidades estructurales, no inferir un riesgo genético a partir de una etiqueta étnica.",
+          "Variable «cultural»: Es un adjetivo amplio que puede describir hábitos, prácticas o valores, pero el registro sanitario de la directiva exige la categoría específica «pertenencia étnica».",
+          "Identidad personal: Se refiere a múltiples características de la persona (individuales, sociales, etc.). «Pertenencia étnica» es una dimensión particular para análisis de desigualdades de salud.",
+          "Identidad lingüística: Lengua materna facilita comunicación y pertinencia cultural, pero no reemplaza autoidentificación étnica. Una persona indígena puede tener español como primera lengua o manejar varias.",
+          "Registro adecuado en EESS: Plantear pregunta conforme a formulario oficial, respetar respuesta, codificar de forma consistente, revisar completitud y calidad, mantener acceso limitado a datos sensibles y usar información solo para finalidades legítimas.",
+          "Indicadores y denominadores: Al desagregar prevalencia de anemia o cobertura prenatal por pertenencia étnica, usar denominadores coherentes y considerar subregistro, errores de clasificación y tamaño de subgrupos. Evitar sacar conclusiones de números pequeños sin incertidumbre.",
+          "Aplicación de equidad: Identificar brechas en acceso prenatal, TB, anemia, vacunación, atención de salud mental y continuidad, y diseñar servicios adaptados con intérpretes, agentes comunitarios y coordinación territorial.",
+          "Interculturalidad clínica: Aproximación respetuosa a las creencias, lengua, prácticas y preferencias del paciente, sin estereotiparlo por etiqueta étnica. Información suficiente, consentimiento, pertinencia lingüística y trato sin discriminación.",
+          "Ética de datos: Evitar identificación indirecta en comunidades pequeñas: tablas con celdas diminutas, nombres y diagnósticos pueden revelar información personal. Limitar uso y publicación a resultados agregados seguros.",
+          "Trampa de examen: La frase «al no incluirse la pertenencia ____» apunta al término formal de la directiva. No confundir con identidad general, religión o cultura a secas."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Clave PDF: la pertenencia étnica es variable explícita que permite estadísticas de salud desagregadas.",
+          "B": "Cultural es categoría amplia de costumbres/prácticas, no el nombre exacto del registro normado.",
+          "C": "Identidad por sí sola es demasiado genérica: la expresión técnica solicitada es pertenencia étnica.",
+          "D": "Religiosa no permite distinguir pueblos indígenas conforme a la variable sanitaria; además es dato diferente que exige respeto a privacidad."
+        },
+        "normativa": [
+          {
+            "nombre": "MINSA, RM N.º 975-2017/MINSA",
+            "url": "https://www.gob.pe/institucion/minsa/normas-legales/188187-975-2017-minsa",
+            "aplicacion": "Aprueba Directiva Administrativa N.º 240-MINSA/2017/INS para registro de pertenencia étnica."
+          },
+          {
+            "nombre": "MINSA, publicación de la directiva sobre pertenencia étnica",
+            "url": "https://www.gob.pe/institucion/minsa/informes-publicaciones/314036-directiva-administrativa-para-el-registro-de-la-pertenencia-etnica-en-el-sistema-de-informacion-de-salud",
+            "aplicacion": "Explica finalidad estadística diferenciada, pertinencia cultural y respeto de derechos."
+          }
+        ],
+        "mnemotecnia": "ÉTNICA = E de ESTADÍSTICA DIFERENCIADA. Imagina un mapa de Puno con colores de registros VOLUNTARIOS, y una pantalla que revela brechas de vacunación. Preguntar a la persona, nunca adivinar por su ropa.",
+        "trampas": [
+          "«Raza» y pertenencia étnica no son intercambiables.",
+          "No inferir pertenencia étnica por lengua, apellido, vestimenta o rasgos físicos.",
+          "Idioma materno y pertenencia étnica son variables diferentes, aunque puedan relacionarse.",
+          "Una variable incompleta o codificada erróneamente puede generar inequidades invisibles.",
+          "Desagregar datos no debe permitir identificar pacientes individuales.",
+          "Una pertenencia étnica no determina por sí sola comportamientos o diagnósticos de la persona.",
+          "El relato histórico sobre eliminación de «raza» pertenece al enunciado; aquí se verifica la directiva sanitaria, no toda la cronología."
+        ],
+        "perla": "ENCAPS 2026-II P29-A: sin registro de PERTENENCIA ÉTNICA no se pueden visibilizar brechas de salud de pueblos indígenas en estadísticas agregadas.",
+        "repaso_activo": [
+          {
+            "pregunta": "¿Cuál es el término que completa «pertenencia ___»?",
+            "respuesta": "Étnica."
+          },
+          {
+            "pregunta": "¿Qué número de Directiva MINSA regula el registro?",
+            "respuesta": "240-MINSA/2017/INS."
+          },
+          {
+            "pregunta": "¿Qué RM la aprueba?",
+            "respuesta": "RM 975-2017/MINSA."
+          },
+          {
+            "pregunta": "¿Puede el trabajador asignar etnicidad por apariencia?",
+            "respuesta": "No; respetar autoidentificación."
+          },
+          {
+            "pregunta": "¿Idioma materno equivale a etnicidad?",
+            "respuesta": "No, son variables distintas."
+          },
+          {
+            "pregunta": "¿Para qué se desagregan indicadores?",
+            "respuesta": "Identificar inequidades y orientar políticas pertinentes."
+          }
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "El personal presume que una paciente se identifica como quechua por su apellido, sin preguntarle, y registra esa opción. ¿Cuál es el error principal?",
+            "alternativas": {
+              "A": "No medir talla.",
+              "B": "No estimar incidencia.",
+              "C": "Preguntar sobre lengua castellana.",
+              "D": "Sustituir la autoidentificación por una atribución externa."
+            },
+            "respuesta": "D",
+            "explicacion": "La pertenencia étnica debe recogerse de forma respetuosa según las reglas de autorreconocimiento."
+          },
+          {
+            "enunciado": "Una DIRESA quiere estudiar brechas de control prenatal entre grupos autoidentificados, pero el HIS no tiene el campo étnico. ¿Qué acción técnica es prioritaria?",
+            "alternativas": {
+              "A": "Implementar registro estandarizado de pertenencia étnica y evaluar calidad de los datos.",
+              "B": "Inferir etnicidad por DNI.",
+              "C": "Usar grupo sanguíneo como sustituto.",
+              "D": "Publicar nombres y diagnósticos de todas las gestantes."
+            },
+            "respuesta": "A",
+            "explicacion": "Sin variable validada no es posible calcular los indicadores desagregados; privacidad y calidad son fundamentales."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Registro de pertenencia étnica para analizar inequidades en salud",
+          "eje": "Directiva Administrativa N.º 240-MINSA/2017/INS · Autoadscripción",
+          "confiabilidad": "Clave resaltada en PDF proporcionado, aún no cotejada con tabla oficial MINSA.",
+          "respuesta_resumida": "A. étnica",
+          "razonamiento": [
+            "La respuesta resaltada es A, pertenencia ÉTNICA. El enunciado señala que no registrar esta pertenencia impide separar datos epidemiológicos agregados de poblaciones indígenas y no indígenas. La variable es clave para identificar desigualdades de acceso, morbilidad, mortalidad o continuidad en la atención.",
+            "La Directiva Administrativa N.º 240-MINSA/2017/INS, aprobada por RM N.º 975-2017/MINSA, regula el registro de la pertenencia étnica en sistemas de información sanitaria y destaca el respeto a la diversidad étnica e información estadística diferenciada para políticas dirigidas a pueblos indígenas/originarios y población afroperuana. La pregunta no pretende reemplazar raza por una etiqueta biológica: aborda un registro social-cultural pertinente.",
+            "Es importante distinguir pertenencia étnica de características físicas, color de piel, apellido, vestimenta o una lengua que el trabajador atribuya de forma automática. Se debe usar el criterio de autoidentificación/autoadscripción de la persona dentro de las categorías e instrumentos oficiales, con comunicación comprensible, protección de datos y sin discriminación.",
+            "La pregunta contiene una afirmación histórica acerca de la categoría «raza» en registros civiles del siglo XX. Ese relato se mantiene como parte del enunciado proporcionado, pero no se convierte por sí solo en un hecho histórico independiente verificado aquí. La respuesta exige completar «pertenencia étnica» y justificar su utilidad epidemiológica.",
+            "Ejemplo: un informe distrital calcula cobertura de control de hipertensión. Si no se registra pertenencia étnica, no puede detectar diferencias sistemáticas entre pueblos o poblaciones de autoidentificación diferenciada, aun cuando puedan existir barreras idiomáticas, geográficas o culturales. Desagregar es condición necesaria, no suficiente: se requiere calidad, denominadores y confidencialidad."
+          ],
+          "temario": [
+            {
+              "subtitulo": "Pertenencia étnica",
+              "texto": "Vínculo subjetivo y social con un pueblo o colectivo étnico conforme a autoidentificación, historia, prácticas y pertenencia reconocida. No es una categoría biológica que pueda deducirse por fenotipo o por diagnóstico."
+            },
+            {
+              "subtitulo": "Directiva 240-MINSA/2017/INS",
+              "texto": "Regula el proceso de registro de pertenencia étnica en sistemas de información sanitaria de instituciones públicas y privadas en Perú. Busca estadística desagregada útil para políticas interculturales y equitativas."
+            },
+            {
+              "subtitulo": "Autoidentificación",
+              "texto": "La respuesta debe provenir de la propia persona, formulada con lenguaje comprensible, opciones oficialmente definidas y respeto de la posibilidad de no declarar según reglas aplicables; evitar atribución basada en apellido, apariencia, región o vestimenta."
+            },
+            {
+              "subtitulo": "¿Por qué no «raza»?",
+              "texto": "Las clasificaciones raciales históricas han tenido usos discriminatorios y no equivalen a pertenencia cultural y social. El objetivo epidemiológico es identificar inequidades estructurales, no inferir un riesgo genético a partir de una etiqueta étnica."
+            },
+            {
+              "subtitulo": "Variable «cultural»",
+              "texto": "Es un adjetivo amplio que puede describir hábitos, prácticas o valores, pero el registro sanitario de la directiva exige la categoría específica «pertenencia étnica»."
+            },
+            {
+              "subtitulo": "Identidad personal",
+              "texto": "Se refiere a múltiples características de la persona (individuales, sociales, etc.). «Pertenencia étnica» es una dimensión particular para análisis de desigualdades de salud."
+            },
+            {
+              "subtitulo": "Identidad lingüística",
+              "texto": "Lengua materna facilita comunicación y pertinencia cultural, pero no reemplaza autoidentificación étnica. Una persona indígena puede tener español como primera lengua o manejar varias."
+            },
+            {
+              "subtitulo": "Registro adecuado en EESS",
+              "texto": "Plantear pregunta conforme a formulario oficial, respetar respuesta, codificar de forma consistente, revisar completitud y calidad, mantener acceso limitado a datos sensibles y usar información solo para finalidades legítimas."
+            },
+            {
+              "subtitulo": "Indicadores y denominadores",
+              "texto": "Al desagregar prevalencia de anemia o cobertura prenatal por pertenencia étnica, usar denominadores coherentes y considerar subregistro, errores de clasificación y tamaño de subgrupos. Evitar sacar conclusiones de números pequeños sin incertidumbre."
+            },
+            {
+              "subtitulo": "Aplicación de equidad",
+              "texto": "Identificar brechas en acceso prenatal, TB, anemia, vacunación, atención de salud mental y continuidad, y diseñar servicios adaptados con intérpretes, agentes comunitarios y coordinación territorial."
+            },
+            {
+              "subtitulo": "Interculturalidad clínica",
+              "texto": "Aproximación respetuosa a las creencias, lengua, prácticas y preferencias del paciente, sin estereotiparlo por etiqueta étnica. Información suficiente, consentimiento, pertinencia lingüística y trato sin discriminación."
+            },
+            {
+              "subtitulo": "Ética de datos",
+              "texto": "Evitar identificación indirecta en comunidades pequeñas: tablas con celdas diminutas, nombres y diagnósticos pueden revelar información personal. Limitar uso y publicación a resultados agregados seguros."
+            },
+            {
+              "subtitulo": "Trampa de examen",
+              "texto": "La frase «al no incluirse la pertenencia ____» apunta al término formal de la directiva. No confundir con identidad general, religión o cultura a secas."
+            }
+          ],
+          "distractores": {
+            "A": "Clave PDF: la pertenencia étnica es variable explícita que permite estadísticas de salud desagregadas.",
+            "B": "Cultural es categoría amplia de costumbres/prácticas, no el nombre exacto del registro normado.",
+            "C": "Identidad por sí sola es demasiado genérica: la expresión técnica solicitada es pertenencia étnica.",
+            "D": "Religiosa no permite distinguir pueblos indígenas conforme a la variable sanitaria; además es dato diferente que exige respeto a privacidad."
+          },
+          "normativa": [
+            {
+              "nombre": "MINSA, RM N.º 975-2017/MINSA",
+              "url": "https://www.gob.pe/institucion/minsa/normas-legales/188187-975-2017-minsa",
+              "aplicacion": "Aprueba Directiva Administrativa N.º 240-MINSA/2017/INS para registro de pertenencia étnica."
+            },
+            {
+              "nombre": "MINSA, publicación de la directiva sobre pertenencia étnica",
+              "url": "https://www.gob.pe/institucion/minsa/informes-publicaciones/314036-directiva-administrativa-para-el-registro-de-la-pertenencia-etnica-en-el-sistema-de-informacion-de-salud",
+              "aplicacion": "Explica finalidad estadística diferenciada, pertinencia cultural y respeto de derechos."
+            }
+          ],
+          "mnemotecnia": "ÉTNICA = E de ESTADÍSTICA DIFERENCIADA. Imagina un mapa de Puno con colores de registros VOLUNTARIOS, y una pantalla que revela brechas de vacunación. Preguntar a la persona, nunca adivinar por su ropa.",
+          "trampas": [
+            "«Raza» y pertenencia étnica no son intercambiables.",
+            "No inferir pertenencia étnica por lengua, apellido, vestimenta o rasgos físicos.",
+            "Idioma materno y pertenencia étnica son variables diferentes, aunque puedan relacionarse.",
+            "Una variable incompleta o codificada erróneamente puede generar inequidades invisibles.",
+            "Desagregar datos no debe permitir identificar pacientes individuales.",
+            "Una pertenencia étnica no determina por sí sola comportamientos o diagnósticos de la persona.",
+            "El relato histórico sobre eliminación de «raza» pertenece al enunciado; aquí se verifica la directiva sanitaria, no toda la cronología."
+          ],
+          "perla": "ENCAPS 2026-II P29-A: sin registro de PERTENENCIA ÉTNICA no se pueden visibilizar brechas de salud de pueblos indígenas en estadísticas agregadas.",
+          "repaso_activo": [
+            {
+              "pregunta": "¿Cuál es el término que completa «pertenencia ___»?",
+              "respuesta": "Étnica."
+            },
+            {
+              "pregunta": "¿Qué número de Directiva MINSA regula el registro?",
+              "respuesta": "240-MINSA/2017/INS."
+            },
+            {
+              "pregunta": "¿Qué RM la aprueba?",
+              "respuesta": "RM 975-2017/MINSA."
+            },
+            {
+              "pregunta": "¿Puede el trabajador asignar etnicidad por apariencia?",
+              "respuesta": "No; respetar autoidentificación."
+            },
+            {
+              "pregunta": "¿Idioma materno equivale a etnicidad?",
+              "respuesta": "No, son variables distintas."
+            },
+            {
+              "pregunta": "¿Para qué se desagregan indicadores?",
+              "respuesta": "Identificar inequidades y orientar políticas pertinentes."
+            }
+          ],
+          "refuerzo": [
+            {
+              "enunciado": "El personal presume que una paciente se identifica como quechua por su apellido, sin preguntarle, y registra esa opción. ¿Cuál es el error principal?",
+              "alternativas": {
+                "A": "No medir talla.",
+                "B": "No estimar incidencia.",
+                "C": "Preguntar sobre lengua castellana.",
+                "D": "Sustituir la autoidentificación por una atribución externa."
+              },
+              "respuesta": "D",
+              "explicacion": "La pertenencia étnica debe recogerse de forma respetuosa según las reglas de autorreconocimiento."
+            },
+            {
+              "enunciado": "Una DIRESA quiere estudiar brechas de control prenatal entre grupos autoidentificados, pero el HIS no tiene el campo étnico. ¿Qué acción técnica es prioritaria?",
+              "alternativas": {
+                "A": "Implementar registro estandarizado de pertenencia étnica y evaluar calidad de los datos.",
+                "B": "Inferir etnicidad por DNI.",
+                "C": "Usar grupo sanguíneo como sustituto.",
+                "D": "Publicar nombres y diagnósticos de todas las gestantes."
+              },
+              "respuesta": "A",
+              "explicacion": "Sin variable validada no es posible calcular los indicadores desagregados; privacidad y calidad son fundamentales."
+            }
+          ]
+        }
+      }
     },
     {
       "number": 30,
