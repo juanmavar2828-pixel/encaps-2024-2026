@@ -7471,8 +7471,8 @@
     {
       "number": 31,
       "code": "ENCAPS26-II P031",
-      "course": "ENCAPS Medicina · Por desarrollar",
-      "topic": "ENCAPS Medicina 2026-II",
+      "course": "Pediatría · Enfermedades inmunoprevenibles",
+      "topic": "Sarampión: manchas de Koplik, vitamina A y prevención de complicaciones",
       "question": "Mujer de 18 meses presenta desde hace 4 días alza térmica, rinitis, inyección conjuntival y exantema. Antecedentes: parto eutócico, sin cobertura vacunal, hija de migrantes. Examen: FC: 100X', FR: 20X', T°: 37°C; Sa02: 98%. Exantema maculo-papular confluente en cara cuello, rinorrea y congestión ocular; cavidad oral: manchas de Koplik. Según su diagnóstico clínico más probable. ¿Cuál es la intervención prioritaria para evitar secuelas?",
       "options": {
         "A": "Antivirales",
@@ -7481,18 +7481,305 @@
         "D": "Vitamina B12"
       },
       "correct": "C",
-      "comment": "Tema pendiente de desarrollo detallado. La alternativa correcta indicada es la resaltada en el PDF del usuario; todavía no se ha cotejado independientemente contra el listado oficial de claves del MINSA.",
-      "pearl": "",
-      "keywords": [],
-      "estadoDesarrollo": "pendiente",
+      "comment": "CLAVE: C. Vitamina A retinol\n\nEl PDF resalta C, VITAMINA A (RETINOL). Niña de 18 meses no vacunada con fiebre previa, rinitis, conjuntivitis y exantema maculopapular confluente de predominio cefálico, más manchas de Koplik. La combinación es altamente sugestiva de sarampión clínico, aunque se requiere confirmación conforme a vigilancia. El examen pregunta por intervención para evitar secuelas, no por profilaxis de contactos.\n\nLa OMS recomienda vitamina A para niños menores de cinco años con sarampión sospechado o confirmado porque puede reducir complicaciones, daño ocular y mortalidad, además de restaurar niveles deprimidos durante la infección. Según recomendaciones OMS/CDC, para una niña de 18 meses se utilizan 200 000 UI por vía oral al diagnóstico y 200 000 UI al día siguiente bajo supervisión médica. La dosis corresponde a tratamiento de la infección; no es una pauta preventiva doméstica.\n\nEl sarampión no tiene un antiviral específico de uso habitual con beneficio clínico establecido. La inmunoglobulina sirve para profilaxis posexposición de ciertos contactos susceptibles de alto riesgo, dentro de plazo indicado; no reemplaza vitamina A cuando el niño ya desarrolla sarampión. Vitamina B12 no previene la queratitis, ceguera ni otras complicaciones relacionadas con deficiencia funcional de vitamina A.\n\nLa prioridad práctica también incluye aislamiento respiratorio, notificación/investigación inmediata según definición, hidratación, búsqueda de signos de neumonía, deshidratación, compromiso neurológico y evaluación de contactos y vacunación. No administrar vacuna como tratamiento curativo de la niña con enfermedad activa.\n\nNota de fuentes: una edición antigua del Formulario Nacional de Medicamentos Esenciales peruano describe dosis única de retinol para sarampión, mientras guías OMS/CDC actuales recomiendan dos dosis separadas por 24 horas. Para un paciente real se consulta la NTS peruana vigente y protocolo local; la clave C no depende de resolver aquí esa diferencia posológica.\n\nTríada catarral: Las «3 C» anglosajonas son cough (tos), coryza (coriza/rinitis) y conjunctivitis (conjuntivitis). Fiebre alta suele preceder al exantema. La niña reúne coriza, inyección conjuntival y signos patognomónicos orientadores.\n\nManchas de Koplik: Pequeñas lesiones blanquecinas sobre mucosa bucal, a menudo frente a molares, sobre base eritematosa. Son muy específicas de sarampión y pueden preceder el exantema; su ausencia no lo excluye.\n\nExantema y diseminación: Exantema eritematoso maculopapular comienza frecuentemente en cara, detrás de orejas y cuello, se extiende céfalo-caudalmente y puede confluir. Hay que diferenciar rubéola, escarlatina, exantemas virales, dengue y reacciones farmacológicas.\n\nTransmisibilidad: El virus del sarampión transmite por vía aérea y puede permanecer infeccioso en el aire interior hasta dos horas. El contagio ocurre aproximadamente desde cuatro días antes hasta cuatro después de aparición del exantema; el EESS requiere precauciones y control de contactos.\n\nVitamina A y mecanismo: Enfermedad aguda puede disminuir disponibilidad de vitamina A; su reposición mejora integridad epitelial e inmunidad y reduce daño ocular, neumonía grave y muerte en contextos de riesgo. No sustituye el manejo de complicaciones ni la vacuna preventiva.\n\nDosis por edad OMS/CDC: Menores de 6 meses: 50 000 UI; 6–11 meses: 100 000 UI; 12 meses o más: 200 000 UI, por vía oral una vez al día dos días consecutivos según recomendaciones contemporáneas. En casos con signos de deficiencia puede requerirse dosis posterior, supervisada.\n\nSeguridad: Las megadosis de vitamina A pueden ser tóxicas fuera de indicación; verificar edad, presentación, antecedentes, embarazo cuando corresponda y supervisión. No recomendar múltiples cápsulas sin cálculo o administración profesional.\n\nComplicaciones mayores: Neumonía, otitis, diarrea/deshidratación, queratoconjuntivitis/xeroftalmia, encefalitis aguda y panencefalitis esclerosante subaguda tardía. Señales de alarma: dificultad respiratoria, alteración de conciencia, incapacidad para beber, convulsiones.\n\nTratamiento de soporte: Rehidratación, vigilancia respiratoria y neurológica, nutrición, control de fiebre y tratamiento de complicaciones bacterianas cuando realmente existan. El sarampión viral no justifica antibióticos universales.\n\nVacunación preventiva peruana: La vacuna SRP regular se ofrece a 12 y 18 meses en el Esquema Nacional 2026. La niña no vacunada amerita investigación de contactos y recuperación del esquema una vez apropiado, no reemplazar manejo del episodio por vacunación inmediata sin evaluación.\n\nInmunoglobulina posexposición: Se reserva para contactos susceptibles de alto riesgo y ventanas específicas de oportunidad; no es el tratamiento principal para un caso con exantema y manchas de Koplik. La pregunta contrasta profilaxis de expuestos con manejo del caso.\n\nNTS peruana del 2026: RM 592-2026/MINSA aprueba NTS 247-MINSA/DGIESP-2026 de prevención, diagnóstico y manejo de sarampión. En atención real, respetar algoritmos de vigilancia, aislamiento, muestras y tratamiento indicados en sus anexos.\n\nRegistro y vigilancia: Registrar inicio de fiebre y exantema, antecedentes de SPR y viajes/contactos, notificar caso sospechoso, coordinar laboratorio y aislamiento, identificar otros casos y evaluar susceptibilidad de contactos.\n\nDiferencial con rubéola: Rubéola suele asociarse a adenopatías retroauriculares/occipitales y exantema; las manchas de Koplik y cuadro catarral intenso favorecen sarampión. Ninguno se confirma exclusivamente por apariencia.\n\nA: Los antivirales inespecíficos no son tratamiento de primera línea del sarampión; predomina soporte, vitamina A y manejo de complicaciones.\n\nB: La inmunoglobulina se utiliza principalmente como profilaxis posexposición en contactos elegibles; la niña ya presenta enfermedad compatible.\n\nC: Clave del PDF. El retinol reduce riesgo de complicaciones y secuelas, sobre todo oculares, en niños con sarampión.\n\nD: La vitamina B12 es esencial para hematopoyesis y sistema neurológico, pero no es el suplemento que se indica específicamente para reducir complicaciones del sarampión.\n\nMINSA RM 592-2026/MINSA, aprobación NTS 247 de sarampión: Norma peruana de julio 2026 sobre prevención, diagnóstico y manejo del sarampión. https://busquedas.elperuano.pe/api/visor_html/2532250-1\n\nOMS: ficha sarampión, tratamiento con dos dosis de vitamina A: Dos dosis consecutivas en niños menores de cinco años; reduce complicaciones y daño ocular. https://www.who.int/news-room/fact-sheets/detail/measles\n\nCDC Yellow Book 2026: Measles: Dosis por edad y diferencia entre tratamiento/profilaxis de contactos. https://www.ncbi.nlm.nih.gov/books/NBK620906/\n\nMINSA información oficial vacunación frente a sarampión 2026: Vacunas SRP regulares a los 12 y 18 meses y medidas en alertas. https://www.gob.pe/114135-esquema-nacional-de-inmunizaciones-vacunacion-por-alerta-de-sarampion-en-zonas-de-riesgo\n\nMNEMOTECNIA\n\n**SARAMPIÓN = 3 C + K + A**: Coriza, Conjuntivitis, Cough/tos, Koplik y vitamina A. Imagina una niña con ojos rojos y manchas en boca que recibe la letra A bajo control sanitario. **≥12 meses = 200 000 UI** por dosis según OMS.\n\nTRAMPAS\n\nVitamina A es tratamiento adyuvante de casos; no previene infección como la vacuna SPR.\n\nNo confundir inmunoglobulina posCONTACTO con vitamina A en el CASO ENFERMO.\n\nManchas de Koplik son específicas, pero la vigilancia requiere notificación/confirmación según protocolo.\n\nFiebre 37 °C al examen no invalida antecedente febril ni cuadro clínico, pero obliga a evaluación completa.\n\nDar megadosis sin supervisión puede causar toxicidad.\n\nLa pauta OMS de dos dosis contrasta con algunos formularios históricos peruanos; distinguir fuente y fecha.\n\nNo retrasar aislamiento ni notificación hasta el resultado de laboratorio.\n\nExantema + fiebre no equivalen siempre a sarampión: considerar diferenciales.\n\nPERLA\n\nP31-C: 3 C + Koplik + exantema céfalo-caudal = SARAmPIÓN → VITAMINA A para prevenir complicaciones, más aislamiento/notificación.\n\nREPASO ACTIVO\n\n¿Cuál es la alternativa resaltada? — C, vitamina A retinol.\n\n¿Qué son las tres C? — Tos, coriza y conjuntivitis.\n\n¿Qué hallazgo oral orienta fuertemente a sarampión? — Manchas de Koplik.\n\n¿Qué dosis recomienda OMS para mayores de 12 meses? — 200 000 UI al diagnóstico y repetir al día siguiente, bajo supervisión.\n\n¿La inmunoglobulina reemplaza el tratamiento del niño enfermo? — No, es principalmente profilaxis de contactos elegibles.\n\n¿Cuál es la vacuna preventiva a los 12 y 18 meses? — SRP.\n\n¿Qué NTS peruana rige sarampión en 2026? — NTS 247 aprobada por RM 592-2026/MINSA.\n\nCASOS DE REFUERZO\n\nLactante de 8 meses presenta fiebre, conjuntivitis, manchas de Koplik y exantema, con fuerte sospecha de sarampión. ¿Qué dosis diaria de vitamina A recomienda OMS durante dos días bajo supervisión? | A) 200 000 UI / B) 50 000 UI / C) 100 000 UI / D) 10 000 UI | Respuesta: C. Entre 6 y 11 meses corresponde 100 000 UI por dosis; ≥12 meses son 200 000 UI.\n\nNiño no vacunado convivió con caso confirmado de sarampión hace dos días, pero está asintomático. ¿Qué principio diferencia prevención de tratamiento? | A) Vitamina A en altas dosis evita infección universalmente. / B) Toda exposición requiere antivirales. / C) Una prueba negativa al inicio elimina seguimiento. / D) Evaluar profilaxis posexposición y vacunación según elegibilidad, sin confundirlo con vitamina A para enfermedad activa. | Respuesta: D. La profilaxis de contactos tiene ventana y criterio; la vitamina A se usa principalmente al tratar sarampión.",
+      "pearl": "P31-C: 3 C + Koplik + exantema céfalo-caudal = SARAmPIÓN → VITAMINA A para prevenir complicaciones, más aislamiento/notificación.",
+      "keywords": [
+        "sarampión",
+        "Koplik",
+        "vitamina A",
+        "retinol",
+        "200000 UI",
+        "vacuna SPR",
+        "aislamiento",
+        "notificación"
+      ],
+      "estadoDesarrollo": "completo",
       "estadoClave": "resaltada_en_pdf_usuario_no_cotejada_independientemente_con_tabla_minsa",
-      "lesson": null
+      "lesson": {
+        "respuesta_resumida": "C. Vitamina A retinol",
+        "razonamiento": "El PDF resalta C, VITAMINA A (RETINOL). Niña de 18 meses no vacunada con fiebre previa, rinitis, conjuntivitis y exantema maculopapular confluente de predominio cefálico, más manchas de Koplik. La combinación es altamente sugestiva de sarampión clínico, aunque se requiere confirmación conforme a vigilancia. El examen pregunta por intervención para evitar secuelas, no por profilaxis de contactos.\n\nLa OMS recomienda vitamina A para niños menores de cinco años con sarampión sospechado o confirmado porque puede reducir complicaciones, daño ocular y mortalidad, además de restaurar niveles deprimidos durante la infección. Según recomendaciones OMS/CDC, para una niña de 18 meses se utilizan 200 000 UI por vía oral al diagnóstico y 200 000 UI al día siguiente bajo supervisión médica. La dosis corresponde a tratamiento de la infección; no es una pauta preventiva doméstica.\n\nEl sarampión no tiene un antiviral específico de uso habitual con beneficio clínico establecido. La inmunoglobulina sirve para profilaxis posexposición de ciertos contactos susceptibles de alto riesgo, dentro de plazo indicado; no reemplaza vitamina A cuando el niño ya desarrolla sarampión. Vitamina B12 no previene la queratitis, ceguera ni otras complicaciones relacionadas con deficiencia funcional de vitamina A.\n\nLa prioridad práctica también incluye aislamiento respiratorio, notificación/investigación inmediata según definición, hidratación, búsqueda de signos de neumonía, deshidratación, compromiso neurológico y evaluación de contactos y vacunación. No administrar vacuna como tratamiento curativo de la niña con enfermedad activa.\n\nNota de fuentes: una edición antigua del Formulario Nacional de Medicamentos Esenciales peruano describe dosis única de retinol para sarampión, mientras guías OMS/CDC actuales recomiendan dos dosis separadas por 24 horas. Para un paciente real se consulta la NTS peruana vigente y protocolo local; la clave C no depende de resolver aquí esa diferencia posológica.",
+        "temario": [
+          "Tríada catarral: Las «3 C» anglosajonas son cough (tos), coryza (coriza/rinitis) y conjunctivitis (conjuntivitis). Fiebre alta suele preceder al exantema. La niña reúne coriza, inyección conjuntival y signos patognomónicos orientadores.",
+          "Manchas de Koplik: Pequeñas lesiones blanquecinas sobre mucosa bucal, a menudo frente a molares, sobre base eritematosa. Son muy específicas de sarampión y pueden preceder el exantema; su ausencia no lo excluye.",
+          "Exantema y diseminación: Exantema eritematoso maculopapular comienza frecuentemente en cara, detrás de orejas y cuello, se extiende céfalo-caudalmente y puede confluir. Hay que diferenciar rubéola, escarlatina, exantemas virales, dengue y reacciones farmacológicas.",
+          "Transmisibilidad: El virus del sarampión transmite por vía aérea y puede permanecer infeccioso en el aire interior hasta dos horas. El contagio ocurre aproximadamente desde cuatro días antes hasta cuatro después de aparición del exantema; el EESS requiere precauciones y control de contactos.",
+          "Vitamina A y mecanismo: Enfermedad aguda puede disminuir disponibilidad de vitamina A; su reposición mejora integridad epitelial e inmunidad y reduce daño ocular, neumonía grave y muerte en contextos de riesgo. No sustituye el manejo de complicaciones ni la vacuna preventiva.",
+          "Dosis por edad OMS/CDC: Menores de 6 meses: 50 000 UI; 6–11 meses: 100 000 UI; 12 meses o más: 200 000 UI, por vía oral una vez al día dos días consecutivos según recomendaciones contemporáneas. En casos con signos de deficiencia puede requerirse dosis posterior, supervisada.",
+          "Seguridad: Las megadosis de vitamina A pueden ser tóxicas fuera de indicación; verificar edad, presentación, antecedentes, embarazo cuando corresponda y supervisión. No recomendar múltiples cápsulas sin cálculo o administración profesional.",
+          "Complicaciones mayores: Neumonía, otitis, diarrea/deshidratación, queratoconjuntivitis/xeroftalmia, encefalitis aguda y panencefalitis esclerosante subaguda tardía. Señales de alarma: dificultad respiratoria, alteración de conciencia, incapacidad para beber, convulsiones.",
+          "Tratamiento de soporte: Rehidratación, vigilancia respiratoria y neurológica, nutrición, control de fiebre y tratamiento de complicaciones bacterianas cuando realmente existan. El sarampión viral no justifica antibióticos universales.",
+          "Vacunación preventiva peruana: La vacuna SRP regular se ofrece a 12 y 18 meses en el Esquema Nacional 2026. La niña no vacunada amerita investigación de contactos y recuperación del esquema una vez apropiado, no reemplazar manejo del episodio por vacunación inmediata sin evaluación.",
+          "Inmunoglobulina posexposición: Se reserva para contactos susceptibles de alto riesgo y ventanas específicas de oportunidad; no es el tratamiento principal para un caso con exantema y manchas de Koplik. La pregunta contrasta profilaxis de expuestos con manejo del caso.",
+          "NTS peruana del 2026: RM 592-2026/MINSA aprueba NTS 247-MINSA/DGIESP-2026 de prevención, diagnóstico y manejo de sarampión. En atención real, respetar algoritmos de vigilancia, aislamiento, muestras y tratamiento indicados en sus anexos.",
+          "Registro y vigilancia: Registrar inicio de fiebre y exantema, antecedentes de SPR y viajes/contactos, notificar caso sospechoso, coordinar laboratorio y aislamiento, identificar otros casos y evaluar susceptibilidad de contactos.",
+          "Diferencial con rubéola: Rubéola suele asociarse a adenopatías retroauriculares/occipitales y exantema; las manchas de Koplik y cuadro catarral intenso favorecen sarampión. Ninguno se confirma exclusivamente por apariencia."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Los antivirales inespecíficos no son tratamiento de primera línea del sarampión; predomina soporte, vitamina A y manejo de complicaciones.",
+          "B": "La inmunoglobulina se utiliza principalmente como profilaxis posexposición en contactos elegibles; la niña ya presenta enfermedad compatible.",
+          "C": "Clave del PDF. El retinol reduce riesgo de complicaciones y secuelas, sobre todo oculares, en niños con sarampión.",
+          "D": "La vitamina B12 es esencial para hematopoyesis y sistema neurológico, pero no es el suplemento que se indica específicamente para reducir complicaciones del sarampión."
+        },
+        "normativa": [
+          {
+            "nombre": "MINSA RM 592-2026/MINSA, aprobación NTS 247 de sarampión",
+            "url": "https://busquedas.elperuano.pe/api/visor_html/2532250-1",
+            "aplicacion": "Norma peruana de julio 2026 sobre prevención, diagnóstico y manejo del sarampión."
+          },
+          {
+            "nombre": "OMS: ficha sarampión, tratamiento con dos dosis de vitamina A",
+            "url": "https://www.who.int/news-room/fact-sheets/detail/measles",
+            "aplicacion": "Dos dosis consecutivas en niños menores de cinco años; reduce complicaciones y daño ocular."
+          },
+          {
+            "nombre": "CDC Yellow Book 2026: Measles",
+            "url": "https://www.ncbi.nlm.nih.gov/books/NBK620906/",
+            "aplicacion": "Dosis por edad y diferencia entre tratamiento/profilaxis de contactos."
+          },
+          {
+            "nombre": "MINSA información oficial vacunación frente a sarampión 2026",
+            "url": "https://www.gob.pe/114135-esquema-nacional-de-inmunizaciones-vacunacion-por-alerta-de-sarampion-en-zonas-de-riesgo",
+            "aplicacion": "Vacunas SRP regulares a los 12 y 18 meses y medidas en alertas."
+          }
+        ],
+        "mnemotecnia": "**SARAMPIÓN = 3 C + K + A**: Coriza, Conjuntivitis, Cough/tos, Koplik y vitamina A. Imagina una niña con ojos rojos y manchas en boca que recibe la letra A bajo control sanitario. **≥12 meses = 200 000 UI** por dosis según OMS.",
+        "trampas": [
+          "Vitamina A es tratamiento adyuvante de casos; no previene infección como la vacuna SPR.",
+          "No confundir inmunoglobulina posCONTACTO con vitamina A en el CASO ENFERMO.",
+          "Manchas de Koplik son específicas, pero la vigilancia requiere notificación/confirmación según protocolo.",
+          "Fiebre 37 °C al examen no invalida antecedente febril ni cuadro clínico, pero obliga a evaluación completa.",
+          "Dar megadosis sin supervisión puede causar toxicidad.",
+          "La pauta OMS de dos dosis contrasta con algunos formularios históricos peruanos; distinguir fuente y fecha.",
+          "No retrasar aislamiento ni notificación hasta el resultado de laboratorio.",
+          "Exantema + fiebre no equivalen siempre a sarampión: considerar diferenciales."
+        ],
+        "perla": "P31-C: 3 C + Koplik + exantema céfalo-caudal = SARAmPIÓN → VITAMINA A para prevenir complicaciones, más aislamiento/notificación.",
+        "repaso_activo": [
+          {
+            "pregunta": "¿Cuál es la alternativa resaltada?",
+            "respuesta": "C, vitamina A retinol."
+          },
+          {
+            "pregunta": "¿Qué son las tres C?",
+            "respuesta": "Tos, coriza y conjuntivitis."
+          },
+          {
+            "pregunta": "¿Qué hallazgo oral orienta fuertemente a sarampión?",
+            "respuesta": "Manchas de Koplik."
+          },
+          {
+            "pregunta": "¿Qué dosis recomienda OMS para mayores de 12 meses?",
+            "respuesta": "200 000 UI al diagnóstico y repetir al día siguiente, bajo supervisión."
+          },
+          {
+            "pregunta": "¿La inmunoglobulina reemplaza el tratamiento del niño enfermo?",
+            "respuesta": "No, es principalmente profilaxis de contactos elegibles."
+          },
+          {
+            "pregunta": "¿Cuál es la vacuna preventiva a los 12 y 18 meses?",
+            "respuesta": "SRP."
+          },
+          {
+            "pregunta": "¿Qué NTS peruana rige sarampión en 2026?",
+            "respuesta": "NTS 247 aprobada por RM 592-2026/MINSA."
+          }
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Lactante de 8 meses presenta fiebre, conjuntivitis, manchas de Koplik y exantema, con fuerte sospecha de sarampión. ¿Qué dosis diaria de vitamina A recomienda OMS durante dos días bajo supervisión?",
+            "alternativas": {
+              "A": "200 000 UI",
+              "B": "50 000 UI",
+              "C": "100 000 UI",
+              "D": "10 000 UI"
+            },
+            "respuesta": "C",
+            "explicacion": "Entre 6 y 11 meses corresponde 100 000 UI por dosis; ≥12 meses son 200 000 UI."
+          },
+          {
+            "enunciado": "Niño no vacunado convivió con caso confirmado de sarampión hace dos días, pero está asintomático. ¿Qué principio diferencia prevención de tratamiento?",
+            "alternativas": {
+              "A": "Vitamina A en altas dosis evita infección universalmente.",
+              "B": "Toda exposición requiere antivirales.",
+              "C": "Una prueba negativa al inicio elimina seguimiento.",
+              "D": "Evaluar profilaxis posexposición y vacunación según elegibilidad, sin confundirlo con vitamina A para enfermedad activa."
+            },
+            "respuesta": "D",
+            "explicacion": "La profilaxis de contactos tiene ventana y criterio; la vitamina A se usa principalmente al tratar sarampión."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Sarampión: manchas de Koplik, vitamina A y prevención de complicaciones",
+          "eje": "NTS 247-MINSA/DGIESP-2026 · Manejo clínico y salud pública",
+          "confiabilidad": "Clave resaltada en cuadernillo del usuario; no implica que tabla oficial separada haya sido cotejada.",
+          "respuesta_resumida": "C. Vitamina A retinol",
+          "razonamiento": [
+            "El PDF resalta C, VITAMINA A (RETINOL). Niña de 18 meses no vacunada con fiebre previa, rinitis, conjuntivitis y exantema maculopapular confluente de predominio cefálico, más manchas de Koplik. La combinación es altamente sugestiva de sarampión clínico, aunque se requiere confirmación conforme a vigilancia. El examen pregunta por intervención para evitar secuelas, no por profilaxis de contactos.",
+            "La OMS recomienda vitamina A para niños menores de cinco años con sarampión sospechado o confirmado porque puede reducir complicaciones, daño ocular y mortalidad, además de restaurar niveles deprimidos durante la infección. Según recomendaciones OMS/CDC, para una niña de 18 meses se utilizan 200 000 UI por vía oral al diagnóstico y 200 000 UI al día siguiente bajo supervisión médica. La dosis corresponde a tratamiento de la infección; no es una pauta preventiva doméstica.",
+            "El sarampión no tiene un antiviral específico de uso habitual con beneficio clínico establecido. La inmunoglobulina sirve para profilaxis posexposición de ciertos contactos susceptibles de alto riesgo, dentro de plazo indicado; no reemplaza vitamina A cuando el niño ya desarrolla sarampión. Vitamina B12 no previene la queratitis, ceguera ni otras complicaciones relacionadas con deficiencia funcional de vitamina A.",
+            "La prioridad práctica también incluye aislamiento respiratorio, notificación/investigación inmediata según definición, hidratación, búsqueda de signos de neumonía, deshidratación, compromiso neurológico y evaluación de contactos y vacunación. No administrar vacuna como tratamiento curativo de la niña con enfermedad activa.",
+            "Nota de fuentes: una edición antigua del Formulario Nacional de Medicamentos Esenciales peruano describe dosis única de retinol para sarampión, mientras guías OMS/CDC actuales recomiendan dos dosis separadas por 24 horas. Para un paciente real se consulta la NTS peruana vigente y protocolo local; la clave C no depende de resolver aquí esa diferencia posológica."
+          ],
+          "temario": [
+            {
+              "subtitulo": "Tríada catarral",
+              "texto": "Las «3 C» anglosajonas son cough (tos), coryza (coriza/rinitis) y conjunctivitis (conjuntivitis). Fiebre alta suele preceder al exantema. La niña reúne coriza, inyección conjuntival y signos patognomónicos orientadores."
+            },
+            {
+              "subtitulo": "Manchas de Koplik",
+              "texto": "Pequeñas lesiones blanquecinas sobre mucosa bucal, a menudo frente a molares, sobre base eritematosa. Son muy específicas de sarampión y pueden preceder el exantema; su ausencia no lo excluye."
+            },
+            {
+              "subtitulo": "Exantema y diseminación",
+              "texto": "Exantema eritematoso maculopapular comienza frecuentemente en cara, detrás de orejas y cuello, se extiende céfalo-caudalmente y puede confluir. Hay que diferenciar rubéola, escarlatina, exantemas virales, dengue y reacciones farmacológicas."
+            },
+            {
+              "subtitulo": "Transmisibilidad",
+              "texto": "El virus del sarampión transmite por vía aérea y puede permanecer infeccioso en el aire interior hasta dos horas. El contagio ocurre aproximadamente desde cuatro días antes hasta cuatro después de aparición del exantema; el EESS requiere precauciones y control de contactos."
+            },
+            {
+              "subtitulo": "Vitamina A y mecanismo",
+              "texto": "Enfermedad aguda puede disminuir disponibilidad de vitamina A; su reposición mejora integridad epitelial e inmunidad y reduce daño ocular, neumonía grave y muerte en contextos de riesgo. No sustituye el manejo de complicaciones ni la vacuna preventiva."
+            },
+            {
+              "subtitulo": "Dosis por edad OMS/CDC",
+              "texto": "Menores de 6 meses: 50 000 UI; 6–11 meses: 100 000 UI; 12 meses o más: 200 000 UI, por vía oral una vez al día dos días consecutivos según recomendaciones contemporáneas. En casos con signos de deficiencia puede requerirse dosis posterior, supervisada."
+            },
+            {
+              "subtitulo": "Seguridad",
+              "texto": "Las megadosis de vitamina A pueden ser tóxicas fuera de indicación; verificar edad, presentación, antecedentes, embarazo cuando corresponda y supervisión. No recomendar múltiples cápsulas sin cálculo o administración profesional."
+            },
+            {
+              "subtitulo": "Complicaciones mayores",
+              "texto": "Neumonía, otitis, diarrea/deshidratación, queratoconjuntivitis/xeroftalmia, encefalitis aguda y panencefalitis esclerosante subaguda tardía. Señales de alarma: dificultad respiratoria, alteración de conciencia, incapacidad para beber, convulsiones."
+            },
+            {
+              "subtitulo": "Tratamiento de soporte",
+              "texto": "Rehidratación, vigilancia respiratoria y neurológica, nutrición, control de fiebre y tratamiento de complicaciones bacterianas cuando realmente existan. El sarampión viral no justifica antibióticos universales."
+            },
+            {
+              "subtitulo": "Vacunación preventiva peruana",
+              "texto": "La vacuna SRP regular se ofrece a 12 y 18 meses en el Esquema Nacional 2026. La niña no vacunada amerita investigación de contactos y recuperación del esquema una vez apropiado, no reemplazar manejo del episodio por vacunación inmediata sin evaluación."
+            },
+            {
+              "subtitulo": "Inmunoglobulina posexposición",
+              "texto": "Se reserva para contactos susceptibles de alto riesgo y ventanas específicas de oportunidad; no es el tratamiento principal para un caso con exantema y manchas de Koplik. La pregunta contrasta profilaxis de expuestos con manejo del caso."
+            },
+            {
+              "subtitulo": "NTS peruana del 2026",
+              "texto": "RM 592-2026/MINSA aprueba NTS 247-MINSA/DGIESP-2026 de prevención, diagnóstico y manejo de sarampión. En atención real, respetar algoritmos de vigilancia, aislamiento, muestras y tratamiento indicados en sus anexos."
+            },
+            {
+              "subtitulo": "Registro y vigilancia",
+              "texto": "Registrar inicio de fiebre y exantema, antecedentes de SPR y viajes/contactos, notificar caso sospechoso, coordinar laboratorio y aislamiento, identificar otros casos y evaluar susceptibilidad de contactos."
+            },
+            {
+              "subtitulo": "Diferencial con rubéola",
+              "texto": "Rubéola suele asociarse a adenopatías retroauriculares/occipitales y exantema; las manchas de Koplik y cuadro catarral intenso favorecen sarampión. Ninguno se confirma exclusivamente por apariencia."
+            }
+          ],
+          "distractores": {
+            "A": "Los antivirales inespecíficos no son tratamiento de primera línea del sarampión; predomina soporte, vitamina A y manejo de complicaciones.",
+            "B": "La inmunoglobulina se utiliza principalmente como profilaxis posexposición en contactos elegibles; la niña ya presenta enfermedad compatible.",
+            "C": "Clave del PDF. El retinol reduce riesgo de complicaciones y secuelas, sobre todo oculares, en niños con sarampión.",
+            "D": "La vitamina B12 es esencial para hematopoyesis y sistema neurológico, pero no es el suplemento que se indica específicamente para reducir complicaciones del sarampión."
+          },
+          "normativa": [
+            {
+              "nombre": "MINSA RM 592-2026/MINSA, aprobación NTS 247 de sarampión",
+              "url": "https://busquedas.elperuano.pe/api/visor_html/2532250-1",
+              "aplicacion": "Norma peruana de julio 2026 sobre prevención, diagnóstico y manejo del sarampión."
+            },
+            {
+              "nombre": "OMS: ficha sarampión, tratamiento con dos dosis de vitamina A",
+              "url": "https://www.who.int/news-room/fact-sheets/detail/measles",
+              "aplicacion": "Dos dosis consecutivas en niños menores de cinco años; reduce complicaciones y daño ocular."
+            },
+            {
+              "nombre": "CDC Yellow Book 2026: Measles",
+              "url": "https://www.ncbi.nlm.nih.gov/books/NBK620906/",
+              "aplicacion": "Dosis por edad y diferencia entre tratamiento/profilaxis de contactos."
+            },
+            {
+              "nombre": "MINSA información oficial vacunación frente a sarampión 2026",
+              "url": "https://www.gob.pe/114135-esquema-nacional-de-inmunizaciones-vacunacion-por-alerta-de-sarampion-en-zonas-de-riesgo",
+              "aplicacion": "Vacunas SRP regulares a los 12 y 18 meses y medidas en alertas."
+            }
+          ],
+          "mnemotecnia": "**SARAMPIÓN = 3 C + K + A**: Coriza, Conjuntivitis, Cough/tos, Koplik y vitamina A. Imagina una niña con ojos rojos y manchas en boca que recibe la letra A bajo control sanitario. **≥12 meses = 200 000 UI** por dosis según OMS.",
+          "trampas": [
+            "Vitamina A es tratamiento adyuvante de casos; no previene infección como la vacuna SPR.",
+            "No confundir inmunoglobulina posCONTACTO con vitamina A en el CASO ENFERMO.",
+            "Manchas de Koplik son específicas, pero la vigilancia requiere notificación/confirmación según protocolo.",
+            "Fiebre 37 °C al examen no invalida antecedente febril ni cuadro clínico, pero obliga a evaluación completa.",
+            "Dar megadosis sin supervisión puede causar toxicidad.",
+            "La pauta OMS de dos dosis contrasta con algunos formularios históricos peruanos; distinguir fuente y fecha.",
+            "No retrasar aislamiento ni notificación hasta el resultado de laboratorio.",
+            "Exantema + fiebre no equivalen siempre a sarampión: considerar diferenciales."
+          ],
+          "perla": "P31-C: 3 C + Koplik + exantema céfalo-caudal = SARAmPIÓN → VITAMINA A para prevenir complicaciones, más aislamiento/notificación.",
+          "repaso_activo": [
+            {
+              "pregunta": "¿Cuál es la alternativa resaltada?",
+              "respuesta": "C, vitamina A retinol."
+            },
+            {
+              "pregunta": "¿Qué son las tres C?",
+              "respuesta": "Tos, coriza y conjuntivitis."
+            },
+            {
+              "pregunta": "¿Qué hallazgo oral orienta fuertemente a sarampión?",
+              "respuesta": "Manchas de Koplik."
+            },
+            {
+              "pregunta": "¿Qué dosis recomienda OMS para mayores de 12 meses?",
+              "respuesta": "200 000 UI al diagnóstico y repetir al día siguiente, bajo supervisión."
+            },
+            {
+              "pregunta": "¿La inmunoglobulina reemplaza el tratamiento del niño enfermo?",
+              "respuesta": "No, es principalmente profilaxis de contactos elegibles."
+            },
+            {
+              "pregunta": "¿Cuál es la vacuna preventiva a los 12 y 18 meses?",
+              "respuesta": "SRP."
+            },
+            {
+              "pregunta": "¿Qué NTS peruana rige sarampión en 2026?",
+              "respuesta": "NTS 247 aprobada por RM 592-2026/MINSA."
+            }
+          ],
+          "refuerzo": [
+            {
+              "enunciado": "Lactante de 8 meses presenta fiebre, conjuntivitis, manchas de Koplik y exantema, con fuerte sospecha de sarampión. ¿Qué dosis diaria de vitamina A recomienda OMS durante dos días bajo supervisión?",
+              "alternativas": {
+                "A": "200 000 UI",
+                "B": "50 000 UI",
+                "C": "100 000 UI",
+                "D": "10 000 UI"
+              },
+              "respuesta": "C",
+              "explicacion": "Entre 6 y 11 meses corresponde 100 000 UI por dosis; ≥12 meses son 200 000 UI."
+            },
+            {
+              "enunciado": "Niño no vacunado convivió con caso confirmado de sarampión hace dos días, pero está asintomático. ¿Qué principio diferencia prevención de tratamiento?",
+              "alternativas": {
+                "A": "Vitamina A en altas dosis evita infección universalmente.",
+                "B": "Toda exposición requiere antivirales.",
+                "C": "Una prueba negativa al inicio elimina seguimiento.",
+                "D": "Evaluar profilaxis posexposición y vacunación según elegibilidad, sin confundirlo con vitamina A para enfermedad activa."
+              },
+              "respuesta": "D",
+              "explicacion": "La profilaxis de contactos tiene ventana y criterio; la vitamina A se usa principalmente al tratar sarampión."
+            }
+          ]
+        }
+      }
     },
     {
       "number": 32,
       "code": "ENCAPS26-II P032",
-      "course": "ENCAPS Medicina · Por desarrollar",
-      "topic": "ENCAPS Medicina 2026-II",
+      "course": "Epidemiología · Vigilancia y dengue",
+      "topic": "Ficha clínico-epidemiológica: llenado inmediato de sospecha de enfermedad bajo vigilancia",
       "question": "Varón adulto mayor, residente en Pucallpa, ingresa por emergencia al EESS, refiere que hace 3 días llegó a Lima; desde hace un día presenta malestar general, fiebre y hoy náuseas, vómitos y diarreas. El médico evalúa y solicita examen de laboratorio. ¿Cómo debe ser el llenado de la ficha clínico-epidemiológica?",
       "options": {
         "A": "Después de los resultados",
@@ -7501,12 +7788,285 @@
         "D": "Cuando lo solicite la RIS"
       },
       "correct": "C",
-      "comment": "Tema pendiente de desarrollo detallado. La alternativa correcta indicada es la resaltada en el PDF del usuario; todavía no se ha cotejado independientemente contra el listado oficial de claves del MINSA.",
-      "pearl": "",
-      "keywords": [],
-      "estadoDesarrollo": "pendiente",
+      "comment": "CLAVE: C. Inmediatamente\n\nEl cuadernillo marca C, INMEDIATAMENTE. El adulto mayor procede de Pucallpa y llega a Lima con fiebre y síntomas gastrointestinales recientes. En el contexto epidemiológico podría sospecharse dengue u otra enfermedad febril sujeta a vigilancia. La lógica examinadora consiste en abrir la ficha clínico-epidemiológica cuando se identifica un caso que cumple la definición operativa y no esperar resultados de laboratorio.\n\nLa NTS N.º 211-MINSA/DGIESP-2024 de atención integral de dengue indica que al paciente que cumple definición de caso debe llenarse ficha clínica epidemiológica inmediatamente y notificarse conforme a procedimientos; no hay que aguardar prueba positiva para documentar el episodio. El resultado se incorpora después y puede confirmar, descartar o reclasificar el caso.\n\n**Limitación clínica del enunciado**: fiebre de un día, náuseas, vómitos y diarrea sin cefalea, mialgia, exantema ni datos epidemiológicos adicionales no prueban que cumpla una definición formal de dengue. Tampoco autoriza etiquetar dengue confirmado. Antes de activar una ficha específica se verifica la definición vigente y se considera paludismo, gastroenteritis, leptospirosis, fiebre amarilla y otros según exposición e historia de viaje.\n\nEl vínculo Pucallpa–Lima exige registrar fecha de inicio de síntomas, fecha de viaje, lugares de exposición y residencia habitual, para diferenciar caso importado nacional, autóctono o adquisición desconocida. La ficha es parte del proceso de vigilancia, no reemplaza manejo inmediato de signos de alarma o shock.\n\nFicha clínico-epidemiológica: Instrumento estandarizado de datos de identificación, clínica, exposición, fechas, lugar de procedencia, laboratorios, clasificación y evolución de un caso bajo vigilancia. Su completitud permite investigación y decisiones sanitarias.\n\nCuándo se llena: Tan pronto como la atención identifica un caso que cumple definición de sospechoso/probable para la enfermedad correspondiente; no esperar cultivo, NS1, PCR o anticuerpos confirmatorios si la norma exige vigilancia del sospechoso.\n\nDiferencia caso sospechoso, probable y confirmado: Sospechoso/probable combina criterios clínicos y epidemiológicos establecidos por norma. Confirmado requiere evidencia de laboratorio, nexo o clasificación oficial. La definición varía según enfermedad y versión normativa.\n\nDengue en NTS 211: Paciente febril con contexto epidemiológico y signos compatibles requiere valoración de fase, signos de alarma, hemodinámica, hidratación y comorbilidades. La decisión clínica puede tomarse antes del laboratorio.\n\nNotificación oportuna: El llenado de ficha y la notificación son pasos relacionados pero distintos. Para dengue la vigilancia exige notificar casos probables/confirmados conforme periodicidad y normativa vigente; no esperar segunda cita.\n\nLugar de residencia frente a lugar de infección: Preguntar ubicación actual, residencia habitual, viajes y desplazamientos en período relevante. Un caso diagnosticado en Lima puede haberse infectado en Pucallpa; no asumir transmisión local por lugar de diagnóstico.\n\nLínea temporal: Registrar inicio de fiebre, toma de muestra, viaje, exposición, inicio de alarma y consulta. La oportunidad y tipo de prueba de dengue dependen de día de enfermedad; NS1/RT-PCR son más útiles temprano, serología IgM más adelante.\n\nDengue con signos de alarma: Dolor abdominal persistente, vómitos persistentes, hemorragia de mucosas, letargo, acumulación de líquidos y aumento de hematocrito/otros según criterio. Si existen, evaluar urgencia hospitalaria y fluidos apropiados.\n\nAdulto mayor y comorbilidades: La edad mayor, diabetes, HTA, insuficiencia renal o riesgo social pueden modificar necesidad de vigilancia/observación. Evitar asumir que un cuadro aparentemente leve carece de riesgo.\n\nDiferenciales de fiebre postviaje: Paludismo, leptospirosis, fiebre amarilla, infección intestinal, chikungunya, zika, influenza, otras infecciones tropicales. Investigar fiebre, viajes, vacunas, agua y alimentos, vectores y posibles contactos.\n\nCalidad del dato: Evitar fichas sin DNI o identificador alternativo, fechas imposibles, incongruencia entre residencia/procedencia, muestra sin vínculo con ficha y errores de clasificación. Registrar cambios cuando haya resultados.\n\nRol del primer nivel: La vigilancia inicia donde se detecta caso; registrar, referir si grave, informar al equipo epidemiológico, obtener muestras según capacidad y hacer seguimiento sin esperar confirmación.\n\nNo confundir vigilancia con demora: La ficha no es una autorización administrativa para tratar. Si hay shock, alterar sensorio o deshidratación grave, estabilizar mientras se inicia registro y notificación.\n\nA: Esperar resultados demora información epidemiológica y contradice llenado oportuno cuando se cumple definición operativa.\n\nB: La segunda consulta es demasiado tardía para investigar y controlar un caso sospechoso.\n\nC: Clave del PDF. La ficha se completa inmediatamente al identificar caso bajo vigilancia y se ajusta tras laboratorio.\n\nD: La RIS coordina la vigilancia, pero el EESS no debe esperar solicitud expresa para llenar ficha obligatoria.\n\nMINSA NTS 211-MINSA/DGIESP-2024: atención integral de dengue: Incluye flujograma de caso probable con ficha clínico-epidemiológica y notificación. https://bvs.minsa.gob.pe/local/MINSA/7487.pdf\n\nDGE, ficha epidemiológica de dengue: Campos de procedencia, evolución, laboratorio y clasificación. https://www.dge.gob.pe/portal/docs/vigilancia/herramientas/fichas/f_dengue.pdf\n\nCDC, manejo clínico de dengue, abril 2026: Vigilancia de signos de alarma y necesidad de actuar antes de confirmación en casos graves. https://www.cdc.gov/dengue/es/hcp/clinical-care/manejo-clinico.html\n\nMINSA, orientación oficial de dengue: Síntomas, signos de alarma y urgencia de atención. https://www.gob.pe/41804\n\nMNEMOTECNIA\n\n**Sospecho → Registro → Notifico → Muestra → Reclasifico**. La ficha se abre HOY; el laboratorio llega DESPUÉS. Imagina un médico de guardia escribiendo en la ficha mientras el tubo de sangre sale hacia laboratorio.\n\nTRAMPAS\n\nSe llena de inmediato SI CUMPLE DEFINICIÓN de caso; fiebre gastrointestinal aislada no prueba dengue.\n\nLa confirmación no es requisito universal para comenzar vigilancia de sospechosos.\n\nNo confundir lugar de diagnóstico con lugar probable de infección.\n\nNotificación y ficha son acciones asociadas pero no idénticas.\n\nResultados negativos precoces pueden requerir interpretación por día de evolución.\n\nLa clasificación puede cambiar al llegar laboratorio: la ficha se actualiza.\n\nVómitos aislados no son necesariamente vómitos persistentes de alarma: cuantificar.\n\nNo demorar estabilización de un enfermo grave para completar formularios.\n\nPERLA\n\nP32-C: ficha clínico-epidemiológica INMEDIATA cuando caso cumple criterio de vigilancia; NO esperar prueba de laboratorio.\n\nREPASO ACTIVO\n\n¿Qué clave marca el PDF? — C, inmediatamente.\n\n¿Por qué no esperar laboratorio? — Porque sospecha/probable puede requerir notificación antes de confirmación.\n\n¿Qué exige el contexto de viaje Pucallpa–Lima? — Registrar residencia, fechas de viaje y posible lugar de adquisición.\n\n¿Fiebre y diarrea solos confirman dengue? — No, aplicar definiciones de caso y diferenciales.\n\n¿Qué se registra al llegar la prueba? — Resultado y eventual reclasificación.\n\n¿Qué hacer ante choque mientras se llena la ficha? — Estabilizar de inmediato, coordinando registro/notificación.\n\nCASOS DE REFUERZO\n\nPaciente procedente de zona con dengue tiene fiebre, cefalea y mialgias, reúne definición de caso sospechoso y se envía NS1. ¿Cuándo inicia el llenado de ficha? | A) Tras NS1 positivo / B) Solo en control de 48 h / C) Inmediatamente durante atención / D) Al cierre del mes epidemiológico | Respuesta: C. Se registra sospecha de manera oportuna; laboratorio sirve para clasificación posterior.\n\nPaciente con diarrea y fiebre tras un viaje, sin criterios suficientes de dengue todavía. ¿Qué debe hacer el médico? | A) Clasificar automáticamente dengue confirmado. / B) No preguntar antecedentes ni signos de alarma. / C) Esperar una segunda visita para toda evaluación. / D) Evaluar definición de caso, diferenciales, signos de alarma y determinar fichas/notificación pertinentes. | Respuesta: D. La rapidez de documentación depende de identificar caso que cumpla criterios, no de suponer diagnóstico sin evidencia.",
+      "pearl": "P32-C: ficha clínico-epidemiológica INMEDIATA cuando caso cumple criterio de vigilancia; NO esperar prueba de laboratorio.",
+      "keywords": [
+        "ficha clínico epidemiológica",
+        "inmediatamente",
+        "dengue",
+        "Pucallpa",
+        "procedencia",
+        "caso sospechoso",
+        "notificación",
+        "confirmación"
+      ],
+      "estadoDesarrollo": "completo",
       "estadoClave": "resaltada_en_pdf_usuario_no_cotejada_independientemente_con_tabla_minsa",
-      "lesson": null
+      "lesson": {
+        "respuesta_resumida": "C. Inmediatamente",
+        "razonamiento": "El cuadernillo marca C, INMEDIATAMENTE. El adulto mayor procede de Pucallpa y llega a Lima con fiebre y síntomas gastrointestinales recientes. En el contexto epidemiológico podría sospecharse dengue u otra enfermedad febril sujeta a vigilancia. La lógica examinadora consiste en abrir la ficha clínico-epidemiológica cuando se identifica un caso que cumple la definición operativa y no esperar resultados de laboratorio.\n\nLa NTS N.º 211-MINSA/DGIESP-2024 de atención integral de dengue indica que al paciente que cumple definición de caso debe llenarse ficha clínica epidemiológica inmediatamente y notificarse conforme a procedimientos; no hay que aguardar prueba positiva para documentar el episodio. El resultado se incorpora después y puede confirmar, descartar o reclasificar el caso.\n\n**Limitación clínica del enunciado**: fiebre de un día, náuseas, vómitos y diarrea sin cefalea, mialgia, exantema ni datos epidemiológicos adicionales no prueban que cumpla una definición formal de dengue. Tampoco autoriza etiquetar dengue confirmado. Antes de activar una ficha específica se verifica la definición vigente y se considera paludismo, gastroenteritis, leptospirosis, fiebre amarilla y otros según exposición e historia de viaje.\n\nEl vínculo Pucallpa–Lima exige registrar fecha de inicio de síntomas, fecha de viaje, lugares de exposición y residencia habitual, para diferenciar caso importado nacional, autóctono o adquisición desconocida. La ficha es parte del proceso de vigilancia, no reemplaza manejo inmediato de signos de alarma o shock.",
+        "temario": [
+          "Ficha clínico-epidemiológica: Instrumento estandarizado de datos de identificación, clínica, exposición, fechas, lugar de procedencia, laboratorios, clasificación y evolución de un caso bajo vigilancia. Su completitud permite investigación y decisiones sanitarias.",
+          "Cuándo se llena: Tan pronto como la atención identifica un caso que cumple definición de sospechoso/probable para la enfermedad correspondiente; no esperar cultivo, NS1, PCR o anticuerpos confirmatorios si la norma exige vigilancia del sospechoso.",
+          "Diferencia caso sospechoso, probable y confirmado: Sospechoso/probable combina criterios clínicos y epidemiológicos establecidos por norma. Confirmado requiere evidencia de laboratorio, nexo o clasificación oficial. La definición varía según enfermedad y versión normativa.",
+          "Dengue en NTS 211: Paciente febril con contexto epidemiológico y signos compatibles requiere valoración de fase, signos de alarma, hemodinámica, hidratación y comorbilidades. La decisión clínica puede tomarse antes del laboratorio.",
+          "Notificación oportuna: El llenado de ficha y la notificación son pasos relacionados pero distintos. Para dengue la vigilancia exige notificar casos probables/confirmados conforme periodicidad y normativa vigente; no esperar segunda cita.",
+          "Lugar de residencia frente a lugar de infección: Preguntar ubicación actual, residencia habitual, viajes y desplazamientos en período relevante. Un caso diagnosticado en Lima puede haberse infectado en Pucallpa; no asumir transmisión local por lugar de diagnóstico.",
+          "Línea temporal: Registrar inicio de fiebre, toma de muestra, viaje, exposición, inicio de alarma y consulta. La oportunidad y tipo de prueba de dengue dependen de día de enfermedad; NS1/RT-PCR son más útiles temprano, serología IgM más adelante.",
+          "Dengue con signos de alarma: Dolor abdominal persistente, vómitos persistentes, hemorragia de mucosas, letargo, acumulación de líquidos y aumento de hematocrito/otros según criterio. Si existen, evaluar urgencia hospitalaria y fluidos apropiados.",
+          "Adulto mayor y comorbilidades: La edad mayor, diabetes, HTA, insuficiencia renal o riesgo social pueden modificar necesidad de vigilancia/observación. Evitar asumir que un cuadro aparentemente leve carece de riesgo.",
+          "Diferenciales de fiebre postviaje: Paludismo, leptospirosis, fiebre amarilla, infección intestinal, chikungunya, zika, influenza, otras infecciones tropicales. Investigar fiebre, viajes, vacunas, agua y alimentos, vectores y posibles contactos.",
+          "Calidad del dato: Evitar fichas sin DNI o identificador alternativo, fechas imposibles, incongruencia entre residencia/procedencia, muestra sin vínculo con ficha y errores de clasificación. Registrar cambios cuando haya resultados.",
+          "Rol del primer nivel: La vigilancia inicia donde se detecta caso; registrar, referir si grave, informar al equipo epidemiológico, obtener muestras según capacidad y hacer seguimiento sin esperar confirmación.",
+          "No confundir vigilancia con demora: La ficha no es una autorización administrativa para tratar. Si hay shock, alterar sensorio o deshidratación grave, estabilizar mientras se inicia registro y notificación."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Esperar resultados demora información epidemiológica y contradice llenado oportuno cuando se cumple definición operativa.",
+          "B": "La segunda consulta es demasiado tardía para investigar y controlar un caso sospechoso.",
+          "C": "Clave del PDF. La ficha se completa inmediatamente al identificar caso bajo vigilancia y se ajusta tras laboratorio.",
+          "D": "La RIS coordina la vigilancia, pero el EESS no debe esperar solicitud expresa para llenar ficha obligatoria."
+        },
+        "normativa": [
+          {
+            "nombre": "MINSA NTS 211-MINSA/DGIESP-2024: atención integral de dengue",
+            "url": "https://bvs.minsa.gob.pe/local/MINSA/7487.pdf",
+            "aplicacion": "Incluye flujograma de caso probable con ficha clínico-epidemiológica y notificación."
+          },
+          {
+            "nombre": "DGE, ficha epidemiológica de dengue",
+            "url": "https://www.dge.gob.pe/portal/docs/vigilancia/herramientas/fichas/f_dengue.pdf",
+            "aplicacion": "Campos de procedencia, evolución, laboratorio y clasificación."
+          },
+          {
+            "nombre": "CDC, manejo clínico de dengue, abril 2026",
+            "url": "https://www.cdc.gov/dengue/es/hcp/clinical-care/manejo-clinico.html",
+            "aplicacion": "Vigilancia de signos de alarma y necesidad de actuar antes de confirmación en casos graves."
+          },
+          {
+            "nombre": "MINSA, orientación oficial de dengue",
+            "url": "https://www.gob.pe/41804",
+            "aplicacion": "Síntomas, signos de alarma y urgencia de atención."
+          }
+        ],
+        "mnemotecnia": "**Sospecho → Registro → Notifico → Muestra → Reclasifico**. La ficha se abre HOY; el laboratorio llega DESPUÉS. Imagina un médico de guardia escribiendo en la ficha mientras el tubo de sangre sale hacia laboratorio.",
+        "trampas": [
+          "Se llena de inmediato SI CUMPLE DEFINICIÓN de caso; fiebre gastrointestinal aislada no prueba dengue.",
+          "La confirmación no es requisito universal para comenzar vigilancia de sospechosos.",
+          "No confundir lugar de diagnóstico con lugar probable de infección.",
+          "Notificación y ficha son acciones asociadas pero no idénticas.",
+          "Resultados negativos precoces pueden requerir interpretación por día de evolución.",
+          "La clasificación puede cambiar al llegar laboratorio: la ficha se actualiza.",
+          "Vómitos aislados no son necesariamente vómitos persistentes de alarma: cuantificar.",
+          "No demorar estabilización de un enfermo grave para completar formularios."
+        ],
+        "perla": "P32-C: ficha clínico-epidemiológica INMEDIATA cuando caso cumple criterio de vigilancia; NO esperar prueba de laboratorio.",
+        "repaso_activo": [
+          {
+            "pregunta": "¿Qué clave marca el PDF?",
+            "respuesta": "C, inmediatamente."
+          },
+          {
+            "pregunta": "¿Por qué no esperar laboratorio?",
+            "respuesta": "Porque sospecha/probable puede requerir notificación antes de confirmación."
+          },
+          {
+            "pregunta": "¿Qué exige el contexto de viaje Pucallpa–Lima?",
+            "respuesta": "Registrar residencia, fechas de viaje y posible lugar de adquisición."
+          },
+          {
+            "pregunta": "¿Fiebre y diarrea solos confirman dengue?",
+            "respuesta": "No, aplicar definiciones de caso y diferenciales."
+          },
+          {
+            "pregunta": "¿Qué se registra al llegar la prueba?",
+            "respuesta": "Resultado y eventual reclasificación."
+          },
+          {
+            "pregunta": "¿Qué hacer ante choque mientras se llena la ficha?",
+            "respuesta": "Estabilizar de inmediato, coordinando registro/notificación."
+          }
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Paciente procedente de zona con dengue tiene fiebre, cefalea y mialgias, reúne definición de caso sospechoso y se envía NS1. ¿Cuándo inicia el llenado de ficha?",
+            "alternativas": {
+              "A": "Tras NS1 positivo",
+              "B": "Solo en control de 48 h",
+              "C": "Inmediatamente durante atención",
+              "D": "Al cierre del mes epidemiológico"
+            },
+            "respuesta": "C",
+            "explicacion": "Se registra sospecha de manera oportuna; laboratorio sirve para clasificación posterior."
+          },
+          {
+            "enunciado": "Paciente con diarrea y fiebre tras un viaje, sin criterios suficientes de dengue todavía. ¿Qué debe hacer el médico?",
+            "alternativas": {
+              "A": "Clasificar automáticamente dengue confirmado.",
+              "B": "No preguntar antecedentes ni signos de alarma.",
+              "C": "Esperar una segunda visita para toda evaluación.",
+              "D": "Evaluar definición de caso, diferenciales, signos de alarma y determinar fichas/notificación pertinentes."
+            },
+            "respuesta": "D",
+            "explicacion": "La rapidez de documentación depende de identificar caso que cumpla criterios, no de suponer diagnóstico sin evidencia."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Ficha clínico-epidemiológica: llenado inmediato de sospecha de enfermedad bajo vigilancia",
+          "eje": "NTS 211-MINSA/DGIESP-2024, dengue · Caso probable y vigilancia",
+          "confiabilidad": "Clave resaltada en cuadernillo del usuario; no implica que tabla oficial separada haya sido cotejada.",
+          "respuesta_resumida": "C. Inmediatamente",
+          "razonamiento": [
+            "El cuadernillo marca C, INMEDIATAMENTE. El adulto mayor procede de Pucallpa y llega a Lima con fiebre y síntomas gastrointestinales recientes. En el contexto epidemiológico podría sospecharse dengue u otra enfermedad febril sujeta a vigilancia. La lógica examinadora consiste en abrir la ficha clínico-epidemiológica cuando se identifica un caso que cumple la definición operativa y no esperar resultados de laboratorio.",
+            "La NTS N.º 211-MINSA/DGIESP-2024 de atención integral de dengue indica que al paciente que cumple definición de caso debe llenarse ficha clínica epidemiológica inmediatamente y notificarse conforme a procedimientos; no hay que aguardar prueba positiva para documentar el episodio. El resultado se incorpora después y puede confirmar, descartar o reclasificar el caso.",
+            "**Limitación clínica del enunciado**: fiebre de un día, náuseas, vómitos y diarrea sin cefalea, mialgia, exantema ni datos epidemiológicos adicionales no prueban que cumpla una definición formal de dengue. Tampoco autoriza etiquetar dengue confirmado. Antes de activar una ficha específica se verifica la definición vigente y se considera paludismo, gastroenteritis, leptospirosis, fiebre amarilla y otros según exposición e historia de viaje.",
+            "El vínculo Pucallpa–Lima exige registrar fecha de inicio de síntomas, fecha de viaje, lugares de exposición y residencia habitual, para diferenciar caso importado nacional, autóctono o adquisición desconocida. La ficha es parte del proceso de vigilancia, no reemplaza manejo inmediato de signos de alarma o shock."
+          ],
+          "temario": [
+            {
+              "subtitulo": "Ficha clínico-epidemiológica",
+              "texto": "Instrumento estandarizado de datos de identificación, clínica, exposición, fechas, lugar de procedencia, laboratorios, clasificación y evolución de un caso bajo vigilancia. Su completitud permite investigación y decisiones sanitarias."
+            },
+            {
+              "subtitulo": "Cuándo se llena",
+              "texto": "Tan pronto como la atención identifica un caso que cumple definición de sospechoso/probable para la enfermedad correspondiente; no esperar cultivo, NS1, PCR o anticuerpos confirmatorios si la norma exige vigilancia del sospechoso."
+            },
+            {
+              "subtitulo": "Diferencia caso sospechoso, probable y confirmado",
+              "texto": "Sospechoso/probable combina criterios clínicos y epidemiológicos establecidos por norma. Confirmado requiere evidencia de laboratorio, nexo o clasificación oficial. La definición varía según enfermedad y versión normativa."
+            },
+            {
+              "subtitulo": "Dengue en NTS 211",
+              "texto": "Paciente febril con contexto epidemiológico y signos compatibles requiere valoración de fase, signos de alarma, hemodinámica, hidratación y comorbilidades. La decisión clínica puede tomarse antes del laboratorio."
+            },
+            {
+              "subtitulo": "Notificación oportuna",
+              "texto": "El llenado de ficha y la notificación son pasos relacionados pero distintos. Para dengue la vigilancia exige notificar casos probables/confirmados conforme periodicidad y normativa vigente; no esperar segunda cita."
+            },
+            {
+              "subtitulo": "Lugar de residencia frente a lugar de infección",
+              "texto": "Preguntar ubicación actual, residencia habitual, viajes y desplazamientos en período relevante. Un caso diagnosticado en Lima puede haberse infectado en Pucallpa; no asumir transmisión local por lugar de diagnóstico."
+            },
+            {
+              "subtitulo": "Línea temporal",
+              "texto": "Registrar inicio de fiebre, toma de muestra, viaje, exposición, inicio de alarma y consulta. La oportunidad y tipo de prueba de dengue dependen de día de enfermedad; NS1/RT-PCR son más útiles temprano, serología IgM más adelante."
+            },
+            {
+              "subtitulo": "Dengue con signos de alarma",
+              "texto": "Dolor abdominal persistente, vómitos persistentes, hemorragia de mucosas, letargo, acumulación de líquidos y aumento de hematocrito/otros según criterio. Si existen, evaluar urgencia hospitalaria y fluidos apropiados."
+            },
+            {
+              "subtitulo": "Adulto mayor y comorbilidades",
+              "texto": "La edad mayor, diabetes, HTA, insuficiencia renal o riesgo social pueden modificar necesidad de vigilancia/observación. Evitar asumir que un cuadro aparentemente leve carece de riesgo."
+            },
+            {
+              "subtitulo": "Diferenciales de fiebre postviaje",
+              "texto": "Paludismo, leptospirosis, fiebre amarilla, infección intestinal, chikungunya, zika, influenza, otras infecciones tropicales. Investigar fiebre, viajes, vacunas, agua y alimentos, vectores y posibles contactos."
+            },
+            {
+              "subtitulo": "Calidad del dato",
+              "texto": "Evitar fichas sin DNI o identificador alternativo, fechas imposibles, incongruencia entre residencia/procedencia, muestra sin vínculo con ficha y errores de clasificación. Registrar cambios cuando haya resultados."
+            },
+            {
+              "subtitulo": "Rol del primer nivel",
+              "texto": "La vigilancia inicia donde se detecta caso; registrar, referir si grave, informar al equipo epidemiológico, obtener muestras según capacidad y hacer seguimiento sin esperar confirmación."
+            },
+            {
+              "subtitulo": "No confundir vigilancia con demora",
+              "texto": "La ficha no es una autorización administrativa para tratar. Si hay shock, alterar sensorio o deshidratación grave, estabilizar mientras se inicia registro y notificación."
+            }
+          ],
+          "distractores": {
+            "A": "Esperar resultados demora información epidemiológica y contradice llenado oportuno cuando se cumple definición operativa.",
+            "B": "La segunda consulta es demasiado tardía para investigar y controlar un caso sospechoso.",
+            "C": "Clave del PDF. La ficha se completa inmediatamente al identificar caso bajo vigilancia y se ajusta tras laboratorio.",
+            "D": "La RIS coordina la vigilancia, pero el EESS no debe esperar solicitud expresa para llenar ficha obligatoria."
+          },
+          "normativa": [
+            {
+              "nombre": "MINSA NTS 211-MINSA/DGIESP-2024: atención integral de dengue",
+              "url": "https://bvs.minsa.gob.pe/local/MINSA/7487.pdf",
+              "aplicacion": "Incluye flujograma de caso probable con ficha clínico-epidemiológica y notificación."
+            },
+            {
+              "nombre": "DGE, ficha epidemiológica de dengue",
+              "url": "https://www.dge.gob.pe/portal/docs/vigilancia/herramientas/fichas/f_dengue.pdf",
+              "aplicacion": "Campos de procedencia, evolución, laboratorio y clasificación."
+            },
+            {
+              "nombre": "CDC, manejo clínico de dengue, abril 2026",
+              "url": "https://www.cdc.gov/dengue/es/hcp/clinical-care/manejo-clinico.html",
+              "aplicacion": "Vigilancia de signos de alarma y necesidad de actuar antes de confirmación en casos graves."
+            },
+            {
+              "nombre": "MINSA, orientación oficial de dengue",
+              "url": "https://www.gob.pe/41804",
+              "aplicacion": "Síntomas, signos de alarma y urgencia de atención."
+            }
+          ],
+          "mnemotecnia": "**Sospecho → Registro → Notifico → Muestra → Reclasifico**. La ficha se abre HOY; el laboratorio llega DESPUÉS. Imagina un médico de guardia escribiendo en la ficha mientras el tubo de sangre sale hacia laboratorio.",
+          "trampas": [
+            "Se llena de inmediato SI CUMPLE DEFINICIÓN de caso; fiebre gastrointestinal aislada no prueba dengue.",
+            "La confirmación no es requisito universal para comenzar vigilancia de sospechosos.",
+            "No confundir lugar de diagnóstico con lugar probable de infección.",
+            "Notificación y ficha son acciones asociadas pero no idénticas.",
+            "Resultados negativos precoces pueden requerir interpretación por día de evolución.",
+            "La clasificación puede cambiar al llegar laboratorio: la ficha se actualiza.",
+            "Vómitos aislados no son necesariamente vómitos persistentes de alarma: cuantificar.",
+            "No demorar estabilización de un enfermo grave para completar formularios."
+          ],
+          "perla": "P32-C: ficha clínico-epidemiológica INMEDIATA cuando caso cumple criterio de vigilancia; NO esperar prueba de laboratorio.",
+          "repaso_activo": [
+            {
+              "pregunta": "¿Qué clave marca el PDF?",
+              "respuesta": "C, inmediatamente."
+            },
+            {
+              "pregunta": "¿Por qué no esperar laboratorio?",
+              "respuesta": "Porque sospecha/probable puede requerir notificación antes de confirmación."
+            },
+            {
+              "pregunta": "¿Qué exige el contexto de viaje Pucallpa–Lima?",
+              "respuesta": "Registrar residencia, fechas de viaje y posible lugar de adquisición."
+            },
+            {
+              "pregunta": "¿Fiebre y diarrea solos confirman dengue?",
+              "respuesta": "No, aplicar definiciones de caso y diferenciales."
+            },
+            {
+              "pregunta": "¿Qué se registra al llegar la prueba?",
+              "respuesta": "Resultado y eventual reclasificación."
+            },
+            {
+              "pregunta": "¿Qué hacer ante choque mientras se llena la ficha?",
+              "respuesta": "Estabilizar de inmediato, coordinando registro/notificación."
+            }
+          ],
+          "refuerzo": [
+            {
+              "enunciado": "Paciente procedente de zona con dengue tiene fiebre, cefalea y mialgias, reúne definición de caso sospechoso y se envía NS1. ¿Cuándo inicia el llenado de ficha?",
+              "alternativas": {
+                "A": "Tras NS1 positivo",
+                "B": "Solo en control de 48 h",
+                "C": "Inmediatamente durante atención",
+                "D": "Al cierre del mes epidemiológico"
+              },
+              "respuesta": "C",
+              "explicacion": "Se registra sospecha de manera oportuna; laboratorio sirve para clasificación posterior."
+            },
+            {
+              "enunciado": "Paciente con diarrea y fiebre tras un viaje, sin criterios suficientes de dengue todavía. ¿Qué debe hacer el médico?",
+              "alternativas": {
+                "A": "Clasificar automáticamente dengue confirmado.",
+                "B": "No preguntar antecedentes ni signos de alarma.",
+                "C": "Esperar una segunda visita para toda evaluación.",
+                "D": "Evaluar definición de caso, diferenciales, signos de alarma y determinar fichas/notificación pertinentes."
+              },
+              "respuesta": "D",
+              "explicacion": "La rapidez de documentación depende de identificar caso que cumpla criterios, no de suponer diagnóstico sin evidencia."
+            }
+          ]
+        }
+      }
     },
     {
       "number": 33,
