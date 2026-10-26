@@ -2725,8 +2725,8 @@
     {
       "number": 13,
       "code": "ENCAPS26-II P013",
-      "course": "ENCAPS Medicina · Por desarrollar",
-      "topic": "ENCAPS Medicina 2026-II",
+      "course": "Epidemiología · Sistemas de información",
+      "topic": "Registros de hechos vitales como fuente de información poblacional",
       "question": "Dentro del marco de la salud pública, una de las fuentes de datos para la información en salud basada en la población es el registro de...",
       "options": {
         "A": "actividades administrativas.",
@@ -2735,18 +2735,245 @@
         "D": "servicios prestados."
       },
       "correct": "C",
-      "comment": "Tema pendiente de desarrollo detallado. La alternativa correcta indicada es la resaltada en el PDF del usuario; todavía no se ha cotejado independientemente contra el listado oficial de claves del MINSA.",
-      "pearl": "",
-      "keywords": [],
-      "estadoDesarrollo": "pendiente",
+      "comment": "CLAVE DEL PDF\n\nC. hechos vitales. (clave resaltada en PDF aportado).\n\nRAZONAMIENTO\n\nLa clave resaltada es C: hechos vitales. El enunciado diferencia información basada en la población frente a información originada por actividades del establecimiento. Los nacimientos y defunciones registrados son acontecimientos demográficos que ocurren en la población, independientemente de que la persona use consulta externa.\n\nUna estadística de atenciones es útil, pero depende de acceso, oferta, cobertura y demanda del servicio. Si dos distritos registran diez consultas por asma, ello no demuestra igual prevalencia de asma; puede reflejar distancias distintas al centro de salud. Para estudiar mortalidad y natalidad se requieren registros de hechos vitales y sus denominadores.\n\nEl examen usa «registro de hechos vitales» como categoría de información poblacional. No significa que sea un sistema perfecto ni que las defunciones ocurridas fuera de un hospital siempre se registren oportunamente. La subinscripción y los errores de certificación modifican la calidad de los indicadores.\n\nDESARROLLO DEL TEMARIO\n\nPoblacional frente a institucional\nFuentes poblacionales: censo, encuestas de hogares, registros civiles y estadísticas vitales. Fuentes institucionales: HIS, atenciones, egresos, procedimientos, producción de servicios y registros administrativos. Las primeras intentan describir hechos de toda una población; las segundas describen principalmente eventos captados por el sistema de atención.\n\nHechos vitales: concepto\nSon sucesos relevantes para la vida y el estado civil, especialmente nacimientos y defunciones en los indicadores de salud. Dependiendo del sistema estadístico también se consideran matrimonios y otros eventos civiles. En epidemiología los nacimientos y defunciones son básicos para estudiar natalidad, mortalidad, supervivencia y carga de enfermedad.\n\nCertificado de nacido vivo y registro del nacimiento\nEl certificado de nacido vivo acredita el nacimiento y contiene datos relevantes para el sistema de salud. El registro civil otorga existencia administrativa al hecho. Es importante distinguir la certificación sanitaria del registro civil; ambos pueden intercambiar información, pero no son el mismo documento ni procedimiento.\n\nDefunción: certificación y registro\nEl certificado médico de defunción consigna cadena causal y datos clínicos según reglas de certificación. El registro del fallecimiento alimenta estadísticas vitales. La causa básica de muerte, cuando está correctamente certificada y codificada, permite construir perfiles de mortalidad por causa, edad y territorio.\n\nTasa bruta de natalidad\nNacidos vivos durante el año ÷ población media del año × 1 000. Es distinta de la tasa global de fecundidad, que estima hijos promedio por mujer bajo tasas específicas de fecundidad. Para recién nacidos y salud materna se emplean denominadores distintos según indicador.\n\nTasa bruta de mortalidad\nDefunciones en un año ÷ población media del año × 1 000. Es sensible a la estructura por edades: dos territorios con calidad asistencial similar pueden mostrar mortalidad bruta distinta si uno concentra personas adultas mayores. Para comparación se puede requerir estandarización por edad.\n\nMortalidad infantil y materna\nMortalidad infantil: defunciones menores de un año por 1 000 nacidos vivos. Razón de mortalidad materna: defunciones maternas por 100 000 nacidos vivos, con definiciones y reglas específicas. No confundir razón, tasa y proporción: el denominador y periodo cambian.\n\nAplicación ASIS en un primer nivel rural\nPara elaborar ASIS compara estructura etaria, nacimientos, defunciones, causas principales, indicadores sociales, notificaciones, HIS y determinantes territoriales. La comunidad puede tener barreras de registro, población migrante o nacimientos extrainstitucionales: por eso deben identificarse limitaciones de cobertura de cada fuente.\n\nSesgos de sistemas de registro\nSubregistro de nacimientos/defunciones, causas inespecíficas, diagnósticos mal codificados, retraso de inscripción, residencia registrada distinta del lugar de atención y duplicación de registros. No presentar «número de atenciones» como «número de personas enfermas» sin deduplicación.\n\nANÁLISIS DE LAS ALTERNATIVAS\n\nA: Las actividades administrativas describen funcionamiento de la institución, no primordialmente acontecimientos demográficos de la población.\n\nB: «Estado de salud» es un constructo o resultado a medir; sin precisar encuesta o registro no designa la fuente poblacional concreta pedida en el ítem.\n\nC: Clave resaltada: registro de hechos vitales aporta nacimientos y defunciones para indicadores de la población.\n\nD: Servicios prestados son registros de producción y uso asistencial, condicionados por acceso, demanda y disponibilidad.\n\nNORMATIVA\n\nINEI — Estadísticas vitales y registro de nacimientos y defunciones — Información estadística poblacional; consultar metodología e indicadores vigentes. — https://www.inei.gob.pe/estadisticas/indice-tematico/health/\n\nMINSA — Sistema de Información de Nacimientos — Información y certificados de nacido vivo para registro y vigilancia. — https://www.minsa.gob.pe/cnv/\n\nMNEMOTECNIA\n\nVITAL = VIDA que EMPIEZA o TERMINA: nacimiento y defunción. Imagina una sala con dos puertas: una trae cunas y otra libros de certificados de defunción. HIS cuenta VISITAS; registro vital cuenta EVENTOS POBLACIONALES.\n\nTRAMPAS\n\nUn alta hospitalaria no equivale a un fallecimiento en la población general.\n\nAtenciones no equivalen a personas únicas.\n\nMortalidad infantil usa nacidos vivos, no población total, como denominador.\n\nLa razón de mortalidad materna se expresa habitualmente por 100 000 nacidos vivos.\n\nQue una fuente sea poblacional no garantiza ausencia de subregistro.\n\nLa ubicación del hospital no necesariamente es la residencia de la persona fallecida.\n\nPERLA\n\nENCAPS 2026-II, P13-C: HECHOS VITALES (nacimientos y defunciones) son fuente de información basada en la población; HIS registra servicios.\n\nREPASO ACTIVO\n\n¿Qué distingue un registro de atenciones de uno de hechos vitales? — Atenciones provienen del uso de servicios; hechos vitales son acontecimientos demográficos.\n\n¿Cuál es el numerador de la tasa bruta de mortalidad? — Defunciones ocurridas en el periodo.\n\n¿Cuál es su denominador? — Población media del periodo, normalmente ×1 000.\n\n¿Cuál es el denominador de mortalidad infantil? — Nacidos vivos del periodo.\n\n¿Por qué un número de consultas no mide prevalencia de enfermedad? — Una persona puede consultar varias veces y existen casos que no llegan al servicio.\n\n¿Qué amenaza la validez de un registro vital? — Subregistro y deficiencias de certificación o codificación.\n\nREFUERZO DIFÍCIL\n\nUna RIS quiere comparar mortalidad global entre dos distritos con proporciones muy diferentes de adultos mayores. ¿Qué análisis mejora la comparabilidad? A) Usar solo defunciones hospitalarias.; B) Estandarizar tasas por edad.; C) Dividir las consultas entre egresos.; D) Comparar cifras absolutas de muertes. Clave B. La composición por edades afecta la tasa bruta. La estandarización puede corregir esta diferencia para comparaciones.\n\nUn centro reporta 180 controles de diabetes durante enero, con 50 personas atendidas. ¿Qué mide directamente el número 180? A) Incidencia de diabetes en la comunidad.; B) Prevalencia poblacional de diabetes.; C) Mortalidad específica por diabetes.; D) Producción de servicios o contactos. Clave D. Se trata del volumen de atenciones, no de pacientes nuevos, prevalencia o mortalidad.",
+      "pearl": "ENCAPS 2026-II, P13-C: HECHOS VITALES (nacimientos y defunciones) son fuente de información basada en la población; HIS registra servicios.",
+      "keywords": [
+        "hechos vitales",
+        "nacimiento",
+        "defunción",
+        "registro civil",
+        "mortalidad",
+        "natalidad",
+        "información poblacional"
+      ],
+      "estadoDesarrollo": "completo",
       "estadoClave": "resaltada_en_pdf_usuario_no_cotejada_independientemente_con_tabla_minsa",
-      "lesson": null
+      "lesson": {
+        "respuesta_resumida": "C. hechos vitales. (clave resaltada en PDF aportado).",
+        "razonamiento": "La clave resaltada es C: hechos vitales. El enunciado diferencia información basada en la población frente a información originada por actividades del establecimiento. Los nacimientos y defunciones registrados son acontecimientos demográficos que ocurren en la población, independientemente de que la persona use consulta externa.\n\nUna estadística de atenciones es útil, pero depende de acceso, oferta, cobertura y demanda del servicio. Si dos distritos registran diez consultas por asma, ello no demuestra igual prevalencia de asma; puede reflejar distancias distintas al centro de salud. Para estudiar mortalidad y natalidad se requieren registros de hechos vitales y sus denominadores.\n\nEl examen usa «registro de hechos vitales» como categoría de información poblacional. No significa que sea un sistema perfecto ni que las defunciones ocurridas fuera de un hospital siempre se registren oportunamente. La subinscripción y los errores de certificación modifican la calidad de los indicadores.",
+        "temario": [
+          "Poblacional frente a institucional: Fuentes poblacionales: censo, encuestas de hogares, registros civiles y estadísticas vitales. Fuentes institucionales: HIS, atenciones, egresos, procedimientos, producción de servicios y registros administrativos. Las primeras intentan describir hechos de toda una población; las segundas describen principalmente eventos captados por el sistema de atención.",
+          "Hechos vitales: concepto: Son sucesos relevantes para la vida y el estado civil, especialmente nacimientos y defunciones en los indicadores de salud. Dependiendo del sistema estadístico también se consideran matrimonios y otros eventos civiles. En epidemiología los nacimientos y defunciones son básicos para estudiar natalidad, mortalidad, supervivencia y carga de enfermedad.",
+          "Certificado de nacido vivo y registro del nacimiento: El certificado de nacido vivo acredita el nacimiento y contiene datos relevantes para el sistema de salud. El registro civil otorga existencia administrativa al hecho. Es importante distinguir la certificación sanitaria del registro civil; ambos pueden intercambiar información, pero no son el mismo documento ni procedimiento.",
+          "Defunción: certificación y registro: El certificado médico de defunción consigna cadena causal y datos clínicos según reglas de certificación. El registro del fallecimiento alimenta estadísticas vitales. La causa básica de muerte, cuando está correctamente certificada y codificada, permite construir perfiles de mortalidad por causa, edad y territorio.",
+          "Tasa bruta de natalidad: Nacidos vivos durante el año ÷ población media del año × 1 000. Es distinta de la tasa global de fecundidad, que estima hijos promedio por mujer bajo tasas específicas de fecundidad. Para recién nacidos y salud materna se emplean denominadores distintos según indicador.",
+          "Tasa bruta de mortalidad: Defunciones en un año ÷ población media del año × 1 000. Es sensible a la estructura por edades: dos territorios con calidad asistencial similar pueden mostrar mortalidad bruta distinta si uno concentra personas adultas mayores. Para comparación se puede requerir estandarización por edad.",
+          "Mortalidad infantil y materna: Mortalidad infantil: defunciones menores de un año por 1 000 nacidos vivos. Razón de mortalidad materna: defunciones maternas por 100 000 nacidos vivos, con definiciones y reglas específicas. No confundir razón, tasa y proporción: el denominador y periodo cambian.",
+          "Aplicación ASIS en un primer nivel rural: Para elaborar ASIS compara estructura etaria, nacimientos, defunciones, causas principales, indicadores sociales, notificaciones, HIS y determinantes territoriales. La comunidad puede tener barreras de registro, población migrante o nacimientos extrainstitucionales: por eso deben identificarse limitaciones de cobertura de cada fuente.",
+          "Sesgos de sistemas de registro: Subregistro de nacimientos/defunciones, causas inespecíficas, diagnósticos mal codificados, retraso de inscripción, residencia registrada distinta del lugar de atención y duplicación de registros. No presentar «número de atenciones» como «número de personas enfermas» sin deduplicación."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Las actividades administrativas describen funcionamiento de la institución, no primordialmente acontecimientos demográficos de la población.",
+          "B": "«Estado de salud» es un constructo o resultado a medir; sin precisar encuesta o registro no designa la fuente poblacional concreta pedida en el ítem.",
+          "C": "Clave resaltada: registro de hechos vitales aporta nacimientos y defunciones para indicadores de la población.",
+          "D": "Servicios prestados son registros de producción y uso asistencial, condicionados por acceso, demanda y disponibilidad."
+        },
+        "normativa": [
+          {
+            "nombre": "INEI — Estadísticas vitales y registro de nacimientos y defunciones",
+            "url": "https://www.inei.gob.pe/estadisticas/indice-tematico/health/",
+            "aplicacion": "Información estadística poblacional; consultar metodología e indicadores vigentes."
+          },
+          {
+            "nombre": "MINSA — Sistema de Información de Nacimientos",
+            "url": "https://www.minsa.gob.pe/cnv/",
+            "aplicacion": "Información y certificados de nacido vivo para registro y vigilancia."
+          }
+        ],
+        "mnemotecnia": "VITAL = VIDA que EMPIEZA o TERMINA: nacimiento y defunción. Imagina una sala con dos puertas: una trae cunas y otra libros de certificados de defunción. HIS cuenta VISITAS; registro vital cuenta EVENTOS POBLACIONALES.",
+        "trampas": [
+          "Un alta hospitalaria no equivale a un fallecimiento en la población general.",
+          "Atenciones no equivalen a personas únicas.",
+          "Mortalidad infantil usa nacidos vivos, no población total, como denominador.",
+          "La razón de mortalidad materna se expresa habitualmente por 100 000 nacidos vivos.",
+          "Que una fuente sea poblacional no garantiza ausencia de subregistro.",
+          "La ubicación del hospital no necesariamente es la residencia de la persona fallecida."
+        ],
+        "perla": "ENCAPS 2026-II, P13-C: HECHOS VITALES (nacimientos y defunciones) son fuente de información basada en la población; HIS registra servicios.",
+        "repaso_activo": [
+          {
+            "pregunta": "¿Qué distingue un registro de atenciones de uno de hechos vitales?",
+            "respuesta": "Atenciones provienen del uso de servicios; hechos vitales son acontecimientos demográficos."
+          },
+          {
+            "pregunta": "¿Cuál es el numerador de la tasa bruta de mortalidad?",
+            "respuesta": "Defunciones ocurridas en el periodo."
+          },
+          {
+            "pregunta": "¿Cuál es su denominador?",
+            "respuesta": "Población media del periodo, normalmente ×1 000."
+          },
+          {
+            "pregunta": "¿Cuál es el denominador de mortalidad infantil?",
+            "respuesta": "Nacidos vivos del periodo."
+          },
+          {
+            "pregunta": "¿Por qué un número de consultas no mide prevalencia de enfermedad?",
+            "respuesta": "Una persona puede consultar varias veces y existen casos que no llegan al servicio."
+          },
+          {
+            "pregunta": "¿Qué amenaza la validez de un registro vital?",
+            "respuesta": "Subregistro y deficiencias de certificación o codificación."
+          }
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Una RIS quiere comparar mortalidad global entre dos distritos con proporciones muy diferentes de adultos mayores. ¿Qué análisis mejora la comparabilidad?",
+            "alternativas": {
+              "A": "Usar solo defunciones hospitalarias.",
+              "B": "Estandarizar tasas por edad.",
+              "C": "Dividir las consultas entre egresos.",
+              "D": "Comparar cifras absolutas de muertes."
+            },
+            "respuesta": "B",
+            "explicacion": "La composición por edades afecta la tasa bruta. La estandarización puede corregir esta diferencia para comparaciones."
+          },
+          {
+            "enunciado": "Un centro reporta 180 controles de diabetes durante enero, con 50 personas atendidas. ¿Qué mide directamente el número 180?",
+            "alternativas": {
+              "A": "Incidencia de diabetes en la comunidad.",
+              "B": "Prevalencia poblacional de diabetes.",
+              "C": "Mortalidad específica por diabetes.",
+              "D": "Producción de servicios o contactos."
+            },
+            "respuesta": "D",
+            "explicacion": "Se trata del volumen de atenciones, no de pacientes nuevos, prevalencia o mortalidad."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Registros de hechos vitales como fuente de información poblacional",
+          "eje": "Salud pública / Estadísticas vitales / ASIS",
+          "confiabilidad": "clave_resaltada_en_pdf_usuario_no_cotejada_con_tabla_oficial",
+          "respuesta_resumida": "C. hechos vitales.",
+          "razonamiento": [
+            "La clave resaltada es C: hechos vitales. El enunciado diferencia información basada en la población frente a información originada por actividades del establecimiento. Los nacimientos y defunciones registrados son acontecimientos demográficos que ocurren en la población, independientemente de que la persona use consulta externa.",
+            "Una estadística de atenciones es útil, pero depende de acceso, oferta, cobertura y demanda del servicio. Si dos distritos registran diez consultas por asma, ello no demuestra igual prevalencia de asma; puede reflejar distancias distintas al centro de salud. Para estudiar mortalidad y natalidad se requieren registros de hechos vitales y sus denominadores.",
+            "El examen usa «registro de hechos vitales» como categoría de información poblacional. No significa que sea un sistema perfecto ni que las defunciones ocurridas fuera de un hospital siempre se registren oportunamente. La subinscripción y los errores de certificación modifican la calidad de los indicadores."
+          ],
+          "temario": [
+            {
+              "subtitulo": "Poblacional frente a institucional",
+              "texto": "Fuentes poblacionales: censo, encuestas de hogares, registros civiles y estadísticas vitales. Fuentes institucionales: HIS, atenciones, egresos, procedimientos, producción de servicios y registros administrativos. Las primeras intentan describir hechos de toda una población; las segundas describen principalmente eventos captados por el sistema de atención."
+            },
+            {
+              "subtitulo": "Hechos vitales: concepto",
+              "texto": "Son sucesos relevantes para la vida y el estado civil, especialmente nacimientos y defunciones en los indicadores de salud. Dependiendo del sistema estadístico también se consideran matrimonios y otros eventos civiles. En epidemiología los nacimientos y defunciones son básicos para estudiar natalidad, mortalidad, supervivencia y carga de enfermedad."
+            },
+            {
+              "subtitulo": "Certificado de nacido vivo y registro del nacimiento",
+              "texto": "El certificado de nacido vivo acredita el nacimiento y contiene datos relevantes para el sistema de salud. El registro civil otorga existencia administrativa al hecho. Es importante distinguir la certificación sanitaria del registro civil; ambos pueden intercambiar información, pero no son el mismo documento ni procedimiento."
+            },
+            {
+              "subtitulo": "Defunción: certificación y registro",
+              "texto": "El certificado médico de defunción consigna cadena causal y datos clínicos según reglas de certificación. El registro del fallecimiento alimenta estadísticas vitales. La causa básica de muerte, cuando está correctamente certificada y codificada, permite construir perfiles de mortalidad por causa, edad y territorio."
+            },
+            {
+              "subtitulo": "Tasa bruta de natalidad",
+              "texto": "Nacidos vivos durante el año ÷ población media del año × 1 000. Es distinta de la tasa global de fecundidad, que estima hijos promedio por mujer bajo tasas específicas de fecundidad. Para recién nacidos y salud materna se emplean denominadores distintos según indicador."
+            },
+            {
+              "subtitulo": "Tasa bruta de mortalidad",
+              "texto": "Defunciones en un año ÷ población media del año × 1 000. Es sensible a la estructura por edades: dos territorios con calidad asistencial similar pueden mostrar mortalidad bruta distinta si uno concentra personas adultas mayores. Para comparación se puede requerir estandarización por edad."
+            },
+            {
+              "subtitulo": "Mortalidad infantil y materna",
+              "texto": "Mortalidad infantil: defunciones menores de un año por 1 000 nacidos vivos. Razón de mortalidad materna: defunciones maternas por 100 000 nacidos vivos, con definiciones y reglas específicas. No confundir razón, tasa y proporción: el denominador y periodo cambian."
+            },
+            {
+              "subtitulo": "Aplicación ASIS en un primer nivel rural",
+              "texto": "Para elaborar ASIS compara estructura etaria, nacimientos, defunciones, causas principales, indicadores sociales, notificaciones, HIS y determinantes territoriales. La comunidad puede tener barreras de registro, población migrante o nacimientos extrainstitucionales: por eso deben identificarse limitaciones de cobertura de cada fuente."
+            },
+            {
+              "subtitulo": "Sesgos de sistemas de registro",
+              "texto": "Subregistro de nacimientos/defunciones, causas inespecíficas, diagnósticos mal codificados, retraso de inscripción, residencia registrada distinta del lugar de atención y duplicación de registros. No presentar «número de atenciones» como «número de personas enfermas» sin deduplicación."
+            }
+          ],
+          "distractores": {
+            "A": "Las actividades administrativas describen funcionamiento de la institución, no primordialmente acontecimientos demográficos de la población.",
+            "B": "«Estado de salud» es un constructo o resultado a medir; sin precisar encuesta o registro no designa la fuente poblacional concreta pedida en el ítem.",
+            "C": "Clave resaltada: registro de hechos vitales aporta nacimientos y defunciones para indicadores de la población.",
+            "D": "Servicios prestados son registros de producción y uso asistencial, condicionados por acceso, demanda y disponibilidad."
+          },
+          "normativa": [
+            {
+              "nombre": "INEI — Estadísticas vitales y registro de nacimientos y defunciones",
+              "url": "https://www.inei.gob.pe/estadisticas/indice-tematico/health/",
+              "aplicacion": "Información estadística poblacional; consultar metodología e indicadores vigentes."
+            },
+            {
+              "nombre": "MINSA — Sistema de Información de Nacimientos",
+              "url": "https://www.minsa.gob.pe/cnv/",
+              "aplicacion": "Información y certificados de nacido vivo para registro y vigilancia."
+            }
+          ],
+          "mnemotecnia": "VITAL = VIDA que EMPIEZA o TERMINA: nacimiento y defunción. Imagina una sala con dos puertas: una trae cunas y otra libros de certificados de defunción. HIS cuenta VISITAS; registro vital cuenta EVENTOS POBLACIONALES.",
+          "trampas": [
+            "Un alta hospitalaria no equivale a un fallecimiento en la población general.",
+            "Atenciones no equivalen a personas únicas.",
+            "Mortalidad infantil usa nacidos vivos, no población total, como denominador.",
+            "La razón de mortalidad materna se expresa habitualmente por 100 000 nacidos vivos.",
+            "Que una fuente sea poblacional no garantiza ausencia de subregistro.",
+            "La ubicación del hospital no necesariamente es la residencia de la persona fallecida."
+          ],
+          "perla": "ENCAPS 2026-II, P13-C: HECHOS VITALES (nacimientos y defunciones) son fuente de información basada en la población; HIS registra servicios.",
+          "repaso_activo": [
+            {
+              "pregunta": "¿Qué distingue un registro de atenciones de uno de hechos vitales?",
+              "respuesta": "Atenciones provienen del uso de servicios; hechos vitales son acontecimientos demográficos."
+            },
+            {
+              "pregunta": "¿Cuál es el numerador de la tasa bruta de mortalidad?",
+              "respuesta": "Defunciones ocurridas en el periodo."
+            },
+            {
+              "pregunta": "¿Cuál es su denominador?",
+              "respuesta": "Población media del periodo, normalmente ×1 000."
+            },
+            {
+              "pregunta": "¿Cuál es el denominador de mortalidad infantil?",
+              "respuesta": "Nacidos vivos del periodo."
+            },
+            {
+              "pregunta": "¿Por qué un número de consultas no mide prevalencia de enfermedad?",
+              "respuesta": "Una persona puede consultar varias veces y existen casos que no llegan al servicio."
+            },
+            {
+              "pregunta": "¿Qué amenaza la validez de un registro vital?",
+              "respuesta": "Subregistro y deficiencias de certificación o codificación."
+            }
+          ],
+          "refuerzo": [
+            {
+              "enunciado": "Una RIS quiere comparar mortalidad global entre dos distritos con proporciones muy diferentes de adultos mayores. ¿Qué análisis mejora la comparabilidad?",
+              "alternativas": {
+                "A": "Usar solo defunciones hospitalarias.",
+                "B": "Estandarizar tasas por edad.",
+                "C": "Dividir las consultas entre egresos.",
+                "D": "Comparar cifras absolutas de muertes."
+              },
+              "respuesta": "B",
+              "explicacion": "La composición por edades afecta la tasa bruta. La estandarización puede corregir esta diferencia para comparaciones."
+            },
+            {
+              "enunciado": "Un centro reporta 180 controles de diabetes durante enero, con 50 personas atendidas. ¿Qué mide directamente el número 180?",
+              "alternativas": {
+                "A": "Incidencia de diabetes en la comunidad.",
+                "B": "Prevalencia poblacional de diabetes.",
+                "C": "Mortalidad específica por diabetes.",
+                "D": "Producción de servicios o contactos."
+              },
+              "respuesta": "D",
+              "explicacion": "Se trata del volumen de atenciones, no de pacientes nuevos, prevalencia o mortalidad."
+            }
+          ]
+        }
+      }
     },
     {
       "number": 14,
       "code": "ENCAPS26-II P014",
-      "course": "ENCAPS Medicina · Por desarrollar",
-      "topic": "ENCAPS Medicina 2026-II",
+      "course": "Zoonosis · Rabia",
+      "topic": "Exposición por mordedura de perro: clasificación leve y prevención de rabia",
       "question": "Varón de 25 años acude al establecimiento por mordedura superficial de perro en el antebrazo izquierdo, siendo atendido por el profesional de la salud realizando el lavado de la herida por 10 minutos con abundante agua y jabón, para determinar el riesgo de la rabia. ¿Cómo clasifica la exposición de la mordedura?",
       "options": {
         "A": "Sin riesgo",
@@ -2755,18 +2982,263 @@
         "D": "Grave"
       },
       "correct": "B",
-      "comment": "Tema pendiente de desarrollo detallado. La alternativa correcta indicada es la resaltada en el PDF del usuario; todavía no se ha cotejado independientemente contra el listado oficial de claves del MINSA.",
-      "pearl": "",
-      "keywords": [],
-      "estadoDesarrollo": "pendiente",
+      "comment": "CLAVE DEL PDF\n\nB. Leve (clave resaltada en PDF aportado).\n\nRAZONAMIENTO\n\nEl PDF resalta B, exposición LEVE. Describe mordedura SUPERFICIAL en antebrazo, fuera de cabeza, cara, cuello, manos, dedos o genitales, sin relato de heridas profundas, múltiples ni animal sospechoso. Esos rasgos explican el criterio histórico usado por el examinador.\n\nEn el trabajo clínico real la clasificación de una exposición NO puede completarse solamente con la ubicación o la profundidad. Importan la especie, identidad, condición sanitaria, conducta del animal, disponibilidad y fiabilidad de observación, situación epidemiológica, localización, multiplicidad y si hubo contacto transdérmico con saliva. Según la combinación, el manejo de profilaxis posterior a exposición cambia.\n\nUna mordedura que rompe la piel expone a inoculación de saliva. En guías OMS la categoría III incluye mordeduras transdérmicas únicas o múltiples; sus categorías no son idénticas al rótulo operativo leve/grave usado en normativa peruana. Por ello es peligroso trasladar automáticamente «leve» del examen a «no vacunar». Hay que seguir la norma local vigente y evaluar el caso entero.\n\nEl caso dice lavado de diez minutos; la medida clínica esencial es lavar de inmediato, de forma copiosa y prolongada con agua y jabón, junto con irrigación de la herida. Muchas guías indican al menos 15 minutos cuando sea posible. El manejo incluye valorar tétanos, infección bacteriana, daño de tendones o neurovascular y necesidad de referencia.\n\nDESARROLLO DEL TEMARIO\n\nHistoria breve de riesgo\nPreguntar cuándo ocurrió, quién es propietario, si el perro puede localizarse y observarse, estado aparente, vacunación antirrábica documentada, comportamiento anormal, si la mordedura fue provocada, localización y número de lesiones. Evaluar vacunación antitetánica, embarazo, inmunosupresión y alergias relevantes.\n\nClasificación peruana leve/grave\nClásicamente se distingue exposición leve como mordedura superficial, única, en partes cubiertas o de menor riesgo, producida por animal que cumple criterios de observación y no presenta sospecha de rabia. Grave incluye lesiones en cabeza, cara, cuello, manos o genitales, profundas o múltiples, agresiones por animal sospechoso/rabioso/no ubicable según lineamientos. No usar solo «antebrazo» para concluir manejo.\n\nLa clave del PDF y su limitación\nEl texto no describe estado sanitario del perro ni si es localizable; por tanto, aunque la alternativa resaltada B debe respetarse para memorizar ENCAPS, no es información suficiente para decidir por sí sola si administrar vacuna o inmunoglobulina. La clasificación epidemiológica y la indicación de profilaxis requieren completar datos.\n\nCategorías OMS I, II y III\nI: tocar/alimentar animales o lamido de piel intacta; II: mordisqueos de piel descubierta o arañazos superficiales sin sangrado; III: mordedura transdérmica, arañazos penetrantes o saliva sobre mucosas o piel lesionada. Son un esquema distinto y no sustituyen la terminología del examen peruano.\n\nCuración inmediata\nLavar y enjuagar abundantemente con agua y jabón, usar antiséptico adecuado cuando proceda, retirar cuerpos extraños visibles y valorar heridas profundas. Evitar sutura primaria cuando no es necesaria; si es imprescindible se decide por criterios de herida y se coordina con profilaxis antirrábica. Documentar características de lesión.\n\nObservación del perro o gato\nCuando corresponde, las autoridades y servicios evalúan la posibilidad de observación sanitaria por diez días del perro o gato agresor, según norma aplicable. Un animal desaparecido o no observable cambia el análisis de riesgo. El equipo sanitario debe coordinar seguimiento formal en vez de depender de promesas informales.\n\nVacuna e inmunoglobulina\nLa indicación de vacuna antirrábica pos exposición depende del tipo de exposición, animal, riesgo epidemiológico y lineamiento nacional actualizado. La inmunoglobulina se considera para exposiciones graves elegibles, principalmente en personas no vacunadas antes. No memorizar dosis y esquemas sin cotejar norma vigente; las decisiones reales son urgentes.\n\nOtras medidas en primer nivel\nValorar infección de herida (especialmente punciones de mano), profilaxis antitetánica, antibiótico en lesiones de alto riesgo según juicio clínico, analgesia, examen de movilidad/sensibilidad/perfusión, educación sobre alarmas y referencia si compromete estructuras profundas.\n\nComunicación comunitaria\nExplicar signos de alarma del animal y del paciente, registrar y notificar según procedimientos, coordinar zoonosis y observación. La rabia clínica es casi siempre mortal, por lo que la prevención tras exposición no debe demorarse por falta de evaluación completa.\n\nANÁLISIS DE LAS ALTERNATIVAS\n\nA: «Sin riesgo» corresponde a situaciones sin exposición efectiva, por ejemplo contacto con piel intacta; una mordedura con lesión cutánea no debe etiquetarse así.\n\nB: Clave resaltada en PDF: mordedura superficial del antebrazo, la categoría que el ítem pretende identificar como leve.\n\nC: «Moderada» no es el grado utilizado en la clasificación binaria leve/grave del marco del examen; no resuelve su criterio.\n\nD: Grave exige características de mayor riesgo (profundidad, múltiples heridas, áreas críticas o condiciones del animal); el enunciado no las refiere, aunque clínicamente faltan datos del animal para determinar profilaxis.\n\nNORMATIVA\n\nMINSA — Prevención y control de rabia humana en el Perú (NTS y lineamientos nacionales) — Revisar versión técnica vigente sobre clasificación y manejo posterior a exposición antes de tomar decisiones clínicas. — https://www.gob.pe/minsa\n\nOMS — Rabies, hoja informativa — Clasificación general de exposiciones, lavado y profilaxis posterior a exposición. — https://www.who.int/news-room/fact-sheets/detail/rabies\n\nCDC — Rabies post-exposure prophylaxis guidance — Fundamenta el valor de manejo precoz, vacuna e inmunoglobulina cuando estén indicadas. — https://www.cdc.gov/rabies/hcp/clinical-care/post-exposure-prophylaxis.html\n\nMNEMOTECNIA\n\nSUPERFICIAL en ANTEBRAZO = «LEVE» en la lógica del examen. Pero para atención real, recuerda «4 A»: ANIMAL (estado), ÁREA (sitio), ALCANCE (profundidad/número), ACCIÓN (lavado + evaluación de profilaxis).\n\nTRAMPAS\n\n«Leve» no significa «sin riesgo» ni «no requiere evaluación antirrábica».\n\nFaltan datos de estado sanitario y observación del perro: no extrapolar decisiones de profilaxis.\n\nUna herida transdérmica puede ser categoría III OMS aunque el examen la rotule leve en clasificación peruana.\n\nMano, dedos, cara, cabeza y cuello elevan riesgo y pueden cambiar la clasificación.\n\nLas diez jornadas de observación son aplicables a perros/gatos en escenarios definidos, no a todas las especies.\n\nLa profilaxis antirrábica es tiempo-dependiente: priorizar atención inmediata ante sospecha.\n\nPERLA\n\nENCAPS 2026-II, P14-B: mordedura SUPERFICIAL de antebrazo = LEVE según la clave; para manejo real evalúa también animal y profilaxis.\n\nREPASO ACTIVO\n\n¿Qué alternativa está resaltada en el PDF? — B, Leve.\n\n¿Mordedura que lesiona la piel equivale a sin riesgo? — No; requiere evaluar exposición antirrábica.\n\n¿Qué datos del perro faltan en la pregunta? — Estado sanitario, comportamiento, localización, observación y posible contacto con rabia.\n\n¿Qué heridas anatómicas son especialmente preocupantes? — Cabeza, cara, cuello, manos, dedos y genitales, entre otras condiciones.\n\n¿Cuánto suele durar la observación del perro/gato cuando está indicada? — Diez días.\n\n¿Puede omitirse lavado esperando el estado del animal? — No, debe ser inmediato.\n\n¿Las clasificaciones OMS I-III y peruana leve/grave son intercambiables? — No.\n\nREFUERZO DIFÍCIL\n\nPersona no previamente vacunada recibe una mordedura penetrante en la mano de un perro que huyó y no puede observarse. ¿Cuál es la prioridad? A) Esperar sin curación hasta localizar el animal.; B) Indicar solo crema antibiótica local.; C) Lavar, evaluar exposición grave y comenzar profilaxis según protocolo urgente.; D) Concluir que no hay riesgo porque no hubo fiebre. Clave C. La lesión en mano, transdérmica y sin animal disponible requiere evaluación y manejo de alto riesgo sin demora.\n\nPaciente acaricia un perro sano, sin heridas ni contacto de saliva con mucosas. ¿Qué categoría OMS corresponde mejor? A) Categoría I.; B) Categoría II.; C) Categoría III.; D) Exposición grave obligada. Clave A. Contacto con piel íntegra sin inoculación equivale a categoría I y difiere de mordeduras reales.",
+      "pearl": "ENCAPS 2026-II, P14-B: mordedura SUPERFICIAL de antebrazo = LEVE según la clave; para manejo real evalúa también animal y profilaxis.",
+      "keywords": [
+        "rabia",
+        "mordedura perro",
+        "exposición leve",
+        "vacunación antirrábica",
+        "observación 10 días",
+        "herida"
+      ],
+      "estadoDesarrollo": "completo",
       "estadoClave": "resaltada_en_pdf_usuario_no_cotejada_independientemente_con_tabla_minsa",
-      "lesson": null
+      "lesson": {
+        "respuesta_resumida": "B. Leve (clave resaltada en PDF aportado).",
+        "razonamiento": "El PDF resalta B, exposición LEVE. Describe mordedura SUPERFICIAL en antebrazo, fuera de cabeza, cara, cuello, manos, dedos o genitales, sin relato de heridas profundas, múltiples ni animal sospechoso. Esos rasgos explican el criterio histórico usado por el examinador.\n\nEn el trabajo clínico real la clasificación de una exposición NO puede completarse solamente con la ubicación o la profundidad. Importan la especie, identidad, condición sanitaria, conducta del animal, disponibilidad y fiabilidad de observación, situación epidemiológica, localización, multiplicidad y si hubo contacto transdérmico con saliva. Según la combinación, el manejo de profilaxis posterior a exposición cambia.\n\nUna mordedura que rompe la piel expone a inoculación de saliva. En guías OMS la categoría III incluye mordeduras transdérmicas únicas o múltiples; sus categorías no son idénticas al rótulo operativo leve/grave usado en normativa peruana. Por ello es peligroso trasladar automáticamente «leve» del examen a «no vacunar». Hay que seguir la norma local vigente y evaluar el caso entero.\n\nEl caso dice lavado de diez minutos; la medida clínica esencial es lavar de inmediato, de forma copiosa y prolongada con agua y jabón, junto con irrigación de la herida. Muchas guías indican al menos 15 minutos cuando sea posible. El manejo incluye valorar tétanos, infección bacteriana, daño de tendones o neurovascular y necesidad de referencia.",
+        "temario": [
+          "Historia breve de riesgo: Preguntar cuándo ocurrió, quién es propietario, si el perro puede localizarse y observarse, estado aparente, vacunación antirrábica documentada, comportamiento anormal, si la mordedura fue provocada, localización y número de lesiones. Evaluar vacunación antitetánica, embarazo, inmunosupresión y alergias relevantes.",
+          "Clasificación peruana leve/grave: Clásicamente se distingue exposición leve como mordedura superficial, única, en partes cubiertas o de menor riesgo, producida por animal que cumple criterios de observación y no presenta sospecha de rabia. Grave incluye lesiones en cabeza, cara, cuello, manos o genitales, profundas o múltiples, agresiones por animal sospechoso/rabioso/no ubicable según lineamientos. No usar solo «antebrazo» para concluir manejo.",
+          "La clave del PDF y su limitación: El texto no describe estado sanitario del perro ni si es localizable; por tanto, aunque la alternativa resaltada B debe respetarse para memorizar ENCAPS, no es información suficiente para decidir por sí sola si administrar vacuna o inmunoglobulina. La clasificación epidemiológica y la indicación de profilaxis requieren completar datos.",
+          "Categorías OMS I, II y III: I: tocar/alimentar animales o lamido de piel intacta; II: mordisqueos de piel descubierta o arañazos superficiales sin sangrado; III: mordedura transdérmica, arañazos penetrantes o saliva sobre mucosas o piel lesionada. Son un esquema distinto y no sustituyen la terminología del examen peruano.",
+          "Curación inmediata: Lavar y enjuagar abundantemente con agua y jabón, usar antiséptico adecuado cuando proceda, retirar cuerpos extraños visibles y valorar heridas profundas. Evitar sutura primaria cuando no es necesaria; si es imprescindible se decide por criterios de herida y se coordina con profilaxis antirrábica. Documentar características de lesión.",
+          "Observación del perro o gato: Cuando corresponde, las autoridades y servicios evalúan la posibilidad de observación sanitaria por diez días del perro o gato agresor, según norma aplicable. Un animal desaparecido o no observable cambia el análisis de riesgo. El equipo sanitario debe coordinar seguimiento formal en vez de depender de promesas informales.",
+          "Vacuna e inmunoglobulina: La indicación de vacuna antirrábica pos exposición depende del tipo de exposición, animal, riesgo epidemiológico y lineamiento nacional actualizado. La inmunoglobulina se considera para exposiciones graves elegibles, principalmente en personas no vacunadas antes. No memorizar dosis y esquemas sin cotejar norma vigente; las decisiones reales son urgentes.",
+          "Otras medidas en primer nivel: Valorar infección de herida (especialmente punciones de mano), profilaxis antitetánica, antibiótico en lesiones de alto riesgo según juicio clínico, analgesia, examen de movilidad/sensibilidad/perfusión, educación sobre alarmas y referencia si compromete estructuras profundas.",
+          "Comunicación comunitaria: Explicar signos de alarma del animal y del paciente, registrar y notificar según procedimientos, coordinar zoonosis y observación. La rabia clínica es casi siempre mortal, por lo que la prevención tras exposición no debe demorarse por falta de evaluación completa."
+        ],
+        "por_que_no_las_otras": {
+          "A": "«Sin riesgo» corresponde a situaciones sin exposición efectiva, por ejemplo contacto con piel intacta; una mordedura con lesión cutánea no debe etiquetarse así.",
+          "B": "Clave resaltada en PDF: mordedura superficial del antebrazo, la categoría que el ítem pretende identificar como leve.",
+          "C": "«Moderada» no es el grado utilizado en la clasificación binaria leve/grave del marco del examen; no resuelve su criterio.",
+          "D": "Grave exige características de mayor riesgo (profundidad, múltiples heridas, áreas críticas o condiciones del animal); el enunciado no las refiere, aunque clínicamente faltan datos del animal para determinar profilaxis."
+        },
+        "normativa": [
+          {
+            "nombre": "MINSA — Prevención y control de rabia humana en el Perú (NTS y lineamientos nacionales)",
+            "url": "https://www.gob.pe/minsa",
+            "aplicacion": "Revisar versión técnica vigente sobre clasificación y manejo posterior a exposición antes de tomar decisiones clínicas."
+          },
+          {
+            "nombre": "OMS — Rabies, hoja informativa",
+            "url": "https://www.who.int/news-room/fact-sheets/detail/rabies",
+            "aplicacion": "Clasificación general de exposiciones, lavado y profilaxis posterior a exposición."
+          },
+          {
+            "nombre": "CDC — Rabies post-exposure prophylaxis guidance",
+            "url": "https://www.cdc.gov/rabies/hcp/clinical-care/post-exposure-prophylaxis.html",
+            "aplicacion": "Fundamenta el valor de manejo precoz, vacuna e inmunoglobulina cuando estén indicadas."
+          }
+        ],
+        "mnemotecnia": "SUPERFICIAL en ANTEBRAZO = «LEVE» en la lógica del examen. Pero para atención real, recuerda «4 A»: ANIMAL (estado), ÁREA (sitio), ALCANCE (profundidad/número), ACCIÓN (lavado + evaluación de profilaxis).",
+        "trampas": [
+          "«Leve» no significa «sin riesgo» ni «no requiere evaluación antirrábica».",
+          "Faltan datos de estado sanitario y observación del perro: no extrapolar decisiones de profilaxis.",
+          "Una herida transdérmica puede ser categoría III OMS aunque el examen la rotule leve en clasificación peruana.",
+          "Mano, dedos, cara, cabeza y cuello elevan riesgo y pueden cambiar la clasificación.",
+          "Las diez jornadas de observación son aplicables a perros/gatos en escenarios definidos, no a todas las especies.",
+          "La profilaxis antirrábica es tiempo-dependiente: priorizar atención inmediata ante sospecha."
+        ],
+        "perla": "ENCAPS 2026-II, P14-B: mordedura SUPERFICIAL de antebrazo = LEVE según la clave; para manejo real evalúa también animal y profilaxis.",
+        "repaso_activo": [
+          {
+            "pregunta": "¿Qué alternativa está resaltada en el PDF?",
+            "respuesta": "B, Leve."
+          },
+          {
+            "pregunta": "¿Mordedura que lesiona la piel equivale a sin riesgo?",
+            "respuesta": "No; requiere evaluar exposición antirrábica."
+          },
+          {
+            "pregunta": "¿Qué datos del perro faltan en la pregunta?",
+            "respuesta": "Estado sanitario, comportamiento, localización, observación y posible contacto con rabia."
+          },
+          {
+            "pregunta": "¿Qué heridas anatómicas son especialmente preocupantes?",
+            "respuesta": "Cabeza, cara, cuello, manos, dedos y genitales, entre otras condiciones."
+          },
+          {
+            "pregunta": "¿Cuánto suele durar la observación del perro/gato cuando está indicada?",
+            "respuesta": "Diez días."
+          },
+          {
+            "pregunta": "¿Puede omitirse lavado esperando el estado del animal?",
+            "respuesta": "No, debe ser inmediato."
+          },
+          {
+            "pregunta": "¿Las clasificaciones OMS I-III y peruana leve/grave son intercambiables?",
+            "respuesta": "No."
+          }
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Persona no previamente vacunada recibe una mordedura penetrante en la mano de un perro que huyó y no puede observarse. ¿Cuál es la prioridad?",
+            "alternativas": {
+              "A": "Esperar sin curación hasta localizar el animal.",
+              "B": "Indicar solo crema antibiótica local.",
+              "C": "Lavar, evaluar exposición grave y comenzar profilaxis según protocolo urgente.",
+              "D": "Concluir que no hay riesgo porque no hubo fiebre."
+            },
+            "respuesta": "C",
+            "explicacion": "La lesión en mano, transdérmica y sin animal disponible requiere evaluación y manejo de alto riesgo sin demora."
+          },
+          {
+            "enunciado": "Paciente acaricia un perro sano, sin heridas ni contacto de saliva con mucosas. ¿Qué categoría OMS corresponde mejor?",
+            "alternativas": {
+              "A": "Categoría I.",
+              "B": "Categoría II.",
+              "C": "Categoría III.",
+              "D": "Exposición grave obligada."
+            },
+            "respuesta": "A",
+            "explicacion": "Contacto con piel íntegra sin inoculación equivale a categoría I y difiere de mordeduras reales."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Exposición por mordedura de perro: clasificación leve y prevención de rabia",
+          "eje": "Enfermedades transmisibles / Zoonosis / Urgencias del primer nivel",
+          "confiabilidad": "clave_resaltada_en_pdf_usuario_no_cotejada_con_tabla_oficial",
+          "respuesta_resumida": "B. Leve",
+          "razonamiento": [
+            "El PDF resalta B, exposición LEVE. Describe mordedura SUPERFICIAL en antebrazo, fuera de cabeza, cara, cuello, manos, dedos o genitales, sin relato de heridas profundas, múltiples ni animal sospechoso. Esos rasgos explican el criterio histórico usado por el examinador.",
+            "En el trabajo clínico real la clasificación de una exposición NO puede completarse solamente con la ubicación o la profundidad. Importan la especie, identidad, condición sanitaria, conducta del animal, disponibilidad y fiabilidad de observación, situación epidemiológica, localización, multiplicidad y si hubo contacto transdérmico con saliva. Según la combinación, el manejo de profilaxis posterior a exposición cambia.",
+            "Una mordedura que rompe la piel expone a inoculación de saliva. En guías OMS la categoría III incluye mordeduras transdérmicas únicas o múltiples; sus categorías no son idénticas al rótulo operativo leve/grave usado en normativa peruana. Por ello es peligroso trasladar automáticamente «leve» del examen a «no vacunar». Hay que seguir la norma local vigente y evaluar el caso entero.",
+            "El caso dice lavado de diez minutos; la medida clínica esencial es lavar de inmediato, de forma copiosa y prolongada con agua y jabón, junto con irrigación de la herida. Muchas guías indican al menos 15 minutos cuando sea posible. El manejo incluye valorar tétanos, infección bacteriana, daño de tendones o neurovascular y necesidad de referencia."
+          ],
+          "temario": [
+            {
+              "subtitulo": "Historia breve de riesgo",
+              "texto": "Preguntar cuándo ocurrió, quién es propietario, si el perro puede localizarse y observarse, estado aparente, vacunación antirrábica documentada, comportamiento anormal, si la mordedura fue provocada, localización y número de lesiones. Evaluar vacunación antitetánica, embarazo, inmunosupresión y alergias relevantes."
+            },
+            {
+              "subtitulo": "Clasificación peruana leve/grave",
+              "texto": "Clásicamente se distingue exposición leve como mordedura superficial, única, en partes cubiertas o de menor riesgo, producida por animal que cumple criterios de observación y no presenta sospecha de rabia. Grave incluye lesiones en cabeza, cara, cuello, manos o genitales, profundas o múltiples, agresiones por animal sospechoso/rabioso/no ubicable según lineamientos. No usar solo «antebrazo» para concluir manejo."
+            },
+            {
+              "subtitulo": "La clave del PDF y su limitación",
+              "texto": "El texto no describe estado sanitario del perro ni si es localizable; por tanto, aunque la alternativa resaltada B debe respetarse para memorizar ENCAPS, no es información suficiente para decidir por sí sola si administrar vacuna o inmunoglobulina. La clasificación epidemiológica y la indicación de profilaxis requieren completar datos."
+            },
+            {
+              "subtitulo": "Categorías OMS I, II y III",
+              "texto": "I: tocar/alimentar animales o lamido de piel intacta; II: mordisqueos de piel descubierta o arañazos superficiales sin sangrado; III: mordedura transdérmica, arañazos penetrantes o saliva sobre mucosas o piel lesionada. Son un esquema distinto y no sustituyen la terminología del examen peruano."
+            },
+            {
+              "subtitulo": "Curación inmediata",
+              "texto": "Lavar y enjuagar abundantemente con agua y jabón, usar antiséptico adecuado cuando proceda, retirar cuerpos extraños visibles y valorar heridas profundas. Evitar sutura primaria cuando no es necesaria; si es imprescindible se decide por criterios de herida y se coordina con profilaxis antirrábica. Documentar características de lesión."
+            },
+            {
+              "subtitulo": "Observación del perro o gato",
+              "texto": "Cuando corresponde, las autoridades y servicios evalúan la posibilidad de observación sanitaria por diez días del perro o gato agresor, según norma aplicable. Un animal desaparecido o no observable cambia el análisis de riesgo. El equipo sanitario debe coordinar seguimiento formal en vez de depender de promesas informales."
+            },
+            {
+              "subtitulo": "Vacuna e inmunoglobulina",
+              "texto": "La indicación de vacuna antirrábica pos exposición depende del tipo de exposición, animal, riesgo epidemiológico y lineamiento nacional actualizado. La inmunoglobulina se considera para exposiciones graves elegibles, principalmente en personas no vacunadas antes. No memorizar dosis y esquemas sin cotejar norma vigente; las decisiones reales son urgentes."
+            },
+            {
+              "subtitulo": "Otras medidas en primer nivel",
+              "texto": "Valorar infección de herida (especialmente punciones de mano), profilaxis antitetánica, antibiótico en lesiones de alto riesgo según juicio clínico, analgesia, examen de movilidad/sensibilidad/perfusión, educación sobre alarmas y referencia si compromete estructuras profundas."
+            },
+            {
+              "subtitulo": "Comunicación comunitaria",
+              "texto": "Explicar signos de alarma del animal y del paciente, registrar y notificar según procedimientos, coordinar zoonosis y observación. La rabia clínica es casi siempre mortal, por lo que la prevención tras exposición no debe demorarse por falta de evaluación completa."
+            }
+          ],
+          "distractores": {
+            "A": "«Sin riesgo» corresponde a situaciones sin exposición efectiva, por ejemplo contacto con piel intacta; una mordedura con lesión cutánea no debe etiquetarse así.",
+            "B": "Clave resaltada en PDF: mordedura superficial del antebrazo, la categoría que el ítem pretende identificar como leve.",
+            "C": "«Moderada» no es el grado utilizado en la clasificación binaria leve/grave del marco del examen; no resuelve su criterio.",
+            "D": "Grave exige características de mayor riesgo (profundidad, múltiples heridas, áreas críticas o condiciones del animal); el enunciado no las refiere, aunque clínicamente faltan datos del animal para determinar profilaxis."
+          },
+          "normativa": [
+            {
+              "nombre": "MINSA — Prevención y control de rabia humana en el Perú (NTS y lineamientos nacionales)",
+              "url": "https://www.gob.pe/minsa",
+              "aplicacion": "Revisar versión técnica vigente sobre clasificación y manejo posterior a exposición antes de tomar decisiones clínicas."
+            },
+            {
+              "nombre": "OMS — Rabies, hoja informativa",
+              "url": "https://www.who.int/news-room/fact-sheets/detail/rabies",
+              "aplicacion": "Clasificación general de exposiciones, lavado y profilaxis posterior a exposición."
+            },
+            {
+              "nombre": "CDC — Rabies post-exposure prophylaxis guidance",
+              "url": "https://www.cdc.gov/rabies/hcp/clinical-care/post-exposure-prophylaxis.html",
+              "aplicacion": "Fundamenta el valor de manejo precoz, vacuna e inmunoglobulina cuando estén indicadas."
+            }
+          ],
+          "mnemotecnia": "SUPERFICIAL en ANTEBRAZO = «LEVE» en la lógica del examen. Pero para atención real, recuerda «4 A»: ANIMAL (estado), ÁREA (sitio), ALCANCE (profundidad/número), ACCIÓN (lavado + evaluación de profilaxis).",
+          "trampas": [
+            "«Leve» no significa «sin riesgo» ni «no requiere evaluación antirrábica».",
+            "Faltan datos de estado sanitario y observación del perro: no extrapolar decisiones de profilaxis.",
+            "Una herida transdérmica puede ser categoría III OMS aunque el examen la rotule leve en clasificación peruana.",
+            "Mano, dedos, cara, cabeza y cuello elevan riesgo y pueden cambiar la clasificación.",
+            "Las diez jornadas de observación son aplicables a perros/gatos en escenarios definidos, no a todas las especies.",
+            "La profilaxis antirrábica es tiempo-dependiente: priorizar atención inmediata ante sospecha."
+          ],
+          "perla": "ENCAPS 2026-II, P14-B: mordedura SUPERFICIAL de antebrazo = LEVE según la clave; para manejo real evalúa también animal y profilaxis.",
+          "repaso_activo": [
+            {
+              "pregunta": "¿Qué alternativa está resaltada en el PDF?",
+              "respuesta": "B, Leve."
+            },
+            {
+              "pregunta": "¿Mordedura que lesiona la piel equivale a sin riesgo?",
+              "respuesta": "No; requiere evaluar exposición antirrábica."
+            },
+            {
+              "pregunta": "¿Qué datos del perro faltan en la pregunta?",
+              "respuesta": "Estado sanitario, comportamiento, localización, observación y posible contacto con rabia."
+            },
+            {
+              "pregunta": "¿Qué heridas anatómicas son especialmente preocupantes?",
+              "respuesta": "Cabeza, cara, cuello, manos, dedos y genitales, entre otras condiciones."
+            },
+            {
+              "pregunta": "¿Cuánto suele durar la observación del perro/gato cuando está indicada?",
+              "respuesta": "Diez días."
+            },
+            {
+              "pregunta": "¿Puede omitirse lavado esperando el estado del animal?",
+              "respuesta": "No, debe ser inmediato."
+            },
+            {
+              "pregunta": "¿Las clasificaciones OMS I-III y peruana leve/grave son intercambiables?",
+              "respuesta": "No."
+            }
+          ],
+          "refuerzo": [
+            {
+              "enunciado": "Persona no previamente vacunada recibe una mordedura penetrante en la mano de un perro que huyó y no puede observarse. ¿Cuál es la prioridad?",
+              "alternativas": {
+                "A": "Esperar sin curación hasta localizar el animal.",
+                "B": "Indicar solo crema antibiótica local.",
+                "C": "Lavar, evaluar exposición grave y comenzar profilaxis según protocolo urgente.",
+                "D": "Concluir que no hay riesgo porque no hubo fiebre."
+              },
+              "respuesta": "C",
+              "explicacion": "La lesión en mano, transdérmica y sin animal disponible requiere evaluación y manejo de alto riesgo sin demora."
+            },
+            {
+              "enunciado": "Paciente acaricia un perro sano, sin heridas ni contacto de saliva con mucosas. ¿Qué categoría OMS corresponde mejor?",
+              "alternativas": {
+                "A": "Categoría I.",
+                "B": "Categoría II.",
+                "C": "Categoría III.",
+                "D": "Exposición grave obligada."
+              },
+              "respuesta": "A",
+              "explicacion": "Contacto con piel íntegra sin inoculación equivale a categoría I y difiere de mordeduras reales."
+            }
+          ]
+        }
+      }
     },
     {
       "number": 15,
       "code": "ENCAPS26-II P015",
-      "course": "ENCAPS Medicina · Por desarrollar",
-      "topic": "ENCAPS Medicina 2026-II",
+      "course": "Derechos del paciente · Historia clínica",
+      "topic": "Retiro voluntario de un menor y documentación de negativa terapéutica",
       "question": "En el centro de salud Corazón de María se recibe a un niño de 3 años de edad, quien es traído por su madre, se le diagnostica enfermedad diarreica con deshidratación y se decide hidratarlo vía parenteral, sin embargo la madre se niega a que inicie el tratamiento, y por el contrario solicita el formato de retiro voluntario. ¿Qué debe contener este documento?",
       "options": {
         "A": "El texto a redactar en el formato debe consignar solo el diagnóstico y el tratamiento indicado",
@@ -2775,12 +3247,273 @@
         "D": "Datos de identificación de la persona legalmente responsable que solicita el alta en caso que no fuera el paciente"
       },
       "correct": "D",
-      "comment": "Tema pendiente de desarrollo detallado. La alternativa correcta indicada es la resaltada en el PDF del usuario; todavía no se ha cotejado independientemente contra el listado oficial de claves del MINSA.",
-      "pearl": "",
-      "keywords": [],
-      "estadoDesarrollo": "pendiente",
+      "comment": "CLAVE DEL PDF\n\nD. Datos de identificación de la persona legalmente responsable que solicita el alta en caso que no fuera el paciente (clave resaltada en PDF aportado).\n\nRAZONAMIENTO\n\nEl PDF señala D: consignar los datos de identificación de la persona legalmente responsable que solicita el alta cuando no es el paciente. Un niño de tres años no suscribe válidamente por sí solo el retiro voluntario; en la documentación debe constar quién ejerce la representación pertinente y solicita retirarlo.\n\nEl retiro voluntario no se resuelve con un impreso vacío o solo con el diagnóstico. Deben quedar registrados estado clínico, diagnóstico, propuesta terapéutica, beneficios, riesgos de abandonar el manejo, información brindada de forma comprensible, negativa, responsables, fecha, hora y firmas/constancias según el procedimiento aplicable.\n\nEl conflicto central no es simplemente la autonomía de la madre: el paciente es un menor que puede sufrir daño serio por deshidratación. La decisión representativa está limitada por el interés superior del niño. Si hay emergencia, incapacidad o riesgo inminente, corresponde evaluación y actuación conforme al marco legal de atención de urgencia y protección de la niñez, y documentar de manera detallada.\n\nNo se debe coercionar sin base legal ni afirmar que todo caso amerita intervención judicial inmediata: primero definir gravedad y urgencia de la deshidratación, explicar riesgos, explorar barreras al tratamiento y ofrecer opciones apropiadas. Si hay amenaza grave para la salud del menor, se activan los procedimientos de protección disponibles.\n\nDESARROLLO DEL TEMARIO\n\nAlta voluntaria: finalidad\nDocumento por el que el usuario o representante expresa querer interrumpir o rechazar una atención indicada, tras recibir información pertinente. No equivale a alta médica otorgada por resolución del proceso patológico. Su función central es documentar comunicación y decisión; no exime automáticamente al equipo de cumplir deberes de urgencia o protección.\n\nDatos fundamentales\nIdentificación del paciente y de quien solicita alta/retiro; vínculo y calidad de representante; diagnóstico y condición actual; prestaciones recomendadas y las rechazadas; riesgos previsibles, explicación comprensible, fecha/hora, nombre e identificación de personal involucrado, firmas o constancia si se rechaza firmar. La forma concreta depende de normativa y formatos locales vigentes.\n\nConsentimiento, rechazo y autonomía\nEn pacientes adultos competentes, el rechazo informado merece respeto en los límites previstos por la ley. En niños, los representantes participan por su interés y bienestar; debe atenderse progresivamente la opinión del menor según edad y madurez, sin desplazar la obligación de proteger de daño grave evitable.\n\nInterés superior del niño\nPrincipio rector para ponderar riesgos/beneficios de la decisión. Si la negativa de hidratación pone al niño en peligro grave o inmediato, el establecimiento debe procurar protección y atención de emergencia según posibilidades, consultar canales institucionales y legales pertinentes y documentar todas las acciones.\n\nDeshidratación pediátrica: evaluar antes de decidir\nRegistrar sensorio, sed, llenado capilar, pulso, perfusión, FR, mucosas, ojos, diuresis, capacidad de beber, signos de shock y gravedad de pérdidas. Un niño que bebe y no tiene deshidratación grave puede recibir rehidratación oral supervisada. Si presenta shock o deshidratación grave, se requiere atención inmediata con fluidos adecuados y referencia según recursos. No confundir «diarrea» con «obligación de vía parenteral» para todos los casos.\n\nConsejería antes del retiro\nPreguntar por qué se niega a la venoclisis (dolor, costos, experiencias, miedo, transporte, cuidado de otros hijos). Dar información clara sobre consecuencias, beneficios del tratamiento y opciones seguras; solicitar repetición de lo entendido (teach-back) y ofrecer apoyo. La negativa puede revertir con mejor información, no con amenazas.\n\nDiferencia con desistimiento de un procedimiento\nRechazar una venoclisis no siempre equivale a rechazar toda atención. Puede aceptar observación, solución oral si es clínicamente posible, nueva valoración o referencia. Registrar con precisión qué se rechaza y qué alternativas acepta para sostener continuidad.\n\nDerechos y documentación en Perú\nMarco general: Ley General de Salud, Ley de derechos de las personas usuarias de los servicios de salud, Reglamento de establecimientos de salud y normas de gestión de historia clínica; además del Código de los Niños y Adolescentes y normativa protectora de niñas, niños y adolescentes. El formato y obligación puntual deben contrastarse con procedimiento institucional vigente.\n\nRiesgo legal en el primer nivel\nAnte retirada en emergencia documentar situación, tiempo, competencia y comprensión del representante, medidas realizadas y pendientes, posible agravamiento, señales de alarma, contacto para continuidad y coordinación de referencia. No presentar la firma como una «liberación total» de deber de diligencia.\n\nQuién solicita y quién indica\nEl representante legal comunica el retiro; el profesional registra su evaluación e indicación. El hecho de que una terapia no se haya iniciado no elimina obligación de identificar al profesional ni documentar sus indicaciones. El jefe del establecimiento no es quien debe autorizar cada alta voluntaria de rutina; situaciones graves se escalan por la vía adecuada.\n\nANÁLISIS DE LAS ALTERNATIVAS\n\nA: Solo diagnóstico y tratamiento indicado es insuficiente: debe incluirse información sobre riesgos, paciente, responsable, comunicación y constancias exigibles.\n\nB: Aunque no se inició la terapia, importa documentar quién evaluó, propuso y explicó el tratamiento; omitir al personal carece de justificación.\n\nC: No hay una regla general que exija autorización administrativa del jefe para cada retiro voluntario. Casos de riesgo grave pueden requerir intervención y protección, que es una cuestión distinta.\n\nD: Clave resaltada. Si quien solicita retiro no es paciente —aquí, madre de un menor— deben consignarse datos que permitan identificar al representante legal.\n\nNORMATIVA\n\nPerú — Ley N.º 29414, derechos de las personas usuarias de los servicios de salud — Derechos a información, consentimiento/rechazo y trato digno dentro del ordenamiento peruano; corroborar texto y reglamento. — https://www.gob.pe/institucion/minsa/normas-legales/249700-29414\n\nPerú — Reglamento de establecimientos de salud y servicios médicos de apoyo (D.S. N.º 013-2006-SA) — Marco sobre funcionamiento, atención y responsabilidades asistenciales. — https://www.gob.pe/institucion/minsa/normas-legales/251525-013-2006-sa\n\nMINSA — NTS de Gestión de la Historia Clínica, RM N.º 214-2018/MINSA — Registros clínicos, constancias y documentación de atenciones. — https://www.gob.pe/institucion/minsa/normas-legales/187274-214-2018-minsa\n\nPerú — Código de los Niños y Adolescentes, Ley N.º 27337 — Interés superior del niño y protección de sus derechos; confirmar disposiciones aplicables al caso. — https://www.gob.pe/institucion/congreso-de-la-republica/normas-legales/118476-27337\n\nMNEMOTECNIA\n\nRETIRO = R-E-T-I-R-O: Representante identificado; Explicación de riesgo; Tratamiento propuesto; Información comprendida; Registro de fecha/firmas; Opciones y orientación de retorno. Visualiza la madre del niño firmando un formulario donde su identidad ocupa el primer recuadro.\n\nTRAMPAS\n\nUn menor de tres años no firma como responsable legal de su propio retiro.\n\nLa firma no elimina todos los deberes del profesional o establecimiento.\n\nNo escribir solamente «madre no acepta»: consignar información y riesgos explicados.\n\nNo asumir que toda diarrea pediátrica requiere suero intravenoso; valorar gravedad.\n\nNo equiparar rechazo de una vía de administración con rechazo de toda atención.\n\nEn emergencia con amenaza grave al niño, aplicar vías de protección y urgencia del marco legal; no es un simple trámite.\n\nPERLA\n\nENCAPS 2026-II, P15-D: si solicita alta voluntaria una persona distinta del paciente, debe identificarse formalmente al REPRESENTANTE LEGAL; protege especialmente a los menores.\n\nREPASO ACTIVO\n\n¿Qué clave se resalta en el PDF? — D, identificación del representante legal que solicita el retiro.\n\n¿Qué más debe documentarse además de la identidad? — Diagnóstico, tratamiento indicado, riesgos explicados, decisión, fecha, firmas/constancias y responsables.\n\n¿El retiro voluntario equivale a alta médica? — No, describe decisión de interrumpir o rechazar atención.\n\n¿Qué principio prima en la atención de menores? — Interés superior del niño.\n\n¿Una venoclisis es obligatoria en toda diarrea? — No; depende de estado hemodinámico y grado de deshidratación.\n\n¿La madre puede aceptar rehidratación oral y rechazar la intravenosa? — Sí, debe evaluarse factibilidad clínica, registrarse y explicarse el riesgo.\n\n¿La firma del representante elimina deberes en una emergencia grave? — No.\n\nREFUERZO DIFÍCIL\n\nNiño con diarrea bebe ávidamente, sin choque, con algún grado de deshidratación. La madre se opone a venoclisis pero acepta manejo supervisado. ¿Qué conducta inicial es razonable? A) Forzar canalización sin reevaluar gravedad.; B) Indicar egreso inmediato sin hidratación.; C) Exigir firma y rechazar opciones alternativas.; D) Valorar plan de rehidratación oral supervisada, reevaluar e informar. Clave D. La hidratación oral supervisada es apropiada para muchos niños sin deshidratación grave que toleran vía oral; se debe reevaluar.\n\nNiño con shock por deshidratación grave. El familiar rechaza toda atención y solicita retiro sin escuchar riesgos. ¿Cuál es la mejor respuesta del equipo? A) Dar alta sin documentar por autonomía absoluta del familiar.; B) Priorizar estabilización de emergencia y activar protección pertinente del menor según marco legal.; C) Solicitar una cita de control en dos semanas.; D) Considerar que firmar elimina obligaciones del establecimiento. Clave B. El peligro grave inmediato obliga a actuar con prioridad de emergencia y protección del menor, documentando evaluación e intervenciones.",
+      "pearl": "ENCAPS 2026-II, P15-D: si solicita alta voluntaria una persona distinta del paciente, debe identificarse formalmente al REPRESENTANTE LEGAL; protege especialmente a los menores.",
+      "keywords": [
+        "alta voluntaria",
+        "retiro voluntario",
+        "menores de edad",
+        "representante legal",
+        "rechazo tratamiento",
+        "deshidratación",
+        "protección niño"
+      ],
+      "estadoDesarrollo": "completo",
       "estadoClave": "resaltada_en_pdf_usuario_no_cotejada_independientemente_con_tabla_minsa",
-      "lesson": null
+      "lesson": {
+        "respuesta_resumida": "D. Datos de identificación de la persona legalmente responsable que solicita el alta en caso que no fuera el paciente (clave resaltada en PDF aportado).",
+        "razonamiento": "El PDF señala D: consignar los datos de identificación de la persona legalmente responsable que solicita el alta cuando no es el paciente. Un niño de tres años no suscribe válidamente por sí solo el retiro voluntario; en la documentación debe constar quién ejerce la representación pertinente y solicita retirarlo.\n\nEl retiro voluntario no se resuelve con un impreso vacío o solo con el diagnóstico. Deben quedar registrados estado clínico, diagnóstico, propuesta terapéutica, beneficios, riesgos de abandonar el manejo, información brindada de forma comprensible, negativa, responsables, fecha, hora y firmas/constancias según el procedimiento aplicable.\n\nEl conflicto central no es simplemente la autonomía de la madre: el paciente es un menor que puede sufrir daño serio por deshidratación. La decisión representativa está limitada por el interés superior del niño. Si hay emergencia, incapacidad o riesgo inminente, corresponde evaluación y actuación conforme al marco legal de atención de urgencia y protección de la niñez, y documentar de manera detallada.\n\nNo se debe coercionar sin base legal ni afirmar que todo caso amerita intervención judicial inmediata: primero definir gravedad y urgencia de la deshidratación, explicar riesgos, explorar barreras al tratamiento y ofrecer opciones apropiadas. Si hay amenaza grave para la salud del menor, se activan los procedimientos de protección disponibles.",
+        "temario": [
+          "Alta voluntaria: finalidad: Documento por el que el usuario o representante expresa querer interrumpir o rechazar una atención indicada, tras recibir información pertinente. No equivale a alta médica otorgada por resolución del proceso patológico. Su función central es documentar comunicación y decisión; no exime automáticamente al equipo de cumplir deberes de urgencia o protección.",
+          "Datos fundamentales: Identificación del paciente y de quien solicita alta/retiro; vínculo y calidad de representante; diagnóstico y condición actual; prestaciones recomendadas y las rechazadas; riesgos previsibles, explicación comprensible, fecha/hora, nombre e identificación de personal involucrado, firmas o constancia si se rechaza firmar. La forma concreta depende de normativa y formatos locales vigentes.",
+          "Consentimiento, rechazo y autonomía: En pacientes adultos competentes, el rechazo informado merece respeto en los límites previstos por la ley. En niños, los representantes participan por su interés y bienestar; debe atenderse progresivamente la opinión del menor según edad y madurez, sin desplazar la obligación de proteger de daño grave evitable.",
+          "Interés superior del niño: Principio rector para ponderar riesgos/beneficios de la decisión. Si la negativa de hidratación pone al niño en peligro grave o inmediato, el establecimiento debe procurar protección y atención de emergencia según posibilidades, consultar canales institucionales y legales pertinentes y documentar todas las acciones.",
+          "Deshidratación pediátrica: evaluar antes de decidir: Registrar sensorio, sed, llenado capilar, pulso, perfusión, FR, mucosas, ojos, diuresis, capacidad de beber, signos de shock y gravedad de pérdidas. Un niño que bebe y no tiene deshidratación grave puede recibir rehidratación oral supervisada. Si presenta shock o deshidratación grave, se requiere atención inmediata con fluidos adecuados y referencia según recursos. No confundir «diarrea» con «obligación de vía parenteral» para todos los casos.",
+          "Consejería antes del retiro: Preguntar por qué se niega a la venoclisis (dolor, costos, experiencias, miedo, transporte, cuidado de otros hijos). Dar información clara sobre consecuencias, beneficios del tratamiento y opciones seguras; solicitar repetición de lo entendido (teach-back) y ofrecer apoyo. La negativa puede revertir con mejor información, no con amenazas.",
+          "Diferencia con desistimiento de un procedimiento: Rechazar una venoclisis no siempre equivale a rechazar toda atención. Puede aceptar observación, solución oral si es clínicamente posible, nueva valoración o referencia. Registrar con precisión qué se rechaza y qué alternativas acepta para sostener continuidad.",
+          "Derechos y documentación en Perú: Marco general: Ley General de Salud, Ley de derechos de las personas usuarias de los servicios de salud, Reglamento de establecimientos de salud y normas de gestión de historia clínica; además del Código de los Niños y Adolescentes y normativa protectora de niñas, niños y adolescentes. El formato y obligación puntual deben contrastarse con procedimiento institucional vigente.",
+          "Riesgo legal en el primer nivel: Ante retirada en emergencia documentar situación, tiempo, competencia y comprensión del representante, medidas realizadas y pendientes, posible agravamiento, señales de alarma, contacto para continuidad y coordinación de referencia. No presentar la firma como una «liberación total» de deber de diligencia.",
+          "Quién solicita y quién indica: El representante legal comunica el retiro; el profesional registra su evaluación e indicación. El hecho de que una terapia no se haya iniciado no elimina obligación de identificar al profesional ni documentar sus indicaciones. El jefe del establecimiento no es quien debe autorizar cada alta voluntaria de rutina; situaciones graves se escalan por la vía adecuada."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Solo diagnóstico y tratamiento indicado es insuficiente: debe incluirse información sobre riesgos, paciente, responsable, comunicación y constancias exigibles.",
+          "B": "Aunque no se inició la terapia, importa documentar quién evaluó, propuso y explicó el tratamiento; omitir al personal carece de justificación.",
+          "C": "No hay una regla general que exija autorización administrativa del jefe para cada retiro voluntario. Casos de riesgo grave pueden requerir intervención y protección, que es una cuestión distinta.",
+          "D": "Clave resaltada. Si quien solicita retiro no es paciente —aquí, madre de un menor— deben consignarse datos que permitan identificar al representante legal."
+        },
+        "normativa": [
+          {
+            "nombre": "Perú — Ley N.º 29414, derechos de las personas usuarias de los servicios de salud",
+            "url": "https://www.gob.pe/institucion/minsa/normas-legales/249700-29414",
+            "aplicacion": "Derechos a información, consentimiento/rechazo y trato digno dentro del ordenamiento peruano; corroborar texto y reglamento."
+          },
+          {
+            "nombre": "Perú — Reglamento de establecimientos de salud y servicios médicos de apoyo (D.S. N.º 013-2006-SA)",
+            "url": "https://www.gob.pe/institucion/minsa/normas-legales/251525-013-2006-sa",
+            "aplicacion": "Marco sobre funcionamiento, atención y responsabilidades asistenciales."
+          },
+          {
+            "nombre": "MINSA — NTS de Gestión de la Historia Clínica, RM N.º 214-2018/MINSA",
+            "url": "https://www.gob.pe/institucion/minsa/normas-legales/187274-214-2018-minsa",
+            "aplicacion": "Registros clínicos, constancias y documentación de atenciones."
+          },
+          {
+            "nombre": "Perú — Código de los Niños y Adolescentes, Ley N.º 27337",
+            "url": "https://www.gob.pe/institucion/congreso-de-la-republica/normas-legales/118476-27337",
+            "aplicacion": "Interés superior del niño y protección de sus derechos; confirmar disposiciones aplicables al caso."
+          }
+        ],
+        "mnemotecnia": "RETIRO = R-E-T-I-R-O: Representante identificado; Explicación de riesgo; Tratamiento propuesto; Información comprendida; Registro de fecha/firmas; Opciones y orientación de retorno. Visualiza la madre del niño firmando un formulario donde su identidad ocupa el primer recuadro.",
+        "trampas": [
+          "Un menor de tres años no firma como responsable legal de su propio retiro.",
+          "La firma no elimina todos los deberes del profesional o establecimiento.",
+          "No escribir solamente «madre no acepta»: consignar información y riesgos explicados.",
+          "No asumir que toda diarrea pediátrica requiere suero intravenoso; valorar gravedad.",
+          "No equiparar rechazo de una vía de administración con rechazo de toda atención.",
+          "En emergencia con amenaza grave al niño, aplicar vías de protección y urgencia del marco legal; no es un simple trámite."
+        ],
+        "perla": "ENCAPS 2026-II, P15-D: si solicita alta voluntaria una persona distinta del paciente, debe identificarse formalmente al REPRESENTANTE LEGAL; protege especialmente a los menores.",
+        "repaso_activo": [
+          {
+            "pregunta": "¿Qué clave se resalta en el PDF?",
+            "respuesta": "D, identificación del representante legal que solicita el retiro."
+          },
+          {
+            "pregunta": "¿Qué más debe documentarse además de la identidad?",
+            "respuesta": "Diagnóstico, tratamiento indicado, riesgos explicados, decisión, fecha, firmas/constancias y responsables."
+          },
+          {
+            "pregunta": "¿El retiro voluntario equivale a alta médica?",
+            "respuesta": "No, describe decisión de interrumpir o rechazar atención."
+          },
+          {
+            "pregunta": "¿Qué principio prima en la atención de menores?",
+            "respuesta": "Interés superior del niño."
+          },
+          {
+            "pregunta": "¿Una venoclisis es obligatoria en toda diarrea?",
+            "respuesta": "No; depende de estado hemodinámico y grado de deshidratación."
+          },
+          {
+            "pregunta": "¿La madre puede aceptar rehidratación oral y rechazar la intravenosa?",
+            "respuesta": "Sí, debe evaluarse factibilidad clínica, registrarse y explicarse el riesgo."
+          },
+          {
+            "pregunta": "¿La firma del representante elimina deberes en una emergencia grave?",
+            "respuesta": "No."
+          }
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Niño con diarrea bebe ávidamente, sin choque, con algún grado de deshidratación. La madre se opone a venoclisis pero acepta manejo supervisado. ¿Qué conducta inicial es razonable?",
+            "alternativas": {
+              "A": "Forzar canalización sin reevaluar gravedad.",
+              "B": "Indicar egreso inmediato sin hidratación.",
+              "C": "Exigir firma y rechazar opciones alternativas.",
+              "D": "Valorar plan de rehidratación oral supervisada, reevaluar e informar."
+            },
+            "respuesta": "D",
+            "explicacion": "La hidratación oral supervisada es apropiada para muchos niños sin deshidratación grave que toleran vía oral; se debe reevaluar."
+          },
+          {
+            "enunciado": "Niño con shock por deshidratación grave. El familiar rechaza toda atención y solicita retiro sin escuchar riesgos. ¿Cuál es la mejor respuesta del equipo?",
+            "alternativas": {
+              "A": "Dar alta sin documentar por autonomía absoluta del familiar.",
+              "B": "Priorizar estabilización de emergencia y activar protección pertinente del menor según marco legal.",
+              "C": "Solicitar una cita de control en dos semanas.",
+              "D": "Considerar que firmar elimina obligaciones del establecimiento."
+            },
+            "respuesta": "B",
+            "explicacion": "El peligro grave inmediato obliga a actuar con prioridad de emergencia y protección del menor, documentando evaluación e intervenciones."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Retiro voluntario de un menor y documentación de negativa terapéutica",
+          "eje": "Bioética / Protección de la niñez / Registro clínico",
+          "confiabilidad": "clave_resaltada_en_pdf_usuario_no_cotejada_con_tabla_oficial",
+          "respuesta_resumida": "D. Datos de identificación de la persona legalmente responsable que solicita el alta en caso que no fuera el paciente",
+          "razonamiento": [
+            "El PDF señala D: consignar los datos de identificación de la persona legalmente responsable que solicita el alta cuando no es el paciente. Un niño de tres años no suscribe válidamente por sí solo el retiro voluntario; en la documentación debe constar quién ejerce la representación pertinente y solicita retirarlo.",
+            "El retiro voluntario no se resuelve con un impreso vacío o solo con el diagnóstico. Deben quedar registrados estado clínico, diagnóstico, propuesta terapéutica, beneficios, riesgos de abandonar el manejo, información brindada de forma comprensible, negativa, responsables, fecha, hora y firmas/constancias según el procedimiento aplicable.",
+            "El conflicto central no es simplemente la autonomía de la madre: el paciente es un menor que puede sufrir daño serio por deshidratación. La decisión representativa está limitada por el interés superior del niño. Si hay emergencia, incapacidad o riesgo inminente, corresponde evaluación y actuación conforme al marco legal de atención de urgencia y protección de la niñez, y documentar de manera detallada.",
+            "No se debe coercionar sin base legal ni afirmar que todo caso amerita intervención judicial inmediata: primero definir gravedad y urgencia de la deshidratación, explicar riesgos, explorar barreras al tratamiento y ofrecer opciones apropiadas. Si hay amenaza grave para la salud del menor, se activan los procedimientos de protección disponibles."
+          ],
+          "temario": [
+            {
+              "subtitulo": "Alta voluntaria: finalidad",
+              "texto": "Documento por el que el usuario o representante expresa querer interrumpir o rechazar una atención indicada, tras recibir información pertinente. No equivale a alta médica otorgada por resolución del proceso patológico. Su función central es documentar comunicación y decisión; no exime automáticamente al equipo de cumplir deberes de urgencia o protección."
+            },
+            {
+              "subtitulo": "Datos fundamentales",
+              "texto": "Identificación del paciente y de quien solicita alta/retiro; vínculo y calidad de representante; diagnóstico y condición actual; prestaciones recomendadas y las rechazadas; riesgos previsibles, explicación comprensible, fecha/hora, nombre e identificación de personal involucrado, firmas o constancia si se rechaza firmar. La forma concreta depende de normativa y formatos locales vigentes."
+            },
+            {
+              "subtitulo": "Consentimiento, rechazo y autonomía",
+              "texto": "En pacientes adultos competentes, el rechazo informado merece respeto en los límites previstos por la ley. En niños, los representantes participan por su interés y bienestar; debe atenderse progresivamente la opinión del menor según edad y madurez, sin desplazar la obligación de proteger de daño grave evitable."
+            },
+            {
+              "subtitulo": "Interés superior del niño",
+              "texto": "Principio rector para ponderar riesgos/beneficios de la decisión. Si la negativa de hidratación pone al niño en peligro grave o inmediato, el establecimiento debe procurar protección y atención de emergencia según posibilidades, consultar canales institucionales y legales pertinentes y documentar todas las acciones."
+            },
+            {
+              "subtitulo": "Deshidratación pediátrica: evaluar antes de decidir",
+              "texto": "Registrar sensorio, sed, llenado capilar, pulso, perfusión, FR, mucosas, ojos, diuresis, capacidad de beber, signos de shock y gravedad de pérdidas. Un niño que bebe y no tiene deshidratación grave puede recibir rehidratación oral supervisada. Si presenta shock o deshidratación grave, se requiere atención inmediata con fluidos adecuados y referencia según recursos. No confundir «diarrea» con «obligación de vía parenteral» para todos los casos."
+            },
+            {
+              "subtitulo": "Consejería antes del retiro",
+              "texto": "Preguntar por qué se niega a la venoclisis (dolor, costos, experiencias, miedo, transporte, cuidado de otros hijos). Dar información clara sobre consecuencias, beneficios del tratamiento y opciones seguras; solicitar repetición de lo entendido (teach-back) y ofrecer apoyo. La negativa puede revertir con mejor información, no con amenazas."
+            },
+            {
+              "subtitulo": "Diferencia con desistimiento de un procedimiento",
+              "texto": "Rechazar una venoclisis no siempre equivale a rechazar toda atención. Puede aceptar observación, solución oral si es clínicamente posible, nueva valoración o referencia. Registrar con precisión qué se rechaza y qué alternativas acepta para sostener continuidad."
+            },
+            {
+              "subtitulo": "Derechos y documentación en Perú",
+              "texto": "Marco general: Ley General de Salud, Ley de derechos de las personas usuarias de los servicios de salud, Reglamento de establecimientos de salud y normas de gestión de historia clínica; además del Código de los Niños y Adolescentes y normativa protectora de niñas, niños y adolescentes. El formato y obligación puntual deben contrastarse con procedimiento institucional vigente."
+            },
+            {
+              "subtitulo": "Riesgo legal en el primer nivel",
+              "texto": "Ante retirada en emergencia documentar situación, tiempo, competencia y comprensión del representante, medidas realizadas y pendientes, posible agravamiento, señales de alarma, contacto para continuidad y coordinación de referencia. No presentar la firma como una «liberación total» de deber de diligencia."
+            },
+            {
+              "subtitulo": "Quién solicita y quién indica",
+              "texto": "El representante legal comunica el retiro; el profesional registra su evaluación e indicación. El hecho de que una terapia no se haya iniciado no elimina obligación de identificar al profesional ni documentar sus indicaciones. El jefe del establecimiento no es quien debe autorizar cada alta voluntaria de rutina; situaciones graves se escalan por la vía adecuada."
+            }
+          ],
+          "distractores": {
+            "A": "Solo diagnóstico y tratamiento indicado es insuficiente: debe incluirse información sobre riesgos, paciente, responsable, comunicación y constancias exigibles.",
+            "B": "Aunque no se inició la terapia, importa documentar quién evaluó, propuso y explicó el tratamiento; omitir al personal carece de justificación.",
+            "C": "No hay una regla general que exija autorización administrativa del jefe para cada retiro voluntario. Casos de riesgo grave pueden requerir intervención y protección, que es una cuestión distinta.",
+            "D": "Clave resaltada. Si quien solicita retiro no es paciente —aquí, madre de un menor— deben consignarse datos que permitan identificar al representante legal."
+          },
+          "normativa": [
+            {
+              "nombre": "Perú — Ley N.º 29414, derechos de las personas usuarias de los servicios de salud",
+              "url": "https://www.gob.pe/institucion/minsa/normas-legales/249700-29414",
+              "aplicacion": "Derechos a información, consentimiento/rechazo y trato digno dentro del ordenamiento peruano; corroborar texto y reglamento."
+            },
+            {
+              "nombre": "Perú — Reglamento de establecimientos de salud y servicios médicos de apoyo (D.S. N.º 013-2006-SA)",
+              "url": "https://www.gob.pe/institucion/minsa/normas-legales/251525-013-2006-sa",
+              "aplicacion": "Marco sobre funcionamiento, atención y responsabilidades asistenciales."
+            },
+            {
+              "nombre": "MINSA — NTS de Gestión de la Historia Clínica, RM N.º 214-2018/MINSA",
+              "url": "https://www.gob.pe/institucion/minsa/normas-legales/187274-214-2018-minsa",
+              "aplicacion": "Registros clínicos, constancias y documentación de atenciones."
+            },
+            {
+              "nombre": "Perú — Código de los Niños y Adolescentes, Ley N.º 27337",
+              "url": "https://www.gob.pe/institucion/congreso-de-la-republica/normas-legales/118476-27337",
+              "aplicacion": "Interés superior del niño y protección de sus derechos; confirmar disposiciones aplicables al caso."
+            }
+          ],
+          "mnemotecnia": "RETIRO = R-E-T-I-R-O: Representante identificado; Explicación de riesgo; Tratamiento propuesto; Información comprendida; Registro de fecha/firmas; Opciones y orientación de retorno. Visualiza la madre del niño firmando un formulario donde su identidad ocupa el primer recuadro.",
+          "trampas": [
+            "Un menor de tres años no firma como responsable legal de su propio retiro.",
+            "La firma no elimina todos los deberes del profesional o establecimiento.",
+            "No escribir solamente «madre no acepta»: consignar información y riesgos explicados.",
+            "No asumir que toda diarrea pediátrica requiere suero intravenoso; valorar gravedad.",
+            "No equiparar rechazo de una vía de administración con rechazo de toda atención.",
+            "En emergencia con amenaza grave al niño, aplicar vías de protección y urgencia del marco legal; no es un simple trámite."
+          ],
+          "perla": "ENCAPS 2026-II, P15-D: si solicita alta voluntaria una persona distinta del paciente, debe identificarse formalmente al REPRESENTANTE LEGAL; protege especialmente a los menores.",
+          "repaso_activo": [
+            {
+              "pregunta": "¿Qué clave se resalta en el PDF?",
+              "respuesta": "D, identificación del representante legal que solicita el retiro."
+            },
+            {
+              "pregunta": "¿Qué más debe documentarse además de la identidad?",
+              "respuesta": "Diagnóstico, tratamiento indicado, riesgos explicados, decisión, fecha, firmas/constancias y responsables."
+            },
+            {
+              "pregunta": "¿El retiro voluntario equivale a alta médica?",
+              "respuesta": "No, describe decisión de interrumpir o rechazar atención."
+            },
+            {
+              "pregunta": "¿Qué principio prima en la atención de menores?",
+              "respuesta": "Interés superior del niño."
+            },
+            {
+              "pregunta": "¿Una venoclisis es obligatoria en toda diarrea?",
+              "respuesta": "No; depende de estado hemodinámico y grado de deshidratación."
+            },
+            {
+              "pregunta": "¿La madre puede aceptar rehidratación oral y rechazar la intravenosa?",
+              "respuesta": "Sí, debe evaluarse factibilidad clínica, registrarse y explicarse el riesgo."
+            },
+            {
+              "pregunta": "¿La firma del representante elimina deberes en una emergencia grave?",
+              "respuesta": "No."
+            }
+          ],
+          "refuerzo": [
+            {
+              "enunciado": "Niño con diarrea bebe ávidamente, sin choque, con algún grado de deshidratación. La madre se opone a venoclisis pero acepta manejo supervisado. ¿Qué conducta inicial es razonable?",
+              "alternativas": {
+                "A": "Forzar canalización sin reevaluar gravedad.",
+                "B": "Indicar egreso inmediato sin hidratación.",
+                "C": "Exigir firma y rechazar opciones alternativas.",
+                "D": "Valorar plan de rehidratación oral supervisada, reevaluar e informar."
+              },
+              "respuesta": "D",
+              "explicacion": "La hidratación oral supervisada es apropiada para muchos niños sin deshidratación grave que toleran vía oral; se debe reevaluar."
+            },
+            {
+              "enunciado": "Niño con shock por deshidratación grave. El familiar rechaza toda atención y solicita retiro sin escuchar riesgos. ¿Cuál es la mejor respuesta del equipo?",
+              "alternativas": {
+                "A": "Dar alta sin documentar por autonomía absoluta del familiar.",
+                "B": "Priorizar estabilización de emergencia y activar protección pertinente del menor según marco legal.",
+                "C": "Solicitar una cita de control en dos semanas.",
+                "D": "Considerar que firmar elimina obligaciones del establecimiento."
+              },
+              "respuesta": "B",
+              "explicacion": "El peligro grave inmediato obliga a actuar con prioridad de emergencia y protección del menor, documentando evaluación e intervenciones."
+            }
+          ]
+        }
+      }
     },
     {
       "number": 16,
