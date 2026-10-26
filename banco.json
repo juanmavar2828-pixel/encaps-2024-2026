@@ -3518,8 +3518,8 @@
     {
       "number": 16,
       "code": "ENCAPS26-II P016",
-      "course": "ENCAPS Medicina · Por desarrollar",
-      "topic": "ENCAPS Medicina 2026-II",
+      "course": "Urgencias · Triaje y priorización",
+      "topic": "Triaje de emergencias: prioridad II y tiempo máximo de atención",
       "question": "En la Resolución Ministerial de Julio 2026, se clasificaron las emergencias según el grado de prioridad de atención y se establecieron intervalos de tiempos para la atención. El tiempo a considerar en Prioridad II es no mayor de:",
       "options": {
         "A": "60'",
@@ -3528,18 +3528,246 @@
         "D": "10'"
       },
       "correct": "D",
-      "comment": "Tema pendiente de desarrollo detallado. La alternativa correcta indicada es la resaltada en el PDF del usuario; todavía no se ha cotejado independientemente contra el listado oficial de claves del MINSA.",
-      "pearl": "",
-      "keywords": [],
-      "estadoDesarrollo": "pendiente",
+      "comment": "CLAVE DEL DOCUMENTO\n\nD. 10' (clave resaltada en el PDF ENCAPS 2026-II).\n\nRAZONAMIENTO PASO A PASO\n\nEl documento marca D, 10 minutos. La pregunta no solicita cuánto dura el tratamiento, el tiempo hasta la referencia ni cuánto aguarda el paciente desde que ingresó al establecimiento: solicita el intervalo máximo para INICIAR la atención de prioridad II una vez asignada la prioridad en triaje.\n\nLa norma publicada el 16 de julio de 2026 identifica prioridad I como emergencia de gravedad súbita extrema y atención inmediata; prioridad II como emergencia con amenaza potencial para la vida, inestabilidad fisiológica o dolor muy intenso, que exige atención en un plazo no mayor de diez minutos desde la clasificación en triaje. Se trata de un máximo normativo, no de una meta para esperar diez minutos deliberadamente.\n\nEjemplo: un paciente hemodinámicamente alterado o con dolor torácico preocupante llega al área de urgencias. El equipo debe evaluar ABCDE, reconocer deterioro y clasificar apropiadamente. Si aparecen signos de amenaza inminente de muerte, puede necesitar prioridad I y atención inmediata; no se lo clasifica II únicamente para cumplir un plazo.\n\nPara un I-1/I-2/I-3 del primer nivel es fundamental estabilizar según recursos y coordinar referencia cuando se supere la capacidad resolutiva. La ausencia de una sala de emergencia formal no autoriza a aplazar una atención crítica.\n\nDESARROLLO DEL TEMARIO\n\nDEFINICIÓN DE TRIAJE\nProceso clínico continuo que identifica gravedad y prioridad de atención de personas que llegan a un servicio. No es una lista de espera por orden de llegada: atiende primero a quien enfrenta mayor riesgo clínico. Es una clasificación dinámica, pues el estado puede cambiar mientras espera.\n\nPRIORIDAD I\nEmergencia de gravedad súbita extrema con riesgo inminente de muerte o deterioro funcional severo. Inicio de atención INMEDIATO. Ejemplos orientativos: paro cardiorrespiratorio, choque profundo o compromiso crítico de vía aérea. El paciente requiere respuesta inmediata de reanimación.\n\nPRIORIDAD II\nEmergencia con amenaza potencial para la vida, inestabilidad fisiológica o dolor muy intenso. Comienzo de atención en ≤10 minutos contados desde la clasificación del triaje. El plazo es máximo; toda señal de deterioro obliga a intervención antes.\n\nPRIORIDAD III\nUrgencia sin amenaza potencial inmediata de muerte o secuelas invalidantes. La modificación normativa de julio de 2026 fija un inicio de atención no mayor de 30 minutos a partir de la clasificación. Reconocer riesgo de reclasificación si hay empeoramiento.\n\nPRIORIDADES IV Y V\nPrioridad IV corresponde a urgencia menor y V a no urgencia en la clasificación normativa referida. No confundir que «no urgencia» equivale a «no necesita atención»: se orienta al circuito apropiado con recomendaciones, evaluación y seguimiento conforme a disponibilidad.\n\nTIEMPO DE TRIAJE FRENTE A TIEMPO DE ATENCIÓN\nEl reloj del ítem comienza cuando queda asignada la prioridad de triaje. No debe contarse como diez minutos adicionales después de reconocer inestabilidad extrema ni incluir sin precisión pruebas diagnósticas, hospitalización o referencia en esa misma definición.\n\nABCDEF ANTE DETERIORO\nAplicar evaluación inicial de vía aérea, respiración, circulación, estado neurológico y exposición según contexto, control de hemorragias, monitorización si existe, acceso venoso según necesidad y tratamiento urgente de causas reversibles. La clasificación no reemplaza el juicio clínico.\n\nERRORES OPERATIVOS FRECUENTES\nPrimero atender por llegada y no por gravedad; registrar prioridad sin comprobar signos vitales; no reevaluar a quienes esperan; usar el plazo máximo como retraso programado; no activar referencia de emergencia por falta de cama local.\n\nAPLICACIÓN AL CONCURSO 276\nSaber no solo memorizar diez minutos, sino identificar cuándo escalar I vs II, registrar tiempos, estabilizar según nivel, priorizar la atención y comunicar la referencia. La continuidad y oportunidad son indicadores de calidad asistencial.\n\nANÁLISIS DE DISTRACTORES\n\nA. 60 minutos supera el máximo asignado a prioridad II y corresponde a una demora incompatible con su riesgo.\n\nB. 30 minutos coincide con el plazo de prioridad III en el marco 2026, no con la emergencia de prioridad II.\n\nC. 20 minutos no es el plazo que establece para prioridad II la modificación normativa citada.\n\nD. Clave del PDF y norma de julio de 2026: máximo diez minutos desde la clasificación de triaje.\n\nNORMAS Y REFERENCIAS\n\nRM N.º 625-2026/MINSA (16 de julio de 2026), modificación de la NTS N.º 042-MINSA/DGSP-V.01: Prioridad I inmediata, prioridad II inicio ≤10 minutos y prioridad III inicio ≤30 minutos desde clasificación en triaje. https://busquedas.elperuano.pe/api/visor_html/2535379-1\n\nMINSA NTS N.º 042-MINSA/DGSP-V.01 — Servicios de Emergencia: Marco de organización del servicio de emergencias, modificado por RM 625-2026. https://www.gob.pe/minsa\n\nMNEMOTECNIA\n\nPRIORIDAD **I = INMEDIATA**, PRIORIDAD **II = DIEZ**, PRIORIDAD **III = TREINTA**. Imagina tres relojes en triaje: uno sin aguja (ya), uno marcado 10 y otro 30. El cronómetro empieza en la CLASIFICACIÓN.\n\nTRAMPAS\n\nNunca demorar 10 minutos a un paciente que ya requiere estabilización.\n\nLa condición clínica puede empeorar y obligar a reclasificar la prioridad.\n\nLos 10 minutos son hasta el INICIO de atención y no hasta el diagnóstico definitivo.\n\nNo aplicar plazos antiguos cuando la pregunta menciona explícitamente RM de julio 2026.\n\nEl orden de llegada no prevalece sobre gravedad.\n\nNo confundir prioridad II de emergencias con categoría II de establecimiento de salud.\n\nPERLA DE EXAMEN\n\nENCAPS 2026-II P16: PRIORIDAD II = inicio de atención en ≤10 minutos desde el triaje (RM 625-2026/MINSA).\n\nPREGUNTAS DE REPASO\n\n¿Cuál es la clave de la pregunta 16? — D: 10 minutos.\n\n¿Desde cuándo se cuentan esos 10 minutos? — Desde la clasificación de prioridad en triaje.\n\n¿Qué prioridad exige atención inmediata? — Prioridad I.\n\n¿En la norma de julio 2026 cuál es el máximo de prioridad III? — 30 minutos.\n\n¿Si un paciente II se deteriora debe esperar turno? — No, reevaluar y reclasificar, intervenir inmediatamente según gravedad.\n\n¿El intervalo corresponde a terminar el tratamiento? — No; corresponde al inicio de atención.\n\nDOS CASOS DIFÍCILES\n\nPaciente de 67 años llega con alteración grave del sensorio, ventilación agónica y ausencia de pulso palpable. ¿Cuál es la prioridad inicial? A) Prioridad II, inicio a los 10 minutos. / B) Prioridad III, inicio a los 30 minutos. / C) Prioridad I, atención inmediata. / D) Prioridad IV, evaluación diferida. | Respuesta C: Se trata de compromiso vital extremo: requiere reanimación sin demora, no espera de triaje ordinario.\n\nA una paciente estable se le asigna prioridad III a las 10:12. Según la modificación peruana de julio de 2026, ¿cuál es la hora límite normativa para iniciar atención si sigue en esa categoría? A) 10:22 / B) 10:42 / C) 11:12 / D) 10:32 | Respuesta B: Prioridad III: hasta 30 minutos desde la clasificación; 10:12 + 30 min = 10:42.",
+      "pearl": "ENCAPS 2026-II P16: PRIORIDAD II = inicio de atención en ≤10 minutos desde el triaje (RM 625-2026/MINSA).",
+      "keywords": [
+        "triaje",
+        "prioridad II",
+        "10 minutos",
+        "RM 625-2026",
+        "emergencias",
+        "prioridad I",
+        "prioridad III"
+      ],
+      "estadoDesarrollo": "completo",
       "estadoClave": "resaltada_en_pdf_usuario_no_cotejada_independientemente_con_tabla_minsa",
-      "lesson": null
+      "lesson": {
+        "respuesta_resumida": "D. 10' (clave resaltada en el PDF ENCAPS 2026-II).",
+        "razonamiento": "El documento marca D, 10 minutos. La pregunta no solicita cuánto dura el tratamiento, el tiempo hasta la referencia ni cuánto aguarda el paciente desde que ingresó al establecimiento: solicita el intervalo máximo para INICIAR la atención de prioridad II una vez asignada la prioridad en triaje.\n\nLa norma publicada el 16 de julio de 2026 identifica prioridad I como emergencia de gravedad súbita extrema y atención inmediata; prioridad II como emergencia con amenaza potencial para la vida, inestabilidad fisiológica o dolor muy intenso, que exige atención en un plazo no mayor de diez minutos desde la clasificación en triaje. Se trata de un máximo normativo, no de una meta para esperar diez minutos deliberadamente.\n\nEjemplo: un paciente hemodinámicamente alterado o con dolor torácico preocupante llega al área de urgencias. El equipo debe evaluar ABCDE, reconocer deterioro y clasificar apropiadamente. Si aparecen signos de amenaza inminente de muerte, puede necesitar prioridad I y atención inmediata; no se lo clasifica II únicamente para cumplir un plazo.\n\nPara un I-1/I-2/I-3 del primer nivel es fundamental estabilizar según recursos y coordinar referencia cuando se supere la capacidad resolutiva. La ausencia de una sala de emergencia formal no autoriza a aplazar una atención crítica.",
+        "temario": [
+          "Definición de triaje: Proceso clínico continuo que identifica gravedad y prioridad de atención de personas que llegan a un servicio. No es una lista de espera por orden de llegada: atiende primero a quien enfrenta mayor riesgo clínico. Es una clasificación dinámica, pues el estado puede cambiar mientras espera.",
+          "Prioridad I: Emergencia de gravedad súbita extrema con riesgo inminente de muerte o deterioro funcional severo. Inicio de atención INMEDIATO. Ejemplos orientativos: paro cardiorrespiratorio, choque profundo o compromiso crítico de vía aérea. El paciente requiere respuesta inmediata de reanimación.",
+          "Prioridad II: Emergencia con amenaza potencial para la vida, inestabilidad fisiológica o dolor muy intenso. Comienzo de atención en ≤10 minutos contados desde la clasificación del triaje. El plazo es máximo; toda señal de deterioro obliga a intervención antes.",
+          "Prioridad III: Urgencia sin amenaza potencial inmediata de muerte o secuelas invalidantes. La modificación normativa de julio de 2026 fija un inicio de atención no mayor de 30 minutos a partir de la clasificación. Reconocer riesgo de reclasificación si hay empeoramiento.",
+          "Prioridades IV y V: Prioridad IV corresponde a urgencia menor y V a no urgencia en la clasificación normativa referida. No confundir que «no urgencia» equivale a «no necesita atención»: se orienta al circuito apropiado con recomendaciones, evaluación y seguimiento conforme a disponibilidad.",
+          "Tiempo de triaje frente a tiempo de atención: El reloj del ítem comienza cuando queda asignada la prioridad de triaje. No debe contarse como diez minutos adicionales después de reconocer inestabilidad extrema ni incluir sin precisión pruebas diagnósticas, hospitalización o referencia en esa misma definición.",
+          "ABCDEF ante deterioro: Aplicar evaluación inicial de vía aérea, respiración, circulación, estado neurológico y exposición según contexto, control de hemorragias, monitorización si existe, acceso venoso según necesidad y tratamiento urgente de causas reversibles. La clasificación no reemplaza el juicio clínico.",
+          "Errores operativos frecuentes: Primero atender por llegada y no por gravedad; registrar prioridad sin comprobar signos vitales; no reevaluar a quienes esperan; usar el plazo máximo como retraso programado; no activar referencia de emergencia por falta de cama local.",
+          "Aplicación al concurso 276: Saber no solo memorizar diez minutos, sino identificar cuándo escalar I vs II, registrar tiempos, estabilizar según nivel, priorizar la atención y comunicar la referencia. La continuidad y oportunidad son indicadores de calidad asistencial."
+        ],
+        "por_que_no_las_otras": {
+          "A": "60 minutos supera el máximo asignado a prioridad II y corresponde a una demora incompatible con su riesgo.",
+          "B": "30 minutos coincide con el plazo de prioridad III en el marco 2026, no con la emergencia de prioridad II.",
+          "C": "20 minutos no es el plazo que establece para prioridad II la modificación normativa citada.",
+          "D": "Clave del PDF y norma de julio de 2026: máximo diez minutos desde la clasificación de triaje."
+        },
+        "normativa": [
+          {
+            "nombre": "RM N.º 625-2026/MINSA (16 de julio de 2026), modificación de la NTS N.º 042-MINSA/DGSP-V.01",
+            "url": "https://busquedas.elperuano.pe/api/visor_html/2535379-1",
+            "aplicacion": "Prioridad I inmediata, prioridad II inicio ≤10 minutos y prioridad III inicio ≤30 minutos desde clasificación en triaje."
+          },
+          {
+            "nombre": "MINSA NTS N.º 042-MINSA/DGSP-V.01 — Servicios de Emergencia",
+            "url": "https://www.gob.pe/minsa",
+            "aplicacion": "Marco de organización del servicio de emergencias, modificado por RM 625-2026."
+          }
+        ],
+        "mnemotecnia": "PRIORIDAD **I = INMEDIATA**, PRIORIDAD **II = DIEZ**, PRIORIDAD **III = TREINTA**. Imagina tres relojes en triaje: uno sin aguja (ya), uno marcado 10 y otro 30. El cronómetro empieza en la CLASIFICACIÓN.",
+        "trampas": [
+          "Nunca demorar 10 minutos a un paciente que ya requiere estabilización.",
+          "La condición clínica puede empeorar y obligar a reclasificar la prioridad.",
+          "Los 10 minutos son hasta el INICIO de atención y no hasta el diagnóstico definitivo.",
+          "No aplicar plazos antiguos cuando la pregunta menciona explícitamente RM de julio 2026.",
+          "El orden de llegada no prevalece sobre gravedad.",
+          "No confundir prioridad II de emergencias con categoría II de establecimiento de salud."
+        ],
+        "perla": "ENCAPS 2026-II P16: PRIORIDAD II = inicio de atención en ≤10 minutos desde el triaje (RM 625-2026/MINSA).",
+        "repaso_activo": [
+          {
+            "pregunta": "¿Cuál es la clave de la pregunta 16?",
+            "respuesta": "D: 10 minutos."
+          },
+          {
+            "pregunta": "¿Desde cuándo se cuentan esos 10 minutos?",
+            "respuesta": "Desde la clasificación de prioridad en triaje."
+          },
+          {
+            "pregunta": "¿Qué prioridad exige atención inmediata?",
+            "respuesta": "Prioridad I."
+          },
+          {
+            "pregunta": "¿En la norma de julio 2026 cuál es el máximo de prioridad III?",
+            "respuesta": "30 minutos."
+          },
+          {
+            "pregunta": "¿Si un paciente II se deteriora debe esperar turno?",
+            "respuesta": "No, reevaluar y reclasificar, intervenir inmediatamente según gravedad."
+          },
+          {
+            "pregunta": "¿El intervalo corresponde a terminar el tratamiento?",
+            "respuesta": "No; corresponde al inicio de atención."
+          }
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Paciente de 67 años llega con alteración grave del sensorio, ventilación agónica y ausencia de pulso palpable. ¿Cuál es la prioridad inicial?",
+            "alternativas": {
+              "A": "Prioridad II, inicio a los 10 minutos.",
+              "B": "Prioridad III, inicio a los 30 minutos.",
+              "C": "Prioridad I, atención inmediata.",
+              "D": "Prioridad IV, evaluación diferida."
+            },
+            "respuesta": "C",
+            "explicacion": "Se trata de compromiso vital extremo: requiere reanimación sin demora, no espera de triaje ordinario."
+          },
+          {
+            "enunciado": "A una paciente estable se le asigna prioridad III a las 10:12. Según la modificación peruana de julio de 2026, ¿cuál es la hora límite normativa para iniciar atención si sigue en esa categoría?",
+            "alternativas": {
+              "A": "10:22",
+              "B": "10:42",
+              "C": "11:12",
+              "D": "10:32"
+            },
+            "respuesta": "B",
+            "explicacion": "Prioridad III: hasta 30 minutos desde la clasificación; 10:12 + 30 min = 10:42."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Triaje de emergencias: prioridad II y tiempo máximo de atención",
+          "eje": "Organización de emergencias / Norma de julio de 2026",
+          "confiabilidad": "Clave resaltada en PDF aportado; cotejo independiente con tabla oficial MINSA pendiente.",
+          "respuesta_resumida": "D. 10'",
+          "razonamiento": [
+            "El documento marca D, 10 minutos. La pregunta no solicita cuánto dura el tratamiento, el tiempo hasta la referencia ni cuánto aguarda el paciente desde que ingresó al establecimiento: solicita el intervalo máximo para INICIAR la atención de prioridad II una vez asignada la prioridad en triaje.",
+            "La norma publicada el 16 de julio de 2026 identifica prioridad I como emergencia de gravedad súbita extrema y atención inmediata; prioridad II como emergencia con amenaza potencial para la vida, inestabilidad fisiológica o dolor muy intenso, que exige atención en un plazo no mayor de diez minutos desde la clasificación en triaje. Se trata de un máximo normativo, no de una meta para esperar diez minutos deliberadamente.",
+            "Ejemplo: un paciente hemodinámicamente alterado o con dolor torácico preocupante llega al área de urgencias. El equipo debe evaluar ABCDE, reconocer deterioro y clasificar apropiadamente. Si aparecen signos de amenaza inminente de muerte, puede necesitar prioridad I y atención inmediata; no se lo clasifica II únicamente para cumplir un plazo.",
+            "Para un I-1/I-2/I-3 del primer nivel es fundamental estabilizar según recursos y coordinar referencia cuando se supere la capacidad resolutiva. La ausencia de una sala de emergencia formal no autoriza a aplazar una atención crítica."
+          ],
+          "temario": [
+            {
+              "subtitulo": "Definición de triaje",
+              "texto": "Proceso clínico continuo que identifica gravedad y prioridad de atención de personas que llegan a un servicio. No es una lista de espera por orden de llegada: atiende primero a quien enfrenta mayor riesgo clínico. Es una clasificación dinámica, pues el estado puede cambiar mientras espera."
+            },
+            {
+              "subtitulo": "Prioridad I",
+              "texto": "Emergencia de gravedad súbita extrema con riesgo inminente de muerte o deterioro funcional severo. Inicio de atención INMEDIATO. Ejemplos orientativos: paro cardiorrespiratorio, choque profundo o compromiso crítico de vía aérea. El paciente requiere respuesta inmediata de reanimación."
+            },
+            {
+              "subtitulo": "Prioridad II",
+              "texto": "Emergencia con amenaza potencial para la vida, inestabilidad fisiológica o dolor muy intenso. Comienzo de atención en ≤10 minutos contados desde la clasificación del triaje. El plazo es máximo; toda señal de deterioro obliga a intervención antes."
+            },
+            {
+              "subtitulo": "Prioridad III",
+              "texto": "Urgencia sin amenaza potencial inmediata de muerte o secuelas invalidantes. La modificación normativa de julio de 2026 fija un inicio de atención no mayor de 30 minutos a partir de la clasificación. Reconocer riesgo de reclasificación si hay empeoramiento."
+            },
+            {
+              "subtitulo": "Prioridades IV y V",
+              "texto": "Prioridad IV corresponde a urgencia menor y V a no urgencia en la clasificación normativa referida. No confundir que «no urgencia» equivale a «no necesita atención»: se orienta al circuito apropiado con recomendaciones, evaluación y seguimiento conforme a disponibilidad."
+            },
+            {
+              "subtitulo": "Tiempo de triaje frente a tiempo de atención",
+              "texto": "El reloj del ítem comienza cuando queda asignada la prioridad de triaje. No debe contarse como diez minutos adicionales después de reconocer inestabilidad extrema ni incluir sin precisión pruebas diagnósticas, hospitalización o referencia en esa misma definición."
+            },
+            {
+              "subtitulo": "ABCDEF ante deterioro",
+              "texto": "Aplicar evaluación inicial de vía aérea, respiración, circulación, estado neurológico y exposición según contexto, control de hemorragias, monitorización si existe, acceso venoso según necesidad y tratamiento urgente de causas reversibles. La clasificación no reemplaza el juicio clínico."
+            },
+            {
+              "subtitulo": "Errores operativos frecuentes",
+              "texto": "Primero atender por llegada y no por gravedad; registrar prioridad sin comprobar signos vitales; no reevaluar a quienes esperan; usar el plazo máximo como retraso programado; no activar referencia de emergencia por falta de cama local."
+            },
+            {
+              "subtitulo": "Aplicación al concurso 276",
+              "texto": "Saber no solo memorizar diez minutos, sino identificar cuándo escalar I vs II, registrar tiempos, estabilizar según nivel, priorizar la atención y comunicar la referencia. La continuidad y oportunidad son indicadores de calidad asistencial."
+            }
+          ],
+          "distractores": {
+            "A": "60 minutos supera el máximo asignado a prioridad II y corresponde a una demora incompatible con su riesgo.",
+            "B": "30 minutos coincide con el plazo de prioridad III en el marco 2026, no con la emergencia de prioridad II.",
+            "C": "20 minutos no es el plazo que establece para prioridad II la modificación normativa citada.",
+            "D": "Clave del PDF y norma de julio de 2026: máximo diez minutos desde la clasificación de triaje."
+          },
+          "normativa": [
+            {
+              "nombre": "RM N.º 625-2026/MINSA (16 de julio de 2026), modificación de la NTS N.º 042-MINSA/DGSP-V.01",
+              "url": "https://busquedas.elperuano.pe/api/visor_html/2535379-1",
+              "aplicacion": "Prioridad I inmediata, prioridad II inicio ≤10 minutos y prioridad III inicio ≤30 minutos desde clasificación en triaje."
+            },
+            {
+              "nombre": "MINSA NTS N.º 042-MINSA/DGSP-V.01 — Servicios de Emergencia",
+              "url": "https://www.gob.pe/minsa",
+              "aplicacion": "Marco de organización del servicio de emergencias, modificado por RM 625-2026."
+            }
+          ],
+          "mnemotecnia": "PRIORIDAD **I = INMEDIATA**, PRIORIDAD **II = DIEZ**, PRIORIDAD **III = TREINTA**. Imagina tres relojes en triaje: uno sin aguja (ya), uno marcado 10 y otro 30. El cronómetro empieza en la CLASIFICACIÓN.",
+          "trampas": [
+            "Nunca demorar 10 minutos a un paciente que ya requiere estabilización.",
+            "La condición clínica puede empeorar y obligar a reclasificar la prioridad.",
+            "Los 10 minutos son hasta el INICIO de atención y no hasta el diagnóstico definitivo.",
+            "No aplicar plazos antiguos cuando la pregunta menciona explícitamente RM de julio 2026.",
+            "El orden de llegada no prevalece sobre gravedad.",
+            "No confundir prioridad II de emergencias con categoría II de establecimiento de salud."
+          ],
+          "perla": "ENCAPS 2026-II P16: PRIORIDAD II = inicio de atención en ≤10 minutos desde el triaje (RM 625-2026/MINSA).",
+          "repaso_activo": [
+            {
+              "pregunta": "¿Cuál es la clave de la pregunta 16?",
+              "respuesta": "D: 10 minutos."
+            },
+            {
+              "pregunta": "¿Desde cuándo se cuentan esos 10 minutos?",
+              "respuesta": "Desde la clasificación de prioridad en triaje."
+            },
+            {
+              "pregunta": "¿Qué prioridad exige atención inmediata?",
+              "respuesta": "Prioridad I."
+            },
+            {
+              "pregunta": "¿En la norma de julio 2026 cuál es el máximo de prioridad III?",
+              "respuesta": "30 minutos."
+            },
+            {
+              "pregunta": "¿Si un paciente II se deteriora debe esperar turno?",
+              "respuesta": "No, reevaluar y reclasificar, intervenir inmediatamente según gravedad."
+            },
+            {
+              "pregunta": "¿El intervalo corresponde a terminar el tratamiento?",
+              "respuesta": "No; corresponde al inicio de atención."
+            }
+          ],
+          "refuerzo": [
+            {
+              "enunciado": "Paciente de 67 años llega con alteración grave del sensorio, ventilación agónica y ausencia de pulso palpable. ¿Cuál es la prioridad inicial?",
+              "alternativas": {
+                "A": "Prioridad II, inicio a los 10 minutos.",
+                "B": "Prioridad III, inicio a los 30 minutos.",
+                "C": "Prioridad I, atención inmediata.",
+                "D": "Prioridad IV, evaluación diferida."
+              },
+              "respuesta": "C",
+              "explicacion": "Se trata de compromiso vital extremo: requiere reanimación sin demora, no espera de triaje ordinario."
+            },
+            {
+              "enunciado": "A una paciente estable se le asigna prioridad III a las 10:12. Según la modificación peruana de julio de 2026, ¿cuál es la hora límite normativa para iniciar atención si sigue en esa categoría?",
+              "alternativas": {
+                "A": "10:22",
+                "B": "10:42",
+                "C": "11:12",
+                "D": "10:32"
+              },
+              "respuesta": "B",
+              "explicacion": "Prioridad III: hasta 30 minutos desde la clasificación; 10:12 + 30 min = 10:42."
+            }
+          ]
+        }
+      }
     },
     {
       "number": 17,
       "code": "ENCAPS26-II P017",
-      "course": "ENCAPS Medicina · Por desarrollar",
-      "topic": "ENCAPS Medicina 2026-II",
+      "course": "Promoción de la salud · Prevención ENT",
+      "topic": "Paquetes educativos: básico y completo para familias priorizadas",
       "question": "El profesional de la salud que trabaja en el primer nivel de atención, para prevenir las enfermedades no trasmisibles, identifica a las familias priorizadas brindando información en un componente del paquete básico como …… y en un componente del paquete completo como…",
       "options": {
         "A": "detección de diabetes / evaluación de la diabetes.",
@@ -3548,18 +3776,246 @@
         "D": "despistaje de catarata / diagnóstico de ceguera."
       },
       "correct": "B",
-      "comment": "Tema pendiente de desarrollo detallado. La alternativa correcta indicada es la resaltada en el PDF del usuario; todavía no se ha cotejado independientemente contra el listado oficial de claves del MINSA.",
-      "pearl": "",
-      "keywords": [],
-      "estadoDesarrollo": "pendiente",
+      "comment": "CLAVE DEL DOCUMENTO\n\nB. alimentación saludable / salud ocular. (clave resaltada en el PDF ENCAPS 2026-II).\n\nRAZONAMIENTO PASO A PASO\n\nLa respuesta resaltada es B: alimentación saludable / salud ocular. El enunciado habla de IDENTIFICAR FAMILIAS PRIORIZADAS y BRINDAR INFORMACIÓN, es decir intervenciones educativas de estilos de vida, no de pruebas clínicas individuales de despistaje.\n\nEl documento operativo presupuestal del MINSA diferencia un paquete básico de contenidos: ALIMENTACIÓN SALUDABLE, ACTIVIDAD FÍSICA y SALUD BUCAL; y un paquete completo que añade SALUD OCULAR, SUEÑO ADECUADO, GESTIÓN DEL ESTRÉS y, para distritos en riesgo, reducción de sobreexposición a METALES PESADOS. Por eso el par válido es alimentación saludable (básico) y salud ocular (completo).\n\nEl formato de la pregunta tiene dos huecos vinculados: primero un componente básico y después uno del paquete completo. Una alternativa puede mencionar una intervención muy valiosa (como tamizaje de diabetes), pero no responder la clasificación específica del paquete educativo.\n\nSe trata de familias con miembros de distintos cursos de vida, no de un examen clínico únicamente de personas con enfermedad confirmada. La educación comunitaria busca influir en factores de riesgo, mejorar alfabetización sanitaria y facilitar decisiones preventivas sostenibles.\n\nDESARROLLO DEL TEMARIO\n\n¿QUÉ ES UN PAQUETE EDUCATIVO DE PROMOCIÓN?\nEs un conjunto estructurado de contenidos y actividades educativas para familias o actores sociales sobre comportamientos saludables. Se realiza mediante sesiones educativas, demostrativas, visitas domiciliarias, reuniones o telesalud según programación. No es lo mismo que cartera de servicios de consulta externa.\n\nPAQUETE BÁSICO = TRES CONTENIDOS\nAlimentación saludable: selección y preparación de alimentos, tamaños de porción apropiados y reducción de exceso de sal, azúcar y ultraprocesados. Actividad física: movimiento seguro y adaptado por edad y capacidad. Salud bucal: higiene, alimentación no cariogénica y acceso preventivo odontológico.\n\nPAQUETE COMPLETO = BÁSICO MÁS CUATRO CAMPOS\nAñade salud ocular (cuidados y orientación sobre signos de alarma), sueño adecuado, gestión del estrés y reducción de exposición a metales pesados solo en distritos priorizados por ese riesgo. Que una actividad se mencione en un paquete no significa que toda familia requiera idéntico contenido sin adaptación.\n\n¿QUIÉN RECIBE LA INTERVENCIÓN?\nSe priorizan familias con integrantes en cursos de vida señalados en la actividad programática, como niños, adolescentes y adultos mayores, y actores sociales: agentes comunitarios, representantes educativos y autoridades locales según contexto. Se adapta a lengua, alfabetización, cultura, género y entorno.\n\nDIFERENCIA EDUCACIÓN VS TAMIZAJE CLÍNICO\nEducación: explicar alimentación, salud ocular o hábitos y comprobar comprensión. Tamizaje: medir PA o glicemia a personas elegibles, detectar cataratas o evaluar agudeza visual. Ambos son valiosos, pero una consulta de laboratorio no es por sí misma el componente educativo nominal consultado.\n\nPREVENCIÓN PRIMORDIAL, PRIMARIA Y SECUNDARIA\nPrimordial: evitar aparición de factores de riesgo en comunidad. Primaria: reducir incidencia mediante hábitos saludables, vacunación cuando corresponda y protección de riesgos. Secundaria: detectar tempranamente enfermedad (por ejemplo, HTA o diabetes) e iniciar tratamiento; no confundir nomenclaturas de prevención con nombres de componentes del paquete.\n\nVERIFICACIÓN DE COBERTURA DE LA ACTIVIDAD\nEl anexo presupuestal describe criterios operativos de familia intervenida con paquete básico y familia capacitada con paquete completo, según la actividad y medición aplicable. Evitar reportar solo una charla aislada como «paquete completo» si no se entregaron todos los contenidos requeridos.\n\nCASO COMUNITARIO ALTOANDINO\nEn una comunidad con agricultura, comercio y barreras de acceso, una sesión puede mostrar ejemplos de desayuno con alimentos disponibles, paseos o ejercicio protegido del frío, higiene bucal, cuidado ocular por radiación UV, sueño y manejo del estrés. Registrarlo con evidencia y seguimiento; el diálogo debe ser culturalmente adecuado.\n\nSEGUIMIENTO Y CONTINUIDAD\nMedir comprensión con preguntas de retorno, acordar una conducta pequeña verificable, involucrar redes comunitarias, identificar riesgos clínicos que requieren evaluación y realizar referencia cuando corresponda. Educación de promoción complementa, no sustituye, diagnóstico o tratamiento.\n\nANÁLISIS DE DISTRACTORES\n\nA. La detección y evaluación de diabetes son procesos de tamizaje y atención clínica, no el par nominal básico/completo del paquete de estilos de vida saludables.\n\nB. Clave del PDF: alimentación saludable integra básico y salud ocular se añade al completo.\n\nC. Tamizaje ocular y control de errores refractivos son acciones clínicas posibles, pero no representan los dos componentes del paquete educativo solicitado.\n\nD. Despistaje de catarata y diagnóstico de ceguera son procesos de evaluación/diagnóstico, no contenidos titulados del paquete básico y el completo.\n\nNORMAS Y REFERENCIAS\n\nMINSA — Anexo 2 de definiciones operacionales de programas presupuestales (Promoción de la Salud): Señala contenidos del paquete básico y del paquete completo de estilos de vida saludables para familias. https://www.minsa.gob.pe/presupuestales/doc2021/ANEXO2_5.pdf\n\nMINSA — Información sobre cuidado integral por curso de vida adulto: Contextualiza educación, detección de factores de riesgo y atención integral en familia y comunidad. https://www.gob.pe/75776-cuidado-integral-de-salud-para-la-persona-adulta\n\nMNEMOTECNIA\n\nBÁSICO = **A-A-B**: Alimentación, Actividad física, Boca. COMPLETO añade **O-S-E-M**: Ojos, Sueño, Estrés, Metales (solo áreas de riesgo). Visualiza una canasta con comida, una zapatilla y un cepillo; al subir de nivel agrega lentes, almohada, cerebro calmado y un escudo industrial.\n\nTRAMPAS\n\nLa pregunta pide brindar INFORMACIÓN familiar y no un tamizaje bioquímico.\n\n«Salud ocular» como contenido educativo no equivale a realizar cirugía de cataratas.\n\nEl paquete completo INCLUYE el básico, no lo reemplaza.\n\nMetales pesados se incorpora según riesgo territorial, no indistintamente.\n\nAlimentación saludable es componente básico aunque también se imparte en el completo.\n\nNo confundir este paquete de promoción con el paquete clínico de cuidados integrales de otra norma.\n\nPERLA DE EXAMEN\n\nENCAPS 2026-II P17-B: BÁSICO = alimentación, actividad física y salud bucal; COMPLETO añade salud ocular, sueño, estrés y metales si corresponde.\n\nPREGUNTAS DE REPASO\n\n¿Cuáles son los tres temas del paquete básico? — Alimentación saludable, actividad física y salud bucal.\n\n¿Qué tema ocular agrega el completo? — Salud ocular.\n\n¿Qué otros temas se agregan? — Sueño adecuado, gestión del estrés y, según riesgo, exposición a metales pesados.\n\n¿Tamizaje de glucosa es lo mismo que educación de alimentación? — No: es una prestación clínica de detección.\n\n¿Qué significa adaptar educación al curso de vida? — Adecuar mensajes a necesidades de niños, adolescentes, adultos y adultos mayores.\n\n¿El completo elimina el básico? — No, lo contiene y amplía.\n\nDOS CASOS DIFÍCILES\n\nUna familia recibió orientación de alimentación saludable, actividad física y salud bucal, sin más contenidos. Según el anexo del MINSA, ¿qué paquete se completó? A) Paquete completo de estilo de vida. / B) Tamizaje integral de ENT. / C) Tratamiento integral comunitario. / D) Paquete básico de estilo de vida. | Respuesta D: Son los tres contenidos definidos para paquete básico. El completo exige contenidos adicionales.\n\nSe planifica una intervención adicional al paquete básico en un distrito sin exposición a metales identificada. ¿Qué conjunto resulta congruente con los nuevos temas del paquete completo? A) Diagnóstico de cataratas, radiografía y glucemia. / B) Salud ocular, sueño adecuado y gestión del estrés. / C) Antibióticos profilácticos y evaluación visual. / D) Cirugía ocular, chequeo glucémico y vacunación. | Respuesta B: Corresponde al componente adicional educativo del paquete completo; el módulo de metales aplica a territorios en riesgo.",
+      "pearl": "ENCAPS 2026-II P17-B: BÁSICO = alimentación, actividad física y salud bucal; COMPLETO añade salud ocular, sueño, estrés y metales si corresponde.",
+      "keywords": [
+        "paquete básico",
+        "paquete completo",
+        "salud ocular",
+        "alimentación saludable",
+        "actividad física",
+        "salud bucal",
+        "prevención ENT"
+      ],
+      "estadoDesarrollo": "completo",
       "estadoClave": "resaltada_en_pdf_usuario_no_cotejada_independientemente_con_tabla_minsa",
-      "lesson": null
+      "lesson": {
+        "respuesta_resumida": "B. alimentación saludable / salud ocular. (clave resaltada en el PDF ENCAPS 2026-II).",
+        "razonamiento": "La respuesta resaltada es B: alimentación saludable / salud ocular. El enunciado habla de IDENTIFICAR FAMILIAS PRIORIZADAS y BRINDAR INFORMACIÓN, es decir intervenciones educativas de estilos de vida, no de pruebas clínicas individuales de despistaje.\n\nEl documento operativo presupuestal del MINSA diferencia un paquete básico de contenidos: ALIMENTACIÓN SALUDABLE, ACTIVIDAD FÍSICA y SALUD BUCAL; y un paquete completo que añade SALUD OCULAR, SUEÑO ADECUADO, GESTIÓN DEL ESTRÉS y, para distritos en riesgo, reducción de sobreexposición a METALES PESADOS. Por eso el par válido es alimentación saludable (básico) y salud ocular (completo).\n\nEl formato de la pregunta tiene dos huecos vinculados: primero un componente básico y después uno del paquete completo. Una alternativa puede mencionar una intervención muy valiosa (como tamizaje de diabetes), pero no responder la clasificación específica del paquete educativo.\n\nSe trata de familias con miembros de distintos cursos de vida, no de un examen clínico únicamente de personas con enfermedad confirmada. La educación comunitaria busca influir en factores de riesgo, mejorar alfabetización sanitaria y facilitar decisiones preventivas sostenibles.",
+        "temario": [
+          "¿Qué es un paquete educativo de promoción?: Es un conjunto estructurado de contenidos y actividades educativas para familias o actores sociales sobre comportamientos saludables. Se realiza mediante sesiones educativas, demostrativas, visitas domiciliarias, reuniones o telesalud según programación. No es lo mismo que cartera de servicios de consulta externa.",
+          "Paquete BÁSICO = tres contenidos: Alimentación saludable: selección y preparación de alimentos, tamaños de porción apropiados y reducción de exceso de sal, azúcar y ultraprocesados. Actividad física: movimiento seguro y adaptado por edad y capacidad. Salud bucal: higiene, alimentación no cariogénica y acceso preventivo odontológico.",
+          "Paquete COMPLETO = básico más cuatro campos: Añade salud ocular (cuidados y orientación sobre signos de alarma), sueño adecuado, gestión del estrés y reducción de exposición a metales pesados solo en distritos priorizados por ese riesgo. Que una actividad se mencione en un paquete no significa que toda familia requiera idéntico contenido sin adaptación.",
+          "¿Quién recibe la intervención?: Se priorizan familias con integrantes en cursos de vida señalados en la actividad programática, como niños, adolescentes y adultos mayores, y actores sociales: agentes comunitarios, representantes educativos y autoridades locales según contexto. Se adapta a lengua, alfabetización, cultura, género y entorno.",
+          "Diferencia educación vs tamizaje clínico: Educación: explicar alimentación, salud ocular o hábitos y comprobar comprensión. Tamizaje: medir PA o glicemia a personas elegibles, detectar cataratas o evaluar agudeza visual. Ambos son valiosos, pero una consulta de laboratorio no es por sí misma el componente educativo nominal consultado.",
+          "Prevención primordial, primaria y secundaria: Primordial: evitar aparición de factores de riesgo en comunidad. Primaria: reducir incidencia mediante hábitos saludables, vacunación cuando corresponda y protección de riesgos. Secundaria: detectar tempranamente enfermedad (por ejemplo, HTA o diabetes) e iniciar tratamiento; no confundir nomenclaturas de prevención con nombres de componentes del paquete.",
+          "Verificación de cobertura de la actividad: El anexo presupuestal describe criterios operativos de familia intervenida con paquete básico y familia capacitada con paquete completo, según la actividad y medición aplicable. Evitar reportar solo una charla aislada como «paquete completo» si no se entregaron todos los contenidos requeridos.",
+          "Caso comunitario altoandino: En una comunidad con agricultura, comercio y barreras de acceso, una sesión puede mostrar ejemplos de desayuno con alimentos disponibles, paseos o ejercicio protegido del frío, higiene bucal, cuidado ocular por radiación UV, sueño y manejo del estrés. Registrarlo con evidencia y seguimiento; el diálogo debe ser culturalmente adecuado.",
+          "Seguimiento y continuidad: Medir comprensión con preguntas de retorno, acordar una conducta pequeña verificable, involucrar redes comunitarias, identificar riesgos clínicos que requieren evaluación y realizar referencia cuando corresponda. Educación de promoción complementa, no sustituye, diagnóstico o tratamiento."
+        ],
+        "por_que_no_las_otras": {
+          "A": "La detección y evaluación de diabetes son procesos de tamizaje y atención clínica, no el par nominal básico/completo del paquete de estilos de vida saludables.",
+          "B": "Clave del PDF: alimentación saludable integra básico y salud ocular se añade al completo.",
+          "C": "Tamizaje ocular y control de errores refractivos son acciones clínicas posibles, pero no representan los dos componentes del paquete educativo solicitado.",
+          "D": "Despistaje de catarata y diagnóstico de ceguera son procesos de evaluación/diagnóstico, no contenidos titulados del paquete básico y el completo."
+        },
+        "normativa": [
+          {
+            "nombre": "MINSA — Anexo 2 de definiciones operacionales de programas presupuestales (Promoción de la Salud)",
+            "url": "https://www.minsa.gob.pe/presupuestales/doc2021/ANEXO2_5.pdf",
+            "aplicacion": "Señala contenidos del paquete básico y del paquete completo de estilos de vida saludables para familias."
+          },
+          {
+            "nombre": "MINSA — Información sobre cuidado integral por curso de vida adulto",
+            "url": "https://www.gob.pe/75776-cuidado-integral-de-salud-para-la-persona-adulta",
+            "aplicacion": "Contextualiza educación, detección de factores de riesgo y atención integral en familia y comunidad."
+          }
+        ],
+        "mnemotecnia": "BÁSICO = **A-A-B**: Alimentación, Actividad física, Boca. COMPLETO añade **O-S-E-M**: Ojos, Sueño, Estrés, Metales (solo áreas de riesgo). Visualiza una canasta con comida, una zapatilla y un cepillo; al subir de nivel agrega lentes, almohada, cerebro calmado y un escudo industrial.",
+        "trampas": [
+          "La pregunta pide brindar INFORMACIÓN familiar y no un tamizaje bioquímico.",
+          "«Salud ocular» como contenido educativo no equivale a realizar cirugía de cataratas.",
+          "El paquete completo INCLUYE el básico, no lo reemplaza.",
+          "Metales pesados se incorpora según riesgo territorial, no indistintamente.",
+          "Alimentación saludable es componente básico aunque también se imparte en el completo.",
+          "No confundir este paquete de promoción con el paquete clínico de cuidados integrales de otra norma."
+        ],
+        "perla": "ENCAPS 2026-II P17-B: BÁSICO = alimentación, actividad física y salud bucal; COMPLETO añade salud ocular, sueño, estrés y metales si corresponde.",
+        "repaso_activo": [
+          {
+            "pregunta": "¿Cuáles son los tres temas del paquete básico?",
+            "respuesta": "Alimentación saludable, actividad física y salud bucal."
+          },
+          {
+            "pregunta": "¿Qué tema ocular agrega el completo?",
+            "respuesta": "Salud ocular."
+          },
+          {
+            "pregunta": "¿Qué otros temas se agregan?",
+            "respuesta": "Sueño adecuado, gestión del estrés y, según riesgo, exposición a metales pesados."
+          },
+          {
+            "pregunta": "¿Tamizaje de glucosa es lo mismo que educación de alimentación?",
+            "respuesta": "No: es una prestación clínica de detección."
+          },
+          {
+            "pregunta": "¿Qué significa adaptar educación al curso de vida?",
+            "respuesta": "Adecuar mensajes a necesidades de niños, adolescentes, adultos y adultos mayores."
+          },
+          {
+            "pregunta": "¿El completo elimina el básico?",
+            "respuesta": "No, lo contiene y amplía."
+          }
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Una familia recibió orientación de alimentación saludable, actividad física y salud bucal, sin más contenidos. Según el anexo del MINSA, ¿qué paquete se completó?",
+            "alternativas": {
+              "A": "Paquete completo de estilo de vida.",
+              "B": "Tamizaje integral de ENT.",
+              "C": "Tratamiento integral comunitario.",
+              "D": "Paquete básico de estilo de vida."
+            },
+            "respuesta": "D",
+            "explicacion": "Son los tres contenidos definidos para paquete básico. El completo exige contenidos adicionales."
+          },
+          {
+            "enunciado": "Se planifica una intervención adicional al paquete básico en un distrito sin exposición a metales identificada. ¿Qué conjunto resulta congruente con los nuevos temas del paquete completo?",
+            "alternativas": {
+              "A": "Diagnóstico de cataratas, radiografía y glucemia.",
+              "B": "Salud ocular, sueño adecuado y gestión del estrés.",
+              "C": "Antibióticos profilácticos y evaluación visual.",
+              "D": "Cirugía ocular, chequeo glucémico y vacunación."
+            },
+            "respuesta": "B",
+            "explicacion": "Corresponde al componente adicional educativo del paquete completo; el módulo de metales aplica a territorios en riesgo."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Paquetes educativos: básico y completo para familias priorizadas",
+          "eje": "Promoción de la salud / Familias / Prevención de enfermedades no transmisibles",
+          "confiabilidad": "Clave resaltada en PDF aportado; cotejo independiente con tabla oficial MINSA pendiente.",
+          "respuesta_resumida": "B. alimentación saludable / salud ocular.",
+          "razonamiento": [
+            "La respuesta resaltada es B: alimentación saludable / salud ocular. El enunciado habla de IDENTIFICAR FAMILIAS PRIORIZADAS y BRINDAR INFORMACIÓN, es decir intervenciones educativas de estilos de vida, no de pruebas clínicas individuales de despistaje.",
+            "El documento operativo presupuestal del MINSA diferencia un paquete básico de contenidos: ALIMENTACIÓN SALUDABLE, ACTIVIDAD FÍSICA y SALUD BUCAL; y un paquete completo que añade SALUD OCULAR, SUEÑO ADECUADO, GESTIÓN DEL ESTRÉS y, para distritos en riesgo, reducción de sobreexposición a METALES PESADOS. Por eso el par válido es alimentación saludable (básico) y salud ocular (completo).",
+            "El formato de la pregunta tiene dos huecos vinculados: primero un componente básico y después uno del paquete completo. Una alternativa puede mencionar una intervención muy valiosa (como tamizaje de diabetes), pero no responder la clasificación específica del paquete educativo.",
+            "Se trata de familias con miembros de distintos cursos de vida, no de un examen clínico únicamente de personas con enfermedad confirmada. La educación comunitaria busca influir en factores de riesgo, mejorar alfabetización sanitaria y facilitar decisiones preventivas sostenibles."
+          ],
+          "temario": [
+            {
+              "subtitulo": "¿Qué es un paquete educativo de promoción?",
+              "texto": "Es un conjunto estructurado de contenidos y actividades educativas para familias o actores sociales sobre comportamientos saludables. Se realiza mediante sesiones educativas, demostrativas, visitas domiciliarias, reuniones o telesalud según programación. No es lo mismo que cartera de servicios de consulta externa."
+            },
+            {
+              "subtitulo": "Paquete BÁSICO = tres contenidos",
+              "texto": "Alimentación saludable: selección y preparación de alimentos, tamaños de porción apropiados y reducción de exceso de sal, azúcar y ultraprocesados. Actividad física: movimiento seguro y adaptado por edad y capacidad. Salud bucal: higiene, alimentación no cariogénica y acceso preventivo odontológico."
+            },
+            {
+              "subtitulo": "Paquete COMPLETO = básico más cuatro campos",
+              "texto": "Añade salud ocular (cuidados y orientación sobre signos de alarma), sueño adecuado, gestión del estrés y reducción de exposición a metales pesados solo en distritos priorizados por ese riesgo. Que una actividad se mencione en un paquete no significa que toda familia requiera idéntico contenido sin adaptación."
+            },
+            {
+              "subtitulo": "¿Quién recibe la intervención?",
+              "texto": "Se priorizan familias con integrantes en cursos de vida señalados en la actividad programática, como niños, adolescentes y adultos mayores, y actores sociales: agentes comunitarios, representantes educativos y autoridades locales según contexto. Se adapta a lengua, alfabetización, cultura, género y entorno."
+            },
+            {
+              "subtitulo": "Diferencia educación vs tamizaje clínico",
+              "texto": "Educación: explicar alimentación, salud ocular o hábitos y comprobar comprensión. Tamizaje: medir PA o glicemia a personas elegibles, detectar cataratas o evaluar agudeza visual. Ambos son valiosos, pero una consulta de laboratorio no es por sí misma el componente educativo nominal consultado."
+            },
+            {
+              "subtitulo": "Prevención primordial, primaria y secundaria",
+              "texto": "Primordial: evitar aparición de factores de riesgo en comunidad. Primaria: reducir incidencia mediante hábitos saludables, vacunación cuando corresponda y protección de riesgos. Secundaria: detectar tempranamente enfermedad (por ejemplo, HTA o diabetes) e iniciar tratamiento; no confundir nomenclaturas de prevención con nombres de componentes del paquete."
+            },
+            {
+              "subtitulo": "Verificación de cobertura de la actividad",
+              "texto": "El anexo presupuestal describe criterios operativos de familia intervenida con paquete básico y familia capacitada con paquete completo, según la actividad y medición aplicable. Evitar reportar solo una charla aislada como «paquete completo» si no se entregaron todos los contenidos requeridos."
+            },
+            {
+              "subtitulo": "Caso comunitario altoandino",
+              "texto": "En una comunidad con agricultura, comercio y barreras de acceso, una sesión puede mostrar ejemplos de desayuno con alimentos disponibles, paseos o ejercicio protegido del frío, higiene bucal, cuidado ocular por radiación UV, sueño y manejo del estrés. Registrarlo con evidencia y seguimiento; el diálogo debe ser culturalmente adecuado."
+            },
+            {
+              "subtitulo": "Seguimiento y continuidad",
+              "texto": "Medir comprensión con preguntas de retorno, acordar una conducta pequeña verificable, involucrar redes comunitarias, identificar riesgos clínicos que requieren evaluación y realizar referencia cuando corresponda. Educación de promoción complementa, no sustituye, diagnóstico o tratamiento."
+            }
+          ],
+          "distractores": {
+            "A": "La detección y evaluación de diabetes son procesos de tamizaje y atención clínica, no el par nominal básico/completo del paquete de estilos de vida saludables.",
+            "B": "Clave del PDF: alimentación saludable integra básico y salud ocular se añade al completo.",
+            "C": "Tamizaje ocular y control de errores refractivos son acciones clínicas posibles, pero no representan los dos componentes del paquete educativo solicitado.",
+            "D": "Despistaje de catarata y diagnóstico de ceguera son procesos de evaluación/diagnóstico, no contenidos titulados del paquete básico y el completo."
+          },
+          "normativa": [
+            {
+              "nombre": "MINSA — Anexo 2 de definiciones operacionales de programas presupuestales (Promoción de la Salud)",
+              "url": "https://www.minsa.gob.pe/presupuestales/doc2021/ANEXO2_5.pdf",
+              "aplicacion": "Señala contenidos del paquete básico y del paquete completo de estilos de vida saludables para familias."
+            },
+            {
+              "nombre": "MINSA — Información sobre cuidado integral por curso de vida adulto",
+              "url": "https://www.gob.pe/75776-cuidado-integral-de-salud-para-la-persona-adulta",
+              "aplicacion": "Contextualiza educación, detección de factores de riesgo y atención integral en familia y comunidad."
+            }
+          ],
+          "mnemotecnia": "BÁSICO = **A-A-B**: Alimentación, Actividad física, Boca. COMPLETO añade **O-S-E-M**: Ojos, Sueño, Estrés, Metales (solo áreas de riesgo). Visualiza una canasta con comida, una zapatilla y un cepillo; al subir de nivel agrega lentes, almohada, cerebro calmado y un escudo industrial.",
+          "trampas": [
+            "La pregunta pide brindar INFORMACIÓN familiar y no un tamizaje bioquímico.",
+            "«Salud ocular» como contenido educativo no equivale a realizar cirugía de cataratas.",
+            "El paquete completo INCLUYE el básico, no lo reemplaza.",
+            "Metales pesados se incorpora según riesgo territorial, no indistintamente.",
+            "Alimentación saludable es componente básico aunque también se imparte en el completo.",
+            "No confundir este paquete de promoción con el paquete clínico de cuidados integrales de otra norma."
+          ],
+          "perla": "ENCAPS 2026-II P17-B: BÁSICO = alimentación, actividad física y salud bucal; COMPLETO añade salud ocular, sueño, estrés y metales si corresponde.",
+          "repaso_activo": [
+            {
+              "pregunta": "¿Cuáles son los tres temas del paquete básico?",
+              "respuesta": "Alimentación saludable, actividad física y salud bucal."
+            },
+            {
+              "pregunta": "¿Qué tema ocular agrega el completo?",
+              "respuesta": "Salud ocular."
+            },
+            {
+              "pregunta": "¿Qué otros temas se agregan?",
+              "respuesta": "Sueño adecuado, gestión del estrés y, según riesgo, exposición a metales pesados."
+            },
+            {
+              "pregunta": "¿Tamizaje de glucosa es lo mismo que educación de alimentación?",
+              "respuesta": "No: es una prestación clínica de detección."
+            },
+            {
+              "pregunta": "¿Qué significa adaptar educación al curso de vida?",
+              "respuesta": "Adecuar mensajes a necesidades de niños, adolescentes, adultos y adultos mayores."
+            },
+            {
+              "pregunta": "¿El completo elimina el básico?",
+              "respuesta": "No, lo contiene y amplía."
+            }
+          ],
+          "refuerzo": [
+            {
+              "enunciado": "Una familia recibió orientación de alimentación saludable, actividad física y salud bucal, sin más contenidos. Según el anexo del MINSA, ¿qué paquete se completó?",
+              "alternativas": {
+                "A": "Paquete completo de estilo de vida.",
+                "B": "Tamizaje integral de ENT.",
+                "C": "Tratamiento integral comunitario.",
+                "D": "Paquete básico de estilo de vida."
+              },
+              "respuesta": "D",
+              "explicacion": "Son los tres contenidos definidos para paquete básico. El completo exige contenidos adicionales."
+            },
+            {
+              "enunciado": "Se planifica una intervención adicional al paquete básico en un distrito sin exposición a metales identificada. ¿Qué conjunto resulta congruente con los nuevos temas del paquete completo?",
+              "alternativas": {
+                "A": "Diagnóstico de cataratas, radiografía y glucemia.",
+                "B": "Salud ocular, sueño adecuado y gestión del estrés.",
+                "C": "Antibióticos profilácticos y evaluación visual.",
+                "D": "Cirugía ocular, chequeo glucémico y vacunación."
+              },
+              "respuesta": "B",
+              "explicacion": "Corresponde al componente adicional educativo del paquete completo; el módulo de metales aplica a territorios en riesgo."
+            }
+          ]
+        }
+      }
     },
     {
       "number": 18,
       "code": "ENCAPS26-II P018",
-      "course": "ENCAPS Medicina · Por desarrollar",
-      "topic": "ENCAPS Medicina 2026-II",
+      "course": "Investigación · Metodología y muestreo",
+      "topic": "Muestreo por bola de nieve en poblaciones de difícil acceso",
       "question": "Se desea realizar un estudio de indicadores de salud en inmigrantes ilegales asentados en una comunidad fronteriza; pero, al desconocerse su número y localización, se dificulta un muestreo representativo. En su defecto. ¿Qué tipo de muestreo no probabilístico utilizaría?",
       "options": {
         "A": "Por conglomerados",
@@ -3568,12 +4024,245 @@
         "D": "Según criterio de experto"
       },
       "correct": "B",
-      "comment": "Tema pendiente de desarrollo detallado. La alternativa correcta indicada es la resaltada en el PDF del usuario; todavía no se ha cotejado independientemente contra el listado oficial de claves del MINSA.",
-      "pearl": "",
-      "keywords": [],
-      "estadoDesarrollo": "pendiente",
+      "comment": "CLAVE DEL DOCUMENTO\n\nB. En bola de nieve (clave resaltada en el PDF ENCAPS 2026-II).\n\nRAZONAMIENTO PASO A PASO\n\nLa pregunta describe una población cuya cantidad y ubicación son desconocidas, y propone reclutar participantes aunque no exista un marco muestral. La clave resaltada B, muestreo EN BOLA DE NIEVE, es una técnica no probabilística de cadena: se comienza con participantes identificados y estos facilitan contacto con otros elegibles.\n\nLa clave lógica es «alguien conoce a alguien». En una población de migrantes que evita registros, las redes de confianza pueden facilitar acceso. Ejemplo: un primer participante comparte la invitación con dos contactos y cada uno con otros, generando sucesivas olas. Debe ser un procedimiento voluntario, confidencial y no coercitivo.\n\nLa pregunta plantea medir indicadores, pero la bola de nieve NO garantiza representatividad ni permite estimar sin sesgo una prevalencia poblacional: personas muy conectadas quedan sobrerrepresentadas; quienes no están en redes quedan excluidas. Para inferencia poblacional se requieren diseños y supuestos adicionales. Es importante preservar esta distinción incluso cuando la alternativa de examen es inequívoca.\n\nLa expresión «inmigrantes ilegales» está en el enunciado histórico. En documentos de estudio y práctica es preferible «personas migrantes en situación irregular», sin atribuir ilegalidad a las personas. Proteger datos y no convertir el proceso de investigación en exposición a sanciones.\n\nDESARROLLO DEL TEMARIO\n\nPROBABILÍSTICO VS NO PROBABILÍSTICO\nProbabilístico: cada elemento tiene probabilidad conocida y mayor que cero de selección en el marco definido, lo que permite estimación y error muestral bajo supuestos. No probabilístico: reclutamiento por accesibilidad, juicio, cuotas o redes; no permite por sí mismo inferencia representativa a toda la población.\n\nPROCESO PASO A PASO DE BOLA DE NIEVE\nDefinir elegibilidad y criterios de exclusión; identificar participantes iniciales o «semillas» mediante canales de confianza; explicar consentimiento; invitar a que comuniquen voluntariamente la convocatoria a otros; recibir nuevos participantes; continuar en olas; documentar redes, sesgos y criterios de cierre sin revelar identidades sensibles.\n\nCUÁNDO ES ÚTIL\nPoblaciones difíciles de localizar o estigmatizadas, experiencias infrecuentes y grupos con barreras de confianza: migrantes irregulares, personas con prácticas socialmente sancionadas o redes de pacientes con condiciones poco frecuentes. Es útil en investigación exploratoria y cualitativa.\n\nPRINCIPALES SESGOS\nHomofilia: las personas tienden a conocer otras semejantes. Sesgo de redes: personas con múltiples vínculos son reclutadas más frecuentemente. Sesgo de semillas: las redes iniciales delimitan a quién se puede llegar. Sesgo de participación: algunas personas evitan el estudio por temor o estigma. Estos sesgos limitan generalización.\n\nCONGLOMERADOS\nDiseño probabilístico (cuando las unidades se seleccionan al azar) que elige grupos definidos, como comunidades o manzanas, antes de personas; requiere marcos de conglomerados y método de selección. No es automáticamente equivalente a bola de nieve.\n\nCUOTAS\nSe fijan cantidades a completar por estratos predefinidos (por ejemplo por edad y sexo) y se recluta sin selección aleatoria dentro de ellos. Se necesita información o metas sobre la composición y no resuelve por sí sola redes ocultas.\n\nJUICIO DE EXPERTO O INTENCIONAL\nEl investigador selecciona deliberadamente informantes con características relevantes. Es útil para entrevistas clave, pero no requiere que cada entrevistado genere el contacto con otros, que es el rasgo de bola de nieve.\n\nRESPONDENT-DRIVEN SAMPLING (RDS)\nVersión más formalizada de reclutamiento por cadenas con reglas de invitación, información de tamaño de redes y ajustes estadísticos. Bajo hipótesis fuertes puede producir estimaciones poblacionales más defendibles; no debe equipararse con bola de nieve convencional ni llamarla automáticamente aleatoria.\n\nÉTICA Y MIGRACIÓN\nEstablecer privacidad, evitar listas de identidad con acceso innecesario, no exigir situación migratoria si no es indispensable, prevenir represalias y explicar voluntariedad y protección de información. Identificar quién puede contactar a quién sin divulgar que una persona pertenece al grupo estudiado.\n\nPARA EXAMEN Y ANÁLISIS\nBola de nieve = redes de contacto; cuotas = números predeterminados por categoría; conglomerados = grupos geográficos/institucionales seleccionados; experto = selección deliberada por criterio. Si el enunciado exige estimar prevalencia representativa, cuestionar el diseño y explicar límites.\n\nANÁLISIS DE DISTRACTORES\n\nA. Por conglomerados requiere definir y seleccionar grupos, a menudo probabilísticamente; aquí se desconoce marco y localización, y se necesita llegar mediante redes.\n\nB. Clave resaltada. Cada participante puede recomendar o invitar a otros elegibles, creando cadena de reclutamiento.\n\nC. Por cuotas fija cantidades por categorías y recluta hasta completarlas; no es la técnica característica para encontrar población oculta mediante contactos.\n\nD. Juicio de experto selecciona unidades por criterio del investigador, no principalmente a través de referencias de los propios participantes.\n\nNORMAS Y REFERENCIAS\n\nRevista Española de Salud Pública — Métodos indirectos para la estimación de poblaciones ocultas: Distingue bola de nieve, RDS, sesgos y limitaciones de inferencia. https://scielo.isciii.es/scielo.php?pid=S1135-57272017000100301&script=sci_arttext\n\nBanco Interamericano de Desarrollo — Métodos para poblaciones de difícil acceso: Describe cadenas de confianza y comparación de diseños de investigación. https://www.iadb.org/es/blog/genero-y-diversidad/como-generar-evidencia-sobre-poblaciones-de-dificil-acceso-para-mejorar-las-politicas-publicas\n\nMNEMOTECNIA\n\nBOLA DE NIEVE: empieza con un copo (semilla), rueda y cada contacto añade otro contacto hasta crecer. QUÉ RECORDAR: SEMILLA → CONTACTO → CONTACTO. Si oyes «no sé dónde están pero se conocen entre sí», piensa BOLA DE NIEVE.\n\nTRAMPAS\n\nNo confundir bola de nieve con muestreo aleatorio: las probabilidades individuales de inclusión son desconocidas.\n\nNo afirmar que un estimador de prevalencia es representativo solo por obtener una muestra grande.\n\nLos contactos no deben divulgar a terceros la pertenencia al grupo sin consentimiento.\n\nLa elección de semillas condiciona fuertemente el sesgo.\n\nCuotas y bola de nieve pueden combinarse en un diseño; el ítem exige reconocer la técnica predominante.\n\nRDS no equivale sin más al muestreo por bola de nieve habitual.\n\nPERLA DE EXAMEN\n\nENCAPS 2026-II P18-B: población oculta y sin marco → BOLA DE NIEVE; útil para acceder, pero no garantiza representatividad.\n\nPREGUNTAS DE REPASO\n\n¿Qué clave marca el PDF? — B, en bola de nieve.\n\n¿Es probabilístico? — No, en su forma habitual es no probabilístico.\n\n¿Cómo se captan nuevos participantes? — Mediante referencias o invitaciones de participantes ya captados.\n\n¿Qué sesgo produce reclutar amigos de amigos? — Homofilia y sesgo de redes/selección.\n\n¿Qué diferencia a conglomerados? — Selecciona agrupaciones, a menudo en un diseño probabilístico, a partir de un marco de grupos.\n\n¿Cuándo es mejor hablar de RDS? — Si existe diseño formalizado de reclutamiento por redes con datos de grados y ponderaciones bajo supuestos.\n\nDOS CASOS DIFÍCILES\n\nEstudio sobre experiencia de atención de personas migrantes sin registros formales. Cada entrevistado transmite una invitación confidencial a conocidos que cumplen criterios. ¿Qué técnica se aplicó? A) Selección sistemática. / B) Muestreo por cuotas. / C) Muestreo de conglomerados. / D) Bola de nieve. | Respuesta D: Reclutamiento encadenado mediante redes de contacto.\n\nEn una muestra en bola de nieve se encuentra 32% con depresión. ¿Qué afirmación metodológica es correcta? A) Debe interpretarse como prevalencia poblacional exacta. / B) Su estimación requiere reconocer sesgo de selección y no es automáticamente generalizable. / C) Tiene error muestral probabilístico convencional conocido. / D) Garantiza cobertura de personas sin redes sociales. | Respuesta B: No se conocen probabilidades de inclusión y hay redes sobrerrepresentadas; el porcentaje describe la muestra observada.",
+      "pearl": "ENCAPS 2026-II P18-B: población oculta y sin marco → BOLA DE NIEVE; útil para acceder, pero no garantiza representatividad.",
+      "keywords": [
+        "bola de nieve",
+        "no probabilístico",
+        "poblaciones ocultas",
+        "sesgo de selección",
+        "conglomerados",
+        "cuotas",
+        "RDS"
+      ],
+      "estadoDesarrollo": "completo",
       "estadoClave": "resaltada_en_pdf_usuario_no_cotejada_independientemente_con_tabla_minsa",
-      "lesson": null
+      "lesson": {
+        "respuesta_resumida": "B. En bola de nieve (clave resaltada en el PDF ENCAPS 2026-II).",
+        "razonamiento": "La pregunta describe una población cuya cantidad y ubicación son desconocidas, y propone reclutar participantes aunque no exista un marco muestral. La clave resaltada B, muestreo EN BOLA DE NIEVE, es una técnica no probabilística de cadena: se comienza con participantes identificados y estos facilitan contacto con otros elegibles.\n\nLa clave lógica es «alguien conoce a alguien». En una población de migrantes que evita registros, las redes de confianza pueden facilitar acceso. Ejemplo: un primer participante comparte la invitación con dos contactos y cada uno con otros, generando sucesivas olas. Debe ser un procedimiento voluntario, confidencial y no coercitivo.\n\nLa pregunta plantea medir indicadores, pero la bola de nieve NO garantiza representatividad ni permite estimar sin sesgo una prevalencia poblacional: personas muy conectadas quedan sobrerrepresentadas; quienes no están en redes quedan excluidas. Para inferencia poblacional se requieren diseños y supuestos adicionales. Es importante preservar esta distinción incluso cuando la alternativa de examen es inequívoca.\n\nLa expresión «inmigrantes ilegales» está en el enunciado histórico. En documentos de estudio y práctica es preferible «personas migrantes en situación irregular», sin atribuir ilegalidad a las personas. Proteger datos y no convertir el proceso de investigación en exposición a sanciones.",
+        "temario": [
+          "Probabilístico vs no probabilístico: Probabilístico: cada elemento tiene probabilidad conocida y mayor que cero de selección en el marco definido, lo que permite estimación y error muestral bajo supuestos. No probabilístico: reclutamiento por accesibilidad, juicio, cuotas o redes; no permite por sí mismo inferencia representativa a toda la población.",
+          "Proceso paso a paso de bola de nieve: Definir elegibilidad y criterios de exclusión; identificar participantes iniciales o «semillas» mediante canales de confianza; explicar consentimiento; invitar a que comuniquen voluntariamente la convocatoria a otros; recibir nuevos participantes; continuar en olas; documentar redes, sesgos y criterios de cierre sin revelar identidades sensibles.",
+          "Cuándo es útil: Poblaciones difíciles de localizar o estigmatizadas, experiencias infrecuentes y grupos con barreras de confianza: migrantes irregulares, personas con prácticas socialmente sancionadas o redes de pacientes con condiciones poco frecuentes. Es útil en investigación exploratoria y cualitativa.",
+          "Principales sesgos: Homofilia: las personas tienden a conocer otras semejantes. Sesgo de redes: personas con múltiples vínculos son reclutadas más frecuentemente. Sesgo de semillas: las redes iniciales delimitan a quién se puede llegar. Sesgo de participación: algunas personas evitan el estudio por temor o estigma. Estos sesgos limitan generalización.",
+          "Conglomerados: Diseño probabilístico (cuando las unidades se seleccionan al azar) que elige grupos definidos, como comunidades o manzanas, antes de personas; requiere marcos de conglomerados y método de selección. No es automáticamente equivalente a bola de nieve.",
+          "Cuotas: Se fijan cantidades a completar por estratos predefinidos (por ejemplo por edad y sexo) y se recluta sin selección aleatoria dentro de ellos. Se necesita información o metas sobre la composición y no resuelve por sí sola redes ocultas.",
+          "Juicio de experto o intencional: El investigador selecciona deliberadamente informantes con características relevantes. Es útil para entrevistas clave, pero no requiere que cada entrevistado genere el contacto con otros, que es el rasgo de bola de nieve.",
+          "Respondent-driven sampling (RDS): Versión más formalizada de reclutamiento por cadenas con reglas de invitación, información de tamaño de redes y ajustes estadísticos. Bajo hipótesis fuertes puede producir estimaciones poblacionales más defendibles; no debe equipararse con bola de nieve convencional ni llamarla automáticamente aleatoria.",
+          "Ética y migración: Establecer privacidad, evitar listas de identidad con acceso innecesario, no exigir situación migratoria si no es indispensable, prevenir represalias y explicar voluntariedad y protección de información. Identificar quién puede contactar a quién sin divulgar que una persona pertenece al grupo estudiado.",
+          "Para examen y análisis: Bola de nieve = redes de contacto; cuotas = números predeterminados por categoría; conglomerados = grupos geográficos/institucionales seleccionados; experto = selección deliberada por criterio. Si el enunciado exige estimar prevalencia representativa, cuestionar el diseño y explicar límites."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Por conglomerados requiere definir y seleccionar grupos, a menudo probabilísticamente; aquí se desconoce marco y localización, y se necesita llegar mediante redes.",
+          "B": "Clave resaltada. Cada participante puede recomendar o invitar a otros elegibles, creando cadena de reclutamiento.",
+          "C": "Por cuotas fija cantidades por categorías y recluta hasta completarlas; no es la técnica característica para encontrar población oculta mediante contactos.",
+          "D": "Juicio de experto selecciona unidades por criterio del investigador, no principalmente a través de referencias de los propios participantes."
+        },
+        "normativa": [
+          {
+            "nombre": "Revista Española de Salud Pública — Métodos indirectos para la estimación de poblaciones ocultas",
+            "url": "https://scielo.isciii.es/scielo.php?pid=S1135-57272017000100301&script=sci_arttext",
+            "aplicacion": "Distingue bola de nieve, RDS, sesgos y limitaciones de inferencia."
+          },
+          {
+            "nombre": "Banco Interamericano de Desarrollo — Métodos para poblaciones de difícil acceso",
+            "url": "https://www.iadb.org/es/blog/genero-y-diversidad/como-generar-evidencia-sobre-poblaciones-de-dificil-acceso-para-mejorar-las-politicas-publicas",
+            "aplicacion": "Describe cadenas de confianza y comparación de diseños de investigación."
+          }
+        ],
+        "mnemotecnia": "BOLA DE NIEVE: empieza con un copo (semilla), rueda y cada contacto añade otro contacto hasta crecer. QUÉ RECORDAR: SEMILLA → CONTACTO → CONTACTO. Si oyes «no sé dónde están pero se conocen entre sí», piensa BOLA DE NIEVE.",
+        "trampas": [
+          "No confundir bola de nieve con muestreo aleatorio: las probabilidades individuales de inclusión son desconocidas.",
+          "No afirmar que un estimador de prevalencia es representativo solo por obtener una muestra grande.",
+          "Los contactos no deben divulgar a terceros la pertenencia al grupo sin consentimiento.",
+          "La elección de semillas condiciona fuertemente el sesgo.",
+          "Cuotas y bola de nieve pueden combinarse en un diseño; el ítem exige reconocer la técnica predominante.",
+          "RDS no equivale sin más al muestreo por bola de nieve habitual."
+        ],
+        "perla": "ENCAPS 2026-II P18-B: población oculta y sin marco → BOLA DE NIEVE; útil para acceder, pero no garantiza representatividad.",
+        "repaso_activo": [
+          {
+            "pregunta": "¿Qué clave marca el PDF?",
+            "respuesta": "B, en bola de nieve."
+          },
+          {
+            "pregunta": "¿Es probabilístico?",
+            "respuesta": "No, en su forma habitual es no probabilístico."
+          },
+          {
+            "pregunta": "¿Cómo se captan nuevos participantes?",
+            "respuesta": "Mediante referencias o invitaciones de participantes ya captados."
+          },
+          {
+            "pregunta": "¿Qué sesgo produce reclutar amigos de amigos?",
+            "respuesta": "Homofilia y sesgo de redes/selección."
+          },
+          {
+            "pregunta": "¿Qué diferencia a conglomerados?",
+            "respuesta": "Selecciona agrupaciones, a menudo en un diseño probabilístico, a partir de un marco de grupos."
+          },
+          {
+            "pregunta": "¿Cuándo es mejor hablar de RDS?",
+            "respuesta": "Si existe diseño formalizado de reclutamiento por redes con datos de grados y ponderaciones bajo supuestos."
+          }
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Estudio sobre experiencia de atención de personas migrantes sin registros formales. Cada entrevistado transmite una invitación confidencial a conocidos que cumplen criterios. ¿Qué técnica se aplicó?",
+            "alternativas": {
+              "A": "Selección sistemática.",
+              "B": "Muestreo por cuotas.",
+              "C": "Muestreo de conglomerados.",
+              "D": "Bola de nieve."
+            },
+            "respuesta": "D",
+            "explicacion": "Reclutamiento encadenado mediante redes de contacto."
+          },
+          {
+            "enunciado": "En una muestra en bola de nieve se encuentra 32% con depresión. ¿Qué afirmación metodológica es correcta?",
+            "alternativas": {
+              "A": "Debe interpretarse como prevalencia poblacional exacta.",
+              "B": "Su estimación requiere reconocer sesgo de selección y no es automáticamente generalizable.",
+              "C": "Tiene error muestral probabilístico convencional conocido.",
+              "D": "Garantiza cobertura de personas sin redes sociales."
+            },
+            "respuesta": "B",
+            "explicacion": "No se conocen probabilidades de inclusión y hay redes sobrerrepresentadas; el porcentaje describe la muestra observada."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Muestreo por bola de nieve en poblaciones de difícil acceso",
+          "eje": "Diseño de investigación / Sesgos / Protección de participantes",
+          "confiabilidad": "Clave resaltada en PDF aportado; cotejo independiente con tabla oficial MINSA pendiente.",
+          "respuesta_resumida": "B. En bola de nieve",
+          "razonamiento": [
+            "La pregunta describe una población cuya cantidad y ubicación son desconocidas, y propone reclutar participantes aunque no exista un marco muestral. La clave resaltada B, muestreo EN BOLA DE NIEVE, es una técnica no probabilística de cadena: se comienza con participantes identificados y estos facilitan contacto con otros elegibles.",
+            "La clave lógica es «alguien conoce a alguien». En una población de migrantes que evita registros, las redes de confianza pueden facilitar acceso. Ejemplo: un primer participante comparte la invitación con dos contactos y cada uno con otros, generando sucesivas olas. Debe ser un procedimiento voluntario, confidencial y no coercitivo.",
+            "La pregunta plantea medir indicadores, pero la bola de nieve NO garantiza representatividad ni permite estimar sin sesgo una prevalencia poblacional: personas muy conectadas quedan sobrerrepresentadas; quienes no están en redes quedan excluidas. Para inferencia poblacional se requieren diseños y supuestos adicionales. Es importante preservar esta distinción incluso cuando la alternativa de examen es inequívoca.",
+            "La expresión «inmigrantes ilegales» está en el enunciado histórico. En documentos de estudio y práctica es preferible «personas migrantes en situación irregular», sin atribuir ilegalidad a las personas. Proteger datos y no convertir el proceso de investigación en exposición a sanciones."
+          ],
+          "temario": [
+            {
+              "subtitulo": "Probabilístico vs no probabilístico",
+              "texto": "Probabilístico: cada elemento tiene probabilidad conocida y mayor que cero de selección en el marco definido, lo que permite estimación y error muestral bajo supuestos. No probabilístico: reclutamiento por accesibilidad, juicio, cuotas o redes; no permite por sí mismo inferencia representativa a toda la población."
+            },
+            {
+              "subtitulo": "Proceso paso a paso de bola de nieve",
+              "texto": "Definir elegibilidad y criterios de exclusión; identificar participantes iniciales o «semillas» mediante canales de confianza; explicar consentimiento; invitar a que comuniquen voluntariamente la convocatoria a otros; recibir nuevos participantes; continuar en olas; documentar redes, sesgos y criterios de cierre sin revelar identidades sensibles."
+            },
+            {
+              "subtitulo": "Cuándo es útil",
+              "texto": "Poblaciones difíciles de localizar o estigmatizadas, experiencias infrecuentes y grupos con barreras de confianza: migrantes irregulares, personas con prácticas socialmente sancionadas o redes de pacientes con condiciones poco frecuentes. Es útil en investigación exploratoria y cualitativa."
+            },
+            {
+              "subtitulo": "Principales sesgos",
+              "texto": "Homofilia: las personas tienden a conocer otras semejantes. Sesgo de redes: personas con múltiples vínculos son reclutadas más frecuentemente. Sesgo de semillas: las redes iniciales delimitan a quién se puede llegar. Sesgo de participación: algunas personas evitan el estudio por temor o estigma. Estos sesgos limitan generalización."
+            },
+            {
+              "subtitulo": "Conglomerados",
+              "texto": "Diseño probabilístico (cuando las unidades se seleccionan al azar) que elige grupos definidos, como comunidades o manzanas, antes de personas; requiere marcos de conglomerados y método de selección. No es automáticamente equivalente a bola de nieve."
+            },
+            {
+              "subtitulo": "Cuotas",
+              "texto": "Se fijan cantidades a completar por estratos predefinidos (por ejemplo por edad y sexo) y se recluta sin selección aleatoria dentro de ellos. Se necesita información o metas sobre la composición y no resuelve por sí sola redes ocultas."
+            },
+            {
+              "subtitulo": "Juicio de experto o intencional",
+              "texto": "El investigador selecciona deliberadamente informantes con características relevantes. Es útil para entrevistas clave, pero no requiere que cada entrevistado genere el contacto con otros, que es el rasgo de bola de nieve."
+            },
+            {
+              "subtitulo": "Respondent-driven sampling (RDS)",
+              "texto": "Versión más formalizada de reclutamiento por cadenas con reglas de invitación, información de tamaño de redes y ajustes estadísticos. Bajo hipótesis fuertes puede producir estimaciones poblacionales más defendibles; no debe equipararse con bola de nieve convencional ni llamarla automáticamente aleatoria."
+            },
+            {
+              "subtitulo": "Ética y migración",
+              "texto": "Establecer privacidad, evitar listas de identidad con acceso innecesario, no exigir situación migratoria si no es indispensable, prevenir represalias y explicar voluntariedad y protección de información. Identificar quién puede contactar a quién sin divulgar que una persona pertenece al grupo estudiado."
+            },
+            {
+              "subtitulo": "Para examen y análisis",
+              "texto": "Bola de nieve = redes de contacto; cuotas = números predeterminados por categoría; conglomerados = grupos geográficos/institucionales seleccionados; experto = selección deliberada por criterio. Si el enunciado exige estimar prevalencia representativa, cuestionar el diseño y explicar límites."
+            }
+          ],
+          "distractores": {
+            "A": "Por conglomerados requiere definir y seleccionar grupos, a menudo probabilísticamente; aquí se desconoce marco y localización, y se necesita llegar mediante redes.",
+            "B": "Clave resaltada. Cada participante puede recomendar o invitar a otros elegibles, creando cadena de reclutamiento.",
+            "C": "Por cuotas fija cantidades por categorías y recluta hasta completarlas; no es la técnica característica para encontrar población oculta mediante contactos.",
+            "D": "Juicio de experto selecciona unidades por criterio del investigador, no principalmente a través de referencias de los propios participantes."
+          },
+          "normativa": [
+            {
+              "nombre": "Revista Española de Salud Pública — Métodos indirectos para la estimación de poblaciones ocultas",
+              "url": "https://scielo.isciii.es/scielo.php?pid=S1135-57272017000100301&script=sci_arttext",
+              "aplicacion": "Distingue bola de nieve, RDS, sesgos y limitaciones de inferencia."
+            },
+            {
+              "nombre": "Banco Interamericano de Desarrollo — Métodos para poblaciones de difícil acceso",
+              "url": "https://www.iadb.org/es/blog/genero-y-diversidad/como-generar-evidencia-sobre-poblaciones-de-dificil-acceso-para-mejorar-las-politicas-publicas",
+              "aplicacion": "Describe cadenas de confianza y comparación de diseños de investigación."
+            }
+          ],
+          "mnemotecnia": "BOLA DE NIEVE: empieza con un copo (semilla), rueda y cada contacto añade otro contacto hasta crecer. QUÉ RECORDAR: SEMILLA → CONTACTO → CONTACTO. Si oyes «no sé dónde están pero se conocen entre sí», piensa BOLA DE NIEVE.",
+          "trampas": [
+            "No confundir bola de nieve con muestreo aleatorio: las probabilidades individuales de inclusión son desconocidas.",
+            "No afirmar que un estimador de prevalencia es representativo solo por obtener una muestra grande.",
+            "Los contactos no deben divulgar a terceros la pertenencia al grupo sin consentimiento.",
+            "La elección de semillas condiciona fuertemente el sesgo.",
+            "Cuotas y bola de nieve pueden combinarse en un diseño; el ítem exige reconocer la técnica predominante.",
+            "RDS no equivale sin más al muestreo por bola de nieve habitual."
+          ],
+          "perla": "ENCAPS 2026-II P18-B: población oculta y sin marco → BOLA DE NIEVE; útil para acceder, pero no garantiza representatividad.",
+          "repaso_activo": [
+            {
+              "pregunta": "¿Qué clave marca el PDF?",
+              "respuesta": "B, en bola de nieve."
+            },
+            {
+              "pregunta": "¿Es probabilístico?",
+              "respuesta": "No, en su forma habitual es no probabilístico."
+            },
+            {
+              "pregunta": "¿Cómo se captan nuevos participantes?",
+              "respuesta": "Mediante referencias o invitaciones de participantes ya captados."
+            },
+            {
+              "pregunta": "¿Qué sesgo produce reclutar amigos de amigos?",
+              "respuesta": "Homofilia y sesgo de redes/selección."
+            },
+            {
+              "pregunta": "¿Qué diferencia a conglomerados?",
+              "respuesta": "Selecciona agrupaciones, a menudo en un diseño probabilístico, a partir de un marco de grupos."
+            },
+            {
+              "pregunta": "¿Cuándo es mejor hablar de RDS?",
+              "respuesta": "Si existe diseño formalizado de reclutamiento por redes con datos de grados y ponderaciones bajo supuestos."
+            }
+          ],
+          "refuerzo": [
+            {
+              "enunciado": "Estudio sobre experiencia de atención de personas migrantes sin registros formales. Cada entrevistado transmite una invitación confidencial a conocidos que cumplen criterios. ¿Qué técnica se aplicó?",
+              "alternativas": {
+                "A": "Selección sistemática.",
+                "B": "Muestreo por cuotas.",
+                "C": "Muestreo de conglomerados.",
+                "D": "Bola de nieve."
+              },
+              "respuesta": "D",
+              "explicacion": "Reclutamiento encadenado mediante redes de contacto."
+            },
+            {
+              "enunciado": "En una muestra en bola de nieve se encuentra 32% con depresión. ¿Qué afirmación metodológica es correcta?",
+              "alternativas": {
+                "A": "Debe interpretarse como prevalencia poblacional exacta.",
+                "B": "Su estimación requiere reconocer sesgo de selección y no es automáticamente generalizable.",
+                "C": "Tiene error muestral probabilístico convencional conocido.",
+                "D": "Garantiza cobertura de personas sin redes sociales."
+              },
+              "respuesta": "B",
+              "explicacion": "No se conocen probabilidades de inclusión y hay redes sobrerrepresentadas; el porcentaje describe la muestra observada."
+            }
+          ]
+        }
+      }
     },
     {
       "number": 19,
