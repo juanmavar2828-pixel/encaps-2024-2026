@@ -1,0 +1,754 @@
+{
+  "schemaVersion": 1,
+  "bankId": "ENCAPS_2026_II",
+  "source": "Cuadernillo del 9 agosto 2026 y revisión técnica con fuentes oficiales",
+  "note": "Añade solo lecciones 36-40 a las preguntas existentes y conserva el progreso. Claves resaltadas en PDF, no cotejadas con tabla oficial.",
+  "questions": [
+    {
+      "number": 36,
+      "code": "ENCAPS26-II P036",
+      "course": "Salud mental comunitaria",
+      "topic": "Modelo comunitario de salud mental y continuidad de cuidados",
+      "comment": "Clave del PDF aportado (aún no cotejada con tabla oficial MINSA): B. Comunitario de salud mental. El rasgo distintivo es la participación protagónica de la comunidad, además de la promoción, protección y continuidad de cuidados.\n\nEl enunciado aporta una definición casi literal del modelo comunitario: atención centrada en la persona en su contexto familiar y social, acciones de promoción y protección y responsabilidad por el seguimiento longitudinal de quienes padecen problemas psicosociales o trastornos mentales. No basta con abrir una consulta de psiquiatría en un barrio. El modelo precisa articulación de servicios, agentes y organizaciones comunitarias, respeto de derechos y recuperación e inclusión social. La expresión decisiva es «participación protagónica de la propia comunidad». La clave B coincide con el PDF y el enfoque del MINSA.\n\nTEMARIO\nPrincipios: accesibilidad territorial, atención integral, enfoque de derechos, inclusión, recuperación, participación social y cuidado continuado. El domicilio y el contexto de vida forman parte de la evaluación.\n\nDispositivos: establecimiento del primer nivel, centros de salud mental comunitarios, apoyo familiar, redes territoriales, referencia y contrarreferencia; la articulación permite que el caso no se pierda después del alta.\n\nPromoción y prevención: prevención de violencia, fortalecimiento de vínculos y detección oportuna de problemas; no se limita a tratar trastornos ya diagnosticados.\n\nContinuidad de cuidados: plan individualizado, acompañamiento longitudinal, coordinación con servicios y seguimiento del riesgo; no confundir continuidad con hospitalización prolongada.\n\nRol de la comunidad: identificación participativa de necesidades, reducción del estigma, apoyo social y trabajo con agentes comunitarios; sin vulnerar la privacidad ni sustituir la evaluación clínica.\n\nEnfoques transversales: pertinencia cultural y lingüística, no discriminación y participación informada de la persona y su familia según su situación.\n\nANÁLISIS DE ALTERNATIVAS\nA: El cuidado integral por curso de vida es un marco más amplio para todas las necesidades sanitarias. Puede incluir salud mental, pero no es la denominación específica de la definición presentada.\nB: Correcta: articula promoción, protección, continuidad, territorio y participación activa de la comunidad en el abordaje de salud mental.\nC: «Tradicional territorial» no es el nombre del modelo descrito; el enfoque tradicional suele concentrarse en atención individual episódica y hospitalaria.\nD: El enfoque convencional centrado en consulta o institución carece, como elemento definitorio, del protagonismo comunitario y trabajo territorial descritos.\n\nNORMATIVA\nModelo de atención comunitaria en salud mental (MINSA) | https://www.gob.pe/institucion/minsa/informes-publicaciones/284981-salud-mental-comunitaria-nuevo-modelo-de-atencion | Atención cercana a la comunidad, redes de apoyo y continuidad\nCentros de Salud Mental Comunitarios (MINSA) | https://www.gob.pe/institucion/minsa/informes-publicaciones/279706-norma-tecnica-de-salud-centros-de-salud-mental-comunitarios | Organización y funcionamiento de los CSMC\n\nMNEMOTECNIA\nMENTE = Modelo comunitario, Entorno cercano, No estigma, Trabajo en red, Enlace continuo.\n\nTRAMPAS\nNo equiparar salud mental comunitaria con una campaña de charlas ocasionales: requiere continuidad y servicios articulados.\nLos CSMC no sustituyen por sí solos al primer nivel ni a los hospitales: forman parte de la red.\nLos determinantes familiares y sociales importan, pero no autorizan diagnósticos sin evaluación individual.\n\nPERLA\nSi aparecen «participación protagónica de la comunidad» + «continuidad de cuidados» + «salud mental», identifica el MODELO COMUNITARIO.",
+      "pearl": "Si aparecen «participación protagónica de la comunidad» + «continuidad de cuidados» + «salud mental», identifica el MODELO COMUNITARIO.",
+      "keywords": [
+        "Salud mental comunitaria",
+        "Modelo comunitario de salud mental y continuidad de cuidados",
+        "ENCAPS 2026-II",
+        "MINSA régimen 276"
+      ],
+      "estadoDesarrollo": "completo",
+      "lesson": {
+        "respuesta_resumida": "B. Comunitario de salud mental. El rasgo distintivo es la participación protagónica de la comunidad, además de la promoción, protección y continuidad de cuidados.",
+        "razonamiento": "El enunciado aporta una definición casi literal del modelo comunitario: atención centrada en la persona en su contexto familiar y social, acciones de promoción y protección y responsabilidad por el seguimiento longitudinal de quienes padecen problemas psicosociales o trastornos mentales. No basta con abrir una consulta de psiquiatría en un barrio. El modelo precisa articulación de servicios, agentes y organizaciones comunitarias, respeto de derechos y recuperación e inclusión social. La expresión decisiva es «participación protagónica de la propia comunidad». La clave B coincide con el PDF y el enfoque del MINSA.",
+        "temario": [
+          "Principios: accesibilidad territorial, atención integral, enfoque de derechos, inclusión, recuperación, participación social y cuidado continuado. El domicilio y el contexto de vida forman parte de la evaluación.",
+          "Dispositivos: establecimiento del primer nivel, centros de salud mental comunitarios, apoyo familiar, redes territoriales, referencia y contrarreferencia; la articulación permite que el caso no se pierda después del alta.",
+          "Promoción y prevención: prevención de violencia, fortalecimiento de vínculos y detección oportuna de problemas; no se limita a tratar trastornos ya diagnosticados.",
+          "Continuidad de cuidados: plan individualizado, acompañamiento longitudinal, coordinación con servicios y seguimiento del riesgo; no confundir continuidad con hospitalización prolongada.",
+          "Rol de la comunidad: identificación participativa de necesidades, reducción del estigma, apoyo social y trabajo con agentes comunitarios; sin vulnerar la privacidad ni sustituir la evaluación clínica.",
+          "Enfoques transversales: pertinencia cultural y lingüística, no discriminación y participación informada de la persona y su familia según su situación."
+        ],
+        "por_que_no_las_otras": {
+          "A": "El cuidado integral por curso de vida es un marco más amplio para todas las necesidades sanitarias. Puede incluir salud mental, pero no es la denominación específica de la definición presentada.",
+          "B": "Correcta: articula promoción, protección, continuidad, territorio y participación activa de la comunidad en el abordaje de salud mental.",
+          "C": "«Tradicional territorial» no es el nombre del modelo descrito; el enfoque tradicional suele concentrarse en atención individual episódica y hospitalaria.",
+          "D": "El enfoque convencional centrado en consulta o institución carece, como elemento definitorio, del protagonismo comunitario y trabajo territorial descritos."
+        },
+        "normativa": [
+          "Modelo de atención comunitaria en salud mental (MINSA) | https://www.gob.pe/institucion/minsa/informes-publicaciones/284981-salud-mental-comunitaria-nuevo-modelo-de-atencion | Atención cercana a la comunidad, redes de apoyo y continuidad",
+          "Centros de Salud Mental Comunitarios (MINSA) | https://www.gob.pe/institucion/minsa/informes-publicaciones/279706-norma-tecnica-de-salud-centros-de-salud-mental-comunitarios | Organización y funcionamiento de los CSMC"
+        ],
+        "mnemotecnia": "MENTE = Modelo comunitario, Entorno cercano, No estigma, Trabajo en red, Enlace continuo.",
+        "trampas": [
+          "No equiparar salud mental comunitaria con una campaña de charlas ocasionales: requiere continuidad y servicios articulados.",
+          "Los CSMC no sustituyen por sí solos al primer nivel ni a los hospitales: forman parte de la red.",
+          "Los determinantes familiares y sociales importan, pero no autorizan diagnósticos sin evaluación individual."
+        ],
+        "perla": "Si aparecen «participación protagónica de la comunidad» + «continuidad de cuidados» + «salud mental», identifica el MODELO COMUNITARIO.",
+        "repaso_activo": [
+          "¿Cuál es el elemento distintivo frente a una consulta institucional aislada? — Participación comunitaria con continuidad y red territorial.",
+          "¿La hospitalización prolongada equivale a continuidad de cuidados? — No; continuidad es seguimiento articulado según necesidad.",
+          "¿Qué marco ético orienta las intervenciones? — Derechos, autonomía, confidencialidad y no discriminación."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Un centro de salud atiende a una adolescente con depresión; tras la evaluación inicial, coordina seguimiento familiar consentido, visitas según necesidad y soporte comunitario, manteniendo comunicación con el equipo especializado. ¿Qué principio se expresa principalmente?",
+            "alternativas": {
+              "A": "Continuidad de cuidados con articulación territorial",
+              "B": "Hospitalización preventiva por riesgo inespecífico",
+              "C": "Transferencia definitiva al equipo comunitario",
+              "D": "Tamizaje único sin seguimiento programado",
+              "E": "Derivación administrativa sin corresponsabilidad"
+            },
+            "respuesta": "A",
+            "explicacion": "Hay plan longitudinal compartido y red de servicios. La atención comunitaria no significa desresponsabilizar al primer nivel."
+          },
+          {
+            "enunciado": "Un distrito plantea reorganizar la atención de psicosis crónica. ¿Qué intervención se alinea mejor con el enfoque comunitario?",
+            "alternativas": {
+              "A": "Concentrar toda atención en hospitales especializados",
+              "B": "Priorizar controles cuando aparezcan crisis agudas",
+              "C": "Suspender seguimientos cuando mejora la sintomatología",
+              "D": "Articular un plan territorial con familia, servicios y apoyo social",
+              "E": "Delegar las decisiones clínicas a líderes vecinales"
+            },
+            "respuesta": "D",
+            "explicacion": "El enfoque de recuperación requiere servicios articulados y redes, respetando consentimiento, privacidad y competencias clínicas."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Modelo comunitario de salud mental y continuidad de cuidados",
+          "eje": "Salud mental comunitaria",
+          "confiabilidad": "clave_resaltada_fundamento_concordante",
+          "respuesta_resumida": "B. Comunitario de salud mental. El rasgo distintivo es la participación protagónica de la comunidad, además de la promoción, protección y continuidad de cuidados.",
+          "razonamiento": [
+            "El enunciado aporta una definición casi literal del modelo comunitario: atención centrada en la persona en su contexto familiar y social, acciones de promoción y protección y responsabilidad por el seguimiento longitudinal de quienes padecen problemas psicosociales o trastornos mentales. No basta con abrir una consulta de psiquiatría en un barrio. El modelo precisa articulación de servicios, agentes y organizaciones comunitarias, respeto de derechos y recuperación e inclusión social. La expresión decisiva es «participación protagónica de la propia comunidad». La clave B coincide con el PDF y el enfoque del MINSA."
+          ],
+          "temario": [
+            "Principios: accesibilidad territorial, atención integral, enfoque de derechos, inclusión, recuperación, participación social y cuidado continuado. El domicilio y el contexto de vida forman parte de la evaluación.",
+            "Dispositivos: establecimiento del primer nivel, centros de salud mental comunitarios, apoyo familiar, redes territoriales, referencia y contrarreferencia; la articulación permite que el caso no se pierda después del alta.",
+            "Promoción y prevención: prevención de violencia, fortalecimiento de vínculos y detección oportuna de problemas; no se limita a tratar trastornos ya diagnosticados.",
+            "Continuidad de cuidados: plan individualizado, acompañamiento longitudinal, coordinación con servicios y seguimiento del riesgo; no confundir continuidad con hospitalización prolongada.",
+            "Rol de la comunidad: identificación participativa de necesidades, reducción del estigma, apoyo social y trabajo con agentes comunitarios; sin vulnerar la privacidad ni sustituir la evaluación clínica.",
+            "Enfoques transversales: pertinencia cultural y lingüística, no discriminación y participación informada de la persona y su familia según su situación."
+          ],
+          "distractores": {
+            "A": "El cuidado integral por curso de vida es un marco más amplio para todas las necesidades sanitarias. Puede incluir salud mental, pero no es la denominación específica de la definición presentada.",
+            "B": "Correcta: articula promoción, protección, continuidad, territorio y participación activa de la comunidad en el abordaje de salud mental.",
+            "C": "«Tradicional territorial» no es el nombre del modelo descrito; el enfoque tradicional suele concentrarse en atención individual episódica y hospitalaria.",
+            "D": "El enfoque convencional centrado en consulta o institución carece, como elemento definitorio, del protagonismo comunitario y trabajo territorial descritos."
+          },
+          "normativa": [
+            {
+              "nombre": "Modelo de atención comunitaria en salud mental (MINSA)",
+              "url": "https://www.gob.pe/institucion/minsa/informes-publicaciones/284981-salud-mental-comunitaria-nuevo-modelo-de-atencion",
+              "aplicacion": "Atención cercana a la comunidad, redes de apoyo y continuidad"
+            },
+            {
+              "nombre": "Centros de Salud Mental Comunitarios (MINSA)",
+              "url": "https://www.gob.pe/institucion/minsa/informes-publicaciones/279706-norma-tecnica-de-salud-centros-de-salud-mental-comunitarios",
+              "aplicacion": "Organización y funcionamiento de los CSMC"
+            }
+          ],
+          "mnemotecnia": "MENTE = Modelo comunitario, Entorno cercano, No estigma, Trabajo en red, Enlace continuo.",
+          "trampas": [
+            "No equiparar salud mental comunitaria con una campaña de charlas ocasionales: requiere continuidad y servicios articulados.",
+            "Los CSMC no sustituyen por sí solos al primer nivel ni a los hospitales: forman parte de la red.",
+            "Los determinantes familiares y sociales importan, pero no autorizan diagnósticos sin evaluación individual."
+          ],
+          "perla": "Si aparecen «participación protagónica de la comunidad» + «continuidad de cuidados» + «salud mental», identifica el MODELO COMUNITARIO.",
+          "repaso_activo": [
+            "¿Cuál es el elemento distintivo frente a una consulta institucional aislada? — Participación comunitaria con continuidad y red territorial.",
+            "¿La hospitalización prolongada equivale a continuidad de cuidados? — No; continuidad es seguimiento articulado según necesidad.",
+            "¿Qué marco ético orienta las intervenciones? — Derechos, autonomía, confidencialidad y no discriminación."
+          ],
+          "refuerzo": [
+            {
+              "enunciado": "Un centro de salud atiende a una adolescente con depresión; tras la evaluación inicial, coordina seguimiento familiar consentido, visitas según necesidad y soporte comunitario, manteniendo comunicación con el equipo especializado. ¿Qué principio se expresa principalmente?",
+              "alternativas": {
+                "A": "Continuidad de cuidados con articulación territorial",
+                "B": "Hospitalización preventiva por riesgo inespecífico",
+                "C": "Transferencia definitiva al equipo comunitario",
+                "D": "Tamizaje único sin seguimiento programado",
+                "E": "Derivación administrativa sin corresponsabilidad"
+              },
+              "respuesta": "A",
+              "explicacion": "Hay plan longitudinal compartido y red de servicios. La atención comunitaria no significa desresponsabilizar al primer nivel."
+            },
+            {
+              "enunciado": "Un distrito plantea reorganizar la atención de psicosis crónica. ¿Qué intervención se alinea mejor con el enfoque comunitario?",
+              "alternativas": {
+                "A": "Concentrar toda atención en hospitales especializados",
+                "B": "Priorizar controles cuando aparezcan crisis agudas",
+                "C": "Suspender seguimientos cuando mejora la sintomatología",
+                "D": "Articular un plan territorial con familia, servicios y apoyo social",
+                "E": "Delegar las decisiones clínicas a líderes vecinales"
+              },
+              "respuesta": "D",
+              "explicacion": "El enfoque de recuperación requiere servicios articulados y redes, respetando consentimiento, privacidad y competencias clínicas."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "number": 37,
+      "code": "ENCAPS26-II P037",
+      "course": "Epidemiología y prevención de dengue",
+      "topic": "Medidas preventivas contra Aedes aegypti en la vivienda",
+      "comment": "Clave del PDF aportado (aún no cotejada con tabla oficial MINSA): A. Medidas preventivas. Tapar, lavar y escobillar depósitos y eliminar objetos con agua interrumpe los criaderos de Aedes aegypti.\n\nLa conducta descrita es educación sanitaria orientada a modificar condiciones domiciliarias que permiten la reproducción del vector. Se realiza antes de que exista un caso individual, por lo que constituye prevención primaria y control ambiental del riesgo. Tapar recipientes dificulta la oviposición; lavarlos y escobillarlos remueve huevos adheridos; eliminar objetos capaces de acumular agua reduce criaderos. Aunque estas actividades forman parte de estrategias de salud pública, la etiqueta más específica de las opciones es «medidas preventivas» (A).\n\nTEMARIO\nVector: Aedes aegypti; transmite dengue y otras arbovirosis. El control se enfoca en sus sitios de reproducción, principalmente recipientes con agua.\n\nCadena causal: agua acumulada + recipientes accesibles al mosquito → oviposición → larvas/pupas → adultos. La limpieza y eliminación de criaderos actúan antes de la transmisión.\n\nEducación domiciliaria: lavar y escobillar paredes internas y bordes, tapar depósitos, reemplazar agua de floreros por arena húmeda y retirar objetos inservibles.\n\nDiferencia de acciones: prevención ambiental y control larvario no son sinónimos de fumigación; esta última actúa predominantemente contra mosquitos adultos cuando está indicada.\n\nVigilancia: la búsqueda de febriles, investigación epidemiológica y notificación de casos son tareas diferentes, aunque complementarias.\n\nComunicación de riesgo: reforzar participación de hogares y acciones colectivas; explicar signos de alarma y consulta oportuna en personas sintomáticas sin confundir esa orientación con eliminación de criaderos.\n\nANÁLISIS DE ALTERNATIVAS\nA: Correcta: son acciones anticipatorias de saneamiento doméstico y modificación de conductas para reducir criaderos y la transmisión.\nB: «Intervención epidemiológica» es una expresión amplia que puede abarcar investigación y medidas de control; no identifica con precisión la consejería preventiva descrita.\nC: La detección de casos exige búsqueda o evaluación de personas con sospecha de dengue; no se describe vigilancia clínica de enfermos.\nD: No se indica aplicación de insecticida ni nebulización; se trata de limpieza, tapado y eliminación de recipientes.\n\nNORMATIVA\nNTS N.° 211-MINSA/DGIESP-2024 | https://bvs.minsa.gob.pe/local/MINSA/7497.pdf | Educación para eliminación de criaderos, lavado y tapado de recipientes\nMINSA, prevención de dengue (julio 2026) | https://www.gob.pe/institucion/minsa/noticias/1416002-minsa-insta-a-la-ciudadania-a-identificar-y-eliminar-los-criaderos-para-evitar-la-reproduccion-del-zancudo-transmisor-del-dengue | Medidas prácticas a nivel domiciliario\n\nMNEMOTECNIA\nDENGUE EN CASA = LAVA, ESCOBILLA, TAPA y ELIMINA criaderos.\n\nTRAMPAS\nFumigar no sustituye la eliminación de criaderos y no es la misma medida que tapar un depósito.\nNo basta vaciar un recipiente si quedan huevos adheridos: lavarlo y escobillarlo es relevante.\nEl mosquito puede reproducirse en agua limpia almacenada; no confundir prevención solo con tratamiento de aguas residuales.\n\nPERLA\nPreguntas de «tapar, lavar, eliminar criaderos» → prevención/control vectorial; «buscar y notificar febriles» → vigilancia epidemiológica.",
+      "pearl": "Preguntas de «tapar, lavar, eliminar criaderos» → prevención/control vectorial; «buscar y notificar febriles» → vigilancia epidemiológica.",
+      "keywords": [
+        "Epidemiología y prevención de dengue",
+        "Medidas preventivas contra Aedes aegypti en la vivienda",
+        "ENCAPS 2026-II",
+        "MINSA régimen 276"
+      ],
+      "estadoDesarrollo": "completo",
+      "lesson": {
+        "respuesta_resumida": "A. Medidas preventivas. Tapar, lavar y escobillar depósitos y eliminar objetos con agua interrumpe los criaderos de Aedes aegypti.",
+        "razonamiento": "La conducta descrita es educación sanitaria orientada a modificar condiciones domiciliarias que permiten la reproducción del vector. Se realiza antes de que exista un caso individual, por lo que constituye prevención primaria y control ambiental del riesgo. Tapar recipientes dificulta la oviposición; lavarlos y escobillarlos remueve huevos adheridos; eliminar objetos capaces de acumular agua reduce criaderos. Aunque estas actividades forman parte de estrategias de salud pública, la etiqueta más específica de las opciones es «medidas preventivas» (A).",
+        "temario": [
+          "Vector: Aedes aegypti; transmite dengue y otras arbovirosis. El control se enfoca en sus sitios de reproducción, principalmente recipientes con agua.",
+          "Cadena causal: agua acumulada + recipientes accesibles al mosquito → oviposición → larvas/pupas → adultos. La limpieza y eliminación de criaderos actúan antes de la transmisión.",
+          "Educación domiciliaria: lavar y escobillar paredes internas y bordes, tapar depósitos, reemplazar agua de floreros por arena húmeda y retirar objetos inservibles.",
+          "Diferencia de acciones: prevención ambiental y control larvario no son sinónimos de fumigación; esta última actúa predominantemente contra mosquitos adultos cuando está indicada.",
+          "Vigilancia: la búsqueda de febriles, investigación epidemiológica y notificación de casos son tareas diferentes, aunque complementarias.",
+          "Comunicación de riesgo: reforzar participación de hogares y acciones colectivas; explicar signos de alarma y consulta oportuna en personas sintomáticas sin confundir esa orientación con eliminación de criaderos."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Correcta: son acciones anticipatorias de saneamiento doméstico y modificación de conductas para reducir criaderos y la transmisión.",
+          "B": "«Intervención epidemiológica» es una expresión amplia que puede abarcar investigación y medidas de control; no identifica con precisión la consejería preventiva descrita.",
+          "C": "La detección de casos exige búsqueda o evaluación de personas con sospecha de dengue; no se describe vigilancia clínica de enfermos.",
+          "D": "No se indica aplicación de insecticida ni nebulización; se trata de limpieza, tapado y eliminación de recipientes."
+        },
+        "normativa": [
+          "NTS N.° 211-MINSA/DGIESP-2024 | https://bvs.minsa.gob.pe/local/MINSA/7497.pdf | Educación para eliminación de criaderos, lavado y tapado de recipientes",
+          "MINSA, prevención de dengue (julio 2026) | https://www.gob.pe/institucion/minsa/noticias/1416002-minsa-insta-a-la-ciudadania-a-identificar-y-eliminar-los-criaderos-para-evitar-la-reproduccion-del-zancudo-transmisor-del-dengue | Medidas prácticas a nivel domiciliario"
+        ],
+        "mnemotecnia": "DENGUE EN CASA = LAVA, ESCOBILLA, TAPA y ELIMINA criaderos.",
+        "trampas": [
+          "Fumigar no sustituye la eliminación de criaderos y no es la misma medida que tapar un depósito.",
+          "No basta vaciar un recipiente si quedan huevos adheridos: lavarlo y escobillarlo es relevante.",
+          "El mosquito puede reproducirse en agua limpia almacenada; no confundir prevención solo con tratamiento de aguas residuales."
+        ],
+        "perla": "Preguntas de «tapar, lavar, eliminar criaderos» → prevención/control vectorial; «buscar y notificar febriles» → vigilancia epidemiológica.",
+        "repaso_activo": [
+          "¿Qué fase del ciclo del vector se busca interrumpir en criaderos? — Desarrollo de huevos/larvas/pupas.",
+          "¿Qué tres acciones recomiendan MINSA para depósitos de agua? — Lavar, escobillar y tapar.",
+          "¿Es equivalente fumigación a eliminación de criaderos? — No, son medidas distintas y complementarias."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "En una localidad con almacenamiento doméstico de agua, el equipo busca reducir densidad vectorial antes de la temporada de lluvias. ¿Cuál es la intervención primaria más coherente?",
+            "alternativas": {
+              "A": "Esperar confirmación laboratorial de los primeros casos",
+              "B": "Sustituir el lavado por nebulización semanal universal",
+              "C": "Organizar eliminación de criaderos y lavado de depósitos",
+              "D": "Priorizar tratamiento antibiótico de contactos febriles",
+              "E": "Restringir la estrategia a búsqueda de casos graves"
+            },
+            "respuesta": "C",
+            "explicacion": "El control de criaderos es preventivo y actúa sobre el vector antes de que aumente la transmisión."
+          },
+          {
+            "enunciado": "Durante una visita, una familia pregunta si debe lavar un cilindro de agua aunque siempre lo mantiene tapado. ¿Cuál es la explicación más adecuada?",
+            "alternativas": {
+              "A": "No; la tapa garantiza que nunca queden huevos adheridos",
+              "B": "Sí; escobillar ayuda a remover huevos de paredes y bordes",
+              "C": "Solo si se encuentran personas con fiebre en casa",
+              "D": "Únicamente después de una campaña de fumigación",
+              "E": "No; el mosquito solo deposita huevos en aguas turbias"
+            },
+            "respuesta": "B",
+            "explicacion": "El tapado y el escobillado son complementarios; los huevos pueden adherirse a superficies del depósito."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Medidas preventivas contra Aedes aegypti en la vivienda",
+          "eje": "Epidemiología y prevención de dengue",
+          "confiabilidad": "clave_resaltada_fundamento_concordante",
+          "respuesta_resumida": "A. Medidas preventivas. Tapar, lavar y escobillar depósitos y eliminar objetos con agua interrumpe los criaderos de Aedes aegypti.",
+          "razonamiento": [
+            "La conducta descrita es educación sanitaria orientada a modificar condiciones domiciliarias que permiten la reproducción del vector. Se realiza antes de que exista un caso individual, por lo que constituye prevención primaria y control ambiental del riesgo. Tapar recipientes dificulta la oviposición; lavarlos y escobillarlos remueve huevos adheridos; eliminar objetos capaces de acumular agua reduce criaderos. Aunque estas actividades forman parte de estrategias de salud pública, la etiqueta más específica de las opciones es «medidas preventivas» (A)."
+          ],
+          "temario": [
+            "Vector: Aedes aegypti; transmite dengue y otras arbovirosis. El control se enfoca en sus sitios de reproducción, principalmente recipientes con agua.",
+            "Cadena causal: agua acumulada + recipientes accesibles al mosquito → oviposición → larvas/pupas → adultos. La limpieza y eliminación de criaderos actúan antes de la transmisión.",
+            "Educación domiciliaria: lavar y escobillar paredes internas y bordes, tapar depósitos, reemplazar agua de floreros por arena húmeda y retirar objetos inservibles.",
+            "Diferencia de acciones: prevención ambiental y control larvario no son sinónimos de fumigación; esta última actúa predominantemente contra mosquitos adultos cuando está indicada.",
+            "Vigilancia: la búsqueda de febriles, investigación epidemiológica y notificación de casos son tareas diferentes, aunque complementarias.",
+            "Comunicación de riesgo: reforzar participación de hogares y acciones colectivas; explicar signos de alarma y consulta oportuna en personas sintomáticas sin confundir esa orientación con eliminación de criaderos."
+          ],
+          "distractores": {
+            "A": "Correcta: son acciones anticipatorias de saneamiento doméstico y modificación de conductas para reducir criaderos y la transmisión.",
+            "B": "«Intervención epidemiológica» es una expresión amplia que puede abarcar investigación y medidas de control; no identifica con precisión la consejería preventiva descrita.",
+            "C": "La detección de casos exige búsqueda o evaluación de personas con sospecha de dengue; no se describe vigilancia clínica de enfermos.",
+            "D": "No se indica aplicación de insecticida ni nebulización; se trata de limpieza, tapado y eliminación de recipientes."
+          },
+          "normativa": [
+            {
+              "nombre": "NTS N.° 211-MINSA/DGIESP-2024",
+              "url": "https://bvs.minsa.gob.pe/local/MINSA/7497.pdf",
+              "aplicacion": "Educación para eliminación de criaderos, lavado y tapado de recipientes"
+            },
+            {
+              "nombre": "MINSA, prevención de dengue (julio 2026)",
+              "url": "https://www.gob.pe/institucion/minsa/noticias/1416002-minsa-insta-a-la-ciudadania-a-identificar-y-eliminar-los-criaderos-para-evitar-la-reproduccion-del-zancudo-transmisor-del-dengue",
+              "aplicacion": "Medidas prácticas a nivel domiciliario"
+            }
+          ],
+          "mnemotecnia": "DENGUE EN CASA = LAVA, ESCOBILLA, TAPA y ELIMINA criaderos.",
+          "trampas": [
+            "Fumigar no sustituye la eliminación de criaderos y no es la misma medida que tapar un depósito.",
+            "No basta vaciar un recipiente si quedan huevos adheridos: lavarlo y escobillarlo es relevante.",
+            "El mosquito puede reproducirse en agua limpia almacenada; no confundir prevención solo con tratamiento de aguas residuales."
+          ],
+          "perla": "Preguntas de «tapar, lavar, eliminar criaderos» → prevención/control vectorial; «buscar y notificar febriles» → vigilancia epidemiológica.",
+          "repaso_activo": [
+            "¿Qué fase del ciclo del vector se busca interrumpir en criaderos? — Desarrollo de huevos/larvas/pupas.",
+            "¿Qué tres acciones recomiendan MINSA para depósitos de agua? — Lavar, escobillar y tapar.",
+            "¿Es equivalente fumigación a eliminación de criaderos? — No, son medidas distintas y complementarias."
+          ],
+          "refuerzo": [
+            {
+              "enunciado": "En una localidad con almacenamiento doméstico de agua, el equipo busca reducir densidad vectorial antes de la temporada de lluvias. ¿Cuál es la intervención primaria más coherente?",
+              "alternativas": {
+                "A": "Esperar confirmación laboratorial de los primeros casos",
+                "B": "Sustituir el lavado por nebulización semanal universal",
+                "C": "Organizar eliminación de criaderos y lavado de depósitos",
+                "D": "Priorizar tratamiento antibiótico de contactos febriles",
+                "E": "Restringir la estrategia a búsqueda de casos graves"
+              },
+              "respuesta": "C",
+              "explicacion": "El control de criaderos es preventivo y actúa sobre el vector antes de que aumente la transmisión."
+            },
+            {
+              "enunciado": "Durante una visita, una familia pregunta si debe lavar un cilindro de agua aunque siempre lo mantiene tapado. ¿Cuál es la explicación más adecuada?",
+              "alternativas": {
+                "A": "No; la tapa garantiza que nunca queden huevos adheridos",
+                "B": "Sí; escobillar ayuda a remover huevos de paredes y bordes",
+                "C": "Solo si se encuentran personas con fiebre en casa",
+                "D": "Únicamente después de una campaña de fumigación",
+                "E": "No; el mosquito solo deposita huevos en aguas turbias"
+              },
+              "respuesta": "B",
+              "explicacion": "El tapado y el escobillado son complementarios; los huevos pueden adherirse a superficies del depósito."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "number": 38,
+      "code": "ENCAPS26-II P038",
+      "course": "Determinantes sociales e inclusión",
+      "topic": "Inclusión social: derechos, capacidades y oportunidades",
+      "comment": "Clave del PDF aportado (aún no cotejada con tabla oficial MINSA): A. Inclusión social. Es la situación que permite a todas las personas ejercer derechos, desplegar capacidades y aprovechar oportunidades de su entorno.\n\nEl enunciado utiliza tres componentes característicos de la definición de inclusión social trabajada por el MIDIS: derechos efectivos, habilidades/capacidades personales y oportunidades accesibles. Una persona puede contar con capacidades, pero seguir excluida si barreras económicas, territoriales, culturales o institucionales le impiden aprovecharlas. No equivale simplemente a recibir una transferencia monetaria; implica acceso real y participación en educación, salud, empleo, protección y vida comunitaria. La alternativa correcta del cuadernillo es A.\n\nTEMARIO\nConcepto: un proceso y condición de participación plena en la sociedad, sin barreras injustas para el ejercicio de derechos y aprovechamiento de oportunidades.\n\nTres ejes de la frase: ejercicio de derechos, desarrollo o uso de capacidades y acceso efectivo a oportunidades. Conviene recordar los tres y reconocerlos en preguntas de definiciones.\n\nExclusión: puede asociarse a pobreza, discapacidad, aislamiento geográfico, discriminación, barreras de idioma, brecha digital y servicios insuficientes.\n\nIntervenciones: protección social, educación, salud, accesibilidad, articulación intersectorial y reducción de desigualdades; ningún programa aislado agota el concepto.\n\nEn establecimiento de salud: comunicación comprensible, atención intercultural, ajustes razonables, continuidad y eliminación de barreras administrativas cuando corresponda.\n\nDiferenciar igualdad y equidad: igualdad formal no siempre produce oportunidades reales; medidas diferenciadas pueden ser necesarias para lograr acceso efectivo.\n\nANÁLISIS DE ALTERNATIVAS\nA: Correcta: la formulación integra ejercicio de derechos, capacidades y oportunidades accesibles.\nB: Un programa social es una intervención concreta; puede promover inclusión, pero no es la situación descrita.\nC: Identidad cultural se relaciona con pertenencia, valores y prácticas compartidas; no abarca por sí sola todo el ejercicio de derechos y oportunidades.\nD: Salud intercultural favorece atención pertinente y comunicación entre sistemas culturales en salud; constituye una dimensión importante, no el concepto global solicitado.\n\nNORMATIVA\nMIDIS: Estrategia Incluir para Crecer | https://www.gob.pe/institucion/midis/noticias/1694-midis-estrategia-incluir-para-crecer-permite-avanzar-en-cierre-de-brechas-en-acceso-a-servicios-basicos | Definición de inclusión social basada en derechos, capacidades y oportunidades\nMIDIS: inclusión social con igualdad de oportunidades | https://www.gob.pe/institucion/midis/noticias/2446-midis-presente-en-la-sesion-descentralizada-de-la-comision-de-inclusion-social-del-congreso-en-puno | Enfoque transversal de igualdad de oportunidades y derechos\n\nMNEMOTECNIA\nINCLUIR = Derechos + Capacidades + Oportunidades (D-C-O).\n\nTRAMPAS\nNo confundir inclusión social con inscripción en un subsidio o un único programa.\nLa inclusión exige acceso efectivo, no solo existencia nominal de un servicio.\nInterculturalidad puede reducir exclusión, pero es un enfoque particular y no sinónimo de inclusión social.\n\nPERLA\nSi una definición encadena «derechos + habilidades + oportunidades», marca INCLUSIÓN SOCIAL.",
+      "pearl": "Si una definición encadena «derechos + habilidades + oportunidades», marca INCLUSIÓN SOCIAL.",
+      "keywords": [
+        "Determinantes sociales e inclusión",
+        "Inclusión social: derechos, capacidades y oportunidades",
+        "ENCAPS 2026-II",
+        "MINSA régimen 276"
+      ],
+      "estadoDesarrollo": "completo",
+      "lesson": {
+        "respuesta_resumida": "A. Inclusión social. Es la situación que permite a todas las personas ejercer derechos, desplegar capacidades y aprovechar oportunidades de su entorno.",
+        "razonamiento": "El enunciado utiliza tres componentes característicos de la definición de inclusión social trabajada por el MIDIS: derechos efectivos, habilidades/capacidades personales y oportunidades accesibles. Una persona puede contar con capacidades, pero seguir excluida si barreras económicas, territoriales, culturales o institucionales le impiden aprovecharlas. No equivale simplemente a recibir una transferencia monetaria; implica acceso real y participación en educación, salud, empleo, protección y vida comunitaria. La alternativa correcta del cuadernillo es A.",
+        "temario": [
+          "Concepto: un proceso y condición de participación plena en la sociedad, sin barreras injustas para el ejercicio de derechos y aprovechamiento de oportunidades.",
+          "Tres ejes de la frase: ejercicio de derechos, desarrollo o uso de capacidades y acceso efectivo a oportunidades. Conviene recordar los tres y reconocerlos en preguntas de definiciones.",
+          "Exclusión: puede asociarse a pobreza, discapacidad, aislamiento geográfico, discriminación, barreras de idioma, brecha digital y servicios insuficientes.",
+          "Intervenciones: protección social, educación, salud, accesibilidad, articulación intersectorial y reducción de desigualdades; ningún programa aislado agota el concepto.",
+          "En establecimiento de salud: comunicación comprensible, atención intercultural, ajustes razonables, continuidad y eliminación de barreras administrativas cuando corresponda.",
+          "Diferenciar igualdad y equidad: igualdad formal no siempre produce oportunidades reales; medidas diferenciadas pueden ser necesarias para lograr acceso efectivo."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Correcta: la formulación integra ejercicio de derechos, capacidades y oportunidades accesibles.",
+          "B": "Un programa social es una intervención concreta; puede promover inclusión, pero no es la situación descrita.",
+          "C": "Identidad cultural se relaciona con pertenencia, valores y prácticas compartidas; no abarca por sí sola todo el ejercicio de derechos y oportunidades.",
+          "D": "Salud intercultural favorece atención pertinente y comunicación entre sistemas culturales en salud; constituye una dimensión importante, no el concepto global solicitado."
+        },
+        "normativa": [
+          "MIDIS: Estrategia Incluir para Crecer | https://www.gob.pe/institucion/midis/noticias/1694-midis-estrategia-incluir-para-crecer-permite-avanzar-en-cierre-de-brechas-en-acceso-a-servicios-basicos | Definición de inclusión social basada en derechos, capacidades y oportunidades",
+          "MIDIS: inclusión social con igualdad de oportunidades | https://www.gob.pe/institucion/midis/noticias/2446-midis-presente-en-la-sesion-descentralizada-de-la-comision-de-inclusion-social-del-congreso-en-puno | Enfoque transversal de igualdad de oportunidades y derechos"
+        ],
+        "mnemotecnia": "INCLUIR = Derechos + Capacidades + Oportunidades (D-C-O).",
+        "trampas": [
+          "No confundir inclusión social con inscripción en un subsidio o un único programa.",
+          "La inclusión exige acceso efectivo, no solo existencia nominal de un servicio.",
+          "Interculturalidad puede reducir exclusión, pero es un enfoque particular y no sinónimo de inclusión social."
+        ],
+        "perla": "Si una definición encadena «derechos + habilidades + oportunidades», marca INCLUSIÓN SOCIAL.",
+        "repaso_activo": [
+          "¿Cuáles son las tres palabras núcleo de la definición? — Derechos, capacidades y oportunidades.",
+          "¿Un programa social equivale a inclusión social? — No: es un instrumento posible.",
+          "¿Qué barreras de acceso son relevantes para un EESS? — Económicas, geográficas, lingüísticas, culturales y administrativas."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "En un centro de salud rural, usuarias quechuahablantes no comprenden el procedimiento de referencia, aunque exista transporte disponible. ¿Qué acción favorece más directamente la inclusión?",
+            "alternativas": {
+              "A": "Mantener únicamente avisos técnicos en español",
+              "B": "Exigir que cada familia consiga un traductor particular",
+              "C": "Suspender toda referencia para evitar errores",
+              "D": "Aplicar atención lingüísticamente pertinente y navegación del servicio",
+              "E": "Derivar a todos los casos sin explicar el procedimiento"
+            },
+            "respuesta": "D",
+            "explicacion": "Eliminar barreras de idioma y comprensión facilita el ejercicio real del derecho a la atención."
+          },
+          {
+            "enunciado": "Un programa entrega apoyo económico, pero la población con discapacidad sigue sin poder ingresar al establecimiento de salud por barreras arquitectónicas. ¿Qué conclusión es mejor?",
+            "alternativas": {
+              "A": "La transferencia garantiza por sí sola inclusión completa",
+              "B": "El problema se limita a identidad cultural comunitaria",
+              "C": "Persiste exclusión por accesibilidad pese al apoyo monetario",
+              "D": "Se ha logrado igualdad de acceso por la transferencia",
+              "E": "La ausencia de síntomas descarta barreras sociales"
+            },
+            "respuesta": "C",
+            "explicacion": "El acceso efectivo y las oportunidades requieren eliminar barreras adicionales a las económicas."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Inclusión social: derechos, capacidades y oportunidades",
+          "eje": "Determinantes sociales e inclusión",
+          "confiabilidad": "clave_resaltada_fundamento_concordante",
+          "respuesta_resumida": "A. Inclusión social. Es la situación que permite a todas las personas ejercer derechos, desplegar capacidades y aprovechar oportunidades de su entorno.",
+          "razonamiento": [
+            "El enunciado utiliza tres componentes característicos de la definición de inclusión social trabajada por el MIDIS: derechos efectivos, habilidades/capacidades personales y oportunidades accesibles. Una persona puede contar con capacidades, pero seguir excluida si barreras económicas, territoriales, culturales o institucionales le impiden aprovecharlas. No equivale simplemente a recibir una transferencia monetaria; implica acceso real y participación en educación, salud, empleo, protección y vida comunitaria. La alternativa correcta del cuadernillo es A."
+          ],
+          "temario": [
+            "Concepto: un proceso y condición de participación plena en la sociedad, sin barreras injustas para el ejercicio de derechos y aprovechamiento de oportunidades.",
+            "Tres ejes de la frase: ejercicio de derechos, desarrollo o uso de capacidades y acceso efectivo a oportunidades. Conviene recordar los tres y reconocerlos en preguntas de definiciones.",
+            "Exclusión: puede asociarse a pobreza, discapacidad, aislamiento geográfico, discriminación, barreras de idioma, brecha digital y servicios insuficientes.",
+            "Intervenciones: protección social, educación, salud, accesibilidad, articulación intersectorial y reducción de desigualdades; ningún programa aislado agota el concepto.",
+            "En establecimiento de salud: comunicación comprensible, atención intercultural, ajustes razonables, continuidad y eliminación de barreras administrativas cuando corresponda.",
+            "Diferenciar igualdad y equidad: igualdad formal no siempre produce oportunidades reales; medidas diferenciadas pueden ser necesarias para lograr acceso efectivo."
+          ],
+          "distractores": {
+            "A": "Correcta: la formulación integra ejercicio de derechos, capacidades y oportunidades accesibles.",
+            "B": "Un programa social es una intervención concreta; puede promover inclusión, pero no es la situación descrita.",
+            "C": "Identidad cultural se relaciona con pertenencia, valores y prácticas compartidas; no abarca por sí sola todo el ejercicio de derechos y oportunidades.",
+            "D": "Salud intercultural favorece atención pertinente y comunicación entre sistemas culturales en salud; constituye una dimensión importante, no el concepto global solicitado."
+          },
+          "normativa": [
+            {
+              "nombre": "MIDIS: Estrategia Incluir para Crecer",
+              "url": "https://www.gob.pe/institucion/midis/noticias/1694-midis-estrategia-incluir-para-crecer-permite-avanzar-en-cierre-de-brechas-en-acceso-a-servicios-basicos",
+              "aplicacion": "Definición de inclusión social basada en derechos, capacidades y oportunidades"
+            },
+            {
+              "nombre": "MIDIS: inclusión social con igualdad de oportunidades",
+              "url": "https://www.gob.pe/institucion/midis/noticias/2446-midis-presente-en-la-sesion-descentralizada-de-la-comision-de-inclusion-social-del-congreso-en-puno",
+              "aplicacion": "Enfoque transversal de igualdad de oportunidades y derechos"
+            }
+          ],
+          "mnemotecnia": "INCLUIR = Derechos + Capacidades + Oportunidades (D-C-O).",
+          "trampas": [
+            "No confundir inclusión social con inscripción en un subsidio o un único programa.",
+            "La inclusión exige acceso efectivo, no solo existencia nominal de un servicio.",
+            "Interculturalidad puede reducir exclusión, pero es un enfoque particular y no sinónimo de inclusión social."
+          ],
+          "perla": "Si una definición encadena «derechos + habilidades + oportunidades», marca INCLUSIÓN SOCIAL.",
+          "repaso_activo": [
+            "¿Cuáles son las tres palabras núcleo de la definición? — Derechos, capacidades y oportunidades.",
+            "¿Un programa social equivale a inclusión social? — No: es un instrumento posible.",
+            "¿Qué barreras de acceso son relevantes para un EESS? — Económicas, geográficas, lingüísticas, culturales y administrativas."
+          ],
+          "refuerzo": [
+            {
+              "enunciado": "En un centro de salud rural, usuarias quechuahablantes no comprenden el procedimiento de referencia, aunque exista transporte disponible. ¿Qué acción favorece más directamente la inclusión?",
+              "alternativas": {
+                "A": "Mantener únicamente avisos técnicos en español",
+                "B": "Exigir que cada familia consiga un traductor particular",
+                "C": "Suspender toda referencia para evitar errores",
+                "D": "Aplicar atención lingüísticamente pertinente y navegación del servicio",
+                "E": "Derivar a todos los casos sin explicar el procedimiento"
+              },
+              "respuesta": "D",
+              "explicacion": "Eliminar barreras de idioma y comprensión facilita el ejercicio real del derecho a la atención."
+            },
+            {
+              "enunciado": "Un programa entrega apoyo económico, pero la población con discapacidad sigue sin poder ingresar al establecimiento de salud por barreras arquitectónicas. ¿Qué conclusión es mejor?",
+              "alternativas": {
+                "A": "La transferencia garantiza por sí sola inclusión completa",
+                "B": "El problema se limita a identidad cultural comunitaria",
+                "C": "Persiste exclusión por accesibilidad pese al apoyo monetario",
+                "D": "Se ha logrado igualdad de acceso por la transferencia",
+                "E": "La ausencia de síntomas descarta barreras sociales"
+              },
+              "respuesta": "C",
+              "explicacion": "El acceso efectivo y las oportunidades requieren eliminar barreras adicionales a las económicas."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "number": 39,
+      "code": "ENCAPS26-II P039",
+      "course": "Investigación y epidemiología",
+      "topic": "Estudios descriptivos frente a estudios analíticos",
+      "comment": "Clave del PDF aportado (aún no cotejada con tabla oficial MINSA): A. Aspectos y características de las viviendas. Se describen rasgos de una población sin plantear una relación o efecto entre variables.\n\nLa pregunta busca la diferencia entre describir un fenómeno y analizar asociaciones o efectos. Registrar material de construcción, suministro de agua, ventilación o condiciones de viviendas permite resumir frecuencias y proporciones. En cambio, indagar relación entre tipo de vivienda e ingreso, o efectos de eventos y vivienda sobre morbilidad, plantea objetivos de asociación o causalidad. El estudio descriptivo caracteriza quién, dónde y cuándo; puede originar hipótesis que luego deberán evaluarse. El cuadernillo señala A.\n\nTEMARIO\nInvestigación descriptiva: cuantifica y caracteriza distribución de hechos o atributos sin probar hipótesis causales. Variables como edad, sexo, procedencia, materiales de vivienda y agua disponible.\n\nPreguntas típicas: ¿cuántos?, ¿cómo son?, ¿dónde ocurren?, ¿en qué periodo?; las respuestas pueden expresarse en tasas, proporciones, promedios o descripciones de categorías.\n\nInvestigación analítica: pregunta si un factor se relaciona con un desenlace; compara grupos y considera asociación, confusión y sesgos.\n\nTransversal es un diseño temporal, no una garantía de que el objetivo sea descriptivo: un estudio transversal puede ser descriptivo o analítico.\n\nEstudios de cohorte y casos-controles se utilizan para estudiar asociaciones y riesgos según el planteamiento; no sustituyen la inferencia causal rigurosa.\n\nEl análisis de un desastre por tipo de vivienda puede ser descriptivo si solo enumera daños, pero decir «efectos según» en las opciones invita a comparar y analizar resultados.\n\nEn examen: las expresiones «características de», «frecuencia de», «distribución de» sugieren descripción; «relación», «asociación», «efecto» sugieren análisis.\n\nANÁLISIS DE ALTERNATIVAS\nA: Correcta: describe propiedades y distribución de viviendas en la población, sin asociarlas a una segunda variable.\nB: Plantea relación entre tipo de vivienda e ingresos mensuales, por lo que su objetivo es analítico.\nC: Busca efectos de un temblor según el tipo de vivienda y requiere al menos comparar resultados entre categorías; no es la formulación puramente descriptiva buscada.\nD: Plantea evaluar efectos de la vivienda sobre morbilidad, una hipótesis de asociación o causalidad que no es descriptiva simple.\n\nNORMATIVA\nCDC: Principles of Epidemiology, Lesson 1, Section 6 | https://archive.cdc.gov/www_cdc_gov/csels/dsepd/ss1978/lesson1/section6.html | Descripción por persona, lugar y tiempo\nCDC: Principles of Epidemiology, Lesson 1, Section 7 | https://archive.cdc.gov/www_cdc_gov/csels/dsepd/ss1978/lesson1/section7.html | Diferencia entre descripción, formulación y prueba de hipótesis\n\nMNEMOTECNIA\nDESCRIBE = ¿QUIÉN, DÓNDE, CUÁNDO, CUÁNTOS?; ANALIZA = ¿CON QUÉ SE ASOCIA Y POR QUÉ?\n\nTRAMPAS\nNo afirmar que todos los transversales son solo descriptivos: también existen transversales analíticos.\nDiferenciar medir características de contrastar grupos.\nUna asociación estadística por sí sola no prueba causalidad.\n\nPERLA\n«Características y frecuencia» → DESCRIPTIVO. «Relación, asociación o efecto» → ANALÍTICO; siempre considera el objetivo real del estudio.",
+      "pearl": "«Características y frecuencia» → DESCRIPTIVO. «Relación, asociación o efecto» → ANALÍTICO; siempre considera el objetivo real del estudio.",
+      "keywords": [
+        "Investigación y epidemiología",
+        "Estudios descriptivos frente a estudios analíticos",
+        "ENCAPS 2026-II",
+        "MINSA régimen 276"
+      ],
+      "estadoDesarrollo": "completo",
+      "lesson": {
+        "respuesta_resumida": "A. Aspectos y características de las viviendas. Se describen rasgos de una población sin plantear una relación o efecto entre variables.",
+        "razonamiento": "La pregunta busca la diferencia entre describir un fenómeno y analizar asociaciones o efectos. Registrar material de construcción, suministro de agua, ventilación o condiciones de viviendas permite resumir frecuencias y proporciones. En cambio, indagar relación entre tipo de vivienda e ingreso, o efectos de eventos y vivienda sobre morbilidad, plantea objetivos de asociación o causalidad. El estudio descriptivo caracteriza quién, dónde y cuándo; puede originar hipótesis que luego deberán evaluarse. El cuadernillo señala A.",
+        "temario": [
+          "Investigación descriptiva: cuantifica y caracteriza distribución de hechos o atributos sin probar hipótesis causales. Variables como edad, sexo, procedencia, materiales de vivienda y agua disponible.",
+          "Preguntas típicas: ¿cuántos?, ¿cómo son?, ¿dónde ocurren?, ¿en qué periodo?; las respuestas pueden expresarse en tasas, proporciones, promedios o descripciones de categorías.",
+          "Investigación analítica: pregunta si un factor se relaciona con un desenlace; compara grupos y considera asociación, confusión y sesgos.",
+          "Transversal es un diseño temporal, no una garantía de que el objetivo sea descriptivo: un estudio transversal puede ser descriptivo o analítico.",
+          "Estudios de cohorte y casos-controles se utilizan para estudiar asociaciones y riesgos según el planteamiento; no sustituyen la inferencia causal rigurosa.",
+          "El análisis de un desastre por tipo de vivienda puede ser descriptivo si solo enumera daños, pero decir «efectos según» en las opciones invita a comparar y analizar resultados.",
+          "En examen: las expresiones «características de», «frecuencia de», «distribución de» sugieren descripción; «relación», «asociación», «efecto» sugieren análisis."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Correcta: describe propiedades y distribución de viviendas en la población, sin asociarlas a una segunda variable.",
+          "B": "Plantea relación entre tipo de vivienda e ingresos mensuales, por lo que su objetivo es analítico.",
+          "C": "Busca efectos de un temblor según el tipo de vivienda y requiere al menos comparar resultados entre categorías; no es la formulación puramente descriptiva buscada.",
+          "D": "Plantea evaluar efectos de la vivienda sobre morbilidad, una hipótesis de asociación o causalidad que no es descriptiva simple."
+        },
+        "normativa": [
+          "CDC: Principles of Epidemiology, Lesson 1, Section 6 | https://archive.cdc.gov/www_cdc_gov/csels/dsepd/ss1978/lesson1/section6.html | Descripción por persona, lugar y tiempo",
+          "CDC: Principles of Epidemiology, Lesson 1, Section 7 | https://archive.cdc.gov/www_cdc_gov/csels/dsepd/ss1978/lesson1/section7.html | Diferencia entre descripción, formulación y prueba de hipótesis"
+        ],
+        "mnemotecnia": "DESCRIBE = ¿QUIÉN, DÓNDE, CUÁNDO, CUÁNTOS?; ANALIZA = ¿CON QUÉ SE ASOCIA Y POR QUÉ?",
+        "trampas": [
+          "No afirmar que todos los transversales son solo descriptivos: también existen transversales analíticos.",
+          "Diferenciar medir características de contrastar grupos.",
+          "Una asociación estadística por sí sola no prueba causalidad."
+        ],
+        "perla": "«Características y frecuencia» → DESCRIPTIVO. «Relación, asociación o efecto» → ANALÍTICO; siempre considera el objetivo real del estudio.",
+        "repaso_activo": [
+          "¿Qué variables organiza la epidemiología descriptiva? — Persona, lugar y tiempo.",
+          "¿Puede un estudio transversal ser analítico? — Sí, depende del objetivo y comparación.",
+          "¿Asociación equivale a causalidad? — No; pueden intervenir sesgo y confusión."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Un equipo cuenta el porcentaje de hogares que utilizan agua de pozo y describe su distribución por sectores, sin estudiar desenlaces clínicos. ¿Qué enfoque presenta?",
+            "alternativas": {
+              "A": "Ensayo clínico aleatorizado",
+              "B": "Investigación descriptiva",
+              "C": "Estudio de cohorte retrospectiva",
+              "D": "Estudio de casos y controles",
+              "E": "Evaluación causal cuasiexperimental"
+            },
+            "respuesta": "B",
+            "explicacion": "Solo se caracterizan frecuencias y distribución de una condición en la población."
+          },
+          {
+            "enunciado": "Un investigador obtiene en una encuesta datos sobre hacinamiento y tuberculosis y compara prevalencias entre grupos. ¿Cuál es la descripción más adecuada?",
+            "alternativas": {
+              "A": "Descripción de frecuencias sin comparaciones",
+              "B": "Análisis experimental con asignación aleatoria",
+              "C": "Investigación cualitativa sin cuantificación",
+              "D": "Estudio exclusivamente ecológico por definición",
+              "E": "Estudio transversal con objetivo analítico"
+            },
+            "respuesta": "E",
+            "explicacion": "Aunque se mida en un momento, el propósito es estudiar asociación entre exposición y desenlace."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Estudios descriptivos frente a estudios analíticos",
+          "eje": "Investigación y epidemiología",
+          "confiabilidad": "clave_resaltada_fundamento_concordante",
+          "respuesta_resumida": "A. Aspectos y características de las viviendas. Se describen rasgos de una población sin plantear una relación o efecto entre variables.",
+          "razonamiento": [
+            "La pregunta busca la diferencia entre describir un fenómeno y analizar asociaciones o efectos. Registrar material de construcción, suministro de agua, ventilación o condiciones de viviendas permite resumir frecuencias y proporciones. En cambio, indagar relación entre tipo de vivienda e ingreso, o efectos de eventos y vivienda sobre morbilidad, plantea objetivos de asociación o causalidad. El estudio descriptivo caracteriza quién, dónde y cuándo; puede originar hipótesis que luego deberán evaluarse. El cuadernillo señala A."
+          ],
+          "temario": [
+            "Investigación descriptiva: cuantifica y caracteriza distribución de hechos o atributos sin probar hipótesis causales. Variables como edad, sexo, procedencia, materiales de vivienda y agua disponible.",
+            "Preguntas típicas: ¿cuántos?, ¿cómo son?, ¿dónde ocurren?, ¿en qué periodo?; las respuestas pueden expresarse en tasas, proporciones, promedios o descripciones de categorías.",
+            "Investigación analítica: pregunta si un factor se relaciona con un desenlace; compara grupos y considera asociación, confusión y sesgos.",
+            "Transversal es un diseño temporal, no una garantía de que el objetivo sea descriptivo: un estudio transversal puede ser descriptivo o analítico.",
+            "Estudios de cohorte y casos-controles se utilizan para estudiar asociaciones y riesgos según el planteamiento; no sustituyen la inferencia causal rigurosa.",
+            "El análisis de un desastre por tipo de vivienda puede ser descriptivo si solo enumera daños, pero decir «efectos según» en las opciones invita a comparar y analizar resultados.",
+            "En examen: las expresiones «características de», «frecuencia de», «distribución de» sugieren descripción; «relación», «asociación», «efecto» sugieren análisis."
+          ],
+          "distractores": {
+            "A": "Correcta: describe propiedades y distribución de viviendas en la población, sin asociarlas a una segunda variable.",
+            "B": "Plantea relación entre tipo de vivienda e ingresos mensuales, por lo que su objetivo es analítico.",
+            "C": "Busca efectos de un temblor según el tipo de vivienda y requiere al menos comparar resultados entre categorías; no es la formulación puramente descriptiva buscada.",
+            "D": "Plantea evaluar efectos de la vivienda sobre morbilidad, una hipótesis de asociación o causalidad que no es descriptiva simple."
+          },
+          "normativa": [
+            {
+              "nombre": "CDC: Principles of Epidemiology, Lesson 1, Section 6",
+              "url": "https://archive.cdc.gov/www_cdc_gov/csels/dsepd/ss1978/lesson1/section6.html",
+              "aplicacion": "Descripción por persona, lugar y tiempo"
+            },
+            {
+              "nombre": "CDC: Principles of Epidemiology, Lesson 1, Section 7",
+              "url": "https://archive.cdc.gov/www_cdc_gov/csels/dsepd/ss1978/lesson1/section7.html",
+              "aplicacion": "Diferencia entre descripción, formulación y prueba de hipótesis"
+            }
+          ],
+          "mnemotecnia": "DESCRIBE = ¿QUIÉN, DÓNDE, CUÁNDO, CUÁNTOS?; ANALIZA = ¿CON QUÉ SE ASOCIA Y POR QUÉ?",
+          "trampas": [
+            "No afirmar que todos los transversales son solo descriptivos: también existen transversales analíticos.",
+            "Diferenciar medir características de contrastar grupos.",
+            "Una asociación estadística por sí sola no prueba causalidad."
+          ],
+          "perla": "«Características y frecuencia» → DESCRIPTIVO. «Relación, asociación o efecto» → ANALÍTICO; siempre considera el objetivo real del estudio.",
+          "repaso_activo": [
+            "¿Qué variables organiza la epidemiología descriptiva? — Persona, lugar y tiempo.",
+            "¿Puede un estudio transversal ser analítico? — Sí, depende del objetivo y comparación.",
+            "¿Asociación equivale a causalidad? — No; pueden intervenir sesgo y confusión."
+          ],
+          "refuerzo": [
+            {
+              "enunciado": "Un equipo cuenta el porcentaje de hogares que utilizan agua de pozo y describe su distribución por sectores, sin estudiar desenlaces clínicos. ¿Qué enfoque presenta?",
+              "alternativas": {
+                "A": "Ensayo clínico aleatorizado",
+                "B": "Investigación descriptiva",
+                "C": "Estudio de cohorte retrospectiva",
+                "D": "Estudio de casos y controles",
+                "E": "Evaluación causal cuasiexperimental"
+              },
+              "respuesta": "B",
+              "explicacion": "Solo se caracterizan frecuencias y distribución de una condición en la población."
+            },
+            {
+              "enunciado": "Un investigador obtiene en una encuesta datos sobre hacinamiento y tuberculosis y compara prevalencias entre grupos. ¿Cuál es la descripción más adecuada?",
+              "alternativas": {
+                "A": "Descripción de frecuencias sin comparaciones",
+                "B": "Análisis experimental con asignación aleatoria",
+                "C": "Investigación cualitativa sin cuantificación",
+                "D": "Estudio exclusivamente ecológico por definición",
+                "E": "Estudio transversal con objetivo analítico"
+              },
+              "respuesta": "E",
+              "explicacion": "Aunque se mida en un momento, el propósito es estudiar asociación entre exposición y desenlace."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "number": 40,
+      "code": "ENCAPS26-II P040",
+      "course": "Atención primaria de salud y MCI",
+      "topic": "Atención primaria de salud: integralidad, continuidad y comunidad",
+      "comment": "Clave del PDF aportado (aún no cotejada con tabla oficial MINSA): A. Atención primaria de salud. La estrategia conjuga promoción, prevención, servicios integrales y continuos y participación comunitaria.\n\nEl caso retrata un equipo multidisciplinario con trabajo permanente en la comunidad, enfoque de promoción y prevención y cuidado integral. Esa es la estrategia global de Atención Primaria de Salud (APS), un enfoque de organización del sistema que aproxima los servicios a las personas y responde a necesidades durante todo el curso de vida. La salud comunitaria y la medicina familiar son componentes y disciplinas afines, pero la pregunta solicita el marco estratégico más amplio: APS. La clave del PDF es A.\n\nTEMARIO\nAPS: enfoque de toda la sociedad que integra servicios individuales y de salud pública, acciones sobre determinantes sociales y protagonismo de personas, familias y comunidades.\n\nIntegralidad: promoción, prevención, diagnóstico, tratamiento, rehabilitación y cuidados paliativos articulados conforme a necesidades y capacidad resolutiva.\n\nLongitudinalidad y continuidad: mantener relación y responsabilidad de cuidado en el tiempo; garantizar seguimiento incluso después de referencia, alta o contrarreferencia.\n\nAccesibilidad y primer contacto: entrada oportuna a servicios apropiados; incluye horario, transporte, idioma, costo y disponibilidad. Emergencias se atienden sin demoras indebidas.\n\nCoordinación: intercambio seguro de información y referencia/contrarreferencia entre niveles; evita fragmentación asistencial.\n\nTrabajo interprofesional e intersectorial: integra competencias sanitarias y articulación con educación, gobiernos locales, agua y saneamiento.\n\nModelo MCI por curso de vida: aplicación peruana del cuidado centrado en persona, familia y comunidad, incluyendo atención individual, familiar y comunitaria.\n\nDistinguir APS de primer nivel: el primer nivel es un ámbito organizativo clave, mientras APS es un enfoque para todo el sistema.\n\nANÁLISIS DE ALTERNATIVAS\nA: Correcta: estrategia de servicios integrales, participación comunitaria, promoción, prevención y continuidad de atención.\nB: Programas de salud pública pueden ser temáticos o poblacionales, pero no nombran por sí solos el marco integral descrito.\nC: Salud comunitaria es compatible con varias de las actividades del caso, pero el énfasis en estrategia integral, continuada y permanente corresponde mejor a la APS.\nD: Medicina familiar y comunitaria es un campo disciplinar y organizativo que contribuye a la APS, sin agotar todos sus componentes intersectoriales y sistémicos.\n\nNORMATIVA\nOMS: Atención primaria de salud | https://www.who.int/health-topics/primary-health-care | Prestación integral, empoderamiento comunitario y acción multisectorial\nMINSA: Modelo de cuidado integral por curso de vida | https://www.gob.pe/institucion/minsa/informes-publicaciones/1893886-modelo-de-cuidado-integral-de-salud-por-curso-vida-para-la-persona-familia-y-comunidad-mci-documento-tecnico | Operativización del cuidado longitudinal persona-familia-comunidad\n\nMNEMOTECNIA\nAPS = ACCESO + PERSONA/FAMILIA + SEGUIMIENTO, con promoción, prevención e intersectorialidad.\n\nTRAMPAS\nNo reducir APS a la consulta del primer nivel ni a atención barata de casos leves.\nLa promoción y prevención importan, pero APS también cubre atención curativa y rehabilitación.\nTrabajo comunitario es un componente de APS, no necesariamente una estrategia distinta frente a la descripción del enunciado.\n\nPERLA\nFrase ancla APS: integral + continuo + equipo multidisciplinario + comunidad + promoción/previsión (sin abandonar tratamiento).",
+      "pearl": "Frase ancla APS: integral + continuo + equipo multidisciplinario + comunidad + promoción/previsión (sin abandonar tratamiento).",
+      "keywords": [
+        "Atención primaria de salud y MCI",
+        "Atención primaria de salud: integralidad, continuidad y comunidad",
+        "ENCAPS 2026-II",
+        "MINSA régimen 276"
+      ],
+      "estadoDesarrollo": "completo",
+      "lesson": {
+        "respuesta_resumida": "A. Atención primaria de salud. La estrategia conjuga promoción, prevención, servicios integrales y continuos y participación comunitaria.",
+        "razonamiento": "El caso retrata un equipo multidisciplinario con trabajo permanente en la comunidad, enfoque de promoción y prevención y cuidado integral. Esa es la estrategia global de Atención Primaria de Salud (APS), un enfoque de organización del sistema que aproxima los servicios a las personas y responde a necesidades durante todo el curso de vida. La salud comunitaria y la medicina familiar son componentes y disciplinas afines, pero la pregunta solicita el marco estratégico más amplio: APS. La clave del PDF es A.",
+        "temario": [
+          "APS: enfoque de toda la sociedad que integra servicios individuales y de salud pública, acciones sobre determinantes sociales y protagonismo de personas, familias y comunidades.",
+          "Integralidad: promoción, prevención, diagnóstico, tratamiento, rehabilitación y cuidados paliativos articulados conforme a necesidades y capacidad resolutiva.",
+          "Longitudinalidad y continuidad: mantener relación y responsabilidad de cuidado en el tiempo; garantizar seguimiento incluso después de referencia, alta o contrarreferencia.",
+          "Accesibilidad y primer contacto: entrada oportuna a servicios apropiados; incluye horario, transporte, idioma, costo y disponibilidad. Emergencias se atienden sin demoras indebidas.",
+          "Coordinación: intercambio seguro de información y referencia/contrarreferencia entre niveles; evita fragmentación asistencial.",
+          "Trabajo interprofesional e intersectorial: integra competencias sanitarias y articulación con educación, gobiernos locales, agua y saneamiento.",
+          "Modelo MCI por curso de vida: aplicación peruana del cuidado centrado en persona, familia y comunidad, incluyendo atención individual, familiar y comunitaria.",
+          "Distinguir APS de primer nivel: el primer nivel es un ámbito organizativo clave, mientras APS es un enfoque para todo el sistema."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Correcta: estrategia de servicios integrales, participación comunitaria, promoción, prevención y continuidad de atención.",
+          "B": "Programas de salud pública pueden ser temáticos o poblacionales, pero no nombran por sí solos el marco integral descrito.",
+          "C": "Salud comunitaria es compatible con varias de las actividades del caso, pero el énfasis en estrategia integral, continuada y permanente corresponde mejor a la APS.",
+          "D": "Medicina familiar y comunitaria es un campo disciplinar y organizativo que contribuye a la APS, sin agotar todos sus componentes intersectoriales y sistémicos."
+        },
+        "normativa": [
+          "OMS: Atención primaria de salud | https://www.who.int/health-topics/primary-health-care | Prestación integral, empoderamiento comunitario y acción multisectorial",
+          "MINSA: Modelo de cuidado integral por curso de vida | https://www.gob.pe/institucion/minsa/informes-publicaciones/1893886-modelo-de-cuidado-integral-de-salud-por-curso-vida-para-la-persona-familia-y-comunidad-mci-documento-tecnico | Operativización del cuidado longitudinal persona-familia-comunidad"
+        ],
+        "mnemotecnia": "APS = ACCESO + PERSONA/FAMILIA + SEGUIMIENTO, con promoción, prevención e intersectorialidad.",
+        "trampas": [
+          "No reducir APS a la consulta del primer nivel ni a atención barata de casos leves.",
+          "La promoción y prevención importan, pero APS también cubre atención curativa y rehabilitación.",
+          "Trabajo comunitario es un componente de APS, no necesariamente una estrategia distinta frente a la descripción del enunciado."
+        ],
+        "perla": "Frase ancla APS: integral + continuo + equipo multidisciplinario + comunidad + promoción/previsión (sin abandonar tratamiento).",
+        "repaso_activo": [
+          "¿Qué diferencia APS de primer nivel? — APS es estrategia de sistema; primer nivel es componente organizativo central.",
+          "¿Qué implica integralidad? — Abordar promoción, prevención, curación, rehabilitación y paliativos según necesidad.",
+          "¿Qué significa continuidad? — Responsabilidad y seguimiento articulado a lo largo del tiempo."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Una RIS atiende a personas con hipertensión y coordina controles, adherencia, educación familiar y referencia con contrarreferencia. ¿Qué atributo se reconoce con mayor claridad?",
+            "alternativas": {
+              "A": "Continuidad y coordinación del cuidado",
+              "B": "Atención exclusivamente hospitalaria",
+              "C": "Vigilancia pasiva como único servicio",
+              "D": "Separación de promoción y tratamiento",
+              "E": "Resolución individual sin redes de referencia"
+            },
+            "respuesta": "A",
+            "explicacion": "El seguimiento longitudinal y el enlace entre niveles son elementos de APS."
+          },
+          {
+            "enunciado": "El equipo de un EESS observa anemia frecuente y trabaja con colegios, familias y municipio para mejorar prácticas alimentarias y acceso a servicios. ¿Qué componente destaca?",
+            "alternativas": {
+              "A": "Dependencia exclusiva del tratamiento individual",
+              "B": "Orientación asistencial únicamente curativa",
+              "C": "Acción intersectorial sobre determinantes sociales",
+              "D": "Sustitución de atención clínica por campañas",
+              "E": "Atención episódica sin responsabilidad poblacional"
+            },
+            "respuesta": "C",
+            "explicacion": "La coordinación con otros sectores para influir en determinantes y capacidades locales es fundamental en APS."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Atención primaria de salud: integralidad, continuidad y comunidad",
+          "eje": "Atención primaria de salud y MCI",
+          "confiabilidad": "clave_resaltada_fundamento_concordante",
+          "respuesta_resumida": "A. Atención primaria de salud. La estrategia conjuga promoción, prevención, servicios integrales y continuos y participación comunitaria.",
+          "razonamiento": [
+            "El caso retrata un equipo multidisciplinario con trabajo permanente en la comunidad, enfoque de promoción y prevención y cuidado integral. Esa es la estrategia global de Atención Primaria de Salud (APS), un enfoque de organización del sistema que aproxima los servicios a las personas y responde a necesidades durante todo el curso de vida. La salud comunitaria y la medicina familiar son componentes y disciplinas afines, pero la pregunta solicita el marco estratégico más amplio: APS. La clave del PDF es A."
+          ],
+          "temario": [
+            "APS: enfoque de toda la sociedad que integra servicios individuales y de salud pública, acciones sobre determinantes sociales y protagonismo de personas, familias y comunidades.",
+            "Integralidad: promoción, prevención, diagnóstico, tratamiento, rehabilitación y cuidados paliativos articulados conforme a necesidades y capacidad resolutiva.",
+            "Longitudinalidad y continuidad: mantener relación y responsabilidad de cuidado en el tiempo; garantizar seguimiento incluso después de referencia, alta o contrarreferencia.",
+            "Accesibilidad y primer contacto: entrada oportuna a servicios apropiados; incluye horario, transporte, idioma, costo y disponibilidad. Emergencias se atienden sin demoras indebidas.",
+            "Coordinación: intercambio seguro de información y referencia/contrarreferencia entre niveles; evita fragmentación asistencial.",
+            "Trabajo interprofesional e intersectorial: integra competencias sanitarias y articulación con educación, gobiernos locales, agua y saneamiento.",
+            "Modelo MCI por curso de vida: aplicación peruana del cuidado centrado en persona, familia y comunidad, incluyendo atención individual, familiar y comunitaria.",
+            "Distinguir APS de primer nivel: el primer nivel es un ámbito organizativo clave, mientras APS es un enfoque para todo el sistema."
+          ],
+          "distractores": {
+            "A": "Correcta: estrategia de servicios integrales, participación comunitaria, promoción, prevención y continuidad de atención.",
+            "B": "Programas de salud pública pueden ser temáticos o poblacionales, pero no nombran por sí solos el marco integral descrito.",
+            "C": "Salud comunitaria es compatible con varias de las actividades del caso, pero el énfasis en estrategia integral, continuada y permanente corresponde mejor a la APS.",
+            "D": "Medicina familiar y comunitaria es un campo disciplinar y organizativo que contribuye a la APS, sin agotar todos sus componentes intersectoriales y sistémicos."
+          },
+          "normativa": [
+            {
+              "nombre": "OMS: Atención primaria de salud",
+              "url": "https://www.who.int/health-topics/primary-health-care",
+              "aplicacion": "Prestación integral, empoderamiento comunitario y acción multisectorial"
+            },
+            {
+              "nombre": "MINSA: Modelo de cuidado integral por curso de vida",
+              "url": "https://www.gob.pe/institucion/minsa/informes-publicaciones/1893886-modelo-de-cuidado-integral-de-salud-por-curso-vida-para-la-persona-familia-y-comunidad-mci-documento-tecnico",
+              "aplicacion": "Operativización del cuidado longitudinal persona-familia-comunidad"
+            }
+          ],
+          "mnemotecnia": "APS = ACCESO + PERSONA/FAMILIA + SEGUIMIENTO, con promoción, prevención e intersectorialidad.",
+          "trampas": [
+            "No reducir APS a la consulta del primer nivel ni a atención barata de casos leves.",
+            "La promoción y prevención importan, pero APS también cubre atención curativa y rehabilitación.",
+            "Trabajo comunitario es un componente de APS, no necesariamente una estrategia distinta frente a la descripción del enunciado."
+          ],
+          "perla": "Frase ancla APS: integral + continuo + equipo multidisciplinario + comunidad + promoción/previsión (sin abandonar tratamiento).",
+          "repaso_activo": [
+            "¿Qué diferencia APS de primer nivel? — APS es estrategia de sistema; primer nivel es componente organizativo central.",
+            "¿Qué implica integralidad? — Abordar promoción, prevención, curación, rehabilitación y paliativos según necesidad.",
+            "¿Qué significa continuidad? — Responsabilidad y seguimiento articulado a lo largo del tiempo."
+          ],
+          "refuerzo": [
+            {
+              "enunciado": "Una RIS atiende a personas con hipertensión y coordina controles, adherencia, educación familiar y referencia con contrarreferencia. ¿Qué atributo se reconoce con mayor claridad?",
+              "alternativas": {
+                "A": "Continuidad y coordinación del cuidado",
+                "B": "Atención exclusivamente hospitalaria",
+                "C": "Vigilancia pasiva como único servicio",
+                "D": "Separación de promoción y tratamiento",
+                "E": "Resolución individual sin redes de referencia"
+              },
+              "respuesta": "A",
+              "explicacion": "El seguimiento longitudinal y el enlace entre niveles son elementos de APS."
+            },
+            {
+              "enunciado": "El equipo de un EESS observa anemia frecuente y trabaja con colegios, familias y municipio para mejorar prácticas alimentarias y acceso a servicios. ¿Qué componente destaca?",
+              "alternativas": {
+                "A": "Dependencia exclusiva del tratamiento individual",
+                "B": "Orientación asistencial únicamente curativa",
+                "C": "Acción intersectorial sobre determinantes sociales",
+                "D": "Sustitución de atención clínica por campañas",
+                "E": "Atención episódica sin responsabilidad poblacional"
+              },
+              "respuesta": "C",
+              "explicacion": "La coordinación con otros sectores para influir en determinantes y capacidades locales es fundamental en APS."
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
