@@ -8071,8 +8071,8 @@
     {
       "number": 33,
       "code": "ENCAPS26-II P033",
-      "course": "ENCAPS Medicina · Por desarrollar",
-      "topic": "ENCAPS Medicina 2026-II",
+      "course": "ESAVI e inmunizaciones",
+      "topic": "ESAVI posterior a DPT: reacción propia del producto y clasificación causal",
       "question": "Madre acude con su niña de 4 años de edad, al servicio de urgencias del Centro de Salud Santa Rosa, por presentar los siguientes signos y síntomas: fiebre 39 °C, malestar general, irritabilidad, dolor, tumefacción y enrojecimiento en el hombro. A la evaluación del caso, madre manifiesta que su niña fue vacunada el día anterior con la vacuna DPT. De acuerdo a la clasificación de caso de ESAVI es un evento …",
       "options": {
         "A": "coincidente.",
@@ -8081,12 +8081,254 @@
         "D": "no concluyente."
       },
       "correct": "C",
-      "comment": "Tema pendiente de desarrollo detallado. La alternativa correcta indicada es la resaltada en el PDF del usuario; todavía no se ha cotejado independientemente contra el listado oficial de claves del MINSA.",
-      "pearl": "",
-      "keywords": [],
-      "estadoDesarrollo": "pendiente",
+      "comment": "Clave C del PDF: reacción relacionada con la vacuna. Fiebre, irritabilidad, dolor, eritema y tumefacción 24 horas después de DPT son manifestaciones reconocidas de reactogenicidad del producto.\n\nUna reacción propia del producto puede producirse aun con conservación y aplicación correctas; un error programático exige falla técnica, de asepsia, cadena de frío, dosis o manipulación. Coincidente implica otra causa independiente.\n\nEl diagnóstico clínico no queda establecido por coincidencia temporal. Una temperatura de 39 °C con inflamación en hombro amerita evaluación de extensión, dolor, evolución, posible infección bacteriana o enfermedad intercurrente; clasificar causalidad formalmente cuando corresponda.\n\nESAVI es un evento supuestamente atribuible, no uno necesariamente causado. Registrar lote, día/hora, síntomas, técnica, otros casos y evolución; notificar según gravedad y reglas nacionales.\n\nDPT: Difteria, pertussis/tos ferina y tétanos; ciertas formulaciones producen fiebre e inflamación local.\n\nReactogenicidad: Propiedades inherentes de vacuna que provocan dolor, tumefacción, eritema, malestar o fiebre.\n\nError programático: Reacción causada por falla prevenible de conservación, preparación, técnica, inyección o administración.\n\nCoincidente: Proceso no relacionado causalmente con inmunización que ocurrió tras vacunación por azar.\n\nNo concluyente: Clasificación para evidencia insuficiente o contradictoria tras evaluación estructurada; no es equivalente a toda reacción no investigada.\n\nGravedad: Separar severidad de síntomas de la condición regulatoria de ESAVI grave (hospitalización, riesgo vital, discapacidad, etc.).\n\nDiagnóstico diferencial: Celulitis, absceso, enfermedad febril viral coincidente, reacción local extensa o adenitis.\n\nEvaluación: Medir área de inflamación, examinar fluctuación y secreción, perfusión, hidratación, sensorio y evolución de fiebre.\n\nNotificación: Usar NotiVAC y los canales epidemiológicos correspondientes; informar sin atribuir causalidad automática.\n\nInvestigación de lote: Comparar afectados, fechas, vías, lugares, preparación, cadena de frío, datos de fabricante y registro.\n\nManejo: Tratar fiebre/dolor, hidratar, vigilar; antibióticos únicamente si se sospecha infección bacteriana.\n\nConsejería: Explicar que la vigilancia investiga la causa y detallar signos de alarma y tiempo de control.\n\nALTERNATIVAS\n\nA: Coincidente exigiría otra enfermedad con relación temporal casual, sin evidencia de efecto de la vacuna.\n\nB: Error programático exige falla técnica o del proceso, no señalada.\n\nC: Clave del PDF: fiebre e inflamación local son reacciones conocidas de DPT.\n\nD: No concluyente requiere evaluación de causalidad sin evidencia suficiente; no es el rótulo de la respuesta del examen.\n\nMNEMOTECNIA\n\nDPT = Dolor, Piel roja, Temperatura. Producto = propiedades de la vacuna; Programático = problema de proceso.\n\nNo confundir temporalidad con causa demostrada.\n\n39 °C exige valoración, no minimizar todos los síntomas como reacción leve.\n\nAbsceso y celulitis son diagnósticos diferenciales.\n\nNo inferir error de administración sin pruebas.\n\nLa clasificación causal no es la clasificación por gravedad.\n\nAlgunos eventos posteriores a vacuna son coincidentes.",
+      "pearl": "P33-C: DPT + dolor/enrojecimiento/tumefacción/fiebre al día siguiente → reacción compatible con vacuna, con evaluación causal pendiente.",
+      "keywords": [
+        "DPT",
+        "ESAVI",
+        "reacción vacunal",
+        "error programático"
+      ],
+      "estadoDesarrollo": "completo",
       "estadoClave": "resaltada_en_pdf_usuario_no_cotejada_independientemente_con_tabla_minsa",
-      "lesson": null
+      "lesson": {
+        "respuesta_resumida": "C. Relacionado con la vacuna",
+        "razonamiento": "Clave C del PDF: reacción relacionada con la vacuna. Fiebre, irritabilidad, dolor, eritema y tumefacción 24 horas después de DPT son manifestaciones reconocidas de reactogenicidad del producto.\n\nUna reacción propia del producto puede producirse aun con conservación y aplicación correctas; un error programático exige falla técnica, de asepsia, cadena de frío, dosis o manipulación. Coincidente implica otra causa independiente.\n\nEl diagnóstico clínico no queda establecido por coincidencia temporal. Una temperatura de 39 °C con inflamación en hombro amerita evaluación de extensión, dolor, evolución, posible infección bacteriana o enfermedad intercurrente; clasificar causalidad formalmente cuando corresponda.\n\nESAVI es un evento supuestamente atribuible, no uno necesariamente causado. Registrar lote, día/hora, síntomas, técnica, otros casos y evolución; notificar según gravedad y reglas nacionales.",
+        "temario": [
+          "DPT: Difteria, pertussis/tos ferina y tétanos; ciertas formulaciones producen fiebre e inflamación local.",
+          "Reactogenicidad: Propiedades inherentes de vacuna que provocan dolor, tumefacción, eritema, malestar o fiebre.",
+          "Error programático: Reacción causada por falla prevenible de conservación, preparación, técnica, inyección o administración.",
+          "Coincidente: Proceso no relacionado causalmente con inmunización que ocurrió tras vacunación por azar.",
+          "No concluyente: Clasificación para evidencia insuficiente o contradictoria tras evaluación estructurada; no es equivalente a toda reacción no investigada.",
+          "Gravedad: Separar severidad de síntomas de la condición regulatoria de ESAVI grave (hospitalización, riesgo vital, discapacidad, etc.).",
+          "Diagnóstico diferencial: Celulitis, absceso, enfermedad febril viral coincidente, reacción local extensa o adenitis.",
+          "Evaluación: Medir área de inflamación, examinar fluctuación y secreción, perfusión, hidratación, sensorio y evolución de fiebre.",
+          "Notificación: Usar NotiVAC y los canales epidemiológicos correspondientes; informar sin atribuir causalidad automática.",
+          "Investigación de lote: Comparar afectados, fechas, vías, lugares, preparación, cadena de frío, datos de fabricante y registro.",
+          "Manejo: Tratar fiebre/dolor, hidratar, vigilar; antibióticos únicamente si se sospecha infección bacteriana.",
+          "Consejería: Explicar que la vigilancia investiga la causa y detallar signos de alarma y tiempo de control."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Coincidente exigiría otra enfermedad con relación temporal casual, sin evidencia de efecto de la vacuna.",
+          "B": "Error programático exige falla técnica o del proceso, no señalada.",
+          "C": "Clave del PDF: fiebre e inflamación local son reacciones conocidas de DPT.",
+          "D": "No concluyente requiere evaluación de causalidad sin evidencia suficiente; no es el rótulo de la respuesta del examen."
+        },
+        "normativa": [
+          {
+            "nombre": "DIGEMID: clasificación de ESAVI",
+            "url": "https://www.digemid.minsa.gob.pe/Archivos/PortalWeb/Informativo/Farmacovigilancia/Informacion/Documento_Orientacion_SospechasRAM-V3.pdf",
+            "aplicacion": "Diferencia producto, errores de inmunización y coincidentes."
+          },
+          {
+            "nombre": "DIGEMID NotiVAC",
+            "url": "https://www.digemid.minsa.gob.pe/webDigemid/formulario-electronico/",
+            "aplicacion": "Sistema de notificación de ESAVI."
+          },
+          {
+            "nombre": "OMS Vaccine Safety",
+            "url": "https://www.who.int/news-room/questions-and-answers/item/vaccines-and-immunization-vaccine-safety",
+            "aplicacion": "La proximidad temporal no demuestra causalidad."
+          }
+        ],
+        "mnemotecnia": "DPT = Dolor, Piel roja, Temperatura. Producto = propiedades de la vacuna; Programático = problema de proceso.",
+        "trampas": [
+          "No confundir temporalidad con causa demostrada.",
+          "39 °C exige valoración, no minimizar todos los síntomas como reacción leve.",
+          "Absceso y celulitis son diagnósticos diferenciales.",
+          "No inferir error de administración sin pruebas.",
+          "La clasificación causal no es la clasificación por gravedad.",
+          "Algunos eventos posteriores a vacuna son coincidentes."
+        ],
+        "perla": "P33-C: DPT + dolor/enrojecimiento/tumefacción/fiebre al día siguiente → reacción compatible con vacuna, con evaluación causal pendiente.",
+        "repaso_activo": [
+          {
+            "pregunta": "¿Cuál es la clave?",
+            "respuesta": "C, relacionada con la vacuna."
+          },
+          {
+            "pregunta": "¿Qué es ESAVI?",
+            "respuesta": "Evento posterior a inmunización sin causalidad automática."
+          },
+          {
+            "pregunta": "¿Qué distingue error programático?",
+            "respuesta": "Falla prevenible del proceso."
+          },
+          {
+            "pregunta": "¿Una fiebre de 39 grados debe evaluarse?",
+            "respuesta": "Sí."
+          },
+          {
+            "pregunta": "¿Quién notifica?",
+            "respuesta": "Personal según sistema oficial y criterios de vigilancia."
+          }
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Niña tiene eritema y dolor local a 18 h de DPT, sin errores conocidos. ¿Qué encaja mejor?",
+            "alternativas": {
+              "A": "Coincidente confirmado",
+              "B": "Error de vía",
+              "C": "Reacción del producto",
+              "D": "No reacción por definición"
+            },
+            "respuesta": "C",
+            "explicacion": "Reactogenicidad local reconocida del producto."
+          },
+          {
+            "enunciado": "Tras malas prácticas de asepsia, tres niños desarrollan abscesos tras una jornada de vacunación. ¿Qué se investiga?",
+            "alternativas": {
+              "A": "Reacción local universal",
+              "B": "Error programático",
+              "C": "Evento psicológico",
+              "D": "Ausencia de relación"
+            },
+            "respuesta": "B",
+            "explicacion": "Hay sospecha de falla prevenible en el proceso de inmunización."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "ESAVI posterior a DPT: reacción propia del producto y clasificación causal",
+          "eje": "Inmunizaciones y farmacovigilancia",
+          "confiabilidad": "Clave C resaltada en PDF; atribución definitiva requiere evaluación",
+          "respuesta_resumida": "C. Relacionado con la vacuna",
+          "razonamiento": [
+            "Clave C del PDF: reacción relacionada con la vacuna. Fiebre, irritabilidad, dolor, eritema y tumefacción 24 horas después de DPT son manifestaciones reconocidas de reactogenicidad del producto.",
+            "Una reacción propia del producto puede producirse aun con conservación y aplicación correctas; un error programático exige falla técnica, de asepsia, cadena de frío, dosis o manipulación. Coincidente implica otra causa independiente.",
+            "El diagnóstico clínico no queda establecido por coincidencia temporal. Una temperatura de 39 °C con inflamación en hombro amerita evaluación de extensión, dolor, evolución, posible infección bacteriana o enfermedad intercurrente; clasificar causalidad formalmente cuando corresponda.",
+            "ESAVI es un evento supuestamente atribuible, no uno necesariamente causado. Registrar lote, día/hora, síntomas, técnica, otros casos y evolución; notificar según gravedad y reglas nacionales."
+          ],
+          "temario": [
+            {
+              "subtitulo": "DPT",
+              "texto": "Difteria, pertussis/tos ferina y tétanos; ciertas formulaciones producen fiebre e inflamación local."
+            },
+            {
+              "subtitulo": "Reactogenicidad",
+              "texto": "Propiedades inherentes de vacuna que provocan dolor, tumefacción, eritema, malestar o fiebre."
+            },
+            {
+              "subtitulo": "Error programático",
+              "texto": "Reacción causada por falla prevenible de conservación, preparación, técnica, inyección o administración."
+            },
+            {
+              "subtitulo": "Coincidente",
+              "texto": "Proceso no relacionado causalmente con inmunización que ocurrió tras vacunación por azar."
+            },
+            {
+              "subtitulo": "No concluyente",
+              "texto": "Clasificación para evidencia insuficiente o contradictoria tras evaluación estructurada; no es equivalente a toda reacción no investigada."
+            },
+            {
+              "subtitulo": "Gravedad",
+              "texto": "Separar severidad de síntomas de la condición regulatoria de ESAVI grave (hospitalización, riesgo vital, discapacidad, etc.)."
+            },
+            {
+              "subtitulo": "Diagnóstico diferencial",
+              "texto": "Celulitis, absceso, enfermedad febril viral coincidente, reacción local extensa o adenitis."
+            },
+            {
+              "subtitulo": "Evaluación",
+              "texto": "Medir área de inflamación, examinar fluctuación y secreción, perfusión, hidratación, sensorio y evolución de fiebre."
+            },
+            {
+              "subtitulo": "Notificación",
+              "texto": "Usar NotiVAC y los canales epidemiológicos correspondientes; informar sin atribuir causalidad automática."
+            },
+            {
+              "subtitulo": "Investigación de lote",
+              "texto": "Comparar afectados, fechas, vías, lugares, preparación, cadena de frío, datos de fabricante y registro."
+            },
+            {
+              "subtitulo": "Manejo",
+              "texto": "Tratar fiebre/dolor, hidratar, vigilar; antibióticos únicamente si se sospecha infección bacteriana."
+            },
+            {
+              "subtitulo": "Consejería",
+              "texto": "Explicar que la vigilancia investiga la causa y detallar signos de alarma y tiempo de control."
+            }
+          ],
+          "distractores": {
+            "A": "Coincidente exigiría otra enfermedad con relación temporal casual, sin evidencia de efecto de la vacuna.",
+            "B": "Error programático exige falla técnica o del proceso, no señalada.",
+            "C": "Clave del PDF: fiebre e inflamación local son reacciones conocidas de DPT.",
+            "D": "No concluyente requiere evaluación de causalidad sin evidencia suficiente; no es el rótulo de la respuesta del examen."
+          },
+          "normativa": [
+            {
+              "nombre": "DIGEMID: clasificación de ESAVI",
+              "url": "https://www.digemid.minsa.gob.pe/Archivos/PortalWeb/Informativo/Farmacovigilancia/Informacion/Documento_Orientacion_SospechasRAM-V3.pdf",
+              "aplicacion": "Diferencia producto, errores de inmunización y coincidentes."
+            },
+            {
+              "nombre": "DIGEMID NotiVAC",
+              "url": "https://www.digemid.minsa.gob.pe/webDigemid/formulario-electronico/",
+              "aplicacion": "Sistema de notificación de ESAVI."
+            },
+            {
+              "nombre": "OMS Vaccine Safety",
+              "url": "https://www.who.int/news-room/questions-and-answers/item/vaccines-and-immunization-vaccine-safety",
+              "aplicacion": "La proximidad temporal no demuestra causalidad."
+            }
+          ],
+          "mnemotecnia": "DPT = Dolor, Piel roja, Temperatura. Producto = propiedades de la vacuna; Programático = problema de proceso.",
+          "trampas": [
+            "No confundir temporalidad con causa demostrada.",
+            "39 °C exige valoración, no minimizar todos los síntomas como reacción leve.",
+            "Absceso y celulitis son diagnósticos diferenciales.",
+            "No inferir error de administración sin pruebas.",
+            "La clasificación causal no es la clasificación por gravedad.",
+            "Algunos eventos posteriores a vacuna son coincidentes."
+          ],
+          "perla": "P33-C: DPT + dolor/enrojecimiento/tumefacción/fiebre al día siguiente → reacción compatible con vacuna, con evaluación causal pendiente.",
+          "repaso_activo": [
+            {
+              "pregunta": "¿Cuál es la clave?",
+              "respuesta": "C, relacionada con la vacuna."
+            },
+            {
+              "pregunta": "¿Qué es ESAVI?",
+              "respuesta": "Evento posterior a inmunización sin causalidad automática."
+            },
+            {
+              "pregunta": "¿Qué distingue error programático?",
+              "respuesta": "Falla prevenible del proceso."
+            },
+            {
+              "pregunta": "¿Una fiebre de 39 grados debe evaluarse?",
+              "respuesta": "Sí."
+            },
+            {
+              "pregunta": "¿Quién notifica?",
+              "respuesta": "Personal según sistema oficial y criterios de vigilancia."
+            }
+          ],
+          "refuerzo": [
+            {
+              "enunciado": "Niña tiene eritema y dolor local a 18 h de DPT, sin errores conocidos. ¿Qué encaja mejor?",
+              "alternativas": {
+                "A": "Coincidente confirmado",
+                "B": "Error de vía",
+                "C": "Reacción del producto",
+                "D": "No reacción por definición"
+              },
+              "respuesta": "C",
+              "explicacion": "Reactogenicidad local reconocida del producto."
+            },
+            {
+              "enunciado": "Tras malas prácticas de asepsia, tres niños desarrollan abscesos tras una jornada de vacunación. ¿Qué se investiga?",
+              "alternativas": {
+                "A": "Reacción local universal",
+                "B": "Error programático",
+                "C": "Evento psicológico",
+                "D": "Ausencia de relación"
+              },
+              "respuesta": "B",
+              "explicacion": "Hay sospecha de falla prevenible en el proceso de inmunización."
+            }
+          ]
+        }
+      }
     },
     {
       "number": 34,
