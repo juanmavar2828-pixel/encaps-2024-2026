@@ -5795,8 +5795,8 @@
     {
       "number": 25,
       "code": "ENCAPS26-II P025",
-      "course": "ENCAPS Medicina · Por desarrollar",
-      "topic": "ENCAPS Medicina 2026-II",
+      "course": "Epidemiología · Rubéola",
+      "topic": "Rubéola: etapa subclínica y exposición en gestante",
       "question": "En una comunidad altoandina, se presentan varios casos de rubéola; una gestante de 7 semanas expuesta, acude al establecimiento de salud sin síntomas. Según la historia natural de la enfermedad. ¿En qué momento del proceso se encuentra?",
       "options": {
         "A": "Clínico",
@@ -5805,12 +5805,276 @@
         "D": "Inducción"
       },
       "correct": "C",
-      "comment": "Tema pendiente de desarrollo detallado. La alternativa correcta indicada es la resaltada en el PDF del usuario; todavía no se ha cotejado independientemente contra el listado oficial de claves del MINSA.",
-      "pearl": "",
-      "keywords": [],
-      "estadoDesarrollo": "pendiente",
+      "comment": "La respuesta resaltada en el PDF es C, SUBCLÍNICO. El caso describe una gestante de 7 semanas expuesta a rubéola en su comunidad que todavía no presenta manifestaciones. El examen considera una fase sin síntomas dentro de la historia natural de la enfermedad.\n\nLa fase subclínica o preclínica sigue a la infección e incluye incubación y cambios no visibles clínicamente. En rubéola, los síntomas suelen aparecer tras dos o tres semanas de exposición; es posible cursar sin manifestaciones detectables, y en embarazadas una infección temprana puede comprometer gravemente al feto.\n\nLIMITACIÓN DEL ENUNCIADO: haber estado EXPUESTA a rubéola no confirma que la persona se haya infectado. Si no existe infección, todavía no puede afirmarse que esté en período subclínico: podría estar en exposición/prepatogénesis, ser inmune o no haberse contagiado. Se respeta C como clave del examen, pero en la atención real debe evaluarse inmunidad y posible infección.\n\nDurante el primer trimestre la exposición a rubéola amerita evaluación prioritaria y coordinación con vigilancia/obstetricia. Se registran fechas de contacto y síntomas, antecedente de vacunación, IgG y pruebas dirigidas según algoritmo para contactos expuestos; un resultado IgM aislado puede ser falso positivo y requiere interpretación experta.\n\nLa vacuna contra rubéola, viva atenuada, no se aplica durante gestación. Si la paciente es susceptible y no se infectó, la inmunización se planifica para después del parto, según normativa. Una ausencia de exantema no descarta infección ni riesgo fetal.\n\nHistoria natural: Secuencia desde exposición y susceptibilidad hasta infección, incubación, enfermedad clínica y desenlace. Distinguir etapas del huésped y niveles de prevención.\n\nPeríodo prepatogénico: Antes de establecerse infección: interacción entre agente, huésped y ambiente, exposición y susceptibilidad. Riesgos y medidas de prevención primaria actúan aquí.\n\nPeríodo subclínico: Tras ingreso del agente y establecimiento de infección, pero antes de signos/síntomas. Puede existir incubación, replicación viral y cambios de laboratorio; también infección asintomática.\n\nPeríodo clínico: Aparecen manifestaciones reconocibles, por ejemplo fiebre, exantema y adenopatías posteriores en rubéola, aunque su expresión es variable.\n\nResolución: Tras la enfermedad puede haber recuperación, secuelas u otros desenlaces. La rubéola en gestación temprana puede producir efectos fetales aun cuando la madre se recupere.\n\nRubéola: incubación: El tiempo entre exposición e inicio de síntomas suele ser 2 a 3 semanas, mientras el virus puede replicarse antes de manifestaciones. La ausencia de síntomas por pocos días no confirma protección.\n\nSíndrome de rubéola congénita: Infección durante embarazo temprano puede provocar pérdida gestacional o síndrome congénito con alteraciones auditivas, oculares, cardíacas y otras; el riesgo es especialmente elevado en primer trimestre.\n\nExposición no es infección: El examen supone una evolución subclínica, pero un contacto no demuestra infección. Diferenciar vacunada/inmune, susceptible expuesta, infectada asintomática y enfermedad manifiesta.\n\nDiagnóstico y vigilancia: Tomar historia de contacto, vacunación, evolución y pruebas apropiadas; IgG informa inmunidad, IgM puede apoyar sospecha en contexto epidemiológico, pero requiere confirmación por falsos positivos y momento de muestra. Seguir algoritmo regional para gestantes expuestas.\n\nManejo en gestación: Coordinar obstetricia y epidemiología, ofrecer consejería sobre riesgos y seguimiento. No administrar vacuna viva SR/SRP durante embarazo. No prometer que ser asintomática excluye afectación fetal.\n\nPrevención: Antes del embarazo: vacunación y protección comunitaria. Después de exposición: identificación temprana y vigilancia. Durante enfermedad: medidas para evitar propagación y cuidado de complicaciones.\n\nDiferencias con inducción: Inducción puede usarse en ciertos esquemas para el proceso previo a resultados observables o período de latencia, pero no es la respuesta que el examen espera; describir el modelo que utiliza la pregunta, sin universalizar terminología.\n\nA: Clínico requeriría manifestaciones reconocibles, ausentes en el caso.\n\nB: Resolutivo corresponde a etapa posterior o desenlace, no solo exposición reciente.\n\nC: Clave resaltada: fase sin manifestaciones en la lógica del examen, asumiendo infección ya iniciada.\n\nD: Inducción no es la fase que el cuadernillo selecciona; además, exposición aislada no basta para establecer infección y fase subclínica.\n\nMNEMOTECNIA\n\nSUBCLÍNICO = el VIRUS trabaja en SILENCIO; CLÍNICO = aparecen síntomas; RESOLUTIVO = resultado. Pero EXPOSICIÓN ≠ INFECCIÓN: el contacto todavía necesita evaluación.\n\nTRAMPAS\n\nContacto con rubéola no demuestra infección.\n\nAsintomática no significa necesariamente inmune.\n\nNo atribuir fase subclínica confirmada a toda persona expuesta.\n\nLa infección en primer trimestre tiene riesgo fetal especialmente importante.\n\nIgM positiva aislada puede ser falsa positiva; interpretar en contexto.\n\nSR/SRP con virus vivos no se aplica rutinariamente a gestante.\n\nLa inmunidad se evalúa mediante IgG y antecedentes según protocolos.\n\nNo confundir período prepatogénico y período de incubación una vez adquirida infección.\n\nPERLA\n\nP25-C: clave SUBCLÍNICO = infección sin síntomas. Trampa clínica: estar EXPUÉSTA no confirma que esté infectada.",
+      "pearl": "P25-C: clave SUBCLÍNICO = infección sin síntomas. Trampa clínica: estar EXPUÉSTA no confirma que esté infectada.",
+      "keywords": [
+        "rubéola",
+        "subclínico",
+        "incubación",
+        "gestante",
+        "historia natural"
+      ],
+      "estadoDesarrollo": "completo",
       "estadoClave": "resaltada_en_pdf_usuario_no_cotejada_independientemente_con_tabla_minsa",
-      "lesson": null
+      "lesson": {
+        "respuesta_resumida": "C. Subclínico — clave PDF",
+        "razonamiento": "La respuesta resaltada en el PDF es C, SUBCLÍNICO. El caso describe una gestante de 7 semanas expuesta a rubéola en su comunidad que todavía no presenta manifestaciones. El examen considera una fase sin síntomas dentro de la historia natural de la enfermedad.\n\nLa fase subclínica o preclínica sigue a la infección e incluye incubación y cambios no visibles clínicamente. En rubéola, los síntomas suelen aparecer tras dos o tres semanas de exposición; es posible cursar sin manifestaciones detectables, y en embarazadas una infección temprana puede comprometer gravemente al feto.\n\nLIMITACIÓN DEL ENUNCIADO: haber estado EXPUESTA a rubéola no confirma que la persona se haya infectado. Si no existe infección, todavía no puede afirmarse que esté en período subclínico: podría estar en exposición/prepatogénesis, ser inmune o no haberse contagiado. Se respeta C como clave del examen, pero en la atención real debe evaluarse inmunidad y posible infección.\n\nDurante el primer trimestre la exposición a rubéola amerita evaluación prioritaria y coordinación con vigilancia/obstetricia. Se registran fechas de contacto y síntomas, antecedente de vacunación, IgG y pruebas dirigidas según algoritmo para contactos expuestos; un resultado IgM aislado puede ser falso positivo y requiere interpretación experta.\n\nLa vacuna contra rubéola, viva atenuada, no se aplica durante gestación. Si la paciente es susceptible y no se infectó, la inmunización se planifica para después del parto, según normativa. Una ausencia de exantema no descarta infección ni riesgo fetal.",
+        "temario": [
+          "Historia natural: Secuencia desde exposición y susceptibilidad hasta infección, incubación, enfermedad clínica y desenlace. Distinguir etapas del huésped y niveles de prevención.",
+          "Período prepatogénico: Antes de establecerse infección: interacción entre agente, huésped y ambiente, exposición y susceptibilidad. Riesgos y medidas de prevención primaria actúan aquí.",
+          "Período subclínico: Tras ingreso del agente y establecimiento de infección, pero antes de signos/síntomas. Puede existir incubación, replicación viral y cambios de laboratorio; también infección asintomática.",
+          "Período clínico: Aparecen manifestaciones reconocibles, por ejemplo fiebre, exantema y adenopatías posteriores en rubéola, aunque su expresión es variable.",
+          "Resolución: Tras la enfermedad puede haber recuperación, secuelas u otros desenlaces. La rubéola en gestación temprana puede producir efectos fetales aun cuando la madre se recupere.",
+          "Rubéola: incubación: El tiempo entre exposición e inicio de síntomas suele ser 2 a 3 semanas, mientras el virus puede replicarse antes de manifestaciones. La ausencia de síntomas por pocos días no confirma protección.",
+          "Síndrome de rubéola congénita: Infección durante embarazo temprano puede provocar pérdida gestacional o síndrome congénito con alteraciones auditivas, oculares, cardíacas y otras; el riesgo es especialmente elevado en primer trimestre.",
+          "Exposición no es infección: El examen supone una evolución subclínica, pero un contacto no demuestra infección. Diferenciar vacunada/inmune, susceptible expuesta, infectada asintomática y enfermedad manifiesta.",
+          "Diagnóstico y vigilancia: Tomar historia de contacto, vacunación, evolución y pruebas apropiadas; IgG informa inmunidad, IgM puede apoyar sospecha en contexto epidemiológico, pero requiere confirmación por falsos positivos y momento de muestra. Seguir algoritmo regional para gestantes expuestas.",
+          "Manejo en gestación: Coordinar obstetricia y epidemiología, ofrecer consejería sobre riesgos y seguimiento. No administrar vacuna viva SR/SRP durante embarazo. No prometer que ser asintomática excluye afectación fetal.",
+          "Prevención: Antes del embarazo: vacunación y protección comunitaria. Después de exposición: identificación temprana y vigilancia. Durante enfermedad: medidas para evitar propagación y cuidado de complicaciones.",
+          "Diferencias con inducción: Inducción puede usarse en ciertos esquemas para el proceso previo a resultados observables o período de latencia, pero no es la respuesta que el examen espera; describir el modelo que utiliza la pregunta, sin universalizar terminología."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Clínico requeriría manifestaciones reconocibles, ausentes en el caso.",
+          "B": "Resolutivo corresponde a etapa posterior o desenlace, no solo exposición reciente.",
+          "C": "Clave resaltada: fase sin manifestaciones en la lógica del examen, asumiendo infección ya iniciada.",
+          "D": "Inducción no es la fase que el cuadernillo selecciona; además, exposición aislada no basta para establecer infección y fase subclínica."
+        },
+        "normativa": [
+          {
+            "nombre": "OMS — Rubéola, hoja informativa",
+            "url": "https://www.who.int/es/news-room/fact-sheets/detail/rubella",
+            "aplicacion": "Incubación, presentación clínica y riesgos fetales de infección en embarazo temprano."
+          },
+          {
+            "nombre": "CDC — Manual de vigilancia: rubéola y gestantes expuestas",
+            "url": "https://www.cdc.gov/surv-manual/php/table-of-contents/chapter-14-rubella.html",
+            "aplicacion": "Seguimiento de contactos gestantes y evaluación epidemiológica/laboratorial."
+          },
+          {
+            "nombre": "CDC — Pruebas serológicas para rubéola",
+            "url": "https://www.cdc.gov/rubella/php/laboratories/serology-testing.html",
+            "aplicacion": "IgG, IgM, avidez, falsas reacciones y uso de pruebas en embarazo."
+          }
+        ],
+        "mnemotecnia": "SUBCLÍNICO = el VIRUS trabaja en SILENCIO; CLÍNICO = aparecen síntomas; RESOLUTIVO = resultado. Pero EXPOSICIÓN ≠ INFECCIÓN: el contacto todavía necesita evaluación.",
+        "trampas": [
+          "Contacto con rubéola no demuestra infección.",
+          "Asintomática no significa necesariamente inmune.",
+          "No atribuir fase subclínica confirmada a toda persona expuesta.",
+          "La infección en primer trimestre tiene riesgo fetal especialmente importante.",
+          "IgM positiva aislada puede ser falsa positiva; interpretar en contexto.",
+          "SR/SRP con virus vivos no se aplica rutinariamente a gestante.",
+          "La inmunidad se evalúa mediante IgG y antecedentes según protocolos.",
+          "No confundir período prepatogénico y período de incubación una vez adquirida infección."
+        ],
+        "perla": "P25-C: clave SUBCLÍNICO = infección sin síntomas. Trampa clínica: estar EXPUÉSTA no confirma que esté infectada.",
+        "repaso_activo": [
+          {
+            "pregunta": "¿Cuál es la clave resaltada?",
+            "respuesta": "C, subclínico."
+          },
+          {
+            "pregunta": "¿Qué significa período subclínico?",
+            "respuesta": "Infección existente sin manifestaciones clínicas reconocibles."
+          },
+          {
+            "pregunta": "¿Exposición confirma infección?",
+            "respuesta": "No."
+          },
+          {
+            "pregunta": "¿La rubéola puede ser asintomática?",
+            "respuesta": "Sí."
+          },
+          {
+            "pregunta": "¿Cuándo es particularmente grave para el feto?",
+            "respuesta": "Primer trimestre."
+          },
+          {
+            "pregunta": "¿Se vacuna SR a gestante?",
+            "respuesta": "No de rutina; es vacuna viva atenuada."
+          },
+          {
+            "pregunta": "¿Qué prueba valora inmunidad previa?",
+            "respuesta": "IgG específica interpretada según algoritmo."
+          }
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Persona susceptible infectada por rubéola presenta replicación viral comprobada, pero aún sin fiebre ni exantema. ¿Qué fase corresponde?",
+            "alternativas": {
+              "A": "Clínica",
+              "B": "Resolutiva",
+              "C": "Subclínica",
+              "D": "Secuelar"
+            },
+            "respuesta": "C",
+            "explicacion": "Hay infección establecida sin síntomas: fase subclínica."
+          },
+          {
+            "enunciado": "Gestante de 8 semanas tuvo contacto con caso confirmado de rubéola pero está asintomática; no se conoce su inmunidad. ¿Cuál es la interpretación correcta?",
+            "alternativas": {
+              "A": "Tiene rubéola confirmada.",
+              "B": "No requiere evaluación porque no tiene exantema.",
+              "C": "Debe recibir SRP inmediatamente.",
+              "D": "Exposición no demuestra infección; requiere evaluación de inmunidad y contacto según algoritmo."
+            },
+            "respuesta": "D",
+            "explicacion": "Diferenciar exposición de infección es esencial; la vacuna viva se evita en embarazo."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Rubéola: etapa subclínica y exposición en gestante",
+          "eje": "Historia natural / Zoonosis y enfermedades inmunoprevenibles",
+          "confiabilidad": "Clave resaltada en PDF; exposición no equivale a infección confirmada",
+          "respuesta_resumida": "C. Subclínico",
+          "razonamiento": [
+            "La respuesta resaltada en el PDF es C, SUBCLÍNICO. El caso describe una gestante de 7 semanas expuesta a rubéola en su comunidad que todavía no presenta manifestaciones. El examen considera una fase sin síntomas dentro de la historia natural de la enfermedad.",
+            "La fase subclínica o preclínica sigue a la infección e incluye incubación y cambios no visibles clínicamente. En rubéola, los síntomas suelen aparecer tras dos o tres semanas de exposición; es posible cursar sin manifestaciones detectables, y en embarazadas una infección temprana puede comprometer gravemente al feto.",
+            "LIMITACIÓN DEL ENUNCIADO: haber estado EXPUESTA a rubéola no confirma que la persona se haya infectado. Si no existe infección, todavía no puede afirmarse que esté en período subclínico: podría estar en exposición/prepatogénesis, ser inmune o no haberse contagiado. Se respeta C como clave del examen, pero en la atención real debe evaluarse inmunidad y posible infección.",
+            "Durante el primer trimestre la exposición a rubéola amerita evaluación prioritaria y coordinación con vigilancia/obstetricia. Se registran fechas de contacto y síntomas, antecedente de vacunación, IgG y pruebas dirigidas según algoritmo para contactos expuestos; un resultado IgM aislado puede ser falso positivo y requiere interpretación experta.",
+            "La vacuna contra rubéola, viva atenuada, no se aplica durante gestación. Si la paciente es susceptible y no se infectó, la inmunización se planifica para después del parto, según normativa. Una ausencia de exantema no descarta infección ni riesgo fetal."
+          ],
+          "temario": [
+            {
+              "subtitulo": "Historia natural",
+              "texto": "Secuencia desde exposición y susceptibilidad hasta infección, incubación, enfermedad clínica y desenlace. Distinguir etapas del huésped y niveles de prevención."
+            },
+            {
+              "subtitulo": "Período prepatogénico",
+              "texto": "Antes de establecerse infección: interacción entre agente, huésped y ambiente, exposición y susceptibilidad. Riesgos y medidas de prevención primaria actúan aquí."
+            },
+            {
+              "subtitulo": "Período subclínico",
+              "texto": "Tras ingreso del agente y establecimiento de infección, pero antes de signos/síntomas. Puede existir incubación, replicación viral y cambios de laboratorio; también infección asintomática."
+            },
+            {
+              "subtitulo": "Período clínico",
+              "texto": "Aparecen manifestaciones reconocibles, por ejemplo fiebre, exantema y adenopatías posteriores en rubéola, aunque su expresión es variable."
+            },
+            {
+              "subtitulo": "Resolución",
+              "texto": "Tras la enfermedad puede haber recuperación, secuelas u otros desenlaces. La rubéola en gestación temprana puede producir efectos fetales aun cuando la madre se recupere."
+            },
+            {
+              "subtitulo": "Rubéola: incubación",
+              "texto": "El tiempo entre exposición e inicio de síntomas suele ser 2 a 3 semanas, mientras el virus puede replicarse antes de manifestaciones. La ausencia de síntomas por pocos días no confirma protección."
+            },
+            {
+              "subtitulo": "Síndrome de rubéola congénita",
+              "texto": "Infección durante embarazo temprano puede provocar pérdida gestacional o síndrome congénito con alteraciones auditivas, oculares, cardíacas y otras; el riesgo es especialmente elevado en primer trimestre."
+            },
+            {
+              "subtitulo": "Exposición no es infección",
+              "texto": "El examen supone una evolución subclínica, pero un contacto no demuestra infección. Diferenciar vacunada/inmune, susceptible expuesta, infectada asintomática y enfermedad manifiesta."
+            },
+            {
+              "subtitulo": "Diagnóstico y vigilancia",
+              "texto": "Tomar historia de contacto, vacunación, evolución y pruebas apropiadas; IgG informa inmunidad, IgM puede apoyar sospecha en contexto epidemiológico, pero requiere confirmación por falsos positivos y momento de muestra. Seguir algoritmo regional para gestantes expuestas."
+            },
+            {
+              "subtitulo": "Manejo en gestación",
+              "texto": "Coordinar obstetricia y epidemiología, ofrecer consejería sobre riesgos y seguimiento. No administrar vacuna viva SR/SRP durante embarazo. No prometer que ser asintomática excluye afectación fetal."
+            },
+            {
+              "subtitulo": "Prevención",
+              "texto": "Antes del embarazo: vacunación y protección comunitaria. Después de exposición: identificación temprana y vigilancia. Durante enfermedad: medidas para evitar propagación y cuidado de complicaciones."
+            },
+            {
+              "subtitulo": "Diferencias con inducción",
+              "texto": "Inducción puede usarse en ciertos esquemas para el proceso previo a resultados observables o período de latencia, pero no es la respuesta que el examen espera; describir el modelo que utiliza la pregunta, sin universalizar terminología."
+            }
+          ],
+          "distractores": {
+            "A": "Clínico requeriría manifestaciones reconocibles, ausentes en el caso.",
+            "B": "Resolutivo corresponde a etapa posterior o desenlace, no solo exposición reciente.",
+            "C": "Clave resaltada: fase sin manifestaciones en la lógica del examen, asumiendo infección ya iniciada.",
+            "D": "Inducción no es la fase que el cuadernillo selecciona; además, exposición aislada no basta para establecer infección y fase subclínica."
+          },
+          "normativa": [
+            {
+              "nombre": "OMS — Rubéola, hoja informativa",
+              "url": "https://www.who.int/es/news-room/fact-sheets/detail/rubella",
+              "aplicacion": "Incubación, presentación clínica y riesgos fetales de infección en embarazo temprano."
+            },
+            {
+              "nombre": "CDC — Manual de vigilancia: rubéola y gestantes expuestas",
+              "url": "https://www.cdc.gov/surv-manual/php/table-of-contents/chapter-14-rubella.html",
+              "aplicacion": "Seguimiento de contactos gestantes y evaluación epidemiológica/laboratorial."
+            },
+            {
+              "nombre": "CDC — Pruebas serológicas para rubéola",
+              "url": "https://www.cdc.gov/rubella/php/laboratories/serology-testing.html",
+              "aplicacion": "IgG, IgM, avidez, falsas reacciones y uso de pruebas en embarazo."
+            }
+          ],
+          "mnemotecnia": "SUBCLÍNICO = el VIRUS trabaja en SILENCIO; CLÍNICO = aparecen síntomas; RESOLUTIVO = resultado. Pero EXPOSICIÓN ≠ INFECCIÓN: el contacto todavía necesita evaluación.",
+          "trampas": [
+            "Contacto con rubéola no demuestra infección.",
+            "Asintomática no significa necesariamente inmune.",
+            "No atribuir fase subclínica confirmada a toda persona expuesta.",
+            "La infección en primer trimestre tiene riesgo fetal especialmente importante.",
+            "IgM positiva aislada puede ser falsa positiva; interpretar en contexto.",
+            "SR/SRP con virus vivos no se aplica rutinariamente a gestante.",
+            "La inmunidad se evalúa mediante IgG y antecedentes según protocolos.",
+            "No confundir período prepatogénico y período de incubación una vez adquirida infección."
+          ],
+          "perla": "P25-C: clave SUBCLÍNICO = infección sin síntomas. Trampa clínica: estar EXPUÉSTA no confirma que esté infectada.",
+          "repaso_activo": [
+            {
+              "pregunta": "¿Cuál es la clave resaltada?",
+              "respuesta": "C, subclínico."
+            },
+            {
+              "pregunta": "¿Qué significa período subclínico?",
+              "respuesta": "Infección existente sin manifestaciones clínicas reconocibles."
+            },
+            {
+              "pregunta": "¿Exposición confirma infección?",
+              "respuesta": "No."
+            },
+            {
+              "pregunta": "¿La rubéola puede ser asintomática?",
+              "respuesta": "Sí."
+            },
+            {
+              "pregunta": "¿Cuándo es particularmente grave para el feto?",
+              "respuesta": "Primer trimestre."
+            },
+            {
+              "pregunta": "¿Se vacuna SR a gestante?",
+              "respuesta": "No de rutina; es vacuna viva atenuada."
+            },
+            {
+              "pregunta": "¿Qué prueba valora inmunidad previa?",
+              "respuesta": "IgG específica interpretada según algoritmo."
+            }
+          ],
+          "refuerzo": [
+            {
+              "enunciado": "Persona susceptible infectada por rubéola presenta replicación viral comprobada, pero aún sin fiebre ni exantema. ¿Qué fase corresponde?",
+              "alternativas": {
+                "A": "Clínica",
+                "B": "Resolutiva",
+                "C": "Subclínica",
+                "D": "Secuelar"
+              },
+              "respuesta": "C",
+              "explicacion": "Hay infección establecida sin síntomas: fase subclínica."
+            },
+            {
+              "enunciado": "Gestante de 8 semanas tuvo contacto con caso confirmado de rubéola pero está asintomática; no se conoce su inmunidad. ¿Cuál es la interpretación correcta?",
+              "alternativas": {
+                "A": "Tiene rubéola confirmada.",
+                "B": "No requiere evaluación porque no tiene exantema.",
+                "C": "Debe recibir SRP inmediatamente.",
+                "D": "Exposición no demuestra infección; requiere evaluación de inmunidad y contacto según algoritmo."
+              },
+              "respuesta": "D",
+              "explicacion": "Diferenciar exposición de infección es esencial; la vacuna viva se evita en embarazo."
+            }
+          ]
+        }
+      }
     },
     {
       "number": 26,
