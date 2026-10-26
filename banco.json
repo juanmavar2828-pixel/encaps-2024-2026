@@ -9774,8 +9774,8 @@
     {
       "number": 39,
       "code": "ENCAPS26-II P039",
-      "course": "ENCAPS Medicina · Por desarrollar",
-      "topic": "ENCAPS Medicina 2026-II",
+      "course": "Metodología de investigación · Epidemiología",
+      "topic": "Estudio descriptivo: caracterización de viviendas sin explorar asociaciones ni efectos",
       "question": "Se necesita realizar un estudio descriptivo en la comunidad de Tornameza-Huarochirí, para conocer las características de la población que acude a nuestro establecimiento de salud. ¿Cuál de las siguientes investigaciones cumple las características de un estudio descriptivo?",
       "options": {
         "A": "Aspectos y características de las viviendas de la población estudio",
@@ -9784,18 +9784,282 @@
         "D": "Efectos del tipo de vivienda en la morbilidad familiar de la población estudio"
       },
       "correct": "A",
-      "comment": "Tema pendiente de desarrollo detallado. La alternativa correcta indicada es la resaltada en el PDF del usuario; todavía no se ha cotejado independientemente contra el listado oficial de claves del MINSA.",
-      "pearl": "",
-      "keywords": [],
-      "estadoDesarrollo": "pendiente",
+      "comment": "A. Aspectos y características de las viviendas de la población estudio\n\nLa respuesta resaltada es A: «Aspectos y características de las viviendas de la población de estudio». La finalidad es DESCRIBIR un fenómeno sin preguntar qué factor produce otro. Se observarían materiales del techo y paredes, distribución de ambientes, agua, alcantarillado, ventilación y hacinamiento, con frecuencias, proporciones y tablas de características.\n\nLas alternativas B, C y D cambian el verbo decisivo. B pregunta por RELACIÓN de tipo de vivienda e ingreso mensual (planteamiento analítico/correlacional). C por EFECTOS de un temblor según vivienda (comparación de daños y variables explicativas). D por EFECTO de vivienda sobre morbilidad familiar (hipótesis etiológica/causal), que necesita diseños y control de confundidores para sostener conclusiones.\n\nEl estudio descriptivo no necesita manipular variables ni asignar exposición; puede ser una encuesta transversal, observación o análisis de registros. Responde ¿cómo es?, ¿cuánto?, ¿cuáles son las características? Un estudio puede describir varias variables simultáneamente sin buscar efecto entre ellas.\n\nLa frase «población que acude a nuestro establecimiento» es crítica: si se recluta solo entre usuarios, los hallazgos describen USUARIOS, no necesariamente toda la comunidad Tornameza-Huarochirí. Podrían excluirse viviendas de familias que no consultan; la representatividad depende del marco, selección y tasas de respuesta.\n\nMedir tipo de vivienda e ingreso por separado sigue siendo descriptivo; plantear si uno se relaciona con el otro desplaza el objetivo hacia asociación. Un estudio transversal analítico puede estimar asociación, pero no demostrar automáticamente que un ingreso causa el tipo de vivienda o viceversa.\n\nDefinición: Investigación descriptiva observa y caracteriza propiedades, magnitudes, comportamientos o distribución de fenómenos en población y período concretos, sin pretender demostrar causas de sus relaciones.\n\nObjetivos descriptivos: Verbos caracterizar, describir, determinar frecuencia, clasificar, enumerar, estimar proporción, elaborar perfil. Ejemplo: describir materiales de construcción de 150 viviendas.\n\nVariables posibles: Material de paredes, tipo de techo, agua potable, número de habitaciones, ocupantes por dormitorio, ventilación, saneamiento, combustible y ubicación geográfica.\n\nDefinición operacional: Especificar categorías observables: pared de adobe/ladrillo/madera, acceso a red pública vs fuente alterna, dormitorios y habitantes, condiciones de riesgo. Evitar variables vagas como «casa mala».\n\nFrecuencia absoluta y relativa: Cuántas viviendas tienen material X y qué proporción del total representan. Denominador es el número de viviendas válidas encuestadas; declarar no respuestas.\n\nMedias y dispersión: Para variables numéricas como número de residentes por habitación, describir media/DE o mediana/RIQ según distribución. Categorías requieren frecuencias/proporciones, no promediar códigos nominales.\n\nMuestreo y validez externa: Una muestra de usuarios del EESS no equivale a muestreo aleatorio del total de hogares. Para describir comunidad, marco de viviendas y diseño de selección deben justificar generalización.\n\nEstudio transversal: Recoge información en un momento/ventana; útil para perfiles o prevalencias. También puede ser analítico si explora asociaciones, no confundir diseño temporal con nivel de objetivo.\n\nEstudio correlacional: Pregunta por vínculo entre dos o más variables, como material de paredes e ingresos. Asociación no equivale a relación causal.\n\nEstudio explicativo: Busca por qué sucede un resultado y evalúa explicaciones, mecanismos o relaciones causales con diseños adecuados. Distinto del simple «cómo es».\n\nEstudio de efectos de desastres: Comparar daños causados por temblor según tipos de vivienda implica medir desenlaces y exposición. Puede ser comparativo/analítico; no es la pura caracterización elegida por examen.\n\nMorbilidad y vivienda: Hipótesis sobre efectos del hacinamiento, ventilación o humedad en enfermedad exige medir patología y potenciales factores de confusión (pobreza, tabaquismo, edad, etc.).\n\nSesgos frecuentes: Selección de usuarios, no respuesta, registro incorrecto, observación subjetiva, variabilidad entre encuestadores y sesgo de información autodeclarada.\n\nÉtica y manejo de datos: Pedir consentimiento según diseño y contexto, anonimizar ubicación o información sensible cuando pueda identificar familias, explicar finalidad y evitar usos discriminatorios.\n\nAplicación al primer nivel: Diagnóstico local de determinantes habitacionales permite priorizar agua segura, prevención de infecciones y riesgos ambientales, sin afirmar relaciones causales solo por observación.\n\nCómo resolver distractores: «Aspectos y características» → descriptivo. «Relación» → correlacional/analítico. «Efectos de X sobre Y» → explicativo o causal, si diseño adecuado.\n\nDISTRACTORES\n\nA: Clave resaltada: describe rasgos de viviendas sin explorar relaciones ni efectos.\n\nB: Relaciona vivienda con ingreso; requiere análisis de asociación de al menos dos variables.\n\nC: Examina efectos de temblor según tipo de vivienda; pregunta comparativa/analítica sobre daños.\n\nD: Indaga efectos del tipo de vivienda sobre morbilidad; plantea relación causal, no mera caracterización.\n\nNORMATIVA\n\nModelos de estudios en investigación aplicada: conceptos y criterios para el diseño — Define descripción de características sin establecer relaciones causales. — https://scielo.isciii.es/scielo.php?pid=S0465-546X2008000100011&script=sci_arttext\n\nArtículo académico, taxonomía del enfoque cuantitativo de investigación descriptiva — Verbos de caracterización y diferenciación de niveles de investigación. — https://revistas.unasam.edu.pe/index.php/llalliq/article/download/936/1036/6373\n\nMNEMOTECNIA\n\n**D = DESCRIBE**; **R = RELACIONA**; **E = EFECTOS**. Imagínate una cámara tomando FOTO de una casa (A), luego dos flechas entre casa e ingreso (B), luego un sismo y una gráfica de daños (C), luego vivienda causando enfermedad (D). Solo la foto es descriptiva.\n\nTRAMPAS\n\nMedir dos variables por separado puede seguir siendo descriptivo; analizar la relación entre ambas ya es analítico.\n\nNo confundir ausencia de experimento con estudio descriptivo: hay estudios observacionales analíticos.\n\nLa palabra «efectos» no prueba causalidad, pero indica que objetivo ya no es simple descripción.\n\nSi el marco son pacientes del centro, resultados no representan necesariamente todas las viviendas del distrito.\n\nLa selección de viviendas debe definirse antes de estimar frecuencias comunitarias.\n\nCorrelación no equivale a causalidad.\n\nPERLA\n\nP39-A: **ASPECTOS Y CARACTERÍSTICAS** = estudio DESCRIPTIVO; «relación» y «efectos» indican preguntas analíticas.\n\n¿Cuál es la clave resaltada? → A, aspectos y características de viviendas.\n\n¿Qué verbo identifica el objetivo descriptivo? → Caracterizar, describir o estimar frecuencias.\n\n¿Qué clasifica la alternativa B? → Relación/correlación entre tipo de vivienda e ingresos.\n\n¿Puede un estudio transversal ser analítico? → Sí, si evalúa asociaciones.\n\n¿Por qué no se generaliza de usuarios a todos los habitantes? → Puede existir sesgo de selección del EESS.\n\n¿«Efecto de vivienda en morbilidad» es caracterización pura? → No, es hipótesis de asociación o causalidad.\n\nCASOS DIFÍCILES\n\nSe registra material de las paredes, número de habitaciones y acceso a agua de 200 hogares sin comparar asociación alguna. ¿Cuál es el alcance principal? A) Descriptivo / B) Experimental / C) Causal / D) Predictivo | A: Solo caracteriza propiedades y frecuencias de las viviendas.\n\nEstudio compara tipo de techo y daño estructural tras un terremoto, ajustando por antigüedad de construcción. ¿Cuál es el componente que supera lo puramente descriptivo? A) El conteo de viviendas / B) La recolección de encuestas / C) La medición de materiales / D) La evaluación de una relación entre características y resultado | D: Evaluar efectos/asociaciones entre variables hace el objetivo analítico.",
+      "pearl": "P39-A: **ASPECTOS Y CARACTERÍSTICAS** = estudio DESCRIPTIVO; «relación» y «efectos» indican preguntas analíticas.",
+      "keywords": [
+        "descriptivo",
+        "analítico",
+        "características de viviendas",
+        "asociación",
+        "causalidad",
+        "objetivos",
+        "frecuencias"
+      ],
+      "estadoDesarrollo": "completo",
       "estadoClave": "resaltada_en_pdf_usuario_no_cotejada_independientemente_con_tabla_minsa",
-      "lesson": null
+      "lesson": {
+        "respuesta_resumida": "A. Aspectos y características de las viviendas de la población estudio",
+        "razonamiento": "La respuesta resaltada es A: «Aspectos y características de las viviendas de la población de estudio». La finalidad es DESCRIBIR un fenómeno sin preguntar qué factor produce otro. Se observarían materiales del techo y paredes, distribución de ambientes, agua, alcantarillado, ventilación y hacinamiento, con frecuencias, proporciones y tablas de características.\n\nLas alternativas B, C y D cambian el verbo decisivo. B pregunta por RELACIÓN de tipo de vivienda e ingreso mensual (planteamiento analítico/correlacional). C por EFECTOS de un temblor según vivienda (comparación de daños y variables explicativas). D por EFECTO de vivienda sobre morbilidad familiar (hipótesis etiológica/causal), que necesita diseños y control de confundidores para sostener conclusiones.\n\nEl estudio descriptivo no necesita manipular variables ni asignar exposición; puede ser una encuesta transversal, observación o análisis de registros. Responde ¿cómo es?, ¿cuánto?, ¿cuáles son las características? Un estudio puede describir varias variables simultáneamente sin buscar efecto entre ellas.\n\nLa frase «población que acude a nuestro establecimiento» es crítica: si se recluta solo entre usuarios, los hallazgos describen USUARIOS, no necesariamente toda la comunidad Tornameza-Huarochirí. Podrían excluirse viviendas de familias que no consultan; la representatividad depende del marco, selección y tasas de respuesta.\n\nMedir tipo de vivienda e ingreso por separado sigue siendo descriptivo; plantear si uno se relaciona con el otro desplaza el objetivo hacia asociación. Un estudio transversal analítico puede estimar asociación, pero no demostrar automáticamente que un ingreso causa el tipo de vivienda o viceversa.",
+        "temario": [
+          "Definición: Investigación descriptiva observa y caracteriza propiedades, magnitudes, comportamientos o distribución de fenómenos en población y período concretos, sin pretender demostrar causas de sus relaciones.",
+          "Objetivos descriptivos: Verbos caracterizar, describir, determinar frecuencia, clasificar, enumerar, estimar proporción, elaborar perfil. Ejemplo: describir materiales de construcción de 150 viviendas.",
+          "Variables posibles: Material de paredes, tipo de techo, agua potable, número de habitaciones, ocupantes por dormitorio, ventilación, saneamiento, combustible y ubicación geográfica.",
+          "Definición operacional: Especificar categorías observables: pared de adobe/ladrillo/madera, acceso a red pública vs fuente alterna, dormitorios y habitantes, condiciones de riesgo. Evitar variables vagas como «casa mala».",
+          "Frecuencia absoluta y relativa: Cuántas viviendas tienen material X y qué proporción del total representan. Denominador es el número de viviendas válidas encuestadas; declarar no respuestas.",
+          "Medias y dispersión: Para variables numéricas como número de residentes por habitación, describir media/DE o mediana/RIQ según distribución. Categorías requieren frecuencias/proporciones, no promediar códigos nominales.",
+          "Muestreo y validez externa: Una muestra de usuarios del EESS no equivale a muestreo aleatorio del total de hogares. Para describir comunidad, marco de viviendas y diseño de selección deben justificar generalización.",
+          "Estudio transversal: Recoge información en un momento/ventana; útil para perfiles o prevalencias. También puede ser analítico si explora asociaciones, no confundir diseño temporal con nivel de objetivo.",
+          "Estudio correlacional: Pregunta por vínculo entre dos o más variables, como material de paredes e ingresos. Asociación no equivale a relación causal.",
+          "Estudio explicativo: Busca por qué sucede un resultado y evalúa explicaciones, mecanismos o relaciones causales con diseños adecuados. Distinto del simple «cómo es».",
+          "Estudio de efectos de desastres: Comparar daños causados por temblor según tipos de vivienda implica medir desenlaces y exposición. Puede ser comparativo/analítico; no es la pura caracterización elegida por examen.",
+          "Morbilidad y vivienda: Hipótesis sobre efectos del hacinamiento, ventilación o humedad en enfermedad exige medir patología y potenciales factores de confusión (pobreza, tabaquismo, edad, etc.).",
+          "Sesgos frecuentes: Selección de usuarios, no respuesta, registro incorrecto, observación subjetiva, variabilidad entre encuestadores y sesgo de información autodeclarada.",
+          "Ética y manejo de datos: Pedir consentimiento según diseño y contexto, anonimizar ubicación o información sensible cuando pueda identificar familias, explicar finalidad y evitar usos discriminatorios.",
+          "Aplicación al primer nivel: Diagnóstico local de determinantes habitacionales permite priorizar agua segura, prevención de infecciones y riesgos ambientales, sin afirmar relaciones causales solo por observación.",
+          "Cómo resolver distractores: «Aspectos y características» → descriptivo. «Relación» → correlacional/analítico. «Efectos de X sobre Y» → explicativo o causal, si diseño adecuado."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Clave resaltada: describe rasgos de viviendas sin explorar relaciones ni efectos.",
+          "B": "Relaciona vivienda con ingreso; requiere análisis de asociación de al menos dos variables.",
+          "C": "Examina efectos de temblor según tipo de vivienda; pregunta comparativa/analítica sobre daños.",
+          "D": "Indaga efectos del tipo de vivienda sobre morbilidad; plantea relación causal, no mera caracterización."
+        },
+        "normativa": [
+          {
+            "nombre": "Modelos de estudios en investigación aplicada: conceptos y criterios para el diseño",
+            "url": "https://scielo.isciii.es/scielo.php?pid=S0465-546X2008000100011&script=sci_arttext",
+            "aplicacion": "Define descripción de características sin establecer relaciones causales."
+          },
+          {
+            "nombre": "Artículo académico, taxonomía del enfoque cuantitativo de investigación descriptiva",
+            "url": "https://revistas.unasam.edu.pe/index.php/llalliq/article/download/936/1036/6373",
+            "aplicacion": "Verbos de caracterización y diferenciación de niveles de investigación."
+          }
+        ],
+        "mnemotecnia": "**D = DESCRIBE**; **R = RELACIONA**; **E = EFECTOS**. Imagínate una cámara tomando FOTO de una casa (A), luego dos flechas entre casa e ingreso (B), luego un sismo y una gráfica de daños (C), luego vivienda causando enfermedad (D). Solo la foto es descriptiva.",
+        "trampas": [
+          "Medir dos variables por separado puede seguir siendo descriptivo; analizar la relación entre ambas ya es analítico.",
+          "No confundir ausencia de experimento con estudio descriptivo: hay estudios observacionales analíticos.",
+          "La palabra «efectos» no prueba causalidad, pero indica que objetivo ya no es simple descripción.",
+          "Si el marco son pacientes del centro, resultados no representan necesariamente todas las viviendas del distrito.",
+          "La selección de viviendas debe definirse antes de estimar frecuencias comunitarias.",
+          "Correlación no equivale a causalidad."
+        ],
+        "perla": "P39-A: **ASPECTOS Y CARACTERÍSTICAS** = estudio DESCRIPTIVO; «relación» y «efectos» indican preguntas analíticas.",
+        "repaso_activo": [
+          {
+            "pregunta": "¿Cuál es la clave resaltada?",
+            "respuesta": "A, aspectos y características de viviendas."
+          },
+          {
+            "pregunta": "¿Qué verbo identifica el objetivo descriptivo?",
+            "respuesta": "Caracterizar, describir o estimar frecuencias."
+          },
+          {
+            "pregunta": "¿Qué clasifica la alternativa B?",
+            "respuesta": "Relación/correlación entre tipo de vivienda e ingresos."
+          },
+          {
+            "pregunta": "¿Puede un estudio transversal ser analítico?",
+            "respuesta": "Sí, si evalúa asociaciones."
+          },
+          {
+            "pregunta": "¿Por qué no se generaliza de usuarios a todos los habitantes?",
+            "respuesta": "Puede existir sesgo de selección del EESS."
+          },
+          {
+            "pregunta": "¿«Efecto de vivienda en morbilidad» es caracterización pura?",
+            "respuesta": "No, es hipótesis de asociación o causalidad."
+          }
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Se registra material de las paredes, número de habitaciones y acceso a agua de 200 hogares sin comparar asociación alguna. ¿Cuál es el alcance principal?",
+            "alternativas": {
+              "A": "Descriptivo",
+              "B": "Experimental",
+              "C": "Causal",
+              "D": "Predictivo"
+            },
+            "respuesta": "A",
+            "explicacion": "Solo caracteriza propiedades y frecuencias de las viviendas."
+          },
+          {
+            "enunciado": "Estudio compara tipo de techo y daño estructural tras un terremoto, ajustando por antigüedad de construcción. ¿Cuál es el componente que supera lo puramente descriptivo?",
+            "alternativas": {
+              "A": "El conteo de viviendas",
+              "B": "La recolección de encuestas",
+              "C": "La medición de materiales",
+              "D": "La evaluación de una relación entre características y resultado"
+            },
+            "respuesta": "D",
+            "explicacion": "Evaluar efectos/asociaciones entre variables hace el objetivo analítico."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Estudio descriptivo: caracterización de viviendas sin explorar asociaciones ni efectos",
+          "eje": "Diseños observacionales y formulación de objetivos",
+          "confiabilidad": "Clave conservada del banco basado en el PDF aportado; no se atribuye cotejo con tabla oficial separada.",
+          "respuesta_resumida": "A. Aspectos y características de las viviendas de la población estudio",
+          "razonamiento": [
+            "La respuesta resaltada es A: «Aspectos y características de las viviendas de la población de estudio». La finalidad es DESCRIBIR un fenómeno sin preguntar qué factor produce otro. Se observarían materiales del techo y paredes, distribución de ambientes, agua, alcantarillado, ventilación y hacinamiento, con frecuencias, proporciones y tablas de características.",
+            "Las alternativas B, C y D cambian el verbo decisivo. B pregunta por RELACIÓN de tipo de vivienda e ingreso mensual (planteamiento analítico/correlacional). C por EFECTOS de un temblor según vivienda (comparación de daños y variables explicativas). D por EFECTO de vivienda sobre morbilidad familiar (hipótesis etiológica/causal), que necesita diseños y control de confundidores para sostener conclusiones.",
+            "El estudio descriptivo no necesita manipular variables ni asignar exposición; puede ser una encuesta transversal, observación o análisis de registros. Responde ¿cómo es?, ¿cuánto?, ¿cuáles son las características? Un estudio puede describir varias variables simultáneamente sin buscar efecto entre ellas.",
+            "La frase «población que acude a nuestro establecimiento» es crítica: si se recluta solo entre usuarios, los hallazgos describen USUARIOS, no necesariamente toda la comunidad Tornameza-Huarochirí. Podrían excluirse viviendas de familias que no consultan; la representatividad depende del marco, selección y tasas de respuesta.",
+            "Medir tipo de vivienda e ingreso por separado sigue siendo descriptivo; plantear si uno se relaciona con el otro desplaza el objetivo hacia asociación. Un estudio transversal analítico puede estimar asociación, pero no demostrar automáticamente que un ingreso causa el tipo de vivienda o viceversa."
+          ],
+          "temario": [
+            {
+              "subtitulo": "Definición",
+              "texto": "Investigación descriptiva observa y caracteriza propiedades, magnitudes, comportamientos o distribución de fenómenos en población y período concretos, sin pretender demostrar causas de sus relaciones."
+            },
+            {
+              "subtitulo": "Objetivos descriptivos",
+              "texto": "Verbos caracterizar, describir, determinar frecuencia, clasificar, enumerar, estimar proporción, elaborar perfil. Ejemplo: describir materiales de construcción de 150 viviendas."
+            },
+            {
+              "subtitulo": "Variables posibles",
+              "texto": "Material de paredes, tipo de techo, agua potable, número de habitaciones, ocupantes por dormitorio, ventilación, saneamiento, combustible y ubicación geográfica."
+            },
+            {
+              "subtitulo": "Definición operacional",
+              "texto": "Especificar categorías observables: pared de adobe/ladrillo/madera, acceso a red pública vs fuente alterna, dormitorios y habitantes, condiciones de riesgo. Evitar variables vagas como «casa mala»."
+            },
+            {
+              "subtitulo": "Frecuencia absoluta y relativa",
+              "texto": "Cuántas viviendas tienen material X y qué proporción del total representan. Denominador es el número de viviendas válidas encuestadas; declarar no respuestas."
+            },
+            {
+              "subtitulo": "Medias y dispersión",
+              "texto": "Para variables numéricas como número de residentes por habitación, describir media/DE o mediana/RIQ según distribución. Categorías requieren frecuencias/proporciones, no promediar códigos nominales."
+            },
+            {
+              "subtitulo": "Muestreo y validez externa",
+              "texto": "Una muestra de usuarios del EESS no equivale a muestreo aleatorio del total de hogares. Para describir comunidad, marco de viviendas y diseño de selección deben justificar generalización."
+            },
+            {
+              "subtitulo": "Estudio transversal",
+              "texto": "Recoge información en un momento/ventana; útil para perfiles o prevalencias. También puede ser analítico si explora asociaciones, no confundir diseño temporal con nivel de objetivo."
+            },
+            {
+              "subtitulo": "Estudio correlacional",
+              "texto": "Pregunta por vínculo entre dos o más variables, como material de paredes e ingresos. Asociación no equivale a relación causal."
+            },
+            {
+              "subtitulo": "Estudio explicativo",
+              "texto": "Busca por qué sucede un resultado y evalúa explicaciones, mecanismos o relaciones causales con diseños adecuados. Distinto del simple «cómo es»."
+            },
+            {
+              "subtitulo": "Estudio de efectos de desastres",
+              "texto": "Comparar daños causados por temblor según tipos de vivienda implica medir desenlaces y exposición. Puede ser comparativo/analítico; no es la pura caracterización elegida por examen."
+            },
+            {
+              "subtitulo": "Morbilidad y vivienda",
+              "texto": "Hipótesis sobre efectos del hacinamiento, ventilación o humedad en enfermedad exige medir patología y potenciales factores de confusión (pobreza, tabaquismo, edad, etc.)."
+            },
+            {
+              "subtitulo": "Sesgos frecuentes",
+              "texto": "Selección de usuarios, no respuesta, registro incorrecto, observación subjetiva, variabilidad entre encuestadores y sesgo de información autodeclarada."
+            },
+            {
+              "subtitulo": "Ética y manejo de datos",
+              "texto": "Pedir consentimiento según diseño y contexto, anonimizar ubicación o información sensible cuando pueda identificar familias, explicar finalidad y evitar usos discriminatorios."
+            },
+            {
+              "subtitulo": "Aplicación al primer nivel",
+              "texto": "Diagnóstico local de determinantes habitacionales permite priorizar agua segura, prevención de infecciones y riesgos ambientales, sin afirmar relaciones causales solo por observación."
+            },
+            {
+              "subtitulo": "Cómo resolver distractores",
+              "texto": "«Aspectos y características» → descriptivo. «Relación» → correlacional/analítico. «Efectos de X sobre Y» → explicativo o causal, si diseño adecuado."
+            }
+          ],
+          "distractores": {
+            "A": "Clave resaltada: describe rasgos de viviendas sin explorar relaciones ni efectos.",
+            "B": "Relaciona vivienda con ingreso; requiere análisis de asociación de al menos dos variables.",
+            "C": "Examina efectos de temblor según tipo de vivienda; pregunta comparativa/analítica sobre daños.",
+            "D": "Indaga efectos del tipo de vivienda sobre morbilidad; plantea relación causal, no mera caracterización."
+          },
+          "normativa": [
+            {
+              "nombre": "Modelos de estudios en investigación aplicada: conceptos y criterios para el diseño",
+              "url": "https://scielo.isciii.es/scielo.php?pid=S0465-546X2008000100011&script=sci_arttext",
+              "aplicacion": "Define descripción de características sin establecer relaciones causales."
+            },
+            {
+              "nombre": "Artículo académico, taxonomía del enfoque cuantitativo de investigación descriptiva",
+              "url": "https://revistas.unasam.edu.pe/index.php/llalliq/article/download/936/1036/6373",
+              "aplicacion": "Verbos de caracterización y diferenciación de niveles de investigación."
+            }
+          ],
+          "mnemotecnia": "**D = DESCRIBE**; **R = RELACIONA**; **E = EFECTOS**. Imagínate una cámara tomando FOTO de una casa (A), luego dos flechas entre casa e ingreso (B), luego un sismo y una gráfica de daños (C), luego vivienda causando enfermedad (D). Solo la foto es descriptiva.",
+          "trampas": [
+            "Medir dos variables por separado puede seguir siendo descriptivo; analizar la relación entre ambas ya es analítico.",
+            "No confundir ausencia de experimento con estudio descriptivo: hay estudios observacionales analíticos.",
+            "La palabra «efectos» no prueba causalidad, pero indica que objetivo ya no es simple descripción.",
+            "Si el marco son pacientes del centro, resultados no representan necesariamente todas las viviendas del distrito.",
+            "La selección de viviendas debe definirse antes de estimar frecuencias comunitarias.",
+            "Correlación no equivale a causalidad."
+          ],
+          "perla": "P39-A: **ASPECTOS Y CARACTERÍSTICAS** = estudio DESCRIPTIVO; «relación» y «efectos» indican preguntas analíticas.",
+          "repaso_activo": [
+            {
+              "pregunta": "¿Cuál es la clave resaltada?",
+              "respuesta": "A, aspectos y características de viviendas."
+            },
+            {
+              "pregunta": "¿Qué verbo identifica el objetivo descriptivo?",
+              "respuesta": "Caracterizar, describir o estimar frecuencias."
+            },
+            {
+              "pregunta": "¿Qué clasifica la alternativa B?",
+              "respuesta": "Relación/correlación entre tipo de vivienda e ingresos."
+            },
+            {
+              "pregunta": "¿Puede un estudio transversal ser analítico?",
+              "respuesta": "Sí, si evalúa asociaciones."
+            },
+            {
+              "pregunta": "¿Por qué no se generaliza de usuarios a todos los habitantes?",
+              "respuesta": "Puede existir sesgo de selección del EESS."
+            },
+            {
+              "pregunta": "¿«Efecto de vivienda en morbilidad» es caracterización pura?",
+              "respuesta": "No, es hipótesis de asociación o causalidad."
+            }
+          ],
+          "refuerzo": [
+            {
+              "enunciado": "Se registra material de las paredes, número de habitaciones y acceso a agua de 200 hogares sin comparar asociación alguna. ¿Cuál es el alcance principal?",
+              "alternativas": {
+                "A": "Descriptivo",
+                "B": "Experimental",
+                "C": "Causal",
+                "D": "Predictivo"
+              },
+              "respuesta": "A",
+              "explicacion": "Solo caracteriza propiedades y frecuencias de las viviendas."
+            },
+            {
+              "enunciado": "Estudio compara tipo de techo y daño estructural tras un terremoto, ajustando por antigüedad de construcción. ¿Cuál es el componente que supera lo puramente descriptivo?",
+              "alternativas": {
+                "A": "El conteo de viviendas",
+                "B": "La recolección de encuestas",
+                "C": "La medición de materiales",
+                "D": "La evaluación de una relación entre características y resultado"
+              },
+              "respuesta": "D",
+              "explicacion": "Evaluar efectos/asociaciones entre variables hace el objetivo analítico."
+            }
+          ]
+        }
+      }
     },
     {
       "number": 40,
       "code": "ENCAPS26-II P040",
-      "course": "ENCAPS Medicina · Por desarrollar",
-      "topic": "ENCAPS Medicina 2026-II",
+      "course": "Atención primaria de salud · Estrategias integrales",
+      "topic": "Atención primaria de salud: integralidad, continuidad, comunidad y promoción",
       "question": "El equipo multidisciplinario del EESS, desarrollan actividades de forma integral, continuada, permanente y interviniendo en la comunidad con un enfoque de promoción y prevención. ¿Qué estrategia están aplicando?",
       "options": {
         "A": "Atención primaria de salud",
@@ -9804,12 +10068,332 @@
         "D": "Medicina de familia y comunitaria"
       },
       "correct": "A",
-      "comment": "Tema pendiente de desarrollo detallado. La alternativa correcta indicada es la resaltada en el PDF del usuario; todavía no se ha cotejado independientemente contra el listado oficial de claves del MINSA.",
-      "pearl": "",
-      "keywords": [],
-      "estadoDesarrollo": "pendiente",
+      "comment": "A. Atención primaria de salud\n\nLa respuesta resaltada es A, ATENCIÓN PRIMARIA DE SALUD (APS). El enunciado integra múltiples señales: equipo MULTIDISCIPLINARIO, actividades INTEGRALES, CONTINUAS y PERMANENTES, intervención comunitaria y énfasis de PROMOCIÓN y PREVENCIÓN. Se trata del enfoque de APS como estrategia de organización de sistemas y servicios alrededor de necesidades de las personas.\n\nLa OMS define APS como enfoque que incluye a toda la sociedad para conseguir mayor nivel posible de salud y equidad, con intervenciones a lo largo del continuo desde promoción y prevención hasta tratamiento, rehabilitación y cuidados paliativos, tan cerca del entorno cotidiano como sea posible. Esto encaja mejor con la alternativa A.\n\nAPS no es sinónimo de atención barata, elemental o únicamente del primer nivel. Aunque se concreta especialmente en EESS I-1 a I-4, necesita redes coordinadas, referencia/contrarreferencia, acción intersectorial y participación social. Un paciente con diabetes recibe promoción, tamizaje, tratamiento y seguimiento con continuidad entre establecimientos.\n\n«Salud comunitaria» es área/finalidad relacionada y «Medicina de familia y comunitaria» es especialidad o enfoque clínico que implementa APS. «Programas de salud pública» son intervenciones específicas, a menudo verticales. El ítem pregunta la ESTRATEGIA que reúne todas las características, no una especialidad profesional o programa aislado.\n\nEn Perú, el Modelo de Cuidado Integral de Salud por Curso de Vida aprobado mediante RM 030-2020-MINSA y manual de implementación RM 220-2021-MINSA operacionaliza APS mediante equipos multidisciplinarios, promoción, prevención, recuperación y rehabilitación para persona, familia y comunidad.\n\nConcepto OMS/OPS: APS es enfoque social, territorial y orientado a equidad que integra promoción, prevención, tratamiento, rehabilitación y cuidados paliativos, con participación comunitaria y acciones sobre determinantes de salud.\n\nIntegralidad: Cubrir necesidades físicas, mentales, sociales y ambientales de manera articulada; no dividir al paciente en programas aislados sin coordinación.\n\nContinuidad y longitudinalidad: Continuidad es coherencia del cuidado entre episodios/proveedores; longitudinalidad es relación sostenida de personas/familias con su equipo de salud a lo largo del tiempo.\n\nPrimer contacto: EESS accesible y resolutivo como puerta de entrada habitual para necesidades comunes; urgencias y problemas que superan capacidad deben estabilizarse/referirse oportunamente.\n\nCoordinación: Vincular laboratorio, farmacia, referencias, hospital, salud mental, nutrición, obstetricia y comunidad; asegurar información clínica y contrarreferencia.\n\nPromoción de salud: Fortalecer capacidades y condiciones para salud: alimentación, actividad física, salud mental, entornos saludables y participación comunitaria.\n\nPrevención: Actuar sobre riesgos (primaria), detectar temprano enfermedades (secundaria) y reducir complicaciones/rehabilitar (terciaria), sin descuidar riesgos sociales.\n\nRecuperación y rehabilitación: APS no termina en consejería: incluye diagnóstico, manejo de enfermedades frecuentes, continuidad de crónicos, rehabilitación y acceso a red especializada según necesidad.\n\nCuidados paliativos: Alivio de sufrimiento físico, emocional y familiar; forma parte del continuo APS, no solo de hospital especializado al final de vida.\n\nParticipación comunitaria: La comunidad identifica prioridades, co-diseña y evalúa intervenciones y aporta agentes locales; no es solamente destinataria pasiva.\n\nTrabajo multidisciplinario: Médico, enfermero, obstetra, odontólogo, psicólogo y otros colaboran con roles definidos, datos compartidos de modo seguro y objetivos comunes.\n\nDeterminantes sociales: Saneamiento, educación, vivienda, trabajo, transporte, inseguridad alimentaria y violencia condicionan acceso y resultados, por lo que APS requiere coordinación intersectorial.\n\nEquidad territorial: Adaptar servicios al contexto altoandino: distancias, heladas, lengua, transporte, conectividad y pobreza; evitar discriminación y garantizar información comprensible.\n\nMCI peruano: Documento aprobado por RM 030-2020-MINSA y manual RM 220-2021-MINSA, que organiza cuidado por curso de vida para persona, familia y comunidad y fortalece equipos de salud.\n\nAPS vs primer nivel: Primer nivel es organización de servicios y categorías de EESS; APS es estrategia sistémica e intersectorial que articula redes y niveles. No son sinónimos exactos.\n\nAPS vs programas públicos: Programas verticales se enfocan en TB, inmunizaciones, anemia u otros problemas; APS busca coordinación integral y longitudinal, aunque se beneficie de esos programas.\n\nAPS vs salud comunitaria: Salud comunitaria es campo de intervención territorial que coincide con APS, pero el conjunto de atributos integralidad, continuidad, promoción y prevención define mejor estrategia de APS.\n\nAPS vs Medicina Familiar: Medicina Familiar y Comunitaria es especialidad que aporta competencias clínicas y enfoque de persona-familia; APS involucra a todo sistema y profesiones, sin depender de un único especialista.\n\nEjemplo integrado en un I-4: Equipo capta gestante, detecta anemia, atiende violencia, actualiza vacunas, realiza visitas, acompaña parto referenciado y contrarreferencia; cada intervención pertenece a un mismo plan de cuidado longitudinal.\n\nIndicadores de éxito: Continuidad de tratamientos, acceso oportuno, control de crónicos, prevención de complicaciones, satisfacción, equidad y referencias resueltas; no únicamente número de consultas.\n\nFrase discriminante de examen: Integral + continua + permanente + equipo + comunidad + promoción/previsión = APS; si aparece especialidad profesional aislada, no confundir con estrategia total.\n\nDISTRACTORES\n\nA: Clave del PDF. Atención primaria de salud integra servicios, cuidado continuo, prevención/promoción, equipos y comunidad.\n\nB: Programas de salud pública son componentes específicos y pueden ser verticales; no abarcan por definición toda continuidad integral del sistema.\n\nC: Salud comunitaria es campo muy relacionado, pero la pregunta solicita la estrategia amplia con atributos explícitos de APS.\n\nD: Medicina de familia y comunitaria es disciplina/especialidad del sistema de APS, no la estrategia multisectorial completa.\n\nNORMATIVA\n\nOMS: Atención primaria de salud, ficha de diciembre 2025 — Define APS, tres componentes y continuidad de servicios a lo largo del curso de vida. — https://www.who.int/es/news-room/fact-sheets/detail/primary-health-care\n\nOPS/OMS: Atención primaria de salud — APS como estrategia que integra promoción, prevención, tratamiento y otros cuidados. — https://www.paho.org/es/temas/atencion-primaria-salud\n\nMINSA, RM 030-2020-MINSA, Modelo de Cuidado Integral por Curso de Vida — Marco peruano para persona, familia y comunidad. — https://www.gob.pe/institucion/minsa/normas-legales/414755-030-2020-minsa\n\nMINSA, RM 220-2021-MINSA, manual del modelo de cuidado integral — Implementación práctica de modelo de cuidados y red del primer nivel. — https://www.gob.pe/institucion/minsa/normas-legales/1682527-220-2021-minsa\n\nMNEMOTECNIA\n\n**APS = 4 C y 2 P**: Contacto inicial, Continuidad, Coordinación, Cuidado integral + Promoción y Prevención. Imagina equipo médico recorriendo un mapa de comunidad durante toda la vida de una familia.\n\nTRAMPAS\n\nAPS no equivale a solo atender casos simples o baratos.\n\nAPS no se limita al primer nivel ni se opone a referencia especializada.\n\nMedicina Familiar es especialidad que impulsa APS, no idéntica a estrategia.\n\nSalud comunitaria se superpone, pero no sustituye denominación de APS.\n\nProgramas específicos sin coordinación pueden fragmentar cuidados.\n\n«Continuada» no significa acudir diariamente al médico; significa coherencia y seguimiento a lo largo del tiempo.\n\nNo olvidar tratamiento, rehabilitación y cuidados paliativos: APS no es solo prevención.\n\nPERLA\n\nP40-A: **INTEGRAL + CONTINUA + MULTIDISCIPLINARIA + COMUNITARIA + PROMOCIÓN/PREVENCIÓN = ATENCIÓN PRIMARIA DE SALUD (APS)**.\n\n¿Qué clave marca el documento? → A, atención primaria de salud.\n\n¿Cuáles son las cuatro C del recordatorio? → Contacto inicial, continuidad, coordinación, cuidado integral.\n\n¿APS es únicamente primer nivel? → No, es estrategia de todo el sistema y sectores.\n\n¿Medicina Familiar es APS completa? → No, es disciplina que contribuye a APS.\n\n¿APS incluye atención curativa y paliativa? → Sí.\n\n¿Qué resolución aprueba el MCI peruano? → RM 030-2020-MINSA.\n\n¿Qué garantiza continuidad después de una referencia? → Contrarreferencia, seguimiento y coordinación entre servicios.\n\nCASOS DIFÍCILES\n\nEquipo I-3 realiza tamizaje de diabetes, tratamiento, visitas familiares, coordinación con hospital y seguimiento tras alta junto con líderes de la comunidad. ¿Qué enfoque articula estas acciones? A) Atención primaria de salud / B) Solo programas verticales / C) Tratamiento hospitalario aislado / D) Medicina exclusiva de emergencias | A: Integralidad, continuidad, coordinación y participación comunitaria son atributos APS.\n\nUn sistema crea campañas de vacunación aisladas pero no tiene seguimiento de pacientes crónicos ni contrarreferencia. ¿Qué dimensión esencial de APS está debilitada? A) Existencia de hospitales de alta complejidad / B) Disponibilidad de campañas ocasionales / C) Continuidad y coordinación de cuidados / D) Capacidad de dar un diagnóstico individual | C: APS demanda cuidado longitudinal e integrado entre niveles y episodios, no solo campañas episódicas.",
+      "pearl": "P40-A: **INTEGRAL + CONTINUA + MULTIDISCIPLINARIA + COMUNITARIA + PROMOCIÓN/PREVENCIÓN = ATENCIÓN PRIMARIA DE SALUD (APS)**.",
+      "keywords": [
+        "atención primaria de salud",
+        "APS",
+        "integralidad",
+        "continuidad",
+        "promoción",
+        "prevención",
+        "participación comunitaria",
+        "primer nivel"
+      ],
+      "estadoDesarrollo": "completo",
       "estadoClave": "resaltada_en_pdf_usuario_no_cotejada_independientemente_con_tabla_minsa",
-      "lesson": null
+      "lesson": {
+        "respuesta_resumida": "A. Atención primaria de salud",
+        "razonamiento": "La respuesta resaltada es A, ATENCIÓN PRIMARIA DE SALUD (APS). El enunciado integra múltiples señales: equipo MULTIDISCIPLINARIO, actividades INTEGRALES, CONTINUAS y PERMANENTES, intervención comunitaria y énfasis de PROMOCIÓN y PREVENCIÓN. Se trata del enfoque de APS como estrategia de organización de sistemas y servicios alrededor de necesidades de las personas.\n\nLa OMS define APS como enfoque que incluye a toda la sociedad para conseguir mayor nivel posible de salud y equidad, con intervenciones a lo largo del continuo desde promoción y prevención hasta tratamiento, rehabilitación y cuidados paliativos, tan cerca del entorno cotidiano como sea posible. Esto encaja mejor con la alternativa A.\n\nAPS no es sinónimo de atención barata, elemental o únicamente del primer nivel. Aunque se concreta especialmente en EESS I-1 a I-4, necesita redes coordinadas, referencia/contrarreferencia, acción intersectorial y participación social. Un paciente con diabetes recibe promoción, tamizaje, tratamiento y seguimiento con continuidad entre establecimientos.\n\n«Salud comunitaria» es área/finalidad relacionada y «Medicina de familia y comunitaria» es especialidad o enfoque clínico que implementa APS. «Programas de salud pública» son intervenciones específicas, a menudo verticales. El ítem pregunta la ESTRATEGIA que reúne todas las características, no una especialidad profesional o programa aislado.\n\nEn Perú, el Modelo de Cuidado Integral de Salud por Curso de Vida aprobado mediante RM 030-2020-MINSA y manual de implementación RM 220-2021-MINSA operacionaliza APS mediante equipos multidisciplinarios, promoción, prevención, recuperación y rehabilitación para persona, familia y comunidad.",
+        "temario": [
+          "Concepto OMS/OPS: APS es enfoque social, territorial y orientado a equidad que integra promoción, prevención, tratamiento, rehabilitación y cuidados paliativos, con participación comunitaria y acciones sobre determinantes de salud.",
+          "Integralidad: Cubrir necesidades físicas, mentales, sociales y ambientales de manera articulada; no dividir al paciente en programas aislados sin coordinación.",
+          "Continuidad y longitudinalidad: Continuidad es coherencia del cuidado entre episodios/proveedores; longitudinalidad es relación sostenida de personas/familias con su equipo de salud a lo largo del tiempo.",
+          "Primer contacto: EESS accesible y resolutivo como puerta de entrada habitual para necesidades comunes; urgencias y problemas que superan capacidad deben estabilizarse/referirse oportunamente.",
+          "Coordinación: Vincular laboratorio, farmacia, referencias, hospital, salud mental, nutrición, obstetricia y comunidad; asegurar información clínica y contrarreferencia.",
+          "Promoción de salud: Fortalecer capacidades y condiciones para salud: alimentación, actividad física, salud mental, entornos saludables y participación comunitaria.",
+          "Prevención: Actuar sobre riesgos (primaria), detectar temprano enfermedades (secundaria) y reducir complicaciones/rehabilitar (terciaria), sin descuidar riesgos sociales.",
+          "Recuperación y rehabilitación: APS no termina en consejería: incluye diagnóstico, manejo de enfermedades frecuentes, continuidad de crónicos, rehabilitación y acceso a red especializada según necesidad.",
+          "Cuidados paliativos: Alivio de sufrimiento físico, emocional y familiar; forma parte del continuo APS, no solo de hospital especializado al final de vida.",
+          "Participación comunitaria: La comunidad identifica prioridades, co-diseña y evalúa intervenciones y aporta agentes locales; no es solamente destinataria pasiva.",
+          "Trabajo multidisciplinario: Médico, enfermero, obstetra, odontólogo, psicólogo y otros colaboran con roles definidos, datos compartidos de modo seguro y objetivos comunes.",
+          "Determinantes sociales: Saneamiento, educación, vivienda, trabajo, transporte, inseguridad alimentaria y violencia condicionan acceso y resultados, por lo que APS requiere coordinación intersectorial.",
+          "Equidad territorial: Adaptar servicios al contexto altoandino: distancias, heladas, lengua, transporte, conectividad y pobreza; evitar discriminación y garantizar información comprensible.",
+          "MCI peruano: Documento aprobado por RM 030-2020-MINSA y manual RM 220-2021-MINSA, que organiza cuidado por curso de vida para persona, familia y comunidad y fortalece equipos de salud.",
+          "APS vs primer nivel: Primer nivel es organización de servicios y categorías de EESS; APS es estrategia sistémica e intersectorial que articula redes y niveles. No son sinónimos exactos.",
+          "APS vs programas públicos: Programas verticales se enfocan en TB, inmunizaciones, anemia u otros problemas; APS busca coordinación integral y longitudinal, aunque se beneficie de esos programas.",
+          "APS vs salud comunitaria: Salud comunitaria es campo de intervención territorial que coincide con APS, pero el conjunto de atributos integralidad, continuidad, promoción y prevención define mejor estrategia de APS.",
+          "APS vs Medicina Familiar: Medicina Familiar y Comunitaria es especialidad que aporta competencias clínicas y enfoque de persona-familia; APS involucra a todo sistema y profesiones, sin depender de un único especialista.",
+          "Ejemplo integrado en un I-4: Equipo capta gestante, detecta anemia, atiende violencia, actualiza vacunas, realiza visitas, acompaña parto referenciado y contrarreferencia; cada intervención pertenece a un mismo plan de cuidado longitudinal.",
+          "Indicadores de éxito: Continuidad de tratamientos, acceso oportuno, control de crónicos, prevención de complicaciones, satisfacción, equidad y referencias resueltas; no únicamente número de consultas.",
+          "Frase discriminante de examen: Integral + continua + permanente + equipo + comunidad + promoción/previsión = APS; si aparece especialidad profesional aislada, no confundir con estrategia total."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Clave del PDF. Atención primaria de salud integra servicios, cuidado continuo, prevención/promoción, equipos y comunidad.",
+          "B": "Programas de salud pública son componentes específicos y pueden ser verticales; no abarcan por definición toda continuidad integral del sistema.",
+          "C": "Salud comunitaria es campo muy relacionado, pero la pregunta solicita la estrategia amplia con atributos explícitos de APS.",
+          "D": "Medicina de familia y comunitaria es disciplina/especialidad del sistema de APS, no la estrategia multisectorial completa."
+        },
+        "normativa": [
+          {
+            "nombre": "OMS: Atención primaria de salud, ficha de diciembre 2025",
+            "url": "https://www.who.int/es/news-room/fact-sheets/detail/primary-health-care",
+            "aplicacion": "Define APS, tres componentes y continuidad de servicios a lo largo del curso de vida."
+          },
+          {
+            "nombre": "OPS/OMS: Atención primaria de salud",
+            "url": "https://www.paho.org/es/temas/atencion-primaria-salud",
+            "aplicacion": "APS como estrategia que integra promoción, prevención, tratamiento y otros cuidados."
+          },
+          {
+            "nombre": "MINSA, RM 030-2020-MINSA, Modelo de Cuidado Integral por Curso de Vida",
+            "url": "https://www.gob.pe/institucion/minsa/normas-legales/414755-030-2020-minsa",
+            "aplicacion": "Marco peruano para persona, familia y comunidad."
+          },
+          {
+            "nombre": "MINSA, RM 220-2021-MINSA, manual del modelo de cuidado integral",
+            "url": "https://www.gob.pe/institucion/minsa/normas-legales/1682527-220-2021-minsa",
+            "aplicacion": "Implementación práctica de modelo de cuidados y red del primer nivel."
+          }
+        ],
+        "mnemotecnia": "**APS = 4 C y 2 P**: Contacto inicial, Continuidad, Coordinación, Cuidado integral + Promoción y Prevención. Imagina equipo médico recorriendo un mapa de comunidad durante toda la vida de una familia.",
+        "trampas": [
+          "APS no equivale a solo atender casos simples o baratos.",
+          "APS no se limita al primer nivel ni se opone a referencia especializada.",
+          "Medicina Familiar es especialidad que impulsa APS, no idéntica a estrategia.",
+          "Salud comunitaria se superpone, pero no sustituye denominación de APS.",
+          "Programas específicos sin coordinación pueden fragmentar cuidados.",
+          "«Continuada» no significa acudir diariamente al médico; significa coherencia y seguimiento a lo largo del tiempo.",
+          "No olvidar tratamiento, rehabilitación y cuidados paliativos: APS no es solo prevención."
+        ],
+        "perla": "P40-A: **INTEGRAL + CONTINUA + MULTIDISCIPLINARIA + COMUNITARIA + PROMOCIÓN/PREVENCIÓN = ATENCIÓN PRIMARIA DE SALUD (APS)**.",
+        "repaso_activo": [
+          {
+            "pregunta": "¿Qué clave marca el documento?",
+            "respuesta": "A, atención primaria de salud."
+          },
+          {
+            "pregunta": "¿Cuáles son las cuatro C del recordatorio?",
+            "respuesta": "Contacto inicial, continuidad, coordinación, cuidado integral."
+          },
+          {
+            "pregunta": "¿APS es únicamente primer nivel?",
+            "respuesta": "No, es estrategia de todo el sistema y sectores."
+          },
+          {
+            "pregunta": "¿Medicina Familiar es APS completa?",
+            "respuesta": "No, es disciplina que contribuye a APS."
+          },
+          {
+            "pregunta": "¿APS incluye atención curativa y paliativa?",
+            "respuesta": "Sí."
+          },
+          {
+            "pregunta": "¿Qué resolución aprueba el MCI peruano?",
+            "respuesta": "RM 030-2020-MINSA."
+          },
+          {
+            "pregunta": "¿Qué garantiza continuidad después de una referencia?",
+            "respuesta": "Contrarreferencia, seguimiento y coordinación entre servicios."
+          }
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Equipo I-3 realiza tamizaje de diabetes, tratamiento, visitas familiares, coordinación con hospital y seguimiento tras alta junto con líderes de la comunidad. ¿Qué enfoque articula estas acciones?",
+            "alternativas": {
+              "A": "Atención primaria de salud",
+              "B": "Solo programas verticales",
+              "C": "Tratamiento hospitalario aislado",
+              "D": "Medicina exclusiva de emergencias"
+            },
+            "respuesta": "A",
+            "explicacion": "Integralidad, continuidad, coordinación y participación comunitaria son atributos APS."
+          },
+          {
+            "enunciado": "Un sistema crea campañas de vacunación aisladas pero no tiene seguimiento de pacientes crónicos ni contrarreferencia. ¿Qué dimensión esencial de APS está debilitada?",
+            "alternativas": {
+              "A": "Existencia de hospitales de alta complejidad",
+              "B": "Disponibilidad de campañas ocasionales",
+              "C": "Continuidad y coordinación de cuidados",
+              "D": "Capacidad de dar un diagnóstico individual"
+            },
+            "respuesta": "C",
+            "explicacion": "APS demanda cuidado longitudinal e integrado entre niveles y episodios, no solo campañas episódicas."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Atención primaria de salud: integralidad, continuidad, comunidad y promoción",
+          "eje": "OMS/OPS APS · RM 030-2020-MINSA · Modelo de Cuidado Integral",
+          "confiabilidad": "Clave conservada del banco basado en el PDF aportado; no se atribuye cotejo con tabla oficial separada.",
+          "respuesta_resumida": "A. Atención primaria de salud",
+          "razonamiento": [
+            "La respuesta resaltada es A, ATENCIÓN PRIMARIA DE SALUD (APS). El enunciado integra múltiples señales: equipo MULTIDISCIPLINARIO, actividades INTEGRALES, CONTINUAS y PERMANENTES, intervención comunitaria y énfasis de PROMOCIÓN y PREVENCIÓN. Se trata del enfoque de APS como estrategia de organización de sistemas y servicios alrededor de necesidades de las personas.",
+            "La OMS define APS como enfoque que incluye a toda la sociedad para conseguir mayor nivel posible de salud y equidad, con intervenciones a lo largo del continuo desde promoción y prevención hasta tratamiento, rehabilitación y cuidados paliativos, tan cerca del entorno cotidiano como sea posible. Esto encaja mejor con la alternativa A.",
+            "APS no es sinónimo de atención barata, elemental o únicamente del primer nivel. Aunque se concreta especialmente en EESS I-1 a I-4, necesita redes coordinadas, referencia/contrarreferencia, acción intersectorial y participación social. Un paciente con diabetes recibe promoción, tamizaje, tratamiento y seguimiento con continuidad entre establecimientos.",
+            "«Salud comunitaria» es área/finalidad relacionada y «Medicina de familia y comunitaria» es especialidad o enfoque clínico que implementa APS. «Programas de salud pública» son intervenciones específicas, a menudo verticales. El ítem pregunta la ESTRATEGIA que reúne todas las características, no una especialidad profesional o programa aislado.",
+            "En Perú, el Modelo de Cuidado Integral de Salud por Curso de Vida aprobado mediante RM 030-2020-MINSA y manual de implementación RM 220-2021-MINSA operacionaliza APS mediante equipos multidisciplinarios, promoción, prevención, recuperación y rehabilitación para persona, familia y comunidad."
+          ],
+          "temario": [
+            {
+              "subtitulo": "Concepto OMS/OPS",
+              "texto": "APS es enfoque social, territorial y orientado a equidad que integra promoción, prevención, tratamiento, rehabilitación y cuidados paliativos, con participación comunitaria y acciones sobre determinantes de salud."
+            },
+            {
+              "subtitulo": "Integralidad",
+              "texto": "Cubrir necesidades físicas, mentales, sociales y ambientales de manera articulada; no dividir al paciente en programas aislados sin coordinación."
+            },
+            {
+              "subtitulo": "Continuidad y longitudinalidad",
+              "texto": "Continuidad es coherencia del cuidado entre episodios/proveedores; longitudinalidad es relación sostenida de personas/familias con su equipo de salud a lo largo del tiempo."
+            },
+            {
+              "subtitulo": "Primer contacto",
+              "texto": "EESS accesible y resolutivo como puerta de entrada habitual para necesidades comunes; urgencias y problemas que superan capacidad deben estabilizarse/referirse oportunamente."
+            },
+            {
+              "subtitulo": "Coordinación",
+              "texto": "Vincular laboratorio, farmacia, referencias, hospital, salud mental, nutrición, obstetricia y comunidad; asegurar información clínica y contrarreferencia."
+            },
+            {
+              "subtitulo": "Promoción de salud",
+              "texto": "Fortalecer capacidades y condiciones para salud: alimentación, actividad física, salud mental, entornos saludables y participación comunitaria."
+            },
+            {
+              "subtitulo": "Prevención",
+              "texto": "Actuar sobre riesgos (primaria), detectar temprano enfermedades (secundaria) y reducir complicaciones/rehabilitar (terciaria), sin descuidar riesgos sociales."
+            },
+            {
+              "subtitulo": "Recuperación y rehabilitación",
+              "texto": "APS no termina en consejería: incluye diagnóstico, manejo de enfermedades frecuentes, continuidad de crónicos, rehabilitación y acceso a red especializada según necesidad."
+            },
+            {
+              "subtitulo": "Cuidados paliativos",
+              "texto": "Alivio de sufrimiento físico, emocional y familiar; forma parte del continuo APS, no solo de hospital especializado al final de vida."
+            },
+            {
+              "subtitulo": "Participación comunitaria",
+              "texto": "La comunidad identifica prioridades, co-diseña y evalúa intervenciones y aporta agentes locales; no es solamente destinataria pasiva."
+            },
+            {
+              "subtitulo": "Trabajo multidisciplinario",
+              "texto": "Médico, enfermero, obstetra, odontólogo, psicólogo y otros colaboran con roles definidos, datos compartidos de modo seguro y objetivos comunes."
+            },
+            {
+              "subtitulo": "Determinantes sociales",
+              "texto": "Saneamiento, educación, vivienda, trabajo, transporte, inseguridad alimentaria y violencia condicionan acceso y resultados, por lo que APS requiere coordinación intersectorial."
+            },
+            {
+              "subtitulo": "Equidad territorial",
+              "texto": "Adaptar servicios al contexto altoandino: distancias, heladas, lengua, transporte, conectividad y pobreza; evitar discriminación y garantizar información comprensible."
+            },
+            {
+              "subtitulo": "MCI peruano",
+              "texto": "Documento aprobado por RM 030-2020-MINSA y manual RM 220-2021-MINSA, que organiza cuidado por curso de vida para persona, familia y comunidad y fortalece equipos de salud."
+            },
+            {
+              "subtitulo": "APS vs primer nivel",
+              "texto": "Primer nivel es organización de servicios y categorías de EESS; APS es estrategia sistémica e intersectorial que articula redes y niveles. No son sinónimos exactos."
+            },
+            {
+              "subtitulo": "APS vs programas públicos",
+              "texto": "Programas verticales se enfocan en TB, inmunizaciones, anemia u otros problemas; APS busca coordinación integral y longitudinal, aunque se beneficie de esos programas."
+            },
+            {
+              "subtitulo": "APS vs salud comunitaria",
+              "texto": "Salud comunitaria es campo de intervención territorial que coincide con APS, pero el conjunto de atributos integralidad, continuidad, promoción y prevención define mejor estrategia de APS."
+            },
+            {
+              "subtitulo": "APS vs Medicina Familiar",
+              "texto": "Medicina Familiar y Comunitaria es especialidad que aporta competencias clínicas y enfoque de persona-familia; APS involucra a todo sistema y profesiones, sin depender de un único especialista."
+            },
+            {
+              "subtitulo": "Ejemplo integrado en un I-4",
+              "texto": "Equipo capta gestante, detecta anemia, atiende violencia, actualiza vacunas, realiza visitas, acompaña parto referenciado y contrarreferencia; cada intervención pertenece a un mismo plan de cuidado longitudinal."
+            },
+            {
+              "subtitulo": "Indicadores de éxito",
+              "texto": "Continuidad de tratamientos, acceso oportuno, control de crónicos, prevención de complicaciones, satisfacción, equidad y referencias resueltas; no únicamente número de consultas."
+            },
+            {
+              "subtitulo": "Frase discriminante de examen",
+              "texto": "Integral + continua + permanente + equipo + comunidad + promoción/previsión = APS; si aparece especialidad profesional aislada, no confundir con estrategia total."
+            }
+          ],
+          "distractores": {
+            "A": "Clave del PDF. Atención primaria de salud integra servicios, cuidado continuo, prevención/promoción, equipos y comunidad.",
+            "B": "Programas de salud pública son componentes específicos y pueden ser verticales; no abarcan por definición toda continuidad integral del sistema.",
+            "C": "Salud comunitaria es campo muy relacionado, pero la pregunta solicita la estrategia amplia con atributos explícitos de APS.",
+            "D": "Medicina de familia y comunitaria es disciplina/especialidad del sistema de APS, no la estrategia multisectorial completa."
+          },
+          "normativa": [
+            {
+              "nombre": "OMS: Atención primaria de salud, ficha de diciembre 2025",
+              "url": "https://www.who.int/es/news-room/fact-sheets/detail/primary-health-care",
+              "aplicacion": "Define APS, tres componentes y continuidad de servicios a lo largo del curso de vida."
+            },
+            {
+              "nombre": "OPS/OMS: Atención primaria de salud",
+              "url": "https://www.paho.org/es/temas/atencion-primaria-salud",
+              "aplicacion": "APS como estrategia que integra promoción, prevención, tratamiento y otros cuidados."
+            },
+            {
+              "nombre": "MINSA, RM 030-2020-MINSA, Modelo de Cuidado Integral por Curso de Vida",
+              "url": "https://www.gob.pe/institucion/minsa/normas-legales/414755-030-2020-minsa",
+              "aplicacion": "Marco peruano para persona, familia y comunidad."
+            },
+            {
+              "nombre": "MINSA, RM 220-2021-MINSA, manual del modelo de cuidado integral",
+              "url": "https://www.gob.pe/institucion/minsa/normas-legales/1682527-220-2021-minsa",
+              "aplicacion": "Implementación práctica de modelo de cuidados y red del primer nivel."
+            }
+          ],
+          "mnemotecnia": "**APS = 4 C y 2 P**: Contacto inicial, Continuidad, Coordinación, Cuidado integral + Promoción y Prevención. Imagina equipo médico recorriendo un mapa de comunidad durante toda la vida de una familia.",
+          "trampas": [
+            "APS no equivale a solo atender casos simples o baratos.",
+            "APS no se limita al primer nivel ni se opone a referencia especializada.",
+            "Medicina Familiar es especialidad que impulsa APS, no idéntica a estrategia.",
+            "Salud comunitaria se superpone, pero no sustituye denominación de APS.",
+            "Programas específicos sin coordinación pueden fragmentar cuidados.",
+            "«Continuada» no significa acudir diariamente al médico; significa coherencia y seguimiento a lo largo del tiempo.",
+            "No olvidar tratamiento, rehabilitación y cuidados paliativos: APS no es solo prevención."
+          ],
+          "perla": "P40-A: **INTEGRAL + CONTINUA + MULTIDISCIPLINARIA + COMUNITARIA + PROMOCIÓN/PREVENCIÓN = ATENCIÓN PRIMARIA DE SALUD (APS)**.",
+          "repaso_activo": [
+            {
+              "pregunta": "¿Qué clave marca el documento?",
+              "respuesta": "A, atención primaria de salud."
+            },
+            {
+              "pregunta": "¿Cuáles son las cuatro C del recordatorio?",
+              "respuesta": "Contacto inicial, continuidad, coordinación, cuidado integral."
+            },
+            {
+              "pregunta": "¿APS es únicamente primer nivel?",
+              "respuesta": "No, es estrategia de todo el sistema y sectores."
+            },
+            {
+              "pregunta": "¿Medicina Familiar es APS completa?",
+              "respuesta": "No, es disciplina que contribuye a APS."
+            },
+            {
+              "pregunta": "¿APS incluye atención curativa y paliativa?",
+              "respuesta": "Sí."
+            },
+            {
+              "pregunta": "¿Qué resolución aprueba el MCI peruano?",
+              "respuesta": "RM 030-2020-MINSA."
+            },
+            {
+              "pregunta": "¿Qué garantiza continuidad después de una referencia?",
+              "respuesta": "Contrarreferencia, seguimiento y coordinación entre servicios."
+            }
+          ],
+          "refuerzo": [
+            {
+              "enunciado": "Equipo I-3 realiza tamizaje de diabetes, tratamiento, visitas familiares, coordinación con hospital y seguimiento tras alta junto con líderes de la comunidad. ¿Qué enfoque articula estas acciones?",
+              "alternativas": {
+                "A": "Atención primaria de salud",
+                "B": "Solo programas verticales",
+                "C": "Tratamiento hospitalario aislado",
+                "D": "Medicina exclusiva de emergencias"
+              },
+              "respuesta": "A",
+              "explicacion": "Integralidad, continuidad, coordinación y participación comunitaria son atributos APS."
+            },
+            {
+              "enunciado": "Un sistema crea campañas de vacunación aisladas pero no tiene seguimiento de pacientes crónicos ni contrarreferencia. ¿Qué dimensión esencial de APS está debilitada?",
+              "alternativas": {
+                "A": "Existencia de hospitales de alta complejidad",
+                "B": "Disponibilidad de campañas ocasionales",
+                "C": "Continuidad y coordinación de cuidados",
+                "D": "Capacidad de dar un diagnóstico individual"
+              },
+              "respuesta": "C",
+              "explicacion": "APS demanda cuidado longitudinal e integrado entre niveles y episodios, no solo campañas episódicas."
+            }
+          ]
+        }
+      }
     },
     {
       "number": 41,
