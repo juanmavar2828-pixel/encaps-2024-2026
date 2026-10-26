@@ -5301,8 +5301,8 @@
     {
       "number": 23,
       "code": "ENCAPS26-II P023",
-      "course": "ENCAPS Medicina · Por desarrollar",
-      "topic": "ENCAPS Medicina 2026-II",
+      "course": "ESAVI · Urgencias",
+      "topic": "Anafilaxia posvacunal: dosis de epinefrina IM",
       "question": "El profesional de la salud antes de realizar las actividades de vacunación debe contar con el kit de ESAVI para situaciones de emergencia: ampollas de epinefrina, frasco de Hidrocortisona y ampollas de clorfenamina. La epinefrina 1:1000 se aplica vía intramuscular. ¿Cuál es la dosis indicada en mg/Kg de peso?",
       "options": {
         "A": "0.01",
@@ -5311,12 +5311,260 @@
         "D": "1"
       },
       "correct": "A",
-      "comment": "Tema pendiente de desarrollo detallado. La alternativa correcta indicada es la resaltada en el PDF del usuario; todavía no se ha cotejado independientemente contra el listado oficial de claves del MINSA.",
-      "pearl": "",
-      "keywords": [],
-      "estadoDesarrollo": "pendiente",
+      "comment": "El PDF marca A (0,01 mg/kg). Epinefrina 1:1000 equivale 1 mg/mL. A esa concentración, la dosis 0,01 mg/kg equivale a 0,01 mL/kg por vía intramuscular.\n\nEjemplo: niño de 20 kg requiere 0,20 mg = 0,20 mL de epinefrina 1 mg/mL IM. No repetir el mismo volumen si cambia la concentración: 1:10 000 equivale 0,1 mg/mL, diez veces menos concentrada.\n\nEn anafilaxia posvacunal el medicamento de primera línea es epinefrina IM en la cara anterolateral del muslo. Hidrocortisona y clorfenamina del kit ESAVI NO sustituyen adrenalina ni deben retrasarla.\n\nReconocer compromiso respiratorio, edema de vía aérea, hipotensión o colapso; activar ayuda, evaluar ABC, soporte respiratorio y circulatorio, monitorizar, referir y repetir adrenalina IM según respuesta/protocolo, frecuentemente cada 5–15 minutos.\n\nESAVI significa evento temporal supuestamente atribuible a vacunación; la vigilancia e investigación no deben confundirse con causalidad demostrada ni retrasar atención. Documentos históricos del MINSA mencionan vía subcutánea; el enunciado y guías modernas priorizan IM.\n\nESAVI: Evento posterior a vacunación que requiere evaluación y notificación, sin que se haya establecido necesariamente relación causal.\n\nCriterios clínicos: Anafilaxia puede causar sibilancias, estridor, edema laríngeo, hipotensión, síncope y síntomas cutáneos o gastrointestinales; puede presentarse sin urticaria.\n\nMecanismo farmacológico: Epinefrina con acción alfa y beta reduce vasodilatación, edema, broncoespasmo y deterioro circulatorio. Es el tratamiento vital inicial.\n\nConcentración 1:1000: Equivale exactamente a 1 mg/mL; verificar presentación antes de calcular volumen. 1:10 000 equivale 0,1 mg/mL.\n\nCálculos: 10 kg: 0,10 mg y 0,10 mL. 15 kg: 0,15 mg y 0,15 mL. 20 kg: 0,20 mg y 0,20 mL, usando 1 mg/mL.\n\nMáximos: Aplicar máximo por edad/peso según protocolo vigente; para adolescentes grandes y adultos suelen utilizarse hasta 0,5 mg IM, y algunas pautas pediátricas establecen máximo 0,3 mg.\n\nVía y sitio: Inyectar IM en cara anterolateral de tercio medio del muslo, no sustituir de rutina por vía subcutánea. La epinefrina IV concentrada no se administra en bolo sin protocolo especializado.\n\nPrimeros pasos: Pedir ayuda, poner epinefrina IM sin demora, evaluar vía aérea y respiración, posición apropiada sin levantarse súbitamente, oxígeno si precisa, acceso venoso y líquidos si shock, referencia y monitorización.\n\nRepetición: Si no mejora o reaparecen signos, repetir IM cada 5–15 minutos según guía, registrar horas de administración y coordinar manejo avanzado.\n\nFármacos secundarios: Antihistamínicos pueden aliviar síntomas cutáneos y corticoides tienen acciones no inmediatas. Ninguno debe retrasar epinefrina.\n\nDiagnósticos diferenciales: Síncope vasovagal usualmente con bradicardia y mejoría en decúbito; crisis de ansiedad con hiperventilación, pero siempre descartar anafilaxia ante compromiso sistémico.\n\nKit de emergencias: Revisar vencimientos, concentración, jeringas, EPP, material de soporte vital, oxígeno, protocolos visibles, capacitación y vías de referencia.\n\nErrores críticos: Administrar dosis cien veces mayor, confundir mg con mL en diluciones distintas, priorizar antihistamínicos o demorar atención por ausencia de exantema.\n\nA: Clave del PDF: 0,01 mg/kg IM con solución 1:1000.\n\nB: 0,001 mg/kg es una décima parte de la dosis indicada.\n\nC: 0,02 mg/kg duplica la dosis por kg solicitada.\n\nD: 1 mg/kg es cien veces más y muy peligroso.\n\nMNEMOTECNIA\n\nANAFILAXIA = ADRENALINA ANTES de antihistamínicos. UNO por mil = UN mg/mL. 0,01 mg/kg = 0,01 mL/kg en esa concentración. IM en MUSLO.\n\nTRAMPAS\n\n1:1000 no es 1:10 000.\n\nIM es vía de preferencia en anafilaxia.\n\nNo esperar urticaria para tratar compromiso vital.\n\nClorfenamina e hidrocortisona no sustituyen adrenalina.\n\nComprobar concentración y máximos antes de administrar.\n\nESAVI temporal no demuestra causalidad.\n\nSi reaparece anafilaxia, monitorizar y repetir IM según protocolo.\n\nPERLA\n\nP23-A: ANAFILAXIA tras vacuna → epinefrina 1:1000 (1 mg/mL), 0,01 mg/kg IM en muslo.",
+      "pearl": "P23-A: ANAFILAXIA tras vacuna → epinefrina 1:1000 (1 mg/mL), 0,01 mg/kg IM en muslo.",
+      "keywords": [
+        "epinefrina",
+        "ESAVI",
+        "0.01 mg/kg",
+        "anafilaxia"
+      ],
+      "estadoDesarrollo": "completo",
       "estadoClave": "resaltada_en_pdf_usuario_no_cotejada_independientemente_con_tabla_minsa",
-      "lesson": null
+      "lesson": {
+        "respuesta_resumida": "A. 0,01 mg/kg según PDF",
+        "razonamiento": "El PDF marca A (0,01 mg/kg). Epinefrina 1:1000 equivale 1 mg/mL. A esa concentración, la dosis 0,01 mg/kg equivale a 0,01 mL/kg por vía intramuscular.\n\nEjemplo: niño de 20 kg requiere 0,20 mg = 0,20 mL de epinefrina 1 mg/mL IM. No repetir el mismo volumen si cambia la concentración: 1:10 000 equivale 0,1 mg/mL, diez veces menos concentrada.\n\nEn anafilaxia posvacunal el medicamento de primera línea es epinefrina IM en la cara anterolateral del muslo. Hidrocortisona y clorfenamina del kit ESAVI NO sustituyen adrenalina ni deben retrasarla.\n\nReconocer compromiso respiratorio, edema de vía aérea, hipotensión o colapso; activar ayuda, evaluar ABC, soporte respiratorio y circulatorio, monitorizar, referir y repetir adrenalina IM según respuesta/protocolo, frecuentemente cada 5–15 minutos.\n\nESAVI significa evento temporal supuestamente atribuible a vacunación; la vigilancia e investigación no deben confundirse con causalidad demostrada ni retrasar atención. Documentos históricos del MINSA mencionan vía subcutánea; el enunciado y guías modernas priorizan IM.",
+        "temario": [
+          "ESAVI: Evento posterior a vacunación que requiere evaluación y notificación, sin que se haya establecido necesariamente relación causal.",
+          "Criterios clínicos: Anafilaxia puede causar sibilancias, estridor, edema laríngeo, hipotensión, síncope y síntomas cutáneos o gastrointestinales; puede presentarse sin urticaria.",
+          "Mecanismo farmacológico: Epinefrina con acción alfa y beta reduce vasodilatación, edema, broncoespasmo y deterioro circulatorio. Es el tratamiento vital inicial.",
+          "Concentración 1:1000: Equivale exactamente a 1 mg/mL; verificar presentación antes de calcular volumen. 1:10 000 equivale 0,1 mg/mL.",
+          "Cálculos: 10 kg: 0,10 mg y 0,10 mL. 15 kg: 0,15 mg y 0,15 mL. 20 kg: 0,20 mg y 0,20 mL, usando 1 mg/mL.",
+          "Máximos: Aplicar máximo por edad/peso según protocolo vigente; para adolescentes grandes y adultos suelen utilizarse hasta 0,5 mg IM, y algunas pautas pediátricas establecen máximo 0,3 mg.",
+          "Vía y sitio: Inyectar IM en cara anterolateral de tercio medio del muslo, no sustituir de rutina por vía subcutánea. La epinefrina IV concentrada no se administra en bolo sin protocolo especializado.",
+          "Primeros pasos: Pedir ayuda, poner epinefrina IM sin demora, evaluar vía aérea y respiración, posición apropiada sin levantarse súbitamente, oxígeno si precisa, acceso venoso y líquidos si shock, referencia y monitorización.",
+          "Repetición: Si no mejora o reaparecen signos, repetir IM cada 5–15 minutos según guía, registrar horas de administración y coordinar manejo avanzado.",
+          "Fármacos secundarios: Antihistamínicos pueden aliviar síntomas cutáneos y corticoides tienen acciones no inmediatas. Ninguno debe retrasar epinefrina.",
+          "Diagnósticos diferenciales: Síncope vasovagal usualmente con bradicardia y mejoría en decúbito; crisis de ansiedad con hiperventilación, pero siempre descartar anafilaxia ante compromiso sistémico.",
+          "Kit de emergencias: Revisar vencimientos, concentración, jeringas, EPP, material de soporte vital, oxígeno, protocolos visibles, capacitación y vías de referencia.",
+          "Errores críticos: Administrar dosis cien veces mayor, confundir mg con mL en diluciones distintas, priorizar antihistamínicos o demorar atención por ausencia de exantema."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Clave del PDF: 0,01 mg/kg IM con solución 1:1000.",
+          "B": "0,001 mg/kg es una décima parte de la dosis indicada.",
+          "C": "0,02 mg/kg duplica la dosis por kg solicitada.",
+          "D": "1 mg/kg es cien veces más y muy peligroso."
+        },
+        "normativa": [
+          {
+            "nombre": "CDC — Preventing and Managing Adverse Reactions",
+            "url": "https://www.cdc.gov/vaccines/hcp/imz-best-practices/preventing-managing-adverse-reactions.html",
+            "aplicacion": "Dosis IM 0,01 mg/kg de 1 mg/mL, primera línea y medidas complementarias."
+          },
+          {
+            "nombre": "MINSA — módulo IV vacunación segura, ESAVI",
+            "url": "https://www.dge.gob.pe/portalnuevo/wp-content/uploads/2020/04/ModuloVacSegura_4.pdf",
+            "aplicacion": "Documento histórico sobre ESAVI; contiene algunas indicaciones de vía SC que no sustituyen recomendación IM actual."
+          }
+        ],
+        "mnemotecnia": "ANAFILAXIA = ADRENALINA ANTES de antihistamínicos. UNO por mil = UN mg/mL. 0,01 mg/kg = 0,01 mL/kg en esa concentración. IM en MUSLO.",
+        "trampas": [
+          "1:1000 no es 1:10 000.",
+          "IM es vía de preferencia en anafilaxia.",
+          "No esperar urticaria para tratar compromiso vital.",
+          "Clorfenamina e hidrocortisona no sustituyen adrenalina.",
+          "Comprobar concentración y máximos antes de administrar.",
+          "ESAVI temporal no demuestra causalidad.",
+          "Si reaparece anafilaxia, monitorizar y repetir IM según protocolo."
+        ],
+        "perla": "P23-A: ANAFILAXIA tras vacuna → epinefrina 1:1000 (1 mg/mL), 0,01 mg/kg IM en muslo.",
+        "repaso_activo": [
+          {
+            "pregunta": "¿Qué concentración es 1:1000?",
+            "respuesta": "1 mg/mL."
+          },
+          {
+            "pregunta": "¿Cuánto dar a 20 kg?",
+            "respuesta": "0,20 mg; 0,20 mL de solución 1 mg/mL."
+          },
+          {
+            "pregunta": "¿Qué vía prefiere la pregunta?",
+            "respuesta": "Intramuscular."
+          },
+          {
+            "pregunta": "¿Cuál es el fármaco inicial?",
+            "respuesta": "Epinefrina."
+          },
+          {
+            "pregunta": "¿ESAVI demuestra causalidad?",
+            "respuesta": "No."
+          },
+          {
+            "pregunta": "¿Los antihistamínicos pueden reemplazarla?",
+            "respuesta": "No."
+          }
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Niño 18 kg con anafilaxia tras vacuna. Dispones de 1 mg/mL. Volumen inicial IM calculado:",
+            "alternativas": {
+              "A": "1,8 mL",
+              "B": "0,018 mL",
+              "C": "0,18 mL",
+              "D": "1 mL"
+            },
+            "respuesta": "C",
+            "explicacion": "18 × 0,01 mg = 0,18 mg = 0,18 mL con 1 mg/mL."
+          },
+          {
+            "enunciado": "Paciente con estridor e hipotensión tras vacunación: ¿cuál es el primer fármaco?",
+            "alternativas": {
+              "A": "Clorfenamina",
+              "B": "Epinefrina IM",
+              "C": "Hidrocortisona oral",
+              "D": "Paracetamol"
+            },
+            "respuesta": "B",
+            "explicacion": "La adrenalina IM salva vidas y no debe retrasarse."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Anafilaxia posvacunal: dosis de epinefrina IM",
+          "eje": "ESAVI y emergencias",
+          "confiabilidad": "Clave resaltada en PDF",
+          "respuesta_resumida": "A. 0,01 mg/kg",
+          "razonamiento": [
+            "El PDF marca A (0,01 mg/kg). Epinefrina 1:1000 equivale 1 mg/mL. A esa concentración, la dosis 0,01 mg/kg equivale a 0,01 mL/kg por vía intramuscular.",
+            "Ejemplo: niño de 20 kg requiere 0,20 mg = 0,20 mL de epinefrina 1 mg/mL IM. No repetir el mismo volumen si cambia la concentración: 1:10 000 equivale 0,1 mg/mL, diez veces menos concentrada.",
+            "En anafilaxia posvacunal el medicamento de primera línea es epinefrina IM en la cara anterolateral del muslo. Hidrocortisona y clorfenamina del kit ESAVI NO sustituyen adrenalina ni deben retrasarla.",
+            "Reconocer compromiso respiratorio, edema de vía aérea, hipotensión o colapso; activar ayuda, evaluar ABC, soporte respiratorio y circulatorio, monitorizar, referir y repetir adrenalina IM según respuesta/protocolo, frecuentemente cada 5–15 minutos.",
+            "ESAVI significa evento temporal supuestamente atribuible a vacunación; la vigilancia e investigación no deben confundirse con causalidad demostrada ni retrasar atención. Documentos históricos del MINSA mencionan vía subcutánea; el enunciado y guías modernas priorizan IM."
+          ],
+          "temario": [
+            {
+              "subtitulo": "ESAVI",
+              "texto": "Evento posterior a vacunación que requiere evaluación y notificación, sin que se haya establecido necesariamente relación causal."
+            },
+            {
+              "subtitulo": "Criterios clínicos",
+              "texto": "Anafilaxia puede causar sibilancias, estridor, edema laríngeo, hipotensión, síncope y síntomas cutáneos o gastrointestinales; puede presentarse sin urticaria."
+            },
+            {
+              "subtitulo": "Mecanismo farmacológico",
+              "texto": "Epinefrina con acción alfa y beta reduce vasodilatación, edema, broncoespasmo y deterioro circulatorio. Es el tratamiento vital inicial."
+            },
+            {
+              "subtitulo": "Concentración 1:1000",
+              "texto": "Equivale exactamente a 1 mg/mL; verificar presentación antes de calcular volumen. 1:10 000 equivale 0,1 mg/mL."
+            },
+            {
+              "subtitulo": "Cálculos",
+              "texto": "10 kg: 0,10 mg y 0,10 mL. 15 kg: 0,15 mg y 0,15 mL. 20 kg: 0,20 mg y 0,20 mL, usando 1 mg/mL."
+            },
+            {
+              "subtitulo": "Máximos",
+              "texto": "Aplicar máximo por edad/peso según protocolo vigente; para adolescentes grandes y adultos suelen utilizarse hasta 0,5 mg IM, y algunas pautas pediátricas establecen máximo 0,3 mg."
+            },
+            {
+              "subtitulo": "Vía y sitio",
+              "texto": "Inyectar IM en cara anterolateral de tercio medio del muslo, no sustituir de rutina por vía subcutánea. La epinefrina IV concentrada no se administra en bolo sin protocolo especializado."
+            },
+            {
+              "subtitulo": "Primeros pasos",
+              "texto": "Pedir ayuda, poner epinefrina IM sin demora, evaluar vía aérea y respiración, posición apropiada sin levantarse súbitamente, oxígeno si precisa, acceso venoso y líquidos si shock, referencia y monitorización."
+            },
+            {
+              "subtitulo": "Repetición",
+              "texto": "Si no mejora o reaparecen signos, repetir IM cada 5–15 minutos según guía, registrar horas de administración y coordinar manejo avanzado."
+            },
+            {
+              "subtitulo": "Fármacos secundarios",
+              "texto": "Antihistamínicos pueden aliviar síntomas cutáneos y corticoides tienen acciones no inmediatas. Ninguno debe retrasar epinefrina."
+            },
+            {
+              "subtitulo": "Diagnósticos diferenciales",
+              "texto": "Síncope vasovagal usualmente con bradicardia y mejoría en decúbito; crisis de ansiedad con hiperventilación, pero siempre descartar anafilaxia ante compromiso sistémico."
+            },
+            {
+              "subtitulo": "Kit de emergencias",
+              "texto": "Revisar vencimientos, concentración, jeringas, EPP, material de soporte vital, oxígeno, protocolos visibles, capacitación y vías de referencia."
+            },
+            {
+              "subtitulo": "Errores críticos",
+              "texto": "Administrar dosis cien veces mayor, confundir mg con mL en diluciones distintas, priorizar antihistamínicos o demorar atención por ausencia de exantema."
+            }
+          ],
+          "distractores": {
+            "A": "Clave del PDF: 0,01 mg/kg IM con solución 1:1000.",
+            "B": "0,001 mg/kg es una décima parte de la dosis indicada.",
+            "C": "0,02 mg/kg duplica la dosis por kg solicitada.",
+            "D": "1 mg/kg es cien veces más y muy peligroso."
+          },
+          "normativa": [
+            {
+              "nombre": "CDC — Preventing and Managing Adverse Reactions",
+              "url": "https://www.cdc.gov/vaccines/hcp/imz-best-practices/preventing-managing-adverse-reactions.html",
+              "aplicacion": "Dosis IM 0,01 mg/kg de 1 mg/mL, primera línea y medidas complementarias."
+            },
+            {
+              "nombre": "MINSA — módulo IV vacunación segura, ESAVI",
+              "url": "https://www.dge.gob.pe/portalnuevo/wp-content/uploads/2020/04/ModuloVacSegura_4.pdf",
+              "aplicacion": "Documento histórico sobre ESAVI; contiene algunas indicaciones de vía SC que no sustituyen recomendación IM actual."
+            }
+          ],
+          "mnemotecnia": "ANAFILAXIA = ADRENALINA ANTES de antihistamínicos. UNO por mil = UN mg/mL. 0,01 mg/kg = 0,01 mL/kg en esa concentración. IM en MUSLO.",
+          "trampas": [
+            "1:1000 no es 1:10 000.",
+            "IM es vía de preferencia en anafilaxia.",
+            "No esperar urticaria para tratar compromiso vital.",
+            "Clorfenamina e hidrocortisona no sustituyen adrenalina.",
+            "Comprobar concentración y máximos antes de administrar.",
+            "ESAVI temporal no demuestra causalidad.",
+            "Si reaparece anafilaxia, monitorizar y repetir IM según protocolo."
+          ],
+          "perla": "P23-A: ANAFILAXIA tras vacuna → epinefrina 1:1000 (1 mg/mL), 0,01 mg/kg IM en muslo.",
+          "repaso_activo": [
+            {
+              "pregunta": "¿Qué concentración es 1:1000?",
+              "respuesta": "1 mg/mL."
+            },
+            {
+              "pregunta": "¿Cuánto dar a 20 kg?",
+              "respuesta": "0,20 mg; 0,20 mL de solución 1 mg/mL."
+            },
+            {
+              "pregunta": "¿Qué vía prefiere la pregunta?",
+              "respuesta": "Intramuscular."
+            },
+            {
+              "pregunta": "¿Cuál es el fármaco inicial?",
+              "respuesta": "Epinefrina."
+            },
+            {
+              "pregunta": "¿ESAVI demuestra causalidad?",
+              "respuesta": "No."
+            },
+            {
+              "pregunta": "¿Los antihistamínicos pueden reemplazarla?",
+              "respuesta": "No."
+            }
+          ],
+          "refuerzo": [
+            {
+              "enunciado": "Niño 18 kg con anafilaxia tras vacuna. Dispones de 1 mg/mL. Volumen inicial IM calculado:",
+              "alternativas": {
+                "A": "1,8 mL",
+                "B": "0,018 mL",
+                "C": "0,18 mL",
+                "D": "1 mL"
+              },
+              "respuesta": "C",
+              "explicacion": "18 × 0,01 mg = 0,18 mg = 0,18 mL con 1 mg/mL."
+            },
+            {
+              "enunciado": "Paciente con estridor e hipotensión tras vacunación: ¿cuál es el primer fármaco?",
+              "alternativas": {
+                "A": "Clorfenamina",
+                "B": "Epinefrina IM",
+                "C": "Hidrocortisona oral",
+                "D": "Paracetamol"
+              },
+              "respuesta": "B",
+              "explicacion": "La adrenalina IM salva vidas y no debe retrasarse."
+            }
+          ]
+        }
+      }
     },
     {
       "number": 24,
