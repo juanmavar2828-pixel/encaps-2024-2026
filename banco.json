@@ -4803,8 +4803,8 @@
     {
       "number": 21,
       "code": "ENCAPS26-II P021",
-      "course": "ENCAPS Medicina · Por desarrollar",
-      "topic": "ENCAPS Medicina 2026-II",
+      "course": "Epidemiología",
+      "topic": "Problemas descriptivos",
       "question": "¿Ante qué tipo de problema estamos, si se recoge información que nos permite saber cómo están los problemas en términos de frecuencia, características, condiciones y prevalencia?",
       "options": {
         "A": "Causal",
@@ -4813,12 +4813,216 @@
         "D": "Predictivo"
       },
       "correct": "B",
-      "comment": "Tema pendiente de desarrollo detallado. La alternativa correcta indicada es la resaltada en el PDF del usuario; todavía no se ha cotejado independientemente contra el listado oficial de claves del MINSA.",
-      "pearl": "",
-      "keywords": [],
-      "estadoDesarrollo": "pendiente",
+      "comment": "La respuesta resaltada es B, descriptivo. El problema busca saber cómo se presenta una situación: frecuencia, características, condiciones y prevalencia. Todas son propiedades de distribución de un fenómeno observado.\n\nLas preguntas «cuánto», «quién», «dónde», «cuándo» conducen a descripción. «Por qué» sugiere explicación o causalidad; «qué pasará» sugiere predicción.\n\nMedir prevalencia de anemia entre escolares permite describir el tamaño del problema. No autoriza afirmar que una dieta concreta lo causó sin diseño y evidencia adicionales.\n\nObjetivo descriptivo: Conocer frecuencia, características, distribución por persona, lugar y tiempo de un problema. Estimar la magnitud no prueba causalidad; permite priorizar y generar hipótesis.\n\nFrecuencia y denominadores: Número absoluto es conteo; proporción es parte de un total; tasa se define por población/tiempo. Para comparar territorios, usar medidas con denominador y período definidos.\n\nPrevalencia: Casos existentes en momento determinado divididos entre población de referencia. No equivale a incidencia, que mide casos nuevos entre personas en riesgo.\n\nEstudios transversales: Pueden estimar prevalencia y, si comparan variables, explorar asociaciones. La medición simultánea generalmente no establece temporalidad ni causalidad.\n\nInvestigación causal: Contrasta efectos de exposiciones, considera confundidores, sesgos y temporalidad. Hallar dos frecuencias altas no significa que un factor cause otro.\n\nInvestigación explicativa: Procura explicar mecanismos o razones de aparición de un fenómeno, en vez de solamente describir su distribución.\n\nInvestigación predictiva: Construye y valida modelos para pronosticar eventos futuros; una variable predictora no es necesariamente causa.\n\nAplicación al primer nivel: Para un ASIS, medir anemia, TB, diabetes o HTA por edad, comunidad y período. Verificar fuentes, criterios diagnósticos, muestreo y datos faltantes.\n\nSesgos: Un marco muestral incompleto, no respuesta o medición defectuosa distorsionan frecuencias; mayor número de sujetos no elimina necesariamente sesgo de selección.\n\nDISTRACTORES\n\nA: Causal: estima efectos o causas, no solo frecuencias.\n\nB: Correcta en PDF: caracteriza la distribución y prevalencia.\n\nC: Explicativa: pregunta por motivos y mecanismos, ausentes aquí.\n\nD: Predictiva: pronostica hechos futuros, no es el propósito enunciado.\n\nMNEMOTECNIA\n\nDESCRIPTIVO = FOTOGRAFÍA (CUÁNTOS, QUIÉNES, DÓNDE, CUÁNDO). CAUSAL = buscar causa. PREDICTIVO = anticipar futuro.\n\nTRAMPAS\n\nPrevalencia no es incidencia.\n\nUna frecuencia no demuestra causa.\n\nTransversal no siempre equivale a objetivo meramente descriptivo.\n\nToda proporción poblacional requiere denominador apropiado.\n\nEl sesgo de selección invalida inferencias aunque la muestra sea grande.\n\nPERLA\n\nP21-B: frecuencia + características + prevalencia = DESCRIPTIVO.",
+      "pearl": "P21-B: frecuencia + características + prevalencia = DESCRIPTIVO.",
+      "keywords": [
+        "descriptivo",
+        "prevalencia",
+        "epidemiología",
+        "investigación"
+      ],
+      "estadoDesarrollo": "completo",
       "estadoClave": "resaltada_en_pdf_usuario_no_cotejada_independientemente_con_tabla_minsa",
-      "lesson": null
+      "lesson": {
+        "respuesta_resumida": "B. Descriptivo — clave marcada en PDF",
+        "razonamiento": "La respuesta resaltada es B, descriptivo. El problema busca saber cómo se presenta una situación: frecuencia, características, condiciones y prevalencia. Todas son propiedades de distribución de un fenómeno observado.\n\nLas preguntas «cuánto», «quién», «dónde», «cuándo» conducen a descripción. «Por qué» sugiere explicación o causalidad; «qué pasará» sugiere predicción.\n\nMedir prevalencia de anemia entre escolares permite describir el tamaño del problema. No autoriza afirmar que una dieta concreta lo causó sin diseño y evidencia adicionales.",
+        "temario": [
+          "Objetivo descriptivo: Conocer frecuencia, características, distribución por persona, lugar y tiempo de un problema. Estimar la magnitud no prueba causalidad; permite priorizar y generar hipótesis.",
+          "Frecuencia y denominadores: Número absoluto es conteo; proporción es parte de un total; tasa se define por población/tiempo. Para comparar territorios, usar medidas con denominador y período definidos.",
+          "Prevalencia: Casos existentes en momento determinado divididos entre población de referencia. No equivale a incidencia, que mide casos nuevos entre personas en riesgo.",
+          "Estudios transversales: Pueden estimar prevalencia y, si comparan variables, explorar asociaciones. La medición simultánea generalmente no establece temporalidad ni causalidad.",
+          "Investigación causal: Contrasta efectos de exposiciones, considera confundidores, sesgos y temporalidad. Hallar dos frecuencias altas no significa que un factor cause otro.",
+          "Investigación explicativa: Procura explicar mecanismos o razones de aparición de un fenómeno, en vez de solamente describir su distribución.",
+          "Investigación predictiva: Construye y valida modelos para pronosticar eventos futuros; una variable predictora no es necesariamente causa.",
+          "Aplicación al primer nivel: Para un ASIS, medir anemia, TB, diabetes o HTA por edad, comunidad y período. Verificar fuentes, criterios diagnósticos, muestreo y datos faltantes.",
+          "Sesgos: Un marco muestral incompleto, no respuesta o medición defectuosa distorsionan frecuencias; mayor número de sujetos no elimina necesariamente sesgo de selección."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Causal: estima efectos o causas, no solo frecuencias.",
+          "B": "Correcta en PDF: caracteriza la distribución y prevalencia.",
+          "C": "Explicativa: pregunta por motivos y mecanismos, ausentes aquí.",
+          "D": "Predictiva: pronostica hechos futuros, no es el propósito enunciado."
+        },
+        "normativa": [
+          {
+            "nombre": "Artículo metodológico sobre diseños de investigación aplicada",
+            "url": "https://scielo.isciii.es/scielo.php?pid=S0465-546X2008000100011&script=sci_arttext",
+            "aplicacion": "Diferencia estudios descriptivos y analíticos."
+          }
+        ],
+        "mnemotecnia": "DESCRIPTIVO = FOTOGRAFÍA (CUÁNTOS, QUIÉNES, DÓNDE, CUÁNDO). CAUSAL = buscar causa. PREDICTIVO = anticipar futuro.",
+        "trampas": [
+          "Prevalencia no es incidencia.",
+          "Una frecuencia no demuestra causa.",
+          "Transversal no siempre equivale a objetivo meramente descriptivo.",
+          "Toda proporción poblacional requiere denominador apropiado.",
+          "El sesgo de selección invalida inferencias aunque la muestra sea grande."
+        ],
+        "perla": "P21-B: frecuencia + características + prevalencia = DESCRIPTIVO.",
+        "repaso_activo": [
+          {
+            "pregunta": "¿Qué palabras marcan la clave B?",
+            "respuesta": "Frecuencia, características y prevalencia."
+          },
+          {
+            "pregunta": "¿Prevalencia mide casos nuevos?",
+            "respuesta": "No, casos existentes."
+          },
+          {
+            "pregunta": "¿Qué preguntas identifica la descripción?",
+            "respuesta": "Cuánto, quiénes, dónde, cuándo."
+          },
+          {
+            "pregunta": "¿Qué caracteriza predicción?",
+            "respuesta": "Pronosticar desenlace futuro."
+          },
+          {
+            "pregunta": "¿Un transversal puede ser analítico?",
+            "respuesta": "Sí, aunque tiene límites temporales para inferir causalidad."
+          }
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Se estima el porcentaje de adolescentes con obesidad según distrito sin examinar causas. ¿Qué finalidad es?",
+            "alternativas": {
+              "A": "Causal",
+              "B": "Descriptiva",
+              "C": "Experimental",
+              "D": "Predictiva"
+            },
+            "respuesta": "B",
+            "explicacion": "Cuantifica frecuencia y distribución."
+          },
+          {
+            "enunciado": "Un algoritmo estima probabilidad de reingreso a 30 días y se valida su calibración. ¿Qué enfoque predomina?",
+            "alternativas": {
+              "A": "Etnográfico",
+              "B": "Causal",
+              "C": "Descriptivo de prevalencia",
+              "D": "Predictivo"
+            },
+            "respuesta": "D",
+            "explicacion": "La finalidad es pronosticar un resultado futuro."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Problemas de investigación descriptivos",
+          "eje": "Epidemiología y diseño de investigación",
+          "confiabilidad": "Clave resaltada en PDF aportado",
+          "respuesta_resumida": "B. Descriptivo",
+          "razonamiento": [
+            "La respuesta resaltada es B, descriptivo. El problema busca saber cómo se presenta una situación: frecuencia, características, condiciones y prevalencia. Todas son propiedades de distribución de un fenómeno observado.",
+            "Las preguntas «cuánto», «quién», «dónde», «cuándo» conducen a descripción. «Por qué» sugiere explicación o causalidad; «qué pasará» sugiere predicción.",
+            "Medir prevalencia de anemia entre escolares permite describir el tamaño del problema. No autoriza afirmar que una dieta concreta lo causó sin diseño y evidencia adicionales."
+          ],
+          "temario": [
+            {
+              "subtitulo": "Objetivo descriptivo",
+              "texto": "Conocer frecuencia, características, distribución por persona, lugar y tiempo de un problema. Estimar la magnitud no prueba causalidad; permite priorizar y generar hipótesis."
+            },
+            {
+              "subtitulo": "Frecuencia y denominadores",
+              "texto": "Número absoluto es conteo; proporción es parte de un total; tasa se define por población/tiempo. Para comparar territorios, usar medidas con denominador y período definidos."
+            },
+            {
+              "subtitulo": "Prevalencia",
+              "texto": "Casos existentes en momento determinado divididos entre población de referencia. No equivale a incidencia, que mide casos nuevos entre personas en riesgo."
+            },
+            {
+              "subtitulo": "Estudios transversales",
+              "texto": "Pueden estimar prevalencia y, si comparan variables, explorar asociaciones. La medición simultánea generalmente no establece temporalidad ni causalidad."
+            },
+            {
+              "subtitulo": "Investigación causal",
+              "texto": "Contrasta efectos de exposiciones, considera confundidores, sesgos y temporalidad. Hallar dos frecuencias altas no significa que un factor cause otro."
+            },
+            {
+              "subtitulo": "Investigación explicativa",
+              "texto": "Procura explicar mecanismos o razones de aparición de un fenómeno, en vez de solamente describir su distribución."
+            },
+            {
+              "subtitulo": "Investigación predictiva",
+              "texto": "Construye y valida modelos para pronosticar eventos futuros; una variable predictora no es necesariamente causa."
+            },
+            {
+              "subtitulo": "Aplicación al primer nivel",
+              "texto": "Para un ASIS, medir anemia, TB, diabetes o HTA por edad, comunidad y período. Verificar fuentes, criterios diagnósticos, muestreo y datos faltantes."
+            },
+            {
+              "subtitulo": "Sesgos",
+              "texto": "Un marco muestral incompleto, no respuesta o medición defectuosa distorsionan frecuencias; mayor número de sujetos no elimina necesariamente sesgo de selección."
+            }
+          ],
+          "distractores": {
+            "A": "Causal: estima efectos o causas, no solo frecuencias.",
+            "B": "Correcta en PDF: caracteriza la distribución y prevalencia.",
+            "C": "Explicativa: pregunta por motivos y mecanismos, ausentes aquí.",
+            "D": "Predictiva: pronostica hechos futuros, no es el propósito enunciado."
+          },
+          "normativa": [
+            {
+              "nombre": "Artículo metodológico sobre diseños de investigación aplicada",
+              "url": "https://scielo.isciii.es/scielo.php?pid=S0465-546X2008000100011&script=sci_arttext",
+              "aplicacion": "Diferencia estudios descriptivos y analíticos."
+            }
+          ],
+          "mnemotecnia": "DESCRIPTIVO = FOTOGRAFÍA (CUÁNTOS, QUIÉNES, DÓNDE, CUÁNDO). CAUSAL = buscar causa. PREDICTIVO = anticipar futuro.",
+          "trampas": [
+            "Prevalencia no es incidencia.",
+            "Una frecuencia no demuestra causa.",
+            "Transversal no siempre equivale a objetivo meramente descriptivo.",
+            "Toda proporción poblacional requiere denominador apropiado.",
+            "El sesgo de selección invalida inferencias aunque la muestra sea grande."
+          ],
+          "perla": "P21-B: frecuencia + características + prevalencia = DESCRIPTIVO.",
+          "repaso_activo": [
+            {
+              "pregunta": "¿Qué palabras marcan la clave B?",
+              "respuesta": "Frecuencia, características y prevalencia."
+            },
+            {
+              "pregunta": "¿Prevalencia mide casos nuevos?",
+              "respuesta": "No, casos existentes."
+            },
+            {
+              "pregunta": "¿Qué preguntas identifica la descripción?",
+              "respuesta": "Cuánto, quiénes, dónde, cuándo."
+            },
+            {
+              "pregunta": "¿Qué caracteriza predicción?",
+              "respuesta": "Pronosticar desenlace futuro."
+            },
+            {
+              "pregunta": "¿Un transversal puede ser analítico?",
+              "respuesta": "Sí, aunque tiene límites temporales para inferir causalidad."
+            }
+          ],
+          "refuerzo": [
+            {
+              "enunciado": "Se estima el porcentaje de adolescentes con obesidad según distrito sin examinar causas. ¿Qué finalidad es?",
+              "alternativas": {
+                "A": "Causal",
+                "B": "Descriptiva",
+                "C": "Experimental",
+                "D": "Predictiva"
+              },
+              "respuesta": "B",
+              "explicacion": "Cuantifica frecuencia y distribución."
+            },
+            {
+              "enunciado": "Un algoritmo estima probabilidad de reingreso a 30 días y se valida su calibración. ¿Qué enfoque predomina?",
+              "alternativas": {
+                "A": "Etnográfico",
+                "B": "Causal",
+                "C": "Descriptivo de prevalencia",
+                "D": "Predictivo"
+              },
+              "respuesta": "D",
+              "explicacion": "La finalidad es pronosticar un resultado futuro."
+            }
+          ]
+        }
+      }
     },
     {
       "number": 22,
