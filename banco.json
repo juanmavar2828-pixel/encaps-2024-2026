@@ -16106,8 +16106,8 @@
     {
       "number": 91,
       "code": "ENCAPS26-II P091",
-      "course": "ENCAPS Medicina · Por desarrollar",
-      "topic": "ENCAPS Medicina 2026-II",
+      "course": "ENCAPS Medicina · Desarrollo completo",
+      "topic": "Diagnóstico post mortem de dengue y toma de muestras",
       "question": "En cuanto a los exámenes auxiliares en pacientes fallecidos con probable diagnóstico de dengue, la muestra para laboratorio se puede obtener de tejido del hígado, bazo y ganglios linfáticos antes de las ...... horas de fallecido.",
       "options": {
         "A": "48",
@@ -16116,18 +16116,202 @@
         "D": "24"
       },
       "correct": "D",
-      "comment": "Tema pendiente de desarrollo detallado. La alternativa correcta indicada es la resaltada en el PDF del usuario; todavía no se ha cotejado independientemente contra el listado oficial de claves del MINSA.",
-      "pearl": "",
-      "keywords": [],
-      "estadoDesarrollo": "pendiente",
+      "comment": "CLAVE ORIGINAL\nD. 24 (clave resaltada en el PDF proporcionado; todavía sin cotejo independiente con solucionario oficial).\n\nRAZONAMIENTO CLÍNICO/NORMATIVO\nLa expresión decisiva es «paciente fallecido con probable dengue» y la pregunta pide un límite temporal para obtener tejidos destinados al diagnóstico. La NTS peruana para atención integral del dengue señala toma de tejido dentro de las primeras 24 horas posteriores al fallecimiento. Se recomiendan bazo, hígado, ganglios linfáticos y, según indicación, riñón, obtenidos por personal habilitado y remitidos por la red de laboratorio. La clave documental es D: 24 horas. No equivale a afirmar que el diagnóstico clínico del paciente vivo deba esperar laboratorio; los casos sospechosos requieren manejo y notificación oportunos. La obtención post mortem debe respetar bioseguridad, conservación, cadena de custodia institucional y protocolos de necropsia. Diferenciar material para técnicas virológicas de tejido para histopatología, ya que fijador y transporte son distintos.\n\nTEMARIO DE DOMINIO\n1. Dengue y gravedad. El dengue es una arbovirosis transmitida por mosquitos Aedes. La evolución puede incluir fase febril, fase crítica cercana a la defervescencia y recuperación. Signos de alarma incluyen dolor abdominal intenso, vómitos persistentes, acumulación de líquidos, sangrado mucoso, letargia o irritabilidad y hepatomegalia; requieren evaluación y manejo según clasificación.\n2. Diagnóstico clínico. La atención se inicia por contexto epidemiológico, síntomas, signos y evaluación hemodinámica. La prueba de laboratorio apoya clasificación epidemiológica, pero no debe retrasar fluidos, vigilancia clínica ni decisiones de referencia.\n3. Muestras en vida. La selección entre detección de antígeno NS1, ARN viral o anticuerpos depende del tiempo transcurrido desde inicio de síntomas, disponibilidad y protocolo del laboratorio. El resultado negativo no descarta dengue en todos los momentos.\n4. Necropsia y ventana temporal. En fallecidos con sospecha de dengue y sin confirmación previa, la norma técnica plantea obtener tejidos en menos de 24 horas post mortem. No confundir 24 horas para tejidos con tiempos distintos de notificación.\n5. Órganos. Hígado, bazo y ganglios linfáticos son muestras descritas; también puede emplearse tejido renal. La elección y procesamiento corresponden al circuito de anatomía patológica y laboratorio referencial.\n6. Conservación y bioseguridad. Documentar identificación, horas desde fallecimiento, órgano obtenido, preservación y envío. Tejido para biología molecular y tejido fijado para histopatología no comparten necesariamente el mismo medio.\n7. Investigación de muerte. Evaluar factores asociados a desenlace: choque, extravasación, hemorragia significativa, comorbilidades y retrasos en reconocimiento. No adjudicar causalidad solo a un resultado positivo.\n8. Vigilancia y notificación. La sospecha activa investigación epidemiológica conforme a norma. Los resultados de laboratorio complementan vigilancia; la notificación no se pospone hasta culminar estudios.\n\nANÁLISIS DE TODAS LAS ALTERNATIVAS\nA) 48 horas: excede la ventana post mortem señalada para la toma de tejidos en la norma mencionada. No es equivalente a considerar estabilidad de una muestra ya conservada.\nB) 36 horas: valor que no corresponde al límite normativo planteado; la utilidad analítica depende de múltiples factores y no autoriza posponer la obtención.\nC) 72 horas: tres días no es la indicación para extracción inicial en sospecha de dengue post mortem; confunde tiempos logísticos con ventana de obtención.\nD) 24 horas: coincide con la recomendación de toma de tejidos dentro de las primeras 24 horas desde el fallecimiento.\n\nREFERENCIAS Y MARCO REGULATORIO\nRM 175-2024-MINSA: NTS 211-MINSA/DGIESP-2024 | https://www.gob.pe/institucion/minsa/normas-legales/5323501-175-2024-minsa | Norma técnica de atención integral del dengue, incluida evaluación de fallecidos y muestras.\nRM 473-2025-MINSA: NTS 230-MINSA/CDC-2025 | https://www.gob.pe/institucion/minsa/normas-legales/6965655-473-2025-minsa | Vigilancia y laboratorio de arbovirosis: considerar versión aplicable y actualizaciones.\n\nTRAMPAS Y MATICES\nNo confundir toma del tejido antes de 24 horas con tiempo máximo para emitir un resultado de laboratorio.\nUn caso de dengue es fundamentalmente clínico; confirmación no debe retrasar tratamiento y notificación.\nEl líquido fijador adecuado depende de si se solicita histopatología o detección molecular; no intercambiarlos.\n\nMNEMOTECNIA\nDENGUE FALLECIDO: tejidos en 24 horas — hígado, bazo y ganglio.\n\nRECUPERACIÓN ACTIVA\n1. ¿Cuál es la ventana de toma de tejidos post mortem en la pregunta?\n   Dentro de las primeras 24 horas del fallecimiento.\n2. ¿Qué tejidos se mencionan?\n   Hígado, bazo y ganglios; también riñón según protocolo.\n3. ¿Se espera confirmación para iniciar manejo de dengue en vida?\n   No. El diagnóstico clínico y la gravedad guían la conducta.\n4. ¿Qué error preanalítico afecta el estudio?\n   Transporte o preservación inadecuados para la técnica solicitada.\n\nCASOS DE REFUERZO\n1. Fallecido con sospecha de dengue sin suero disponible. El personal pregunta cuándo y de qué órgano obtener tejido para estudio confirmatorio. ¿Cuál es la conducta más compatible con la norma?\nA) Esperar 48 horas y tomar muestra de piel\nB) Esperar 72 horas y obtener líquido pleural\nC) Tomar hisopado nasal antes de cinco días\nD) Tomar muestra fecal dentro de 36 horas\nE) Obtener hígado o bazo dentro de 24 horas\nRespuesta E. Se prioriza tejido apropiado dentro de las primeras 24 horas; la técnica y el transporte se coordinan con anatomía patológica y laboratorio.\n2. Un paciente con fiebre, dolor abdominal intenso e hipotensión presenta nexo epidemiológico con dengue; aún no dispone de confirmación. ¿Cuál es la mejor decisión inmediata?\nA) Esperar IgM antes de clasificar gravedad\nB) Valorar y tratar clínicamente el cuadro sin esperar laboratorio\nC) Suspender vigilancia por ausencia de NS1\nD) Programar revisión en una semana sin hidratación\nE) Solicitar necropsia diagnóstica como primer paso\nRespuesta B. La clasificación y el manejo del dengue son clínicos; los exámenes auxiliares no deben demorar estabilización y referencia.\n\nPERLA\nDENGUE FALLECIDO: tejidos en 24 horas — hígado, bazo y ganglio. No confundir toma del tejido antes de 24 horas con tiempo máximo para emitir un resultado de laboratorio.",
+      "pearl": "DENGUE FALLECIDO: tejidos en 24 horas — hígado, bazo y ganglio. No confundir toma del tejido antes de 24 horas con tiempo máximo para emitir un resultado de laboratorio.",
+      "keywords": [
+        "Diagnóstico post mortem de dengue y toma de muestras",
+        "ENCAPS 2026-II",
+        "MINSA régimen 276"
+      ],
+      "estadoDesarrollo": "completo",
       "estadoClave": "resaltada_en_pdf_usuario_no_cotejada_independientemente_con_tabla_minsa",
-      "lesson": null
+      "lesson": {
+        "respuesta_resumida": "D. 24 (clave resaltada en el PDF proporcionado; todavía sin cotejo independiente con solucionario oficial).",
+        "razonamiento": "La expresión decisiva es «paciente fallecido con probable dengue» y la pregunta pide un límite temporal para obtener tejidos destinados al diagnóstico. La NTS peruana para atención integral del dengue señala toma de tejido dentro de las primeras 24 horas posteriores al fallecimiento. Se recomiendan bazo, hígado, ganglios linfáticos y, según indicación, riñón, obtenidos por personal habilitado y remitidos por la red de laboratorio. La clave documental es D: 24 horas. No equivale a afirmar que el diagnóstico clínico del paciente vivo deba esperar laboratorio; los casos sospechosos requieren manejo y notificación oportunos. La obtención post mortem debe respetar bioseguridad, conservación, cadena de custodia institucional y protocolos de necropsia. Diferenciar material para técnicas virológicas de tejido para histopatología, ya que fijador y transporte son distintos.",
+        "temario": [
+          "Dengue y gravedad: El dengue es una arbovirosis transmitida por mosquitos Aedes. La evolución puede incluir fase febril, fase crítica cercana a la defervescencia y recuperación. Signos de alarma incluyen dolor abdominal intenso, vómitos persistentes, acumulación de líquidos, sangrado mucoso, letargia o irritabilidad y hepatomegalia; requieren evaluación y manejo según clasificación.",
+          "Diagnóstico clínico: La atención se inicia por contexto epidemiológico, síntomas, signos y evaluación hemodinámica. La prueba de laboratorio apoya clasificación epidemiológica, pero no debe retrasar fluidos, vigilancia clínica ni decisiones de referencia.",
+          "Muestras en vida: La selección entre detección de antígeno NS1, ARN viral o anticuerpos depende del tiempo transcurrido desde inicio de síntomas, disponibilidad y protocolo del laboratorio. El resultado negativo no descarta dengue en todos los momentos.",
+          "Necropsia y ventana temporal: En fallecidos con sospecha de dengue y sin confirmación previa, la norma técnica plantea obtener tejidos en menos de 24 horas post mortem. No confundir 24 horas para tejidos con tiempos distintos de notificación.",
+          "Órganos: Hígado, bazo y ganglios linfáticos son muestras descritas; también puede emplearse tejido renal. La elección y procesamiento corresponden al circuito de anatomía patológica y laboratorio referencial.",
+          "Conservación y bioseguridad: Documentar identificación, horas desde fallecimiento, órgano obtenido, preservación y envío. Tejido para biología molecular y tejido fijado para histopatología no comparten necesariamente el mismo medio.",
+          "Investigación de muerte: Evaluar factores asociados a desenlace: choque, extravasación, hemorragia significativa, comorbilidades y retrasos en reconocimiento. No adjudicar causalidad solo a un resultado positivo.",
+          "Vigilancia y notificación: La sospecha activa investigación epidemiológica conforme a norma. Los resultados de laboratorio complementan vigilancia; la notificación no se pospone hasta culminar estudios."
+        ],
+        "por_que_no_las_otras": {
+          "A": "48 horas: excede la ventana post mortem señalada para la toma de tejidos en la norma mencionada. No es equivalente a considerar estabilidad de una muestra ya conservada.",
+          "B": "36 horas: valor que no corresponde al límite normativo planteado; la utilidad analítica depende de múltiples factores y no autoriza posponer la obtención.",
+          "C": "72 horas: tres días no es la indicación para extracción inicial en sospecha de dengue post mortem; confunde tiempos logísticos con ventana de obtención.",
+          "D": "24 horas: coincide con la recomendación de toma de tejidos dentro de las primeras 24 horas desde el fallecimiento."
+        },
+        "normativa": [
+          "RM 175-2024-MINSA: NTS 211-MINSA/DGIESP-2024 | https://www.gob.pe/institucion/minsa/normas-legales/5323501-175-2024-minsa | Norma técnica de atención integral del dengue, incluida evaluación de fallecidos y muestras.",
+          "RM 473-2025-MINSA: NTS 230-MINSA/CDC-2025 | https://www.gob.pe/institucion/minsa/normas-legales/6965655-473-2025-minsa | Vigilancia y laboratorio de arbovirosis: considerar versión aplicable y actualizaciones."
+        ],
+        "mnemotecnia": "DENGUE FALLECIDO: tejidos en 24 horas — hígado, bazo y ganglio.",
+        "trampas": [
+          "No confundir toma del tejido antes de 24 horas con tiempo máximo para emitir un resultado de laboratorio.",
+          "Un caso de dengue es fundamentalmente clínico; confirmación no debe retrasar tratamiento y notificación.",
+          "El líquido fijador adecuado depende de si se solicita histopatología o detección molecular; no intercambiarlos."
+        ],
+        "perla": "DENGUE FALLECIDO: tejidos en 24 horas — hígado, bazo y ganglio. No confundir toma del tejido antes de 24 horas con tiempo máximo para emitir un resultado de laboratorio.",
+        "repaso_activo": [
+          "¿Cuál es la ventana de toma de tejidos post mortem en la pregunta? — Dentro de las primeras 24 horas del fallecimiento.",
+          "¿Qué tejidos se mencionan? — Hígado, bazo y ganglios; también riñón según protocolo.",
+          "¿Se espera confirmación para iniciar manejo de dengue en vida? — No. El diagnóstico clínico y la gravedad guían la conducta.",
+          "¿Qué error preanalítico afecta el estudio? — Transporte o preservación inadecuados para la técnica solicitada."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Fallecido con sospecha de dengue sin suero disponible. El personal pregunta cuándo y de qué órgano obtener tejido para estudio confirmatorio. ¿Cuál es la conducta más compatible con la norma?",
+            "alternativas": {
+              "A": "Esperar 48 horas y tomar muestra de piel",
+              "B": "Esperar 72 horas y obtener líquido pleural",
+              "C": "Tomar hisopado nasal antes de cinco días",
+              "D": "Tomar muestra fecal dentro de 36 horas",
+              "E": "Obtener hígado o bazo dentro de 24 horas"
+            },
+            "respuesta": "E",
+            "explicacion": "Se prioriza tejido apropiado dentro de las primeras 24 horas; la técnica y el transporte se coordinan con anatomía patológica y laboratorio."
+          },
+          {
+            "enunciado": "Un paciente con fiebre, dolor abdominal intenso e hipotensión presenta nexo epidemiológico con dengue; aún no dispone de confirmación. ¿Cuál es la mejor decisión inmediata?",
+            "alternativas": {
+              "A": "Esperar IgM antes de clasificar gravedad",
+              "B": "Valorar y tratar clínicamente el cuadro sin esperar laboratorio",
+              "C": "Suspender vigilancia por ausencia de NS1",
+              "D": "Programar revisión en una semana sin hidratación",
+              "E": "Solicitar necropsia diagnóstica como primer paso"
+            },
+            "respuesta": "B",
+            "explicacion": "La clasificación y el manejo del dengue son clínicos; los exámenes auxiliares no deben demorar estabilización y referencia."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Diagnóstico post mortem de dengue y toma de muestras",
+          "eje": "ENCAPS Medicina 2026-II · Prevención, salud pública y gestión",
+          "confiabilidad": "clave_resaltada_en_pdf_sin_verificacion_de_solucionario_oficial",
+          "respuesta_resumida": "D. 24 (clave resaltada en el PDF proporcionado; todavía sin cotejo independiente con solucionario oficial).",
+          "razonamiento": [
+            "La expresión decisiva es «paciente fallecido con probable dengue» y la pregunta pide un límite temporal para obtener tejidos destinados al diagnóstico.",
+            "La NTS peruana para atención integral del dengue señala toma de tejido dentro de las primeras 24 horas posteriores al fallecimiento.",
+            "Se recomiendan bazo, hígado, ganglios linfáticos y, según indicación, riñón, obtenidos por personal habilitado y remitidos por la red de laboratorio.",
+            "La clave documental es D: 24 horas.",
+            "No equivale a afirmar que el diagnóstico clínico del paciente vivo deba esperar laboratorio; los casos sospechosos requieren manejo y notificación oportunos.",
+            "La obtención post mortem debe respetar bioseguridad, conservación, cadena de custodia institucional y protocolos de necropsia.",
+            "Diferenciar material para técnicas virológicas de tejido para histopatología, ya que fijador y transporte son distintos."
+          ],
+          "temario": [
+            {
+              "subtitulo": "Dengue y gravedad",
+              "texto": "El dengue es una arbovirosis transmitida por mosquitos Aedes. La evolución puede incluir fase febril, fase crítica cercana a la defervescencia y recuperación. Signos de alarma incluyen dolor abdominal intenso, vómitos persistentes, acumulación de líquidos, sangrado mucoso, letargia o irritabilidad y hepatomegalia; requieren evaluación y manejo según clasificación."
+            },
+            {
+              "subtitulo": "Diagnóstico clínico",
+              "texto": "La atención se inicia por contexto epidemiológico, síntomas, signos y evaluación hemodinámica. La prueba de laboratorio apoya clasificación epidemiológica, pero no debe retrasar fluidos, vigilancia clínica ni decisiones de referencia."
+            },
+            {
+              "subtitulo": "Muestras en vida",
+              "texto": "La selección entre detección de antígeno NS1, ARN viral o anticuerpos depende del tiempo transcurrido desde inicio de síntomas, disponibilidad y protocolo del laboratorio. El resultado negativo no descarta dengue en todos los momentos."
+            },
+            {
+              "subtitulo": "Necropsia y ventana temporal",
+              "texto": "En fallecidos con sospecha de dengue y sin confirmación previa, la norma técnica plantea obtener tejidos en menos de 24 horas post mortem. No confundir 24 horas para tejidos con tiempos distintos de notificación."
+            },
+            {
+              "subtitulo": "Órganos",
+              "texto": "Hígado, bazo y ganglios linfáticos son muestras descritas; también puede emplearse tejido renal. La elección y procesamiento corresponden al circuito de anatomía patológica y laboratorio referencial."
+            },
+            {
+              "subtitulo": "Conservación y bioseguridad",
+              "texto": "Documentar identificación, horas desde fallecimiento, órgano obtenido, preservación y envío. Tejido para biología molecular y tejido fijado para histopatología no comparten necesariamente el mismo medio."
+            },
+            {
+              "subtitulo": "Investigación de muerte",
+              "texto": "Evaluar factores asociados a desenlace: choque, extravasación, hemorragia significativa, comorbilidades y retrasos en reconocimiento. No adjudicar causalidad solo a un resultado positivo."
+            },
+            {
+              "subtitulo": "Vigilancia y notificación",
+              "texto": "La sospecha activa investigación epidemiológica conforme a norma. Los resultados de laboratorio complementan vigilancia; la notificación no se pospone hasta culminar estudios."
+            }
+          ],
+          "distractores": {
+            "A": "48 horas: excede la ventana post mortem señalada para la toma de tejidos en la norma mencionada. No es equivalente a considerar estabilidad de una muestra ya conservada.",
+            "B": "36 horas: valor que no corresponde al límite normativo planteado; la utilidad analítica depende de múltiples factores y no autoriza posponer la obtención.",
+            "C": "72 horas: tres días no es la indicación para extracción inicial en sospecha de dengue post mortem; confunde tiempos logísticos con ventana de obtención.",
+            "D": "24 horas: coincide con la recomendación de toma de tejidos dentro de las primeras 24 horas desde el fallecimiento."
+          },
+          "normativa": [
+            {
+              "nombre": "RM 175-2024-MINSA: NTS 211-MINSA/DGIESP-2024",
+              "url": "https://www.gob.pe/institucion/minsa/normas-legales/5323501-175-2024-minsa",
+              "aplicacion": "Norma técnica de atención integral del dengue, incluida evaluación de fallecidos y muestras."
+            },
+            {
+              "nombre": "RM 473-2025-MINSA: NTS 230-MINSA/CDC-2025",
+              "url": "https://www.gob.pe/institucion/minsa/normas-legales/6965655-473-2025-minsa",
+              "aplicacion": "Vigilancia y laboratorio de arbovirosis: considerar versión aplicable y actualizaciones."
+            }
+          ],
+          "mnemotecnia": "DENGUE FALLECIDO: tejidos en 24 horas — hígado, bazo y ganglio.",
+          "trampas": [
+            "No confundir toma del tejido antes de 24 horas con tiempo máximo para emitir un resultado de laboratorio.",
+            "Un caso de dengue es fundamentalmente clínico; confirmación no debe retrasar tratamiento y notificación.",
+            "El líquido fijador adecuado depende de si se solicita histopatología o detección molecular; no intercambiarlos."
+          ],
+          "perla": "DENGUE FALLECIDO: tejidos en 24 horas — hígado, bazo y ganglio.",
+          "repaso_activo": [
+            {
+              "pregunta": "¿Cuál es la ventana de toma de tejidos post mortem en la pregunta?",
+              "respuesta": "Dentro de las primeras 24 horas del fallecimiento."
+            },
+            {
+              "pregunta": "¿Qué tejidos se mencionan?",
+              "respuesta": "Hígado, bazo y ganglios; también riñón según protocolo."
+            },
+            {
+              "pregunta": "¿Se espera confirmación para iniciar manejo de dengue en vida?",
+              "respuesta": "No. El diagnóstico clínico y la gravedad guían la conducta."
+            },
+            {
+              "pregunta": "¿Qué error preanalítico afecta el estudio?",
+              "respuesta": "Transporte o preservación inadecuados para la técnica solicitada."
+            }
+          ],
+          "refuerzo": [
+            {
+              "enunciado": "Fallecido con sospecha de dengue sin suero disponible. El personal pregunta cuándo y de qué órgano obtener tejido para estudio confirmatorio. ¿Cuál es la conducta más compatible con la norma?",
+              "alternativas": {
+                "A": "Esperar 48 horas y tomar muestra de piel",
+                "B": "Esperar 72 horas y obtener líquido pleural",
+                "C": "Tomar hisopado nasal antes de cinco días",
+                "D": "Tomar muestra fecal dentro de 36 horas",
+                "E": "Obtener hígado o bazo dentro de 24 horas"
+              },
+              "respuesta": "E",
+              "explicacion": "Se prioriza tejido apropiado dentro de las primeras 24 horas; la técnica y el transporte se coordinan con anatomía patológica y laboratorio."
+            },
+            {
+              "enunciado": "Un paciente con fiebre, dolor abdominal intenso e hipotensión presenta nexo epidemiológico con dengue; aún no dispone de confirmación. ¿Cuál es la mejor decisión inmediata?",
+              "alternativas": {
+                "A": "Esperar IgM antes de clasificar gravedad",
+                "B": "Valorar y tratar clínicamente el cuadro sin esperar laboratorio",
+                "C": "Suspender vigilancia por ausencia de NS1",
+                "D": "Programar revisión en una semana sin hidratación",
+                "E": "Solicitar necropsia diagnóstica como primer paso"
+              },
+              "respuesta": "B",
+              "explicacion": "La clasificación y el manejo del dengue son clínicos; los exámenes auxiliares no deben demorar estabilización y referencia."
+            }
+          ]
+        }
+      }
     },
     {
       "number": 92,
       "code": "ENCAPS26-II P092",
-      "course": "ENCAPS Medicina · Por desarrollar",
-      "topic": "ENCAPS Medicina 2026-II",
+      "course": "ENCAPS Medicina · Desarrollo completo",
+      "topic": "Innovación científica en control del dengue: Wolbachia y vacunas",
       "question": "El incremento de la morbimortalidad por dengue ha generado intervenciones como el proyecto Wolbachia y la vacunación contra el dengue. Dentro de la transición epidemiológica estas actividades se corresponden con cambios en:",
       "options": {
         "A": "Cambios en la antigenicidad",
@@ -16136,18 +16320,200 @@
         "D": "Factores de modernización"
       },
       "correct": "B",
-      "comment": "Tema pendiente de desarrollo detallado. La alternativa correcta indicada es la resaltada en el PDF del usuario; todavía no se ha cotejado independientemente contra el listado oficial de claves del MINSA.",
-      "pearl": "",
-      "keywords": [],
-      "estadoDesarrollo": "pendiente",
+      "comment": "CLAVE ORIGINAL\nB. Impacto de la investigación científica (clave resaltada en el PDF proporcionado; todavía sin cotejo independiente con solucionario oficial).\n\nRAZONAMIENTO CLÍNICO/NORMATIVO\nLa introducción de Wolbachia en estrategias de control vectorial y el desarrollo de vacunación contra dengue derivan de investigación científica, ensayos, evaluaciones tecnológicas y decisiones regulatorias. El enunciado relaciona nuevas intervenciones ante la carga de enfermedad con el «impacto de la investigación científica» (clave B). El concepto «transición epidemiológica» se refiere en general a cambios de patrones de enfermedad y mortalidad, pero aquí la redacción utiliza el término de manera amplia para aludir a intervenciones innovadoras; conviene reconocer ese matiz y no interpretarlo como si Wolbachia fuera un cambio de antigenicidad viral. Wolbachia es una bacteria endosimbionte usada en mosquitos Aedes; ciertas estrategias reducen su competencia para transmitir arbovirus. La vacunación busca inducir respuesta inmune humana y no reemplaza vigilancia ni control de criaderos.\n\nTEMARIO DE DOMINIO\n1. Dengue como problema poblacional. La incidencia y severidad fluctúan con circulación de serotipos, exposición previa, condiciones ambientales, densidad vectorial y capacidad de respuesta sanitaria. No hay una sola medida suficiente para todos los escenarios.\n2. Control vectorial clásico. Eliminar o manejar recipientes criaderos, asegurar almacenamiento de agua, aplicar control entomológico y movilización comunitaria. El monitoreo de índices vectoriales y cobertura orienta decisiones.\n3. Wolbachia: mecanismo. Wolbachia es una bacteria que puede establecerse en Aedes aegypti. Según estrategia, reduce replicación y transmisión de virus o modifica dinámica reproductiva del vector; no es un antibiótico para pacientes.\n4. Evaluación científica. Una innovación exige evidencia de eficacia, seguridad, aceptabilidad, costo-efectividad y monitoreo de campo. Evaluar desenlaces epidemiológicos, no solo número de mosquitos liberados.\n5. Plan peruano. El MINSA aprobó en 2025 un plan 2025–2027 de implementación y evaluación de la estrategia Wolbachia en escenarios priorizados; no generalizar cobertura a todo el país.\n6. Vacunas dengue. La indicación depende de tipo de vacuna, edad, antecedentes y recomendaciones nacionales vigentes. No inferir que todas las vacunas están indicadas para cualquier persona o embarazada.\n7. Transición epidemiológica. Describe cambios históricos del perfil poblacional de enfermedad y muerte. La pregunta no presenta datos para describir etapas clásicas de Omran, sino el papel de investigación aplicada.\n8. Evaluación de impacto. Distinguir asociación temporal de causalidad, medir incidencia y hospitalizaciones, estudiar efecto por áreas y controlar variables ambientales o cambios de vigilancia.\n\nANÁLISIS DE TODAS LAS ALTERNATIVAS\nA) Cambio de antigenicidad afecta reconocimiento inmune del virus, pero no es la característica principal que comparten Wolbachia y vacunas investigadas.\nB) Impacto de la investigación científica: ambos enfoques surgen de innovación y evaluación científica aplicada a prevención y control.\nC) Resistencia bacteriana es tema de antimicrobianos y no explica estrategias de control de un virus transmitido por mosquitos.\nD) Factores de modernización son transformaciones sociales amplias; no nombran de manera precisa estas innovaciones científicas.\n\nREFERENCIAS Y MARCO REGULATORIO\nRM 485-2025-MINSA: Plan Wolbachia 2025–2027 | https://www.gob.pe/institucion/minsa/normas-legales/6992409-485-2025-minsa | Aprobación de implementación y evaluación en escenarios priorizados.\nINS: evaluación de Wolbachia 2024 | https://repositorio.ins.gob.pe/items/b832af18-7642-4602-ad3d-da41ea663399 | Síntesis de evidencia sobre eficacia, seguridad y costo-efectividad.\n\nTRAMPAS Y MATICES\nWolbachia no es una vacuna ni una bacteria inyectada en personas; se emplea en vectores.\nNo atribuir la reducción de dengue solo a una medida sin evaluación epidemiológica.\nLa expresión 'transición epidemiológica' no debe confundirse con el mecanismo de evolución antigénica.\n\nMNEMOTECNIA\nWOLBACHIA = innovación en MOSQUITO; VACUNA = innovación en HUÉSPED; ambas = CIENCIA.\n\nRECUPERACIÓN ACTIVA\n1. ¿Qué une a Wolbachia y vacunación en este ítem?\n   La investigación científica aplicada a prevenir dengue.\n2. ¿Dónde opera Wolbachia en esta estrategia?\n   En el mosquito vector, no como tratamiento humano.\n3. ¿La vacunación reemplaza eliminación de criaderos?\n   No, se necesita prevención integrada.\n4. ¿Qué mide mejor impacto en salud pública?\n   Incidencia, hospitalizaciones, seguridad, cobertura y tendencias comparables.\n\nCASOS DE REFUERZO\n1. Una red propone liberar Aedes con Wolbachia para reducir transmisión de dengue. ¿Qué evidencia es más importante antes de atribuir éxito poblacional?\nA) Número de publicaciones sin datos de campo\nB) Una disminución aislada de larvas un día\nC) Opinión del proveedor sin evaluación externa\nD) Incidencia comparada con seguimiento y control de factores externos\nE) Aumento de uso de antibióticos en pacientes\nRespuesta D. La efectividad epidemiológica se establece mediante comparaciones apropiadas y seguimiento; la reducción de larvas aislada no confirma impacto clínico.\n2. Una enfermera explica que Wolbachia equivale a inyectar una bacteria protectora en escolares. ¿Qué corrección corresponde?\nA) Se trata de intervención sobre el vector Aedes, no una inyección humana\nB) Es un antibiótico contra dengue grave\nC) Se administra como dosis de refuerzo oral\nD) Se utiliza para mutar el genoma humano\nE) Solo se aplica luego de confirmar dengue por PCR\nRespuesta A. La tecnología se basa en mosquitos portadores de Wolbachia, que disminuyen su capacidad de transmisión bajo determinadas estrategias.\n\nPERLA\nWOLBACHIA = innovación en MOSQUITO; VACUNA = innovación en HUÉSPED; ambas = CIENCIA. Wolbachia no es una vacuna ni una bacteria inyectada en personas; se emplea en vectores.",
+      "pearl": "WOLBACHIA = innovación en MOSQUITO; VACUNA = innovación en HUÉSPED; ambas = CIENCIA. Wolbachia no es una vacuna ni una bacteria inyectada en personas; se emplea en vectores.",
+      "keywords": [
+        "Innovación científica en control del dengue: Wolbachia y vacunas",
+        "ENCAPS 2026-II",
+        "MINSA régimen 276"
+      ],
+      "estadoDesarrollo": "completo",
       "estadoClave": "resaltada_en_pdf_usuario_no_cotejada_independientemente_con_tabla_minsa",
-      "lesson": null
+      "lesson": {
+        "respuesta_resumida": "B. Impacto de la investigación científica (clave resaltada en el PDF proporcionado; todavía sin cotejo independiente con solucionario oficial).",
+        "razonamiento": "La introducción de Wolbachia en estrategias de control vectorial y el desarrollo de vacunación contra dengue derivan de investigación científica, ensayos, evaluaciones tecnológicas y decisiones regulatorias. El enunciado relaciona nuevas intervenciones ante la carga de enfermedad con el «impacto de la investigación científica» (clave B). El concepto «transición epidemiológica» se refiere en general a cambios de patrones de enfermedad y mortalidad, pero aquí la redacción utiliza el término de manera amplia para aludir a intervenciones innovadoras; conviene reconocer ese matiz y no interpretarlo como si Wolbachia fuera un cambio de antigenicidad viral. Wolbachia es una bacteria endosimbionte usada en mosquitos Aedes; ciertas estrategias reducen su competencia para transmitir arbovirus. La vacunación busca inducir respuesta inmune humana y no reemplaza vigilancia ni control de criaderos.",
+        "temario": [
+          "Dengue como problema poblacional: La incidencia y severidad fluctúan con circulación de serotipos, exposición previa, condiciones ambientales, densidad vectorial y capacidad de respuesta sanitaria. No hay una sola medida suficiente para todos los escenarios.",
+          "Control vectorial clásico: Eliminar o manejar recipientes criaderos, asegurar almacenamiento de agua, aplicar control entomológico y movilización comunitaria. El monitoreo de índices vectoriales y cobertura orienta decisiones.",
+          "Wolbachia: mecanismo: Wolbachia es una bacteria que puede establecerse en Aedes aegypti. Según estrategia, reduce replicación y transmisión de virus o modifica dinámica reproductiva del vector; no es un antibiótico para pacientes.",
+          "Evaluación científica: Una innovación exige evidencia de eficacia, seguridad, aceptabilidad, costo-efectividad y monitoreo de campo. Evaluar desenlaces epidemiológicos, no solo número de mosquitos liberados.",
+          "Plan peruano: El MINSA aprobó en 2025 un plan 2025–2027 de implementación y evaluación de la estrategia Wolbachia en escenarios priorizados; no generalizar cobertura a todo el país.",
+          "Vacunas dengue: La indicación depende de tipo de vacuna, edad, antecedentes y recomendaciones nacionales vigentes. No inferir que todas las vacunas están indicadas para cualquier persona o embarazada.",
+          "Transición epidemiológica: Describe cambios históricos del perfil poblacional de enfermedad y muerte. La pregunta no presenta datos para describir etapas clásicas de Omran, sino el papel de investigación aplicada.",
+          "Evaluación de impacto: Distinguir asociación temporal de causalidad, medir incidencia y hospitalizaciones, estudiar efecto por áreas y controlar variables ambientales o cambios de vigilancia."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Cambio de antigenicidad afecta reconocimiento inmune del virus, pero no es la característica principal que comparten Wolbachia y vacunas investigadas.",
+          "B": "Impacto de la investigación científica: ambos enfoques surgen de innovación y evaluación científica aplicada a prevención y control.",
+          "C": "Resistencia bacteriana es tema de antimicrobianos y no explica estrategias de control de un virus transmitido por mosquitos.",
+          "D": "Factores de modernización son transformaciones sociales amplias; no nombran de manera precisa estas innovaciones científicas."
+        },
+        "normativa": [
+          "RM 485-2025-MINSA: Plan Wolbachia 2025–2027 | https://www.gob.pe/institucion/minsa/normas-legales/6992409-485-2025-minsa | Aprobación de implementación y evaluación en escenarios priorizados.",
+          "INS: evaluación de Wolbachia 2024 | https://repositorio.ins.gob.pe/items/b832af18-7642-4602-ad3d-da41ea663399 | Síntesis de evidencia sobre eficacia, seguridad y costo-efectividad."
+        ],
+        "mnemotecnia": "WOLBACHIA = innovación en MOSQUITO; VACUNA = innovación en HUÉSPED; ambas = CIENCIA.",
+        "trampas": [
+          "Wolbachia no es una vacuna ni una bacteria inyectada en personas; se emplea en vectores.",
+          "No atribuir la reducción de dengue solo a una medida sin evaluación epidemiológica.",
+          "La expresión 'transición epidemiológica' no debe confundirse con el mecanismo de evolución antigénica."
+        ],
+        "perla": "WOLBACHIA = innovación en MOSQUITO; VACUNA = innovación en HUÉSPED; ambas = CIENCIA. Wolbachia no es una vacuna ni una bacteria inyectada en personas; se emplea en vectores.",
+        "repaso_activo": [
+          "¿Qué une a Wolbachia y vacunación en este ítem? — La investigación científica aplicada a prevenir dengue.",
+          "¿Dónde opera Wolbachia en esta estrategia? — En el mosquito vector, no como tratamiento humano.",
+          "¿La vacunación reemplaza eliminación de criaderos? — No, se necesita prevención integrada.",
+          "¿Qué mide mejor impacto en salud pública? — Incidencia, hospitalizaciones, seguridad, cobertura y tendencias comparables."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Una red propone liberar Aedes con Wolbachia para reducir transmisión de dengue. ¿Qué evidencia es más importante antes de atribuir éxito poblacional?",
+            "alternativas": {
+              "A": "Número de publicaciones sin datos de campo",
+              "B": "Una disminución aislada de larvas un día",
+              "C": "Opinión del proveedor sin evaluación externa",
+              "D": "Incidencia comparada con seguimiento y control de factores externos",
+              "E": "Aumento de uso de antibióticos en pacientes"
+            },
+            "respuesta": "D",
+            "explicacion": "La efectividad epidemiológica se establece mediante comparaciones apropiadas y seguimiento; la reducción de larvas aislada no confirma impacto clínico."
+          },
+          {
+            "enunciado": "Una enfermera explica que Wolbachia equivale a inyectar una bacteria protectora en escolares. ¿Qué corrección corresponde?",
+            "alternativas": {
+              "A": "Se trata de intervención sobre el vector Aedes, no una inyección humana",
+              "B": "Es un antibiótico contra dengue grave",
+              "C": "Se administra como dosis de refuerzo oral",
+              "D": "Se utiliza para mutar el genoma humano",
+              "E": "Solo se aplica luego de confirmar dengue por PCR"
+            },
+            "respuesta": "A",
+            "explicacion": "La tecnología se basa en mosquitos portadores de Wolbachia, que disminuyen su capacidad de transmisión bajo determinadas estrategias."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Innovación científica en control del dengue: Wolbachia y vacunas",
+          "eje": "ENCAPS Medicina 2026-II · Prevención, salud pública y gestión",
+          "confiabilidad": "clave_resaltada_en_pdf_sin_verificacion_de_solucionario_oficial",
+          "respuesta_resumida": "B. Impacto de la investigación científica (clave resaltada en el PDF proporcionado; todavía sin cotejo independiente con solucionario oficial).",
+          "razonamiento": [
+            "La introducción de Wolbachia en estrategias de control vectorial y el desarrollo de vacunación contra dengue derivan de investigación científica, ensayos, evaluaciones tecnológicas y decisiones regulatorias.",
+            "El enunciado relaciona nuevas intervenciones ante la carga de enfermedad con el «impacto de la investigación científica» (clave B).",
+            "El concepto «transición epidemiológica» se refiere en general a cambios de patrones de enfermedad y mortalidad, pero aquí la redacción utiliza el término de manera amplia para aludir a intervenciones innovadoras; conviene reconocer ese matiz y no interpretarlo como si Wolbachia fuera un cambio de antigenicidad viral.",
+            "Wolbachia es una bacteria endosimbionte usada en mosquitos Aedes; ciertas estrategias reducen su competencia para transmitir arbovirus.",
+            "La vacunación busca inducir respuesta inmune humana y no reemplaza vigilancia ni control de criaderos."
+          ],
+          "temario": [
+            {
+              "subtitulo": "Dengue como problema poblacional",
+              "texto": "La incidencia y severidad fluctúan con circulación de serotipos, exposición previa, condiciones ambientales, densidad vectorial y capacidad de respuesta sanitaria. No hay una sola medida suficiente para todos los escenarios."
+            },
+            {
+              "subtitulo": "Control vectorial clásico",
+              "texto": "Eliminar o manejar recipientes criaderos, asegurar almacenamiento de agua, aplicar control entomológico y movilización comunitaria. El monitoreo de índices vectoriales y cobertura orienta decisiones."
+            },
+            {
+              "subtitulo": "Wolbachia: mecanismo",
+              "texto": "Wolbachia es una bacteria que puede establecerse en Aedes aegypti. Según estrategia, reduce replicación y transmisión de virus o modifica dinámica reproductiva del vector; no es un antibiótico para pacientes."
+            },
+            {
+              "subtitulo": "Evaluación científica",
+              "texto": "Una innovación exige evidencia de eficacia, seguridad, aceptabilidad, costo-efectividad y monitoreo de campo. Evaluar desenlaces epidemiológicos, no solo número de mosquitos liberados."
+            },
+            {
+              "subtitulo": "Plan peruano",
+              "texto": "El MINSA aprobó en 2025 un plan 2025–2027 de implementación y evaluación de la estrategia Wolbachia en escenarios priorizados; no generalizar cobertura a todo el país."
+            },
+            {
+              "subtitulo": "Vacunas dengue",
+              "texto": "La indicación depende de tipo de vacuna, edad, antecedentes y recomendaciones nacionales vigentes. No inferir que todas las vacunas están indicadas para cualquier persona o embarazada."
+            },
+            {
+              "subtitulo": "Transición epidemiológica",
+              "texto": "Describe cambios históricos del perfil poblacional de enfermedad y muerte. La pregunta no presenta datos para describir etapas clásicas de Omran, sino el papel de investigación aplicada."
+            },
+            {
+              "subtitulo": "Evaluación de impacto",
+              "texto": "Distinguir asociación temporal de causalidad, medir incidencia y hospitalizaciones, estudiar efecto por áreas y controlar variables ambientales o cambios de vigilancia."
+            }
+          ],
+          "distractores": {
+            "A": "Cambio de antigenicidad afecta reconocimiento inmune del virus, pero no es la característica principal que comparten Wolbachia y vacunas investigadas.",
+            "B": "Impacto de la investigación científica: ambos enfoques surgen de innovación y evaluación científica aplicada a prevención y control.",
+            "C": "Resistencia bacteriana es tema de antimicrobianos y no explica estrategias de control de un virus transmitido por mosquitos.",
+            "D": "Factores de modernización son transformaciones sociales amplias; no nombran de manera precisa estas innovaciones científicas."
+          },
+          "normativa": [
+            {
+              "nombre": "RM 485-2025-MINSA: Plan Wolbachia 2025–2027",
+              "url": "https://www.gob.pe/institucion/minsa/normas-legales/6992409-485-2025-minsa",
+              "aplicacion": "Aprobación de implementación y evaluación en escenarios priorizados."
+            },
+            {
+              "nombre": "INS: evaluación de Wolbachia 2024",
+              "url": "https://repositorio.ins.gob.pe/items/b832af18-7642-4602-ad3d-da41ea663399",
+              "aplicacion": "Síntesis de evidencia sobre eficacia, seguridad y costo-efectividad."
+            }
+          ],
+          "mnemotecnia": "WOLBACHIA = innovación en MOSQUITO; VACUNA = innovación en HUÉSPED; ambas = CIENCIA.",
+          "trampas": [
+            "Wolbachia no es una vacuna ni una bacteria inyectada en personas; se emplea en vectores.",
+            "No atribuir la reducción de dengue solo a una medida sin evaluación epidemiológica.",
+            "La expresión 'transición epidemiológica' no debe confundirse con el mecanismo de evolución antigénica."
+          ],
+          "perla": "WOLBACHIA = innovación en MOSQUITO; VACUNA = innovación en HUÉSPED; ambas = CIENCIA.",
+          "repaso_activo": [
+            {
+              "pregunta": "¿Qué une a Wolbachia y vacunación en este ítem?",
+              "respuesta": "La investigación científica aplicada a prevenir dengue."
+            },
+            {
+              "pregunta": "¿Dónde opera Wolbachia en esta estrategia?",
+              "respuesta": "En el mosquito vector, no como tratamiento humano."
+            },
+            {
+              "pregunta": "¿La vacunación reemplaza eliminación de criaderos?",
+              "respuesta": "No, se necesita prevención integrada."
+            },
+            {
+              "pregunta": "¿Qué mide mejor impacto en salud pública?",
+              "respuesta": "Incidencia, hospitalizaciones, seguridad, cobertura y tendencias comparables."
+            }
+          ],
+          "refuerzo": [
+            {
+              "enunciado": "Una red propone liberar Aedes con Wolbachia para reducir transmisión de dengue. ¿Qué evidencia es más importante antes de atribuir éxito poblacional?",
+              "alternativas": {
+                "A": "Número de publicaciones sin datos de campo",
+                "B": "Una disminución aislada de larvas un día",
+                "C": "Opinión del proveedor sin evaluación externa",
+                "D": "Incidencia comparada con seguimiento y control de factores externos",
+                "E": "Aumento de uso de antibióticos en pacientes"
+              },
+              "respuesta": "D",
+              "explicacion": "La efectividad epidemiológica se establece mediante comparaciones apropiadas y seguimiento; la reducción de larvas aislada no confirma impacto clínico."
+            },
+            {
+              "enunciado": "Una enfermera explica que Wolbachia equivale a inyectar una bacteria protectora en escolares. ¿Qué corrección corresponde?",
+              "alternativas": {
+                "A": "Se trata de intervención sobre el vector Aedes, no una inyección humana",
+                "B": "Es un antibiótico contra dengue grave",
+                "C": "Se administra como dosis de refuerzo oral",
+                "D": "Se utiliza para mutar el genoma humano",
+                "E": "Solo se aplica luego de confirmar dengue por PCR"
+              },
+              "respuesta": "A",
+              "explicacion": "La tecnología se basa en mosquitos portadores de Wolbachia, que disminuyen su capacidad de transmisión bajo determinadas estrategias."
+            }
+          ]
+        }
+      }
     },
     {
       "number": 93,
       "code": "ENCAPS26-II P093",
-      "course": "ENCAPS Medicina · Por desarrollar",
-      "topic": "ENCAPS Medicina 2026-II",
+      "course": "ENCAPS Medicina · Desarrollo completo",
+      "topic": "Teleinterconsulta: paciente presente o ausente",
       "question": "Teleinterconsulta es la consulta a distancia mediante el uso de las TIC, que realiza un personal de salud a un profesional de la salud, para la atención de una persona usuaria, pudiendo ésta estar o no ......; con fines de promoción, prevención, diagnóstico, tratamiento, recuperación, rehabilitación y cuidados paliativos según sea el caso.",
       "options": {
         "A": "disponible",
@@ -16156,18 +16522,205 @@
         "D": "presente"
       },
       "correct": "D",
-      "comment": "Tema pendiente de desarrollo detallado. La alternativa correcta indicada es la resaltada en el PDF del usuario; todavía no se ha cotejado independientemente contra el listado oficial de claves del MINSA.",
-      "pearl": "",
-      "keywords": [],
-      "estadoDesarrollo": "pendiente",
+      "comment": "CLAVE ORIGINAL\nD. presente (clave resaltada en el PDF proporcionado; todavía sin cotejo independiente con solucionario oficial).\n\nRAZONAMIENTO CLÍNICO/NORMATIVO\nLa teleinterconsulta es una interacción entre un personal de salud consultante y un profesional de salud consultor mediante TIC para atender un caso concreto. La persona usuaria puede estar o no presente en el momento de la comunicación: la alternativa D completa exactamente la definición normativa. Esta posibilidad distingue el encuentro entre profesionales de la teleconsulta usuario-profesional. Estar ausente de la videollamada no elimina necesidad de resguardar confidencialidad, documentar información clínica relevante, gestionar consentimiento cuando corresponda, verificar identidad y conservar continuidad asistencial. Tampoco es una vía para que alguien sin competencia asuma decisiones que requieren evaluación presencial.\n\nTEMARIO DE DOMINIO\n1. Telesalud. Conjunto amplio de servicios e intervenciones sanitarias soportadas por tecnologías de información y comunicación para facilitar acceso y oportunidad.\n2. Telemedicina. Prestación clínica a distancia dentro del marco legal, con estándares de calidad, seguridad, privacidad y registro apropiado.\n3. Teleinterconsulta. Un integrante del equipo de salud consulta a un profesional de salud sobre atención de un usuario; el usuario puede participar o estar ausente.\n4. Teleconsulta. Interacción entre usuario y profesional para evaluación clínica remota; características y alcances dependen de servicio y necesidad.\n5. Teleorientación. Consejería y orientación sobre cuidados o conducta preventiva; distinguirla de una teleconsulta diagnóstica completa.\n6. Telemonitoreo. Seguimiento de parámetros o evolución, como presión arterial, glucosa u otros datos, a distancia.\n7. Flujo operativo. Definir motivo clínico, datos pertinentes, canal seguro, recomendaciones, responsable de ejecutar y seguimiento o referencia.\n8. Consentimiento y datos. Utilizar canales institucionales, informar finalidad, registrar acuerdos y evitar exposición innecesaria de información sensible.\n9. Limitaciones. Inestabilidad clínica, ausencia de datos indispensables y necesidad de exploración/procedimiento obligan a priorizar atención presencial y referencias oportunas.\n\nANÁLISIS DE TODAS LAS ALTERNATIVAS\nA) Disponible no es la expresión de la definición: la persona usuaria puede no estar conectada o visible, aunque su información esté disponible para evaluación.\nB) De acuerdo no completa el requisito gramatical ni define presencia física o virtual; el consentimiento se maneja como elemento independiente.\nC) Enfermo no corresponde: la telesalud puede tener fines preventivos y de promoción, con o sin enfermedad.\nD) Presente es correcto: la persona usuaria puede estar o no presente durante la teleinterconsulta entre profesionales.\n\nREFERENCIAS Y MARCO REGULATORIO\nInstituto Nacional de Salud del Niño San Borja: Telemedicina y Telegestión | https://portal.insnsb.gob.pe/telemedicina-y-telegestion/ | Recoge definición de teleinterconsulta y posibilidad de usuario presente o ausente según RM 664-2025-MINSA.\nMINSA: qué es telesalud | https://www.gob.pe/11729-que-es-telesalud-serviciosde-telemedicina | Diferencia teleinterconsulta, teleconsulta, teleorientación y telemonitoreo.\n\nTRAMPAS Y MATICES\nInterconsulta = profesional con profesional; teleconsulta = atención profesional-usuario.\nAusencia del paciente en la comunicación no significa atención sin historia ni protección de datos.\nNo identificar teleinterconsulta con teletriaje ni con telemonitoreo.\n\nMNEMOTECNIA\nTELE-INTER-CONSULTA = entre profesionales; usuario puede estar o no PRESENTE.\n\nRECUPERACIÓN ACTIVA\n1. ¿Quién inicia la teleinterconsulta?\n   Un personal de salud que solicita a un profesional orientación para un caso.\n2. ¿El usuario necesariamente participa?\n   No, puede estar presente o ausente.\n3. ¿Qué modalidad se dirige al seguimiento de datos clínicos?\n   Telemonitoreo.\n4. ¿Qué debe documentarse?\n   Motivo, información relevante, recomendaciones y responsables de continuidad.\n\nCASOS DE REFUERZO\n1. Un médico de posta consulta virtualmente a un neurólogo de hospital por un paciente cuya historia y exámenes ya están disponibles; el paciente no participa en la llamada. ¿Qué modalidad se realiza?\nA) Teletriaje\nB) Teleorientación\nC) Teleinterconsulta\nD) Telemonitoreo\nE) Teleradiología exclusivamente\nRespuesta C. La comunicación es entre personal de salud y profesional consultor sobre un caso; la presencia del paciente no es requisito.\n2. Paciente con enfermedad crónica envía diariamente su presión arterial y enfermería revisa tendencias a distancia. ¿Cuál es la modalidad específica?\nA) Teleinterconsulta por defecto\nB) Teletriaje obligatorio\nC) Telegestión administrativa\nD) Telecapacitación clínica\nE) Telemonitoreo\nRespuesta E. Se siguen parámetros clínicos seriados; no es interconsulta entre profesionales.\n\nPERLA\nTELE-INTER-CONSULTA = entre profesionales; usuario puede estar o no PRESENTE. Interconsulta = profesional con profesional; teleconsulta = atención profesional-usuario.",
+      "pearl": "TELE-INTER-CONSULTA = entre profesionales; usuario puede estar o no PRESENTE. Interconsulta = profesional con profesional; teleconsulta = atención profesional-usuario.",
+      "keywords": [
+        "Teleinterconsulta: paciente presente o ausente",
+        "ENCAPS 2026-II",
+        "MINSA régimen 276"
+      ],
+      "estadoDesarrollo": "completo",
       "estadoClave": "resaltada_en_pdf_usuario_no_cotejada_independientemente_con_tabla_minsa",
-      "lesson": null
+      "lesson": {
+        "respuesta_resumida": "D. presente (clave resaltada en el PDF proporcionado; todavía sin cotejo independiente con solucionario oficial).",
+        "razonamiento": "La teleinterconsulta es una interacción entre un personal de salud consultante y un profesional de salud consultor mediante TIC para atender un caso concreto. La persona usuaria puede estar o no presente en el momento de la comunicación: la alternativa D completa exactamente la definición normativa. Esta posibilidad distingue el encuentro entre profesionales de la teleconsulta usuario-profesional. Estar ausente de la videollamada no elimina necesidad de resguardar confidencialidad, documentar información clínica relevante, gestionar consentimiento cuando corresponda, verificar identidad y conservar continuidad asistencial. Tampoco es una vía para que alguien sin competencia asuma decisiones que requieren evaluación presencial.",
+        "temario": [
+          "Telesalud: Conjunto amplio de servicios e intervenciones sanitarias soportadas por tecnologías de información y comunicación para facilitar acceso y oportunidad.",
+          "Telemedicina: Prestación clínica a distancia dentro del marco legal, con estándares de calidad, seguridad, privacidad y registro apropiado.",
+          "Teleinterconsulta: Un integrante del equipo de salud consulta a un profesional de salud sobre atención de un usuario; el usuario puede participar o estar ausente.",
+          "Teleconsulta: Interacción entre usuario y profesional para evaluación clínica remota; características y alcances dependen de servicio y necesidad.",
+          "Teleorientación: Consejería y orientación sobre cuidados o conducta preventiva; distinguirla de una teleconsulta diagnóstica completa.",
+          "Telemonitoreo: Seguimiento de parámetros o evolución, como presión arterial, glucosa u otros datos, a distancia.",
+          "Flujo operativo: Definir motivo clínico, datos pertinentes, canal seguro, recomendaciones, responsable de ejecutar y seguimiento o referencia.",
+          "Consentimiento y datos: Utilizar canales institucionales, informar finalidad, registrar acuerdos y evitar exposición innecesaria de información sensible.",
+          "Limitaciones: Inestabilidad clínica, ausencia de datos indispensables y necesidad de exploración/procedimiento obligan a priorizar atención presencial y referencias oportunas."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Disponible no es la expresión de la definición: la persona usuaria puede no estar conectada o visible, aunque su información esté disponible para evaluación.",
+          "B": "De acuerdo no completa el requisito gramatical ni define presencia física o virtual; el consentimiento se maneja como elemento independiente.",
+          "C": "Enfermo no corresponde: la telesalud puede tener fines preventivos y de promoción, con o sin enfermedad.",
+          "D": "Presente es correcto: la persona usuaria puede estar o no presente durante la teleinterconsulta entre profesionales."
+        },
+        "normativa": [
+          "Instituto Nacional de Salud del Niño San Borja: Telemedicina y Telegestión | https://portal.insnsb.gob.pe/telemedicina-y-telegestion/ | Recoge definición de teleinterconsulta y posibilidad de usuario presente o ausente según RM 664-2025-MINSA.",
+          "MINSA: qué es telesalud | https://www.gob.pe/11729-que-es-telesalud-serviciosde-telemedicina | Diferencia teleinterconsulta, teleconsulta, teleorientación y telemonitoreo."
+        ],
+        "mnemotecnia": "TELE-INTER-CONSULTA = entre profesionales; usuario puede estar o no PRESENTE.",
+        "trampas": [
+          "Interconsulta = profesional con profesional; teleconsulta = atención profesional-usuario.",
+          "Ausencia del paciente en la comunicación no significa atención sin historia ni protección de datos.",
+          "No identificar teleinterconsulta con teletriaje ni con telemonitoreo."
+        ],
+        "perla": "TELE-INTER-CONSULTA = entre profesionales; usuario puede estar o no PRESENTE. Interconsulta = profesional con profesional; teleconsulta = atención profesional-usuario.",
+        "repaso_activo": [
+          "¿Quién inicia la teleinterconsulta? — Un personal de salud que solicita a un profesional orientación para un caso.",
+          "¿El usuario necesariamente participa? — No, puede estar presente o ausente.",
+          "¿Qué modalidad se dirige al seguimiento de datos clínicos? — Telemonitoreo.",
+          "¿Qué debe documentarse? — Motivo, información relevante, recomendaciones y responsables de continuidad."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Un médico de posta consulta virtualmente a un neurólogo de hospital por un paciente cuya historia y exámenes ya están disponibles; el paciente no participa en la llamada. ¿Qué modalidad se realiza?",
+            "alternativas": {
+              "A": "Teletriaje",
+              "B": "Teleorientación",
+              "C": "Teleinterconsulta",
+              "D": "Telemonitoreo",
+              "E": "Teleradiología exclusivamente"
+            },
+            "respuesta": "C",
+            "explicacion": "La comunicación es entre personal de salud y profesional consultor sobre un caso; la presencia del paciente no es requisito."
+          },
+          {
+            "enunciado": "Paciente con enfermedad crónica envía diariamente su presión arterial y enfermería revisa tendencias a distancia. ¿Cuál es la modalidad específica?",
+            "alternativas": {
+              "A": "Teleinterconsulta por defecto",
+              "B": "Teletriaje obligatorio",
+              "C": "Telegestión administrativa",
+              "D": "Telecapacitación clínica",
+              "E": "Telemonitoreo"
+            },
+            "respuesta": "E",
+            "explicacion": "Se siguen parámetros clínicos seriados; no es interconsulta entre profesionales."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Teleinterconsulta: paciente presente o ausente",
+          "eje": "ENCAPS Medicina 2026-II · Prevención, salud pública y gestión",
+          "confiabilidad": "clave_resaltada_en_pdf_sin_verificacion_de_solucionario_oficial",
+          "respuesta_resumida": "D. presente (clave resaltada en el PDF proporcionado; todavía sin cotejo independiente con solucionario oficial).",
+          "razonamiento": [
+            "La teleinterconsulta es una interacción entre un personal de salud consultante y un profesional de salud consultor mediante TIC para atender un caso concreto.",
+            "La persona usuaria puede estar o no presente en el momento de la comunicación: la alternativa D completa exactamente la definición normativa.",
+            "Esta posibilidad distingue el encuentro entre profesionales de la teleconsulta usuario-profesional.",
+            "Estar ausente de la videollamada no elimina necesidad de resguardar confidencialidad, documentar información clínica relevante, gestionar consentimiento cuando corresponda, verificar identidad y conservar continuidad asistencial.",
+            "Tampoco es una vía para que alguien sin competencia asuma decisiones que requieren evaluación presencial."
+          ],
+          "temario": [
+            {
+              "subtitulo": "Telesalud",
+              "texto": "Conjunto amplio de servicios e intervenciones sanitarias soportadas por tecnologías de información y comunicación para facilitar acceso y oportunidad."
+            },
+            {
+              "subtitulo": "Telemedicina",
+              "texto": "Prestación clínica a distancia dentro del marco legal, con estándares de calidad, seguridad, privacidad y registro apropiado."
+            },
+            {
+              "subtitulo": "Teleinterconsulta",
+              "texto": "Un integrante del equipo de salud consulta a un profesional de salud sobre atención de un usuario; el usuario puede participar o estar ausente."
+            },
+            {
+              "subtitulo": "Teleconsulta",
+              "texto": "Interacción entre usuario y profesional para evaluación clínica remota; características y alcances dependen de servicio y necesidad."
+            },
+            {
+              "subtitulo": "Teleorientación",
+              "texto": "Consejería y orientación sobre cuidados o conducta preventiva; distinguirla de una teleconsulta diagnóstica completa."
+            },
+            {
+              "subtitulo": "Telemonitoreo",
+              "texto": "Seguimiento de parámetros o evolución, como presión arterial, glucosa u otros datos, a distancia."
+            },
+            {
+              "subtitulo": "Flujo operativo",
+              "texto": "Definir motivo clínico, datos pertinentes, canal seguro, recomendaciones, responsable de ejecutar y seguimiento o referencia."
+            },
+            {
+              "subtitulo": "Consentimiento y datos",
+              "texto": "Utilizar canales institucionales, informar finalidad, registrar acuerdos y evitar exposición innecesaria de información sensible."
+            },
+            {
+              "subtitulo": "Limitaciones",
+              "texto": "Inestabilidad clínica, ausencia de datos indispensables y necesidad de exploración/procedimiento obligan a priorizar atención presencial y referencias oportunas."
+            }
+          ],
+          "distractores": {
+            "A": "Disponible no es la expresión de la definición: la persona usuaria puede no estar conectada o visible, aunque su información esté disponible para evaluación.",
+            "B": "De acuerdo no completa el requisito gramatical ni define presencia física o virtual; el consentimiento se maneja como elemento independiente.",
+            "C": "Enfermo no corresponde: la telesalud puede tener fines preventivos y de promoción, con o sin enfermedad.",
+            "D": "Presente es correcto: la persona usuaria puede estar o no presente durante la teleinterconsulta entre profesionales."
+          },
+          "normativa": [
+            {
+              "nombre": "Instituto Nacional de Salud del Niño San Borja: Telemedicina y Telegestión",
+              "url": "https://portal.insnsb.gob.pe/telemedicina-y-telegestion/",
+              "aplicacion": "Recoge definición de teleinterconsulta y posibilidad de usuario presente o ausente según RM 664-2025-MINSA."
+            },
+            {
+              "nombre": "MINSA: qué es telesalud",
+              "url": "https://www.gob.pe/11729-que-es-telesalud-serviciosde-telemedicina",
+              "aplicacion": "Diferencia teleinterconsulta, teleconsulta, teleorientación y telemonitoreo."
+            }
+          ],
+          "mnemotecnia": "TELE-INTER-CONSULTA = entre profesionales; usuario puede estar o no PRESENTE.",
+          "trampas": [
+            "Interconsulta = profesional con profesional; teleconsulta = atención profesional-usuario.",
+            "Ausencia del paciente en la comunicación no significa atención sin historia ni protección de datos.",
+            "No identificar teleinterconsulta con teletriaje ni con telemonitoreo."
+          ],
+          "perla": "TELE-INTER-CONSULTA = entre profesionales; usuario puede estar o no PRESENTE.",
+          "repaso_activo": [
+            {
+              "pregunta": "¿Quién inicia la teleinterconsulta?",
+              "respuesta": "Un personal de salud que solicita a un profesional orientación para un caso."
+            },
+            {
+              "pregunta": "¿El usuario necesariamente participa?",
+              "respuesta": "No, puede estar presente o ausente."
+            },
+            {
+              "pregunta": "¿Qué modalidad se dirige al seguimiento de datos clínicos?",
+              "respuesta": "Telemonitoreo."
+            },
+            {
+              "pregunta": "¿Qué debe documentarse?",
+              "respuesta": "Motivo, información relevante, recomendaciones y responsables de continuidad."
+            }
+          ],
+          "refuerzo": [
+            {
+              "enunciado": "Un médico de posta consulta virtualmente a un neurólogo de hospital por un paciente cuya historia y exámenes ya están disponibles; el paciente no participa en la llamada. ¿Qué modalidad se realiza?",
+              "alternativas": {
+                "A": "Teletriaje",
+                "B": "Teleorientación",
+                "C": "Teleinterconsulta",
+                "D": "Telemonitoreo",
+                "E": "Teleradiología exclusivamente"
+              },
+              "respuesta": "C",
+              "explicacion": "La comunicación es entre personal de salud y profesional consultor sobre un caso; la presencia del paciente no es requisito."
+            },
+            {
+              "enunciado": "Paciente con enfermedad crónica envía diariamente su presión arterial y enfermería revisa tendencias a distancia. ¿Cuál es la modalidad específica?",
+              "alternativas": {
+                "A": "Teleinterconsulta por defecto",
+                "B": "Teletriaje obligatorio",
+                "C": "Telegestión administrativa",
+                "D": "Telecapacitación clínica",
+                "E": "Telemonitoreo"
+              },
+              "respuesta": "E",
+              "explicacion": "Se siguen parámetros clínicos seriados; no es interconsulta entre profesionales."
+            }
+          ]
+        }
+      }
     },
     {
       "number": 94,
       "code": "ENCAPS26-II P094",
-      "course": "ENCAPS Medicina · Por desarrollar",
-      "topic": "ENCAPS Medicina 2026-II",
+      "course": "ENCAPS Medicina · Desarrollo completo",
+      "topic": "POI y modificaciones de actividades operativas",
       "question": "¿En qué documento de gestión se hacen los cambios en la programación de las metas físicas, incorporación o inactivación de actividades operativas por cambios en el entorno, cumplimiento de nuevas disposiciones emitidas por el ejecutivo o legislativo?",
       "options": {
         "A": "PSL",
@@ -16176,18 +16729,198 @@
         "D": "ASIS"
       },
       "correct": "C",
-      "comment": "Tema pendiente de desarrollo detallado. La alternativa correcta indicada es la resaltada en el PDF del usuario; todavía no se ha cotejado independientemente contra el listado oficial de claves del MINSA.",
-      "pearl": "",
-      "keywords": [],
-      "estadoDesarrollo": "pendiente",
+      "comment": "CLAVE ORIGINAL\nC. POI (clave resaltada en el PDF proporcionado; todavía sin cotejo independiente con solucionario oficial).\n\nRAZONAMIENTO CLÍNICO/NORMATIVO\nLa modificación de metas físicas, la incorporación o inactivación de actividades operativas frente a cambios del entorno y nuevas disposiciones corresponde al Plan Operativo Institucional (POI). El PEI expresa objetivos y acciones estratégicas de un horizonte mayor; el POI traduce esos propósitos en actividades e inversiones ejecutables, programación temporal, metas físicas y recursos. La clave C es inequívoca entre las alternativas. Las modificaciones deben justificarse técnicamente y tramitarse según el marco de planeamiento y presupuesto; no se cambian metas de forma informal ni se equiparan automáticamente con cambios presupuestarios.\n\nTEMARIO DE DOMINIO\n1. Sistema de planeamiento. SINAPLAN articula políticas, planes y gestión operativa con los resultados públicos; CEPLAN define metodologías para instrumentos de planeamiento.\n2. PEI. El Plan Estratégico Institucional declara objetivos estratégicos institucionales (OEI), acciones estratégicas institucionales (AEI) e indicadores.\n3. POI. El Plan Operativo Institucional contiene actividades operativas e inversiones, su programación, metas físicas mensuales, costeo y vinculación a las AEI.\n4. Modificación POI. Se revisa programación por variaciones de contexto, prioridades, nuevas disposiciones o necesidades operativas; documentar altas, bajas e inactivación según normas institucionales.\n5. Meta física. Cantidad prevista o lograda de una actividad, con unidad de medida y periodo de ejecución; distinta de meta financiera o resultado sanitario.\n6. Presupuesto y planeamiento. La consistencia del POI anual con presupuesto e instrumentos logísticos exige coordinación, pero una modificación física no supone automática asignación de recursos.\n7. Seguimiento. Comparar ejecutado versus programado, reconocer desviaciones, analizarlas y formular correctivos sustentados.\n8. ASIS y PSL. ASIS diagnostica situación de salud; planes territoriales como PSL articulan iniciativas locales, pero no sustituyen la programación operativa institucional del POI.\n9. Ejemplo sanitario. Una microrred modifica metas de visitas domiciliarias ante brote: la modificación operativa queda en el POI; la motivación epidemiológica puede proceder del ASIS o alerta sanitaria.\n\nANÁLISIS DE TODAS LAS ALTERNATIVAS\nA) PSL puede orientar decisiones territoriales, pero no es el documento típico para variar formalmente metas físicas mensuales de actividades operativas institucionales.\nB) PEI establece objetivos y acciones estratégicas, no detalla el ajuste ordinario de ejecución y metas de cada actividad operativa.\nC) POI es correcto: instrumento de programación operativa y seguimiento de metas físicas y actividades.\nD) ASIS describe y analiza problemas de salud y determinantes de la jurisdicción; es insumo diagnóstico, no plan operativo susceptible de inactivar actividades.\n\nREFERENCIAS Y MARCO REGULATORIO\nCEPLAN: Directiva General de Planeamiento Estratégico del SINAPLAN, artículo 22 | https://geo.ceplan.gob.pe/uploads/5373394-directiva-001-2024-ceplan-pcd-modificada-directiva-general-de-planeamiento-estrategico-del-sinaplan.pdf | Define POI y programación de actividades e inversiones con metas físicas y recursos.\n\nTRAMPAS Y MATICES\nPOI = actividad y metas físicas; PEI = objetivo y acciones estratégicas; ASIS = diagnóstico.\nUna cifra ajustada del POI no debe confundirse con cambio de prevalencia o tasa sanitaria.\nNo inactivar actividades solo para mejorar el porcentaje de ejecución: motivación y trazabilidad son indispensables.\n\nMNEMOTECNIA\nPEI = ESTRATEGIA; POI = OPERACIÓN; ASIS = DIAGNÓSTICO.\n\nRECUPERACIÓN ACTIVA\n1. ¿Qué documento ajusta metas físicas operativas?\n   Plan Operativo Institucional (POI).\n2. ¿Dónde se ubican OEI y AEI?\n   En el PEI.\n3. ¿ASIS es cronograma de actividades?\n   No, es análisis de situación de salud.\n4. ¿Qué debe quedar registrado al modificar POI?\n   Justificación, actividad, nueva meta y articulación correspondiente.\n\nCASOS DE REFUERZO\n1. Una unidad ejecutora decide reprogramar de 800 a 1100 visitas domiciliarias y agregar una intervención de control vectorial por brote. ¿Qué documento actualiza las metas físicas operativas?\nA) Plan Operativo Institucional\nB) Análisis de Situación de Salud\nC) Plan Estratégico Institucional únicamente\nD) Reglamento de Organización y Funciones\nE) Manual de Clasificador de Cargos\nRespuesta A. La modificación de programación física y actividades operativas corresponde al POI.\n2. La red busca cambiar un objetivo estratégico institucional referido a mortalidad materna de un horizonte plurianual. ¿Qué instrumento corresponde revisar prioritariamente?\nA) Parte diario de atenciones\nB) Archivo pasivo de historias\nC) Registro de metas físicas del mes\nD) Plan Estratégico Institucional\nE) Ficha de referencia clínica\nRespuesta D. Los objetivos estratégicos institucionales se enuncian en el PEI, no en cada intervención del POI.\n\nPERLA\nPEI = ESTRATEGIA; POI = OPERACIÓN; ASIS = DIAGNÓSTICO. POI = actividad y metas físicas; PEI = objetivo y acciones estratégicas; ASIS = diagnóstico.",
+      "pearl": "PEI = ESTRATEGIA; POI = OPERACIÓN; ASIS = DIAGNÓSTICO. POI = actividad y metas físicas; PEI = objetivo y acciones estratégicas; ASIS = diagnóstico.",
+      "keywords": [
+        "POI y modificaciones de actividades operativas",
+        "ENCAPS 2026-II",
+        "MINSA régimen 276"
+      ],
+      "estadoDesarrollo": "completo",
       "estadoClave": "resaltada_en_pdf_usuario_no_cotejada_independientemente_con_tabla_minsa",
-      "lesson": null
+      "lesson": {
+        "respuesta_resumida": "C. POI (clave resaltada en el PDF proporcionado; todavía sin cotejo independiente con solucionario oficial).",
+        "razonamiento": "La modificación de metas físicas, la incorporación o inactivación de actividades operativas frente a cambios del entorno y nuevas disposiciones corresponde al Plan Operativo Institucional (POI). El PEI expresa objetivos y acciones estratégicas de un horizonte mayor; el POI traduce esos propósitos en actividades e inversiones ejecutables, programación temporal, metas físicas y recursos. La clave C es inequívoca entre las alternativas. Las modificaciones deben justificarse técnicamente y tramitarse según el marco de planeamiento y presupuesto; no se cambian metas de forma informal ni se equiparan automáticamente con cambios presupuestarios.",
+        "temario": [
+          "Sistema de planeamiento: SINAPLAN articula políticas, planes y gestión operativa con los resultados públicos; CEPLAN define metodologías para instrumentos de planeamiento.",
+          "PEI: El Plan Estratégico Institucional declara objetivos estratégicos institucionales (OEI), acciones estratégicas institucionales (AEI) e indicadores.",
+          "POI: El Plan Operativo Institucional contiene actividades operativas e inversiones, su programación, metas físicas mensuales, costeo y vinculación a las AEI.",
+          "Modificación POI: Se revisa programación por variaciones de contexto, prioridades, nuevas disposiciones o necesidades operativas; documentar altas, bajas e inactivación según normas institucionales.",
+          "Meta física: Cantidad prevista o lograda de una actividad, con unidad de medida y periodo de ejecución; distinta de meta financiera o resultado sanitario.",
+          "Presupuesto y planeamiento: La consistencia del POI anual con presupuesto e instrumentos logísticos exige coordinación, pero una modificación física no supone automática asignación de recursos.",
+          "Seguimiento: Comparar ejecutado versus programado, reconocer desviaciones, analizarlas y formular correctivos sustentados.",
+          "ASIS y PSL: ASIS diagnostica situación de salud; planes territoriales como PSL articulan iniciativas locales, pero no sustituyen la programación operativa institucional del POI.",
+          "Ejemplo sanitario: Una microrred modifica metas de visitas domiciliarias ante brote: la modificación operativa queda en el POI; la motivación epidemiológica puede proceder del ASIS o alerta sanitaria."
+        ],
+        "por_que_no_las_otras": {
+          "A": "PSL puede orientar decisiones territoriales, pero no es el documento típico para variar formalmente metas físicas mensuales de actividades operativas institucionales.",
+          "B": "PEI establece objetivos y acciones estratégicas, no detalla el ajuste ordinario de ejecución y metas de cada actividad operativa.",
+          "C": "POI es correcto: instrumento de programación operativa y seguimiento de metas físicas y actividades.",
+          "D": "ASIS describe y analiza problemas de salud y determinantes de la jurisdicción; es insumo diagnóstico, no plan operativo susceptible de inactivar actividades."
+        },
+        "normativa": [
+          "CEPLAN: Directiva General de Planeamiento Estratégico del SINAPLAN, artículo 22 | https://geo.ceplan.gob.pe/uploads/5373394-directiva-001-2024-ceplan-pcd-modificada-directiva-general-de-planeamiento-estrategico-del-sinaplan.pdf | Define POI y programación de actividades e inversiones con metas físicas y recursos."
+        ],
+        "mnemotecnia": "PEI = ESTRATEGIA; POI = OPERACIÓN; ASIS = DIAGNÓSTICO.",
+        "trampas": [
+          "POI = actividad y metas físicas; PEI = objetivo y acciones estratégicas; ASIS = diagnóstico.",
+          "Una cifra ajustada del POI no debe confundirse con cambio de prevalencia o tasa sanitaria.",
+          "No inactivar actividades solo para mejorar el porcentaje de ejecución: motivación y trazabilidad son indispensables."
+        ],
+        "perla": "PEI = ESTRATEGIA; POI = OPERACIÓN; ASIS = DIAGNÓSTICO. POI = actividad y metas físicas; PEI = objetivo y acciones estratégicas; ASIS = diagnóstico.",
+        "repaso_activo": [
+          "¿Qué documento ajusta metas físicas operativas? — Plan Operativo Institucional (POI).",
+          "¿Dónde se ubican OEI y AEI? — En el PEI.",
+          "¿ASIS es cronograma de actividades? — No, es análisis de situación de salud.",
+          "¿Qué debe quedar registrado al modificar POI? — Justificación, actividad, nueva meta y articulación correspondiente."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Una unidad ejecutora decide reprogramar de 800 a 1100 visitas domiciliarias y agregar una intervención de control vectorial por brote. ¿Qué documento actualiza las metas físicas operativas?",
+            "alternativas": {
+              "A": "Plan Operativo Institucional",
+              "B": "Análisis de Situación de Salud",
+              "C": "Plan Estratégico Institucional únicamente",
+              "D": "Reglamento de Organización y Funciones",
+              "E": "Manual de Clasificador de Cargos"
+            },
+            "respuesta": "A",
+            "explicacion": "La modificación de programación física y actividades operativas corresponde al POI."
+          },
+          {
+            "enunciado": "La red busca cambiar un objetivo estratégico institucional referido a mortalidad materna de un horizonte plurianual. ¿Qué instrumento corresponde revisar prioritariamente?",
+            "alternativas": {
+              "A": "Parte diario de atenciones",
+              "B": "Archivo pasivo de historias",
+              "C": "Registro de metas físicas del mes",
+              "D": "Plan Estratégico Institucional",
+              "E": "Ficha de referencia clínica"
+            },
+            "respuesta": "D",
+            "explicacion": "Los objetivos estratégicos institucionales se enuncian en el PEI, no en cada intervención del POI."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "POI y modificaciones de actividades operativas",
+          "eje": "ENCAPS Medicina 2026-II · Prevención, salud pública y gestión",
+          "confiabilidad": "clave_resaltada_en_pdf_sin_verificacion_de_solucionario_oficial",
+          "respuesta_resumida": "C. POI (clave resaltada en el PDF proporcionado; todavía sin cotejo independiente con solucionario oficial).",
+          "razonamiento": [
+            "La modificación de metas físicas, la incorporación o inactivación de actividades operativas frente a cambios del entorno y nuevas disposiciones corresponde al Plan Operativo Institucional (POI).",
+            "El PEI expresa objetivos y acciones estratégicas de un horizonte mayor; el POI traduce esos propósitos en actividades e inversiones ejecutables, programación temporal, metas físicas y recursos.",
+            "La clave C es inequívoca entre las alternativas.",
+            "Las modificaciones deben justificarse técnicamente y tramitarse según el marco de planeamiento y presupuesto; no se cambian metas de forma informal ni se equiparan automáticamente con cambios presupuestarios."
+          ],
+          "temario": [
+            {
+              "subtitulo": "Sistema de planeamiento",
+              "texto": "SINAPLAN articula políticas, planes y gestión operativa con los resultados públicos; CEPLAN define metodologías para instrumentos de planeamiento."
+            },
+            {
+              "subtitulo": "PEI",
+              "texto": "El Plan Estratégico Institucional declara objetivos estratégicos institucionales (OEI), acciones estratégicas institucionales (AEI) e indicadores."
+            },
+            {
+              "subtitulo": "POI",
+              "texto": "El Plan Operativo Institucional contiene actividades operativas e inversiones, su programación, metas físicas mensuales, costeo y vinculación a las AEI."
+            },
+            {
+              "subtitulo": "Modificación POI",
+              "texto": "Se revisa programación por variaciones de contexto, prioridades, nuevas disposiciones o necesidades operativas; documentar altas, bajas e inactivación según normas institucionales."
+            },
+            {
+              "subtitulo": "Meta física",
+              "texto": "Cantidad prevista o lograda de una actividad, con unidad de medida y periodo de ejecución; distinta de meta financiera o resultado sanitario."
+            },
+            {
+              "subtitulo": "Presupuesto y planeamiento",
+              "texto": "La consistencia del POI anual con presupuesto e instrumentos logísticos exige coordinación, pero una modificación física no supone automática asignación de recursos."
+            },
+            {
+              "subtitulo": "Seguimiento",
+              "texto": "Comparar ejecutado versus programado, reconocer desviaciones, analizarlas y formular correctivos sustentados."
+            },
+            {
+              "subtitulo": "ASIS y PSL",
+              "texto": "ASIS diagnostica situación de salud; planes territoriales como PSL articulan iniciativas locales, pero no sustituyen la programación operativa institucional del POI."
+            },
+            {
+              "subtitulo": "Ejemplo sanitario",
+              "texto": "Una microrred modifica metas de visitas domiciliarias ante brote: la modificación operativa queda en el POI; la motivación epidemiológica puede proceder del ASIS o alerta sanitaria."
+            }
+          ],
+          "distractores": {
+            "A": "PSL puede orientar decisiones territoriales, pero no es el documento típico para variar formalmente metas físicas mensuales de actividades operativas institucionales.",
+            "B": "PEI establece objetivos y acciones estratégicas, no detalla el ajuste ordinario de ejecución y metas de cada actividad operativa.",
+            "C": "POI es correcto: instrumento de programación operativa y seguimiento de metas físicas y actividades.",
+            "D": "ASIS describe y analiza problemas de salud y determinantes de la jurisdicción; es insumo diagnóstico, no plan operativo susceptible de inactivar actividades."
+          },
+          "normativa": [
+            {
+              "nombre": "CEPLAN: Directiva General de Planeamiento Estratégico del SINAPLAN, artículo 22",
+              "url": "https://geo.ceplan.gob.pe/uploads/5373394-directiva-001-2024-ceplan-pcd-modificada-directiva-general-de-planeamiento-estrategico-del-sinaplan.pdf",
+              "aplicacion": "Define POI y programación de actividades e inversiones con metas físicas y recursos."
+            }
+          ],
+          "mnemotecnia": "PEI = ESTRATEGIA; POI = OPERACIÓN; ASIS = DIAGNÓSTICO.",
+          "trampas": [
+            "POI = actividad y metas físicas; PEI = objetivo y acciones estratégicas; ASIS = diagnóstico.",
+            "Una cifra ajustada del POI no debe confundirse con cambio de prevalencia o tasa sanitaria.",
+            "No inactivar actividades solo para mejorar el porcentaje de ejecución: motivación y trazabilidad son indispensables."
+          ],
+          "perla": "PEI = ESTRATEGIA; POI = OPERACIÓN; ASIS = DIAGNÓSTICO.",
+          "repaso_activo": [
+            {
+              "pregunta": "¿Qué documento ajusta metas físicas operativas?",
+              "respuesta": "Plan Operativo Institucional (POI)."
+            },
+            {
+              "pregunta": "¿Dónde se ubican OEI y AEI?",
+              "respuesta": "En el PEI."
+            },
+            {
+              "pregunta": "¿ASIS es cronograma de actividades?",
+              "respuesta": "No, es análisis de situación de salud."
+            },
+            {
+              "pregunta": "¿Qué debe quedar registrado al modificar POI?",
+              "respuesta": "Justificación, actividad, nueva meta y articulación correspondiente."
+            }
+          ],
+          "refuerzo": [
+            {
+              "enunciado": "Una unidad ejecutora decide reprogramar de 800 a 1100 visitas domiciliarias y agregar una intervención de control vectorial por brote. ¿Qué documento actualiza las metas físicas operativas?",
+              "alternativas": {
+                "A": "Plan Operativo Institucional",
+                "B": "Análisis de Situación de Salud",
+                "C": "Plan Estratégico Institucional únicamente",
+                "D": "Reglamento de Organización y Funciones",
+                "E": "Manual de Clasificador de Cargos"
+              },
+              "respuesta": "A",
+              "explicacion": "La modificación de programación física y actividades operativas corresponde al POI."
+            },
+            {
+              "enunciado": "La red busca cambiar un objetivo estratégico institucional referido a mortalidad materna de un horizonte plurianual. ¿Qué instrumento corresponde revisar prioritariamente?",
+              "alternativas": {
+                "A": "Parte diario de atenciones",
+                "B": "Archivo pasivo de historias",
+                "C": "Registro de metas físicas del mes",
+                "D": "Plan Estratégico Institucional",
+                "E": "Ficha de referencia clínica"
+              },
+              "respuesta": "D",
+              "explicacion": "Los objetivos estratégicos institucionales se enuncian en el PEI, no en cada intervención del POI."
+            }
+          ]
+        }
+      }
     },
     {
       "number": 95,
       "code": "ENCAPS26-II P095",
-      "course": "ENCAPS Medicina · Por desarrollar",
-      "topic": "ENCAPS Medicina 2026-II",
+      "course": "ENCAPS Medicina · Desarrollo completo",
+      "topic": "Barreras culturales, creencias de daño y atención de ansiedad",
       "question": "Usuaria de 24 años, acude a consulta psicológica indicando que nadie le cree, pero le han hecho brujería; un curandero le pasó el cuy negro por todo el cuerpo, se sintió mejor; pero nuevamente empezó a sentirse mal, fue con una curandera, quien le dice que el daño que tiene es muy grave. El psicólogo identifica indicadores de trastorno ansioso. ¿Qué acciones debe realizar para que la usuaria acepte el manejo en el establecimiento?",
       "options": {
         "A": "Reforzar el esquema cultural",
@@ -16196,12 +16929,200 @@
         "D": "Reducir las barreras culturales"
       },
       "correct": "D",
-      "comment": "Tema pendiente de desarrollo detallado. La alternativa correcta indicada es la resaltada en el PDF del usuario; todavía no se ha cotejado independientemente contra el listado oficial de claves del MINSA.",
-      "pearl": "",
-      "keywords": [],
-      "estadoDesarrollo": "pendiente",
+      "comment": "CLAVE ORIGINAL\nD. Reducir las barreras culturales (clave resaltada en el PDF proporcionado; todavía sin cotejo independiente con solucionario oficial).\n\nRAZONAMIENTO CLÍNICO/NORMATIVO\nLa usuaria describe el malestar mediante una explicación cultural («brujería»), recibe apoyo de curanderos y expresa desconfianza hacia la atención formal. El psicólogo considera indicadores de ansiedad; para iniciar una alianza terapéutica debe reducir barreras culturales, clave D. Eso requiere escuchar sin ridiculizar, explorar el significado de «daño», diferenciar creencia compartida culturalmente de ideas delirantes, explicar hipótesis y opciones con lenguaje comprensible y negociar un plan centrado en la persona. No corresponde confirmar el origen sobrenatural como diagnóstico ni descalificarlo con confrontación. Debe evaluarse riesgo clínico, funcionalidad, trauma, consumo de sustancias, causas médicas, síntomas psicóticos y suicidabilidad; si surgen criterios, se intensifica atención o deriva. No asumir que toda manifestación cultural es patológica.\n\nTEMARIO DE DOMINIO\n1. Modelo explicativo de enfermedad. Las personas interpretan síntomas usando experiencias familiares y culturales. Preguntar qué cree que ocurre, cómo lo explica, qué teme y qué espera del tratamiento.\n2. Competencia cultural. Reconocer cosmovisiones distintas sin afirmar causalidad paranormal ni hacer juicios despectivos. Validar sufrimiento, no necesariamente la interpretación.\n3. Ansiedad y diagnóstico diferencial. Explorar duración, preocupaciones, síntomas autonómicos, insomnio, deterioro, depresividad y factores precipitantes; descartar causas físicas o sustancias cuando esté indicado.\n4. Creencias culturalmente compartidas. Una explicación cultural como «daño» o «susto» no prueba delirios. Los criterios de un trastorno requieren valoración contextual, convicción, consecuencias y otros hallazgos.\n5. Entrevista colaborativa. Escucha reflexiva, preguntas abiertas, reformulación comprensible, negociación de prioridades y consentimiento informado; evitar confrontación de cosmovisiones.\n6. Barreras estructurales y lingüísticas. Tiempo de consulta, idioma, estigma, costos, transporte y experiencias de discriminación pueden impedir atención. Intérprete y continuidad reducen brecha.\n7. Tratamiento inicial. Psicoeducación sensible al contexto, estrategias psicológicas según diagnóstico y gravedad, seguimiento de adherencia y derivación cuando lo ameriten los hallazgos.\n8. Señales de alarma. Riesgo suicida, agitación grave, incapacidad de autocuidado, síntomas psicóticos francos, causas orgánicas o violencia requieren valoración urgente.\n9. Trabajo comunitario. La relación con actores culturales puede facilitar acceso cuando la persona lo desea y no compromete seguridad; el tratamiento sanitario no se sustituye por prácticas potencialmente dañinas.\n\nANÁLISIS DE TODAS LAS ALTERNATIVAS\nA) Reforzar el esquema cultural como certeza causal puede consolidar una atribución no evaluada; se debe respetar a la usuaria sin confirmar la brujería como diagnóstico.\nB) Referir automáticamente a medicina no aborda la barrera cultural y no se describe un signo que exija exclusivamente esa acción. Puede estar indicado si se sospecha causa médica, según evaluación.\nC) La derivación a psiquiatría no es obligatoria solo por creer en un «daño»; dependerá de gravedad, diagnóstico, riesgo y recursos disponibles.\nD) Reducir barreras culturales es la intervención relacional que favorece aceptación, confianza y continuidad del manejo, sin imponer ni despreciar creencias.\n\nREFERENCIAS Y MARCO REGULATORIO\nInstituto Nacional de Salud Mental: salud mental intercultural en comunidades andinas (2026) | https://www.gob.pe/institucion/insm/noticias/1356933-descolonizar-la-salud-mental-importancia-y-necesidad-de-atender-la-depresion-en-comunidades-andinas-con-enfoque-intercultural | Reconocer cosmovisión, barreras culturales y explicaciones como «daño».\nMINSA: establecimientos con pertinencia cultural | https://www.gob.pe/69795 | Atención adaptada, diálogo horizontal, idioma, respeto y acceso equitativo.\n\nTRAMPAS Y MATICES\nRespetar una creencia cultural NO equivale a diagnosticar brujería ni validar explicación sobrenatural como hecho.\nUna creencia compartida por una comunidad no equivale automáticamente a delirio.\nLa derivación depende de indicadores de riesgo o necesidad clínica, no de rechazo cultural aislado.\n\nMNEMOTECNIA\nINTERCULTURALIDAD: ESCUCHAR → COMPRENDER → EXPLICAR → ACORDAR → SEGUIR.\n\nRECUPERACIÓN ACTIVA\n1. ¿Cuál es la clave del caso?\n   Reducir barreras culturales.\n2. ¿Qué se valida en una explicación de brujería?\n   El sufrimiento y la perspectiva de la persona, no la causalidad sobrenatural como diagnóstico.\n3. ¿Qué distingue creencia cultural de delirio?\n   Contexto cultural y evaluación clínica integral; no solo el contenido de la creencia.\n4. ¿Cuándo derivar de urgencia?\n   Riesgo suicida, compromiso grave, agitación peligrosa u otra señal clínica de alarma.\n\nCASOS DE REFUERZO\n1. Una mujer quechuahablante atribuye su ansiedad a «daño» y teme que el personal se burle. ¿Cuál es el mejor inicio de entrevista?\nA) Explicar que la creencia es absurda para lograr cambio\nB) Diagnosticar trastorno delirante sin explorar contexto\nC) Enviar de inmediato a psiquiatría por hablar de curanderos\nD) Afirmar que existe brujería como causa médica\nE) Explorar su interpretación sin prejuicios y ofrecer plan comprensible\nRespuesta E. La validación del malestar y la exploración cultural favorecen una alianza terapéutica sin asumir ni negar acríticamente explicaciones causales.\n2. Durante evaluación culturalmente adaptada de ansiedad, una paciente refiere ideación suicida actual con plan. ¿Cuál es la acción prioritaria?\nA) Esperar a que termine el ritual tradicional\nB) Realizar evaluación urgente de seguridad y activar atención especializada\nC) Programar control en seis meses sin más preguntas\nD) Interpretar el riesgo como parte habitual de la creencia\nE) Suspender la atención hasta hablar con la familia\nRespuesta B. La pertinencia cultural se mantiene, pero una amenaza inmediata a la vida exige evaluación y manejo urgente.\n\nPERLA\nINTERCULTURALIDAD: ESCUCHAR → COMPRENDER → EXPLICAR → ACORDAR → SEGUIR. Respetar una creencia cultural NO equivale a diagnosticar brujería ni validar explicación sobrenatural como hecho.",
+      "pearl": "INTERCULTURALIDAD: ESCUCHAR → COMPRENDER → EXPLICAR → ACORDAR → SEGUIR. Respetar una creencia cultural NO equivale a diagnosticar brujería ni validar explicación sobrenatural como hecho.",
+      "keywords": [
+        "Barreras culturales, creencias de daño y atención de ansiedad",
+        "ENCAPS 2026-II",
+        "MINSA régimen 276"
+      ],
+      "estadoDesarrollo": "completo",
       "estadoClave": "resaltada_en_pdf_usuario_no_cotejada_independientemente_con_tabla_minsa",
-      "lesson": null
+      "lesson": {
+        "respuesta_resumida": "D. Reducir las barreras culturales (clave resaltada en el PDF proporcionado; todavía sin cotejo independiente con solucionario oficial).",
+        "razonamiento": "La usuaria describe el malestar mediante una explicación cultural («brujería»), recibe apoyo de curanderos y expresa desconfianza hacia la atención formal. El psicólogo considera indicadores de ansiedad; para iniciar una alianza terapéutica debe reducir barreras culturales, clave D. Eso requiere escuchar sin ridiculizar, explorar el significado de «daño», diferenciar creencia compartida culturalmente de ideas delirantes, explicar hipótesis y opciones con lenguaje comprensible y negociar un plan centrado en la persona. No corresponde confirmar el origen sobrenatural como diagnóstico ni descalificarlo con confrontación. Debe evaluarse riesgo clínico, funcionalidad, trauma, consumo de sustancias, causas médicas, síntomas psicóticos y suicidabilidad; si surgen criterios, se intensifica atención o deriva. No asumir que toda manifestación cultural es patológica.",
+        "temario": [
+          "Modelo explicativo de enfermedad: Las personas interpretan síntomas usando experiencias familiares y culturales. Preguntar qué cree que ocurre, cómo lo explica, qué teme y qué espera del tratamiento.",
+          "Competencia cultural: Reconocer cosmovisiones distintas sin afirmar causalidad paranormal ni hacer juicios despectivos. Validar sufrimiento, no necesariamente la interpretación.",
+          "Ansiedad y diagnóstico diferencial: Explorar duración, preocupaciones, síntomas autonómicos, insomnio, deterioro, depresividad y factores precipitantes; descartar causas físicas o sustancias cuando esté indicado.",
+          "Creencias culturalmente compartidas: Una explicación cultural como «daño» o «susto» no prueba delirios. Los criterios de un trastorno requieren valoración contextual, convicción, consecuencias y otros hallazgos.",
+          "Entrevista colaborativa: Escucha reflexiva, preguntas abiertas, reformulación comprensible, negociación de prioridades y consentimiento informado; evitar confrontación de cosmovisiones.",
+          "Barreras estructurales y lingüísticas: Tiempo de consulta, idioma, estigma, costos, transporte y experiencias de discriminación pueden impedir atención. Intérprete y continuidad reducen brecha.",
+          "Tratamiento inicial: Psicoeducación sensible al contexto, estrategias psicológicas según diagnóstico y gravedad, seguimiento de adherencia y derivación cuando lo ameriten los hallazgos.",
+          "Señales de alarma: Riesgo suicida, agitación grave, incapacidad de autocuidado, síntomas psicóticos francos, causas orgánicas o violencia requieren valoración urgente.",
+          "Trabajo comunitario: La relación con actores culturales puede facilitar acceso cuando la persona lo desea y no compromete seguridad; el tratamiento sanitario no se sustituye por prácticas potencialmente dañinas."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Reforzar el esquema cultural como certeza causal puede consolidar una atribución no evaluada; se debe respetar a la usuaria sin confirmar la brujería como diagnóstico.",
+          "B": "Referir automáticamente a medicina no aborda la barrera cultural y no se describe un signo que exija exclusivamente esa acción. Puede estar indicado si se sospecha causa médica, según evaluación.",
+          "C": "La derivación a psiquiatría no es obligatoria solo por creer en un «daño»; dependerá de gravedad, diagnóstico, riesgo y recursos disponibles.",
+          "D": "Reducir barreras culturales es la intervención relacional que favorece aceptación, confianza y continuidad del manejo, sin imponer ni despreciar creencias."
+        },
+        "normativa": [
+          "Instituto Nacional de Salud Mental: salud mental intercultural en comunidades andinas (2026) | https://www.gob.pe/institucion/insm/noticias/1356933-descolonizar-la-salud-mental-importancia-y-necesidad-de-atender-la-depresion-en-comunidades-andinas-con-enfoque-intercultural | Reconocer cosmovisión, barreras culturales y explicaciones como «daño».",
+          "MINSA: establecimientos con pertinencia cultural | https://www.gob.pe/69795 | Atención adaptada, diálogo horizontal, idioma, respeto y acceso equitativo."
+        ],
+        "mnemotecnia": "INTERCULTURALIDAD: ESCUCHAR → COMPRENDER → EXPLICAR → ACORDAR → SEGUIR.",
+        "trampas": [
+          "Respetar una creencia cultural NO equivale a diagnosticar brujería ni validar explicación sobrenatural como hecho.",
+          "Una creencia compartida por una comunidad no equivale automáticamente a delirio.",
+          "La derivación depende de indicadores de riesgo o necesidad clínica, no de rechazo cultural aislado."
+        ],
+        "perla": "INTERCULTURALIDAD: ESCUCHAR → COMPRENDER → EXPLICAR → ACORDAR → SEGUIR. Respetar una creencia cultural NO equivale a diagnosticar brujería ni validar explicación sobrenatural como hecho.",
+        "repaso_activo": [
+          "¿Cuál es la clave del caso? — Reducir barreras culturales.",
+          "¿Qué se valida en una explicación de brujería? — El sufrimiento y la perspectiva de la persona, no la causalidad sobrenatural como diagnóstico.",
+          "¿Qué distingue creencia cultural de delirio? — Contexto cultural y evaluación clínica integral; no solo el contenido de la creencia.",
+          "¿Cuándo derivar de urgencia? — Riesgo suicida, compromiso grave, agitación peligrosa u otra señal clínica de alarma."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Una mujer quechuahablante atribuye su ansiedad a «daño» y teme que el personal se burle. ¿Cuál es el mejor inicio de entrevista?",
+            "alternativas": {
+              "A": "Explicar que la creencia es absurda para lograr cambio",
+              "B": "Diagnosticar trastorno delirante sin explorar contexto",
+              "C": "Enviar de inmediato a psiquiatría por hablar de curanderos",
+              "D": "Afirmar que existe brujería como causa médica",
+              "E": "Explorar su interpretación sin prejuicios y ofrecer plan comprensible"
+            },
+            "respuesta": "E",
+            "explicacion": "La validación del malestar y la exploración cultural favorecen una alianza terapéutica sin asumir ni negar acríticamente explicaciones causales."
+          },
+          {
+            "enunciado": "Durante evaluación culturalmente adaptada de ansiedad, una paciente refiere ideación suicida actual con plan. ¿Cuál es la acción prioritaria?",
+            "alternativas": {
+              "A": "Esperar a que termine el ritual tradicional",
+              "B": "Realizar evaluación urgente de seguridad y activar atención especializada",
+              "C": "Programar control en seis meses sin más preguntas",
+              "D": "Interpretar el riesgo como parte habitual de la creencia",
+              "E": "Suspender la atención hasta hablar con la familia"
+            },
+            "respuesta": "B",
+            "explicacion": "La pertinencia cultural se mantiene, pero una amenaza inmediata a la vida exige evaluación y manejo urgente."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Barreras culturales, creencias de daño y atención de ansiedad",
+          "eje": "ENCAPS Medicina 2026-II · Prevención, salud pública y gestión",
+          "confiabilidad": "clave_resaltada_en_pdf_sin_verificacion_de_solucionario_oficial",
+          "respuesta_resumida": "D. Reducir las barreras culturales (clave resaltada en el PDF proporcionado; todavía sin cotejo independiente con solucionario oficial).",
+          "razonamiento": [
+            "La usuaria describe el malestar mediante una explicación cultural («brujería»), recibe apoyo de curanderos y expresa desconfianza hacia la atención formal.",
+            "El psicólogo considera indicadores de ansiedad; para iniciar una alianza terapéutica debe reducir barreras culturales, clave D.",
+            "Eso requiere escuchar sin ridiculizar, explorar el significado de «daño», diferenciar creencia compartida culturalmente de ideas delirantes, explicar hipótesis y opciones con lenguaje comprensible y negociar un plan centrado en la persona.",
+            "No corresponde confirmar el origen sobrenatural como diagnóstico ni descalificarlo con confrontación.",
+            "Debe evaluarse riesgo clínico, funcionalidad, trauma, consumo de sustancias, causas médicas, síntomas psicóticos y suicidabilidad; si surgen criterios, se intensifica atención o deriva.",
+            "No asumir que toda manifestación cultural es patológica."
+          ],
+          "temario": [
+            {
+              "subtitulo": "Modelo explicativo de enfermedad",
+              "texto": "Las personas interpretan síntomas usando experiencias familiares y culturales. Preguntar qué cree que ocurre, cómo lo explica, qué teme y qué espera del tratamiento."
+            },
+            {
+              "subtitulo": "Competencia cultural",
+              "texto": "Reconocer cosmovisiones distintas sin afirmar causalidad paranormal ni hacer juicios despectivos. Validar sufrimiento, no necesariamente la interpretación."
+            },
+            {
+              "subtitulo": "Ansiedad y diagnóstico diferencial",
+              "texto": "Explorar duración, preocupaciones, síntomas autonómicos, insomnio, deterioro, depresividad y factores precipitantes; descartar causas físicas o sustancias cuando esté indicado."
+            },
+            {
+              "subtitulo": "Creencias culturalmente compartidas",
+              "texto": "Una explicación cultural como «daño» o «susto» no prueba delirios. Los criterios de un trastorno requieren valoración contextual, convicción, consecuencias y otros hallazgos."
+            },
+            {
+              "subtitulo": "Entrevista colaborativa",
+              "texto": "Escucha reflexiva, preguntas abiertas, reformulación comprensible, negociación de prioridades y consentimiento informado; evitar confrontación de cosmovisiones."
+            },
+            {
+              "subtitulo": "Barreras estructurales y lingüísticas",
+              "texto": "Tiempo de consulta, idioma, estigma, costos, transporte y experiencias de discriminación pueden impedir atención. Intérprete y continuidad reducen brecha."
+            },
+            {
+              "subtitulo": "Tratamiento inicial",
+              "texto": "Psicoeducación sensible al contexto, estrategias psicológicas según diagnóstico y gravedad, seguimiento de adherencia y derivación cuando lo ameriten los hallazgos."
+            },
+            {
+              "subtitulo": "Señales de alarma",
+              "texto": "Riesgo suicida, agitación grave, incapacidad de autocuidado, síntomas psicóticos francos, causas orgánicas o violencia requieren valoración urgente."
+            },
+            {
+              "subtitulo": "Trabajo comunitario",
+              "texto": "La relación con actores culturales puede facilitar acceso cuando la persona lo desea y no compromete seguridad; el tratamiento sanitario no se sustituye por prácticas potencialmente dañinas."
+            }
+          ],
+          "distractores": {
+            "A": "Reforzar el esquema cultural como certeza causal puede consolidar una atribución no evaluada; se debe respetar a la usuaria sin confirmar la brujería como diagnóstico.",
+            "B": "Referir automáticamente a medicina no aborda la barrera cultural y no se describe un signo que exija exclusivamente esa acción. Puede estar indicado si se sospecha causa médica, según evaluación.",
+            "C": "La derivación a psiquiatría no es obligatoria solo por creer en un «daño»; dependerá de gravedad, diagnóstico, riesgo y recursos disponibles.",
+            "D": "Reducir barreras culturales es la intervención relacional que favorece aceptación, confianza y continuidad del manejo, sin imponer ni despreciar creencias."
+          },
+          "normativa": [
+            {
+              "nombre": "Instituto Nacional de Salud Mental: salud mental intercultural en comunidades andinas (2026)",
+              "url": "https://www.gob.pe/institucion/insm/noticias/1356933-descolonizar-la-salud-mental-importancia-y-necesidad-de-atender-la-depresion-en-comunidades-andinas-con-enfoque-intercultural",
+              "aplicacion": "Reconocer cosmovisión, barreras culturales y explicaciones como «daño»."
+            },
+            {
+              "nombre": "MINSA: establecimientos con pertinencia cultural",
+              "url": "https://www.gob.pe/69795",
+              "aplicacion": "Atención adaptada, diálogo horizontal, idioma, respeto y acceso equitativo."
+            }
+          ],
+          "mnemotecnia": "INTERCULTURALIDAD: ESCUCHAR → COMPRENDER → EXPLICAR → ACORDAR → SEGUIR.",
+          "trampas": [
+            "Respetar una creencia cultural NO equivale a diagnosticar brujería ni validar explicación sobrenatural como hecho.",
+            "Una creencia compartida por una comunidad no equivale automáticamente a delirio.",
+            "La derivación depende de indicadores de riesgo o necesidad clínica, no de rechazo cultural aislado."
+          ],
+          "perla": "INTERCULTURALIDAD: ESCUCHAR → COMPRENDER → EXPLICAR → ACORDAR → SEGUIR.",
+          "repaso_activo": [
+            {
+              "pregunta": "¿Cuál es la clave del caso?",
+              "respuesta": "Reducir barreras culturales."
+            },
+            {
+              "pregunta": "¿Qué se valida en una explicación de brujería?",
+              "respuesta": "El sufrimiento y la perspectiva de la persona, no la causalidad sobrenatural como diagnóstico."
+            },
+            {
+              "pregunta": "¿Qué distingue creencia cultural de delirio?",
+              "respuesta": "Contexto cultural y evaluación clínica integral; no solo el contenido de la creencia."
+            },
+            {
+              "pregunta": "¿Cuándo derivar de urgencia?",
+              "respuesta": "Riesgo suicida, compromiso grave, agitación peligrosa u otra señal clínica de alarma."
+            }
+          ],
+          "refuerzo": [
+            {
+              "enunciado": "Una mujer quechuahablante atribuye su ansiedad a «daño» y teme que el personal se burle. ¿Cuál es el mejor inicio de entrevista?",
+              "alternativas": {
+                "A": "Explicar que la creencia es absurda para lograr cambio",
+                "B": "Diagnosticar trastorno delirante sin explorar contexto",
+                "C": "Enviar de inmediato a psiquiatría por hablar de curanderos",
+                "D": "Afirmar que existe brujería como causa médica",
+                "E": "Explorar su interpretación sin prejuicios y ofrecer plan comprensible"
+              },
+              "respuesta": "E",
+              "explicacion": "La validación del malestar y la exploración cultural favorecen una alianza terapéutica sin asumir ni negar acríticamente explicaciones causales."
+            },
+            {
+              "enunciado": "Durante evaluación culturalmente adaptada de ansiedad, una paciente refiere ideación suicida actual con plan. ¿Cuál es la acción prioritaria?",
+              "alternativas": {
+                "A": "Esperar a que termine el ritual tradicional",
+                "B": "Realizar evaluación urgente de seguridad y activar atención especializada",
+                "C": "Programar control en seis meses sin más preguntas",
+                "D": "Interpretar el riesgo como parte habitual de la creencia",
+                "E": "Suspender la atención hasta hablar con la familia"
+              },
+              "respuesta": "B",
+              "explicacion": "La pertinencia cultural se mantiene, pero una amenaza inmediata a la vida exige evaluación y manejo urgente."
+            }
+          ]
+        }
+      }
     },
     {
       "number": 96,
