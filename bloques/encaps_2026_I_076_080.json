@@ -1,0 +1,66 @@
+{
+  "bankId": "ENCAPS_2026_I",
+  "status": "borrador_razonado_requiere_ampliacion_e_integracion",
+  "questions": [
+    {
+      "number": 76,
+      "question": "Ud. es jefe de un establecimiento I-4 en la región norte del país y los boletines informativos de epidemiología indican un aumento de casos de melanomas por exposición a rayos UV en el último año. ¿A qué tipo de casos corresponden?",
+      "options": {
+        "A": "Reincidentes",
+        "B": "Prevalentes",
+        "C": "Probables",
+        "D": "Incidentes"
+      },
+      "correct": "D",
+      "razonamiento": "Los casos nuevos registrados durante un periodo son incidentes. La prevalencia incluye diagnósticos previos aún existentes; probable indica certeza diagnóstica y recurrente aparición posterior."
+    },
+    {
+      "number": 77,
+      "question": "Jorge de 38 años, acude a la IPRESS puerta de entrada de su zona sanitaria en Piura, con fiebre, cefalea, mialgias y dolor retro ocular de 2 días de evolución, sin factor de riesgo. Médico serumista lo considera como un dengue probable y lo clasifica como grupo ...… para iniciar tratamiento.",
+      "options": {
+        "A": "A",
+        "B": "B2",
+        "C": "B1",
+        "D": "C"
+      },
+      "correct": "A",
+      "razonamiento": "Grupo A: dengue sin signos de alarma ni factores de riesgo, apto para manejo ambulatorio si tiene tolerancia oral, diuresis y seguimiento. B1: riesgo/comorbilidad, B2: alarma, C: dengue grave."
+    },
+    {
+      "number": 78,
+      "question": "Mujer parturienta de 37 años, solicito dar a luz en posición de rodillas ¿Qué ubicación toma usted para proteger el periné en todo momento y evitar desgarre?",
+      "options": {
+        "A": "arrodillado",
+        "B": "Delante o detrás",
+        "C": "sentado en un banco",
+        "D": "costado izquierdo o derecho"
+      },
+      "correct": "B",
+      "razonamiento": "La norma peruana sobre parto vertical contempla que el profesional pueda situarse delante o detrás de la parturienta; en la variante de cuatro apoyos la ubicación posterior suele permitir apoyo perineal."
+    },
+    {
+      "number": 79,
+      "question": "En una comunidad amazónica se registra un brote de malaria por Plasmodium falciparum, donde dos niños fallecieron de un total de 50 pacientes (4%) confirmados con gota gruesa y PCR. ¿Cuál es la medida epidemiológica de frecuencia referida?",
+      "options": {
+        "A": "Tasa de ataque",
+        "B": "Tasa de letalidad",
+        "C": "Tasa de mortalidad general",
+        "D": "Incidencia acumulada"
+      },
+      "correct": "B",
+      "razonamiento": "La letalidad es proporción de fallecimientos entre enfermos; 2/50 × 100 = 4 %. Mortalidad usa como denominador la población general o en riesgo."
+    },
+    {
+      "number": 80,
+      "question": "Se observa que hay migrantes de la selva que viven en un asentamiento humano de un distrito de Lima, que son discriminados y rechazados por los pobladores del distrito donde pernoctan. ¿Qué acciones debe realizar como personal de salud?",
+      "options": {
+        "A": "Reforzar la interacción cultural",
+        "B": "Normalizar el comportamiento de la comunidad",
+        "C": "Imponer acciones socio educativas",
+        "D": "Cambiar hábitos, costumbres y creencias"
+      },
+      "correct": "A",
+      "razonamiento": "La respuesta intercultural promueve diálogo comunitario, respeto, acceso y no discriminación. No corresponde normalizar el rechazo ni imponer renuncia a costumbres."
+    }
+  ]
+}
