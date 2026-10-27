@@ -3,7 +3,7 @@
   "bankId": "ENCAPS_2026_I",
   "title": "ENCAPS 2026-I · Medicina Humana",
   "source": "Examen SERUMS Medicina 19 abril 2026 · claves resaltadas en PDF del usuario",
-  "questionCount": 15,
+  "questionCount": 20,
   "questions": [
     {
       "number": 1,
@@ -2039,6 +2039,446 @@
         "leccion_extendida": {
           "titulo": "Inmunizaciones en adulto mayor: influenza y neumococo",
           "desarrollo": "RESPUESTA DEL BLOQUE (INTERPRETACIÓN ACADÉMICA, NO COTEJO INDEPENDIENTE CON CLAVE OFICIAL)\nC. Influenza adulto y neumococo\n\nRAZONAMIENTO EXTENSO\nLas estrategias de inmunización de personas mayores priorizan vacunación antigripal e inmunización antineumocócica conforme a edad, riesgo, antecedente y esquema nacional vigente. Ambas previenen complicaciones respiratorias de impacto elevado. No se debe interpretar que las demás vacunas estén prohibidas: ciertas indicaciones dependen de riesgos, territorio y antecedentes.\n\nDESARROLLO DEL TEMARIO\n1. Inmunosenescencia: reducción de respuesta inmunológica y aumento de riesgo de influenza complicada y neumonía neumocócica.\n2. Vacuna influenza: actualización de formulación y campañas según recomendaciones nacionales y situación epidemiológica.\n3. Vacunación neumocócica: tipo de vacuna y necesidad de dosis previas dependen del esquema nacional vigente y comorbilidades.\n4. Anamnesis vacunal: registrar carné, historia previa, comorbilidades, inmunosupresión y reacciones adversas.\n5. Evaluación de contraindicaciones reales frente a falsas contraindicaciones.\n6. Hepatitis B: indicación según antecedentes, susceptibilidad y riesgo, no sustituto de las prioridades preguntadas.\n7. Fiebre amarilla: contexto de exposición territorial y recomendaciones específicas, no vacunación indiscriminada a toda persona mayor.\n8. Vacunas adicionales: COVID-19, tétanos/difteria y otras según lineamientos y disponibilidad.\n9. Consejería: explicar protección, eventos adversos esperables, consentimiento y continuidad.\n\nALTERNATIVAS\nA. Ambas pueden tener indicación selectiva; no forman el par característico esperado de vacunación rutinaria del adulto mayor.\nB. Fiebre amarilla depende del riesgo y de precauciones por edad; no reemplaza neumococo como respuesta general.\nC. Correcta: influenza del adulto y neumococo como prioridades del curso de vida mayor.\nD. VPH y SPR no representan el paquete general prioritario de un adulto mayor; SPR puede indicarse en contextos específicos.\n\nNORMATIVA / FUENTES DE ESTUDIO\nNorma Técnica de Salud del Esquema Nacional de Vacunación de MINSA vigente y actualizaciones de inmunización de personas adultas mayores.\nOPS/OMS: prevención de influenza estacional y enfermedad neumocócica en grupos de riesgo.\n\nTRAMPAS\nNo confundir inmunización rutinaria con vacunas indicadas por viaje.\nVacunas de neumococo no se consideran equivalentes sin atender al producto y pauta.\nRevisar esquemas vigentes antes de memorizar dosis e intervalos exactos.\n\nMNEMOTECNIA\nMAYOR: INFLUENZA + NEUMOCOCO.\n\nREPASO ACTIVO\n¿Clave? C: influenza y neumococo.\n¿Fiebre amarilla universal en mayores? No.\n¿Qué evaluar antes de vacunar? Antecedentes, riesgos y lineamientos.\n\nDOS CASOS DE REFUERZO\n1. Adulto mayor sin inmunizaciones documentadas llega a APS. ¿Qué dos inmunizaciones prioriza la pregunta clásica?\nA. BCG y rotavirus\nB. Influenza y neumococo\nC. VPH y BCG\nD. Fiebre amarilla y rotavirus\nE. Triple viral y rotavirus\nClave B: Par prioritario según curso de vida mayor.\n\n2. Adulto mayor viajará a región con riesgo de fiebre amarilla. ¿Conducta?\nA. Aplicar sin valorar edad\nB. Descartar automáticamente todo viaje\nC. Reemplazar vacuna neumocócica\nD. Evaluar indicación, edad y precauciones específicas\nE. Indicar antibiótico como sustituto\nClave D: La decisión exige balance individual de riesgo-beneficio."
+        }
+      }
+    },
+    {
+      "number": 16,
+      "question": "Frente a un paciente con sospecha de neumotórax y/o atrapamiento aéreo; para un adecuado diagnóstico, se debe tomar una radiografía en:",
+      "options": {
+        "A": "Decúbito supino",
+        "B": "Inspiración",
+        "C": "Decúbito prono",
+        "D": "Espiración"
+      },
+      "correct": "D",
+      "code": "ENCAPS26-I P016",
+      "course": "ENCAPS Medicina 2026-I · Temario desarrollado",
+      "topic": "Neumotórax, atrapamiento aéreo y radiografía espiratoria",
+      "comment": "CLAVE RAZONADA — PENDIENTE COTEJO INDEPENDIENTE CON TABLA OFICIAL\nD. Espiración\n\nRAZONAMIENTO\nLa respuesta clásica del examen es espiración: el pulmón reduce su volumen y puede facilitarse la visualización relativa del aire pleural. Sin embargo, las recomendaciones radiológicas modernas no aconsejan sistemáticamente la placa espiratoria para detectar neumotórax; la radiografía inspiratoria convencional y la ecografía pulmonar suelen ser opciones iniciales según contexto. Si hay neumotórax a tensión con inestabilidad, no esperar ninguna imagen.\n\nDESARROLLO COMPLETO DEL TEMARIO\n1. Fisiopatología: aire en espacio pleural y pérdida del gradiente de presión que mantiene expandido el pulmón.\n2. Radiografía: línea pleural visceral y ausencia de marcas pulmonares distales como signos relevantes.\n3. Radiografía en inspiración: técnica estándar de tórax, no debe confundirse con la clave tradicional espiratoria.\n4. Espiración: puede resaltar atrapamiento aéreo unilateral; para neumotórax su utilidad rutinaria es discutida.\n5. Ecografía pulmonar: ausencia de deslizamiento y punto pulmonar, interpretados según contexto.\n6. Radiografía supina: el signo del surco profundo puede señalar neumotórax oculto.\n7. Neumotórax a tensión: diagnóstico clínico en inestabilidad y descompresión inmediata.\n8. TC torácica: estudio de mayor sensibilidad cuando la indicación y estabilidad justifican uso.\n\nANÁLISIS POR ALTERNATIVA\nA) Decúbito supino se reserva a contextos como trauma o paciente inmovilizado.\nB) Inspiración es la técnica inicial ordinaria actual, pero la respuesta histórica del ítem apunta a espiración.\nC) Decúbito prono no es la posición habitual para este propósito.\nD) Espiración es la respuesta didáctica clásica que solicita el examen.\n\nNORMATIVA Y REFERENCIAS\nNormativa MINSA y NTS vigente vinculada al tema: verificar versión y modificatorias al aplicar clínicamente.\nReferencias OPS/OMS y guías clínicas actuales cuando corresponda; separar clave de examen y práctica actual.\n\nTRAMPAS DE EXAMEN\nNo convertir la clave histórica en una recomendación de práctica universal.\nEn neumotórax a tensión no retrasar descompresión por radiografías.\nDiferenciar aire pleural de atrapamiento aéreo bronquial.\n\nMNEMOTECNIA\nTRAMPA DE EXAMEN: espiración clásica; EN URGENCIAS: estabilidad primero.\n\nREPASO ACTIVO\nClave razonada: D. Espiración\nIdea principal: La respuesta clásica del examen es espiración: el pulmón reduce su volumen y puede facilitarse la visualización relativa del aire pleural.\n\nCASOS DE REFUERZO\n1. Paciente inestable con sospecha clínica de neumotórax a tensión. ¿Qué hacer?\nA) Pedir espiratoria\nB) Control en una semana\nC) Descomprimir de inmediato\nD) Espirometría\nE) Solo oxígeno y observación\nClave: C. La descompresión no espera una placa.\n\n2. Paciente estable con sospecha de neumotórax. ¿Radiografía convencional inicial?\nA) Tórax inspiratoria\nB) Cráneo\nC) Pelvis\nD) Rodilla\nE) Mano\nClave: A. Es la técnica habitual en condiciones estándar.",
+      "pearl": "TRAMPA DE EXAMEN: espiración clásica; EN URGENCIAS: estabilidad primero.",
+      "keywords": [
+        "Neumotórax, atrapamiento aéreo y radiografía espiratoria",
+        "ENCAPS Medicina 2026-I",
+        "SERUMS MINSA"
+      ],
+      "estadoDesarrollo": "completo",
+      "estadoClave": "interpretacion_pendiente_cotejo_clave_oficial",
+      "lesson": {
+        "respuesta_resumida": "D. Espiración",
+        "razonamiento": "La respuesta clásica del examen es espiración: el pulmón reduce su volumen y puede facilitarse la visualización relativa del aire pleural. Sin embargo, las recomendaciones radiológicas modernas no aconsejan sistemáticamente la placa espiratoria para detectar neumotórax; la radiografía inspiratoria convencional y la ecografía pulmonar suelen ser opciones iniciales según contexto. Si hay neumotórax a tensión con inestabilidad, no esperar ninguna imagen.",
+        "temario": [
+          "Fisiopatología: aire en espacio pleural y pérdida del gradiente de presión que mantiene expandido el pulmón.",
+          "Radiografía: línea pleural visceral y ausencia de marcas pulmonares distales como signos relevantes.",
+          "Radiografía en inspiración: técnica estándar de tórax, no debe confundirse con la clave tradicional espiratoria.",
+          "Espiración: puede resaltar atrapamiento aéreo unilateral; para neumotórax su utilidad rutinaria es discutida.",
+          "Ecografía pulmonar: ausencia de deslizamiento y punto pulmonar, interpretados según contexto.",
+          "Radiografía supina: el signo del surco profundo puede señalar neumotórax oculto.",
+          "Neumotórax a tensión: diagnóstico clínico en inestabilidad y descompresión inmediata.",
+          "TC torácica: estudio de mayor sensibilidad cuando la indicación y estabilidad justifican uso."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Decúbito supino se reserva a contextos como trauma o paciente inmovilizado.",
+          "B": "Inspiración es la técnica inicial ordinaria actual, pero la respuesta histórica del ítem apunta a espiración.",
+          "C": "Decúbito prono no es la posición habitual para este propósito.",
+          "D": "Espiración es la respuesta didáctica clásica que solicita el examen."
+        },
+        "normativa": [
+          "Normativa MINSA y NTS vigente vinculada al tema: verificar versión y modificatorias al aplicar clínicamente.",
+          "Referencias OPS/OMS y guías clínicas actuales cuando corresponda; separar clave de examen y práctica actual."
+        ],
+        "mnemotecnia": "TRAMPA DE EXAMEN: espiración clásica; EN URGENCIAS: estabilidad primero.",
+        "trampas": [
+          "No convertir la clave histórica en una recomendación de práctica universal.",
+          "En neumotórax a tensión no retrasar descompresión por radiografías.",
+          "Diferenciar aire pleural de atrapamiento aéreo bronquial."
+        ],
+        "perla": "TRAMPA DE EXAMEN: espiración clásica; EN URGENCIAS: estabilidad primero.",
+        "repaso_activo": [
+          "Clave razonada: D. Espiración",
+          "Idea principal: La respuesta clásica del examen es espiración: el pulmón reduce su volumen y puede facilitarse la visualización relativa del aire pleural."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Paciente inestable con sospecha clínica de neumotórax a tensión. ¿Qué hacer?",
+            "alternativas": {
+              "A": "Pedir espiratoria",
+              "B": "Control en una semana",
+              "C": "Descomprimir de inmediato",
+              "D": "Espirometría",
+              "E": "Solo oxígeno y observación"
+            },
+            "respuesta": "C",
+            "explicacion": "La descompresión no espera una placa."
+          },
+          {
+            "enunciado": "Paciente estable con sospecha de neumotórax. ¿Radiografía convencional inicial?",
+            "alternativas": {
+              "A": "Tórax inspiratoria",
+              "B": "Cráneo",
+              "C": "Pelvis",
+              "D": "Rodilla",
+              "E": "Mano"
+            },
+            "respuesta": "A",
+            "explicacion": "Es la técnica habitual en condiciones estándar."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Neumotórax, atrapamiento aéreo y radiografía espiratoria",
+          "desarrollo": "CLAVE RAZONADA — PENDIENTE COTEJO INDEPENDIENTE CON TABLA OFICIAL\nD. Espiración\n\nRAZONAMIENTO\nLa respuesta clásica del examen es espiración: el pulmón reduce su volumen y puede facilitarse la visualización relativa del aire pleural. Sin embargo, las recomendaciones radiológicas modernas no aconsejan sistemáticamente la placa espiratoria para detectar neumotórax; la radiografía inspiratoria convencional y la ecografía pulmonar suelen ser opciones iniciales según contexto. Si hay neumotórax a tensión con inestabilidad, no esperar ninguna imagen.\n\nDESARROLLO COMPLETO DEL TEMARIO\n1. Fisiopatología: aire en espacio pleural y pérdida del gradiente de presión que mantiene expandido el pulmón.\n2. Radiografía: línea pleural visceral y ausencia de marcas pulmonares distales como signos relevantes.\n3. Radiografía en inspiración: técnica estándar de tórax, no debe confundirse con la clave tradicional espiratoria.\n4. Espiración: puede resaltar atrapamiento aéreo unilateral; para neumotórax su utilidad rutinaria es discutida.\n5. Ecografía pulmonar: ausencia de deslizamiento y punto pulmonar, interpretados según contexto.\n6. Radiografía supina: el signo del surco profundo puede señalar neumotórax oculto.\n7. Neumotórax a tensión: diagnóstico clínico en inestabilidad y descompresión inmediata.\n8. TC torácica: estudio de mayor sensibilidad cuando la indicación y estabilidad justifican uso.\n\nANÁLISIS POR ALTERNATIVA\nA) Decúbito supino se reserva a contextos como trauma o paciente inmovilizado.\nB) Inspiración es la técnica inicial ordinaria actual, pero la respuesta histórica del ítem apunta a espiración.\nC) Decúbito prono no es la posición habitual para este propósito.\nD) Espiración es la respuesta didáctica clásica que solicita el examen.\n\nNORMATIVA Y REFERENCIAS\nNormativa MINSA y NTS vigente vinculada al tema: verificar versión y modificatorias al aplicar clínicamente.\nReferencias OPS/OMS y guías clínicas actuales cuando corresponda; separar clave de examen y práctica actual.\n\nTRAMPAS DE EXAMEN\nNo convertir la clave histórica en una recomendación de práctica universal.\nEn neumotórax a tensión no retrasar descompresión por radiografías.\nDiferenciar aire pleural de atrapamiento aéreo bronquial.\n\nMNEMOTECNIA\nTRAMPA DE EXAMEN: espiración clásica; EN URGENCIAS: estabilidad primero.\n\nREPASO ACTIVO\nClave razonada: D. Espiración\nIdea principal: La respuesta clásica del examen es espiración: el pulmón reduce su volumen y puede facilitarse la visualización relativa del aire pleural.\n\nCASOS DE REFUERZO\n1. Paciente inestable con sospecha clínica de neumotórax a tensión. ¿Qué hacer?\nA) Pedir espiratoria\nB) Control en una semana\nC) Descomprimir de inmediato\nD) Espirometría\nE) Solo oxígeno y observación\nClave: C. La descompresión no espera una placa.\n\n2. Paciente estable con sospecha de neumotórax. ¿Radiografía convencional inicial?\nA) Tórax inspiratoria\nB) Cráneo\nC) Pelvis\nD) Rodilla\nE) Mano\nClave: A. Es la técnica habitual en condiciones estándar."
+        }
+      }
+    },
+    {
+      "number": 17,
+      "question": "Un médico serumista se encuentra trabajando en un centro de salud de 12 horas, al cual acude una gestante de bajo riesgo obstétrico con contracciones. ¿A qué establecimiento de salud le corresponde referir?",
+      "options": {
+        "A": "I - 3",
+        "B": "I - 4",
+        "C": "II - 1",
+        "D": "III - 1"
+      },
+      "correct": "B",
+      "code": "ENCAPS26-I P017",
+      "course": "ENCAPS Medicina 2026-I · Temario desarrollado",
+      "topic": "Referencia obstétrica a establecimiento I-4",
+      "comment": "CLAVE RAZONADA — PENDIENTE COTEJO INDEPENDIENTE CON TABLA OFICIAL\nB. I - 4\n\nRAZONAMIENTO\nLa gestante de bajo riesgo obstétrico con contracciones requiere valoración de trabajo de parto y un lugar habilitado para atención obstétrica continua. Desde un establecimiento con atención de 12 horas, la referencia esperada es a un I-4 con capacidad para parto, siempre que la cartera y recursos reales lo permitan. Ante emergencia o expulsivo inminente cambia la prioridad de seguridad.\n\nDESARROLLO COMPLETO DEL TEMARIO\n1. Categorías de establecimientos I-1 a I-4 y niveles hospitalarios.\n2. Un centro de 12 horas no debe asumirse como unidad de parto disponible permanentemente.\n3. Evaluar contracciones, borramiento, dilatación, presentación, membranas y frecuencia cardíaca fetal.\n4. Comprobar signos de alarma maternos y fetales antes del transporte.\n5. I-4 con capacidad de parto habilitada como referencia de bajo riesgo.\n6. Comunicar destino, registrar referencia y organizar transporte seguro.\n7. Complicaciones obstétricas pueden requerir destino hospitalario según capacidad resolutiva.\n8. Coronación o expulsivo inminente exige respuesta inmediata, no transporte automático.\n\nANÁLISIS POR ALTERNATIVA\nA) I-3 no es usualmente el destino para asistencia intraparto.\nB) I-4 responde al nivel con atención de parto previsto en el caso.\nC) II-1 es posible ante riesgo o falta de servicio en I-4, pero no es la elección estándar descrita.\nD) III-1 excede la complejidad necesaria sin otra complicación.\n\nNORMATIVA Y REFERENCIAS\nNormativa MINSA y NTS vigente vinculada al tema: verificar versión y modificatorias al aplicar clínicamente.\nReferencias OPS/OMS y guías clínicas actuales cuando corresponda; separar clave de examen y práctica actual.\n\nTRAMPAS DE EXAMEN\nHorario y categoría no son términos sinónimos.\nNo todos los I-4 tienen idéntica disponibilidad real.\nUna complicación cambia el destino y urgencia.\n\nMNEMOTECNIA\nPARTO BAJO RIESGO → I-4 HABILITADO.\n\nREPASO ACTIVO\nClave razonada: B. I - 4\nIdea principal: La gestante de bajo riesgo obstétrico con contracciones requiere valoración de trabajo de parto y un lugar habilitado para atención obstétrica continua.\n\nCASOS DE REFUERZO\n1. Gestante estable llega a puesto sin atención de partos. ¿Destino?\nA) I-2 sin parto\nB) Alta\nC) I-3 sin parto\nD) I-4 con parto\nE) Esperar sin vigilancia\nClave: D. Requiere oferta de atención obstétrica adecuada.\n\n2. Gestante convulsiona en centro I-3. ¿Conducta?\nA) Darle alta\nB) Estabilizar y referir de urgencia\nC) Dar solo vitaminas\nD) Posponer\nE) No registrar\nClave: B. Se trata de urgencia obstétrica.",
+      "pearl": "PARTO BAJO RIESGO → I-4 HABILITADO.",
+      "keywords": [
+        "Referencia obstétrica a establecimiento I-4",
+        "ENCAPS Medicina 2026-I",
+        "SERUMS MINSA"
+      ],
+      "estadoDesarrollo": "completo",
+      "estadoClave": "interpretacion_pendiente_cotejo_clave_oficial",
+      "lesson": {
+        "respuesta_resumida": "B. I - 4",
+        "razonamiento": "La gestante de bajo riesgo obstétrico con contracciones requiere valoración de trabajo de parto y un lugar habilitado para atención obstétrica continua. Desde un establecimiento con atención de 12 horas, la referencia esperada es a un I-4 con capacidad para parto, siempre que la cartera y recursos reales lo permitan. Ante emergencia o expulsivo inminente cambia la prioridad de seguridad.",
+        "temario": [
+          "Categorías de establecimientos I-1 a I-4 y niveles hospitalarios.",
+          "Un centro de 12 horas no debe asumirse como unidad de parto disponible permanentemente.",
+          "Evaluar contracciones, borramiento, dilatación, presentación, membranas y frecuencia cardíaca fetal.",
+          "Comprobar signos de alarma maternos y fetales antes del transporte.",
+          "I-4 con capacidad de parto habilitada como referencia de bajo riesgo.",
+          "Comunicar destino, registrar referencia y organizar transporte seguro.",
+          "Complicaciones obstétricas pueden requerir destino hospitalario según capacidad resolutiva.",
+          "Coronación o expulsivo inminente exige respuesta inmediata, no transporte automático."
+        ],
+        "por_que_no_las_otras": {
+          "A": "I-3 no es usualmente el destino para asistencia intraparto.",
+          "B": "I-4 responde al nivel con atención de parto previsto en el caso.",
+          "C": "II-1 es posible ante riesgo o falta de servicio en I-4, pero no es la elección estándar descrita.",
+          "D": "III-1 excede la complejidad necesaria sin otra complicación."
+        },
+        "normativa": [
+          "Normativa MINSA y NTS vigente vinculada al tema: verificar versión y modificatorias al aplicar clínicamente.",
+          "Referencias OPS/OMS y guías clínicas actuales cuando corresponda; separar clave de examen y práctica actual."
+        ],
+        "mnemotecnia": "PARTO BAJO RIESGO → I-4 HABILITADO.",
+        "trampas": [
+          "Horario y categoría no son términos sinónimos.",
+          "No todos los I-4 tienen idéntica disponibilidad real.",
+          "Una complicación cambia el destino y urgencia."
+        ],
+        "perla": "PARTO BAJO RIESGO → I-4 HABILITADO.",
+        "repaso_activo": [
+          "Clave razonada: B. I - 4",
+          "Idea principal: La gestante de bajo riesgo obstétrico con contracciones requiere valoración de trabajo de parto y un lugar habilitado para atención obstétrica continua."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Gestante estable llega a puesto sin atención de partos. ¿Destino?",
+            "alternativas": {
+              "A": "I-2 sin parto",
+              "B": "Alta",
+              "C": "I-3 sin parto",
+              "D": "I-4 con parto",
+              "E": "Esperar sin vigilancia"
+            },
+            "respuesta": "D",
+            "explicacion": "Requiere oferta de atención obstétrica adecuada."
+          },
+          {
+            "enunciado": "Gestante convulsiona en centro I-3. ¿Conducta?",
+            "alternativas": {
+              "A": "Darle alta",
+              "B": "Estabilizar y referir de urgencia",
+              "C": "Dar solo vitaminas",
+              "D": "Posponer",
+              "E": "No registrar"
+            },
+            "respuesta": "B",
+            "explicacion": "Se trata de urgencia obstétrica."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Referencia obstétrica a establecimiento I-4",
+          "desarrollo": "CLAVE RAZONADA — PENDIENTE COTEJO INDEPENDIENTE CON TABLA OFICIAL\nB. I - 4\n\nRAZONAMIENTO\nLa gestante de bajo riesgo obstétrico con contracciones requiere valoración de trabajo de parto y un lugar habilitado para atención obstétrica continua. Desde un establecimiento con atención de 12 horas, la referencia esperada es a un I-4 con capacidad para parto, siempre que la cartera y recursos reales lo permitan. Ante emergencia o expulsivo inminente cambia la prioridad de seguridad.\n\nDESARROLLO COMPLETO DEL TEMARIO\n1. Categorías de establecimientos I-1 a I-4 y niveles hospitalarios.\n2. Un centro de 12 horas no debe asumirse como unidad de parto disponible permanentemente.\n3. Evaluar contracciones, borramiento, dilatación, presentación, membranas y frecuencia cardíaca fetal.\n4. Comprobar signos de alarma maternos y fetales antes del transporte.\n5. I-4 con capacidad de parto habilitada como referencia de bajo riesgo.\n6. Comunicar destino, registrar referencia y organizar transporte seguro.\n7. Complicaciones obstétricas pueden requerir destino hospitalario según capacidad resolutiva.\n8. Coronación o expulsivo inminente exige respuesta inmediata, no transporte automático.\n\nANÁLISIS POR ALTERNATIVA\nA) I-3 no es usualmente el destino para asistencia intraparto.\nB) I-4 responde al nivel con atención de parto previsto en el caso.\nC) II-1 es posible ante riesgo o falta de servicio en I-4, pero no es la elección estándar descrita.\nD) III-1 excede la complejidad necesaria sin otra complicación.\n\nNORMATIVA Y REFERENCIAS\nNormativa MINSA y NTS vigente vinculada al tema: verificar versión y modificatorias al aplicar clínicamente.\nReferencias OPS/OMS y guías clínicas actuales cuando corresponda; separar clave de examen y práctica actual.\n\nTRAMPAS DE EXAMEN\nHorario y categoría no son términos sinónimos.\nNo todos los I-4 tienen idéntica disponibilidad real.\nUna complicación cambia el destino y urgencia.\n\nMNEMOTECNIA\nPARTO BAJO RIESGO → I-4 HABILITADO.\n\nREPASO ACTIVO\nClave razonada: B. I - 4\nIdea principal: La gestante de bajo riesgo obstétrico con contracciones requiere valoración de trabajo de parto y un lugar habilitado para atención obstétrica continua.\n\nCASOS DE REFUERZO\n1. Gestante estable llega a puesto sin atención de partos. ¿Destino?\nA) I-2 sin parto\nB) Alta\nC) I-3 sin parto\nD) I-4 con parto\nE) Esperar sin vigilancia\nClave: D. Requiere oferta de atención obstétrica adecuada.\n\n2. Gestante convulsiona en centro I-3. ¿Conducta?\nA) Darle alta\nB) Estabilizar y referir de urgencia\nC) Dar solo vitaminas\nD) Posponer\nE) No registrar\nClave: B. Se trata de urgencia obstétrica."
+        }
+      }
+    },
+    {
+      "number": 18,
+      "question": "En el proceso de atención de Juan en consulta externa, el médico asume un rol \"Consejero - consultor\", buscando la autocomprensión de sus valores en salud del paciente. ¿Cómo se denomina a esta modelo de relación profesional de salud - paciente?",
+      "options": {
+        "A": "Deliberativo",
+        "B": "Informativo",
+        "C": "Paternalista",
+        "D": "Interpretativo"
+      },
+      "correct": "D",
+      "code": "ENCAPS26-I P018",
+      "course": "ENCAPS Medicina 2026-I · Temario desarrollado",
+      "topic": "Modelos éticos de relación profesional-paciente",
+      "comment": "CLAVE RAZONADA — PENDIENTE COTEJO INDEPENDIENTE CON TABLA OFICIAL\nD. Interpretativo\n\nRAZONAMIENTO\nEn el modelo interpretativo, el profesional actúa como consejero o consultor, ayudando a esclarecer valores y preferencias del paciente. En el informativo proporciona datos para que el paciente elija; en el deliberativo dialoga sobre valores relacionados con la salud que sería deseable priorizar; y en el paternalista decide guiado por su concepción de bienestar.\n\nDESARROLLO COMPLETO DEL TEMARIO\n1. Modelo paternalista: profesional como guardián de bienestar.\n2. Modelo informativo: hechos clínicos y elección basada en valores ya definidos por paciente.\n3. Modelo interpretativo: clarifica valores incompletamente definidos y ayuda a elegir.\n4. Modelo deliberativo: diálogo crítico acerca de valores sanitarios deseables.\n5. Autonomía requiere capacidad, información comprensible y ausencia de coerción.\n6. Decisión compartida combina evidencia clínica y preferencias.\n7. Consentimiento informado incluye comprensión y voluntariedad.\n8. La escucha activa y el respeto cultural son transversales.\n\nANÁLISIS POR ALTERNATIVA\nA) Deliberativo propone deliberación sobre valores deseables, además de comprenderlos.\nB) Informativo presupone valores ya claros.\nC) Paternalista concentra la decisión en criterio médico.\nD) Interpretativo se caracteriza por esclarecer los valores del paciente.\n\nNORMATIVA Y REFERENCIAS\nNormativa MINSA y NTS vigente vinculada al tema: verificar versión y modificatorias al aplicar clínicamente.\nReferencias OPS/OMS y guías clínicas actuales cuando corresponda; separar clave de examen y práctica actual.\n\nTRAMPAS DE EXAMEN\nInterpretativo y deliberativo no son equivalentes.\nLa pista principal es 'consejero-consultor'.\nEl paciente participa activamente en esclarecer sus preferencias.\n\nMNEMOTECNIA\nINTERPRETATIVO = INTERPRETAR MIS VALORES.\n\nREPASO ACTIVO\nClave razonada: D. Interpretativo\nIdea principal: En el modelo interpretativo, el profesional actúa como consejero o consultor, ayudando a esclarecer valores y preferencias del paciente.\n\nCASOS DE REFUERZO\n1. Médico explora qué valora más un paciente antes de elegir tratamiento. Modelo?\nA) Paternalista\nB) Informativo\nC) Coercitivo\nD) Tutelar\nE) Interpretativo\nClave: E. Esclarecimiento de valores define el interpretativo.\n\n2. Médico presenta opciones sin participar en valoración moral. Modelo?\nA) Informativo\nB) Paternalista\nC) Interpretativo\nD) Deliberativo\nE) Forzado\nClave: A. Se limita a informar y facilitar elección.",
+      "pearl": "INTERPRETATIVO = INTERPRETAR MIS VALORES.",
+      "keywords": [
+        "Modelos éticos de relación profesional-paciente",
+        "ENCAPS Medicina 2026-I",
+        "SERUMS MINSA"
+      ],
+      "estadoDesarrollo": "completo",
+      "estadoClave": "interpretacion_pendiente_cotejo_clave_oficial",
+      "lesson": {
+        "respuesta_resumida": "D. Interpretativo",
+        "razonamiento": "En el modelo interpretativo, el profesional actúa como consejero o consultor, ayudando a esclarecer valores y preferencias del paciente. En el informativo proporciona datos para que el paciente elija; en el deliberativo dialoga sobre valores relacionados con la salud que sería deseable priorizar; y en el paternalista decide guiado por su concepción de bienestar.",
+        "temario": [
+          "Modelo paternalista: profesional como guardián de bienestar.",
+          "Modelo informativo: hechos clínicos y elección basada en valores ya definidos por paciente.",
+          "Modelo interpretativo: clarifica valores incompletamente definidos y ayuda a elegir.",
+          "Modelo deliberativo: diálogo crítico acerca de valores sanitarios deseables.",
+          "Autonomía requiere capacidad, información comprensible y ausencia de coerción.",
+          "Decisión compartida combina evidencia clínica y preferencias.",
+          "Consentimiento informado incluye comprensión y voluntariedad.",
+          "La escucha activa y el respeto cultural son transversales."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Deliberativo propone deliberación sobre valores deseables, además de comprenderlos.",
+          "B": "Informativo presupone valores ya claros.",
+          "C": "Paternalista concentra la decisión en criterio médico.",
+          "D": "Interpretativo se caracteriza por esclarecer los valores del paciente."
+        },
+        "normativa": [
+          "Normativa MINSA y NTS vigente vinculada al tema: verificar versión y modificatorias al aplicar clínicamente.",
+          "Referencias OPS/OMS y guías clínicas actuales cuando corresponda; separar clave de examen y práctica actual."
+        ],
+        "mnemotecnia": "INTERPRETATIVO = INTERPRETAR MIS VALORES.",
+        "trampas": [
+          "Interpretativo y deliberativo no son equivalentes.",
+          "La pista principal es 'consejero-consultor'.",
+          "El paciente participa activamente en esclarecer sus preferencias."
+        ],
+        "perla": "INTERPRETATIVO = INTERPRETAR MIS VALORES.",
+        "repaso_activo": [
+          "Clave razonada: D. Interpretativo",
+          "Idea principal: En el modelo interpretativo, el profesional actúa como consejero o consultor, ayudando a esclarecer valores y preferencias del paciente."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Médico explora qué valora más un paciente antes de elegir tratamiento. Modelo?",
+            "alternativas": {
+              "A": "Paternalista",
+              "B": "Informativo",
+              "C": "Coercitivo",
+              "D": "Tutelar",
+              "E": "Interpretativo"
+            },
+            "respuesta": "E",
+            "explicacion": "Esclarecimiento de valores define el interpretativo."
+          },
+          {
+            "enunciado": "Médico presenta opciones sin participar en valoración moral. Modelo?",
+            "alternativas": {
+              "A": "Informativo",
+              "B": "Paternalista",
+              "C": "Interpretativo",
+              "D": "Deliberativo",
+              "E": "Forzado"
+            },
+            "respuesta": "A",
+            "explicacion": "Se limita a informar y facilitar elección."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Modelos éticos de relación profesional-paciente",
+          "desarrollo": "CLAVE RAZONADA — PENDIENTE COTEJO INDEPENDIENTE CON TABLA OFICIAL\nD. Interpretativo\n\nRAZONAMIENTO\nEn el modelo interpretativo, el profesional actúa como consejero o consultor, ayudando a esclarecer valores y preferencias del paciente. En el informativo proporciona datos para que el paciente elija; en el deliberativo dialoga sobre valores relacionados con la salud que sería deseable priorizar; y en el paternalista decide guiado por su concepción de bienestar.\n\nDESARROLLO COMPLETO DEL TEMARIO\n1. Modelo paternalista: profesional como guardián de bienestar.\n2. Modelo informativo: hechos clínicos y elección basada en valores ya definidos por paciente.\n3. Modelo interpretativo: clarifica valores incompletamente definidos y ayuda a elegir.\n4. Modelo deliberativo: diálogo crítico acerca de valores sanitarios deseables.\n5. Autonomía requiere capacidad, información comprensible y ausencia de coerción.\n6. Decisión compartida combina evidencia clínica y preferencias.\n7. Consentimiento informado incluye comprensión y voluntariedad.\n8. La escucha activa y el respeto cultural son transversales.\n\nANÁLISIS POR ALTERNATIVA\nA) Deliberativo propone deliberación sobre valores deseables, además de comprenderlos.\nB) Informativo presupone valores ya claros.\nC) Paternalista concentra la decisión en criterio médico.\nD) Interpretativo se caracteriza por esclarecer los valores del paciente.\n\nNORMATIVA Y REFERENCIAS\nNormativa MINSA y NTS vigente vinculada al tema: verificar versión y modificatorias al aplicar clínicamente.\nReferencias OPS/OMS y guías clínicas actuales cuando corresponda; separar clave de examen y práctica actual.\n\nTRAMPAS DE EXAMEN\nInterpretativo y deliberativo no son equivalentes.\nLa pista principal es 'consejero-consultor'.\nEl paciente participa activamente en esclarecer sus preferencias.\n\nMNEMOTECNIA\nINTERPRETATIVO = INTERPRETAR MIS VALORES.\n\nREPASO ACTIVO\nClave razonada: D. Interpretativo\nIdea principal: En el modelo interpretativo, el profesional actúa como consejero o consultor, ayudando a esclarecer valores y preferencias del paciente.\n\nCASOS DE REFUERZO\n1. Médico explora qué valora más un paciente antes de elegir tratamiento. Modelo?\nA) Paternalista\nB) Informativo\nC) Coercitivo\nD) Tutelar\nE) Interpretativo\nClave: E. Esclarecimiento de valores define el interpretativo.\n\n2. Médico presenta opciones sin participar en valoración moral. Modelo?\nA) Informativo\nB) Paternalista\nC) Interpretativo\nD) Deliberativo\nE) Forzado\nClave: A. Se limita a informar y facilitar elección."
+        }
+      }
+    },
+    {
+      "number": 19,
+      "question": "Las condiciones en que viven las personas y sus experiencias de convivencia que condicionan su salud, son determinantes de tipo:",
+      "options": {
+        "A": "Pobreza",
+        "B": "Ambiental",
+        "C": "Económico",
+        "D": "Social"
+      },
+      "correct": "D",
+      "code": "ENCAPS26-I P019",
+      "course": "ENCAPS Medicina 2026-I · Temario desarrollado",
+      "topic": "Determinantes sociales de la salud",
+      "comment": "CLAVE RAZONADA — PENDIENTE COTEJO INDEPENDIENTE CON TABLA OFICIAL\nD. Social\n\nRAZONAMIENTO\nLas circunstancias de vida, convivencia, relaciones, oportunidades y exclusión forman parte de los determinantes sociales de salud. La pobreza y la dimensión económica son factores específicos de ese conjunto, y el ambiente físico puede interactuar con ellos, pero el término más abarcador de la pregunta es 'social'.\n\nDESARROLLO COMPLETO DEL TEMARIO\n1. Concepto OMS de determinantes sociales: condiciones de nacimiento, crecimiento, trabajo, vida y envejecimiento.\n2. Estructurales: estratificación social, educación, ocupación, normas, políticas y poder.\n3. Intermedios: vivienda, trabajo, factores psicosociales, conductas y atención sanitaria.\n4. Desigualdad e inequidad: distinguir diferencias de desigualdades injustas y evitables.\n5. Pobreza, exclusión, discriminación y acceso a servicios condicionan riesgos.\n6. Redes de apoyo y convivencia influyen en salud mental, adherencia y bienestar.\n7. Intersectorialidad: transporte, educación, vivienda y protección social.\n8. Evaluación en APS: identificar brechas territoriales y planificar intervenciones.\n\nANÁLISIS POR ALTERNATIVA\nA) Pobreza es componente concreto, no la categoría general.\nB) Ambiental privilegia exposiciones físicas del entorno.\nC) Económico se centra en ingreso y empleo.\nD) Social integra condiciones de vida y convivencia.\n\nNORMATIVA Y REFERENCIAS\nNormativa MINSA y NTS vigente vinculada al tema: verificar versión y modificatorias al aplicar clínicamente.\nReferencias OPS/OMS y guías clínicas actuales cuando corresponda; separar clave de examen y práctica actual.\n\nTRAMPAS DE EXAMEN\nNo reducir todos los determinantes al dinero.\nDimensiones ambiental y social se relacionan, pero no son sinónimos.\nLa intervención sanitaria aislada no corrige todas las inequidades.\n\nMNEMOTECNIA\nVIVIR Y CONVIVIR → DETERMINANTES SOCIALES.\n\nREPASO ACTIVO\nClave razonada: D. Social\nIdea principal: Las circunstancias de vida, convivencia, relaciones, oportunidades y exclusión forman parte de los determinantes sociales de salud.\n\nCASOS DE REFUERZO\n1. Discriminación y ausencia de redes de apoyo afectan salud. Determinantes?\nA) Genéticos\nB) Sociales\nC) Anatómicos\nD) Farmacológicos\nE) Quirúrgicos\nClave: B. Son condiciones relacionales sociales.\n\n2. Comunidad carece de agua segura y transporte. Respuesta más completa?\nA) Solo receta\nB) Ignorar\nC) Solo cirugía\nD) Acción intersectorial\nE) Solo laboratorio\nClave: D. Corregir determinantes requiere trabajo multisectorial.",
+      "pearl": "VIVIR Y CONVIVIR → DETERMINANTES SOCIALES.",
+      "keywords": [
+        "Determinantes sociales de la salud",
+        "ENCAPS Medicina 2026-I",
+        "SERUMS MINSA"
+      ],
+      "estadoDesarrollo": "completo",
+      "estadoClave": "interpretacion_pendiente_cotejo_clave_oficial",
+      "lesson": {
+        "respuesta_resumida": "D. Social",
+        "razonamiento": "Las circunstancias de vida, convivencia, relaciones, oportunidades y exclusión forman parte de los determinantes sociales de salud. La pobreza y la dimensión económica son factores específicos de ese conjunto, y el ambiente físico puede interactuar con ellos, pero el término más abarcador de la pregunta es 'social'.",
+        "temario": [
+          "Concepto OMS de determinantes sociales: condiciones de nacimiento, crecimiento, trabajo, vida y envejecimiento.",
+          "Estructurales: estratificación social, educación, ocupación, normas, políticas y poder.",
+          "Intermedios: vivienda, trabajo, factores psicosociales, conductas y atención sanitaria.",
+          "Desigualdad e inequidad: distinguir diferencias de desigualdades injustas y evitables.",
+          "Pobreza, exclusión, discriminación y acceso a servicios condicionan riesgos.",
+          "Redes de apoyo y convivencia influyen en salud mental, adherencia y bienestar.",
+          "Intersectorialidad: transporte, educación, vivienda y protección social.",
+          "Evaluación en APS: identificar brechas territoriales y planificar intervenciones."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Pobreza es componente concreto, no la categoría general.",
+          "B": "Ambiental privilegia exposiciones físicas del entorno.",
+          "C": "Económico se centra en ingreso y empleo.",
+          "D": "Social integra condiciones de vida y convivencia."
+        },
+        "normativa": [
+          "Normativa MINSA y NTS vigente vinculada al tema: verificar versión y modificatorias al aplicar clínicamente.",
+          "Referencias OPS/OMS y guías clínicas actuales cuando corresponda; separar clave de examen y práctica actual."
+        ],
+        "mnemotecnia": "VIVIR Y CONVIVIR → DETERMINANTES SOCIALES.",
+        "trampas": [
+          "No reducir todos los determinantes al dinero.",
+          "Dimensiones ambiental y social se relacionan, pero no son sinónimos.",
+          "La intervención sanitaria aislada no corrige todas las inequidades."
+        ],
+        "perla": "VIVIR Y CONVIVIR → DETERMINANTES SOCIALES.",
+        "repaso_activo": [
+          "Clave razonada: D. Social",
+          "Idea principal: Las circunstancias de vida, convivencia, relaciones, oportunidades y exclusión forman parte de los determinantes sociales de salud."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Discriminación y ausencia de redes de apoyo afectan salud. Determinantes?",
+            "alternativas": {
+              "A": "Genéticos",
+              "B": "Sociales",
+              "C": "Anatómicos",
+              "D": "Farmacológicos",
+              "E": "Quirúrgicos"
+            },
+            "respuesta": "B",
+            "explicacion": "Son condiciones relacionales sociales."
+          },
+          {
+            "enunciado": "Comunidad carece de agua segura y transporte. Respuesta más completa?",
+            "alternativas": {
+              "A": "Solo receta",
+              "B": "Ignorar",
+              "C": "Solo cirugía",
+              "D": "Acción intersectorial",
+              "E": "Solo laboratorio"
+            },
+            "respuesta": "D",
+            "explicacion": "Corregir determinantes requiere trabajo multisectorial."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Determinantes sociales de la salud",
+          "desarrollo": "CLAVE RAZONADA — PENDIENTE COTEJO INDEPENDIENTE CON TABLA OFICIAL\nD. Social\n\nRAZONAMIENTO\nLas circunstancias de vida, convivencia, relaciones, oportunidades y exclusión forman parte de los determinantes sociales de salud. La pobreza y la dimensión económica son factores específicos de ese conjunto, y el ambiente físico puede interactuar con ellos, pero el término más abarcador de la pregunta es 'social'.\n\nDESARROLLO COMPLETO DEL TEMARIO\n1. Concepto OMS de determinantes sociales: condiciones de nacimiento, crecimiento, trabajo, vida y envejecimiento.\n2. Estructurales: estratificación social, educación, ocupación, normas, políticas y poder.\n3. Intermedios: vivienda, trabajo, factores psicosociales, conductas y atención sanitaria.\n4. Desigualdad e inequidad: distinguir diferencias de desigualdades injustas y evitables.\n5. Pobreza, exclusión, discriminación y acceso a servicios condicionan riesgos.\n6. Redes de apoyo y convivencia influyen en salud mental, adherencia y bienestar.\n7. Intersectorialidad: transporte, educación, vivienda y protección social.\n8. Evaluación en APS: identificar brechas territoriales y planificar intervenciones.\n\nANÁLISIS POR ALTERNATIVA\nA) Pobreza es componente concreto, no la categoría general.\nB) Ambiental privilegia exposiciones físicas del entorno.\nC) Económico se centra en ingreso y empleo.\nD) Social integra condiciones de vida y convivencia.\n\nNORMATIVA Y REFERENCIAS\nNormativa MINSA y NTS vigente vinculada al tema: verificar versión y modificatorias al aplicar clínicamente.\nReferencias OPS/OMS y guías clínicas actuales cuando corresponda; separar clave de examen y práctica actual.\n\nTRAMPAS DE EXAMEN\nNo reducir todos los determinantes al dinero.\nDimensiones ambiental y social se relacionan, pero no son sinónimos.\nLa intervención sanitaria aislada no corrige todas las inequidades.\n\nMNEMOTECNIA\nVIVIR Y CONVIVIR → DETERMINANTES SOCIALES.\n\nREPASO ACTIVO\nClave razonada: D. Social\nIdea principal: Las circunstancias de vida, convivencia, relaciones, oportunidades y exclusión forman parte de los determinantes sociales de salud.\n\nCASOS DE REFUERZO\n1. Discriminación y ausencia de redes de apoyo afectan salud. Determinantes?\nA) Genéticos\nB) Sociales\nC) Anatómicos\nD) Farmacológicos\nE) Quirúrgicos\nClave: B. Son condiciones relacionales sociales.\n\n2. Comunidad carece de agua segura y transporte. Respuesta más completa?\nA) Solo receta\nB) Ignorar\nC) Solo cirugía\nD) Acción intersectorial\nE) Solo laboratorio\nClave: D. Corregir determinantes requiere trabajo multisectorial."
+        }
+      }
+    },
+    {
+      "number": 20,
+      "question": "¿Cuál es una vacuna multidosis, indicada a partir de los 15 meses hasta los 59 años?",
+      "options": {
+        "A": "Tétano y Difteria (DT)",
+        "B": "Antiamarílica (AMA)",
+        "C": "BCG",
+        "D": "Sarampión, Papera y Rubeola (SPR)"
+      },
+      "correct": "B",
+      "code": "ENCAPS26-I P020",
+      "course": "ENCAPS Medicina 2026-I · Temario desarrollado",
+      "topic": "Vacuna antiamarílica y esquema nacional peruano",
+      "comment": "CLAVE RAZONADA — PENDIENTE COTEJO INDEPENDIENTE CON TABLA OFICIAL\nB. Antiamarílica (AMA)\n\nRAZONAMIENTO\nLa opción que corresponde a la indicación programática clásica desde 15 meses hasta 59 años en áreas de riesgo es antiamarílica (AMA), vacuna viva atenuada contra fiebre amarilla que puede presentarse en frascos multidosis. La indicación concreta requiere considerar geografía, antecedentes, riesgo, contraindicaciones y esquema nacional vigente.\n\nDESARROLLO COMPLETO DEL TEMARIO\n1. La fiebre amarilla es enfermedad viral transmitida por mosquitos en zonas de riesgo.\n2. Antiamarílica: vacuna viva atenuada con indicaciones territoriales.\n3. Edad programática clásica: 15 meses y hasta 59 años según pregunta de esquema peruano.\n4. Multidosis requiere técnica aséptica y cumplimiento de políticas de reconstitución y frasco abierto.\n5. La inmunidad suele ser duradera; refuerzos dependen de indicación normativa.\n6. Valorar riesgo en viajero y residentes de zonas endémicas.\n7. Edad avanzada, gestación e inmunosupresión exigen precauciones o pueden contraindicar vacuna.\n8. BCG es usualmente neonatal; SPR es vacuna combinada distinta; DT cubre difteria y tétanos.\n\nANÁLISIS POR ALTERNATIVA\nA) DT no corresponde al binomio de edad y riesgo amarílico descrito.\nB) AMA es la opción esperada.\nC) BCG se emplea habitualmente al nacimiento.\nD) SPR tiene esquema propio de sarampión, parotiditis y rubéola.\n\nNORMATIVA Y REFERENCIAS\nNormativa MINSA y NTS vigente vinculada al tema: verificar versión y modificatorias al aplicar clínicamente.\nReferencias OPS/OMS y guías clínicas actuales cuando corresponda; separar clave de examen y práctica actual.\n\nTRAMPAS DE EXAMEN\nNo recomendar vacuna de fiebre amarilla a todas las personas sin evaluar riesgo.\nMultidosis no es suficiente por sí solo para identificar un inmunobiológico.\nNo confundir la edad programática con una regla clínica absoluta.\n\nMNEMOTECNIA\nAMA = ÁREA DE RIESGO AMARÍLICO.\n\nREPASO ACTIVO\nClave razonada: B. Antiamarílica (AMA)\nIdea principal: La opción que corresponde a la indicación programática clásica desde 15 meses hasta 59 años en áreas de riesgo es antiamarílica (AMA), vacuna viva atenuada contra fiebre amarilla que puede presentarse en frascos multidosis.\n\nCASOS DE REFUERZO\n1. Adulto sin antecedente viaja a zona endémica. ¿Qué vacuna valorar?\nA) BCG\nB) Rotavirus\nC) Antiamarílica\nD) DPT neonatal\nE) Solo SPR\nClave: C. Se evalúa inmunización ante riesgo territorial.\n\n2. Persona con inmunosupresión intensa pide antiamarílica. ¿Qué hacer?\nA) Evaluar contraindicación y prevención alternativa\nB) Aplicar sin evaluación\nC) Duplicar dosis\nD) Sustituir por BCG\nE) Indicar siempre\nClave: A. Las vacunas vivas pueden estar contraindicadas.",
+      "pearl": "AMA = ÁREA DE RIESGO AMARÍLICO.",
+      "keywords": [
+        "Vacuna antiamarílica y esquema nacional peruano",
+        "ENCAPS Medicina 2026-I",
+        "SERUMS MINSA"
+      ],
+      "estadoDesarrollo": "completo",
+      "estadoClave": "interpretacion_pendiente_cotejo_clave_oficial",
+      "lesson": {
+        "respuesta_resumida": "B. Antiamarílica (AMA)",
+        "razonamiento": "La opción que corresponde a la indicación programática clásica desde 15 meses hasta 59 años en áreas de riesgo es antiamarílica (AMA), vacuna viva atenuada contra fiebre amarilla que puede presentarse en frascos multidosis. La indicación concreta requiere considerar geografía, antecedentes, riesgo, contraindicaciones y esquema nacional vigente.",
+        "temario": [
+          "La fiebre amarilla es enfermedad viral transmitida por mosquitos en zonas de riesgo.",
+          "Antiamarílica: vacuna viva atenuada con indicaciones territoriales.",
+          "Edad programática clásica: 15 meses y hasta 59 años según pregunta de esquema peruano.",
+          "Multidosis requiere técnica aséptica y cumplimiento de políticas de reconstitución y frasco abierto.",
+          "La inmunidad suele ser duradera; refuerzos dependen de indicación normativa.",
+          "Valorar riesgo en viajero y residentes de zonas endémicas.",
+          "Edad avanzada, gestación e inmunosupresión exigen precauciones o pueden contraindicar vacuna.",
+          "BCG es usualmente neonatal; SPR es vacuna combinada distinta; DT cubre difteria y tétanos."
+        ],
+        "por_que_no_las_otras": {
+          "A": "DT no corresponde al binomio de edad y riesgo amarílico descrito.",
+          "B": "AMA es la opción esperada.",
+          "C": "BCG se emplea habitualmente al nacimiento.",
+          "D": "SPR tiene esquema propio de sarampión, parotiditis y rubéola."
+        },
+        "normativa": [
+          "Normativa MINSA y NTS vigente vinculada al tema: verificar versión y modificatorias al aplicar clínicamente.",
+          "Referencias OPS/OMS y guías clínicas actuales cuando corresponda; separar clave de examen y práctica actual."
+        ],
+        "mnemotecnia": "AMA = ÁREA DE RIESGO AMARÍLICO.",
+        "trampas": [
+          "No recomendar vacuna de fiebre amarilla a todas las personas sin evaluar riesgo.",
+          "Multidosis no es suficiente por sí solo para identificar un inmunobiológico.",
+          "No confundir la edad programática con una regla clínica absoluta."
+        ],
+        "perla": "AMA = ÁREA DE RIESGO AMARÍLICO.",
+        "repaso_activo": [
+          "Clave razonada: B. Antiamarílica (AMA)",
+          "Idea principal: La opción que corresponde a la indicación programática clásica desde 15 meses hasta 59 años en áreas de riesgo es antiamarílica (AMA), vacuna viva atenuada contra fiebre amarilla que puede presentarse en frascos multidosis."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Adulto sin antecedente viaja a zona endémica. ¿Qué vacuna valorar?",
+            "alternativas": {
+              "A": "BCG",
+              "B": "Rotavirus",
+              "C": "Antiamarílica",
+              "D": "DPT neonatal",
+              "E": "Solo SPR"
+            },
+            "respuesta": "C",
+            "explicacion": "Se evalúa inmunización ante riesgo territorial."
+          },
+          {
+            "enunciado": "Persona con inmunosupresión intensa pide antiamarílica. ¿Qué hacer?",
+            "alternativas": {
+              "A": "Evaluar contraindicación y prevención alternativa",
+              "B": "Aplicar sin evaluación",
+              "C": "Duplicar dosis",
+              "D": "Sustituir por BCG",
+              "E": "Indicar siempre"
+            },
+            "respuesta": "A",
+            "explicacion": "Las vacunas vivas pueden estar contraindicadas."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Vacuna antiamarílica y esquema nacional peruano",
+          "desarrollo": "CLAVE RAZONADA — PENDIENTE COTEJO INDEPENDIENTE CON TABLA OFICIAL\nB. Antiamarílica (AMA)\n\nRAZONAMIENTO\nLa opción que corresponde a la indicación programática clásica desde 15 meses hasta 59 años en áreas de riesgo es antiamarílica (AMA), vacuna viva atenuada contra fiebre amarilla que puede presentarse en frascos multidosis. La indicación concreta requiere considerar geografía, antecedentes, riesgo, contraindicaciones y esquema nacional vigente.\n\nDESARROLLO COMPLETO DEL TEMARIO\n1. La fiebre amarilla es enfermedad viral transmitida por mosquitos en zonas de riesgo.\n2. Antiamarílica: vacuna viva atenuada con indicaciones territoriales.\n3. Edad programática clásica: 15 meses y hasta 59 años según pregunta de esquema peruano.\n4. Multidosis requiere técnica aséptica y cumplimiento de políticas de reconstitución y frasco abierto.\n5. La inmunidad suele ser duradera; refuerzos dependen de indicación normativa.\n6. Valorar riesgo en viajero y residentes de zonas endémicas.\n7. Edad avanzada, gestación e inmunosupresión exigen precauciones o pueden contraindicar vacuna.\n8. BCG es usualmente neonatal; SPR es vacuna combinada distinta; DT cubre difteria y tétanos.\n\nANÁLISIS POR ALTERNATIVA\nA) DT no corresponde al binomio de edad y riesgo amarílico descrito.\nB) AMA es la opción esperada.\nC) BCG se emplea habitualmente al nacimiento.\nD) SPR tiene esquema propio de sarampión, parotiditis y rubéola.\n\nNORMATIVA Y REFERENCIAS\nNormativa MINSA y NTS vigente vinculada al tema: verificar versión y modificatorias al aplicar clínicamente.\nReferencias OPS/OMS y guías clínicas actuales cuando corresponda; separar clave de examen y práctica actual.\n\nTRAMPAS DE EXAMEN\nNo recomendar vacuna de fiebre amarilla a todas las personas sin evaluar riesgo.\nMultidosis no es suficiente por sí solo para identificar un inmunobiológico.\nNo confundir la edad programática con una regla clínica absoluta.\n\nMNEMOTECNIA\nAMA = ÁREA DE RIESGO AMARÍLICO.\n\nREPASO ACTIVO\nClave razonada: B. Antiamarílica (AMA)\nIdea principal: La opción que corresponde a la indicación programática clásica desde 15 meses hasta 59 años en áreas de riesgo es antiamarílica (AMA), vacuna viva atenuada contra fiebre amarilla que puede presentarse en frascos multidosis.\n\nCASOS DE REFUERZO\n1. Adulto sin antecedente viaja a zona endémica. ¿Qué vacuna valorar?\nA) BCG\nB) Rotavirus\nC) Antiamarílica\nD) DPT neonatal\nE) Solo SPR\nClave: C. Se evalúa inmunización ante riesgo territorial.\n\n2. Persona con inmunosupresión intensa pide antiamarílica. ¿Qué hacer?\nA) Evaluar contraindicación y prevención alternativa\nB) Aplicar sin evaluación\nC) Duplicar dosis\nD) Sustituir por BCG\nE) Indicar siempre\nClave: A. Las vacunas vivas pueden estar contraindicadas."
         }
       }
     }
