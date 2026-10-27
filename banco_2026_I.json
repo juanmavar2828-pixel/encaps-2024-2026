@@ -3,7 +3,7 @@
   "bankId": "ENCAPS_2026_I",
   "title": "ENCAPS 2026-I · Medicina Humana",
   "source": "Examen SERUMS Medicina 19 abril 2026 · claves resaltadas en PDF del usuario",
-  "questionCount": 70,
+  "questionCount": 75,
   "questions": [
     {
       "number": 1,
@@ -6737,6 +6737,573 @@
       "comment": "CLAVE RAZONADA: D\n\nLa exclusión escolar y la necesidad colectiva de trabajo adolescente reflejan desigualdad socioeconómica, acceso a educación y oportunidades: determinantes estructurales. El trabajo a la intemperie es exposición intermedia adicional.",
       "estadoDesarrollo": "pendiente_de_ampliacion",
       "estadoClave": "razonada_pendiente_cotejo_oficial"
+    },
+    {
+      "number": 71,
+      "code": "ENCAPS26-I P71",
+      "course": "ENCAPS Medicina 2026-I",
+      "topic": "Entrevistas epidemiológicas y recuperación retrospectiva de exposición",
+      "question": "Para realizar un trabajo de investigación y obtener información de las exposiciones anteriores y actuales. ¿Qué tipo de recolección de debe realizar?",
+      "options": {
+        "A": "Observación familiar",
+        "B": "Observación",
+        "C": "Entrevista",
+        "D": "Informante indirecto"
+      },
+      "correct": "C",
+      "estadoDesarrollo": "completo",
+      "estadoClave": "razonada_pendiente_cotejo_independiente",
+      "comment": "RESPUESTA RAZONADA — CLAVE ACADÉMICA PENDIENTE DE COTEJO OFICIAL\nC. Entrevista\n\nRAZONAMIENTO INTEGRAL\n\nLa entrevista permite preguntar directamente por exposiciones anteriores y actuales. La observación puede evaluar circunstancias actuales pero no documenta por sí sola eventos pasados. La entrevista debe utilizar preguntas neutrales, ventanas temporales y verificación de cronología.\n\nDESARROLLO EXTENSO DEL TEMARIO\n\n1. La recolección primaria obtiene datos directamente del participante mediante entrevistas, encuestas, mediciones y observación.\n\n2. La entrevista estructurada aplica preguntas en orden uniforme y facilita comparación; la semiestructurada permite profundizar.\n\n3. Variables de exposición: naturaleza del factor, fecha de inicio, frecuencia, intensidad, duración y cambios en el tiempo.\n\n4. Sesgo de recuerdo: participantes con enfermedad pueden recordar de forma distinta sus exposiciones respecto de participantes sanos.\n\n5. Sesgo del entrevistador: pistas verbales o expectativas influyen en las respuestas; se reduce con capacitación y neutralidad.\n\n6. Cronología causal: confirmar que la exposición ocurrió antes de desenlace cuando se plantea asociación.\n\n7. Confidencialidad y consentimiento informado en investigación; evitar preguntas innecesariamente invasivas.\n\n8. Informante indirecto es fuente subsidiaria cuando la persona no puede responder, con limitaciones de exactitud.\n\n9. La observación familiar no es instrumento suficiente para reconstruir exposición previa no visible.\n\n10. Triangulación con registros y datos objetivos fortalece la validez.\n\n11. Diseño de estudios: en un estudio de casos y controles el investigador pregunta por exposiciones anteriores; en una cohorte puede preguntar por exposiciones basales y seguir desenlaces. El modo de recolección no define por sí solo el diseño.\n\n12. Error de clasificación de exposición: si una persona olvida una exposición puede ser no diferencial o diferencial; el segundo tipo puede alejar la estimación de la nulidad en direcciones difíciles de anticipar.\n\n13. Preguntas neutrales: cambiar '¿Usted siempre toma agua contaminada?' por '¿Cuál fue la fuente de agua consumida durante la semana anterior al inicio de síntomas?'.\n\n14. Ventana epidemiológica: el periodo interrogado debe corresponder con incubación o latencia del evento; un antecedente remoto irrelevante introduce ruido.\n\n15. Análisis de causalidad: orden temporal es requisito indispensable; una exposición referida después del desenlace no demuestra que lo antecedió.\n\n16. Herramienta: cuestionario con variables definidas, codificación, manual de entrevistadores, piloto y mecanismo para capturar respuestas desconocidas.\n\n17. Validación: comprobación con carnet de vacunación, registro de trabajo, productos usados o historia clínica cuando esté autorizado.\n\n18. Diferencia entre entrevista e informante indirecto: entrevista es técnica, informante indirecto describe una fuente; puede entrevistarse a un familiar si el sujeto no recuerda o es menor.\n\n19. Precaución ética: entrevista personal debe preservar privacidad, evitar coacción y restringir acceso a datos sensibles.\n\nANÁLISIS DE CADA ALTERNATIVA\n\nA) Observación familiar: registra condiciones de convivencia visibles, no permite reconstruir por sí sola experiencias pasadas.\n\nB) Observación: adecuada para conductas actuales observables, insuficiente para antecedentes.\n\nC) Entrevista: correcta porque permite conocer exposiciones actuales y retrospectivas.\n\nD) Informante indirecto: fuente alternativa cuando el sujeto no puede responder, no método principal solicitado.\n\nTRAMPAS Y DISTINCIONES\n\n- No confundir conceptos cercanos: clasificar según la información exacta del caso.\n\n- La respuesta del examen requiere contraste independiente con clave oficial.\n\n- Confundir informante indirecto (fuente) con entrevista (técnica).\n\n- Una observación actual no reconstruye una exposición pasada no presenciada.\n\nNORMATIVA Y REFERENCIAS\n\n- Principios de epidemiología de campo de OPS/OMS.\n\n- Reglamento ético y protección de datos personales aplicable a investigación en salud.\n\nMNEMOTECNIA\n\nEXPOSICIÓN PASADA = PREGUNTAR CON FECHA.\n\nREPASO ACTIVO\n\n¿Qué sesgo amenaza las entrevistas retrospectivas?\nSesgo de recuerdo.\n\n¿Cómo mejorar exactitud temporal?\nUsar calendario de eventos, periodos definidos y corroboración documental.\n\n¿Qué aspecto adicional del temario 1 debes dominar?\nHerramienta: cuestionario con variables definidas, codificación, manual de entrevistadores, piloto y mecanismo para capturar respuestas desconocidas.\n\n¿Qué aspecto adicional del temario 2 debes dominar?\nValidación: comprobación con carnet de vacunación, registro de trabajo, productos usados o historia clínica cuando esté autorizado.\n\n¿Qué aspecto adicional del temario 3 debes dominar?\nDiferencia entre entrevista e informante indirecto: entrevista es técnica, informante indirecto describe una fuente; puede entrevistarse a un familiar si el sujeto no recuerda o es menor.\n\n¿Qué aspecto adicional del temario 4 debes dominar?\nPrecaución ética: entrevista personal debe preservar privacidad, evitar coacción y restringir acceso a datos sensibles.\n\nDOS CASOS ADICIONALES EXPLICADOS\n\n1. Investigador de casos y controles requiere conocer uso de insecticidas ocurrido tres meses antes de síntomas.\nA) Inspección visual actual\nB) Solo historia clínica\nC) Entrevista estructurada con fechas\nD) Medir presión arterial\nE) Observación de edificio\nClave: C. La entrevista reconstruye la exposición previa y el calendario minimiza errores de memoria.\n\n2. Paciente hospitalizado no puede responder sobre exposición previa; familiar conviviente dispone de datos.\nA) Rechazar toda información\nB) Entrevistar informante indirecto registrando la fuente\nC) Registrar exposición no ocurrida\nD) Ignorar cronología\nE) Usar observación del futuro\nClave: B. Puede entrevistarse un informante indirecto y consignar sus límites de fiabilidad.\n\nPERLA\n\nEXPOSICIÓN PASADA = PREGUNTAR CON FECHA.",
+      "pearl": "EXPOSICIÓN PASADA = PREGUNTAR CON FECHA.",
+      "lesson": {
+        "respuesta_resumida": "C. Entrevista",
+        "razonamiento": "La entrevista permite preguntar directamente por exposiciones anteriores y actuales. La observación puede evaluar circunstancias actuales pero no documenta por sí sola eventos pasados. La entrevista debe utilizar preguntas neutrales, ventanas temporales y verificación de cronología.",
+        "temario": [
+          "La recolección primaria obtiene datos directamente del participante mediante entrevistas, encuestas, mediciones y observación.",
+          "La entrevista estructurada aplica preguntas en orden uniforme y facilita comparación; la semiestructurada permite profundizar.",
+          "Variables de exposición: naturaleza del factor, fecha de inicio, frecuencia, intensidad, duración y cambios en el tiempo.",
+          "Sesgo de recuerdo: participantes con enfermedad pueden recordar de forma distinta sus exposiciones respecto de participantes sanos.",
+          "Sesgo del entrevistador: pistas verbales o expectativas influyen en las respuestas; se reduce con capacitación y neutralidad.",
+          "Cronología causal: confirmar que la exposición ocurrió antes de desenlace cuando se plantea asociación.",
+          "Confidencialidad y consentimiento informado en investigación; evitar preguntas innecesariamente invasivas.",
+          "Informante indirecto es fuente subsidiaria cuando la persona no puede responder, con limitaciones de exactitud.",
+          "La observación familiar no es instrumento suficiente para reconstruir exposición previa no visible.",
+          "Triangulación con registros y datos objetivos fortalece la validez.",
+          "Diseño de estudios: en un estudio de casos y controles el investigador pregunta por exposiciones anteriores; en una cohorte puede preguntar por exposiciones basales y seguir desenlaces. El modo de recolección no define por sí solo el diseño.",
+          "Error de clasificación de exposición: si una persona olvida una exposición puede ser no diferencial o diferencial; el segundo tipo puede alejar la estimación de la nulidad en direcciones difíciles de anticipar.",
+          "Preguntas neutrales: cambiar '¿Usted siempre toma agua contaminada?' por '¿Cuál fue la fuente de agua consumida durante la semana anterior al inicio de síntomas?'.",
+          "Ventana epidemiológica: el periodo interrogado debe corresponder con incubación o latencia del evento; un antecedente remoto irrelevante introduce ruido.",
+          "Análisis de causalidad: orden temporal es requisito indispensable; una exposición referida después del desenlace no demuestra que lo antecedió.",
+          "Herramienta: cuestionario con variables definidas, codificación, manual de entrevistadores, piloto y mecanismo para capturar respuestas desconocidas.",
+          "Validación: comprobación con carnet de vacunación, registro de trabajo, productos usados o historia clínica cuando esté autorizado.",
+          "Diferencia entre entrevista e informante indirecto: entrevista es técnica, informante indirecto describe una fuente; puede entrevistarse a un familiar si el sujeto no recuerda o es menor.",
+          "Precaución ética: entrevista personal debe preservar privacidad, evitar coacción y restringir acceso a datos sensibles."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Observación familiar: registra condiciones de convivencia visibles, no permite reconstruir por sí sola experiencias pasadas.",
+          "B": "Observación: adecuada para conductas actuales observables, insuficiente para antecedentes.",
+          "C": "Entrevista: correcta porque permite conocer exposiciones actuales y retrospectivas.",
+          "D": "Informante indirecto: fuente alternativa cuando el sujeto no puede responder, no método principal solicitado."
+        },
+        "normativa": [
+          "Principios de epidemiología de campo de OPS/OMS.",
+          "Reglamento ético y protección de datos personales aplicable a investigación en salud."
+        ],
+        "mnemotecnia": "EXPOSICIÓN PASADA = PREGUNTAR CON FECHA.",
+        "trampas": [
+          "No confundir conceptos cercanos: clasificar según la información exacta del caso.",
+          "La respuesta del examen requiere contraste independiente con clave oficial.",
+          "Confundir informante indirecto (fuente) con entrevista (técnica).",
+          "Una observación actual no reconstruye una exposición pasada no presenciada."
+        ],
+        "perla": "EXPOSICIÓN PASADA = PREGUNTAR CON FECHA.",
+        "repaso_activo": [
+          {
+            "pregunta": "¿Qué sesgo amenaza las entrevistas retrospectivas?",
+            "respuesta": "Sesgo de recuerdo."
+          },
+          {
+            "pregunta": "¿Cómo mejorar exactitud temporal?",
+            "respuesta": "Usar calendario de eventos, periodos definidos y corroboración documental."
+          },
+          {
+            "pregunta": "¿Qué aspecto adicional del temario 1 debes dominar?",
+            "respuesta": "Herramienta: cuestionario con variables definidas, codificación, manual de entrevistadores, piloto y mecanismo para capturar respuestas desconocidas."
+          },
+          {
+            "pregunta": "¿Qué aspecto adicional del temario 2 debes dominar?",
+            "respuesta": "Validación: comprobación con carnet de vacunación, registro de trabajo, productos usados o historia clínica cuando esté autorizado."
+          },
+          {
+            "pregunta": "¿Qué aspecto adicional del temario 3 debes dominar?",
+            "respuesta": "Diferencia entre entrevista e informante indirecto: entrevista es técnica, informante indirecto describe una fuente; puede entrevistarse a un familiar si el sujeto no recuerda o es menor."
+          },
+          {
+            "pregunta": "¿Qué aspecto adicional del temario 4 debes dominar?",
+            "respuesta": "Precaución ética: entrevista personal debe preservar privacidad, evitar coacción y restringir acceso a datos sensibles."
+          }
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Investigador de casos y controles requiere conocer uso de insecticidas ocurrido tres meses antes de síntomas.",
+            "alternativas": {
+              "A": "Inspección visual actual",
+              "B": "Solo historia clínica",
+              "C": "Entrevista estructurada con fechas",
+              "D": "Medir presión arterial",
+              "E": "Observación de edificio"
+            },
+            "respuesta": "C",
+            "explicacion": "La entrevista reconstruye la exposición previa y el calendario minimiza errores de memoria."
+          },
+          {
+            "enunciado": "Paciente hospitalizado no puede responder sobre exposición previa; familiar conviviente dispone de datos.",
+            "alternativas": {
+              "A": "Rechazar toda información",
+              "B": "Entrevistar informante indirecto registrando la fuente",
+              "C": "Registrar exposición no ocurrida",
+              "D": "Ignorar cronología",
+              "E": "Usar observación del futuro"
+            },
+            "respuesta": "B",
+            "explicacion": "Puede entrevistarse un informante indirecto y consignar sus límites de fiabilidad."
+          }
+        ]
+      }
+    },
+    {
+      "number": 72,
+      "code": "ENCAPS26-I P72",
+      "course": "ENCAPS Medicina 2026-I",
+      "topic": "Brote alimentario: vigilancia, investigación y control",
+      "question": "A un establecimiento de salud, llegan 25 niños beneficiarios del programa de alimentación escolar, por presentar cuadro de intoxicación alimentaria, luego del consumir el desayuno escolar. Este tipo de evento debe ser notificado y corresponde a:",
+      "options": {
+        "A": "Epizootia",
+        "B": "Endemia",
+        "C": "Brote",
+        "D": "Pandemia"
+      },
+      "correct": "C",
+      "estadoDesarrollo": "completo",
+      "estadoClave": "razonada_pendiente_cotejo_independiente",
+      "comment": "RESPUESTA RAZONADA — CLAVE ACADÉMICA PENDIENTE DE COTEJO OFICIAL\nC. Brote\n\nRAZONAMIENTO INTEGRAL\n\nVeinticinco casos relacionados en tiempo, lugar y exposición común al desayuno sugieren un brote de enfermedad transmitida por alimentos. La prioridad incluye atención, notificación y control de la fuente, sin esperar a identificar el agente causal.\n\nDESARROLLO EXTENSO DEL TEMARIO\n\n1. Brote: ocurrencia de casos relacionados mayor que la esperada en población, tiempo y lugar concretos; un conglomerado con exposición común también dispara alerta.\n\n2. La vigilancia de ETA requiere notificar oportunamente eventos conforme a definiciones y flujos nacionales.\n\n3. Definición inicial de caso integra síntomas, exposición, tiempo y pertenencia escolar; se ajusta conforme avance investigación.\n\n4. Línea de casos recoge identidad codificada, edad, aula, alimento, inicio de síntomas, manifestaciones y desenlace.\n\n5. Curva epidémica permite valorar periodo de incubación, fuente puntual, propagación y momento probable de exposición.\n\n6. En una cohorte expuesta se calculan tasas de ataque por alimento y razón de riesgos para orientar hipótesis.\n\n7. Muestras clínicas y de alimentos requieren selección, conservación y transporte correctos.\n\n8. Tratamiento inmediato según gravedad: rehidratación, soporte hemodinámico y derivación de casos severos.\n\n9. Medidas de control: inmovilizar alimento sospechoso, preservar muestras, inspección sanitaria y comunicación clara.\n\n10. No afirmar agente etiológico solo por proximidad temporal; considerar infección y toxinas.\n\n11. Brote de fuente común: cuando una sola comida provoca los casos, el inicio suele agruparse dentro del periodo de incubación correspondiente; una curva muy dispersa invita a reconsiderar hipótesis.\n\n12. La tasa de ataque por alimento se calcula como enfermos entre los expuestos al alimento dividido por total de quienes lo comieron; comparar contra los que no lo consumieron.\n\n13. Razón de riesgos: tasa de ataque expuestos dividida entre tasa de ataque no expuestos, útil en cohorte retrospectiva de comensales.\n\n14. Los microorganismos o toxinas sospechosos dependen del tiempo hasta inicio, síntomas predominantes, duración y productos ingeridos. No atribuir causalidad sin investigación.\n\n15. Alarma clínica: letargo, signos de choque, deshidratación grave, sangre en heces, alteración neurológica y vómito incoercible requieren manejo prioritario.\n\n16. Notificación: alerta al sistema de vigilancia, coordinación con salud ambiental y unidad de epidemiología, documentación de hora, lugar y mecanismo.\n\n17. Muestras: preservar alimentos remanentes y adecuar técnica de recolección; medicamentos o antibióticos no deben administrarse de forma indiscriminada.\n\n18. Ataque secundario elevado o casos sin exposición al desayuno sugieren posible propagación persona a persona, con medidas adicionales.\n\n19. Comunicación de riesgo: explicar lo conocido, lo incierto y las medidas concretas de prevención sin atribuir culpas prematuramente.\n\nANÁLISIS DE CADA ALTERNATIVA\n\nA) Epizootia es ocurrencia epidémica en animales, no el evento humano descrito.\n\nB) Endemia supone presencia habitual en determinada zona, no agrupación aguda.\n\nC) Brote es la categoría de conglomerado relacionado con exposición alimentaria común.\n\nD) Pandemia implica expansión internacional extensa, no 25 casos en una escuela.\n\nTRAMPAS Y DISTINCIONES\n\n- No confundir conceptos cercanos: clasificar según la información exacta del caso.\n\n- La respuesta del examen requiere contraste independiente con clave oficial.\n\n- Dos casos relacionados pueden activar una investigación si exceden la expectativa del lugar.\n\n- Tasa de ataque describe riesgo en expuestos; no equivale a letalidad.\n\nNORMATIVA Y REFERENCIAS\n\n- CDC Perú/MINSA, lineamientos de vigilancia e investigación de brotes de enfermedades transmitidas por alimentos.\n\n- OPS, vigilancia epidemiológica de ETA y respuesta sanitaria.\n\nMNEMOTECNIA\n\nMISMO DESAYUNO + MUCHOS ENFERMOS = BROTE.\n\nREPASO ACTIVO\n\n¿Qué curva construimos en un brote?\nCurva epidémica con fechas/horas de inicio.\n\n¿Cómo estudiar alimentos asociados?\nComparar tasas de ataque entre quienes consumieron y no consumieron cada alimento.\n\n¿Qué aspecto adicional del temario 1 debes dominar?\nNotificación: alerta al sistema de vigilancia, coordinación con salud ambiental y unidad de epidemiología, documentación de hora, lugar y mecanismo.\n\n¿Qué aspecto adicional del temario 2 debes dominar?\nMuestras: preservar alimentos remanentes y adecuar técnica de recolección; medicamentos o antibióticos no deben administrarse de forma indiscriminada.\n\n¿Qué aspecto adicional del temario 3 debes dominar?\nAtaque secundario elevado o casos sin exposición al desayuno sugieren posible propagación persona a persona, con medidas adicionales.\n\n¿Qué aspecto adicional del temario 4 debes dominar?\nComunicación de riesgo: explicar lo conocido, lo incierto y las medidas concretas de prevención sin atribuir culpas prematuramente.\n\nDOS CASOS ADICIONALES EXPLICADOS\n\n1. De 80 estudiantes, 50 comieron ensalada y 20 enfermaron; entre 30 que no comieron, enfermaron tres. ¿Tasas de ataque?\nA) 40% y 10%\nB) 20% y 30%\nC) 50% y 3%\nD) 25% y 3%\nE) 10% y 40%\nClave: A. 20/50=40% en expuestos y 3/30=10% en no expuestos.\n\n2. Veinticinco alumnos presentan vómitos después de un alimento compartido. ¿Primera acción integral?\nA) No notificar hasta identificar germen\nB) Cerrar investigación\nC) Indicar antibiótico a todos\nD) Atender, notificar e investigar fuente\nE) Esperar una semana\nClave: D. La respuesta de brote combina estabilización, alerta y control.\n\nPERLA\n\nMISMO DESAYUNO + MUCHOS ENFERMOS = BROTE.",
+      "pearl": "MISMO DESAYUNO + MUCHOS ENFERMOS = BROTE.",
+      "lesson": {
+        "respuesta_resumida": "C. Brote",
+        "razonamiento": "Veinticinco casos relacionados en tiempo, lugar y exposición común al desayuno sugieren un brote de enfermedad transmitida por alimentos. La prioridad incluye atención, notificación y control de la fuente, sin esperar a identificar el agente causal.",
+        "temario": [
+          "Brote: ocurrencia de casos relacionados mayor que la esperada en población, tiempo y lugar concretos; un conglomerado con exposición común también dispara alerta.",
+          "La vigilancia de ETA requiere notificar oportunamente eventos conforme a definiciones y flujos nacionales.",
+          "Definición inicial de caso integra síntomas, exposición, tiempo y pertenencia escolar; se ajusta conforme avance investigación.",
+          "Línea de casos recoge identidad codificada, edad, aula, alimento, inicio de síntomas, manifestaciones y desenlace.",
+          "Curva epidémica permite valorar periodo de incubación, fuente puntual, propagación y momento probable de exposición.",
+          "En una cohorte expuesta se calculan tasas de ataque por alimento y razón de riesgos para orientar hipótesis.",
+          "Muestras clínicas y de alimentos requieren selección, conservación y transporte correctos.",
+          "Tratamiento inmediato según gravedad: rehidratación, soporte hemodinámico y derivación de casos severos.",
+          "Medidas de control: inmovilizar alimento sospechoso, preservar muestras, inspección sanitaria y comunicación clara.",
+          "No afirmar agente etiológico solo por proximidad temporal; considerar infección y toxinas.",
+          "Brote de fuente común: cuando una sola comida provoca los casos, el inicio suele agruparse dentro del periodo de incubación correspondiente; una curva muy dispersa invita a reconsiderar hipótesis.",
+          "La tasa de ataque por alimento se calcula como enfermos entre los expuestos al alimento dividido por total de quienes lo comieron; comparar contra los que no lo consumieron.",
+          "Razón de riesgos: tasa de ataque expuestos dividida entre tasa de ataque no expuestos, útil en cohorte retrospectiva de comensales.",
+          "Los microorganismos o toxinas sospechosos dependen del tiempo hasta inicio, síntomas predominantes, duración y productos ingeridos. No atribuir causalidad sin investigación.",
+          "Alarma clínica: letargo, signos de choque, deshidratación grave, sangre en heces, alteración neurológica y vómito incoercible requieren manejo prioritario.",
+          "Notificación: alerta al sistema de vigilancia, coordinación con salud ambiental y unidad de epidemiología, documentación de hora, lugar y mecanismo.",
+          "Muestras: preservar alimentos remanentes y adecuar técnica de recolección; medicamentos o antibióticos no deben administrarse de forma indiscriminada.",
+          "Ataque secundario elevado o casos sin exposición al desayuno sugieren posible propagación persona a persona, con medidas adicionales.",
+          "Comunicación de riesgo: explicar lo conocido, lo incierto y las medidas concretas de prevención sin atribuir culpas prematuramente."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Epizootia es ocurrencia epidémica en animales, no el evento humano descrito.",
+          "B": "Endemia supone presencia habitual en determinada zona, no agrupación aguda.",
+          "C": "Brote es la categoría de conglomerado relacionado con exposición alimentaria común.",
+          "D": "Pandemia implica expansión internacional extensa, no 25 casos en una escuela."
+        },
+        "normativa": [
+          "CDC Perú/MINSA, lineamientos de vigilancia e investigación de brotes de enfermedades transmitidas por alimentos.",
+          "OPS, vigilancia epidemiológica de ETA y respuesta sanitaria."
+        ],
+        "mnemotecnia": "MISMO DESAYUNO + MUCHOS ENFERMOS = BROTE.",
+        "trampas": [
+          "No confundir conceptos cercanos: clasificar según la información exacta del caso.",
+          "La respuesta del examen requiere contraste independiente con clave oficial.",
+          "Dos casos relacionados pueden activar una investigación si exceden la expectativa del lugar.",
+          "Tasa de ataque describe riesgo en expuestos; no equivale a letalidad."
+        ],
+        "perla": "MISMO DESAYUNO + MUCHOS ENFERMOS = BROTE.",
+        "repaso_activo": [
+          {
+            "pregunta": "¿Qué curva construimos en un brote?",
+            "respuesta": "Curva epidémica con fechas/horas de inicio."
+          },
+          {
+            "pregunta": "¿Cómo estudiar alimentos asociados?",
+            "respuesta": "Comparar tasas de ataque entre quienes consumieron y no consumieron cada alimento."
+          },
+          {
+            "pregunta": "¿Qué aspecto adicional del temario 1 debes dominar?",
+            "respuesta": "Notificación: alerta al sistema de vigilancia, coordinación con salud ambiental y unidad de epidemiología, documentación de hora, lugar y mecanismo."
+          },
+          {
+            "pregunta": "¿Qué aspecto adicional del temario 2 debes dominar?",
+            "respuesta": "Muestras: preservar alimentos remanentes y adecuar técnica de recolección; medicamentos o antibióticos no deben administrarse de forma indiscriminada."
+          },
+          {
+            "pregunta": "¿Qué aspecto adicional del temario 3 debes dominar?",
+            "respuesta": "Ataque secundario elevado o casos sin exposición al desayuno sugieren posible propagación persona a persona, con medidas adicionales."
+          },
+          {
+            "pregunta": "¿Qué aspecto adicional del temario 4 debes dominar?",
+            "respuesta": "Comunicación de riesgo: explicar lo conocido, lo incierto y las medidas concretas de prevención sin atribuir culpas prematuramente."
+          }
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "De 80 estudiantes, 50 comieron ensalada y 20 enfermaron; entre 30 que no comieron, enfermaron tres. ¿Tasas de ataque?",
+            "alternativas": {
+              "A": "40% y 10%",
+              "B": "20% y 30%",
+              "C": "50% y 3%",
+              "D": "25% y 3%",
+              "E": "10% y 40%"
+            },
+            "respuesta": "A",
+            "explicacion": "20/50=40% en expuestos y 3/30=10% en no expuestos."
+          },
+          {
+            "enunciado": "Veinticinco alumnos presentan vómitos después de un alimento compartido. ¿Primera acción integral?",
+            "alternativas": {
+              "A": "No notificar hasta identificar germen",
+              "B": "Cerrar investigación",
+              "C": "Indicar antibiótico a todos",
+              "D": "Atender, notificar e investigar fuente",
+              "E": "Esperar una semana"
+            },
+            "respuesta": "D",
+            "explicacion": "La respuesta de brote combina estabilización, alerta y control."
+          }
+        ]
+      }
+    },
+    {
+      "number": 73,
+      "code": "ENCAPS26-I P73",
+      "course": "ENCAPS Medicina 2026-I",
+      "topic": "Tamizaje positivo de salud mental en persona con sospecha de tuberculosis",
+      "question": "Mujer de 28 años con sospecha de TB es atendida en el CS y luego de concluir con la consejería es derivada al servicio de salud mental; esta indicación se tomó debido a que el tamizaje salió...",
+      "options": {
+        "A": "negativo.",
+        "B": "positivo.",
+        "C": "con riesgo bajo.",
+        "D": "con riesgo alto."
+      },
+      "correct": "B",
+      "estadoDesarrollo": "completo",
+      "estadoClave": "razonada_pendiente_cotejo_independiente",
+      "comment": "RESPUESTA RAZONADA — CLAVE ACADÉMICA PENDIENTE DE COTEJO OFICIAL\nB. positivo.\n\nRAZONAMIENTO INTEGRAL\n\nLa referencia a salud mental que describe el ítem se explica por un tamizaje positivo, que exige ampliar evaluación y responder según necesidad clínica. Un resultado positivo es señal de alerta, no diagnóstico psiquiátrico por sí solo.\n\nDESARROLLO EXTENSO DEL TEMARIO\n\n1. La TB y su sospecha pueden desencadenar angustia, temor, estigma, depresión, ansiedad y dificultades de adherencia.\n\n2. La atención centrada en la persona integra evaluación emocional y social con evaluación bacteriológica y tratamiento de TB.\n\n3. El tamizaje de salud mental explora síntomas mediante cuestionarios o entrevistas estandarizadas conforme a la ruta local.\n\n4. Un tamizaje positivo determina evaluación clínica posterior, valoración de gravedad e intervención o referencia según protocolo.\n\n5. Tamizaje negativo no excluye totalmente un trastorno: revalorar si hay síntomas o factores de riesgo.\n\n6. Investigar ideación suicida, violencia, psicosis, abuso de sustancias o crisis aguda si existen datos de alarma.\n\n7. La confidencialidad es esencial ante estigma relacionado con TB y salud mental.\n\n8. Consejería debe informar sobre la enfermedad presunta, diagnóstico, tratamiento, apoyo y prevención de transmisión sin discriminación.\n\n9. La referencia no sustituye pruebas y atención oportuna de tuberculosis.\n\n10. Acompañamiento psicosocial y apoyo familiar voluntario favorecen continuidad del tratamiento.\n\n11. La TB es una afección biomédica con repercusiones sociales y psicológicas; estigma y gastos de traslado pueden afectar seguimiento y adherencia.\n\n12. Tamizaje no equivale a diagnóstico: el instrumento busca sensibilidad para detectar probables casos que necesitan entrevista diagnóstica.\n\n13. Los instrumentos y puntos de corte deben corresponder a la norma del servicio; una prueba 'positiva' indica cruzar umbral de sospecha, no necesariamente riesgo 'alto'.\n\n14. La entrevista posterior explora cronología, depresión, angustia, insomnio, uso de alcohol, soporte social y factores de protección.\n\n15. Una evaluación de riesgo suicida positiva con intención o plan cambia la urgencia de intervención y protección.\n\n16. Consejería adecuada: privacidad, idioma comprensible, explicación sin culpabilizar, preguntas abiertas y comprobación de comprensión.\n\n17. Integración: coordinar estudio de TB con salud mental para no condicionar las pruebas respiratorias a la conclusión de atención psicológica.\n\n18. Red comunitaria de salud mental y redes de apoyo pueden reducir barreras; se requiere consentimiento y protección de información sensible.\n\n19. Seguimiento longitudinal: reevaluar síntomas psicosociales, no hacer una única pesquisa al inicio y dar el tema por resuelto.\n\nANÁLISIS DE CADA ALTERNATIVA\n\nA) Negativo: no es el motivo de referencia indicado en el caso, aunque juicio clínico puede requerir evaluación independientemente del test.\n\nB) Positivo: clave del examen; amerita evaluación de salud mental.\n\nC) Riesgo bajo: por sí solo no justifica la derivación rutinaria planteada.\n\nD) Riesgo alto: exige urgencia específica, pero el enunciado no cuantifica ni presenta clasificación de alto riesgo; la categoría genérica es positivo.\n\nTRAMPAS Y DISTINCIONES\n\n- No confundir conceptos cercanos: clasificar según la información exacta del caso.\n\n- La respuesta del examen requiere contraste independiente con clave oficial.\n\n- Positivo no significa enfermedad mental confirmada.\n\n- Riesgo suicida alto requeriría un abordaje de urgencia, pero el enunciado pregunta resultado del tamizaje.\n\nNORMATIVA Y REFERENCIAS\n\n- MINSA, NTS 221-MINSA/DGIESP-2024 sobre prevención y control de TB.\n\n- MINSA, modelo de cuidado integral de salud mental comunitaria y rutas de referencia.\n\nMNEMOTECNIA\n\nTAMIZAJE POSITIVO = EVALUAR MÁS, NO ETIQUETAR.\n\nREPASO ACTIVO\n\n¿El tamizaje positivo confirma diagnóstico?\nNo, se requiere evaluación clínica.\n\n¿Qué situación demanda evaluación inmediata?\nIdeación suicida con plan, psicosis aguda o riesgo grave de daño.\n\n¿Qué aspecto adicional del temario 1 debes dominar?\nConsejería adecuada: privacidad, idioma comprensible, explicación sin culpabilizar, preguntas abiertas y comprobación de comprensión.\n\n¿Qué aspecto adicional del temario 2 debes dominar?\nIntegración: coordinar estudio de TB con salud mental para no condicionar las pruebas respiratorias a la conclusión de atención psicológica.\n\n¿Qué aspecto adicional del temario 3 debes dominar?\nRed comunitaria de salud mental y redes de apoyo pueden reducir barreras; se requiere consentimiento y protección de información sensible.\n\n¿Qué aspecto adicional del temario 4 debes dominar?\nSeguimiento longitudinal: reevaluar síntomas psicosociales, no hacer una única pesquisa al inicio y dar el tema por resuelto.\n\nDOS CASOS ADICIONALES EXPLICADOS\n\n1. Paciente con TB obtiene tamizaje positivo para depresión, sin urgencia actual. ¿Qué acción sigue?\nA) Diagnosticar por instrumento aislado\nB) Suspender estudio de TB\nC) Ignorar resultado\nD) Evaluar clínicamente y coordinar apoyo\nE) Excluir familia sin consulta\nClave: D. La prueba positiva activa valoración diagnóstica y necesidades de atención.\n\n2. Durante entrevista posterior expresa intención suicida con plan inmediato.\nA) Citar dentro de seis meses\nB) Priorizar evaluación y protección urgente\nC) Solo entregar folleto\nD) No documentar\nE) Dejar al paciente sin apoyo\nClave: B. La urgencia la determina el riesgo clínico actual, no solo el tamizaje.\n\nPERLA\n\nTAMIZAJE POSITIVO = EVALUAR MÁS, NO ETIQUETAR.",
+      "pearl": "TAMIZAJE POSITIVO = EVALUAR MÁS, NO ETIQUETAR.",
+      "lesson": {
+        "respuesta_resumida": "B. positivo.",
+        "razonamiento": "La referencia a salud mental que describe el ítem se explica por un tamizaje positivo, que exige ampliar evaluación y responder según necesidad clínica. Un resultado positivo es señal de alerta, no diagnóstico psiquiátrico por sí solo.",
+        "temario": [
+          "La TB y su sospecha pueden desencadenar angustia, temor, estigma, depresión, ansiedad y dificultades de adherencia.",
+          "La atención centrada en la persona integra evaluación emocional y social con evaluación bacteriológica y tratamiento de TB.",
+          "El tamizaje de salud mental explora síntomas mediante cuestionarios o entrevistas estandarizadas conforme a la ruta local.",
+          "Un tamizaje positivo determina evaluación clínica posterior, valoración de gravedad e intervención o referencia según protocolo.",
+          "Tamizaje negativo no excluye totalmente un trastorno: revalorar si hay síntomas o factores de riesgo.",
+          "Investigar ideación suicida, violencia, psicosis, abuso de sustancias o crisis aguda si existen datos de alarma.",
+          "La confidencialidad es esencial ante estigma relacionado con TB y salud mental.",
+          "Consejería debe informar sobre la enfermedad presunta, diagnóstico, tratamiento, apoyo y prevención de transmisión sin discriminación.",
+          "La referencia no sustituye pruebas y atención oportuna de tuberculosis.",
+          "Acompañamiento psicosocial y apoyo familiar voluntario favorecen continuidad del tratamiento.",
+          "La TB es una afección biomédica con repercusiones sociales y psicológicas; estigma y gastos de traslado pueden afectar seguimiento y adherencia.",
+          "Tamizaje no equivale a diagnóstico: el instrumento busca sensibilidad para detectar probables casos que necesitan entrevista diagnóstica.",
+          "Los instrumentos y puntos de corte deben corresponder a la norma del servicio; una prueba 'positiva' indica cruzar umbral de sospecha, no necesariamente riesgo 'alto'.",
+          "La entrevista posterior explora cronología, depresión, angustia, insomnio, uso de alcohol, soporte social y factores de protección.",
+          "Una evaluación de riesgo suicida positiva con intención o plan cambia la urgencia de intervención y protección.",
+          "Consejería adecuada: privacidad, idioma comprensible, explicación sin culpabilizar, preguntas abiertas y comprobación de comprensión.",
+          "Integración: coordinar estudio de TB con salud mental para no condicionar las pruebas respiratorias a la conclusión de atención psicológica.",
+          "Red comunitaria de salud mental y redes de apoyo pueden reducir barreras; se requiere consentimiento y protección de información sensible.",
+          "Seguimiento longitudinal: reevaluar síntomas psicosociales, no hacer una única pesquisa al inicio y dar el tema por resuelto."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Negativo: no es el motivo de referencia indicado en el caso, aunque juicio clínico puede requerir evaluación independientemente del test.",
+          "B": "Positivo: clave del examen; amerita evaluación de salud mental.",
+          "C": "Riesgo bajo: por sí solo no justifica la derivación rutinaria planteada.",
+          "D": "Riesgo alto: exige urgencia específica, pero el enunciado no cuantifica ni presenta clasificación de alto riesgo; la categoría genérica es positivo."
+        },
+        "normativa": [
+          "MINSA, NTS 221-MINSA/DGIESP-2024 sobre prevención y control de TB.",
+          "MINSA, modelo de cuidado integral de salud mental comunitaria y rutas de referencia."
+        ],
+        "mnemotecnia": "TAMIZAJE POSITIVO = EVALUAR MÁS, NO ETIQUETAR.",
+        "trampas": [
+          "No confundir conceptos cercanos: clasificar según la información exacta del caso.",
+          "La respuesta del examen requiere contraste independiente con clave oficial.",
+          "Positivo no significa enfermedad mental confirmada.",
+          "Riesgo suicida alto requeriría un abordaje de urgencia, pero el enunciado pregunta resultado del tamizaje."
+        ],
+        "perla": "TAMIZAJE POSITIVO = EVALUAR MÁS, NO ETIQUETAR.",
+        "repaso_activo": [
+          {
+            "pregunta": "¿El tamizaje positivo confirma diagnóstico?",
+            "respuesta": "No, se requiere evaluación clínica."
+          },
+          {
+            "pregunta": "¿Qué situación demanda evaluación inmediata?",
+            "respuesta": "Ideación suicida con plan, psicosis aguda o riesgo grave de daño."
+          },
+          {
+            "pregunta": "¿Qué aspecto adicional del temario 1 debes dominar?",
+            "respuesta": "Consejería adecuada: privacidad, idioma comprensible, explicación sin culpabilizar, preguntas abiertas y comprobación de comprensión."
+          },
+          {
+            "pregunta": "¿Qué aspecto adicional del temario 2 debes dominar?",
+            "respuesta": "Integración: coordinar estudio de TB con salud mental para no condicionar las pruebas respiratorias a la conclusión de atención psicológica."
+          },
+          {
+            "pregunta": "¿Qué aspecto adicional del temario 3 debes dominar?",
+            "respuesta": "Red comunitaria de salud mental y redes de apoyo pueden reducir barreras; se requiere consentimiento y protección de información sensible."
+          },
+          {
+            "pregunta": "¿Qué aspecto adicional del temario 4 debes dominar?",
+            "respuesta": "Seguimiento longitudinal: reevaluar síntomas psicosociales, no hacer una única pesquisa al inicio y dar el tema por resuelto."
+          }
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Paciente con TB obtiene tamizaje positivo para depresión, sin urgencia actual. ¿Qué acción sigue?",
+            "alternativas": {
+              "A": "Diagnosticar por instrumento aislado",
+              "B": "Suspender estudio de TB",
+              "C": "Ignorar resultado",
+              "D": "Evaluar clínicamente y coordinar apoyo",
+              "E": "Excluir familia sin consulta"
+            },
+            "respuesta": "D",
+            "explicacion": "La prueba positiva activa valoración diagnóstica y necesidades de atención."
+          },
+          {
+            "enunciado": "Durante entrevista posterior expresa intención suicida con plan inmediato.",
+            "alternativas": {
+              "A": "Citar dentro de seis meses",
+              "B": "Priorizar evaluación y protección urgente",
+              "C": "Solo entregar folleto",
+              "D": "No documentar",
+              "E": "Dejar al paciente sin apoyo"
+            },
+            "respuesta": "B",
+            "explicacion": "La urgencia la determina el riesgo clínico actual, no solo el tamizaje."
+          }
+        ]
+      }
+    },
+    {
+      "number": 74,
+      "code": "ENCAPS26-I P74",
+      "course": "ENCAPS Medicina 2026-I",
+      "topic": "Valoración clínica integral de la persona adulta mayor en primer nivel",
+      "question": "Acude a la consulta externa, de un centro de salud I-3, una persona adulta mayor de 75 años acompañada con hija, la cual refiere que acude para iniciar chequeos por su edad, por lo que Ud. indica la siguiente valoración clínica:",
+      "options": {
+        "A": "Corta",
+        "B": "Complejo",
+        "C": "Breve",
+        "D": "Completa"
+      },
+      "correct": "D",
+      "estadoDesarrollo": "completo",
+      "estadoClave": "razonada_pendiente_cotejo_independiente",
+      "comment": "RESPUESTA RAZONADA — CLAVE ACADÉMICA PENDIENTE DE COTEJO OFICIAL\nD. Completa\n\nRAZONAMIENTO INTEGRAL\n\nLa persona de 75 años que inicia chequeos requiere una valoración clínica integral o completa como línea basal para detectar condiciones médicas, funcionales, cognitivas y sociales, más allá de un tamizaje limitado. La clasificación precisa puede variar con guías y organización de consulta; el enunciado no aporta urgencia ni restricción que justifique una evaluación parcial.\n\nDESARROLLO EXTENSO DEL TEMARIO\n\n1. La valoración geriátrica integral considera dominios médicos, funcionales, cognitivos, afectivos y sociales.\n\n2. Registrar antecedentes de enfermedades, hospitalizaciones, caídas, vacunas, hábitos y tratamientos.\n\n3. La revisión de fármacos identifica polifarmacia, interacciones, efectos adversos y duplicidades.\n\n4. Estado funcional: actividades básicas como baño, vestido, traslados y alimentación; actividades instrumentales como compras y manejo de medicamentos.\n\n5. Estado cognitivo: memoria, atención, orientación y posibilidad de delirium, usando herramientas validadas cuando corresponda.\n\n6. Estado afectivo: depresión, soledad, ansiedad y riesgo de aislamiento.\n\n7. Movilidad y equilibrio: velocidad de marcha, caídas, sarcopenia, fragilidad y uso de ayudas.\n\n8. Valoración nutricional y de riesgos: pérdida de peso involuntaria, salud oral, visión, audición e incontinencia.\n\n9. Entorno social: apoyo, vivienda segura, cuidador, recursos y posible maltrato; respetar consentimiento y autonomía.\n\n10. Plan individualizado de cuidado: seguimiento, prevención, rehabilitación, referencia y decisiones compartidas.\n\n11. Valoración geriátrica integral (VGI) no es simplemente realizar más exámenes de laboratorio: integra diagnósticos con funcionalidad, prioridades y contexto.\n\n12. Actividades básicas (Katz/Barthel) exploran alimentación, baño, vestido, uso del baño y traslados; las instrumentales (Lawton-Brody) evalúan tareas complejas de vida independiente.\n\n13. Fragilidad no equivale a discapacidad ni edad avanzada; el fenotipo de Fried y escalas clínicas pueden ayudar a estratificar riesgos.\n\n14. Delirium es agudo y fluctuante, mientras el deterioro cognitivo crónico suele progresar en meses o años: no confundirlos.\n\n15. Polifarmacia: revisar cada medicamento, dosis, indicación, duplicidades, función renal, caídas y preferencias; deprescripción individualizada.\n\n16. Caídas: indagar tropiezos, síncope, hipotensión ortostática, sedantes, visión y fuerza muscular.\n\n17. Nutrición: pérdida ponderal involuntaria, acceso alimentario y problemas de masticación; considerar tamizaje validado.\n\n18. Cuidador no sustituye a la persona mayor en decisiones si conserva capacidad; dirigirse primero al paciente.\n\n19. La evaluación inicial establece prioridades, metas funcionales y calendario de seguimiento, según tiempo clínico y cartera del establecimiento.\n\n20. Evitar sobrediagnóstico: no solicitar pruebas indiscriminadas por edad; seleccionar tamizajes e intervenciones por beneficio esperado y contexto.\n\nANÁLISIS DE CADA ALTERNATIVA\n\nA) Corta: evaluación incompleta para ingreso de controles integrales si no hay motivo para limitar.\n\nB) Complejo: no es la categoría habitual de valoración de primer contacto que solicita el ítem.\n\nC) Breve: útil como cribado o etapa preliminar, pero no como valoración completa inicial.\n\nD) Completa: opción que mejor representa evaluación de ingreso integral.\n\nTRAMPAS Y DISTINCIONES\n\n- No confundir conceptos cercanos: clasificar según la información exacta del caso.\n\n- La respuesta del examen requiere contraste independiente con clave oficial.\n\n- 'Completa' no significa pedir todos los exámenes complementarios.\n\n- Fragilidad, discapacidad y comorbilidad no son sinónimos.\n\nNORMATIVA Y REFERENCIAS\n\n- MINSA, normativa de atención integral de la persona adulta mayor.\n\n- OMS, atención integrada para personas mayores (ICOPE).\n\nMNEMOTECNIA\n\nMAYOR: MÉDICO + MENTE + MOVILIDAD + AUTONOMÍA + RED.\n\nREPASO ACTIVO\n\n¿Qué dos dominios funcionales se evalúan?\nActividades básicas e instrumentales de la vida diaria.\n\n¿Por qué revisar todos los fármacos?\nPara detectar efectos adversos, duplicidades e interacciones.\n\n¿Qué aspecto adicional del temario 1 debes dominar?\nNutrición: pérdida ponderal involuntaria, acceso alimentario y problemas de masticación; considerar tamizaje validado.\n\n¿Qué aspecto adicional del temario 2 debes dominar?\nCuidador no sustituye a la persona mayor en decisiones si conserva capacidad; dirigirse primero al paciente.\n\n¿Qué aspecto adicional del temario 3 debes dominar?\nLa evaluación inicial establece prioridades, metas funcionales y calendario de seguimiento, según tiempo clínico y cartera del establecimiento.\n\n¿Qué aspecto adicional del temario 4 debes dominar?\nEvitar sobrediagnóstico: no solicitar pruebas indiscriminadas por edad; seleccionar tamizajes e intervenciones por beneficio esperado y contexto.\n\nDOS CASOS ADICIONALES EXPLICADOS\n\n1. Mujer de 78 años llega a control inicial con caídas y ocho fármacos; ¿qué evaluación corresponde?\nA) Solo agudeza visual\nB) Solo electrocardiograma\nC) Solo glucosa\nD) Evitar valoración funcional\nE) Valoración geriátrica integral y revisión farmacológica\nClave: E. Una evaluación completa integra caídas, fármacos, funcionalidad y apoyo social.\n\n2. Paciente de 76 años vive solo y presenta dificultades para manejar dinero y compras.\nA) Escala de dolor exclusivamente\nB) Diagnosticar demencia solo por edad\nC) Evaluar actividades instrumentales de vida diaria\nD) Ignorar autonomía\nE) Realizar solo hemograma\nClave: C. La dificultad se ubica en funciones instrumentales de independencia.\n\nPERLA\n\nMAYOR: MÉDICO + MENTE + MOVILIDAD + AUTONOMÍA + RED.",
+      "pearl": "MAYOR: MÉDICO + MENTE + MOVILIDAD + AUTONOMÍA + RED.",
+      "lesson": {
+        "respuesta_resumida": "D. Completa",
+        "razonamiento": "La persona de 75 años que inicia chequeos requiere una valoración clínica integral o completa como línea basal para detectar condiciones médicas, funcionales, cognitivas y sociales, más allá de un tamizaje limitado. La clasificación precisa puede variar con guías y organización de consulta; el enunciado no aporta urgencia ni restricción que justifique una evaluación parcial.",
+        "temario": [
+          "La valoración geriátrica integral considera dominios médicos, funcionales, cognitivos, afectivos y sociales.",
+          "Registrar antecedentes de enfermedades, hospitalizaciones, caídas, vacunas, hábitos y tratamientos.",
+          "La revisión de fármacos identifica polifarmacia, interacciones, efectos adversos y duplicidades.",
+          "Estado funcional: actividades básicas como baño, vestido, traslados y alimentación; actividades instrumentales como compras y manejo de medicamentos.",
+          "Estado cognitivo: memoria, atención, orientación y posibilidad de delirium, usando herramientas validadas cuando corresponda.",
+          "Estado afectivo: depresión, soledad, ansiedad y riesgo de aislamiento.",
+          "Movilidad y equilibrio: velocidad de marcha, caídas, sarcopenia, fragilidad y uso de ayudas.",
+          "Valoración nutricional y de riesgos: pérdida de peso involuntaria, salud oral, visión, audición e incontinencia.",
+          "Entorno social: apoyo, vivienda segura, cuidador, recursos y posible maltrato; respetar consentimiento y autonomía.",
+          "Plan individualizado de cuidado: seguimiento, prevención, rehabilitación, referencia y decisiones compartidas.",
+          "Valoración geriátrica integral (VGI) no es simplemente realizar más exámenes de laboratorio: integra diagnósticos con funcionalidad, prioridades y contexto.",
+          "Actividades básicas (Katz/Barthel) exploran alimentación, baño, vestido, uso del baño y traslados; las instrumentales (Lawton-Brody) evalúan tareas complejas de vida independiente.",
+          "Fragilidad no equivale a discapacidad ni edad avanzada; el fenotipo de Fried y escalas clínicas pueden ayudar a estratificar riesgos.",
+          "Delirium es agudo y fluctuante, mientras el deterioro cognitivo crónico suele progresar en meses o años: no confundirlos.",
+          "Polifarmacia: revisar cada medicamento, dosis, indicación, duplicidades, función renal, caídas y preferencias; deprescripción individualizada.",
+          "Caídas: indagar tropiezos, síncope, hipotensión ortostática, sedantes, visión y fuerza muscular.",
+          "Nutrición: pérdida ponderal involuntaria, acceso alimentario y problemas de masticación; considerar tamizaje validado.",
+          "Cuidador no sustituye a la persona mayor en decisiones si conserva capacidad; dirigirse primero al paciente.",
+          "La evaluación inicial establece prioridades, metas funcionales y calendario de seguimiento, según tiempo clínico y cartera del establecimiento.",
+          "Evitar sobrediagnóstico: no solicitar pruebas indiscriminadas por edad; seleccionar tamizajes e intervenciones por beneficio esperado y contexto."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Corta: evaluación incompleta para ingreso de controles integrales si no hay motivo para limitar.",
+          "B": "Complejo: no es la categoría habitual de valoración de primer contacto que solicita el ítem.",
+          "C": "Breve: útil como cribado o etapa preliminar, pero no como valoración completa inicial.",
+          "D": "Completa: opción que mejor representa evaluación de ingreso integral."
+        },
+        "normativa": [
+          "MINSA, normativa de atención integral de la persona adulta mayor.",
+          "OMS, atención integrada para personas mayores (ICOPE)."
+        ],
+        "mnemotecnia": "MAYOR: MÉDICO + MENTE + MOVILIDAD + AUTONOMÍA + RED.",
+        "trampas": [
+          "No confundir conceptos cercanos: clasificar según la información exacta del caso.",
+          "La respuesta del examen requiere contraste independiente con clave oficial.",
+          "'Completa' no significa pedir todos los exámenes complementarios.",
+          "Fragilidad, discapacidad y comorbilidad no son sinónimos."
+        ],
+        "perla": "MAYOR: MÉDICO + MENTE + MOVILIDAD + AUTONOMÍA + RED.",
+        "repaso_activo": [
+          {
+            "pregunta": "¿Qué dos dominios funcionales se evalúan?",
+            "respuesta": "Actividades básicas e instrumentales de la vida diaria."
+          },
+          {
+            "pregunta": "¿Por qué revisar todos los fármacos?",
+            "respuesta": "Para detectar efectos adversos, duplicidades e interacciones."
+          },
+          {
+            "pregunta": "¿Qué aspecto adicional del temario 1 debes dominar?",
+            "respuesta": "Nutrición: pérdida ponderal involuntaria, acceso alimentario y problemas de masticación; considerar tamizaje validado."
+          },
+          {
+            "pregunta": "¿Qué aspecto adicional del temario 2 debes dominar?",
+            "respuesta": "Cuidador no sustituye a la persona mayor en decisiones si conserva capacidad; dirigirse primero al paciente."
+          },
+          {
+            "pregunta": "¿Qué aspecto adicional del temario 3 debes dominar?",
+            "respuesta": "La evaluación inicial establece prioridades, metas funcionales y calendario de seguimiento, según tiempo clínico y cartera del establecimiento."
+          },
+          {
+            "pregunta": "¿Qué aspecto adicional del temario 4 debes dominar?",
+            "respuesta": "Evitar sobrediagnóstico: no solicitar pruebas indiscriminadas por edad; seleccionar tamizajes e intervenciones por beneficio esperado y contexto."
+          }
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Mujer de 78 años llega a control inicial con caídas y ocho fármacos; ¿qué evaluación corresponde?",
+            "alternativas": {
+              "A": "Solo agudeza visual",
+              "B": "Solo electrocardiograma",
+              "C": "Solo glucosa",
+              "D": "Evitar valoración funcional",
+              "E": "Valoración geriátrica integral y revisión farmacológica"
+            },
+            "respuesta": "E",
+            "explicacion": "Una evaluación completa integra caídas, fármacos, funcionalidad y apoyo social."
+          },
+          {
+            "enunciado": "Paciente de 76 años vive solo y presenta dificultades para manejar dinero y compras.",
+            "alternativas": {
+              "A": "Escala de dolor exclusivamente",
+              "B": "Diagnosticar demencia solo por edad",
+              "C": "Evaluar actividades instrumentales de vida diaria",
+              "D": "Ignorar autonomía",
+              "E": "Realizar solo hemograma"
+            },
+            "respuesta": "C",
+            "explicacion": "La dificultad se ubica en funciones instrumentales de independencia."
+          }
+        ]
+      }
+    },
+    {
+      "number": 75,
+      "code": "ENCAPS26-I P75",
+      "course": "ENCAPS Medicina 2026-I",
+      "topic": "Resultados reportados por pacientes: calidad de vida y medidas PROM",
+      "question": "En estudios clínicos y epidemiológicos, la medición de variables que incluyen la perspectiva del paciente con referencia a resultados relacionados a su calidad de vida. ¿Cuáles son los instrumentos de recolección de datos más indicados?",
+      "options": {
+        "A": "Registro por el paciente y familiar",
+        "B": "Entrevistas y cuestionarios",
+        "C": "Registros y documentos ya existentes",
+        "D": "Observación directa e indirecta"
+      },
+      "correct": "B",
+      "estadoDesarrollo": "completo",
+      "estadoClave": "razonada_pendiente_cotejo_independiente",
+      "comment": "RESPUESTA RAZONADA — CLAVE ACADÉMICA PENDIENTE DE COTEJO OFICIAL\nB. Entrevistas y cuestionarios\n\nRAZONAMIENTO INTEGRAL\n\nCalidad de vida y bienestar percibido dependen de la experiencia subjetiva del paciente, por lo que entrevistas y cuestionarios validados son instrumentos apropiados. Registros clínicos y observación no sustituyen la voz de la persona en dominios como bienestar emocional, dolor, participación y función.\n\nDESARROLLO EXTENSO DEL TEMARIO\n\n1. PROM son medidas de resultados reportados directamente por la persona sobre salud, síntomas, funcionalidad o calidad de vida.\n\n2. La calidad de vida relacionada con salud es multidimensional: función física, salud mental, roles sociales, dolor y bienestar.\n\n3. Cuestionarios estandarizados permiten comparar dominios entre individuos y momentos; ejemplos incluyen EQ-5D, SF-36 y WHOQOL.\n\n4. Entrevista puede apoyar lectura y comprensión ante barreras de alfabetización, discapacidad o idioma.\n\n5. Validez de contenido exige que preguntas representen los dominios relevantes; validez de constructo evalúa comportamiento esperado.\n\n6. Confiabilidad evalúa consistencia de medición; sensibilidad al cambio muestra utilidad para seguimiento.\n\n7. Adaptación transcultural requiere traducción, revisión conceptual y validación, no solo sustitución literal de palabras.\n\n8. La respuesta del familiar puede servir como proxy en condiciones justificadas, pero no equivale sin más a la autopercepción.\n\n9. Los registros existentes ofrecen indicadores clínicos y administrativos útiles, pero no capturan necesariamente experiencia vivida.\n\n10. Sesgos de respuesta y pérdida de seguimiento deben considerarse en interpretación de estudios longitudinales.\n\n11. Calidad de vida relacionada con salud incorpora estados subjetivos que no se derivan directamente de laboratorio, imagen o diagnóstico.\n\n12. PROM mide resultado percibido; PREM mide experiencia con la atención. Son construcciones diferentes aunque ambas recopilen información del paciente.\n\n13. SF-36 aborda dimensiones de salud física y mental; EQ-5D ofrece dominios y escala de salud autopercibida; WHOQOL explora calidad de vida amplia.\n\n14. Instrumento genérico permite comparación entre patologías; instrumento específico puede ser más sensible a síntomas particulares.\n\n15. Propiedades psicométricas: validez de contenido, estructura, consistencia interna, reproducibilidad y capacidad de respuesta.\n\n16. Efectos de techo y piso limitan detección de mejoría o empeoramiento cuando casi todos obtienen extremos.\n\n17. Medición longitudinal: fijar momento basal y seguimientos, mismo instrumento y método, y distinguir diferencia estadística de cambio clínicamente relevante.\n\n18. Sesgo de deseabilidad social: entrevista cara a cara puede favorecer respuestas complacientes frente al profesional; capacitar encuestadores.\n\n19. Adaptación lingüística: traducción inversa, pruebas cognitivas y validación en población específica, sobre todo en comunidades multilingües.\n\n20. Representante o familiar puede informar cuando paciente no responde, pero es estimación proxy que debe quedar identificada y no igualarse a autorreporte.\n\nANÁLISIS DE CADA ALTERNATIVA\n\nA) Registro por paciente y familiar: puede complementar seguimiento pero no es el par metodológico principal del enunciado.\n\nB) Entrevistas y cuestionarios: permiten obtener medidas subjetivas estandarizadas desde perspectiva del paciente.\n\nC) Registros existentes: aportan información secundaria clínica, pero no garantizan autopercepción de calidad de vida.\n\nD) Observación directa e indirecta: describe conducta o función observable, no reemplaza experiencia subjetiva.\n\nTRAMPAS Y DISTINCIONES\n\n- No confundir conceptos cercanos: clasificar según la información exacta del caso.\n\n- La respuesta del examen requiere contraste independiente con clave oficial.\n\n- PROM no es PREM.\n\n- El familiar no sustituye sistemáticamente a la persona en una medida de calidad de vida autopercibida.\n\nNORMATIVA Y REFERENCIAS\n\n- OMS, WHOQOL instrumentos de medición de calidad de vida.\n\n- FDA, guías de medidas de resultados informados por pacientes (PROMs).\n\nMNEMOTECNIA\n\nCALIDAD DE VIDA SENTIDA = PREGUNTAR AL PACIENTE.\n\nREPASO ACTIVO\n\n¿Qué es un PROM?\nResultado informado directamente por el paciente.\n\n¿Qué característica permite comparar mediciones repetidas?\nConfiabilidad y capacidad de respuesta al cambio, junto con validez.\n\n¿Qué aspecto adicional del temario 1 debes dominar?\nMedición longitudinal: fijar momento basal y seguimientos, mismo instrumento y método, y distinguir diferencia estadística de cambio clínicamente relevante.\n\n¿Qué aspecto adicional del temario 2 debes dominar?\nSesgo de deseabilidad social: entrevista cara a cara puede favorecer respuestas complacientes frente al profesional; capacitar encuestadores.\n\n¿Qué aspecto adicional del temario 3 debes dominar?\nAdaptación lingüística: traducción inversa, pruebas cognitivas y validación en población específica, sobre todo en comunidades multilingües.\n\n¿Qué aspecto adicional del temario 4 debes dominar?\nRepresentante o familiar puede informar cuando paciente no responde, pero es estimación proxy que debe quedar identificada y no igualarse a autorreporte.\n\nDOS CASOS ADICIONALES EXPLICADOS\n\n1. Ensayo clínico quiere cuantificar cómo el tratamiento cambia el bienestar que perciben los participantes.\nA) Talla en centímetros\nB) Cuestionario PROM validado\nC) Fecha de hospitalización\nD) Biopsia exclusivamente\nE) Registro de inventario\nClave: B. El desenlace es informado por el propio paciente mediante un instrumento validado.\n\n2. Encuesta pregunta si el personal explicó bien las opciones terapéuticas.\nA) PROM de dolor\nB) Incidencia acumulada\nC) Tasa de letalidad\nD) PREM de experiencia de atención\nE) Sensibilidad analítica\nClave: D. Se mide experiencia del servicio, no resultado de salud autopercibido.\n\nPERLA\n\nCALIDAD DE VIDA SENTIDA = PREGUNTAR AL PACIENTE.",
+      "pearl": "CALIDAD DE VIDA SENTIDA = PREGUNTAR AL PACIENTE.",
+      "lesson": {
+        "respuesta_resumida": "B. Entrevistas y cuestionarios",
+        "razonamiento": "Calidad de vida y bienestar percibido dependen de la experiencia subjetiva del paciente, por lo que entrevistas y cuestionarios validados son instrumentos apropiados. Registros clínicos y observación no sustituyen la voz de la persona en dominios como bienestar emocional, dolor, participación y función.",
+        "temario": [
+          "PROM son medidas de resultados reportados directamente por la persona sobre salud, síntomas, funcionalidad o calidad de vida.",
+          "La calidad de vida relacionada con salud es multidimensional: función física, salud mental, roles sociales, dolor y bienestar.",
+          "Cuestionarios estandarizados permiten comparar dominios entre individuos y momentos; ejemplos incluyen EQ-5D, SF-36 y WHOQOL.",
+          "Entrevista puede apoyar lectura y comprensión ante barreras de alfabetización, discapacidad o idioma.",
+          "Validez de contenido exige que preguntas representen los dominios relevantes; validez de constructo evalúa comportamiento esperado.",
+          "Confiabilidad evalúa consistencia de medición; sensibilidad al cambio muestra utilidad para seguimiento.",
+          "Adaptación transcultural requiere traducción, revisión conceptual y validación, no solo sustitución literal de palabras.",
+          "La respuesta del familiar puede servir como proxy en condiciones justificadas, pero no equivale sin más a la autopercepción.",
+          "Los registros existentes ofrecen indicadores clínicos y administrativos útiles, pero no capturan necesariamente experiencia vivida.",
+          "Sesgos de respuesta y pérdida de seguimiento deben considerarse en interpretación de estudios longitudinales.",
+          "Calidad de vida relacionada con salud incorpora estados subjetivos que no se derivan directamente de laboratorio, imagen o diagnóstico.",
+          "PROM mide resultado percibido; PREM mide experiencia con la atención. Son construcciones diferentes aunque ambas recopilen información del paciente.",
+          "SF-36 aborda dimensiones de salud física y mental; EQ-5D ofrece dominios y escala de salud autopercibida; WHOQOL explora calidad de vida amplia.",
+          "Instrumento genérico permite comparación entre patologías; instrumento específico puede ser más sensible a síntomas particulares.",
+          "Propiedades psicométricas: validez de contenido, estructura, consistencia interna, reproducibilidad y capacidad de respuesta.",
+          "Efectos de techo y piso limitan detección de mejoría o empeoramiento cuando casi todos obtienen extremos.",
+          "Medición longitudinal: fijar momento basal y seguimientos, mismo instrumento y método, y distinguir diferencia estadística de cambio clínicamente relevante.",
+          "Sesgo de deseabilidad social: entrevista cara a cara puede favorecer respuestas complacientes frente al profesional; capacitar encuestadores.",
+          "Adaptación lingüística: traducción inversa, pruebas cognitivas y validación en población específica, sobre todo en comunidades multilingües.",
+          "Representante o familiar puede informar cuando paciente no responde, pero es estimación proxy que debe quedar identificada y no igualarse a autorreporte."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Registro por paciente y familiar: puede complementar seguimiento pero no es el par metodológico principal del enunciado.",
+          "B": "Entrevistas y cuestionarios: permiten obtener medidas subjetivas estandarizadas desde perspectiva del paciente.",
+          "C": "Registros existentes: aportan información secundaria clínica, pero no garantizan autopercepción de calidad de vida.",
+          "D": "Observación directa e indirecta: describe conducta o función observable, no reemplaza experiencia subjetiva."
+        },
+        "normativa": [
+          "OMS, WHOQOL instrumentos de medición de calidad de vida.",
+          "FDA, guías de medidas de resultados informados por pacientes (PROMs)."
+        ],
+        "mnemotecnia": "CALIDAD DE VIDA SENTIDA = PREGUNTAR AL PACIENTE.",
+        "trampas": [
+          "No confundir conceptos cercanos: clasificar según la información exacta del caso.",
+          "La respuesta del examen requiere contraste independiente con clave oficial.",
+          "PROM no es PREM.",
+          "El familiar no sustituye sistemáticamente a la persona en una medida de calidad de vida autopercibida."
+        ],
+        "perla": "CALIDAD DE VIDA SENTIDA = PREGUNTAR AL PACIENTE.",
+        "repaso_activo": [
+          {
+            "pregunta": "¿Qué es un PROM?",
+            "respuesta": "Resultado informado directamente por el paciente."
+          },
+          {
+            "pregunta": "¿Qué característica permite comparar mediciones repetidas?",
+            "respuesta": "Confiabilidad y capacidad de respuesta al cambio, junto con validez."
+          },
+          {
+            "pregunta": "¿Qué aspecto adicional del temario 1 debes dominar?",
+            "respuesta": "Medición longitudinal: fijar momento basal y seguimientos, mismo instrumento y método, y distinguir diferencia estadística de cambio clínicamente relevante."
+          },
+          {
+            "pregunta": "¿Qué aspecto adicional del temario 2 debes dominar?",
+            "respuesta": "Sesgo de deseabilidad social: entrevista cara a cara puede favorecer respuestas complacientes frente al profesional; capacitar encuestadores."
+          },
+          {
+            "pregunta": "¿Qué aspecto adicional del temario 3 debes dominar?",
+            "respuesta": "Adaptación lingüística: traducción inversa, pruebas cognitivas y validación en población específica, sobre todo en comunidades multilingües."
+          },
+          {
+            "pregunta": "¿Qué aspecto adicional del temario 4 debes dominar?",
+            "respuesta": "Representante o familiar puede informar cuando paciente no responde, pero es estimación proxy que debe quedar identificada y no igualarse a autorreporte."
+          }
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Ensayo clínico quiere cuantificar cómo el tratamiento cambia el bienestar que perciben los participantes.",
+            "alternativas": {
+              "A": "Talla en centímetros",
+              "B": "Cuestionario PROM validado",
+              "C": "Fecha de hospitalización",
+              "D": "Biopsia exclusivamente",
+              "E": "Registro de inventario"
+            },
+            "respuesta": "B",
+            "explicacion": "El desenlace es informado por el propio paciente mediante un instrumento validado."
+          },
+          {
+            "enunciado": "Encuesta pregunta si el personal explicó bien las opciones terapéuticas.",
+            "alternativas": {
+              "A": "PROM de dolor",
+              "B": "Incidencia acumulada",
+              "C": "Tasa de letalidad",
+              "D": "PREM de experiencia de atención",
+              "E": "Sensibilidad analítica"
+            },
+            "respuesta": "D",
+            "explicacion": "Se mide experiencia del servicio, no resultado de salud autopercibido."
+          }
+        ]
+      }
     }
   ]
 }
