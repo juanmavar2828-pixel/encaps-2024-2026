@@ -1545,6 +1545,33 @@ document.addEventListener('DOMContentLoaded',()=>{
 });
 
 
+
+/* ENCAPS: el proveedor habilitado es correo/contraseña. */
+window.cloudSignIn=()=>{
+ if(cloud.user)return window.cloudSyncNow();
+ showSettings();
+ document.getElementById('cloudGuestActions')?.classList.remove('hidden');
+ document.getElementById('cloudEmailAuthBox')?.classList.remove('hidden');
+ document.getElementById('cloudLoginBtn')?.classList.add('hidden');
+ document.getElementById('cloudEmail')?.focus();
+};
+document.addEventListener('DOMContentLoaded',()=>{
+ const header=document.getElementById('cloudHeaderBtn');
+ if(header){header.classList.remove('hidden');header.onclick=()=>window.cloudSignIn();}
+ const box=document.getElementById('cloudEmailAuthBox');
+ if(box){
+   const title=box.querySelector('b');if(title)title.textContent='Cuenta ENCAPS';
+   const info=box.querySelector('.tiny');if(info)info.textContent='Usa tu correo y contraseña para sincronizar tus dispositivos.';
+   const actions=box.querySelector('.actions');
+   if(actions&&!document.getElementById('encapsRegisterBtn')){
+     const b=document.createElement('button');b.id='encapsRegisterBtn';b.className='btn secondary';b.textContent='Crear cuenta';
+     b.onclick=()=>window.cloudEmailCreate();actions.appendChild(b);
+   }
+ }
+ document.getElementById('cloudGuestActions')?.classList.remove('hidden');
+ document.getElementById('cloudLoginBtn')?.classList.add('hidden');
+});
+
 // V5.0: el filtro ya no se pierde al abrir una pregunta; no hace falta pulsar Finalizar repetidamente.
 init().catch(e=>{console.error(e);alert('Error al iniciar la app: '+e.message)});
 
