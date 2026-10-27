@@ -3,7 +3,7 @@
   "bankId": "ENCAPS_2026_I",
   "title": "ENCAPS 2026-I · Medicina Humana",
   "source": "Examen SERUMS Medicina 19 abril 2026 · claves resaltadas en PDF del usuario",
-  "questionCount": 45,
+  "questionCount": 50,
   "questions": [
     {
       "number": 1,
@@ -4763,6 +4763,467 @@
         "leccion_extendida": {
           "titulo": "Parto expulsivo inminente: asistencia inmediata y seguridad de madre y neonato",
           "desarrollo": "RESPUESTA RAZONADA — PENDIENTE DE COTEJO INDEPENDIENTE CON CLAVE OFICIAL\nB. Atender el parto\n\nRAZONAMIENTO CLÍNICO / EPIDEMIOLÓGICO\nEl período expulsivo implica nacimiento próximo; trasladar innecesariamente expone a riesgos durante el tránsito. Si existe personal sanitario competente y un parto inminente, corresponde asistir el nacimiento, activar el plan de emergencia y posteriormente referir cuando las complicaciones o capacidad resolutiva lo requieran. La actuación se ajusta a competencia y equipamiento, y nunca debe retrasar medidas para salvar vidas.\n\nDESARROLLO DEL TEMARIO\n1. El trabajo de parto comprende dilatación, expulsivo y alumbramiento.\n2. Signos de expulsivo: dilatación completa, pujo involuntario y descenso de presentación.\n3. Traslado con cabeza coronando puede ser más riesgoso que atención inmediata.\n4. Valorar condiciones maternas, bienestar fetal, presentación y signos de complicación.\n5. Preparar técnica aséptica, equipamiento neonatal y asistencia obstétrica.\n6. Evitar tracción de presentación fetal y maniobras no indicadas.\n7. Manejo activo del tercer período para prevenir hemorragia posparto según protocolo.\n8. Atención neonatal inmediata: secado, calor, respiración, contacto piel a piel si está estable.\n9. Reevaluar y referir si hemorragia, trauma, retención placentaria o complicaciones.\n10. Documentar parto, comunicar a red, garantizar seguimiento puerperal y neonatal.\n\nANÁLISIS DE LAS CUATRO ALTERNATIVAS\nA) Referir al hospital con expulsivo inminente puede producir nacimiento inseguro en tránsito.\nB) Correcta: atender el parto inminente según competencia y activar apoyo.\nC) Un I-3 no es destino útil cuando el nacimiento ya es inminente.\nD) I-4 es destino de parto planificado en muchos casos, pero el expulsivo cambia la prioridad.\n\nNORMATIVA Y REFERENCIAS\nMINSA, NTS para atención integral de salud materna y atención del parto.\nOMS, recomendaciones para cuidados intraparto y atención esencial del recién nacido.\n\nTRAMPAS FRECUENTES\nNo equiparar atención del expulsivo con retener a toda gestante en un establecimiento de baja complejidad.\nSi hay urgencia vital, requerir apoyo y estabilizar según protocolos.\nLa seguridad de traslado depende del estadio y condiciones de parto.\n\nMNEMOTECNIA\nEXPULSIVO = ASISTIR, NO TRASLADAR POR RUTINA.\n\nREPASO ACTIVO\nRespuesta: B. Atender el parto\nRegla: EXPULSIVO = ASISTIR, NO TRASLADAR POR RUTINA.\nNo equiparar atención del expulsivo con retener a toda gestante en un establecimiento de baja complejidad.\nSi hay urgencia vital, requerir apoyo y estabilizar según protocolos.\nLa seguridad de traslado depende del estadio y condiciones de parto.\n\nCASOS DE REFUERZO\n1. Gestante tiene presentación coronando en puesto de salud. ¿Prioridad?\nA) Esperar transporte\nB) Asistir parto inminente y activar apoyo\nC) Enviar a caminar\nD) Posponer cuidados\nE) Dar alta\nClave B. La inminencia del parto requiere asistencia segura.\n\n2. Tras parto aparece hemorragia abundante y taquicardia. ¿Qué hacer?\nA) Solo observación\nB) Retirar vigilancia\nC) Dejar sola\nD) Tratar de urgencia y activar referencia\nE) Esperar doce horas\nClave D. La hemorragia posparto exige respuesta inmediata."
+        }
+      }
+    },
+    {
+      "number": 46,
+      "question": "A una RIS se le asigna las siguientes acciones: conformar el equipo implementador del modelo de cuidado integral (MCI), su plan y fortalecimiento de capacidades a su equipo de gestión. ¿Cuál es el componente del MCI aplicado?",
+      "options": {
+        "A": "Provisión",
+        "B": "Financiamiento",
+        "C": "Gestión",
+        "D": "Organización"
+      },
+      "correct": "C",
+      "code": "ENCAPS26-I P046",
+      "course": "ENCAPS Medicina 2026-I · Temario desarrollado",
+      "topic": "Modelo de cuidado integral: componente de gestión",
+      "comment": "CLAVE RAZONADA — SIN COTEJO INDEPENDIENTE DE TABLA OFICIAL\nC. Gestión\n\nRAZONAMIENTO COMPLETO\nConformar el equipo implementador, formular un plan y fortalecer las competencias directivas son acciones de conducción, planificación y gestión del cambio. No describen la atención clínica directa, la asignación de fondos ni solamente la estructura de la red.\n\nDESARROLLO DEL TEMARIO\n1. El MCI busca cuidado longitudinal, integral, familiar, comunitario y territorial a lo largo del curso de vida.\n2. Gestión implica planificación, conducción, recursos humanos, monitoreo y evaluación.\n3. Organización define roles, estructuras, flujos y coordinación de IPRESS y RIS.\n4. Provisión consiste en entregar intervenciones y prestaciones a persona, familia y comunidad.\n5. Financiamiento refiere a captación, asignación y uso de recursos económicos.\n6. Un equipo implementador transforma directrices en cronogramas, responsables e indicadores.\n7. Fortalecer capacidades incluye competencias técnicas, liderazgo y mejora continua.\n8. La gestión del cambio necesita comunicación, seguimiento y retroalimentación.\n9. Las cuatro dimensiones se relacionan, pero la pregunta enfatiza actividades gerenciales.\n\nANÁLISIS DE ALTERNATIVAS\nA) Provisión implicaría ejecución de consultas, visitas o cuidados; aquí se prepara la implementación.\nB) No se discute presupuesto o compra de prestaciones.\nC) Correcta: planificación, conducción y capacidades de equipo de gestión.\nD) Organización participa al constituir equipos, pero el conjunto con plan y fortalecimiento de gestores apunta a gestión.\n\nNORMATIVA Y REFERENCIAS\nMINSA, Modelo de Cuidado Integral de Salud por Curso de Vida para la Persona, Familia y Comunidad, RM 030-2020-MINSA y documentos de implementación.\nLey 30885, Redes Integradas de Salud, y reglamentación.\n\nTRAMPAS\nUna acción puede participar de varios componentes; atender a su propósito dominante.\nNo equiparar equipo implementador con prestación clínica.\nPlan y capacidades gerenciales son pistas fuertes.\n\nMNEMOTECNIA\nGESTIÓN = EQUIPO + PLAN + CAPACIDADES.\n\nREPASO ACTIVO\nRespuesta: C. Gestión\nGESTIÓN = EQUIPO + PLAN + CAPACIDADES.\nUna acción puede participar de varios componentes; atender a su propósito dominante.\nNo equiparar equipo implementador con prestación clínica.\nPlan y capacidades gerenciales son pistas fuertes.\n\nCASOS DE REFUERZO\n1. La RIS designa responsables, prepara metas y supervisa implantación. ¿Componente?\nA) Solo provisión\nB) Solo financiamiento\nC) Gestión\nD) Farmacología\nE) Diagnóstico individual\nClave C. Son tareas de dirección y seguimiento.\n\n2. Equipo realiza tamizajes y controles integrales en comunidad. ¿Componente predominante?\nA) Provisión\nB) Financiamiento\nC) Solo archivo\nD) Solo infraestructura\nE) Auditoría contable\nClave A. Está ejecutando directamente cuidados.",
+      "pearl": "GESTIÓN = EQUIPO + PLAN + CAPACIDADES.",
+      "keywords": [
+        "Modelo de cuidado integral: componente de gestión",
+        "ENCAPS Medicina 2026-I",
+        "SERUMS MINSA"
+      ],
+      "estadoDesarrollo": "completo",
+      "estadoClave": "interpretacion_pendiente_cotejo_clave_oficial",
+      "lesson": {
+        "respuesta_resumida": "C. Gestión",
+        "razonamiento": "Conformar el equipo implementador, formular un plan y fortalecer las competencias directivas son acciones de conducción, planificación y gestión del cambio. No describen la atención clínica directa, la asignación de fondos ni solamente la estructura de la red.",
+        "temario": [
+          "El MCI busca cuidado longitudinal, integral, familiar, comunitario y territorial a lo largo del curso de vida.",
+          "Gestión implica planificación, conducción, recursos humanos, monitoreo y evaluación.",
+          "Organización define roles, estructuras, flujos y coordinación de IPRESS y RIS.",
+          "Provisión consiste en entregar intervenciones y prestaciones a persona, familia y comunidad.",
+          "Financiamiento refiere a captación, asignación y uso de recursos económicos.",
+          "Un equipo implementador transforma directrices en cronogramas, responsables e indicadores.",
+          "Fortalecer capacidades incluye competencias técnicas, liderazgo y mejora continua.",
+          "La gestión del cambio necesita comunicación, seguimiento y retroalimentación.",
+          "Las cuatro dimensiones se relacionan, pero la pregunta enfatiza actividades gerenciales."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Provisión implicaría ejecución de consultas, visitas o cuidados; aquí se prepara la implementación.",
+          "B": "No se discute presupuesto o compra de prestaciones.",
+          "C": "Correcta: planificación, conducción y capacidades de equipo de gestión.",
+          "D": "Organización participa al constituir equipos, pero el conjunto con plan y fortalecimiento de gestores apunta a gestión."
+        },
+        "normativa": [
+          "MINSA, Modelo de Cuidado Integral de Salud por Curso de Vida para la Persona, Familia y Comunidad, RM 030-2020-MINSA y documentos de implementación.",
+          "Ley 30885, Redes Integradas de Salud, y reglamentación."
+        ],
+        "mnemotecnia": "GESTIÓN = EQUIPO + PLAN + CAPACIDADES.",
+        "trampas": [
+          "Una acción puede participar de varios componentes; atender a su propósito dominante.",
+          "No equiparar equipo implementador con prestación clínica.",
+          "Plan y capacidades gerenciales son pistas fuertes."
+        ],
+        "perla": "GESTIÓN = EQUIPO + PLAN + CAPACIDADES.",
+        "repaso_activo": [
+          "Respuesta: C. Gestión",
+          "GESTIÓN = EQUIPO + PLAN + CAPACIDADES.",
+          "Una acción puede participar de varios componentes; atender a su propósito dominante.",
+          "No equiparar equipo implementador con prestación clínica.",
+          "Plan y capacidades gerenciales son pistas fuertes."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "La RIS designa responsables, prepara metas y supervisa implantación. ¿Componente?",
+            "alternativas": {
+              "A": "Solo provisión",
+              "B": "Solo financiamiento",
+              "C": "Gestión",
+              "D": "Farmacología",
+              "E": "Diagnóstico individual"
+            },
+            "respuesta": "C",
+            "explicacion": "Son tareas de dirección y seguimiento."
+          },
+          {
+            "enunciado": "Equipo realiza tamizajes y controles integrales en comunidad. ¿Componente predominante?",
+            "alternativas": {
+              "A": "Provisión",
+              "B": "Financiamiento",
+              "C": "Solo archivo",
+              "D": "Solo infraestructura",
+              "E": "Auditoría contable"
+            },
+            "respuesta": "A",
+            "explicacion": "Está ejecutando directamente cuidados."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Modelo de cuidado integral: componente de gestión",
+          "desarrollo": "CLAVE RAZONADA — SIN COTEJO INDEPENDIENTE DE TABLA OFICIAL\nC. Gestión\n\nRAZONAMIENTO COMPLETO\nConformar el equipo implementador, formular un plan y fortalecer las competencias directivas son acciones de conducción, planificación y gestión del cambio. No describen la atención clínica directa, la asignación de fondos ni solamente la estructura de la red.\n\nDESARROLLO DEL TEMARIO\n1. El MCI busca cuidado longitudinal, integral, familiar, comunitario y territorial a lo largo del curso de vida.\n2. Gestión implica planificación, conducción, recursos humanos, monitoreo y evaluación.\n3. Organización define roles, estructuras, flujos y coordinación de IPRESS y RIS.\n4. Provisión consiste en entregar intervenciones y prestaciones a persona, familia y comunidad.\n5. Financiamiento refiere a captación, asignación y uso de recursos económicos.\n6. Un equipo implementador transforma directrices en cronogramas, responsables e indicadores.\n7. Fortalecer capacidades incluye competencias técnicas, liderazgo y mejora continua.\n8. La gestión del cambio necesita comunicación, seguimiento y retroalimentación.\n9. Las cuatro dimensiones se relacionan, pero la pregunta enfatiza actividades gerenciales.\n\nANÁLISIS DE ALTERNATIVAS\nA) Provisión implicaría ejecución de consultas, visitas o cuidados; aquí se prepara la implementación.\nB) No se discute presupuesto o compra de prestaciones.\nC) Correcta: planificación, conducción y capacidades de equipo de gestión.\nD) Organización participa al constituir equipos, pero el conjunto con plan y fortalecimiento de gestores apunta a gestión.\n\nNORMATIVA Y REFERENCIAS\nMINSA, Modelo de Cuidado Integral de Salud por Curso de Vida para la Persona, Familia y Comunidad, RM 030-2020-MINSA y documentos de implementación.\nLey 30885, Redes Integradas de Salud, y reglamentación.\n\nTRAMPAS\nUna acción puede participar de varios componentes; atender a su propósito dominante.\nNo equiparar equipo implementador con prestación clínica.\nPlan y capacidades gerenciales son pistas fuertes.\n\nMNEMOTECNIA\nGESTIÓN = EQUIPO + PLAN + CAPACIDADES.\n\nREPASO ACTIVO\nRespuesta: C. Gestión\nGESTIÓN = EQUIPO + PLAN + CAPACIDADES.\nUna acción puede participar de varios componentes; atender a su propósito dominante.\nNo equiparar equipo implementador con prestación clínica.\nPlan y capacidades gerenciales son pistas fuertes.\n\nCASOS DE REFUERZO\n1. La RIS designa responsables, prepara metas y supervisa implantación. ¿Componente?\nA) Solo provisión\nB) Solo financiamiento\nC) Gestión\nD) Farmacología\nE) Diagnóstico individual\nClave C. Son tareas de dirección y seguimiento.\n\n2. Equipo realiza tamizajes y controles integrales en comunidad. ¿Componente predominante?\nA) Provisión\nB) Financiamiento\nC) Solo archivo\nD) Solo infraestructura\nE) Auditoría contable\nClave A. Está ejecutando directamente cuidados."
+        }
+      }
+    },
+    {
+      "number": 47,
+      "question": "Recientemente usted fue asignado a un C.S. y quiere conocer cómo se transmite una enfermedad de una persona a otra o de un reservorio no humano a una población humana, además de las razones por las que los comportamientos de riesgo causan enfermedades. ¿En qué se basa para realizar este estudio?",
+      "options": {
+        "A": "Tanatología",
+        "B": "Estadística",
+        "C": "Salud pública",
+        "D": "Epidemiología"
+      },
+      "correct": "D",
+      "code": "ENCAPS26-I P047",
+      "course": "ENCAPS Medicina 2026-I · Temario desarrollado",
+      "topic": "Epidemiología: distribución, determinantes y transmisión",
+      "comment": "CLAVE RAZONADA — SIN COTEJO INDEPENDIENTE DE TABLA OFICIAL\nD. Epidemiología\n\nRAZONAMIENTO COMPLETO\nLa epidemiología estudia frecuencia, distribución y determinantes de los eventos de salud en poblaciones, y aplica esos conocimientos a prevenir y controlar enfermedades. El mecanismo de transmisión y las asociaciones con comportamientos de riesgo son preguntas epidemiológicas.\n\nDESARROLLO DEL TEMARIO\n1. Objeto: poblaciones, no solamente pacientes individuales.\n2. Descriptiva: persona, lugar y tiempo; frecuencia y patrones de enfermedad.\n3. Analítica: contraste de hipótesis sobre exposiciones y desenlaces.\n4. Transmisión: fuente, reservorio, puerta de salida, vía, puerta de entrada y susceptible.\n5. Medidas: incidencia, prevalencia, tasas, riesgos y razones de tasas.\n6. Asociación: riesgo relativo, odds ratio y posibles confundidores.\n7. Causalidad exige temporalidad, plausibilidad, control de sesgos y triangulación de evidencia.\n8. Diseños: transversales, casos-controles, cohortes, ensayos y estudios ecológicos.\n9. Los resultados orientan vigilancia, prevención y decisiones de salud pública.\n\nANÁLISIS DE ALTERNATIVAS\nA) Tanatología estudia muerte y procesos relacionados, no distribución poblacional general.\nB) Estadística aporta métodos cuantitativos; no engloba objeto epidemiológico.\nC) Salud pública es campo más amplio que aplica epidemiología entre otras disciplinas.\nD) Correcta: epidemiología.\n\nNORMATIVA Y REFERENCIAS\nOPS, Módulos de Principios de Epidemiología para el Control de Enfermedades (MOPECE).\nOMS, fundamentos de epidemiología y vigilancia.\n\nTRAMPAS\nEpidemiología no se limita a enfermedades infecciosas.\nCorrelación no basta para inferir causalidad.\nEstadística es herramienta, no disciplina equivalente.\n\nMNEMOTECNIA\nEPIDEMIOLOGÍA = QUIÉN, DÓNDE, CUÁNDO Y POR QUÉ.\n\nREPASO ACTIVO\nRespuesta: D. Epidemiología\nEPIDEMIOLOGÍA = QUIÉN, DÓNDE, CUÁNDO Y POR QUÉ.\nEpidemiología no se limita a enfermedades infecciosas.\nCorrelación no basta para inferir causalidad.\nEstadística es herramienta, no disciplina equivalente.\n\nCASOS DE REFUERZO\n1. Se estima incidencia de dengue por distrito y estación. Disciplina?\nA) Anatomía\nB) Epidemiología\nC) Tanatología\nD) Histología\nE) Farmacotecnia\nClave B. Describe distribución poblacional.\n\n2. Se compara tabaquismo previo entre casos de cáncer y controles. Diseño?\nA) Ensayo clínico\nB) Cohorte prospectiva\nC) Serie de casos\nD) Casos y controles\nE) Estudio de laboratorio\nClave D. Se parte del desenlace para investigar exposición.",
+      "pearl": "EPIDEMIOLOGÍA = QUIÉN, DÓNDE, CUÁNDO Y POR QUÉ.",
+      "keywords": [
+        "Epidemiología: distribución, determinantes y transmisión",
+        "ENCAPS Medicina 2026-I",
+        "SERUMS MINSA"
+      ],
+      "estadoDesarrollo": "completo",
+      "estadoClave": "interpretacion_pendiente_cotejo_clave_oficial",
+      "lesson": {
+        "respuesta_resumida": "D. Epidemiología",
+        "razonamiento": "La epidemiología estudia frecuencia, distribución y determinantes de los eventos de salud en poblaciones, y aplica esos conocimientos a prevenir y controlar enfermedades. El mecanismo de transmisión y las asociaciones con comportamientos de riesgo son preguntas epidemiológicas.",
+        "temario": [
+          "Objeto: poblaciones, no solamente pacientes individuales.",
+          "Descriptiva: persona, lugar y tiempo; frecuencia y patrones de enfermedad.",
+          "Analítica: contraste de hipótesis sobre exposiciones y desenlaces.",
+          "Transmisión: fuente, reservorio, puerta de salida, vía, puerta de entrada y susceptible.",
+          "Medidas: incidencia, prevalencia, tasas, riesgos y razones de tasas.",
+          "Asociación: riesgo relativo, odds ratio y posibles confundidores.",
+          "Causalidad exige temporalidad, plausibilidad, control de sesgos y triangulación de evidencia.",
+          "Diseños: transversales, casos-controles, cohortes, ensayos y estudios ecológicos.",
+          "Los resultados orientan vigilancia, prevención y decisiones de salud pública."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Tanatología estudia muerte y procesos relacionados, no distribución poblacional general.",
+          "B": "Estadística aporta métodos cuantitativos; no engloba objeto epidemiológico.",
+          "C": "Salud pública es campo más amplio que aplica epidemiología entre otras disciplinas.",
+          "D": "Correcta: epidemiología."
+        },
+        "normativa": [
+          "OPS, Módulos de Principios de Epidemiología para el Control de Enfermedades (MOPECE).",
+          "OMS, fundamentos de epidemiología y vigilancia."
+        ],
+        "mnemotecnia": "EPIDEMIOLOGÍA = QUIÉN, DÓNDE, CUÁNDO Y POR QUÉ.",
+        "trampas": [
+          "Epidemiología no se limita a enfermedades infecciosas.",
+          "Correlación no basta para inferir causalidad.",
+          "Estadística es herramienta, no disciplina equivalente."
+        ],
+        "perla": "EPIDEMIOLOGÍA = QUIÉN, DÓNDE, CUÁNDO Y POR QUÉ.",
+        "repaso_activo": [
+          "Respuesta: D. Epidemiología",
+          "EPIDEMIOLOGÍA = QUIÉN, DÓNDE, CUÁNDO Y POR QUÉ.",
+          "Epidemiología no se limita a enfermedades infecciosas.",
+          "Correlación no basta para inferir causalidad.",
+          "Estadística es herramienta, no disciplina equivalente."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Se estima incidencia de dengue por distrito y estación. Disciplina?",
+            "alternativas": {
+              "A": "Anatomía",
+              "B": "Epidemiología",
+              "C": "Tanatología",
+              "D": "Histología",
+              "E": "Farmacotecnia"
+            },
+            "respuesta": "B",
+            "explicacion": "Describe distribución poblacional."
+          },
+          {
+            "enunciado": "Se compara tabaquismo previo entre casos de cáncer y controles. Diseño?",
+            "alternativas": {
+              "A": "Ensayo clínico",
+              "B": "Cohorte prospectiva",
+              "C": "Serie de casos",
+              "D": "Casos y controles",
+              "E": "Estudio de laboratorio"
+            },
+            "respuesta": "D",
+            "explicacion": "Se parte del desenlace para investigar exposición."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Epidemiología: distribución, determinantes y transmisión",
+          "desarrollo": "CLAVE RAZONADA — SIN COTEJO INDEPENDIENTE DE TABLA OFICIAL\nD. Epidemiología\n\nRAZONAMIENTO COMPLETO\nLa epidemiología estudia frecuencia, distribución y determinantes de los eventos de salud en poblaciones, y aplica esos conocimientos a prevenir y controlar enfermedades. El mecanismo de transmisión y las asociaciones con comportamientos de riesgo son preguntas epidemiológicas.\n\nDESARROLLO DEL TEMARIO\n1. Objeto: poblaciones, no solamente pacientes individuales.\n2. Descriptiva: persona, lugar y tiempo; frecuencia y patrones de enfermedad.\n3. Analítica: contraste de hipótesis sobre exposiciones y desenlaces.\n4. Transmisión: fuente, reservorio, puerta de salida, vía, puerta de entrada y susceptible.\n5. Medidas: incidencia, prevalencia, tasas, riesgos y razones de tasas.\n6. Asociación: riesgo relativo, odds ratio y posibles confundidores.\n7. Causalidad exige temporalidad, plausibilidad, control de sesgos y triangulación de evidencia.\n8. Diseños: transversales, casos-controles, cohortes, ensayos y estudios ecológicos.\n9. Los resultados orientan vigilancia, prevención y decisiones de salud pública.\n\nANÁLISIS DE ALTERNATIVAS\nA) Tanatología estudia muerte y procesos relacionados, no distribución poblacional general.\nB) Estadística aporta métodos cuantitativos; no engloba objeto epidemiológico.\nC) Salud pública es campo más amplio que aplica epidemiología entre otras disciplinas.\nD) Correcta: epidemiología.\n\nNORMATIVA Y REFERENCIAS\nOPS, Módulos de Principios de Epidemiología para el Control de Enfermedades (MOPECE).\nOMS, fundamentos de epidemiología y vigilancia.\n\nTRAMPAS\nEpidemiología no se limita a enfermedades infecciosas.\nCorrelación no basta para inferir causalidad.\nEstadística es herramienta, no disciplina equivalente.\n\nMNEMOTECNIA\nEPIDEMIOLOGÍA = QUIÉN, DÓNDE, CUÁNDO Y POR QUÉ.\n\nREPASO ACTIVO\nRespuesta: D. Epidemiología\nEPIDEMIOLOGÍA = QUIÉN, DÓNDE, CUÁNDO Y POR QUÉ.\nEpidemiología no se limita a enfermedades infecciosas.\nCorrelación no basta para inferir causalidad.\nEstadística es herramienta, no disciplina equivalente.\n\nCASOS DE REFUERZO\n1. Se estima incidencia de dengue por distrito y estación. Disciplina?\nA) Anatomía\nB) Epidemiología\nC) Tanatología\nD) Histología\nE) Farmacotecnia\nClave B. Describe distribución poblacional.\n\n2. Se compara tabaquismo previo entre casos de cáncer y controles. Diseño?\nA) Ensayo clínico\nB) Cohorte prospectiva\nC) Serie de casos\nD) Casos y controles\nE) Estudio de laboratorio\nClave D. Se parte del desenlace para investigar exposición."
+        }
+      }
+    },
+    {
+      "number": 48,
+      "question": "Adolescente de 13 años, con 38 semanas de gestación, procedente de los andes, sin control, indica que relaciones sexuales han sido voluntarias con ex pareja de 35 años, viene acompañada por la madre al establecimiento I-3 ¿Cuál es la conducta a seguir?",
+      "options": {
+        "A": "Aplicar kits completos de emergencia para descarte de ITS, VIH, Hepatitis B",
+        "B": "Comunicar a las autoridades, activar código violeta y referencia hospitalaria",
+        "C": "Brindar actividades socio educativas a fin de que paciente identifique riesgos",
+        "D": "Responsabilizar a sus progenitores por negligencia hacia la paciente"
+      },
+      "correct": "B",
+      "code": "ENCAPS26-I P048",
+      "course": "ENCAPS Medicina 2026-I · Temario desarrollado",
+      "topic": "Gestación en menor de 14 años: violencia sexual, protección y referencia",
+      "comment": "CLAVE RAZONADA — SIN COTEJO INDEPENDIENTE DE TABLA OFICIAL\nB. Comunicar a las autoridades, activar código violeta y referencia hospitalaria\n\nRAZONAMIENTO COMPLETO\nEn Perú, las relaciones sexuales con una menor de 14 años requieren activar las rutas legales y sanitarias de protección aunque la adolescente las describa como voluntarias. A las 38 semanas sin controles hay además riesgo obstétrico relevante: evaluación inmediata, protección, comunicación conforme a obligaciones legales, apoyo psicológico y referencia a un establecimiento con capacidad materno-neonatal. El 'código violeta' mencionado debe corroborarse con el protocolo institucional vigente; lo decisivo es activar la ruta de violencia sexual y la red de atención.\n\nDESARROLLO DEL TEMARIO\n1. Menores de catorce años: el ordenamiento penal peruano brinda protección reforzada frente a actos sexuales.\n2. No culpar ni presionar a la adolescente; entrevista privada, sensible al trauma y sin revictimización.\n3. Determinar seguridad actual, posible coerción y relación con el adulto involucrado.\n4. Activar protocolos institucionales y comunicaciones de protección conforme a ley.\n5. Embarazo adolescente de alto riesgo: valoración obstétrica, laboratorio indicado y signos de alarma.\n6. A las 38 semanas deben planificarse nacimiento seguro y referencia a establecimiento capacitado.\n7. Brindar evaluación de VIH, sífilis, hepatitis B y otras ITS según normas, sin confundir tamizaje con profilaxis posexposición tardía.\n8. Salud mental, trabajo social, apoyo familiar seguro y seguimiento puerperal.\n9. Resguardar confidencialidad compatible con protección de derechos y obligación de informar.\n\nANÁLISIS DE ALTERNATIVAS\nA) Tamizaje de ITS es pertinente, pero no sustituye protección y referencia; un kit postexposición inmediato no corresponde automáticamente a una gestación de 38 semanas.\nB) Correcta: activar protección, autoridades según ley y referencia materno-neonatal.\nC) Educación sola es insuficiente frente a posible delito y riesgo obstétrico.\nD) Culpar a progenitores sin investigación vulnera un enfoque centrado en la víctima.\n\nNORMATIVA Y REFERENCIAS\nCódigo Penal peruano, artículo 173 y disposiciones vigentes sobre violación sexual de menor de edad.\nMINSA, protocolos de atención integral de víctimas de violencia sexual y salud materna.\nMIMP, rutas de protección de niñas, niños y adolescentes.\n\nTRAMPAS\nLa frase 'relaciones voluntarias' no neutraliza protección legal por edad.\nNo confundir medidas de protección inmediatas con tratamiento profiláctico por exposición reciente.\nLa referencia obstétrica y protección deben coordinarse, no competir.\n\nMNEMOTECNIA\nMENOR DE 14 + GESTACIÓN → PROTEGER Y REFERIR.\n\nREPASO ACTIVO\nRespuesta: B. Comunicar a las autoridades, activar código violeta y referencia hospitalaria\nMENOR DE 14 + GESTACIÓN → PROTEGER Y REFERIR.\nLa frase 'relaciones voluntarias' no neutraliza protección legal por edad.\nNo confundir medidas de protección inmediatas con tratamiento profiláctico por exposición reciente.\nLa referencia obstétrica y protección deben coordinarse, no competir.\n\nCASOS DE REFUERZO\n1. Gestante de 13 años revela relación con adulto. Conducta prioritaria?\nA) Reprenderla\nB) Dar solo consejería anticonceptiva\nC) Esperar parto sin comunicación\nD) Activar protección y atención obstétrica\nE) Publicar identidad\nClave D. Requiere protección jurídica y médica simultánea.\n\n2. Adolescente de 13 años teme regresar a casa por amenaza. ¿Qué hacer?\nA) Entregar datos al agresor\nB) Valorar seguridad y coordinar protección\nC) Restar importancia\nD) Cerrar historia\nE) Exigir confrontación\nClave B. La seguridad y no revictimización son esenciales.",
+      "pearl": "MENOR DE 14 + GESTACIÓN → PROTEGER Y REFERIR.",
+      "keywords": [
+        "Gestación en menor de 14 años: violencia sexual, protección y referencia",
+        "ENCAPS Medicina 2026-I",
+        "SERUMS MINSA"
+      ],
+      "estadoDesarrollo": "completo",
+      "estadoClave": "interpretacion_pendiente_cotejo_clave_oficial",
+      "lesson": {
+        "respuesta_resumida": "B. Comunicar a las autoridades, activar código violeta y referencia hospitalaria",
+        "razonamiento": "En Perú, las relaciones sexuales con una menor de 14 años requieren activar las rutas legales y sanitarias de protección aunque la adolescente las describa como voluntarias. A las 38 semanas sin controles hay además riesgo obstétrico relevante: evaluación inmediata, protección, comunicación conforme a obligaciones legales, apoyo psicológico y referencia a un establecimiento con capacidad materno-neonatal. El 'código violeta' mencionado debe corroborarse con el protocolo institucional vigente; lo decisivo es activar la ruta de violencia sexual y la red de atención.",
+        "temario": [
+          "Menores de catorce años: el ordenamiento penal peruano brinda protección reforzada frente a actos sexuales.",
+          "No culpar ni presionar a la adolescente; entrevista privada, sensible al trauma y sin revictimización.",
+          "Determinar seguridad actual, posible coerción y relación con el adulto involucrado.",
+          "Activar protocolos institucionales y comunicaciones de protección conforme a ley.",
+          "Embarazo adolescente de alto riesgo: valoración obstétrica, laboratorio indicado y signos de alarma.",
+          "A las 38 semanas deben planificarse nacimiento seguro y referencia a establecimiento capacitado.",
+          "Brindar evaluación de VIH, sífilis, hepatitis B y otras ITS según normas, sin confundir tamizaje con profilaxis posexposición tardía.",
+          "Salud mental, trabajo social, apoyo familiar seguro y seguimiento puerperal.",
+          "Resguardar confidencialidad compatible con protección de derechos y obligación de informar."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Tamizaje de ITS es pertinente, pero no sustituye protección y referencia; un kit postexposición inmediato no corresponde automáticamente a una gestación de 38 semanas.",
+          "B": "Correcta: activar protección, autoridades según ley y referencia materno-neonatal.",
+          "C": "Educación sola es insuficiente frente a posible delito y riesgo obstétrico.",
+          "D": "Culpar a progenitores sin investigación vulnera un enfoque centrado en la víctima."
+        },
+        "normativa": [
+          "Código Penal peruano, artículo 173 y disposiciones vigentes sobre violación sexual de menor de edad.",
+          "MINSA, protocolos de atención integral de víctimas de violencia sexual y salud materna.",
+          "MIMP, rutas de protección de niñas, niños y adolescentes."
+        ],
+        "mnemotecnia": "MENOR DE 14 + GESTACIÓN → PROTEGER Y REFERIR.",
+        "trampas": [
+          "La frase 'relaciones voluntarias' no neutraliza protección legal por edad.",
+          "No confundir medidas de protección inmediatas con tratamiento profiláctico por exposición reciente.",
+          "La referencia obstétrica y protección deben coordinarse, no competir."
+        ],
+        "perla": "MENOR DE 14 + GESTACIÓN → PROTEGER Y REFERIR.",
+        "repaso_activo": [
+          "Respuesta: B. Comunicar a las autoridades, activar código violeta y referencia hospitalaria",
+          "MENOR DE 14 + GESTACIÓN → PROTEGER Y REFERIR.",
+          "La frase 'relaciones voluntarias' no neutraliza protección legal por edad.",
+          "No confundir medidas de protección inmediatas con tratamiento profiláctico por exposición reciente.",
+          "La referencia obstétrica y protección deben coordinarse, no competir."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Gestante de 13 años revela relación con adulto. Conducta prioritaria?",
+            "alternativas": {
+              "A": "Reprenderla",
+              "B": "Dar solo consejería anticonceptiva",
+              "C": "Esperar parto sin comunicación",
+              "D": "Activar protección y atención obstétrica",
+              "E": "Publicar identidad"
+            },
+            "respuesta": "D",
+            "explicacion": "Requiere protección jurídica y médica simultánea."
+          },
+          {
+            "enunciado": "Adolescente de 13 años teme regresar a casa por amenaza. ¿Qué hacer?",
+            "alternativas": {
+              "A": "Entregar datos al agresor",
+              "B": "Valorar seguridad y coordinar protección",
+              "C": "Restar importancia",
+              "D": "Cerrar historia",
+              "E": "Exigir confrontación"
+            },
+            "respuesta": "B",
+            "explicacion": "La seguridad y no revictimización son esenciales."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Gestación en menor de 14 años: violencia sexual, protección y referencia",
+          "desarrollo": "CLAVE RAZONADA — SIN COTEJO INDEPENDIENTE DE TABLA OFICIAL\nB. Comunicar a las autoridades, activar código violeta y referencia hospitalaria\n\nRAZONAMIENTO COMPLETO\nEn Perú, las relaciones sexuales con una menor de 14 años requieren activar las rutas legales y sanitarias de protección aunque la adolescente las describa como voluntarias. A las 38 semanas sin controles hay además riesgo obstétrico relevante: evaluación inmediata, protección, comunicación conforme a obligaciones legales, apoyo psicológico y referencia a un establecimiento con capacidad materno-neonatal. El 'código violeta' mencionado debe corroborarse con el protocolo institucional vigente; lo decisivo es activar la ruta de violencia sexual y la red de atención.\n\nDESARROLLO DEL TEMARIO\n1. Menores de catorce años: el ordenamiento penal peruano brinda protección reforzada frente a actos sexuales.\n2. No culpar ni presionar a la adolescente; entrevista privada, sensible al trauma y sin revictimización.\n3. Determinar seguridad actual, posible coerción y relación con el adulto involucrado.\n4. Activar protocolos institucionales y comunicaciones de protección conforme a ley.\n5. Embarazo adolescente de alto riesgo: valoración obstétrica, laboratorio indicado y signos de alarma.\n6. A las 38 semanas deben planificarse nacimiento seguro y referencia a establecimiento capacitado.\n7. Brindar evaluación de VIH, sífilis, hepatitis B y otras ITS según normas, sin confundir tamizaje con profilaxis posexposición tardía.\n8. Salud mental, trabajo social, apoyo familiar seguro y seguimiento puerperal.\n9. Resguardar confidencialidad compatible con protección de derechos y obligación de informar.\n\nANÁLISIS DE ALTERNATIVAS\nA) Tamizaje de ITS es pertinente, pero no sustituye protección y referencia; un kit postexposición inmediato no corresponde automáticamente a una gestación de 38 semanas.\nB) Correcta: activar protección, autoridades según ley y referencia materno-neonatal.\nC) Educación sola es insuficiente frente a posible delito y riesgo obstétrico.\nD) Culpar a progenitores sin investigación vulnera un enfoque centrado en la víctima.\n\nNORMATIVA Y REFERENCIAS\nCódigo Penal peruano, artículo 173 y disposiciones vigentes sobre violación sexual de menor de edad.\nMINSA, protocolos de atención integral de víctimas de violencia sexual y salud materna.\nMIMP, rutas de protección de niñas, niños y adolescentes.\n\nTRAMPAS\nLa frase 'relaciones voluntarias' no neutraliza protección legal por edad.\nNo confundir medidas de protección inmediatas con tratamiento profiláctico por exposición reciente.\nLa referencia obstétrica y protección deben coordinarse, no competir.\n\nMNEMOTECNIA\nMENOR DE 14 + GESTACIÓN → PROTEGER Y REFERIR.\n\nREPASO ACTIVO\nRespuesta: B. Comunicar a las autoridades, activar código violeta y referencia hospitalaria\nMENOR DE 14 + GESTACIÓN → PROTEGER Y REFERIR.\nLa frase 'relaciones voluntarias' no neutraliza protección legal por edad.\nNo confundir medidas de protección inmediatas con tratamiento profiláctico por exposición reciente.\nLa referencia obstétrica y protección deben coordinarse, no competir.\n\nCASOS DE REFUERZO\n1. Gestante de 13 años revela relación con adulto. Conducta prioritaria?\nA) Reprenderla\nB) Dar solo consejería anticonceptiva\nC) Esperar parto sin comunicación\nD) Activar protección y atención obstétrica\nE) Publicar identidad\nClave D. Requiere protección jurídica y médica simultánea.\n\n2. Adolescente de 13 años teme regresar a casa por amenaza. ¿Qué hacer?\nA) Entregar datos al agresor\nB) Valorar seguridad y coordinar protección\nC) Restar importancia\nD) Cerrar historia\nE) Exigir confrontación\nClave B. La seguridad y no revictimización son esenciales."
+        }
+      }
+    },
+    {
+      "number": 49,
+      "question": "El jefe del puesto de salud acudió a la reunión convocada por el municipio para empadronamiento y evaluación sanitaria de los drogadictos que pernoctan a las afueras de la ciudad y que han ido en aumento. Este hábito negativo para la salud, está dentro del grupo de determinantes:",
+      "options": {
+        "A": "Biológicos",
+        "B": "Genéticos",
+        "C": "Ambientales",
+        "D": "Asistenciales"
+      },
+      "correct": "C",
+      "code": "ENCAPS26-I P049",
+      "course": "ENCAPS Medicina 2026-I · Temario desarrollado",
+      "topic": "Determinantes de la salud: hábitos, entorno y clasificación del examen",
+      "comment": "CLAVE RAZONADA — SIN COTEJO INDEPENDIENTE DE TABLA OFICIAL\nC. Ambientales\n\nRAZONAMIENTO COMPLETO\nLa pregunta agrupa consumo de sustancias y condiciones de vida en calle entre determinantes. De las alternativas disponibles, 'ambientales' parece ser la respuesta pretendida por las exposiciones y el entorno social donde se presenta el problema. No obstante, en modelos clásicos de Lalonde, el consumo de drogas como conducta corresponde más propiamente al componente 'estilo de vida', que no figura entre las opciones. Por tanto el ítem es ambiguo y la clave C es una interpretación pendiente de cotejo oficial.\n\nDESARROLLO DEL TEMARIO\n1. Modelo de Lalonde: biología humana, medio ambiente, estilos de vida y organización de servicios de salud.\n2. Consumo de sustancias como comportamiento de riesgo, con componentes biológicos y sociales.\n3. Situación de calle incrementa barreras de acceso, exposición a violencia y riesgos infecciosos.\n4. Determinantes sociales estructurales incluyen pobreza, exclusión y políticas públicas.\n5. Determinantes ambientales abarcan condiciones físicas y sociales de exposición.\n6. Intersectorialidad: municipalidad, salud, servicios sociales y redes comunitarias.\n7. Atención de consumo problemático requiere enfoque no estigmatizante y basado en derechos.\n8. Intervenciones: captación, reducción de daños, evaluación de salud mental, tamizaje y vinculación asistencial.\n9. No confundir factores de riesgo personales con causa única de fenómenos complejos.\n\nANÁLISIS DE ALTERNATIVAS\nA) Biológicos alude a edad, fisiología u otros factores orgánicos, no hábito como definición central.\nB) Genéticos no describen por sí solos conducta y situación de calle.\nC) Interpretación de examen por contexto ambiental-social, pero 'estilo de vida' sería categoría más directa si se ofreciera.\nD) Asistenciales describe acceso y organización de servicios, no el hábito.\n\nNORMATIVA Y REFERENCIAS\nOMS, determinantes sociales de la salud y atención comunitaria de consumos.\nModelo de campos de salud de Lalonde como marco histórico para examen.\n\nTRAMPAS\nCategoría de estilo de vida no está entre opciones: advertir la ambigüedad.\nEvitar etiquetar a las personas con términos peyorativos fuera de la reproducción literal del examen.\nLa adicción es problema de salud complejo, no simple 'vicio'.\n\nMNEMOTECNIA\nLALONDE: BIOLOGÍA, AMBIENTE, ESTILO DE VIDA, SERVICIOS.\n\nREPASO ACTIVO\nRespuesta: C. Ambientales\nLALONDE: BIOLOGÍA, AMBIENTE, ESTILO DE VIDA, SERVICIOS.\nCategoría de estilo de vida no está entre opciones: advertir la ambigüedad.\nEvitar etiquetar a las personas con términos peyorativos fuera de la reproducción literal del examen.\nLa adicción es problema de salud complejo, no simple 'vicio'.\n\nCASOS DE REFUERZO\n1. En el modelo de Lalonde, el consumo habitual de tabaco corresponde principalmente a:\nA) Herencia\nB) Infraestructura hospitalaria\nC) Estilo de vida\nD) Anatomía\nE) Equipo quirúrgico\nClave C. Conducta se clasifica en estilo de vida.\n\n2. Municipio instala puntos de agua y refugio para personas en calle. ¿Qué modifica?\nA) Genotipo\nB) Grupo sanguíneo\nC) Anatomía\nD) Determinantes ambientales y sociales\nE) Citogenética\nClave D. Mejora condiciones del entorno.",
+      "pearl": "LALONDE: BIOLOGÍA, AMBIENTE, ESTILO DE VIDA, SERVICIOS.",
+      "keywords": [
+        "Determinantes de la salud: hábitos, entorno y clasificación del examen",
+        "ENCAPS Medicina 2026-I",
+        "SERUMS MINSA"
+      ],
+      "estadoDesarrollo": "completo",
+      "estadoClave": "ambigua_pendiente_clave_oficial",
+      "lesson": {
+        "respuesta_resumida": "C. Ambientales",
+        "razonamiento": "La pregunta agrupa consumo de sustancias y condiciones de vida en calle entre determinantes. De las alternativas disponibles, 'ambientales' parece ser la respuesta pretendida por las exposiciones y el entorno social donde se presenta el problema. No obstante, en modelos clásicos de Lalonde, el consumo de drogas como conducta corresponde más propiamente al componente 'estilo de vida', que no figura entre las opciones. Por tanto el ítem es ambiguo y la clave C es una interpretación pendiente de cotejo oficial.",
+        "temario": [
+          "Modelo de Lalonde: biología humana, medio ambiente, estilos de vida y organización de servicios de salud.",
+          "Consumo de sustancias como comportamiento de riesgo, con componentes biológicos y sociales.",
+          "Situación de calle incrementa barreras de acceso, exposición a violencia y riesgos infecciosos.",
+          "Determinantes sociales estructurales incluyen pobreza, exclusión y políticas públicas.",
+          "Determinantes ambientales abarcan condiciones físicas y sociales de exposición.",
+          "Intersectorialidad: municipalidad, salud, servicios sociales y redes comunitarias.",
+          "Atención de consumo problemático requiere enfoque no estigmatizante y basado en derechos.",
+          "Intervenciones: captación, reducción de daños, evaluación de salud mental, tamizaje y vinculación asistencial.",
+          "No confundir factores de riesgo personales con causa única de fenómenos complejos."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Biológicos alude a edad, fisiología u otros factores orgánicos, no hábito como definición central.",
+          "B": "Genéticos no describen por sí solos conducta y situación de calle.",
+          "C": "Interpretación de examen por contexto ambiental-social, pero 'estilo de vida' sería categoría más directa si se ofreciera.",
+          "D": "Asistenciales describe acceso y organización de servicios, no el hábito."
+        },
+        "normativa": [
+          "OMS, determinantes sociales de la salud y atención comunitaria de consumos.",
+          "Modelo de campos de salud de Lalonde como marco histórico para examen."
+        ],
+        "mnemotecnia": "LALONDE: BIOLOGÍA, AMBIENTE, ESTILO DE VIDA, SERVICIOS.",
+        "trampas": [
+          "Categoría de estilo de vida no está entre opciones: advertir la ambigüedad.",
+          "Evitar etiquetar a las personas con términos peyorativos fuera de la reproducción literal del examen.",
+          "La adicción es problema de salud complejo, no simple 'vicio'."
+        ],
+        "perla": "LALONDE: BIOLOGÍA, AMBIENTE, ESTILO DE VIDA, SERVICIOS.",
+        "repaso_activo": [
+          "Respuesta: C. Ambientales",
+          "LALONDE: BIOLOGÍA, AMBIENTE, ESTILO DE VIDA, SERVICIOS.",
+          "Categoría de estilo de vida no está entre opciones: advertir la ambigüedad.",
+          "Evitar etiquetar a las personas con términos peyorativos fuera de la reproducción literal del examen.",
+          "La adicción es problema de salud complejo, no simple 'vicio'."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "En el modelo de Lalonde, el consumo habitual de tabaco corresponde principalmente a:",
+            "alternativas": {
+              "A": "Herencia",
+              "B": "Infraestructura hospitalaria",
+              "C": "Estilo de vida",
+              "D": "Anatomía",
+              "E": "Equipo quirúrgico"
+            },
+            "respuesta": "C",
+            "explicacion": "Conducta se clasifica en estilo de vida."
+          },
+          {
+            "enunciado": "Municipio instala puntos de agua y refugio para personas en calle. ¿Qué modifica?",
+            "alternativas": {
+              "A": "Genotipo",
+              "B": "Grupo sanguíneo",
+              "C": "Anatomía",
+              "D": "Determinantes ambientales y sociales",
+              "E": "Citogenética"
+            },
+            "respuesta": "D",
+            "explicacion": "Mejora condiciones del entorno."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Determinantes de la salud: hábitos, entorno y clasificación del examen",
+          "desarrollo": "CLAVE RAZONADA — SIN COTEJO INDEPENDIENTE DE TABLA OFICIAL\nC. Ambientales\n\nRAZONAMIENTO COMPLETO\nLa pregunta agrupa consumo de sustancias y condiciones de vida en calle entre determinantes. De las alternativas disponibles, 'ambientales' parece ser la respuesta pretendida por las exposiciones y el entorno social donde se presenta el problema. No obstante, en modelos clásicos de Lalonde, el consumo de drogas como conducta corresponde más propiamente al componente 'estilo de vida', que no figura entre las opciones. Por tanto el ítem es ambiguo y la clave C es una interpretación pendiente de cotejo oficial.\n\nDESARROLLO DEL TEMARIO\n1. Modelo de Lalonde: biología humana, medio ambiente, estilos de vida y organización de servicios de salud.\n2. Consumo de sustancias como comportamiento de riesgo, con componentes biológicos y sociales.\n3. Situación de calle incrementa barreras de acceso, exposición a violencia y riesgos infecciosos.\n4. Determinantes sociales estructurales incluyen pobreza, exclusión y políticas públicas.\n5. Determinantes ambientales abarcan condiciones físicas y sociales de exposición.\n6. Intersectorialidad: municipalidad, salud, servicios sociales y redes comunitarias.\n7. Atención de consumo problemático requiere enfoque no estigmatizante y basado en derechos.\n8. Intervenciones: captación, reducción de daños, evaluación de salud mental, tamizaje y vinculación asistencial.\n9. No confundir factores de riesgo personales con causa única de fenómenos complejos.\n\nANÁLISIS DE ALTERNATIVAS\nA) Biológicos alude a edad, fisiología u otros factores orgánicos, no hábito como definición central.\nB) Genéticos no describen por sí solos conducta y situación de calle.\nC) Interpretación de examen por contexto ambiental-social, pero 'estilo de vida' sería categoría más directa si se ofreciera.\nD) Asistenciales describe acceso y organización de servicios, no el hábito.\n\nNORMATIVA Y REFERENCIAS\nOMS, determinantes sociales de la salud y atención comunitaria de consumos.\nModelo de campos de salud de Lalonde como marco histórico para examen.\n\nTRAMPAS\nCategoría de estilo de vida no está entre opciones: advertir la ambigüedad.\nEvitar etiquetar a las personas con términos peyorativos fuera de la reproducción literal del examen.\nLa adicción es problema de salud complejo, no simple 'vicio'.\n\nMNEMOTECNIA\nLALONDE: BIOLOGÍA, AMBIENTE, ESTILO DE VIDA, SERVICIOS.\n\nREPASO ACTIVO\nRespuesta: C. Ambientales\nLALONDE: BIOLOGÍA, AMBIENTE, ESTILO DE VIDA, SERVICIOS.\nCategoría de estilo de vida no está entre opciones: advertir la ambigüedad.\nEvitar etiquetar a las personas con términos peyorativos fuera de la reproducción literal del examen.\nLa adicción es problema de salud complejo, no simple 'vicio'.\n\nCASOS DE REFUERZO\n1. En el modelo de Lalonde, el consumo habitual de tabaco corresponde principalmente a:\nA) Herencia\nB) Infraestructura hospitalaria\nC) Estilo de vida\nD) Anatomía\nE) Equipo quirúrgico\nClave C. Conducta se clasifica en estilo de vida.\n\n2. Municipio instala puntos de agua y refugio para personas en calle. ¿Qué modifica?\nA) Genotipo\nB) Grupo sanguíneo\nC) Anatomía\nD) Determinantes ambientales y sociales\nE) Citogenética\nClave D. Mejora condiciones del entorno."
+        }
+      }
+    },
+    {
+      "number": 50,
+      "question": "La inducción inicial, así como los cursos recibidos durante su SERUMS en el marco del \"desarrollo y capacitación de recursos humanos\" organizada por la Gerencia Regional de Salud. ¿A qué aspecto de la salud pública corresponde?",
+      "options": {
+        "A": "Función esencial",
+        "B": "Desarrollo de políticas",
+        "C": "Transición epidemiológica",
+        "D": "Rendimiento de personal"
+      },
+      "correct": "A",
+      "code": "ENCAPS26-I P050",
+      "course": "ENCAPS Medicina 2026-I · Temario desarrollado",
+      "topic": "Funciones esenciales de salud pública: desarrollo de recursos humanos",
+      "comment": "CLAVE RAZONADA — SIN COTEJO INDEPENDIENTE DE TABLA OFICIAL\nA. Función esencial\n\nRAZONAMIENTO COMPLETO\nEl desarrollo de recursos humanos y la formación de capacidades para la salud pública es una de las funciones esenciales tradicionalmente enumeradas en los marcos de FESP. La inducción y capacitación forman parte de fortalecer el talento humano para que los servicios respondan adecuadamente a las necesidades poblacionales.\n\nDESARROLLO DEL TEMARIO\n1. Funciones esenciales de salud pública permiten evaluar capacidades institucionales de salud colectiva.\n2. Marco histórico OPS incluye desarrollo y capacitación de recursos humanos en salud pública.\n3. El marco renovado enfatiza capacidades institucionales, recursos humanos, políticas y acceso.\n4. Inducción laboral transmite funciones, procedimientos, bioseguridad y cultura organizacional.\n5. Educación continua actualiza competencias clínicas y de vigilancia.\n6. La capacitación ha de responder a brechas detectadas y necesidades de población.\n7. Evaluación de competencias no se reduce a asistencia a cursos.\n8. Diferencia entre capacitación como función del sistema y desempeño individual.\n9. La articulación regional y local permite respuestas coordinadas de salud pública.\n\nANÁLISIS DE ALTERNATIVAS\nA) Correcta: desarrollo y formación de personal como función esencial de salud pública.\nB) Desarrollo de políticas constituye otro proceso, no el que se pregunta.\nC) Transición epidemiológica es cambio en patrones de enfermedad y mortalidad poblacional.\nD) Rendimiento personal es resultado potencial, no nombre de función esencial.\n\nNORMATIVA Y REFERENCIAS\nOPS, Las funciones esenciales de salud pública en las Américas: renovación para el siglo XXI.\nMINSA y GERESA, normas de desarrollo y capacitación de recursos humanos.\n\nTRAMPAS\nNo confundir las once FESP históricas con categorías del marco renovado.\nCapacitar no es idéntico a medir desempeño.\nInducción y actualización son formas de desarrollo de capacidades.\n\nMNEMOTECNIA\nFESP = FORTALECER EQUIPOS DE SALUD PÚBLICA.\n\nREPASO ACTIVO\nRespuesta: A. Función esencial\nFESP = FORTALECER EQUIPOS DE SALUD PÚBLICA.\nNo confundir las once FESP históricas con categorías del marco renovado.\nCapacitar no es idéntico a medir desempeño.\nInducción y actualización son formas de desarrollo de capacidades.\n\nCASOS DE REFUERZO\n1. DIRESA organiza talleres de vigilancia para equipos locales. ¿Qué dimensión FESP?\nA) Solo transición demográfica\nB) Desarrollo de recursos humanos\nC) Solo publicidad\nD) Casos y controles\nE) Curación individual\nClave B. Fortalece competencias del sistema.\n\n2. Aumenta proporción de enfermedades crónicas y descienden infecciosas en décadas. ¿Fenómeno?\nA) FESP de personal\nB) Evaluación de competencias\nC) Referencia\nD) Transición epidemiológica\nE) Rotación de turnos\nClave D. Cambian patrones poblacionales de morbimortalidad.",
+      "pearl": "FESP = FORTALECER EQUIPOS DE SALUD PÚBLICA.",
+      "keywords": [
+        "Funciones esenciales de salud pública: desarrollo de recursos humanos",
+        "ENCAPS Medicina 2026-I",
+        "SERUMS MINSA"
+      ],
+      "estadoDesarrollo": "completo",
+      "estadoClave": "interpretacion_pendiente_cotejo_clave_oficial",
+      "lesson": {
+        "respuesta_resumida": "A. Función esencial",
+        "razonamiento": "El desarrollo de recursos humanos y la formación de capacidades para la salud pública es una de las funciones esenciales tradicionalmente enumeradas en los marcos de FESP. La inducción y capacitación forman parte de fortalecer el talento humano para que los servicios respondan adecuadamente a las necesidades poblacionales.",
+        "temario": [
+          "Funciones esenciales de salud pública permiten evaluar capacidades institucionales de salud colectiva.",
+          "Marco histórico OPS incluye desarrollo y capacitación de recursos humanos en salud pública.",
+          "El marco renovado enfatiza capacidades institucionales, recursos humanos, políticas y acceso.",
+          "Inducción laboral transmite funciones, procedimientos, bioseguridad y cultura organizacional.",
+          "Educación continua actualiza competencias clínicas y de vigilancia.",
+          "La capacitación ha de responder a brechas detectadas y necesidades de población.",
+          "Evaluación de competencias no se reduce a asistencia a cursos.",
+          "Diferencia entre capacitación como función del sistema y desempeño individual.",
+          "La articulación regional y local permite respuestas coordinadas de salud pública."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Correcta: desarrollo y formación de personal como función esencial de salud pública.",
+          "B": "Desarrollo de políticas constituye otro proceso, no el que se pregunta.",
+          "C": "Transición epidemiológica es cambio en patrones de enfermedad y mortalidad poblacional.",
+          "D": "Rendimiento personal es resultado potencial, no nombre de función esencial."
+        },
+        "normativa": [
+          "OPS, Las funciones esenciales de salud pública en las Américas: renovación para el siglo XXI.",
+          "MINSA y GERESA, normas de desarrollo y capacitación de recursos humanos."
+        ],
+        "mnemotecnia": "FESP = FORTALECER EQUIPOS DE SALUD PÚBLICA.",
+        "trampas": [
+          "No confundir las once FESP históricas con categorías del marco renovado.",
+          "Capacitar no es idéntico a medir desempeño.",
+          "Inducción y actualización son formas de desarrollo de capacidades."
+        ],
+        "perla": "FESP = FORTALECER EQUIPOS DE SALUD PÚBLICA.",
+        "repaso_activo": [
+          "Respuesta: A. Función esencial",
+          "FESP = FORTALECER EQUIPOS DE SALUD PÚBLICA.",
+          "No confundir las once FESP históricas con categorías del marco renovado.",
+          "Capacitar no es idéntico a medir desempeño.",
+          "Inducción y actualización son formas de desarrollo de capacidades."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "DIRESA organiza talleres de vigilancia para equipos locales. ¿Qué dimensión FESP?",
+            "alternativas": {
+              "A": "Solo transición demográfica",
+              "B": "Desarrollo de recursos humanos",
+              "C": "Solo publicidad",
+              "D": "Casos y controles",
+              "E": "Curación individual"
+            },
+            "respuesta": "B",
+            "explicacion": "Fortalece competencias del sistema."
+          },
+          {
+            "enunciado": "Aumenta proporción de enfermedades crónicas y descienden infecciosas en décadas. ¿Fenómeno?",
+            "alternativas": {
+              "A": "FESP de personal",
+              "B": "Evaluación de competencias",
+              "C": "Referencia",
+              "D": "Transición epidemiológica",
+              "E": "Rotación de turnos"
+            },
+            "respuesta": "D",
+            "explicacion": "Cambian patrones poblacionales de morbimortalidad."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Funciones esenciales de salud pública: desarrollo de recursos humanos",
+          "desarrollo": "CLAVE RAZONADA — SIN COTEJO INDEPENDIENTE DE TABLA OFICIAL\nA. Función esencial\n\nRAZONAMIENTO COMPLETO\nEl desarrollo de recursos humanos y la formación de capacidades para la salud pública es una de las funciones esenciales tradicionalmente enumeradas en los marcos de FESP. La inducción y capacitación forman parte de fortalecer el talento humano para que los servicios respondan adecuadamente a las necesidades poblacionales.\n\nDESARROLLO DEL TEMARIO\n1. Funciones esenciales de salud pública permiten evaluar capacidades institucionales de salud colectiva.\n2. Marco histórico OPS incluye desarrollo y capacitación de recursos humanos en salud pública.\n3. El marco renovado enfatiza capacidades institucionales, recursos humanos, políticas y acceso.\n4. Inducción laboral transmite funciones, procedimientos, bioseguridad y cultura organizacional.\n5. Educación continua actualiza competencias clínicas y de vigilancia.\n6. La capacitación ha de responder a brechas detectadas y necesidades de población.\n7. Evaluación de competencias no se reduce a asistencia a cursos.\n8. Diferencia entre capacitación como función del sistema y desempeño individual.\n9. La articulación regional y local permite respuestas coordinadas de salud pública.\n\nANÁLISIS DE ALTERNATIVAS\nA) Correcta: desarrollo y formación de personal como función esencial de salud pública.\nB) Desarrollo de políticas constituye otro proceso, no el que se pregunta.\nC) Transición epidemiológica es cambio en patrones de enfermedad y mortalidad poblacional.\nD) Rendimiento personal es resultado potencial, no nombre de función esencial.\n\nNORMATIVA Y REFERENCIAS\nOPS, Las funciones esenciales de salud pública en las Américas: renovación para el siglo XXI.\nMINSA y GERESA, normas de desarrollo y capacitación de recursos humanos.\n\nTRAMPAS\nNo confundir las once FESP históricas con categorías del marco renovado.\nCapacitar no es idéntico a medir desempeño.\nInducción y actualización son formas de desarrollo de capacidades.\n\nMNEMOTECNIA\nFESP = FORTALECER EQUIPOS DE SALUD PÚBLICA.\n\nREPASO ACTIVO\nRespuesta: A. Función esencial\nFESP = FORTALECER EQUIPOS DE SALUD PÚBLICA.\nNo confundir las once FESP históricas con categorías del marco renovado.\nCapacitar no es idéntico a medir desempeño.\nInducción y actualización son formas de desarrollo de capacidades.\n\nCASOS DE REFUERZO\n1. DIRESA organiza talleres de vigilancia para equipos locales. ¿Qué dimensión FESP?\nA) Solo transición demográfica\nB) Desarrollo de recursos humanos\nC) Solo publicidad\nD) Casos y controles\nE) Curación individual\nClave B. Fortalece competencias del sistema.\n\n2. Aumenta proporción de enfermedades crónicas y descienden infecciosas en décadas. ¿Fenómeno?\nA) FESP de personal\nB) Evaluación de competencias\nC) Referencia\nD) Transición epidemiológica\nE) Rotación de turnos\nClave D. Cambian patrones poblacionales de morbimortalidad."
         }
       }
     }
