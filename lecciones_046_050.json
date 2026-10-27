@@ -1,0 +1,834 @@
+{
+  "schemaVersion": 1,
+  "bankId": "ENCAPS_2026_II",
+  "source": "Cuadernillo Medicina SERUMS 2026-II, 09/08/2026; desarrollo contrastado con MINSA, MIDIS, MTPE, NCBI y normas peruanas",
+  "note": "Claves del PDF no cotejadas contra tabla oficial. Advertencia técnica en P50: riesgo laboral no exige contrato formal vigente. Se preservan códigos y alternativas.",
+  "questions": [
+    {
+      "number": 46,
+      "code": "ENCAPS26-II P046",
+      "course": "Salud del adulto mayor · VACAM",
+      "topic": "VACAM corta en primer nivel: I-2, I-3 e I-4",
+      "comment": "Clave histórica resaltada en PDF, sin cotejo independiente con tabla oficial: C. I-2, I-3 y I-4. Son las categorías para la valoración clínica corta de personas adultas mayores por un profesional capacitado, según la NTS 207-MINSA/DGIESP-2023.\n\nRAZONAMIENTO\nEl enunciado dice «valoración clínica del adulto mayor corta», no evaluación breve ni valoración geriátrica integral (VGI). En la NTS 207 se organiza la valoración según capacidad resolutiva: la VACAM breve se emplea en I-1, la corta en I-2, I-3 e I-4, la VACAM en II-1 y II-2 y una evaluación geriátrica integral más amplia en centros correspondientes de mayor complejidad. La VACAM corta integra componentes funcionales, mentales, nutricionales y sociofamiliares, amplía lo evaluado en la breve e incorpora según formulario evaluación afectiva, fragilidad y problemas geriátricos. No confundir la norma de persona adulta mayor (NTS 207, 2023) con NTS 229 de 2025 para adultos de 30 a 59 años. Como profesional del primer nivel, detectar dependencia, fragilidad y problemas de entorno sirve para definir un plan y referir si se excede la capacidad resolutiva.\n\nDESARROLLO DEL TEMA\nDefinición: la VACAM es una evaluación multidimensional, realizada con entrevista, observación, examen y herramientas apropiadas, para identificar situación funcional y necesidades sanitarias y sociales.\n\nModalidades por categoría de la NTS 207: I-1 VACAM breve; I-2, I-3 e I-4 VACAM corta; II-1 y II-2 VACAM; en categorías correspondientes de mayor complejidad, valoración geriátrica integral.\n\nFuncionalidad: identificar independencia y dificultades en actividades básicas e instrumentales de vida diaria, movilidad, caídas y limitaciones; importa más que la edad cronológica aislada.\n\nValoración mental: tamizaje cognitivo y afectivo orientado a deterioro, confusión, síntomas depresivos y seguridad, con instrumentos según nivel y pertinencia cultural.\n\nEstado nutricional: detectar pérdida de peso, desnutrición, sobrepeso, dificultades alimentarias y factores asociados; relacionarlo con fragilidad y enfermedades crónicas.\n\nEntorno sociofamiliar: apoyo de cuidadores, soledad, maltrato, barreras arquitectónicas, acceso a alimentos y medicamentos, redes de soporte y capacidad para autocuidado.\n\nFragilidad y problemas geriátricos: caídas, polifarmacia, alteraciones sensoriales, incontinencia, inmovilidad y dependencia; iniciar intervenciones y referencia según hallazgos.\n\nPlan individual: acordar medidas preventivas, seguimiento de enfermedades crónicas, funcionalidad, actividad física apropiada, medicamentos y coordinación con familia/red.\n\nNormativa clave: RM N.° 789-2023-MINSA aprueba NTS N.° 207; RM N.° 948-2023-MINSA modifica el subnumeral 5.1. Para examen, no confundir con NTS N.° 229-MINSA/DGIESP-2025 (persona adulta, 30–59 años).\n\nANÁLISIS DE ALTERNATIVAS\nA. II-1 y II-2 corresponden a una VACAM de mayor amplitud; no son las categorías señaladas para la modalidad corta.\nB. III-1, III-2 y III-E son establecimientos de mayor complejidad; el caso busca modalidad corta en el primer nivel.\nC. Correcta. Las categorías I-2, I-3 e I-4 cuentan con profesionales capacitados para aplicar VACAM corta, conforme a la categorización de la NTS 207.\nD. La categoría II-E no corresponde a la clasificación de VACAM corta y puede requerir evaluación de mayor complejidad según organización del servicio.\n\nNORMATIVA Y FUENTES\nNTS N.° 207-MINSA/DGIESP-2023, RM N.° 789-2023-MINSA | https://www.gob.pe/institucion/minsa/normas-legales/4557563-789-2023-minsa | Norma técnica vigente del cuidado integral de la persona adulta mayor, con VACAM por categoría\nRM N.° 948-2023-MINSA | https://www.gob.pe/institucion/minsa/normas-legales/4728882-948-2023-minsa | Modifica el numeral 5.1 de la NTS 207 sobre persona adulta mayor\nMINSA, Manual de Registro y Codificación de la Atención del Adulto Mayor | https://bvs.minsa.gob.pe/local/MINSA/7631.pdf | Operativización y registro HIS de la valoración clínica del adulto mayor\n\nMNEMOTECNIA\nVACAM escala por nivel: I-1 BREVE → I-2/3/4 CORTA → II-1/2 VACAM → MAYOR COMPLEJIDAD VGI.\n\nTRAMPAS\nNo confundir «VACAM corta» con «VACAM breve»: en examen la diferencia está en I-1 frente a I-2/I-3/I-4.\nNTS 207 de 2023 es de adultos MAYORES; NTS 229 de 2025 es de adultos 30–59 años.\nVACAM no equivale a una evaluación aislada de memoria: incluye funcionalidad, nutrición y contexto sociofamiliar.\nLa categoría orienta la modalidad de prestación, no elimina la necesidad de referencia si hay signos de alarma.\n\nPERLA\nSERUMS/276: VACAM CORTA = I-2, I-3 e I-4. Memoriza las modalidades por niveles sin mezclar NTS 207 y NTS 229.",
+      "pearl": "SERUMS/276: VACAM CORTA = I-2, I-3 e I-4. Memoriza las modalidades por niveles sin mezclar NTS 207 y NTS 229.",
+      "keywords": [
+        "Salud del adulto mayor · VACAM",
+        "VACAM corta en primer nivel: I-2, I-3 e I-4",
+        "ENCAPS 2026-II",
+        "MINSA régimen 276"
+      ],
+      "estadoDesarrollo": "completo",
+      "lesson": {
+        "respuesta_resumida": "C. I-2, I-3 y I-4. Son las categorías para la valoración clínica corta de personas adultas mayores por un profesional capacitado, según la NTS 207-MINSA/DGIESP-2023.",
+        "razonamiento": "El enunciado dice «valoración clínica del adulto mayor corta», no evaluación breve ni valoración geriátrica integral (VGI). En la NTS 207 se organiza la valoración según capacidad resolutiva: la VACAM breve se emplea en I-1, la corta en I-2, I-3 e I-4, la VACAM en II-1 y II-2 y una evaluación geriátrica integral más amplia en centros correspondientes de mayor complejidad. La VACAM corta integra componentes funcionales, mentales, nutricionales y sociofamiliares, amplía lo evaluado en la breve e incorpora según formulario evaluación afectiva, fragilidad y problemas geriátricos. No confundir la norma de persona adulta mayor (NTS 207, 2023) con NTS 229 de 2025 para adultos de 30 a 59 años. Como profesional del primer nivel, detectar dependencia, fragilidad y problemas de entorno sirve para definir un plan y referir si se excede la capacidad resolutiva.",
+        "temario": [
+          "Definición: la VACAM es una evaluación multidimensional, realizada con entrevista, observación, examen y herramientas apropiadas, para identificar situación funcional y necesidades sanitarias y sociales.",
+          "Modalidades por categoría de la NTS 207: I-1 VACAM breve; I-2, I-3 e I-4 VACAM corta; II-1 y II-2 VACAM; en categorías correspondientes de mayor complejidad, valoración geriátrica integral.",
+          "Funcionalidad: identificar independencia y dificultades en actividades básicas e instrumentales de vida diaria, movilidad, caídas y limitaciones; importa más que la edad cronológica aislada.",
+          "Valoración mental: tamizaje cognitivo y afectivo orientado a deterioro, confusión, síntomas depresivos y seguridad, con instrumentos según nivel y pertinencia cultural.",
+          "Estado nutricional: detectar pérdida de peso, desnutrición, sobrepeso, dificultades alimentarias y factores asociados; relacionarlo con fragilidad y enfermedades crónicas.",
+          "Entorno sociofamiliar: apoyo de cuidadores, soledad, maltrato, barreras arquitectónicas, acceso a alimentos y medicamentos, redes de soporte y capacidad para autocuidado.",
+          "Fragilidad y problemas geriátricos: caídas, polifarmacia, alteraciones sensoriales, incontinencia, inmovilidad y dependencia; iniciar intervenciones y referencia según hallazgos.",
+          "Plan individual: acordar medidas preventivas, seguimiento de enfermedades crónicas, funcionalidad, actividad física apropiada, medicamentos y coordinación con familia/red.",
+          "Normativa clave: RM N.° 789-2023-MINSA aprueba NTS N.° 207; RM N.° 948-2023-MINSA modifica el subnumeral 5.1. Para examen, no confundir con NTS N.° 229-MINSA/DGIESP-2025 (persona adulta, 30–59 años)."
+        ],
+        "por_que_no_las_otras": {
+          "A": "II-1 y II-2 corresponden a una VACAM de mayor amplitud; no son las categorías señaladas para la modalidad corta.",
+          "B": "III-1, III-2 y III-E son establecimientos de mayor complejidad; el caso busca modalidad corta en el primer nivel.",
+          "C": "Correcta. Las categorías I-2, I-3 e I-4 cuentan con profesionales capacitados para aplicar VACAM corta, conforme a la categorización de la NTS 207.",
+          "D": "La categoría II-E no corresponde a la clasificación de VACAM corta y puede requerir evaluación de mayor complejidad según organización del servicio."
+        },
+        "normativa": [
+          "NTS N.° 207-MINSA/DGIESP-2023, RM N.° 789-2023-MINSA | https://www.gob.pe/institucion/minsa/normas-legales/4557563-789-2023-minsa | Norma técnica vigente del cuidado integral de la persona adulta mayor, con VACAM por categoría",
+          "RM N.° 948-2023-MINSA | https://www.gob.pe/institucion/minsa/normas-legales/4728882-948-2023-minsa | Modifica el numeral 5.1 de la NTS 207 sobre persona adulta mayor",
+          "MINSA, Manual de Registro y Codificación de la Atención del Adulto Mayor | https://bvs.minsa.gob.pe/local/MINSA/7631.pdf | Operativización y registro HIS de la valoración clínica del adulto mayor"
+        ],
+        "mnemotecnia": "VACAM escala por nivel: I-1 BREVE → I-2/3/4 CORTA → II-1/2 VACAM → MAYOR COMPLEJIDAD VGI.",
+        "trampas": [
+          "No confundir «VACAM corta» con «VACAM breve»: en examen la diferencia está en I-1 frente a I-2/I-3/I-4.",
+          "NTS 207 de 2023 es de adultos MAYORES; NTS 229 de 2025 es de adultos 30–59 años.",
+          "VACAM no equivale a una evaluación aislada de memoria: incluye funcionalidad, nutrición y contexto sociofamiliar.",
+          "La categoría orienta la modalidad de prestación, no elimina la necesidad de referencia si hay signos de alarma."
+        ],
+        "perla": "SERUMS/276: VACAM CORTA = I-2, I-3 e I-4. Memoriza las modalidades por niveles sin mezclar NTS 207 y NTS 229.",
+        "repaso_activo": [
+          "¿Dónde se aplica la VACAM breve? — En I-1, conforme a la modalidad de valoración prevista para su personal.",
+          "¿Dónde corresponde VACAM corta? — En I-2, I-3 e I-4.",
+          "¿Qué cuatro componentes examina de manera integrada? — Funcional, mental, nutricional y sociofamiliar.",
+          "¿Cuál es la NTS de persona adulta mayor? — NTS 207-MINSA/DGIESP-2023, aprobada por RM 789-2023-MINSA."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "En un centro I-3, una enfermera capacitada debe clasificar funcionalidad, estado cognitivo, nutrición y fragilidad de un varón de 73 años. ¿Qué modalidad corresponde prioritariamente según categoría?",
+            "alternativas": {
+              "A": "Valoración geriátrica integral del tercer nivel",
+              "B": "VACAM breve restringida a una exploración social",
+              "C": "VACAM hospitalaria con batería completa",
+              "D": "Evaluación geriátrica de servicios especializados",
+              "E": "Valoración clínica del adulto mayor corta"
+            },
+            "respuesta": "E",
+            "explicacion": "En I-2, I-3 e I-4 corresponde la modalidad VACAM corta."
+          },
+          {
+            "enunciado": "Un puesto I-1 dispone solamente de personal técnico asistencial capacitado y requiere valoración inicial de una persona mayor. ¿Qué modalidad está prevista para ese nivel?",
+            "alternativas": {
+              "A": "VACAM corta con las escalas completas de II-1",
+              "B": "VACAM breve de la persona adulta mayor",
+              "C": "Valoración geriátrica integral especializada",
+              "D": "VACAM hospitalaria de segundo nivel",
+              "E": "Tamizaje clínico basado exclusivamente en edad"
+            },
+            "respuesta": "B",
+            "explicacion": "En I-1 la norma contempla la modalidad breve con personal capacitado, de acuerdo con la capacidad resolutiva."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "VACAM corta en primer nivel: I-2, I-3 e I-4",
+          "eje": "Salud del adulto mayor · VACAM",
+          "confiabilidad": "clave_resaltada_fundamento_concordante",
+          "respuesta_resumida": "C. I-2, I-3 y I-4. Son las categorías para la valoración clínica corta de personas adultas mayores por un profesional capacitado, según la NTS 207-MINSA/DGIESP-2023.",
+          "razonamiento": [
+            "El enunciado dice «valoración clínica del adulto mayor corta», no evaluación breve ni valoración geriátrica integral (VGI). En la NTS 207 se organiza la valoración según capacidad resolutiva: la VACAM breve se emplea en I-1, la corta en I-2, I-3 e I-4, la VACAM en II-1 y II-2 y una evaluación geriátrica integral más amplia en centros correspondientes de mayor complejidad. La VACAM corta integra componentes funcionales, mentales, nutricionales y sociofamiliares, amplía lo evaluado en la breve e incorpora según formulario evaluación afectiva, fragilidad y problemas geriátricos. No confundir la norma de persona adulta mayor (NTS 207, 2023) con NTS 229 de 2025 para adultos de 30 a 59 años. Como profesional del primer nivel, detectar dependencia, fragilidad y problemas de entorno sirve para definir un plan y referir si se excede la capacidad resolutiva."
+          ],
+          "temario": [
+            "Definición: la VACAM es una evaluación multidimensional, realizada con entrevista, observación, examen y herramientas apropiadas, para identificar situación funcional y necesidades sanitarias y sociales.",
+            "Modalidades por categoría de la NTS 207: I-1 VACAM breve; I-2, I-3 e I-4 VACAM corta; II-1 y II-2 VACAM; en categorías correspondientes de mayor complejidad, valoración geriátrica integral.",
+            "Funcionalidad: identificar independencia y dificultades en actividades básicas e instrumentales de vida diaria, movilidad, caídas y limitaciones; importa más que la edad cronológica aislada.",
+            "Valoración mental: tamizaje cognitivo y afectivo orientado a deterioro, confusión, síntomas depresivos y seguridad, con instrumentos según nivel y pertinencia cultural.",
+            "Estado nutricional: detectar pérdida de peso, desnutrición, sobrepeso, dificultades alimentarias y factores asociados; relacionarlo con fragilidad y enfermedades crónicas.",
+            "Entorno sociofamiliar: apoyo de cuidadores, soledad, maltrato, barreras arquitectónicas, acceso a alimentos y medicamentos, redes de soporte y capacidad para autocuidado.",
+            "Fragilidad y problemas geriátricos: caídas, polifarmacia, alteraciones sensoriales, incontinencia, inmovilidad y dependencia; iniciar intervenciones y referencia según hallazgos.",
+            "Plan individual: acordar medidas preventivas, seguimiento de enfermedades crónicas, funcionalidad, actividad física apropiada, medicamentos y coordinación con familia/red.",
+            "Normativa clave: RM N.° 789-2023-MINSA aprueba NTS N.° 207; RM N.° 948-2023-MINSA modifica el subnumeral 5.1. Para examen, no confundir con NTS N.° 229-MINSA/DGIESP-2025 (persona adulta, 30–59 años)."
+          ],
+          "distractores": {
+            "A": "II-1 y II-2 corresponden a una VACAM de mayor amplitud; no son las categorías señaladas para la modalidad corta.",
+            "B": "III-1, III-2 y III-E son establecimientos de mayor complejidad; el caso busca modalidad corta en el primer nivel.",
+            "C": "Correcta. Las categorías I-2, I-3 e I-4 cuentan con profesionales capacitados para aplicar VACAM corta, conforme a la categorización de la NTS 207.",
+            "D": "La categoría II-E no corresponde a la clasificación de VACAM corta y puede requerir evaluación de mayor complejidad según organización del servicio."
+          },
+          "normativa": [
+            {
+              "nombre": "NTS N.° 207-MINSA/DGIESP-2023, RM N.° 789-2023-MINSA",
+              "url": "https://www.gob.pe/institucion/minsa/normas-legales/4557563-789-2023-minsa",
+              "aplicacion": "Norma técnica vigente del cuidado integral de la persona adulta mayor, con VACAM por categoría"
+            },
+            {
+              "nombre": "RM N.° 948-2023-MINSA",
+              "url": "https://www.gob.pe/institucion/minsa/normas-legales/4728882-948-2023-minsa",
+              "aplicacion": "Modifica el numeral 5.1 de la NTS 207 sobre persona adulta mayor"
+            },
+            {
+              "nombre": "MINSA, Manual de Registro y Codificación de la Atención del Adulto Mayor",
+              "url": "https://bvs.minsa.gob.pe/local/MINSA/7631.pdf",
+              "aplicacion": "Operativización y registro HIS de la valoración clínica del adulto mayor"
+            }
+          ],
+          "mnemotecnia": "VACAM escala por nivel: I-1 BREVE → I-2/3/4 CORTA → II-1/2 VACAM → MAYOR COMPLEJIDAD VGI.",
+          "trampas": [
+            "No confundir «VACAM corta» con «VACAM breve»: en examen la diferencia está en I-1 frente a I-2/I-3/I-4.",
+            "NTS 207 de 2023 es de adultos MAYORES; NTS 229 de 2025 es de adultos 30–59 años.",
+            "VACAM no equivale a una evaluación aislada de memoria: incluye funcionalidad, nutrición y contexto sociofamiliar.",
+            "La categoría orienta la modalidad de prestación, no elimina la necesidad de referencia si hay signos de alarma."
+          ],
+          "perla": "SERUMS/276: VACAM CORTA = I-2, I-3 e I-4. Memoriza las modalidades por niveles sin mezclar NTS 207 y NTS 229.",
+          "repaso_activo": [
+            "¿Dónde se aplica la VACAM breve? — En I-1, conforme a la modalidad de valoración prevista para su personal.",
+            "¿Dónde corresponde VACAM corta? — En I-2, I-3 e I-4.",
+            "¿Qué cuatro componentes examina de manera integrada? — Funcional, mental, nutricional y sociofamiliar.",
+            "¿Cuál es la NTS de persona adulta mayor? — NTS 207-MINSA/DGIESP-2023, aprobada por RM 789-2023-MINSA."
+          ],
+          "refuerzo": [
+            {
+              "enunciado": "En un centro I-3, una enfermera capacitada debe clasificar funcionalidad, estado cognitivo, nutrición y fragilidad de un varón de 73 años. ¿Qué modalidad corresponde prioritariamente según categoría?",
+              "alternativas": {
+                "A": "Valoración geriátrica integral del tercer nivel",
+                "B": "VACAM breve restringida a una exploración social",
+                "C": "VACAM hospitalaria con batería completa",
+                "D": "Evaluación geriátrica de servicios especializados",
+                "E": "Valoración clínica del adulto mayor corta"
+              },
+              "respuesta": "E",
+              "explicacion": "En I-2, I-3 e I-4 corresponde la modalidad VACAM corta."
+            },
+            {
+              "enunciado": "Un puesto I-1 dispone solamente de personal técnico asistencial capacitado y requiere valoración inicial de una persona mayor. ¿Qué modalidad está prevista para ese nivel?",
+              "alternativas": {
+                "A": "VACAM corta con las escalas completas de II-1",
+                "B": "VACAM breve de la persona adulta mayor",
+                "C": "Valoración geriátrica integral especializada",
+                "D": "VACAM hospitalaria de segundo nivel",
+                "E": "Tamizaje clínico basado exclusivamente en edad"
+              },
+              "respuesta": "B",
+              "explicacion": "En I-1 la norma contempla la modalidad breve con personal capacitado, de acuerdo con la capacidad resolutiva."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "number": 47,
+      "code": "ENCAPS26-II P047",
+      "course": "Anemia materno-infantil · gestión sanitaria",
+      "topic": "Articulación intersectorial contra la anemia",
+      "comment": "Clave histórica resaltada en PDF, sin cotejo independiente con tabla oficial: D. Intersectorial. La anemia es multicausal y requiere intervenciones coordinadas entre distintos sectores gubernamentales y actores territoriales.\n\nRAZONAMIENTO\nLa pregunta enumera Salud, Educación, Vivienda, Agricultura, Producción, Cultura y Transporte para evidenciar actuaciones de sectores distintos, cada uno desde sus competencias. La articulación por definición es intersectorial. En Perú el DS N.° 002-2024-SA aprobó el Plan Multisectorial de Prevención y Reducción de la Anemia Materno Infantil 2024–2030. El manejo sanitario (tamizaje, prevención y tratamiento) no aborda por sí solo pobreza, alimentación, agua segura y saneamiento, educación y seguridad alimentaria. Por ello se articulan intervenciones y presupuestos, y se monitorean resultados territoriales. El enunciado recuerda también formulaciones de planes previos; distinguir fechas de versiones en examen.\n\nDESARROLLO DEL TEMA\nEnfoque de determinantes: anemia infantil se vincula a ingesta insuficiente de hierro biodisponible, pérdidas o infecciones, condiciones maternoinfantiles y barreras socioeconómicas.\n\nIntersectorial: Salud, Educación, Vivienda, Agricultura y otros sectores trabajan sobre objetivos comunes con responsabilidades sectoriales diferenciadas.\n\nIntergubernamental: coordinación entre gobierno nacional, regional y local; se diferencia de intersectorial, aunque ambos ocurren simultáneamente.\n\nSalud: control prenatal y crecimiento y desarrollo, detección, suplementación o tratamiento con hierro según edad/condición, adherencia, registro y seguimiento.\n\nEducación y comunicación: alfabetización alimentaria, comprensión de indicaciones y cambios sostenidos de prácticas nutricionales en familia y escuela.\n\nProducción y agricultura: disponibilidad y acceso a fuentes de hierro como carnes, sangrecita, vísceras y alternativas apropiadas según entorno; disponibilidad y seguridad alimentaria.\n\nVivienda y saneamiento: acceso a agua segura y reducción de infecciones que agravan problemas nutricionales; reconocer determinantes que requieren gestión fuera del EESS.\n\nGestión territorial: identificación de población con barreras de acceso, articulación con municipios y agentes comunitarios, visitas y monitoreo.\n\nNormativa: DS N.° 002-2024-SA aprobó Plan Multisectorial 2024–2030; revisar los instrumentos vigentes además de planes anteriores citados en exámenes.\n\nANÁLISIS DE ALTERNATIVAS\nA. «Institucional» puede describir trabajo dentro de una entidad, pero no refleja actuación coordinada de ministerios de sectores diferentes.\nB. «Intercultural» se refiere a pertinencia y diálogo cultural; es transversal y valioso, pero no denomina la coordinación entre ministerios.\nC. «Internacional» exigiría coordinación entre países o instituciones supranacionales; el caso se sitúa en sectores nacionales.\nD. Correcta: se coordinan políticas y acciones de varios sectores para afrontar múltiples determinantes de la anemia.\n\nNORMATIVA Y FUENTES\nDS N.° 002-2024-SA, Plan Multisectorial de Prevención y Reducción de la Anemia Materno Infantil 2024–2030 | https://www.gob.pe/institucion/minsa/normas-legales/5093832-002-2024-sa | Articulación y acciones sobre determinantes sociales de anemia\nMIDIS, Plan Multisectorial de Lucha contra la Anemia | https://www.gob.pe/institucion/midis/informes-publicaciones/272499-plan-multisectorial-de-lucha-contra-la-anemia | Responsabilidades sectoriales de salud, producción, vivienda, educación y agricultura\nMINSA, balance de acciones intersectoriales para reducir anemia | https://www.gob.pe/institucion/minsa/noticias/1011424-minsa-implementacion-de-acciones-intersectoriales-permite-importante-reduccion-de-anemia-en-ninas-y-ninos-menores-de-36-meses | Integración de intervenciones y coordinación con gobiernos locales\n\nMNEMOTECNIA\nANEMIA = SALUD trata + EDUCACIÓN enseña + AGRICULTURA/PRODUCCIÓN alimentan + VIVIENDA asegura agua. ESO ES INTERSECTORIAL.\n\nTRAMPAS\nMultisectorial e intersectorial se parecen; en el ítem la articulación que conecta sectores es intersectorial.\nIntergubernamental se refiere a niveles de gobierno y no debe confundirse con intersectorial.\nLa reducción de anemia requiere abordar causas nutricionales, infecciosas y sociales; no solo prescribir hierro.\nLos parámetros de suplementación dependen de edad y norma técnica: no generalizar una dosis única a toda la población.\n\nPERLA\nVarios MINISTERIOS con un objetivo sanitario = ARTICULACIÓN INTERSECTORIAL. Varios NIVELES DE GOBIERNO = INTERGUBERNAMENTAL.",
+      "pearl": "Varios MINISTERIOS con un objetivo sanitario = ARTICULACIÓN INTERSECTORIAL. Varios NIVELES DE GOBIERNO = INTERGUBERNAMENTAL.",
+      "keywords": [
+        "Anemia materno-infantil · gestión sanitaria",
+        "Articulación intersectorial contra la anemia",
+        "ENCAPS 2026-II",
+        "MINSA régimen 276"
+      ],
+      "estadoDesarrollo": "completo",
+      "lesson": {
+        "respuesta_resumida": "D. Intersectorial. La anemia es multicausal y requiere intervenciones coordinadas entre distintos sectores gubernamentales y actores territoriales.",
+        "razonamiento": "La pregunta enumera Salud, Educación, Vivienda, Agricultura, Producción, Cultura y Transporte para evidenciar actuaciones de sectores distintos, cada uno desde sus competencias. La articulación por definición es intersectorial. En Perú el DS N.° 002-2024-SA aprobó el Plan Multisectorial de Prevención y Reducción de la Anemia Materno Infantil 2024–2030. El manejo sanitario (tamizaje, prevención y tratamiento) no aborda por sí solo pobreza, alimentación, agua segura y saneamiento, educación y seguridad alimentaria. Por ello se articulan intervenciones y presupuestos, y se monitorean resultados territoriales. El enunciado recuerda también formulaciones de planes previos; distinguir fechas de versiones en examen.",
+        "temario": [
+          "Enfoque de determinantes: anemia infantil se vincula a ingesta insuficiente de hierro biodisponible, pérdidas o infecciones, condiciones maternoinfantiles y barreras socioeconómicas.",
+          "Intersectorial: Salud, Educación, Vivienda, Agricultura y otros sectores trabajan sobre objetivos comunes con responsabilidades sectoriales diferenciadas.",
+          "Intergubernamental: coordinación entre gobierno nacional, regional y local; se diferencia de intersectorial, aunque ambos ocurren simultáneamente.",
+          "Salud: control prenatal y crecimiento y desarrollo, detección, suplementación o tratamiento con hierro según edad/condición, adherencia, registro y seguimiento.",
+          "Educación y comunicación: alfabetización alimentaria, comprensión de indicaciones y cambios sostenidos de prácticas nutricionales en familia y escuela.",
+          "Producción y agricultura: disponibilidad y acceso a fuentes de hierro como carnes, sangrecita, vísceras y alternativas apropiadas según entorno; disponibilidad y seguridad alimentaria.",
+          "Vivienda y saneamiento: acceso a agua segura y reducción de infecciones que agravan problemas nutricionales; reconocer determinantes que requieren gestión fuera del EESS.",
+          "Gestión territorial: identificación de población con barreras de acceso, articulación con municipios y agentes comunitarios, visitas y monitoreo.",
+          "Normativa: DS N.° 002-2024-SA aprobó Plan Multisectorial 2024–2030; revisar los instrumentos vigentes además de planes anteriores citados en exámenes."
+        ],
+        "por_que_no_las_otras": {
+          "A": "«Institucional» puede describir trabajo dentro de una entidad, pero no refleja actuación coordinada de ministerios de sectores diferentes.",
+          "B": "«Intercultural» se refiere a pertinencia y diálogo cultural; es transversal y valioso, pero no denomina la coordinación entre ministerios.",
+          "C": "«Internacional» exigiría coordinación entre países o instituciones supranacionales; el caso se sitúa en sectores nacionales.",
+          "D": "Correcta: se coordinan políticas y acciones de varios sectores para afrontar múltiples determinantes de la anemia."
+        },
+        "normativa": [
+          "DS N.° 002-2024-SA, Plan Multisectorial de Prevención y Reducción de la Anemia Materno Infantil 2024–2030 | https://www.gob.pe/institucion/minsa/normas-legales/5093832-002-2024-sa | Articulación y acciones sobre determinantes sociales de anemia",
+          "MIDIS, Plan Multisectorial de Lucha contra la Anemia | https://www.gob.pe/institucion/midis/informes-publicaciones/272499-plan-multisectorial-de-lucha-contra-la-anemia | Responsabilidades sectoriales de salud, producción, vivienda, educación y agricultura",
+          "MINSA, balance de acciones intersectoriales para reducir anemia | https://www.gob.pe/institucion/minsa/noticias/1011424-minsa-implementacion-de-acciones-intersectoriales-permite-importante-reduccion-de-anemia-en-ninas-y-ninos-menores-de-36-meses | Integración de intervenciones y coordinación con gobiernos locales"
+        ],
+        "mnemotecnia": "ANEMIA = SALUD trata + EDUCACIÓN enseña + AGRICULTURA/PRODUCCIÓN alimentan + VIVIENDA asegura agua. ESO ES INTERSECTORIAL.",
+        "trampas": [
+          "Multisectorial e intersectorial se parecen; en el ítem la articulación que conecta sectores es intersectorial.",
+          "Intergubernamental se refiere a niveles de gobierno y no debe confundirse con intersectorial.",
+          "La reducción de anemia requiere abordar causas nutricionales, infecciosas y sociales; no solo prescribir hierro.",
+          "Los parámetros de suplementación dependen de edad y norma técnica: no generalizar una dosis única a toda la población."
+        ],
+        "perla": "Varios MINISTERIOS con un objetivo sanitario = ARTICULACIÓN INTERSECTORIAL. Varios NIVELES DE GOBIERNO = INTERGUBERNAMENTAL.",
+        "repaso_activo": [
+          "¿Qué norma aprobó el plan de anemia materno-infantil 2024–2030? — DS N.° 002-2024-SA.",
+          "¿Qué sector lidera saneamiento y agua segura? — Vivienda, Construcción y Saneamiento, en articulación territorial.",
+          "¿Cuál es la diferencia entre intersectorial e intergubernamental? — Sectores versus niveles de gobierno.",
+          "¿Por qué no basta el tratamiento con hierro? — Porque también importan determinantes alimentarios, sociales, infecciones y acceso a servicios."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Una región coordina MINSA, Educación y Vivienda para promover alimentos ricos en hierro y ampliar el acceso a agua segura. ¿Qué concepto describe mejor este arreglo?",
+            "alternativas": {
+              "A": "Vigilancia epidemiológica exclusivamente hospitalaria",
+              "B": "Financiamiento único sin responsabilidades sectoriales",
+              "C": "Articulación intersectorial de intervenciones",
+              "D": "Autonomía técnica aislada de cada establecimiento",
+              "E": "Referencia especializada entre dos hospitales"
+            },
+            "respuesta": "C",
+            "explicacion": "El trabajo combina funciones de varios sectores para intervenir en determinantes de un mismo problema."
+          },
+          {
+            "enunciado": "Una red de salud coordina presupuesto y acciones con gobiernos central, regional y municipal, aunque pertenecen a un mismo sector. ¿Qué modalidad se destaca?",
+            "alternativas": {
+              "A": "Coordinación intergubernamental",
+              "B": "Investigación clínica traslacional",
+              "C": "Integración exclusivamente intrahospitalaria",
+              "D": "Acción internacional con países limítrofes",
+              "E": "Intervención sin organización territorial"
+            },
+            "respuesta": "A",
+            "explicacion": "La característica diferenciadora es que se enlazan tres niveles de gobierno."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Articulación intersectorial contra la anemia",
+          "eje": "Anemia materno-infantil · gestión sanitaria",
+          "confiabilidad": "clave_resaltada_fundamento_concordante",
+          "respuesta_resumida": "D. Intersectorial. La anemia es multicausal y requiere intervenciones coordinadas entre distintos sectores gubernamentales y actores territoriales.",
+          "razonamiento": [
+            "La pregunta enumera Salud, Educación, Vivienda, Agricultura, Producción, Cultura y Transporte para evidenciar actuaciones de sectores distintos, cada uno desde sus competencias. La articulación por definición es intersectorial. En Perú el DS N.° 002-2024-SA aprobó el Plan Multisectorial de Prevención y Reducción de la Anemia Materno Infantil 2024–2030. El manejo sanitario (tamizaje, prevención y tratamiento) no aborda por sí solo pobreza, alimentación, agua segura y saneamiento, educación y seguridad alimentaria. Por ello se articulan intervenciones y presupuestos, y se monitorean resultados territoriales. El enunciado recuerda también formulaciones de planes previos; distinguir fechas de versiones en examen."
+          ],
+          "temario": [
+            "Enfoque de determinantes: anemia infantil se vincula a ingesta insuficiente de hierro biodisponible, pérdidas o infecciones, condiciones maternoinfantiles y barreras socioeconómicas.",
+            "Intersectorial: Salud, Educación, Vivienda, Agricultura y otros sectores trabajan sobre objetivos comunes con responsabilidades sectoriales diferenciadas.",
+            "Intergubernamental: coordinación entre gobierno nacional, regional y local; se diferencia de intersectorial, aunque ambos ocurren simultáneamente.",
+            "Salud: control prenatal y crecimiento y desarrollo, detección, suplementación o tratamiento con hierro según edad/condición, adherencia, registro y seguimiento.",
+            "Educación y comunicación: alfabetización alimentaria, comprensión de indicaciones y cambios sostenidos de prácticas nutricionales en familia y escuela.",
+            "Producción y agricultura: disponibilidad y acceso a fuentes de hierro como carnes, sangrecita, vísceras y alternativas apropiadas según entorno; disponibilidad y seguridad alimentaria.",
+            "Vivienda y saneamiento: acceso a agua segura y reducción de infecciones que agravan problemas nutricionales; reconocer determinantes que requieren gestión fuera del EESS.",
+            "Gestión territorial: identificación de población con barreras de acceso, articulación con municipios y agentes comunitarios, visitas y monitoreo.",
+            "Normativa: DS N.° 002-2024-SA aprobó Plan Multisectorial 2024–2030; revisar los instrumentos vigentes además de planes anteriores citados en exámenes."
+          ],
+          "distractores": {
+            "A": "«Institucional» puede describir trabajo dentro de una entidad, pero no refleja actuación coordinada de ministerios de sectores diferentes.",
+            "B": "«Intercultural» se refiere a pertinencia y diálogo cultural; es transversal y valioso, pero no denomina la coordinación entre ministerios.",
+            "C": "«Internacional» exigiría coordinación entre países o instituciones supranacionales; el caso se sitúa en sectores nacionales.",
+            "D": "Correcta: se coordinan políticas y acciones de varios sectores para afrontar múltiples determinantes de la anemia."
+          },
+          "normativa": [
+            {
+              "nombre": "DS N.° 002-2024-SA, Plan Multisectorial de Prevención y Reducción de la Anemia Materno Infantil 2024–2030",
+              "url": "https://www.gob.pe/institucion/minsa/normas-legales/5093832-002-2024-sa",
+              "aplicacion": "Articulación y acciones sobre determinantes sociales de anemia"
+            },
+            {
+              "nombre": "MIDIS, Plan Multisectorial de Lucha contra la Anemia",
+              "url": "https://www.gob.pe/institucion/midis/informes-publicaciones/272499-plan-multisectorial-de-lucha-contra-la-anemia",
+              "aplicacion": "Responsabilidades sectoriales de salud, producción, vivienda, educación y agricultura"
+            },
+            {
+              "nombre": "MINSA, balance de acciones intersectoriales para reducir anemia",
+              "url": "https://www.gob.pe/institucion/minsa/noticias/1011424-minsa-implementacion-de-acciones-intersectoriales-permite-importante-reduccion-de-anemia-en-ninas-y-ninos-menores-de-36-meses",
+              "aplicacion": "Integración de intervenciones y coordinación con gobiernos locales"
+            }
+          ],
+          "mnemotecnia": "ANEMIA = SALUD trata + EDUCACIÓN enseña + AGRICULTURA/PRODUCCIÓN alimentan + VIVIENDA asegura agua. ESO ES INTERSECTORIAL.",
+          "trampas": [
+            "Multisectorial e intersectorial se parecen; en el ítem la articulación que conecta sectores es intersectorial.",
+            "Intergubernamental se refiere a niveles de gobierno y no debe confundirse con intersectorial.",
+            "La reducción de anemia requiere abordar causas nutricionales, infecciosas y sociales; no solo prescribir hierro.",
+            "Los parámetros de suplementación dependen de edad y norma técnica: no generalizar una dosis única a toda la población."
+          ],
+          "perla": "Varios MINISTERIOS con un objetivo sanitario = ARTICULACIÓN INTERSECTORIAL. Varios NIVELES DE GOBIERNO = INTERGUBERNAMENTAL.",
+          "repaso_activo": [
+            "¿Qué norma aprobó el plan de anemia materno-infantil 2024–2030? — DS N.° 002-2024-SA.",
+            "¿Qué sector lidera saneamiento y agua segura? — Vivienda, Construcción y Saneamiento, en articulación territorial.",
+            "¿Cuál es la diferencia entre intersectorial e intergubernamental? — Sectores versus niveles de gobierno.",
+            "¿Por qué no basta el tratamiento con hierro? — Porque también importan determinantes alimentarios, sociales, infecciones y acceso a servicios."
+          ],
+          "refuerzo": [
+            {
+              "enunciado": "Una región coordina MINSA, Educación y Vivienda para promover alimentos ricos en hierro y ampliar el acceso a agua segura. ¿Qué concepto describe mejor este arreglo?",
+              "alternativas": {
+                "A": "Vigilancia epidemiológica exclusivamente hospitalaria",
+                "B": "Financiamiento único sin responsabilidades sectoriales",
+                "C": "Articulación intersectorial de intervenciones",
+                "D": "Autonomía técnica aislada de cada establecimiento",
+                "E": "Referencia especializada entre dos hospitales"
+              },
+              "respuesta": "C",
+              "explicacion": "El trabajo combina funciones de varios sectores para intervenir en determinantes de un mismo problema."
+            },
+            {
+              "enunciado": "Una red de salud coordina presupuesto y acciones con gobiernos central, regional y municipal, aunque pertenecen a un mismo sector. ¿Qué modalidad se destaca?",
+              "alternativas": {
+                "A": "Coordinación intergubernamental",
+                "B": "Investigación clínica traslacional",
+                "C": "Integración exclusivamente intrahospitalaria",
+                "D": "Acción internacional con países limítrofes",
+                "E": "Intervención sin organización territorial"
+              },
+              "respuesta": "A",
+              "explicacion": "La característica diferenciadora es que se enlazan tres niveles de gobierno."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "number": 48,
+      "code": "ENCAPS26-II P048",
+      "course": "Gestión territorial · Plan Local de Salud",
+      "topic": "Autoridad local de salud y elaboración participativa del Plan Local de Salud",
+      "comment": "Clave histórica resaltada en PDF, sin cotejo independiente con tabla oficial: A. Autoridad local de salud. Es la respuesta textual del Plan Estratégico Multisectorial al 2030 para elaborar el PLS con metas sanitarias, determinantes, recursos y actores del territorio.\n\nRAZONAMIENTO\nLa clave está en las funciones detalladas del enunciado: establecer metas de salud y determinantes sociales, definir recursos y participación institucional/social. Esa es prácticamente la formulación del Plan Estratégico Multisectorial al 2030 («Perú, País Saludable»), que atribuye la elaboración a la autoridad local de salud. El documento MCI aclara que la gestión territorial se realiza en colaboración con el gobierno local, que lidera diagnóstico, planificación y ejecución, y que el Comité Local de Salud elabora una PROPUESTA participativa a partir del diagnóstico. Por tanto, seleccionar A no significa que la autoridad diseñe el PLS en solitario; los instrumentos prevén cogestión e intervención comunitaria.\n\nDESARROLLO DEL TEMA\nPlan Local de Salud (PLS): herramienta de planificación territorial centrada en resultados de salud, determinantes sociales y necesidades de población y familias.\n\nFunciones de autoridad local de salud según plan multisectorial al 2030: elaborar PLS, establecer metas sanitarias y sobre determinantes, orientar asignación de recursos y participación de actores.\n\nGobierno local: lidera la gestión territorial y el proceso de diagnóstico, planificación y ejecución según el MCI, en coordinación con RIS y comunidad.\n\nComité Local de Salud: instancia participativa que elabora propuesta de PLS e impulsa o monitorea proyectos y programas de mejora de calidad de vida, conforme a su organización.\n\nDiagnóstico participativo: identificar problemas, distribución territorial, poblaciones vulnerables, factores de riesgo y recursos locales; evitar decidir solo a partir de cobertura asistencial.\n\nMetas: formular indicadores medibles y verificables; asociarlos con presupuesto, responsables, plazos y seguimiento.\n\nCoordinación con RIS: los equipos de gestión enlazan redes de servicios, municipios y otros actores para lograr acciones integradas y sostenidas.\n\nParticipación social: organizaciones comunitarias, agentes comunitarios, instituciones locales y familias intervienen en identificar prioridades, ejecutar y evaluar.\n\nNo confundir Plan Local de Salud territorial con POI de una unidad ejecutora, plan de un programa o protocolo clínico de un EESS.\n\nANÁLISIS DE ALTERNATIVAS\nA. Correcta. El Plan Estratégico Multisectorial al 2030 asigna a la autoridad local de salud la elaboración del plan con metas, determinantes, recursos y actores.\nB. El promotor de salud moviliza y comunica en la comunidad, pero no tiene responsabilidad de conducción formal del PLS territorial.\nC. El coordinador de estrategia gestiona una línea temática, no el plan multisectorial del territorio en su totalidad.\nD. El inspector en salud fiscaliza condiciones según competencias, sin ser la autoridad responsable de dirigir el plan local.\n\nNORMATIVA Y FUENTES\nPlan Estratégico Multisectorial al 2030 de la Política Nacional Multisectorial de Salud «Perú, País Saludable» | https://cdn.www.gob.pe/uploads/document/file/3287193/Plan%20estrat%C3%A9gico%20multisectorial%20al%202030%20de%20la%20pol%C3%ADtica%20nacional%20multisectorial%20de%20salud%20%22Per%C3%BA%2C%20pa%C3%ADs%20saludable%22.pdf | Autoridad local de salud elabora el PLS con metas, determinantes, recursos y actores\nMINSA, Documento Técnico Modelo de Cuidado Integral de Salud por Curso de Vida para Persona, Familia y Comunidad | https://cdn.www.gob.pe/uploads/document/file/1865066/5261.pdf | Gobierno local lidera gestión territorial; Comité Local de Salud elabora propuesta participativa de PLS\nMINSA, RM N.° 030-2020-MINSA | https://www.gob.pe/institucion/minsa/normas-legales/414755-030-2020-minsa | Marco del Modelo de Cuidado Integral de Salud (MCI)\n\nMNEMOTECNIA\nPLS = AUTORIDAD LOCAL lidera + COMITÉ propone + COMUNIDAD participa + RIS articula.\n\nTRAMPAS\nLa autoría formal mencionada en la pregunta no elimina la intervención de comités, autoridades municipales y comunidad.\nNo sustituir autoridad local por «promotor de salud»: son roles y atribuciones distintos.\nPLS no es sinónimo de POI institucional o plan específico de una estrategia sanitaria.\nLos recursos y las metas deben obedecer a prioridades territoriales; no a preferencias individuales de funcionarios.\n\nPERLA\nSi la pregunta enumera METAS + DETERMINANTES + RECURSOS + ACTORES del territorio, responde AUTORIDAD LOCAL DE SALUD; recuerda el Comité Local de Salud.",
+      "pearl": "Si la pregunta enumera METAS + DETERMINANTES + RECURSOS + ACTORES del territorio, responde AUTORIDAD LOCAL DE SALUD; recuerda el Comité Local de Salud.",
+      "keywords": [
+        "Gestión territorial · Plan Local de Salud",
+        "Autoridad local de salud y elaboración participativa del Plan Local de Salud",
+        "ENCAPS 2026-II",
+        "MINSA régimen 276"
+      ],
+      "estadoDesarrollo": "completo",
+      "lesson": {
+        "respuesta_resumida": "A. Autoridad local de salud. Es la respuesta textual del Plan Estratégico Multisectorial al 2030 para elaborar el PLS con metas sanitarias, determinantes, recursos y actores del territorio.",
+        "razonamiento": "La clave está en las funciones detalladas del enunciado: establecer metas de salud y determinantes sociales, definir recursos y participación institucional/social. Esa es prácticamente la formulación del Plan Estratégico Multisectorial al 2030 («Perú, País Saludable»), que atribuye la elaboración a la autoridad local de salud. El documento MCI aclara que la gestión territorial se realiza en colaboración con el gobierno local, que lidera diagnóstico, planificación y ejecución, y que el Comité Local de Salud elabora una PROPUESTA participativa a partir del diagnóstico. Por tanto, seleccionar A no significa que la autoridad diseñe el PLS en solitario; los instrumentos prevén cogestión e intervención comunitaria.",
+        "temario": [
+          "Plan Local de Salud (PLS): herramienta de planificación territorial centrada en resultados de salud, determinantes sociales y necesidades de población y familias.",
+          "Funciones de autoridad local de salud según plan multisectorial al 2030: elaborar PLS, establecer metas sanitarias y sobre determinantes, orientar asignación de recursos y participación de actores.",
+          "Gobierno local: lidera la gestión territorial y el proceso de diagnóstico, planificación y ejecución según el MCI, en coordinación con RIS y comunidad.",
+          "Comité Local de Salud: instancia participativa que elabora propuesta de PLS e impulsa o monitorea proyectos y programas de mejora de calidad de vida, conforme a su organización.",
+          "Diagnóstico participativo: identificar problemas, distribución territorial, poblaciones vulnerables, factores de riesgo y recursos locales; evitar decidir solo a partir de cobertura asistencial.",
+          "Metas: formular indicadores medibles y verificables; asociarlos con presupuesto, responsables, plazos y seguimiento.",
+          "Coordinación con RIS: los equipos de gestión enlazan redes de servicios, municipios y otros actores para lograr acciones integradas y sostenidas.",
+          "Participación social: organizaciones comunitarias, agentes comunitarios, instituciones locales y familias intervienen en identificar prioridades, ejecutar y evaluar.",
+          "No confundir Plan Local de Salud territorial con POI de una unidad ejecutora, plan de un programa o protocolo clínico de un EESS."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Correcta. El Plan Estratégico Multisectorial al 2030 asigna a la autoridad local de salud la elaboración del plan con metas, determinantes, recursos y actores.",
+          "B": "El promotor de salud moviliza y comunica en la comunidad, pero no tiene responsabilidad de conducción formal del PLS territorial.",
+          "C": "El coordinador de estrategia gestiona una línea temática, no el plan multisectorial del territorio en su totalidad.",
+          "D": "El inspector en salud fiscaliza condiciones según competencias, sin ser la autoridad responsable de dirigir el plan local."
+        },
+        "normativa": [
+          "Plan Estratégico Multisectorial al 2030 de la Política Nacional Multisectorial de Salud «Perú, País Saludable» | https://cdn.www.gob.pe/uploads/document/file/3287193/Plan%20estrat%C3%A9gico%20multisectorial%20al%202030%20de%20la%20pol%C3%ADtica%20nacional%20multisectorial%20de%20salud%20%22Per%C3%BA%2C%20pa%C3%ADs%20saludable%22.pdf | Autoridad local de salud elabora el PLS con metas, determinantes, recursos y actores",
+          "MINSA, Documento Técnico Modelo de Cuidado Integral de Salud por Curso de Vida para Persona, Familia y Comunidad | https://cdn.www.gob.pe/uploads/document/file/1865066/5261.pdf | Gobierno local lidera gestión territorial; Comité Local de Salud elabora propuesta participativa de PLS",
+          "MINSA, RM N.° 030-2020-MINSA | https://www.gob.pe/institucion/minsa/normas-legales/414755-030-2020-minsa | Marco del Modelo de Cuidado Integral de Salud (MCI)"
+        ],
+        "mnemotecnia": "PLS = AUTORIDAD LOCAL lidera + COMITÉ propone + COMUNIDAD participa + RIS articula.",
+        "trampas": [
+          "La autoría formal mencionada en la pregunta no elimina la intervención de comités, autoridades municipales y comunidad.",
+          "No sustituir autoridad local por «promotor de salud»: son roles y atribuciones distintos.",
+          "PLS no es sinónimo de POI institucional o plan específico de una estrategia sanitaria.",
+          "Los recursos y las metas deben obedecer a prioridades territoriales; no a preferencias individuales de funcionarios."
+        ],
+        "perla": "Si la pregunta enumera METAS + DETERMINANTES + RECURSOS + ACTORES del territorio, responde AUTORIDAD LOCAL DE SALUD; recuerda el Comité Local de Salud.",
+        "repaso_activo": [
+          "¿Quién elabora el PLS según el Plan Estratégico Multisectorial al 2030? — Autoridad local de salud.",
+          "¿Qué instancia contribuye con propuesta participativa de PLS según MCI? — Comité Local de Salud.",
+          "¿Quién lidera la gestión territorial de salud en el ámbito municipal? — Gobierno local, articulando la RIS y actores sociales.",
+          "¿Qué cuatro elementos destaca el enunciado? — Metas, determinantes, asignación de recursos y participación de actores."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "En un distrito se elabora el plan que articula metas sanitarias, recursos y participación de sectores e instituciones locales. ¿Qué autoridad identifica el Plan Estratégico Multisectorial al 2030 como responsable de elaborarlo?",
+            "alternativas": {
+              "A": "Inspector sanitario del establecimiento",
+              "B": "Profesional encargado de farmacia",
+              "C": "Coordinador distrital de inmunizaciones",
+              "D": "Autoridad local de salud",
+              "E": "Promotor de salud del sector"
+            },
+            "respuesta": "D",
+            "explicacion": "La función de elaboración territorial está asignada a la autoridad local de salud; exige participación de los otros actores."
+          },
+          {
+            "enunciado": "Un distrito necesita recoger prioridades y proponer acciones de salud desde organizaciones de vecinos y la red sanitaria. Según el MCI, ¿qué instancia prepara una propuesta participativa de PLS?",
+            "alternativas": {
+              "A": "La oficina exclusiva de seguros",
+              "B": "El Comité Local de Salud",
+              "C": "Una comisión únicamente hospitalaria",
+              "D": "El responsable de abastecimiento",
+              "E": "El servicio técnico de laboratorio"
+            },
+            "respuesta": "B",
+            "explicacion": "El Comité Local de Salud participa en diagnóstico y propuesta del PLS; las responsabilidades de conducción son complementarias."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Autoridad local de salud y elaboración participativa del Plan Local de Salud",
+          "eje": "Gestión territorial · Plan Local de Salud",
+          "confiabilidad": "clave_resaltada_fundamento_concordante_con_participacion",
+          "respuesta_resumida": "A. Autoridad local de salud. Es la respuesta textual del Plan Estratégico Multisectorial al 2030 para elaborar el PLS con metas sanitarias, determinantes, recursos y actores del territorio.",
+          "razonamiento": [
+            "La clave está en las funciones detalladas del enunciado: establecer metas de salud y determinantes sociales, definir recursos y participación institucional/social. Esa es prácticamente la formulación del Plan Estratégico Multisectorial al 2030 («Perú, País Saludable»), que atribuye la elaboración a la autoridad local de salud. El documento MCI aclara que la gestión territorial se realiza en colaboración con el gobierno local, que lidera diagnóstico, planificación y ejecución, y que el Comité Local de Salud elabora una PROPUESTA participativa a partir del diagnóstico. Por tanto, seleccionar A no significa que la autoridad diseñe el PLS en solitario; los instrumentos prevén cogestión e intervención comunitaria."
+          ],
+          "temario": [
+            "Plan Local de Salud (PLS): herramienta de planificación territorial centrada en resultados de salud, determinantes sociales y necesidades de población y familias.",
+            "Funciones de autoridad local de salud según plan multisectorial al 2030: elaborar PLS, establecer metas sanitarias y sobre determinantes, orientar asignación de recursos y participación de actores.",
+            "Gobierno local: lidera la gestión territorial y el proceso de diagnóstico, planificación y ejecución según el MCI, en coordinación con RIS y comunidad.",
+            "Comité Local de Salud: instancia participativa que elabora propuesta de PLS e impulsa o monitorea proyectos y programas de mejora de calidad de vida, conforme a su organización.",
+            "Diagnóstico participativo: identificar problemas, distribución territorial, poblaciones vulnerables, factores de riesgo y recursos locales; evitar decidir solo a partir de cobertura asistencial.",
+            "Metas: formular indicadores medibles y verificables; asociarlos con presupuesto, responsables, plazos y seguimiento.",
+            "Coordinación con RIS: los equipos de gestión enlazan redes de servicios, municipios y otros actores para lograr acciones integradas y sostenidas.",
+            "Participación social: organizaciones comunitarias, agentes comunitarios, instituciones locales y familias intervienen en identificar prioridades, ejecutar y evaluar.",
+            "No confundir Plan Local de Salud territorial con POI de una unidad ejecutora, plan de un programa o protocolo clínico de un EESS."
+          ],
+          "distractores": {
+            "A": "Correcta. El Plan Estratégico Multisectorial al 2030 asigna a la autoridad local de salud la elaboración del plan con metas, determinantes, recursos y actores.",
+            "B": "El promotor de salud moviliza y comunica en la comunidad, pero no tiene responsabilidad de conducción formal del PLS territorial.",
+            "C": "El coordinador de estrategia gestiona una línea temática, no el plan multisectorial del territorio en su totalidad.",
+            "D": "El inspector en salud fiscaliza condiciones según competencias, sin ser la autoridad responsable de dirigir el plan local."
+          },
+          "normativa": [
+            {
+              "nombre": "Plan Estratégico Multisectorial al 2030 de la Política Nacional Multisectorial de Salud «Perú, País Saludable»",
+              "url": "https://cdn.www.gob.pe/uploads/document/file/3287193/Plan%20estrat%C3%A9gico%20multisectorial%20al%202030%20de%20la%20pol%C3%ADtica%20nacional%20multisectorial%20de%20salud%20%22Per%C3%BA%2C%20pa%C3%ADs%20saludable%22.pdf",
+              "aplicacion": "Autoridad local de salud elabora el PLS con metas, determinantes, recursos y actores"
+            },
+            {
+              "nombre": "MINSA, Documento Técnico Modelo de Cuidado Integral de Salud por Curso de Vida para Persona, Familia y Comunidad",
+              "url": "https://cdn.www.gob.pe/uploads/document/file/1865066/5261.pdf",
+              "aplicacion": "Gobierno local lidera gestión territorial; Comité Local de Salud elabora propuesta participativa de PLS"
+            },
+            {
+              "nombre": "MINSA, RM N.° 030-2020-MINSA",
+              "url": "https://www.gob.pe/institucion/minsa/normas-legales/414755-030-2020-minsa",
+              "aplicacion": "Marco del Modelo de Cuidado Integral de Salud (MCI)"
+            }
+          ],
+          "mnemotecnia": "PLS = AUTORIDAD LOCAL lidera + COMITÉ propone + COMUNIDAD participa + RIS articula.",
+          "trampas": [
+            "La autoría formal mencionada en la pregunta no elimina la intervención de comités, autoridades municipales y comunidad.",
+            "No sustituir autoridad local por «promotor de salud»: son roles y atribuciones distintos.",
+            "PLS no es sinónimo de POI institucional o plan específico de una estrategia sanitaria.",
+            "Los recursos y las metas deben obedecer a prioridades territoriales; no a preferencias individuales de funcionarios."
+          ],
+          "perla": "Si la pregunta enumera METAS + DETERMINANTES + RECURSOS + ACTORES del territorio, responde AUTORIDAD LOCAL DE SALUD; recuerda el Comité Local de Salud.",
+          "repaso_activo": [
+            "¿Quién elabora el PLS según el Plan Estratégico Multisectorial al 2030? — Autoridad local de salud.",
+            "¿Qué instancia contribuye con propuesta participativa de PLS según MCI? — Comité Local de Salud.",
+            "¿Quién lidera la gestión territorial de salud en el ámbito municipal? — Gobierno local, articulando la RIS y actores sociales.",
+            "¿Qué cuatro elementos destaca el enunciado? — Metas, determinantes, asignación de recursos y participación de actores."
+          ],
+          "refuerzo": [
+            {
+              "enunciado": "En un distrito se elabora el plan que articula metas sanitarias, recursos y participación de sectores e instituciones locales. ¿Qué autoridad identifica el Plan Estratégico Multisectorial al 2030 como responsable de elaborarlo?",
+              "alternativas": {
+                "A": "Inspector sanitario del establecimiento",
+                "B": "Profesional encargado de farmacia",
+                "C": "Coordinador distrital de inmunizaciones",
+                "D": "Autoridad local de salud",
+                "E": "Promotor de salud del sector"
+              },
+              "respuesta": "D",
+              "explicacion": "La función de elaboración territorial está asignada a la autoridad local de salud; exige participación de los otros actores."
+            },
+            {
+              "enunciado": "Un distrito necesita recoger prioridades y proponer acciones de salud desde organizaciones de vecinos y la red sanitaria. Según el MCI, ¿qué instancia prepara una propuesta participativa de PLS?",
+              "alternativas": {
+                "A": "La oficina exclusiva de seguros",
+                "B": "El Comité Local de Salud",
+                "C": "Una comisión únicamente hospitalaria",
+                "D": "El responsable de abastecimiento",
+                "E": "El servicio técnico de laboratorio"
+              },
+              "respuesta": "B",
+              "explicacion": "El Comité Local de Salud participa en diagnóstico y propuesta del PLS; las responsabilidades de conducción son complementarias."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "number": 49,
+      "code": "ENCAPS26-II P049",
+      "course": "Epidemiología · inferencia causal",
+      "topic": "Criterios de Hill: fuerza de asociación medida por RR y OR",
+      "comment": "Clave histórica resaltada en PDF, sin cotejo independiente con tabla oficial: B. Fuerza de asociación. El riesgo relativo (RR) y el odds ratio (OR) cuantifican magnitud de asociación entre exposición y resultado.\n\nRAZONAMIENTO\nEntre los aspectos de Bradford Hill que apoyan una discusión causal figura la fuerza de asociación: cuán intensa es la diferencia relativa entre expuestos y no expuestos. RR es la razón de riesgos acumulados (riesgo expuestos / riesgo no expuestos); OR es la razón de odds y suele emplearse en casos y controles. RR=1 u OR=1 indican ausencia de asociación en esas escalas; valores mayores que uno sugieren asociación positiva y menores que uno, inversa. Sin embargo, ni un RR/OR alto prueba causalidad, ni uno cercano a 1 excluye un vínculo causal; sesgo, confusión, selección, intervalos de confianza y diseño importan. El OR no es «riesgo relativo indirecto» de forma estricta y puede diferir mucho del RR en eventos frecuentes.\n\nDESARROLLO DEL TEMA\nBradford Hill: conjunto de consideraciones —fuerza, consistencia, especificidad, temporalidad, gradiente biológico, plausibilidad, coherencia, experimento y analogía— útiles para valorar explicaciones causales.\n\nFuerza: magnitud de la asociación; medidas típicas incluyen RR y OR. Un estimador se interpreta siempre con IC, sesgos, confusión y relevancia clínica.\n\nRR: razón entre incidencia/riesgo acumulado de expuestos e incidencia/riesgo acumulado de no expuestos. RR=(a/(a+b))/(c/(c+d)) en tabla 2×2 bien definida.\n\nOR: razón de odds; OR=(a×d)/(b×c) en una tabla 2×2 de exposición-desenlace. En casos-controles suele ser medida primaria de asociación.\n\nInterpretación de valores: =1 asociación nula en esa escala; >1 relación positiva; <1 relación inversa. No confundir ausencia estadística con ausencia total de mecanismo causal.\n\nOR aproxima RR solo cuando el evento es poco frecuente en los grupos pertinentes o bajo condiciones específicas del muestreo; en desenlaces comunes puede exagerar la magnitud aparente frente a RR.\n\nTemporalidad: exposición precede al desenlace; no se mide con RR u OR por sí solos, sino a partir de secuencia temporal del estudio.\n\nConsistencia: hallazgo similar en diferentes estudios, lugares y poblaciones; especificidad: asociación de exposición con determinado efecto, criterio limitado en enfermedades multifactoriales.\n\nGradiente biológico: variación sistemática de riesgo con nivel de exposición; plausibilidad/coherencia: congruencia con conocimientos biológicos, sin absolutizar ninguno.\n\nEjemplo 2×2: 40 de 100 expuestos enferman y 20 de 100 no expuestos; RR=(0,40)/(0,20)=2 y OR=(40×80)/(60×20)=2,67. La asociación existe, pero causalidad exige más análisis.\n\nANÁLISIS DE ALTERNATIVAS\nA. Temporalidad pregunta si la exposición ocurrió ANTES del desenlace; RR y OR no la demuestran automáticamente.\nB. Correcta. Miden fuerza o magnitud de asociación epidemiológica, no causalidad confirmada.\nC. Especificidad alude a que una exposición se asocie a un resultado particular; no es el significado matemático de RR u OR.\nD. Coherencia consiste en congruencia con otros conocimientos y observaciones, no se cuantifica directamente mediante RR u OR.\n\nNORMATIVA Y FUENTES\nNIH/NCBI Bookshelf, Odds Ratio (actualizado 14/04/2026) | https://www.ncbi.nlm.nih.gov/sites/books/NBK431098/ | Definición, fórmula e interpretación de OR\nCDC, ACIP Handbook 2013: strength of association | https://www.cdc.gov/acip/downloads/handbook.pdf | Fuerza de asociación a partir de RR; OR aproxima RR solo bajo condiciones\nWard 2009, Bradford Hill criteria and causal inference | https://pubmed.ncbi.nlm.nih.gov/19534788/ | Aspectos de una asociación y discusión de inferencia causal\n\nMNEMOTECNIA\nHILL: FUERZA = RAZONES (RR/OR); TEMPORALIDAD = ANTES; CONSISTENCIA = SE REPITE.\n\nTRAMPAS\nOR y RR no son equivalentes en eventos frecuentes: diferencia de odds versus riesgos.\n«Riesgo relativo indirecto» para OR es denominación histórica imprecisa; forma correcta: odds ratio o razón de momios.\nUn RR=2 no significa que la exposición «cause» enfermedad en todos los casos.\nBradford Hill no es lista de requisitos necesarios y suficientes: la temporalidad sí resulta indispensable para causalidad, los otros aportan razonamientos contextuales.\n\nPERLA\nRR y OR → FUERZA DE ASOCIACIÓN. OR ≠ RR salvo aproximación bajo eventos raros; asociación NO equivale a causalidad.",
+      "pearl": "RR y OR → FUERZA DE ASOCIACIÓN. OR ≠ RR salvo aproximación bajo eventos raros; asociación NO equivale a causalidad.",
+      "keywords": [
+        "Epidemiología · inferencia causal",
+        "Criterios de Hill: fuerza de asociación medida por RR y OR",
+        "ENCAPS 2026-II",
+        "MINSA régimen 276"
+      ],
+      "estadoDesarrollo": "completo",
+      "lesson": {
+        "respuesta_resumida": "B. Fuerza de asociación. El riesgo relativo (RR) y el odds ratio (OR) cuantifican magnitud de asociación entre exposición y resultado.",
+        "razonamiento": "Entre los aspectos de Bradford Hill que apoyan una discusión causal figura la fuerza de asociación: cuán intensa es la diferencia relativa entre expuestos y no expuestos. RR es la razón de riesgos acumulados (riesgo expuestos / riesgo no expuestos); OR es la razón de odds y suele emplearse en casos y controles. RR=1 u OR=1 indican ausencia de asociación en esas escalas; valores mayores que uno sugieren asociación positiva y menores que uno, inversa. Sin embargo, ni un RR/OR alto prueba causalidad, ni uno cercano a 1 excluye un vínculo causal; sesgo, confusión, selección, intervalos de confianza y diseño importan. El OR no es «riesgo relativo indirecto» de forma estricta y puede diferir mucho del RR en eventos frecuentes.",
+        "temario": [
+          "Bradford Hill: conjunto de consideraciones —fuerza, consistencia, especificidad, temporalidad, gradiente biológico, plausibilidad, coherencia, experimento y analogía— útiles para valorar explicaciones causales.",
+          "Fuerza: magnitud de la asociación; medidas típicas incluyen RR y OR. Un estimador se interpreta siempre con IC, sesgos, confusión y relevancia clínica.",
+          "RR: razón entre incidencia/riesgo acumulado de expuestos e incidencia/riesgo acumulado de no expuestos. RR=(a/(a+b))/(c/(c+d)) en tabla 2×2 bien definida.",
+          "OR: razón de odds; OR=(a×d)/(b×c) en una tabla 2×2 de exposición-desenlace. En casos-controles suele ser medida primaria de asociación.",
+          "Interpretación de valores: =1 asociación nula en esa escala; >1 relación positiva; <1 relación inversa. No confundir ausencia estadística con ausencia total de mecanismo causal.",
+          "OR aproxima RR solo cuando el evento es poco frecuente en los grupos pertinentes o bajo condiciones específicas del muestreo; en desenlaces comunes puede exagerar la magnitud aparente frente a RR.",
+          "Temporalidad: exposición precede al desenlace; no se mide con RR u OR por sí solos, sino a partir de secuencia temporal del estudio.",
+          "Consistencia: hallazgo similar en diferentes estudios, lugares y poblaciones; especificidad: asociación de exposición con determinado efecto, criterio limitado en enfermedades multifactoriales.",
+          "Gradiente biológico: variación sistemática de riesgo con nivel de exposición; plausibilidad/coherencia: congruencia con conocimientos biológicos, sin absolutizar ninguno.",
+          "Ejemplo 2×2: 40 de 100 expuestos enferman y 20 de 100 no expuestos; RR=(0,40)/(0,20)=2 y OR=(40×80)/(60×20)=2,67. La asociación existe, pero causalidad exige más análisis."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Temporalidad pregunta si la exposición ocurrió ANTES del desenlace; RR y OR no la demuestran automáticamente.",
+          "B": "Correcta. Miden fuerza o magnitud de asociación epidemiológica, no causalidad confirmada.",
+          "C": "Especificidad alude a que una exposición se asocie a un resultado particular; no es el significado matemático de RR u OR.",
+          "D": "Coherencia consiste en congruencia con otros conocimientos y observaciones, no se cuantifica directamente mediante RR u OR."
+        },
+        "normativa": [
+          "NIH/NCBI Bookshelf, Odds Ratio (actualizado 14/04/2026) | https://www.ncbi.nlm.nih.gov/sites/books/NBK431098/ | Definición, fórmula e interpretación de OR",
+          "CDC, ACIP Handbook 2013: strength of association | https://www.cdc.gov/acip/downloads/handbook.pdf | Fuerza de asociación a partir de RR; OR aproxima RR solo bajo condiciones",
+          "Ward 2009, Bradford Hill criteria and causal inference | https://pubmed.ncbi.nlm.nih.gov/19534788/ | Aspectos de una asociación y discusión de inferencia causal"
+        ],
+        "mnemotecnia": "HILL: FUERZA = RAZONES (RR/OR); TEMPORALIDAD = ANTES; CONSISTENCIA = SE REPITE.",
+        "trampas": [
+          "OR y RR no son equivalentes en eventos frecuentes: diferencia de odds versus riesgos.",
+          "«Riesgo relativo indirecto» para OR es denominación histórica imprecisa; forma correcta: odds ratio o razón de momios.",
+          "Un RR=2 no significa que la exposición «cause» enfermedad en todos los casos.",
+          "Bradford Hill no es lista de requisitos necesarios y suficientes: la temporalidad sí resulta indispensable para causalidad, los otros aportan razonamientos contextuales."
+        ],
+        "perla": "RR y OR → FUERZA DE ASOCIACIÓN. OR ≠ RR salvo aproximación bajo eventos raros; asociación NO equivale a causalidad.",
+        "repaso_activo": [
+          "¿Qué criterio de Hill se evalúa con RR u OR? — Fuerza de asociación.",
+          "¿Qué RR corresponde a 40 % vs 20 % de enfermedad? — RR=2.",
+          "¿OR es exactamente RR? — No: compara odds, no riesgos; se aproxima con desenlaces raros.",
+          "¿Qué elemento requiere que la exposición anteceda al desenlace? — Temporalidad."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "En un estudio de cohorte, 30 de 100 expuestos y 15 de 100 no expuestos desarrollan el desenlace. ¿Cuál es el riesgo relativo?",
+            "alternativas": {
+              "A": "0,5, porque el grupo expuesto tiene mayor riesgo",
+              "B": "1,5, porque se comparan diferencias absolutas",
+              "C": "3,0, porque la frecuencia expuesta es mayor",
+              "D": "1,0, porque las poblaciones tienen igual tamaño",
+              "E": "2,0, porque 0,30 dividido entre 0,15 es dos"
+            },
+            "respuesta": "E",
+            "explicacion": "RR = riesgo expuestos / riesgo no expuestos = 0,30/0,15 = 2."
+          },
+          {
+            "enunciado": "Un estudio de casos y controles reporta OR 4,3 con intervalo de confianza estrecho y ajuste adecuado. ¿Qué afirmación es correcta?",
+            "alternativas": {
+              "A": "Confirma causalidad de la exposición sin otras pruebas",
+              "B": "Demuestra que el desenlace ocurrió primero",
+              "C": "Indica una asociación de magnitud elevada, no causalidad automática",
+              "D": "Es idéntico al RR aun cuando el desenlace sea frecuente",
+              "E": "Prueba especificidad biológica de la exposición"
+            },
+            "respuesta": "C",
+            "explicacion": "La magnitud OR apoya fuerza de asociación, pero no sustituye evaluación de sesgos, confusión, temporalidad y evidencia convergente."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Criterios de Hill: fuerza de asociación medida por RR y OR",
+          "eje": "Epidemiología · inferencia causal",
+          "confiabilidad": "clave_resaltada_fundamento_concordante",
+          "respuesta_resumida": "B. Fuerza de asociación. El riesgo relativo (RR) y el odds ratio (OR) cuantifican magnitud de asociación entre exposición y resultado.",
+          "razonamiento": [
+            "Entre los aspectos de Bradford Hill que apoyan una discusión causal figura la fuerza de asociación: cuán intensa es la diferencia relativa entre expuestos y no expuestos. RR es la razón de riesgos acumulados (riesgo expuestos / riesgo no expuestos); OR es la razón de odds y suele emplearse en casos y controles. RR=1 u OR=1 indican ausencia de asociación en esas escalas; valores mayores que uno sugieren asociación positiva y menores que uno, inversa. Sin embargo, ni un RR/OR alto prueba causalidad, ni uno cercano a 1 excluye un vínculo causal; sesgo, confusión, selección, intervalos de confianza y diseño importan. El OR no es «riesgo relativo indirecto» de forma estricta y puede diferir mucho del RR en eventos frecuentes."
+          ],
+          "temario": [
+            "Bradford Hill: conjunto de consideraciones —fuerza, consistencia, especificidad, temporalidad, gradiente biológico, plausibilidad, coherencia, experimento y analogía— útiles para valorar explicaciones causales.",
+            "Fuerza: magnitud de la asociación; medidas típicas incluyen RR y OR. Un estimador se interpreta siempre con IC, sesgos, confusión y relevancia clínica.",
+            "RR: razón entre incidencia/riesgo acumulado de expuestos e incidencia/riesgo acumulado de no expuestos. RR=(a/(a+b))/(c/(c+d)) en tabla 2×2 bien definida.",
+            "OR: razón de odds; OR=(a×d)/(b×c) en una tabla 2×2 de exposición-desenlace. En casos-controles suele ser medida primaria de asociación.",
+            "Interpretación de valores: =1 asociación nula en esa escala; >1 relación positiva; <1 relación inversa. No confundir ausencia estadística con ausencia total de mecanismo causal.",
+            "OR aproxima RR solo cuando el evento es poco frecuente en los grupos pertinentes o bajo condiciones específicas del muestreo; en desenlaces comunes puede exagerar la magnitud aparente frente a RR.",
+            "Temporalidad: exposición precede al desenlace; no se mide con RR u OR por sí solos, sino a partir de secuencia temporal del estudio.",
+            "Consistencia: hallazgo similar en diferentes estudios, lugares y poblaciones; especificidad: asociación de exposición con determinado efecto, criterio limitado en enfermedades multifactoriales.",
+            "Gradiente biológico: variación sistemática de riesgo con nivel de exposición; plausibilidad/coherencia: congruencia con conocimientos biológicos, sin absolutizar ninguno.",
+            "Ejemplo 2×2: 40 de 100 expuestos enferman y 20 de 100 no expuestos; RR=(0,40)/(0,20)=2 y OR=(40×80)/(60×20)=2,67. La asociación existe, pero causalidad exige más análisis."
+          ],
+          "distractores": {
+            "A": "Temporalidad pregunta si la exposición ocurrió ANTES del desenlace; RR y OR no la demuestran automáticamente.",
+            "B": "Correcta. Miden fuerza o magnitud de asociación epidemiológica, no causalidad confirmada.",
+            "C": "Especificidad alude a que una exposición se asocie a un resultado particular; no es el significado matemático de RR u OR.",
+            "D": "Coherencia consiste en congruencia con otros conocimientos y observaciones, no se cuantifica directamente mediante RR u OR."
+          },
+          "normativa": [
+            {
+              "nombre": "NIH/NCBI Bookshelf, Odds Ratio (actualizado 14/04/2026)",
+              "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK431098/",
+              "aplicacion": "Definición, fórmula e interpretación de OR"
+            },
+            {
+              "nombre": "CDC, ACIP Handbook 2013: strength of association",
+              "url": "https://www.cdc.gov/acip/downloads/handbook.pdf",
+              "aplicacion": "Fuerza de asociación a partir de RR; OR aproxima RR solo bajo condiciones"
+            },
+            {
+              "nombre": "Ward 2009, Bradford Hill criteria and causal inference",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/19534788/",
+              "aplicacion": "Aspectos de una asociación y discusión de inferencia causal"
+            }
+          ],
+          "mnemotecnia": "HILL: FUERZA = RAZONES (RR/OR); TEMPORALIDAD = ANTES; CONSISTENCIA = SE REPITE.",
+          "trampas": [
+            "OR y RR no son equivalentes en eventos frecuentes: diferencia de odds versus riesgos.",
+            "«Riesgo relativo indirecto» para OR es denominación histórica imprecisa; forma correcta: odds ratio o razón de momios.",
+            "Un RR=2 no significa que la exposición «cause» enfermedad en todos los casos.",
+            "Bradford Hill no es lista de requisitos necesarios y suficientes: la temporalidad sí resulta indispensable para causalidad, los otros aportan razonamientos contextuales."
+          ],
+          "perla": "RR y OR → FUERZA DE ASOCIACIÓN. OR ≠ RR salvo aproximación bajo eventos raros; asociación NO equivale a causalidad.",
+          "repaso_activo": [
+            "¿Qué criterio de Hill se evalúa con RR u OR? — Fuerza de asociación.",
+            "¿Qué RR corresponde a 40 % vs 20 % de enfermedad? — RR=2.",
+            "¿OR es exactamente RR? — No: compara odds, no riesgos; se aproxima con desenlaces raros.",
+            "¿Qué elemento requiere que la exposición anteceda al desenlace? — Temporalidad."
+          ],
+          "refuerzo": [
+            {
+              "enunciado": "En un estudio de cohorte, 30 de 100 expuestos y 15 de 100 no expuestos desarrollan el desenlace. ¿Cuál es el riesgo relativo?",
+              "alternativas": {
+                "A": "0,5, porque el grupo expuesto tiene mayor riesgo",
+                "B": "1,5, porque se comparan diferencias absolutas",
+                "C": "3,0, porque la frecuencia expuesta es mayor",
+                "D": "1,0, porque las poblaciones tienen igual tamaño",
+                "E": "2,0, porque 0,30 dividido entre 0,15 es dos"
+              },
+              "respuesta": "E",
+              "explicacion": "RR = riesgo expuestos / riesgo no expuestos = 0,30/0,15 = 2."
+            },
+            {
+              "enunciado": "Un estudio de casos y controles reporta OR 4,3 con intervalo de confianza estrecho y ajuste adecuado. ¿Qué afirmación es correcta?",
+              "alternativas": {
+                "A": "Confirma causalidad de la exposición sin otras pruebas",
+                "B": "Demuestra que el desenlace ocurrió primero",
+                "C": "Indica una asociación de magnitud elevada, no causalidad automática",
+                "D": "Es idéntico al RR aun cuando el desenlace sea frecuente",
+                "E": "Prueba especificidad biológica de la exposición"
+              },
+              "respuesta": "C",
+              "explicacion": "La magnitud OR apoya fuerza de asociación, pero no sustituye evaluación de sesgos, confusión, temporalidad y evidencia convergente."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "number": 50,
+      "code": "ENCAPS26-II P050",
+      "course": "Seguridad y salud en el trabajo",
+      "topic": "Riesgo laboral: exposición peligrosa y vínculo con la actividad, no solo contrato",
+      "comment": "Clave histórica resaltada en PDF, sin cotejo independiente con tabla oficial: D. Con vínculo laboral vigente (clave del PDF). Advertencia normativa: no es condición necesaria. El riesgo laboral se define por la probabilidad de daño derivado de exposición peligrosa en el trabajo, incluida actividad por cuenta propia.\n\nRAZONAMIENTO\nEl cuadernillo plantea que «riesgo profesional» es posibilidad de accidente o enfermedad «con vínculo laboral vigente» y marca D porque es la única opción asociada a una situación laboral. No obstante, la definición jurídica de riesgo laboral del glosario del DS N.° 005-2012-TR es probabilidad de que la exposición a un factor o proceso peligroso en el trabajo cause enfermedad o lesión. La Ley N.° 29783 abarca expresamente a trabajadores por cuenta propia, y su reglamento contempla autónomos, por lo que no exige contrato laboral formal o vigente para que exista riesgo ocupacional. El nexo causal relevante es con la actividad de trabajo: incluso fuera de horario o local puede producirse accidente con ocasión del trabajo. Una lesión durante vacaciones NO es ocupacional por el solo hecho de ser trabajador, aunque una orden de trabajo ejecutada fuera de horario puede serlo. Esta pregunta presenta formulación jurídicamente engañosa y se debe diferenciar la clave histórica de la doctrina vigente.\n\nDESARROLLO DEL TEMA\nRiesgo ocupacional: probabilidad de que un factor/proceso peligroso del trabajo cause enfermedad o lesión. Peligro es fuente con potencial de daño; riesgo considera probabilidad y consecuencias.\n\nAccidente de trabajo: suceso repentino por causa o con ocasión del trabajo que produce lesión, perturbación funcional, invalidez o muerte; puede ocurrir al ejecutar órdenes fuera del centro u horario.\n\nEnfermedad profesional/ocupacional: patología atribuible a exposición laboral a agentes o procesos relevantes, según evaluación clínica, ocupacional y normativa de listas y evidencias.\n\nÁmbito de SST en Perú: Ley 29783 y DS 005-2012-TR protegen a asalariados públicos/privados y trabajadores autónomos, en los términos que les resulten aplicables.\n\nVínculo laboral formal vigente no es requisito universal de existencia de riesgo profesional; por ejemplo, un vendedor independiente expuesto a productos químicos enfrenta riesgo laboral.\n\nEjemplo: el asbesto, el polvo de sílice, ruido, posturas forzadas, cargas y agentes biológicos pueden generar lesiones o enfermedades por exposición ocupacional prolongada.\n\nIPERC: identificar peligros, evaluar y controlar riesgos; jerarquía preventiva incluye eliminación, sustitución, controles de ingeniería, administrativos y equipo de protección personal.\n\nInvestigación de nexo laboral: actividad habitual, exposición, tiempo, circunstancias y otras etiologías. El solo diagnóstico no demuestra automáticamente origen laboral.\n\nTrampa de examen: la mejor letra de las opciones es D; la definición normativa correcta exige relación con trabajo, no una modalidad contractual.\n\nPrecaución: distinguir protección preventiva de SST de requisitos de aseguramiento, indemnización o acreditación de enfermedad profesional, que pueden tener reglas propias.\n\nANÁLISIS DE ALTERNATIVAS\nA. No tener vínculo laboral vigente no excluye por sí solo riesgo profesional: trabajadores autónomos y exposiciones laborales pasadas pueden ser relevantes; por eso tampoco sería una definición suficiente.\nB. Estar de vacaciones, sin trabajar ni ejecutar órdenes relacionadas, no convierte un accidente común en uno ocupacional por sí solo.\nC. «Actividad cotidiana» es inespecífica: puede ser doméstica, recreativa o laboral; falta vínculo causal con exposición o tarea de trabajo.\nD. Es la clave resaltada porque apunta al contexto laboral entre las opciones, pero su exigencia de vínculo laboral vigente es restrictiva y no coincide con la definición legal general.\n\nNORMATIVA Y FUENTES\nLey N.° 29783, Seguridad y Salud en el Trabajo | https://www.gob.pe/institucion/congreso-de-la-republica/normas-legales/462576-29783 | Protección de trabajadores y prevención de riesgos\nDS N.° 005-2012-TR, Reglamento de la Ley N.° 29783 | https://busquedas.elperuano.pe/dispositivo/NL/781249-1 | Riesgo laboral: probabilidad de daño por exposición peligrosa en el trabajo; incluye autónomos\nMTPE, Sistema Nacional de Seguridad y Salud en el Trabajo | https://www.gob.pe/29201-sistema-nacional-de-seguridad-y-salud-en-el-trabajo | Ámbito de la SST incluye a trabajadores por cuenta propia\n\nMNEMOTECNIA\nRIESGO LABORAL = PELIGRO del TRABAJO + EXPOSICIÓN + PROBABILIDAD DE DAÑO. No = contrato vigente obligatorio.\n\nTRAMPAS\nDecir que el trabajador independiente carece de riesgo laboral es falso bajo Ley 29783 y reglamento.\nFuera del centro/horario puede ser accidente laboral si ocurre por órdenes o con ocasión del trabajo.\nVacaciones por sí solas no generan nexo laboral de cualquier accidente.\nEnfermedad detectada después del cese podría relacionarse con exposición laboral previa; no se descarta automáticamente.\nEl enunciado es objetable; aprender la respuesta histórica D sin memorizar una regla jurídica falsa.\n\nPERLA\nP50 PDF marca D; LEY PERUANA: Riesgo laboral = exposición peligrosa en el trabajo, no depende exclusivamente de contrato vigente.",
+      "pearl": "P50 PDF marca D; LEY PERUANA: Riesgo laboral = exposición peligrosa en el trabajo, no depende exclusivamente de contrato vigente.",
+      "keywords": [
+        "Seguridad y salud en el trabajo",
+        "Riesgo laboral: exposición peligrosa y vínculo con la actividad, no solo contrato",
+        "ENCAPS 2026-II",
+        "MINSA régimen 276"
+      ],
+      "estadoDesarrollo": "completo",
+      "lesson": {
+        "respuesta_resumida": "D. Con vínculo laboral vigente (clave del PDF). Advertencia normativa: no es condición necesaria. El riesgo laboral se define por la probabilidad de daño derivado de exposición peligrosa en el trabajo, incluida actividad por cuenta propia.",
+        "razonamiento": "El cuadernillo plantea que «riesgo profesional» es posibilidad de accidente o enfermedad «con vínculo laboral vigente» y marca D porque es la única opción asociada a una situación laboral. No obstante, la definición jurídica de riesgo laboral del glosario del DS N.° 005-2012-TR es probabilidad de que la exposición a un factor o proceso peligroso en el trabajo cause enfermedad o lesión. La Ley N.° 29783 abarca expresamente a trabajadores por cuenta propia, y su reglamento contempla autónomos, por lo que no exige contrato laboral formal o vigente para que exista riesgo ocupacional. El nexo causal relevante es con la actividad de trabajo: incluso fuera de horario o local puede producirse accidente con ocasión del trabajo. Una lesión durante vacaciones NO es ocupacional por el solo hecho de ser trabajador, aunque una orden de trabajo ejecutada fuera de horario puede serlo. Esta pregunta presenta formulación jurídicamente engañosa y se debe diferenciar la clave histórica de la doctrina vigente.",
+        "temario": [
+          "Riesgo ocupacional: probabilidad de que un factor/proceso peligroso del trabajo cause enfermedad o lesión. Peligro es fuente con potencial de daño; riesgo considera probabilidad y consecuencias.",
+          "Accidente de trabajo: suceso repentino por causa o con ocasión del trabajo que produce lesión, perturbación funcional, invalidez o muerte; puede ocurrir al ejecutar órdenes fuera del centro u horario.",
+          "Enfermedad profesional/ocupacional: patología atribuible a exposición laboral a agentes o procesos relevantes, según evaluación clínica, ocupacional y normativa de listas y evidencias.",
+          "Ámbito de SST en Perú: Ley 29783 y DS 005-2012-TR protegen a asalariados públicos/privados y trabajadores autónomos, en los términos que les resulten aplicables.",
+          "Vínculo laboral formal vigente no es requisito universal de existencia de riesgo profesional; por ejemplo, un vendedor independiente expuesto a productos químicos enfrenta riesgo laboral.",
+          "Ejemplo: el asbesto, el polvo de sílice, ruido, posturas forzadas, cargas y agentes biológicos pueden generar lesiones o enfermedades por exposición ocupacional prolongada.",
+          "IPERC: identificar peligros, evaluar y controlar riesgos; jerarquía preventiva incluye eliminación, sustitución, controles de ingeniería, administrativos y equipo de protección personal.",
+          "Investigación de nexo laboral: actividad habitual, exposición, tiempo, circunstancias y otras etiologías. El solo diagnóstico no demuestra automáticamente origen laboral.",
+          "Trampa de examen: la mejor letra de las opciones es D; la definición normativa correcta exige relación con trabajo, no una modalidad contractual.",
+          "Precaución: distinguir protección preventiva de SST de requisitos de aseguramiento, indemnización o acreditación de enfermedad profesional, que pueden tener reglas propias."
+        ],
+        "por_que_no_las_otras": {
+          "A": "No tener vínculo laboral vigente no excluye por sí solo riesgo profesional: trabajadores autónomos y exposiciones laborales pasadas pueden ser relevantes; por eso tampoco sería una definición suficiente.",
+          "B": "Estar de vacaciones, sin trabajar ni ejecutar órdenes relacionadas, no convierte un accidente común en uno ocupacional por sí solo.",
+          "C": "«Actividad cotidiana» es inespecífica: puede ser doméstica, recreativa o laboral; falta vínculo causal con exposición o tarea de trabajo.",
+          "D": "Es la clave resaltada porque apunta al contexto laboral entre las opciones, pero su exigencia de vínculo laboral vigente es restrictiva y no coincide con la definición legal general."
+        },
+        "normativa": [
+          "Ley N.° 29783, Seguridad y Salud en el Trabajo | https://www.gob.pe/institucion/congreso-de-la-republica/normas-legales/462576-29783 | Protección de trabajadores y prevención de riesgos",
+          "DS N.° 005-2012-TR, Reglamento de la Ley N.° 29783 | https://busquedas.elperuano.pe/dispositivo/NL/781249-1 | Riesgo laboral: probabilidad de daño por exposición peligrosa en el trabajo; incluye autónomos",
+          "MTPE, Sistema Nacional de Seguridad y Salud en el Trabajo | https://www.gob.pe/29201-sistema-nacional-de-seguridad-y-salud-en-el-trabajo | Ámbito de la SST incluye a trabajadores por cuenta propia"
+        ],
+        "mnemotecnia": "RIESGO LABORAL = PELIGRO del TRABAJO + EXPOSICIÓN + PROBABILIDAD DE DAÑO. No = contrato vigente obligatorio.",
+        "trampas": [
+          "Decir que el trabajador independiente carece de riesgo laboral es falso bajo Ley 29783 y reglamento.",
+          "Fuera del centro/horario puede ser accidente laboral si ocurre por órdenes o con ocasión del trabajo.",
+          "Vacaciones por sí solas no generan nexo laboral de cualquier accidente.",
+          "Enfermedad detectada después del cese podría relacionarse con exposición laboral previa; no se descarta automáticamente.",
+          "El enunciado es objetable; aprender la respuesta histórica D sin memorizar una regla jurídica falsa."
+        ],
+        "perla": "P50 PDF marca D; LEY PERUANA: Riesgo laboral = exposición peligrosa en el trabajo, no depende exclusivamente de contrato vigente.",
+        "repaso_activo": [
+          "¿Cómo define el reglamento el riesgo laboral? — Probabilidad de enfermedad o lesión por exposición a factor/proceso peligroso en el trabajo.",
+          "¿Incluye Ley 29783 a trabajadores autónomos? — Sí, con el alcance regulatorio que corresponda.",
+          "¿Puede existir accidente laboral fuera de horas o lugar habitual? — Sí, si guarda relación con órdenes o ejecución del trabajo.",
+          "¿Qué es determinante clínico-ocupacional? — El nexo entre peligro/exposición laboral y daño, no solo el tipo de contrato."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Una mujer vende pinturas por cuenta propia sin contrato de trabajo y manipula solventes sin ventilación. ¿Cuál es la evaluación correcta respecto de su riesgo laboral?",
+            "alternativas": {
+              "A": "Presenta riesgo laboral por exposición peligrosa ligada a su actividad",
+              "B": "No tiene riesgo laboral porque carece de contrato formal",
+              "C": "Solo tiene riesgo si un empleador aporta a su seguro",
+              "D": "La exposición doméstica equivale siempre a una exposición profesional",
+              "E": "No puede aplicarse prevención de riesgos al trabajo autónomo"
+            },
+            "respuesta": "A",
+            "explicacion": "La SST también considera trabajo por cuenta propia; el riesgo surge de exposición a solventes en actividad laboral."
+          },
+          {
+            "enunciado": "Un técnico sufre una lesión mientras ejecuta una orden de reparación de la empresa fuera de su horario habitual. ¿Qué aspecto guía su clasificación?",
+            "alternativas": {
+              "A": "La hora fija en el contrato, sin otras circunstancias",
+              "B": "El hecho de que la lesión ocurra fuera de la sede",
+              "C": "La falta de uniforme de la empresa en ese momento",
+              "D": "El nexo con la ejecución de órdenes y ocasión del trabajo",
+              "E": "La cercanía del domicilio al lugar del accidente"
+            },
+            "respuesta": "D",
+            "explicacion": "La ejecución de órdenes del empleador puede configurar accidente de trabajo incluso fuera de lugar y horario habituales."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Riesgo laboral: exposición peligrosa y vínculo con la actividad, no solo contrato",
+          "eje": "Seguridad y salud en el trabajo",
+          "confiabilidad": "clave_resaltada_con_discrepancia_normativa",
+          "respuesta_resumida": "D. Con vínculo laboral vigente (clave del PDF). Advertencia normativa: no es condición necesaria. El riesgo laboral se define por la probabilidad de daño derivado de exposición peligrosa en el trabajo, incluida actividad por cuenta propia.",
+          "razonamiento": [
+            "El cuadernillo plantea que «riesgo profesional» es posibilidad de accidente o enfermedad «con vínculo laboral vigente» y marca D porque es la única opción asociada a una situación laboral. No obstante, la definición jurídica de riesgo laboral del glosario del DS N.° 005-2012-TR es probabilidad de que la exposición a un factor o proceso peligroso en el trabajo cause enfermedad o lesión. La Ley N.° 29783 abarca expresamente a trabajadores por cuenta propia, y su reglamento contempla autónomos, por lo que no exige contrato laboral formal o vigente para que exista riesgo ocupacional. El nexo causal relevante es con la actividad de trabajo: incluso fuera de horario o local puede producirse accidente con ocasión del trabajo. Una lesión durante vacaciones NO es ocupacional por el solo hecho de ser trabajador, aunque una orden de trabajo ejecutada fuera de horario puede serlo. Esta pregunta presenta formulación jurídicamente engañosa y se debe diferenciar la clave histórica de la doctrina vigente."
+          ],
+          "temario": [
+            "Riesgo ocupacional: probabilidad de que un factor/proceso peligroso del trabajo cause enfermedad o lesión. Peligro es fuente con potencial de daño; riesgo considera probabilidad y consecuencias.",
+            "Accidente de trabajo: suceso repentino por causa o con ocasión del trabajo que produce lesión, perturbación funcional, invalidez o muerte; puede ocurrir al ejecutar órdenes fuera del centro u horario.",
+            "Enfermedad profesional/ocupacional: patología atribuible a exposición laboral a agentes o procesos relevantes, según evaluación clínica, ocupacional y normativa de listas y evidencias.",
+            "Ámbito de SST en Perú: Ley 29783 y DS 005-2012-TR protegen a asalariados públicos/privados y trabajadores autónomos, en los términos que les resulten aplicables.",
+            "Vínculo laboral formal vigente no es requisito universal de existencia de riesgo profesional; por ejemplo, un vendedor independiente expuesto a productos químicos enfrenta riesgo laboral.",
+            "Ejemplo: el asbesto, el polvo de sílice, ruido, posturas forzadas, cargas y agentes biológicos pueden generar lesiones o enfermedades por exposición ocupacional prolongada.",
+            "IPERC: identificar peligros, evaluar y controlar riesgos; jerarquía preventiva incluye eliminación, sustitución, controles de ingeniería, administrativos y equipo de protección personal.",
+            "Investigación de nexo laboral: actividad habitual, exposición, tiempo, circunstancias y otras etiologías. El solo diagnóstico no demuestra automáticamente origen laboral.",
+            "Trampa de examen: la mejor letra de las opciones es D; la definición normativa correcta exige relación con trabajo, no una modalidad contractual.",
+            "Precaución: distinguir protección preventiva de SST de requisitos de aseguramiento, indemnización o acreditación de enfermedad profesional, que pueden tener reglas propias."
+          ],
+          "distractores": {
+            "A": "No tener vínculo laboral vigente no excluye por sí solo riesgo profesional: trabajadores autónomos y exposiciones laborales pasadas pueden ser relevantes; por eso tampoco sería una definición suficiente.",
+            "B": "Estar de vacaciones, sin trabajar ni ejecutar órdenes relacionadas, no convierte un accidente común en uno ocupacional por sí solo.",
+            "C": "«Actividad cotidiana» es inespecífica: puede ser doméstica, recreativa o laboral; falta vínculo causal con exposición o tarea de trabajo.",
+            "D": "Es la clave resaltada porque apunta al contexto laboral entre las opciones, pero su exigencia de vínculo laboral vigente es restrictiva y no coincide con la definición legal general."
+          },
+          "normativa": [
+            {
+              "nombre": "Ley N.° 29783, Seguridad y Salud en el Trabajo",
+              "url": "https://www.gob.pe/institucion/congreso-de-la-republica/normas-legales/462576-29783",
+              "aplicacion": "Protección de trabajadores y prevención de riesgos"
+            },
+            {
+              "nombre": "DS N.° 005-2012-TR, Reglamento de la Ley N.° 29783",
+              "url": "https://busquedas.elperuano.pe/dispositivo/NL/781249-1",
+              "aplicacion": "Riesgo laboral: probabilidad de daño por exposición peligrosa en el trabajo; incluye autónomos"
+            },
+            {
+              "nombre": "MTPE, Sistema Nacional de Seguridad y Salud en el Trabajo",
+              "url": "https://www.gob.pe/29201-sistema-nacional-de-seguridad-y-salud-en-el-trabajo",
+              "aplicacion": "Ámbito de la SST incluye a trabajadores por cuenta propia"
+            }
+          ],
+          "mnemotecnia": "RIESGO LABORAL = PELIGRO del TRABAJO + EXPOSICIÓN + PROBABILIDAD DE DAÑO. No = contrato vigente obligatorio.",
+          "trampas": [
+            "Decir que el trabajador independiente carece de riesgo laboral es falso bajo Ley 29783 y reglamento.",
+            "Fuera del centro/horario puede ser accidente laboral si ocurre por órdenes o con ocasión del trabajo.",
+            "Vacaciones por sí solas no generan nexo laboral de cualquier accidente.",
+            "Enfermedad detectada después del cese podría relacionarse con exposición laboral previa; no se descarta automáticamente.",
+            "El enunciado es objetable; aprender la respuesta histórica D sin memorizar una regla jurídica falsa."
+          ],
+          "perla": "P50 PDF marca D; LEY PERUANA: Riesgo laboral = exposición peligrosa en el trabajo, no depende exclusivamente de contrato vigente.",
+          "repaso_activo": [
+            "¿Cómo define el reglamento el riesgo laboral? — Probabilidad de enfermedad o lesión por exposición a factor/proceso peligroso en el trabajo.",
+            "¿Incluye Ley 29783 a trabajadores autónomos? — Sí, con el alcance regulatorio que corresponda.",
+            "¿Puede existir accidente laboral fuera de horas o lugar habitual? — Sí, si guarda relación con órdenes o ejecución del trabajo.",
+            "¿Qué es determinante clínico-ocupacional? — El nexo entre peligro/exposición laboral y daño, no solo el tipo de contrato."
+          ],
+          "refuerzo": [
+            {
+              "enunciado": "Una mujer vende pinturas por cuenta propia sin contrato de trabajo y manipula solventes sin ventilación. ¿Cuál es la evaluación correcta respecto de su riesgo laboral?",
+              "alternativas": {
+                "A": "Presenta riesgo laboral por exposición peligrosa ligada a su actividad",
+                "B": "No tiene riesgo laboral porque carece de contrato formal",
+                "C": "Solo tiene riesgo si un empleador aporta a su seguro",
+                "D": "La exposición doméstica equivale siempre a una exposición profesional",
+                "E": "No puede aplicarse prevención de riesgos al trabajo autónomo"
+              },
+              "respuesta": "A",
+              "explicacion": "La SST también considera trabajo por cuenta propia; el riesgo surge de exposición a solventes en actividad laboral."
+            },
+            {
+              "enunciado": "Un técnico sufre una lesión mientras ejecuta una orden de reparación de la empresa fuera de su horario habitual. ¿Qué aspecto guía su clasificación?",
+              "alternativas": {
+                "A": "La hora fija en el contrato, sin otras circunstancias",
+                "B": "El hecho de que la lesión ocurra fuera de la sede",
+                "C": "La falta de uniforme de la empresa en ese momento",
+                "D": "El nexo con la ejecución de órdenes y ocasión del trabajo",
+                "E": "La cercanía del domicilio al lugar del accidente"
+              },
+              "respuesta": "D",
+              "explicacion": "La ejecución de órdenes del empleador puede configurar accidente de trabajo incluso fuera de lugar y horario habituales."
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
