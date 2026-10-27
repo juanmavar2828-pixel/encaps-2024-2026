@@ -13163,8 +13163,8 @@
     {
       "number": 61,
       "code": "ENCAPS26-II P061",
-      "course": "ENCAPS Medicina · Por desarrollar",
-      "topic": "ENCAPS Medicina 2026-II",
+      "course": "Inmunizaciones e infectología · sarampión",
+      "topic": "Panencefalitis esclerosante subaguda: complicación tardía del sarampión",
       "question": "¿Cuál es la complicación tardía y fatal del Sarampión?",
       "options": {
         "A": "Panencefalitis esclerosante subaguda",
@@ -13173,18 +13173,171 @@
         "D": "Neumonía"
       },
       "correct": "A",
-      "comment": "Tema pendiente de desarrollo detallado. La alternativa correcta indicada es la resaltada en el PDF del usuario; todavía no se ha cotejado independientemente contra el listado oficial de claves del MINSA.",
-      "pearl": "",
-      "keywords": [],
-      "estadoDesarrollo": "pendiente",
+      "comment": "Clave histórica marcada en el PDF del usuario; pendiente de cotejo independiente con tabla oficial: A. Panencefalitis esclerosante subaguda (PEES/SSPE). Es una complicación neurodegenerativa progresiva y casi siempre mortal, que suele aparecer varios años después de la infección por sarampión.\n\nRAZONAMIENTO\nLa expresión decisiva es «tardía y fatal». La PEES es producida por infección persistente del sistema nervioso central por virus del sarampión alterado y puede manifestarse incluso cuando la enfermedad febril inicial pareció completamente resuelta. El intervalo suele ser de 7 a 10 años; el riesgo es mayor cuando el sarampión ocurrió a edades muy tempranas. Cursa con cambios cognitivo-conductuales, deterioro progresivo, mioclonías, convulsiones y disfunción neurológica. No debe confundirse con la encefalitis aguda posinfecciosa, que ocurre alrededor del episodio agudo, ni con neumonía o ceguera, que son complicaciones conocidas pero no la encefalopatía crónica descrita. La prevención fundamental es la vacunación contra sarampión.\n\nDESARROLLO COMPLETO\nConcepto: panencefalitis esclerosante subaguda, secuela rara, progresiva y casi siempre fatal de infección previa por sarampión; no es recaída febril aguda común.\n\nLatencia: aparece habitualmente unos 7–10 años después del episodio de sarampión; puede ocurrir tras enfermedad contraída antes de los dos años.\n\nFisiopatología: infección persistente del sistema nervioso central con virus del sarampión alterado y posterior degeneración neuronal e inflamatoria.\n\nManifestaciones iniciales: disminución del rendimiento escolar, cambios de conducta, deterioro intelectual, alteraciones del lenguaje o movimientos.\n\nManifestaciones neurológicas posteriores: mioclonías, convulsiones, incoordinación, déficit progresivo y trastornos de conciencia; evaluación neurológica especializada.\n\nDiagnóstico de sospecha: antecedente de sarampión, evolución neurológica progresiva, EEG con descargas periódicas características y estudio de anticuerpos contra sarampión en suero/LCR según especialista.\n\nPronóstico: grave; no existe tratamiento curativo de eficacia establecida que revierta la evolución, y se requiere soporte multidisciplinario.\n\nPrevención primaria: protección mediante esquema de vacunación que contiene sarampión, seguimiento de cobertura y respuesta ante brotes.\n\nDiferencial: encefalitis aguda relacionada con sarampión durante la infección o poco después; neumonía suele ser complicación aguda; ceguera puede resultar de afectación ocular, pero no define una secuela tardía neurodegenerativa.\n\nANÁLISIS DE ALTERNATIVAS\nA. Correcta. Es la complicación neurológica tardía característica y prácticamente siempre fatal que pretende evaluar la pregunta.\nB. La encefalitis aguda o posinfecciosa se presenta poco tiempo después del cuadro agudo, no típicamente una década más tarde.\nC. La ceguera puede ser una secuela grave en determinados pacientes, pero no es la encefalopatía tardía específica del enunciado.\nD. La neumonía es frecuente y causa importante de muerte durante el sarampión agudo, no la complicación tardía de latencia prolongada.\n\nNORMATIVA Y FUENTES\nCDC, Clinical Overview of Measles | https://www.cdc.gov/measles/hcp/clinical-overview/ | La panencefalitis esclerosante subaguda (SSPE) es complicación degenerativa tardía y fatal, típica 7–10 años después\nCDC, Measles Symptoms and Complications | https://www.cdc.gov/measles/signs-symptoms/index.html | Diferencia encefalitis aguda, neumonía y complicaciones tardías del sistema nervioso\nMINSA, orientación ¿Qué es el sarampión? (2026) | https://www.gob.pe/42966 | Manifestaciones clínicas, prevención mediante vacunación y complicaciones\n\nMNEMOTECNIA\nSARAMPIÓN → AÑOS DESPUÉS → PEES: Pierde Escuela, Espasmos, Secuelas (y muerte).\n\nTRAMPAS DE EXAMEN\nNo confundir el sarampión agudo con la aparición años después de PEES.\nEl período de incubación del sarampión y el periodo de latencia hasta PEES son tiempos completamente distintos.\nNo llamar PEES a toda convulsión durante sarampión: requiere evolución neurodegenerativa tardía.\nLa neumonía puede ser fatal, pero la palabra «tardía» orienta inequívocamente a PEES.\n\nPERLA\nSARAMPIÓN + COMPLICACIÓN TARDÍA FATAL = PANENCEFALITIS ESCLEROSANTE SUBAGUDA, generalmente 7–10 años después.",
+      "pearl": "SARAMPIÓN + COMPLICACIÓN TARDÍA FATAL = PANENCEFALITIS ESCLEROSANTE SUBAGUDA, generalmente 7–10 años después.",
+      "keywords": [
+        "Inmunizaciones e infectología · sarampión",
+        "Panencefalitis esclerosante subaguda: complicación tardía del sarampión",
+        "ENCAPS 2026-II",
+        "MINSA 276"
+      ],
+      "estadoDesarrollo": "completo",
       "estadoClave": "resaltada_en_pdf_usuario_no_cotejada_independientemente_con_tabla_minsa",
-      "lesson": null
+      "lesson": {
+        "respuesta_resumida": "A. Panencefalitis esclerosante subaguda (PEES/SSPE). Es una complicación neurodegenerativa progresiva y casi siempre mortal, que suele aparecer varios años después de la infección por sarampión.",
+        "razonamiento": "La expresión decisiva es «tardía y fatal». La PEES es producida por infección persistente del sistema nervioso central por virus del sarampión alterado y puede manifestarse incluso cuando la enfermedad febril inicial pareció completamente resuelta. El intervalo suele ser de 7 a 10 años; el riesgo es mayor cuando el sarampión ocurrió a edades muy tempranas. Cursa con cambios cognitivo-conductuales, deterioro progresivo, mioclonías, convulsiones y disfunción neurológica. No debe confundirse con la encefalitis aguda posinfecciosa, que ocurre alrededor del episodio agudo, ni con neumonía o ceguera, que son complicaciones conocidas pero no la encefalopatía crónica descrita. La prevención fundamental es la vacunación contra sarampión.",
+        "temario": [
+          "Concepto: panencefalitis esclerosante subaguda, secuela rara, progresiva y casi siempre fatal de infección previa por sarampión; no es recaída febril aguda común.",
+          "Latencia: aparece habitualmente unos 7–10 años después del episodio de sarampión; puede ocurrir tras enfermedad contraída antes de los dos años.",
+          "Fisiopatología: infección persistente del sistema nervioso central con virus del sarampión alterado y posterior degeneración neuronal e inflamatoria.",
+          "Manifestaciones iniciales: disminución del rendimiento escolar, cambios de conducta, deterioro intelectual, alteraciones del lenguaje o movimientos.",
+          "Manifestaciones neurológicas posteriores: mioclonías, convulsiones, incoordinación, déficit progresivo y trastornos de conciencia; evaluación neurológica especializada.",
+          "Diagnóstico de sospecha: antecedente de sarampión, evolución neurológica progresiva, EEG con descargas periódicas características y estudio de anticuerpos contra sarampión en suero/LCR según especialista.",
+          "Pronóstico: grave; no existe tratamiento curativo de eficacia establecida que revierta la evolución, y se requiere soporte multidisciplinario.",
+          "Prevención primaria: protección mediante esquema de vacunación que contiene sarampión, seguimiento de cobertura y respuesta ante brotes.",
+          "Diferencial: encefalitis aguda relacionada con sarampión durante la infección o poco después; neumonía suele ser complicación aguda; ceguera puede resultar de afectación ocular, pero no define una secuela tardía neurodegenerativa."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Correcta. Es la complicación neurológica tardía característica y prácticamente siempre fatal que pretende evaluar la pregunta.",
+          "B": "La encefalitis aguda o posinfecciosa se presenta poco tiempo después del cuadro agudo, no típicamente una década más tarde.",
+          "C": "La ceguera puede ser una secuela grave en determinados pacientes, pero no es la encefalopatía tardía específica del enunciado.",
+          "D": "La neumonía es frecuente y causa importante de muerte durante el sarampión agudo, no la complicación tardía de latencia prolongada."
+        },
+        "normativa": [
+          "CDC, Clinical Overview of Measles | https://www.cdc.gov/measles/hcp/clinical-overview/ | La panencefalitis esclerosante subaguda (SSPE) es complicación degenerativa tardía y fatal, típica 7–10 años después",
+          "CDC, Measles Symptoms and Complications | https://www.cdc.gov/measles/signs-symptoms/index.html | Diferencia encefalitis aguda, neumonía y complicaciones tardías del sistema nervioso",
+          "MINSA, orientación ¿Qué es el sarampión? (2026) | https://www.gob.pe/42966 | Manifestaciones clínicas, prevención mediante vacunación y complicaciones"
+        ],
+        "mnemotecnia": "SARAMPIÓN → AÑOS DESPUÉS → PEES: Pierde Escuela, Espasmos, Secuelas (y muerte).",
+        "trampas": [
+          "No confundir el sarampión agudo con la aparición años después de PEES.",
+          "El período de incubación del sarampión y el periodo de latencia hasta PEES son tiempos completamente distintos.",
+          "No llamar PEES a toda convulsión durante sarampión: requiere evolución neurodegenerativa tardía.",
+          "La neumonía puede ser fatal, pero la palabra «tardía» orienta inequívocamente a PEES."
+        ],
+        "perla": "SARAMPIÓN + COMPLICACIÓN TARDÍA FATAL = PANENCEFALITIS ESCLEROSANTE SUBAGUDA, generalmente 7–10 años después.",
+        "repaso_activo": [
+          "¿Qué significa SSPE o PEES? — Panencefalitis esclerosante subaguda.",
+          "¿En qué tiempo suele aparecer? — Aproximadamente 7–10 años después del sarampión.",
+          "¿Qué manifestaciones dan sospecha? — Deterioro cognitivo/conductual y mioclonías/convulsiones progresivas.",
+          "¿Cuál es la prevención efectiva? — Vacunación contra sarampión."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Escolar de 12 años tuvo sarampión a los dos años de edad; ahora presenta caída del rendimiento, cambio de personalidad y sacudidas mioclónicas progresivas. ¿Cuál es la complicación más probable?",
+            "alternativas": {
+              "A": "Encefalitis bacteriana aguda",
+              "B": "Síndrome de Guillain-Barré",
+              "C": "Convulsión febril simple",
+              "D": "Panencefalitis esclerosante subaguda",
+              "E": "Meningitis meningocócica"
+            },
+            "respuesta": "D",
+            "explicacion": "La latencia de años junto con deterioro intelectual y mioclonías es clásica de la PEES."
+          },
+          {
+            "enunciado": "Un lactante no vacunado contrae sarampión y presenta hipoxemia y consolidación pulmonar en la primera semana de enfermedad. ¿Qué complicación corresponde al episodio actual?",
+            "alternativas": {
+              "A": "Panencefalitis esclerosante de latencia prolongada",
+              "B": "Neumonía asociada a sarampión",
+              "C": "Parkinsonismo postencefalítico de años",
+              "D": "Leucoencefalopatía subaguda idiopática",
+              "E": "Encefalopatía crónica tardía por persistencia viral"
+            },
+            "respuesta": "B",
+            "explicacion": "La neumonía es complicación aguda del sarampión; PEES surge tras años."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Panencefalitis esclerosante subaguda: complicación tardía del sarampión",
+          "eje": "Inmunizaciones e infectología · sarampión",
+          "confiabilidad": "clave_resaltada_fundamento_concordante",
+          "respuesta_resumida": "A. Panencefalitis esclerosante subaguda (PEES/SSPE). Es una complicación neurodegenerativa progresiva y casi siempre mortal, que suele aparecer varios años después de la infección por sarampión.",
+          "razonamiento": [
+            "La expresión decisiva es «tardía y fatal». La PEES es producida por infección persistente del sistema nervioso central por virus del sarampión alterado y puede manifestarse incluso cuando la enfermedad febril inicial pareció completamente resuelta. El intervalo suele ser de 7 a 10 años; el riesgo es mayor cuando el sarampión ocurrió a edades muy tempranas. Cursa con cambios cognitivo-conductuales, deterioro progresivo, mioclonías, convulsiones y disfunción neurológica. No debe confundirse con la encefalitis aguda posinfecciosa, que ocurre alrededor del episodio agudo, ni con neumonía o ceguera, que son complicaciones conocidas pero no la encefalopatía crónica descrita. La prevención fundamental es la vacunación contra sarampión."
+          ],
+          "temario": [
+            "Concepto: panencefalitis esclerosante subaguda, secuela rara, progresiva y casi siempre fatal de infección previa por sarampión; no es recaída febril aguda común.",
+            "Latencia: aparece habitualmente unos 7–10 años después del episodio de sarampión; puede ocurrir tras enfermedad contraída antes de los dos años.",
+            "Fisiopatología: infección persistente del sistema nervioso central con virus del sarampión alterado y posterior degeneración neuronal e inflamatoria.",
+            "Manifestaciones iniciales: disminución del rendimiento escolar, cambios de conducta, deterioro intelectual, alteraciones del lenguaje o movimientos.",
+            "Manifestaciones neurológicas posteriores: mioclonías, convulsiones, incoordinación, déficit progresivo y trastornos de conciencia; evaluación neurológica especializada.",
+            "Diagnóstico de sospecha: antecedente de sarampión, evolución neurológica progresiva, EEG con descargas periódicas características y estudio de anticuerpos contra sarampión en suero/LCR según especialista.",
+            "Pronóstico: grave; no existe tratamiento curativo de eficacia establecida que revierta la evolución, y se requiere soporte multidisciplinario.",
+            "Prevención primaria: protección mediante esquema de vacunación que contiene sarampión, seguimiento de cobertura y respuesta ante brotes.",
+            "Diferencial: encefalitis aguda relacionada con sarampión durante la infección o poco después; neumonía suele ser complicación aguda; ceguera puede resultar de afectación ocular, pero no define una secuela tardía neurodegenerativa."
+          ],
+          "distractores": {
+            "A": "Correcta. Es la complicación neurológica tardía característica y prácticamente siempre fatal que pretende evaluar la pregunta.",
+            "B": "La encefalitis aguda o posinfecciosa se presenta poco tiempo después del cuadro agudo, no típicamente una década más tarde.",
+            "C": "La ceguera puede ser una secuela grave en determinados pacientes, pero no es la encefalopatía tardía específica del enunciado.",
+            "D": "La neumonía es frecuente y causa importante de muerte durante el sarampión agudo, no la complicación tardía de latencia prolongada."
+          },
+          "normativa": [
+            {
+              "nombre": "CDC, Clinical Overview of Measles",
+              "url": "https://www.cdc.gov/measles/hcp/clinical-overview/",
+              "aplicacion": "La panencefalitis esclerosante subaguda (SSPE) es complicación degenerativa tardía y fatal, típica 7–10 años después"
+            },
+            {
+              "nombre": "CDC, Measles Symptoms and Complications",
+              "url": "https://www.cdc.gov/measles/signs-symptoms/index.html",
+              "aplicacion": "Diferencia encefalitis aguda, neumonía y complicaciones tardías del sistema nervioso"
+            },
+            {
+              "nombre": "MINSA, orientación ¿Qué es el sarampión? (2026)",
+              "url": "https://www.gob.pe/42966",
+              "aplicacion": "Manifestaciones clínicas, prevención mediante vacunación y complicaciones"
+            }
+          ],
+          "mnemotecnia": "SARAMPIÓN → AÑOS DESPUÉS → PEES: Pierde Escuela, Espasmos, Secuelas (y muerte).",
+          "trampas": [
+            "No confundir el sarampión agudo con la aparición años después de PEES.",
+            "El período de incubación del sarampión y el periodo de latencia hasta PEES son tiempos completamente distintos.",
+            "No llamar PEES a toda convulsión durante sarampión: requiere evolución neurodegenerativa tardía.",
+            "La neumonía puede ser fatal, pero la palabra «tardía» orienta inequívocamente a PEES."
+          ],
+          "perla": "SARAMPIÓN + COMPLICACIÓN TARDÍA FATAL = PANENCEFALITIS ESCLEROSANTE SUBAGUDA, generalmente 7–10 años después.",
+          "repaso_activo": [
+            "¿Qué significa SSPE o PEES? — Panencefalitis esclerosante subaguda.",
+            "¿En qué tiempo suele aparecer? — Aproximadamente 7–10 años después del sarampión.",
+            "¿Qué manifestaciones dan sospecha? — Deterioro cognitivo/conductual y mioclonías/convulsiones progresivas.",
+            "¿Cuál es la prevención efectiva? — Vacunación contra sarampión."
+          ],
+          "refuerzo": [
+            {
+              "enunciado": "Escolar de 12 años tuvo sarampión a los dos años de edad; ahora presenta caída del rendimiento, cambio de personalidad y sacudidas mioclónicas progresivas. ¿Cuál es la complicación más probable?",
+              "alternativas": {
+                "A": "Encefalitis bacteriana aguda",
+                "B": "Síndrome de Guillain-Barré",
+                "C": "Convulsión febril simple",
+                "D": "Panencefalitis esclerosante subaguda",
+                "E": "Meningitis meningocócica"
+              },
+              "respuesta": "D",
+              "explicacion": "La latencia de años junto con deterioro intelectual y mioclonías es clásica de la PEES."
+            },
+            {
+              "enunciado": "Un lactante no vacunado contrae sarampión y presenta hipoxemia y consolidación pulmonar en la primera semana de enfermedad. ¿Qué complicación corresponde al episodio actual?",
+              "alternativas": {
+                "A": "Panencefalitis esclerosante de latencia prolongada",
+                "B": "Neumonía asociada a sarampión",
+                "C": "Parkinsonismo postencefalítico de años",
+                "D": "Leucoencefalopatía subaguda idiopática",
+                "E": "Encefalopatía crónica tardía por persistencia viral"
+              },
+              "respuesta": "B",
+              "explicacion": "La neumonía es complicación aguda del sarampión; PEES surge tras años."
+            }
+          ]
+        }
+      }
     },
     {
       "number": 62,
       "code": "ENCAPS26-II P062",
-      "course": "ENCAPS Medicina · Por desarrollar",
-      "topic": "ENCAPS Medicina 2026-II",
+      "course": "Gestión sanitaria · clima organizacional",
+      "topic": "Gestión del clima organizacional: planificación, intervención y evaluación",
       "question": "Se asigna nuevo jefe en un EESS del primer nivel de atención; al llegar percibe insatisfacción y quejas de los trabajadores sobre el ambiente de trabajo. Es por ello, que decide hacer gestión del ...... dividido en tres fases: planificación, intervención y evaluación; para promover un ambiente de trabajo agradable y así el logro de objetivos institucionales.",
       "options": {
         "A": "ambiente laboral",
@@ -13193,18 +13346,171 @@
         "D": "clima organizacional"
       },
       "correct": "D",
-      "comment": "Tema pendiente de desarrollo detallado. La alternativa correcta indicada es la resaltada en el PDF del usuario; todavía no se ha cotejado independientemente contra el listado oficial de claves del MINSA.",
-      "pearl": "",
-      "keywords": [],
-      "estadoDesarrollo": "pendiente",
+      "comment": "Clave histórica marcada en el PDF del usuario; pendiente de cotejo independiente con tabla oficial: D. Clima organizacional. Su gestión identifica percepciones de trabajadores, interviene sobre problemas y evalúa resultados para mejorar la organización.\n\nRAZONAMIENTO\nEl caso presenta una jefatura que encuentra insatisfacción y quejas de trabajadores y decide implementar un proceso estructurado de planificación, intervención y evaluación. La formulación coincide con el documento de gestión del clima organizacional en el sector salud. El MINSA aprobó la metodología para su estudio mediante RM N.° 468-2011-MINSA. En ejemplos de gestión institucional, la fase de planificación prepara y organiza la medición; la intervención reúne medición, diagnóstico, comunicación de hallazgos y plan de acción; la evaluación revisa cumplimiento y efectividad. Es un ciclo de mejora, no solamente «poner buen ambiente».\n\nDESARROLLO COMPLETO\nClima organizacional: percepciones compartidas sobre liderazgo, motivación, recompensa, cooperación, comunicaciones y funcionamiento del establecimiento.\n\nImpacto: clima desfavorable puede asociarse a rotación, ausentismo, conflicto, desempeño y satisfacción de trabajadores y usuarios; evitar causalidad automática sin estudios.\n\nMarco MINSA: metodología aprobada con RM 468-2011-MINSA para estudiar clima en organizaciones de salud; usar encuestas y participación del personal.\n\nPlanificación: compromiso de dirección, sensibilización, preparación técnica de instrumentos, cronograma, responsables y garantía de confidencialidad.\n\nIntervención: aplicación de encuestas/medición, diagnóstico de brechas, devolución de resultados y elaboración participativa del plan de acción.\n\nEvaluación: verificar cumplimiento del plan, efectividad de medidas y cambios de percepción, con indicadores y retroalimentación.\n\nDimensiones MINSA: potencial humano, diseño organizacional y cultura organizacional; entre sus dimensiones: liderazgo, innovación, recompensa, confort, estructura, decisiones, comunicación, identidad, conflicto/cooperación y motivación.\n\nDiferenciar cultura de clima: cultura son valores y prácticas compartidas, clima es percepción del ambiente presente.\n\nMedidas de mejora: organización justa de turnos, canales de comunicación, liderazgo no punitivo, seguridad psicológica y participación; asignar plazos y responsables.\n\nANÁLISIS DE ALTERNATIVAS\nA. Ambiente laboral es una expresión amplia que describe condiciones de trabajo; no designa con precisión la metodología de tres fases citada.\nB. Trabajo en equipo es un elemento o resultado del clima, no el proceso completo de diagnóstico, plan y evaluación.\nC. Desarrollo profesional comprende capacitación y carrera; no abarca todas las percepciones organizativas y el plan de clima.\nD. Correcta. La gestión del clima organizacional comprende planificación, intervención y evaluación.\n\nNORMATIVA Y FUENTES\nMINSA, RM N.° 468-2011-MINSA | https://www.gob.pe/institucion/minsa/normas-legales/243565-468-2011- | Aprueba metodología para el estudio del clima organizacional, versión 02\nMINSA, Metodología para el estudio del clima organizacional | https://www.gob.pe/institucion/minsa/informes-publicaciones/321710-metodologia-para-el-estudio-del-clima-organizacional-documento-tecnico-r-m-n-468-2011-minsa | Instrumentos para medición y mejora del clima en organizaciones de salud\nInstituto Nacional de Salud Mental, Plan de Acción de Mejora de Cultura y Clima Organizacional 2019 | https://www.insm.gob.pe/transparencia/archivos/datgen/dirfun/2019/RDN%C2%B0175-2019-1.pdf | Sección 5.3: planificación, intervención y evaluación\n\nMNEMOTECNIA\nCLIMA = P-I-E: PLANIFICO, INTERVENGO y EVALÚO.\n\nTRAMPAS DE EXAMEN\nNo confundir clima (percepción actual) con cultura organizacional (valores y normas persistentes).\nLa etapa de intervención incluye diagnóstico y elaboración de un plan, no solo charlas de motivación.\nMedir con encuestas sin ejecutar y evaluar mejoras deja incompleto el ciclo.\nUna queja individual exige escucha y abordaje, pero el clima organizacional se estudia a nivel colectivo.\n\nPERLA\nSi aparecen tres fases PLANIFICACIÓN–INTERVENCIÓN–EVALUACIÓN y quejas del personal, responde CLIMA ORGANIZACIONAL.",
+      "pearl": "Si aparecen tres fases PLANIFICACIÓN–INTERVENCIÓN–EVALUACIÓN y quejas del personal, responde CLIMA ORGANIZACIONAL.",
+      "keywords": [
+        "Gestión sanitaria · clima organizacional",
+        "Gestión del clima organizacional: planificación, intervención y evaluación",
+        "ENCAPS 2026-II",
+        "MINSA 276"
+      ],
+      "estadoDesarrollo": "completo",
       "estadoClave": "resaltada_en_pdf_usuario_no_cotejada_independientemente_con_tabla_minsa",
-      "lesson": null
+      "lesson": {
+        "respuesta_resumida": "D. Clima organizacional. Su gestión identifica percepciones de trabajadores, interviene sobre problemas y evalúa resultados para mejorar la organización.",
+        "razonamiento": "El caso presenta una jefatura que encuentra insatisfacción y quejas de trabajadores y decide implementar un proceso estructurado de planificación, intervención y evaluación. La formulación coincide con el documento de gestión del clima organizacional en el sector salud. El MINSA aprobó la metodología para su estudio mediante RM N.° 468-2011-MINSA. En ejemplos de gestión institucional, la fase de planificación prepara y organiza la medición; la intervención reúne medición, diagnóstico, comunicación de hallazgos y plan de acción; la evaluación revisa cumplimiento y efectividad. Es un ciclo de mejora, no solamente «poner buen ambiente».",
+        "temario": [
+          "Clima organizacional: percepciones compartidas sobre liderazgo, motivación, recompensa, cooperación, comunicaciones y funcionamiento del establecimiento.",
+          "Impacto: clima desfavorable puede asociarse a rotación, ausentismo, conflicto, desempeño y satisfacción de trabajadores y usuarios; evitar causalidad automática sin estudios.",
+          "Marco MINSA: metodología aprobada con RM 468-2011-MINSA para estudiar clima en organizaciones de salud; usar encuestas y participación del personal.",
+          "Planificación: compromiso de dirección, sensibilización, preparación técnica de instrumentos, cronograma, responsables y garantía de confidencialidad.",
+          "Intervención: aplicación de encuestas/medición, diagnóstico de brechas, devolución de resultados y elaboración participativa del plan de acción.",
+          "Evaluación: verificar cumplimiento del plan, efectividad de medidas y cambios de percepción, con indicadores y retroalimentación.",
+          "Dimensiones MINSA: potencial humano, diseño organizacional y cultura organizacional; entre sus dimensiones: liderazgo, innovación, recompensa, confort, estructura, decisiones, comunicación, identidad, conflicto/cooperación y motivación.",
+          "Diferenciar cultura de clima: cultura son valores y prácticas compartidas, clima es percepción del ambiente presente.",
+          "Medidas de mejora: organización justa de turnos, canales de comunicación, liderazgo no punitivo, seguridad psicológica y participación; asignar plazos y responsables."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Ambiente laboral es una expresión amplia que describe condiciones de trabajo; no designa con precisión la metodología de tres fases citada.",
+          "B": "Trabajo en equipo es un elemento o resultado del clima, no el proceso completo de diagnóstico, plan y evaluación.",
+          "C": "Desarrollo profesional comprende capacitación y carrera; no abarca todas las percepciones organizativas y el plan de clima.",
+          "D": "Correcta. La gestión del clima organizacional comprende planificación, intervención y evaluación."
+        },
+        "normativa": [
+          "MINSA, RM N.° 468-2011-MINSA | https://www.gob.pe/institucion/minsa/normas-legales/243565-468-2011- | Aprueba metodología para el estudio del clima organizacional, versión 02",
+          "MINSA, Metodología para el estudio del clima organizacional | https://www.gob.pe/institucion/minsa/informes-publicaciones/321710-metodologia-para-el-estudio-del-clima-organizacional-documento-tecnico-r-m-n-468-2011-minsa | Instrumentos para medición y mejora del clima en organizaciones de salud",
+          "Instituto Nacional de Salud Mental, Plan de Acción de Mejora de Cultura y Clima Organizacional 2019 | https://www.insm.gob.pe/transparencia/archivos/datgen/dirfun/2019/RDN%C2%B0175-2019-1.pdf | Sección 5.3: planificación, intervención y evaluación"
+        ],
+        "mnemotecnia": "CLIMA = P-I-E: PLANIFICO, INTERVENGO y EVALÚO.",
+        "trampas": [
+          "No confundir clima (percepción actual) con cultura organizacional (valores y normas persistentes).",
+          "La etapa de intervención incluye diagnóstico y elaboración de un plan, no solo charlas de motivación.",
+          "Medir con encuestas sin ejecutar y evaluar mejoras deja incompleto el ciclo.",
+          "Una queja individual exige escucha y abordaje, pero el clima organizacional se estudia a nivel colectivo."
+        ],
+        "perla": "Si aparecen tres fases PLANIFICACIÓN–INTERVENCIÓN–EVALUACIÓN y quejas del personal, responde CLIMA ORGANIZACIONAL.",
+        "repaso_activo": [
+          "¿Cuáles son las tres fases del proceso? — Planificación, intervención, evaluación.",
+          "¿Qué diferencia clima de cultura? — Percepciones del ambiente frente a valores y normas compartidos.",
+          "¿Qué documento MINSA aprueba la metodología V.02? — RM N.° 468-2011-MINSA.",
+          "¿Qué se verifica al evaluar? — Cumplimiento y efectividad del plan de mejora."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "En un centro I-3 se aplica encuesta anónima, se analizan resultados y se diseña un plan para mejorar turnos y liderazgo. ¿Qué está gestionando la dirección?",
+            "alternativas": {
+              "A": "Cobertura del calendario de vacunas",
+              "B": "Competitividad exclusiva del mercado",
+              "C": "Clima organizacional",
+              "D": "Niveles de complejidad asistencial",
+              "E": "Distribución de prevalencia poblacional"
+            },
+            "respuesta": "C",
+            "explicacion": "Es diagnóstico e intervención sobre percepciones y condiciones del ambiente de trabajo."
+          },
+          {
+            "enunciado": "Tras ejecutar un plan contra el ausentismo y conflictos, el equipo compara indicadores y percepciones con la línea de base. ¿En qué fase se encuentra?",
+            "alternativas": {
+              "A": "Evaluación de efectividad del plan",
+              "B": "Identificación inicial de actores solamente",
+              "C": "Contratación de personal sin resultados",
+              "D": "Redacción del instrumento sin aplicarlo",
+              "E": "Formulación de hipótesis etiológica infecciosa"
+            },
+            "respuesta": "A",
+            "explicacion": "La evaluación mide cumplimiento y cambios atribuibles o asociados a las acciones realizadas."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Gestión del clima organizacional: planificación, intervención y evaluación",
+          "eje": "Gestión sanitaria · clima organizacional",
+          "confiabilidad": "clave_resaltada_fundamento_concordante",
+          "respuesta_resumida": "D. Clima organizacional. Su gestión identifica percepciones de trabajadores, interviene sobre problemas y evalúa resultados para mejorar la organización.",
+          "razonamiento": [
+            "El caso presenta una jefatura que encuentra insatisfacción y quejas de trabajadores y decide implementar un proceso estructurado de planificación, intervención y evaluación. La formulación coincide con el documento de gestión del clima organizacional en el sector salud. El MINSA aprobó la metodología para su estudio mediante RM N.° 468-2011-MINSA. En ejemplos de gestión institucional, la fase de planificación prepara y organiza la medición; la intervención reúne medición, diagnóstico, comunicación de hallazgos y plan de acción; la evaluación revisa cumplimiento y efectividad. Es un ciclo de mejora, no solamente «poner buen ambiente»."
+          ],
+          "temario": [
+            "Clima organizacional: percepciones compartidas sobre liderazgo, motivación, recompensa, cooperación, comunicaciones y funcionamiento del establecimiento.",
+            "Impacto: clima desfavorable puede asociarse a rotación, ausentismo, conflicto, desempeño y satisfacción de trabajadores y usuarios; evitar causalidad automática sin estudios.",
+            "Marco MINSA: metodología aprobada con RM 468-2011-MINSA para estudiar clima en organizaciones de salud; usar encuestas y participación del personal.",
+            "Planificación: compromiso de dirección, sensibilización, preparación técnica de instrumentos, cronograma, responsables y garantía de confidencialidad.",
+            "Intervención: aplicación de encuestas/medición, diagnóstico de brechas, devolución de resultados y elaboración participativa del plan de acción.",
+            "Evaluación: verificar cumplimiento del plan, efectividad de medidas y cambios de percepción, con indicadores y retroalimentación.",
+            "Dimensiones MINSA: potencial humano, diseño organizacional y cultura organizacional; entre sus dimensiones: liderazgo, innovación, recompensa, confort, estructura, decisiones, comunicación, identidad, conflicto/cooperación y motivación.",
+            "Diferenciar cultura de clima: cultura son valores y prácticas compartidas, clima es percepción del ambiente presente.",
+            "Medidas de mejora: organización justa de turnos, canales de comunicación, liderazgo no punitivo, seguridad psicológica y participación; asignar plazos y responsables."
+          ],
+          "distractores": {
+            "A": "Ambiente laboral es una expresión amplia que describe condiciones de trabajo; no designa con precisión la metodología de tres fases citada.",
+            "B": "Trabajo en equipo es un elemento o resultado del clima, no el proceso completo de diagnóstico, plan y evaluación.",
+            "C": "Desarrollo profesional comprende capacitación y carrera; no abarca todas las percepciones organizativas y el plan de clima.",
+            "D": "Correcta. La gestión del clima organizacional comprende planificación, intervención y evaluación."
+          },
+          "normativa": [
+            {
+              "nombre": "MINSA, RM N.° 468-2011-MINSA",
+              "url": "https://www.gob.pe/institucion/minsa/normas-legales/243565-468-2011-",
+              "aplicacion": "Aprueba metodología para el estudio del clima organizacional, versión 02"
+            },
+            {
+              "nombre": "MINSA, Metodología para el estudio del clima organizacional",
+              "url": "https://www.gob.pe/institucion/minsa/informes-publicaciones/321710-metodologia-para-el-estudio-del-clima-organizacional-documento-tecnico-r-m-n-468-2011-minsa",
+              "aplicacion": "Instrumentos para medición y mejora del clima en organizaciones de salud"
+            },
+            {
+              "nombre": "Instituto Nacional de Salud Mental, Plan de Acción de Mejora de Cultura y Clima Organizacional 2019",
+              "url": "https://www.insm.gob.pe/transparencia/archivos/datgen/dirfun/2019/RDN%C2%B0175-2019-1.pdf",
+              "aplicacion": "Sección 5.3: planificación, intervención y evaluación"
+            }
+          ],
+          "mnemotecnia": "CLIMA = P-I-E: PLANIFICO, INTERVENGO y EVALÚO.",
+          "trampas": [
+            "No confundir clima (percepción actual) con cultura organizacional (valores y normas persistentes).",
+            "La etapa de intervención incluye diagnóstico y elaboración de un plan, no solo charlas de motivación.",
+            "Medir con encuestas sin ejecutar y evaluar mejoras deja incompleto el ciclo.",
+            "Una queja individual exige escucha y abordaje, pero el clima organizacional se estudia a nivel colectivo."
+          ],
+          "perla": "Si aparecen tres fases PLANIFICACIÓN–INTERVENCIÓN–EVALUACIÓN y quejas del personal, responde CLIMA ORGANIZACIONAL.",
+          "repaso_activo": [
+            "¿Cuáles son las tres fases del proceso? — Planificación, intervención, evaluación.",
+            "¿Qué diferencia clima de cultura? — Percepciones del ambiente frente a valores y normas compartidos.",
+            "¿Qué documento MINSA aprueba la metodología V.02? — RM N.° 468-2011-MINSA.",
+            "¿Qué se verifica al evaluar? — Cumplimiento y efectividad del plan de mejora."
+          ],
+          "refuerzo": [
+            {
+              "enunciado": "En un centro I-3 se aplica encuesta anónima, se analizan resultados y se diseña un plan para mejorar turnos y liderazgo. ¿Qué está gestionando la dirección?",
+              "alternativas": {
+                "A": "Cobertura del calendario de vacunas",
+                "B": "Competitividad exclusiva del mercado",
+                "C": "Clima organizacional",
+                "D": "Niveles de complejidad asistencial",
+                "E": "Distribución de prevalencia poblacional"
+              },
+              "respuesta": "C",
+              "explicacion": "Es diagnóstico e intervención sobre percepciones y condiciones del ambiente de trabajo."
+            },
+            {
+              "enunciado": "Tras ejecutar un plan contra el ausentismo y conflictos, el equipo compara indicadores y percepciones con la línea de base. ¿En qué fase se encuentra?",
+              "alternativas": {
+                "A": "Evaluación de efectividad del plan",
+                "B": "Identificación inicial de actores solamente",
+                "C": "Contratación de personal sin resultados",
+                "D": "Redacción del instrumento sin aplicarlo",
+                "E": "Formulación de hipótesis etiológica infecciosa"
+              },
+              "respuesta": "A",
+              "explicacion": "La evaluación mide cumplimiento y cambios atribuibles o asociados a las acciones realizadas."
+            }
+          ]
+        }
+      }
     },
     {
       "number": 63,
       "code": "ENCAPS26-II P063",
-      "course": "ENCAPS Medicina · Por desarrollar",
-      "topic": "ENCAPS Medicina 2026-II",
+      "course": "Metodología de investigación · obesidad infantil",
+      "topic": "Estudio descriptivo transversal para estimar prevalencia de obesidad",
       "question": "En un EESS nivel I-2 se desea conocer la prevalencia de obesidad en niños menores de 10 años; por lo cual, necesitamos recopilar datos antropométricos, hábitos alimenticios, ejercicio físico, escolaridad y relación familiar con variables que sean medibles. ¿Qué tipo de investigación sería la más conveniente aplicar en esta población?",
       "options": {
         "A": "Descriptiva",
@@ -13213,18 +13519,171 @@
         "D": "Explicativa"
       },
       "correct": "A",
-      "comment": "Tema pendiente de desarrollo detallado. La alternativa correcta indicada es la resaltada en el PDF del usuario; todavía no se ha cotejado independientemente contra el listado oficial de claves del MINSA.",
-      "pearl": "",
-      "keywords": [],
-      "estadoDesarrollo": "pendiente",
+      "comment": "Clave histórica marcada en el PDF del usuario; pendiente de cotejo independiente con tabla oficial: A. Descriptiva. Estimar la proporción de menores de 10 años con obesidad en una población definida corresponde a un objetivo descriptivo; un diseño transversal suele ser apropiado.\n\nRAZONAMIENTO\nEl propósito explícito es «conocer la prevalencia de obesidad». Para responderlo, se puede medir estado antropométrico y resumir frecuencias o proporciones en niños del ámbito, describiendo además hábitos y variables sociofamiliares. Esto corresponde a investigación descriptiva, generalmente mediante corte transversal, población y periodo determinados. Recopilar variables como alimentación y ejercicio no convierte el estudio en analítico: lo sería si se planificara probar asociaciones entre esas exposiciones y la obesidad. Una intervención para modificar hábitos y medir su efecto sería preexperimental o experimental según diseño.\n\nDESARROLLO COMPLETO\nObjetivo descriptivo: estimar cuánto ocurre un problema y cómo se distribuye por persona, lugar y tiempo; en este caso prevalencia de obesidad.\n\nPrevalencia puntual: número de niños que cumplen definición de obesidad / número total de niños evaluados en la población y fecha definidas × 100.\n\nDiseño transversal: medición en un periodo acotado; útil para prevalencias y características. También puede emplearse analíticamente según su objetivo.\n\nDefinición operacional: no basta peso absoluto; usar indicadores antropométricos por edad/sexo y referencias de crecimiento apropiadas. En menores de cinco años se usan criterios de crecimiento específicos, no aplicar directamente puntos de corte adultos de IMC.\n\nMuestreo: población objetivo menores de 10 años del área de adscripción; definir inclusión, exclusión, consentimiento y estrategia de muestreo válida.\n\nVariables descriptivas adicionales: edad, sexo, hábitos de actividad física, ingesta, contexto familiar y escolaridad; caracterizar no es demostrar efecto causal.\n\nCalidad de medición: básculas y tallímetros calibrados, entrenamiento, estandarización de mediciones, registro y protección de datos personales.\n\nAnálisis: frecuencias, proporciones, IC de prevalencia y estratificación por subgrupos; si se asocia actividad física con obesidad el objetivo pasa a ser analítico.\n\nPreexperimental: aplica una intervención sin control experimental riguroso y evalúa cambios; explicativo: investiga mecanismos o causas.\n\nANÁLISIS DE ALTERNATIVAS\nA. Correcta: cuantifica una frecuencia poblacional y describe características sin exigir probar asociaciones.\nB. Analítica correspondería si el fin central fuera estimar relación entre obesidad y hábitos u otros factores.\nC. Preexperimental implicaría aplicar una intervención y evaluar su efecto, lo que el escenario no describe.\nD. Explicativa supone investigar relaciones causales o mecanismos, no solo medir prevalencia.\n\nNORMATIVA Y FUENTES\nCDC, Field Epidemiology Manual, Describing Epidemiologic Data (2024) | https://www.cdc.gov/field-epi-manual/php/chapters/describing-epi-data.html | Frecuencias de enfermedad y descripción de persona, lugar y tiempo\nLesko et al., A Framework for Descriptive Epidemiology (2022) | https://pmc.ncbi.nlm.nih.gov/articles/PMC10144679/ | Diseño descriptivo para cuantificar prevalencia en población, lugar y periodo\nCDC, Principles of Epidemiology, Lesson 1 Section 5 | https://archive.cdc.gov/www_cdc_gov/csels/dsepd/ss1978/lesson1/section5.html | Diferenciar caracterización de tasas frente a análisis de factores asociados\n\nMNEMOTECNIA\nPREVALENCIA = DESCRIBE CUÁNTOS HAY; ASOCIACIÓN = ANALIZA CON QUÉ SE RELACIONA.\n\nTRAMPAS DE EXAMEN\nLa palabra «relación familiar» es una variable contextual; no significa que el análisis estudie relación causal.\nTransversal es el diseño temporal, mientras descriptivo indica el objetivo; pueden combinarse.\nPara obesidad infantil hay que emplear referencias por edad, no puntos de corte de IMC de adultos.\nPrevalencia no es incidencia: describe casos existentes en la población en un tiempo definido.\n\nPERLA\n«Deseo conocer PREVALENCIA» → DESCRIPTIVA (a menudo TRANSVERSAL).",
+      "pearl": "«Deseo conocer PREVALENCIA» → DESCRIPTIVA (a menudo TRANSVERSAL).",
+      "keywords": [
+        "Metodología de investigación · obesidad infantil",
+        "Estudio descriptivo transversal para estimar prevalencia de obesidad",
+        "ENCAPS 2026-II",
+        "MINSA 276"
+      ],
+      "estadoDesarrollo": "completo",
       "estadoClave": "resaltada_en_pdf_usuario_no_cotejada_independientemente_con_tabla_minsa",
-      "lesson": null
+      "lesson": {
+        "respuesta_resumida": "A. Descriptiva. Estimar la proporción de menores de 10 años con obesidad en una población definida corresponde a un objetivo descriptivo; un diseño transversal suele ser apropiado.",
+        "razonamiento": "El propósito explícito es «conocer la prevalencia de obesidad». Para responderlo, se puede medir estado antropométrico y resumir frecuencias o proporciones en niños del ámbito, describiendo además hábitos y variables sociofamiliares. Esto corresponde a investigación descriptiva, generalmente mediante corte transversal, población y periodo determinados. Recopilar variables como alimentación y ejercicio no convierte el estudio en analítico: lo sería si se planificara probar asociaciones entre esas exposiciones y la obesidad. Una intervención para modificar hábitos y medir su efecto sería preexperimental o experimental según diseño.",
+        "temario": [
+          "Objetivo descriptivo: estimar cuánto ocurre un problema y cómo se distribuye por persona, lugar y tiempo; en este caso prevalencia de obesidad.",
+          "Prevalencia puntual: número de niños que cumplen definición de obesidad / número total de niños evaluados en la población y fecha definidas × 100.",
+          "Diseño transversal: medición en un periodo acotado; útil para prevalencias y características. También puede emplearse analíticamente según su objetivo.",
+          "Definición operacional: no basta peso absoluto; usar indicadores antropométricos por edad/sexo y referencias de crecimiento apropiadas. En menores de cinco años se usan criterios de crecimiento específicos, no aplicar directamente puntos de corte adultos de IMC.",
+          "Muestreo: población objetivo menores de 10 años del área de adscripción; definir inclusión, exclusión, consentimiento y estrategia de muestreo válida.",
+          "Variables descriptivas adicionales: edad, sexo, hábitos de actividad física, ingesta, contexto familiar y escolaridad; caracterizar no es demostrar efecto causal.",
+          "Calidad de medición: básculas y tallímetros calibrados, entrenamiento, estandarización de mediciones, registro y protección de datos personales.",
+          "Análisis: frecuencias, proporciones, IC de prevalencia y estratificación por subgrupos; si se asocia actividad física con obesidad el objetivo pasa a ser analítico.",
+          "Preexperimental: aplica una intervención sin control experimental riguroso y evalúa cambios; explicativo: investiga mecanismos o causas."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Correcta: cuantifica una frecuencia poblacional y describe características sin exigir probar asociaciones.",
+          "B": "Analítica correspondería si el fin central fuera estimar relación entre obesidad y hábitos u otros factores.",
+          "C": "Preexperimental implicaría aplicar una intervención y evaluar su efecto, lo que el escenario no describe.",
+          "D": "Explicativa supone investigar relaciones causales o mecanismos, no solo medir prevalencia."
+        },
+        "normativa": [
+          "CDC, Field Epidemiology Manual, Describing Epidemiologic Data (2024) | https://www.cdc.gov/field-epi-manual/php/chapters/describing-epi-data.html | Frecuencias de enfermedad y descripción de persona, lugar y tiempo",
+          "Lesko et al., A Framework for Descriptive Epidemiology (2022) | https://pmc.ncbi.nlm.nih.gov/articles/PMC10144679/ | Diseño descriptivo para cuantificar prevalencia en población, lugar y periodo",
+          "CDC, Principles of Epidemiology, Lesson 1 Section 5 | https://archive.cdc.gov/www_cdc_gov/csels/dsepd/ss1978/lesson1/section5.html | Diferenciar caracterización de tasas frente a análisis de factores asociados"
+        ],
+        "mnemotecnia": "PREVALENCIA = DESCRIBE CUÁNTOS HAY; ASOCIACIÓN = ANALIZA CON QUÉ SE RELACIONA.",
+        "trampas": [
+          "La palabra «relación familiar» es una variable contextual; no significa que el análisis estudie relación causal.",
+          "Transversal es el diseño temporal, mientras descriptivo indica el objetivo; pueden combinarse.",
+          "Para obesidad infantil hay que emplear referencias por edad, no puntos de corte de IMC de adultos.",
+          "Prevalencia no es incidencia: describe casos existentes en la población en un tiempo definido."
+        ],
+        "perla": "«Deseo conocer PREVALENCIA» → DESCRIPTIVA (a menudo TRANSVERSAL).",
+        "repaso_activo": [
+          "¿Cómo se calcula prevalencia? — Casos existentes entre población total definida, multiplicado por 100 para porcentaje.",
+          "¿Cuándo el estudio se vuelve analítico? — Al evaluar asociaciones entre exposiciones y obesidad.",
+          "¿Un transversal puede ser analítico? — Sí, según el objetivo.",
+          "¿Puedo definir obesidad infantil por IMC ≥30 como en adultos? — No; usar indicadores apropiados por edad."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Equipo de salud pesa y talla a 400 escolares durante un mes para estimar cuántos presentan obesidad. ¿Cuál es el diseño más directo?",
+            "alternativas": {
+              "A": "Ensayo clínico con asignación aleatoria",
+              "B": "Cohorte con seguimiento de diez años",
+              "C": "Casos y controles de factores etiológicos",
+              "D": "Estudio fenomenológico de experiencias",
+              "E": "Corte transversal descriptivo"
+            },
+            "respuesta": "E",
+            "explicacion": "Se mide una frecuencia existente en una población durante un intervalo corto."
+          },
+          {
+            "enunciado": "En el mismo grupo, se compara prevalencia de obesidad entre quienes realizan distinta actividad física, calculando razones de prevalencia ajustadas. ¿Qué cambia respecto del objetivo inicial?",
+            "alternativas": {
+              "A": "Se convierte necesariamente en ensayo clínico",
+              "B": "Se añade un objetivo analítico de asociación",
+              "C": "No existe necesidad de controlar confusión",
+              "D": "Se demuestra causalidad por tratarse de transversal",
+              "E": "Se sustituye prevalencia por incidencia acumulada"
+            },
+            "respuesta": "B",
+            "explicacion": "La comparación de exposición y desenlace introduce análisis de asociación."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Estudio descriptivo transversal para estimar prevalencia de obesidad",
+          "eje": "Metodología de investigación · obesidad infantil",
+          "confiabilidad": "clave_resaltada_fundamento_concordante",
+          "respuesta_resumida": "A. Descriptiva. Estimar la proporción de menores de 10 años con obesidad en una población definida corresponde a un objetivo descriptivo; un diseño transversal suele ser apropiado.",
+          "razonamiento": [
+            "El propósito explícito es «conocer la prevalencia de obesidad». Para responderlo, se puede medir estado antropométrico y resumir frecuencias o proporciones en niños del ámbito, describiendo además hábitos y variables sociofamiliares. Esto corresponde a investigación descriptiva, generalmente mediante corte transversal, población y periodo determinados. Recopilar variables como alimentación y ejercicio no convierte el estudio en analítico: lo sería si se planificara probar asociaciones entre esas exposiciones y la obesidad. Una intervención para modificar hábitos y medir su efecto sería preexperimental o experimental según diseño."
+          ],
+          "temario": [
+            "Objetivo descriptivo: estimar cuánto ocurre un problema y cómo se distribuye por persona, lugar y tiempo; en este caso prevalencia de obesidad.",
+            "Prevalencia puntual: número de niños que cumplen definición de obesidad / número total de niños evaluados en la población y fecha definidas × 100.",
+            "Diseño transversal: medición en un periodo acotado; útil para prevalencias y características. También puede emplearse analíticamente según su objetivo.",
+            "Definición operacional: no basta peso absoluto; usar indicadores antropométricos por edad/sexo y referencias de crecimiento apropiadas. En menores de cinco años se usan criterios de crecimiento específicos, no aplicar directamente puntos de corte adultos de IMC.",
+            "Muestreo: población objetivo menores de 10 años del área de adscripción; definir inclusión, exclusión, consentimiento y estrategia de muestreo válida.",
+            "Variables descriptivas adicionales: edad, sexo, hábitos de actividad física, ingesta, contexto familiar y escolaridad; caracterizar no es demostrar efecto causal.",
+            "Calidad de medición: básculas y tallímetros calibrados, entrenamiento, estandarización de mediciones, registro y protección de datos personales.",
+            "Análisis: frecuencias, proporciones, IC de prevalencia y estratificación por subgrupos; si se asocia actividad física con obesidad el objetivo pasa a ser analítico.",
+            "Preexperimental: aplica una intervención sin control experimental riguroso y evalúa cambios; explicativo: investiga mecanismos o causas."
+          ],
+          "distractores": {
+            "A": "Correcta: cuantifica una frecuencia poblacional y describe características sin exigir probar asociaciones.",
+            "B": "Analítica correspondería si el fin central fuera estimar relación entre obesidad y hábitos u otros factores.",
+            "C": "Preexperimental implicaría aplicar una intervención y evaluar su efecto, lo que el escenario no describe.",
+            "D": "Explicativa supone investigar relaciones causales o mecanismos, no solo medir prevalencia."
+          },
+          "normativa": [
+            {
+              "nombre": "CDC, Field Epidemiology Manual, Describing Epidemiologic Data (2024)",
+              "url": "https://www.cdc.gov/field-epi-manual/php/chapters/describing-epi-data.html",
+              "aplicacion": "Frecuencias de enfermedad y descripción de persona, lugar y tiempo"
+            },
+            {
+              "nombre": "Lesko et al., A Framework for Descriptive Epidemiology (2022)",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10144679/",
+              "aplicacion": "Diseño descriptivo para cuantificar prevalencia en población, lugar y periodo"
+            },
+            {
+              "nombre": "CDC, Principles of Epidemiology, Lesson 1 Section 5",
+              "url": "https://archive.cdc.gov/www_cdc_gov/csels/dsepd/ss1978/lesson1/section5.html",
+              "aplicacion": "Diferenciar caracterización de tasas frente a análisis de factores asociados"
+            }
+          ],
+          "mnemotecnia": "PREVALENCIA = DESCRIBE CUÁNTOS HAY; ASOCIACIÓN = ANALIZA CON QUÉ SE RELACIONA.",
+          "trampas": [
+            "La palabra «relación familiar» es una variable contextual; no significa que el análisis estudie relación causal.",
+            "Transversal es el diseño temporal, mientras descriptivo indica el objetivo; pueden combinarse.",
+            "Para obesidad infantil hay que emplear referencias por edad, no puntos de corte de IMC de adultos.",
+            "Prevalencia no es incidencia: describe casos existentes en la población en un tiempo definido."
+          ],
+          "perla": "«Deseo conocer PREVALENCIA» → DESCRIPTIVA (a menudo TRANSVERSAL).",
+          "repaso_activo": [
+            "¿Cómo se calcula prevalencia? — Casos existentes entre población total definida, multiplicado por 100 para porcentaje.",
+            "¿Cuándo el estudio se vuelve analítico? — Al evaluar asociaciones entre exposiciones y obesidad.",
+            "¿Un transversal puede ser analítico? — Sí, según el objetivo.",
+            "¿Puedo definir obesidad infantil por IMC ≥30 como en adultos? — No; usar indicadores apropiados por edad."
+          ],
+          "refuerzo": [
+            {
+              "enunciado": "Equipo de salud pesa y talla a 400 escolares durante un mes para estimar cuántos presentan obesidad. ¿Cuál es el diseño más directo?",
+              "alternativas": {
+                "A": "Ensayo clínico con asignación aleatoria",
+                "B": "Cohorte con seguimiento de diez años",
+                "C": "Casos y controles de factores etiológicos",
+                "D": "Estudio fenomenológico de experiencias",
+                "E": "Corte transversal descriptivo"
+              },
+              "respuesta": "E",
+              "explicacion": "Se mide una frecuencia existente en una población durante un intervalo corto."
+            },
+            {
+              "enunciado": "En el mismo grupo, se compara prevalencia de obesidad entre quienes realizan distinta actividad física, calculando razones de prevalencia ajustadas. ¿Qué cambia respecto del objetivo inicial?",
+              "alternativas": {
+                "A": "Se convierte necesariamente en ensayo clínico",
+                "B": "Se añade un objetivo analítico de asociación",
+                "C": "No existe necesidad de controlar confusión",
+                "D": "Se demuestra causalidad por tratarse de transversal",
+                "E": "Se sustituye prevalencia por incidencia acumulada"
+              },
+              "respuesta": "B",
+              "explicacion": "La comparación de exposición y desenlace introduce análisis de asociación."
+            }
+          ]
+        }
+      }
     },
     {
       "number": 64,
       "code": "ENCAPS26-II P064",
-      "course": "ENCAPS Medicina · Por desarrollar",
-      "topic": "ENCAPS Medicina 2026-II",
+      "course": "Medicina tradicional, complementaria e integrativa",
+      "topic": "Medicina tradicional y complementaria: plantas, acupuntura y terapias manuales",
       "question": "En el último decenio, se incrementó la autoatención de salud, porque los usuarios prefieren ocuparse más activamente de su propia salud y los pacientes que sufren determinados trastornos crónicos, se inclinan a utilizar preparaciones herbarias, acupuntura y terapias manuales tales como la quiropráctica. Este tipo de prácticas de refiere a …",
       "options": {
         "A": "tratamiento paliativo.",
@@ -13233,18 +13692,171 @@
         "D": "tratamiento alternativo."
       },
       "correct": "B",
-      "comment": "Tema pendiente de desarrollo detallado. La alternativa correcta indicada es la resaltada en el PDF del usuario; todavía no se ha cotejado independientemente contra el listado oficial de claves del MINSA.",
-      "pearl": "",
-      "keywords": [],
-      "estadoDesarrollo": "pendiente",
+      "comment": "Clave histórica marcada en el PDF del usuario; pendiente de cotejo independiente con tabla oficial: B. Medicina tradicional y complementaria. Agrupa prácticas como preparados herbarios, acupuntura y terapias manuales, que pueden tener usos y niveles de evidencia diferentes.\n\nRAZONAMIENTO\nLa pregunta enumera un conjunto heterogéneo de procedimientos, precisamente la categoría amplia «medicina tradicional y complementaria» de la OMS. Tradicional se relaciona con conocimientos y prácticas surgidos de distintas culturas; complementaria es la utilizada junto con atención convencional; alternativa es la empleada en lugar de un tratamiento establecido. «Oriental» es una etiqueta geográfica insuficiente porque también hay prácticas de otras tradiciones. Que una persona elija autocuidados no garantiza que un producto sea seguro o eficaz: las plantas pueden interactuar con medicamentos, la acupuntura requiere precauciones y la manipulación vertebral tiene riesgos según condición. Indagar respetuosamente y evitar sustitución de tratamientos probados es fundamental.\n\nDESARROLLO COMPLETO\nDefinición OMS: sistemas y prácticas tradicionales, complementarias e integrativas que abarcan intervenciones de distintas culturas y marcos conceptuales, con evaluación científica variable.\n\nFitoterapia y preparados herbarios: pueden incluir mezclas y concentraciones poco estandarizadas; documentar nombre, dosis, origen e interacciones con medicamentos.\n\nAcupuntura: intervención con agujas en localizaciones específicas; evaluar indicación concreta, beneficios, cualificación del profesional y riesgo de infección o lesión.\n\nTerapias manuales: quiropráctica, osteopatía y otras técnicas; revisar tipo de maniobra, seguridad y contraindicaciones antes de indicar.\n\nTradicional vs complementaria: la primera remite a sistemas culturales; la segunda acompaña tratamiento convencional y no lo sustituye.\n\nAlternativa: se utiliza en lugar de tratamiento convencional. Esta conducta requiere advertir especialmente del riesgo de retrasar terapias eficaces.\n\nIntegrativa: combinación coordinada de atención convencional con intervenciones complementarias de eficacia y seguridad razonablemente demostradas, centrada en preferencias informadas.\n\nSeguridad clínica: enfermedades crónicas, polifarmacia, embarazo, insuficiencia renal/hepática y anticoagulantes ameritan revisar potenciales efectos adversos e interacciones.\n\nComunicación sin estigma: preguntar por autocuidados, escuchar objetivos del paciente, explicar grado de evidencia, registrar y pactar continuidad de seguimiento.\n\nANÁLISIS DE ALTERNATIVAS\nA. Paliativo se refiere a aliviar sufrimiento en enfermedades graves; no designa genéricamente estas técnicas de autocuidado.\nB. Correcta: es la categoría amplia de prácticas tradicionales y complementarias como hierbas, acupuntura y terapias manuales.\nC. Oriental remite a origen geográfico cultural de algunas prácticas, pero no cubre todo el conjunto heterogéneo descrito.\nD. Alternativo significa sustituir la atención convencional; el enunciado no dice que todas las técnicas se usen como reemplazo.\n\nNORMATIVA Y FUENTES\nOMS, Medicina tradicional: preguntas y respuestas (2025) | https://www.who.int/es/news-room/questions-and-answers/item/traditional-medicine | Conceptos de medicina tradicional, complementaria e integradora y atención segura\nINS Perú, Subdirección de Medicina Complementaria | https://www.gob.pe/44927-instituto-nacional-de-salud-medicina-alternativa-complementaria | Diferencia tradicional, complementaria, alternativa e integrativa\nOMS, Traditional Medicine Strategy 2014–2023 | https://iris.who.int/bitstream/handle/10665/92455/9789241506090_eng.pdf | Ejemplos: preparados herbarios, acupuntura y terapias manuales; riesgos de productos y profesionales no cualificados\n\nMNEMOTECNIA\nTRADICIONAL = ORIGEN CULTURAL; COMPLEMENTARIA = JUNTO A; ALTERNATIVA = EN LUGAR DE.\n\nTRAMPAS DE EXAMEN\nNatural no equivale a inocuo; revisar efectos adversos e interacciones farmacológicas.\nUsar acupuntura o plantas no implica automáticamente que sean eficaces para cualquier trastorno.\nNo confundir lo complementario con sustitución del tratamiento médico comprobado.\nEl respeto intercultural permite indagar sin avalar afirmaciones terapéuticas carentes de evidencia.\n\nPERLA\nHIERBAS + ACUPUNTURA + QUIROPRÁCTICA → TRADICIONAL Y COMPLEMENTARIA, con evaluación individual de seguridad.",
+      "pearl": "HIERBAS + ACUPUNTURA + QUIROPRÁCTICA → TRADICIONAL Y COMPLEMENTARIA, con evaluación individual de seguridad.",
+      "keywords": [
+        "Medicina tradicional, complementaria e integrativa",
+        "Medicina tradicional y complementaria: plantas, acupuntura y terapias manuales",
+        "ENCAPS 2026-II",
+        "MINSA 276"
+      ],
+      "estadoDesarrollo": "completo",
       "estadoClave": "resaltada_en_pdf_usuario_no_cotejada_independientemente_con_tabla_minsa",
-      "lesson": null
+      "lesson": {
+        "respuesta_resumida": "B. Medicina tradicional y complementaria. Agrupa prácticas como preparados herbarios, acupuntura y terapias manuales, que pueden tener usos y niveles de evidencia diferentes.",
+        "razonamiento": "La pregunta enumera un conjunto heterogéneo de procedimientos, precisamente la categoría amplia «medicina tradicional y complementaria» de la OMS. Tradicional se relaciona con conocimientos y prácticas surgidos de distintas culturas; complementaria es la utilizada junto con atención convencional; alternativa es la empleada en lugar de un tratamiento establecido. «Oriental» es una etiqueta geográfica insuficiente porque también hay prácticas de otras tradiciones. Que una persona elija autocuidados no garantiza que un producto sea seguro o eficaz: las plantas pueden interactuar con medicamentos, la acupuntura requiere precauciones y la manipulación vertebral tiene riesgos según condición. Indagar respetuosamente y evitar sustitución de tratamientos probados es fundamental.",
+        "temario": [
+          "Definición OMS: sistemas y prácticas tradicionales, complementarias e integrativas que abarcan intervenciones de distintas culturas y marcos conceptuales, con evaluación científica variable.",
+          "Fitoterapia y preparados herbarios: pueden incluir mezclas y concentraciones poco estandarizadas; documentar nombre, dosis, origen e interacciones con medicamentos.",
+          "Acupuntura: intervención con agujas en localizaciones específicas; evaluar indicación concreta, beneficios, cualificación del profesional y riesgo de infección o lesión.",
+          "Terapias manuales: quiropráctica, osteopatía y otras técnicas; revisar tipo de maniobra, seguridad y contraindicaciones antes de indicar.",
+          "Tradicional vs complementaria: la primera remite a sistemas culturales; la segunda acompaña tratamiento convencional y no lo sustituye.",
+          "Alternativa: se utiliza en lugar de tratamiento convencional. Esta conducta requiere advertir especialmente del riesgo de retrasar terapias eficaces.",
+          "Integrativa: combinación coordinada de atención convencional con intervenciones complementarias de eficacia y seguridad razonablemente demostradas, centrada en preferencias informadas.",
+          "Seguridad clínica: enfermedades crónicas, polifarmacia, embarazo, insuficiencia renal/hepática y anticoagulantes ameritan revisar potenciales efectos adversos e interacciones.",
+          "Comunicación sin estigma: preguntar por autocuidados, escuchar objetivos del paciente, explicar grado de evidencia, registrar y pactar continuidad de seguimiento."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Paliativo se refiere a aliviar sufrimiento en enfermedades graves; no designa genéricamente estas técnicas de autocuidado.",
+          "B": "Correcta: es la categoría amplia de prácticas tradicionales y complementarias como hierbas, acupuntura y terapias manuales.",
+          "C": "Oriental remite a origen geográfico cultural de algunas prácticas, pero no cubre todo el conjunto heterogéneo descrito.",
+          "D": "Alternativo significa sustituir la atención convencional; el enunciado no dice que todas las técnicas se usen como reemplazo."
+        },
+        "normativa": [
+          "OMS, Medicina tradicional: preguntas y respuestas (2025) | https://www.who.int/es/news-room/questions-and-answers/item/traditional-medicine | Conceptos de medicina tradicional, complementaria e integradora y atención segura",
+          "INS Perú, Subdirección de Medicina Complementaria | https://www.gob.pe/44927-instituto-nacional-de-salud-medicina-alternativa-complementaria | Diferencia tradicional, complementaria, alternativa e integrativa",
+          "OMS, Traditional Medicine Strategy 2014–2023 | https://iris.who.int/bitstream/handle/10665/92455/9789241506090_eng.pdf | Ejemplos: preparados herbarios, acupuntura y terapias manuales; riesgos de productos y profesionales no cualificados"
+        ],
+        "mnemotecnia": "TRADICIONAL = ORIGEN CULTURAL; COMPLEMENTARIA = JUNTO A; ALTERNATIVA = EN LUGAR DE.",
+        "trampas": [
+          "Natural no equivale a inocuo; revisar efectos adversos e interacciones farmacológicas.",
+          "Usar acupuntura o plantas no implica automáticamente que sean eficaces para cualquier trastorno.",
+          "No confundir lo complementario con sustitución del tratamiento médico comprobado.",
+          "El respeto intercultural permite indagar sin avalar afirmaciones terapéuticas carentes de evidencia."
+        ],
+        "perla": "HIERBAS + ACUPUNTURA + QUIROPRÁCTICA → TRADICIONAL Y COMPLEMENTARIA, con evaluación individual de seguridad.",
+        "repaso_activo": [
+          "¿Cuál es la diferencia entre complementaria y alternativa? — Junto a tratamiento convencional versus en su reemplazo.",
+          "¿Las plantas medicinales siempre son seguras? — No; hay toxicidad e interacciones.",
+          "¿Qué define integrativa? — Coordinación de prácticas seguras y sustentadas con medicina convencional.",
+          "¿Por qué no «oriental»? — No todas las prácticas citadas se originan en ese ámbito."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Paciente con hipertensión recibe tratamiento médico y desea agregar técnicas de relajación y acupuntura tras discutir evidencia y seguridad con su equipo. ¿Cómo se clasifica este uso?",
+            "alternativas": {
+              "A": "Terapia alternativa exclusiva sin seguimiento",
+              "B": "Sustitución por fitoterapia no evaluada",
+              "C": "Tratamiento paliativo por definición",
+              "D": "Uso complementario a la atención convencional",
+              "E": "Abandono del modelo biomédico"
+            },
+            "respuesta": "D",
+            "explicacion": "La intervención no sustituye la atención convencional y se añade de forma coordinada."
+          },
+          {
+            "enunciado": "Paciente con diabetes abandona fármacos de eficacia comprobada y utiliza exclusivamente una planta comercializada como curativa. ¿Qué aspecto merece más atención?",
+            "alternativas": {
+              "A": "Uso alternativo con riesgo de retrasar tratamiento efectivo",
+              "B": "Tratamiento integrativo supervisado demostrado",
+              "C": "Práctica complementaria que preserva el tratamiento",
+              "D": "No requiere investigar interacciones ni síntomas",
+              "E": "Conducta sin riesgo porque el producto es vegetal"
+            },
+            "respuesta": "A",
+            "explicacion": "Sustituir tratamientos eficaces es un uso alternativo con posibilidad de daño, además de riesgos de preparados herbarios."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Medicina tradicional y complementaria: plantas, acupuntura y terapias manuales",
+          "eje": "Medicina tradicional, complementaria e integrativa",
+          "confiabilidad": "clave_resaltada_fundamento_concordante",
+          "respuesta_resumida": "B. Medicina tradicional y complementaria. Agrupa prácticas como preparados herbarios, acupuntura y terapias manuales, que pueden tener usos y niveles de evidencia diferentes.",
+          "razonamiento": [
+            "La pregunta enumera un conjunto heterogéneo de procedimientos, precisamente la categoría amplia «medicina tradicional y complementaria» de la OMS. Tradicional se relaciona con conocimientos y prácticas surgidos de distintas culturas; complementaria es la utilizada junto con atención convencional; alternativa es la empleada en lugar de un tratamiento establecido. «Oriental» es una etiqueta geográfica insuficiente porque también hay prácticas de otras tradiciones. Que una persona elija autocuidados no garantiza que un producto sea seguro o eficaz: las plantas pueden interactuar con medicamentos, la acupuntura requiere precauciones y la manipulación vertebral tiene riesgos según condición. Indagar respetuosamente y evitar sustitución de tratamientos probados es fundamental."
+          ],
+          "temario": [
+            "Definición OMS: sistemas y prácticas tradicionales, complementarias e integrativas que abarcan intervenciones de distintas culturas y marcos conceptuales, con evaluación científica variable.",
+            "Fitoterapia y preparados herbarios: pueden incluir mezclas y concentraciones poco estandarizadas; documentar nombre, dosis, origen e interacciones con medicamentos.",
+            "Acupuntura: intervención con agujas en localizaciones específicas; evaluar indicación concreta, beneficios, cualificación del profesional y riesgo de infección o lesión.",
+            "Terapias manuales: quiropráctica, osteopatía y otras técnicas; revisar tipo de maniobra, seguridad y contraindicaciones antes de indicar.",
+            "Tradicional vs complementaria: la primera remite a sistemas culturales; la segunda acompaña tratamiento convencional y no lo sustituye.",
+            "Alternativa: se utiliza en lugar de tratamiento convencional. Esta conducta requiere advertir especialmente del riesgo de retrasar terapias eficaces.",
+            "Integrativa: combinación coordinada de atención convencional con intervenciones complementarias de eficacia y seguridad razonablemente demostradas, centrada en preferencias informadas.",
+            "Seguridad clínica: enfermedades crónicas, polifarmacia, embarazo, insuficiencia renal/hepática y anticoagulantes ameritan revisar potenciales efectos adversos e interacciones.",
+            "Comunicación sin estigma: preguntar por autocuidados, escuchar objetivos del paciente, explicar grado de evidencia, registrar y pactar continuidad de seguimiento."
+          ],
+          "distractores": {
+            "A": "Paliativo se refiere a aliviar sufrimiento en enfermedades graves; no designa genéricamente estas técnicas de autocuidado.",
+            "B": "Correcta: es la categoría amplia de prácticas tradicionales y complementarias como hierbas, acupuntura y terapias manuales.",
+            "C": "Oriental remite a origen geográfico cultural de algunas prácticas, pero no cubre todo el conjunto heterogéneo descrito.",
+            "D": "Alternativo significa sustituir la atención convencional; el enunciado no dice que todas las técnicas se usen como reemplazo."
+          },
+          "normativa": [
+            {
+              "nombre": "OMS, Medicina tradicional: preguntas y respuestas (2025)",
+              "url": "https://www.who.int/es/news-room/questions-and-answers/item/traditional-medicine",
+              "aplicacion": "Conceptos de medicina tradicional, complementaria e integradora y atención segura"
+            },
+            {
+              "nombre": "INS Perú, Subdirección de Medicina Complementaria",
+              "url": "https://www.gob.pe/44927-instituto-nacional-de-salud-medicina-alternativa-complementaria",
+              "aplicacion": "Diferencia tradicional, complementaria, alternativa e integrativa"
+            },
+            {
+              "nombre": "OMS, Traditional Medicine Strategy 2014–2023",
+              "url": "https://iris.who.int/bitstream/handle/10665/92455/9789241506090_eng.pdf",
+              "aplicacion": "Ejemplos: preparados herbarios, acupuntura y terapias manuales; riesgos de productos y profesionales no cualificados"
+            }
+          ],
+          "mnemotecnia": "TRADICIONAL = ORIGEN CULTURAL; COMPLEMENTARIA = JUNTO A; ALTERNATIVA = EN LUGAR DE.",
+          "trampas": [
+            "Natural no equivale a inocuo; revisar efectos adversos e interacciones farmacológicas.",
+            "Usar acupuntura o plantas no implica automáticamente que sean eficaces para cualquier trastorno.",
+            "No confundir lo complementario con sustitución del tratamiento médico comprobado.",
+            "El respeto intercultural permite indagar sin avalar afirmaciones terapéuticas carentes de evidencia."
+          ],
+          "perla": "HIERBAS + ACUPUNTURA + QUIROPRÁCTICA → TRADICIONAL Y COMPLEMENTARIA, con evaluación individual de seguridad.",
+          "repaso_activo": [
+            "¿Cuál es la diferencia entre complementaria y alternativa? — Junto a tratamiento convencional versus en su reemplazo.",
+            "¿Las plantas medicinales siempre son seguras? — No; hay toxicidad e interacciones.",
+            "¿Qué define integrativa? — Coordinación de prácticas seguras y sustentadas con medicina convencional.",
+            "¿Por qué no «oriental»? — No todas las prácticas citadas se originan en ese ámbito."
+          ],
+          "refuerzo": [
+            {
+              "enunciado": "Paciente con hipertensión recibe tratamiento médico y desea agregar técnicas de relajación y acupuntura tras discutir evidencia y seguridad con su equipo. ¿Cómo se clasifica este uso?",
+              "alternativas": {
+                "A": "Terapia alternativa exclusiva sin seguimiento",
+                "B": "Sustitución por fitoterapia no evaluada",
+                "C": "Tratamiento paliativo por definición",
+                "D": "Uso complementario a la atención convencional",
+                "E": "Abandono del modelo biomédico"
+              },
+              "respuesta": "D",
+              "explicacion": "La intervención no sustituye la atención convencional y se añade de forma coordinada."
+            },
+            {
+              "enunciado": "Paciente con diabetes abandona fármacos de eficacia comprobada y utiliza exclusivamente una planta comercializada como curativa. ¿Qué aspecto merece más atención?",
+              "alternativas": {
+                "A": "Uso alternativo con riesgo de retrasar tratamiento efectivo",
+                "B": "Tratamiento integrativo supervisado demostrado",
+                "C": "Práctica complementaria que preserva el tratamiento",
+                "D": "No requiere investigar interacciones ni síntomas",
+                "E": "Conducta sin riesgo porque el producto es vegetal"
+              },
+              "respuesta": "A",
+              "explicacion": "Sustituir tratamientos eficaces es un uso alternativo con posibilidad de daño, además de riesgos de preparados herbarios."
+            }
+          ]
+        }
+      }
     },
     {
       "number": 65,
       "code": "ENCAPS26-II P065",
-      "course": "ENCAPS Medicina · Por desarrollar",
-      "topic": "ENCAPS Medicina 2026-II",
+      "course": "Vigilancia epidemiológica · febriles eruptivos",
+      "topic": "Dengue y sarampión: vigilancia ante incremento de fiebre y exantema",
       "question": "En un establecimiento de salud en Chiclayo se ha reportado incremento de casos de pacientes febriles y pacientes con lesiones eruptivas en piel, tanto en niños como en adolescentes, ambos en relación a la semana epidemiológica previa y en relación a la misma semana epidemiológica del año anterior. ¿Qué enfermedades debe priorizar para vigilancia epidemiológica?",
       "options": {
         "A": "Leishmaniasis y bartonelosis",
@@ -13253,12 +13865,177 @@
         "D": "Dengue y sarampión"
       },
       "correct": "D",
-      "comment": "Tema pendiente de desarrollo detallado. La alternativa correcta indicada es la resaltada en el PDF del usuario; todavía no se ha cotejado independientemente contra el listado oficial de claves del MINSA.",
-      "pearl": "",
-      "keywords": [],
-      "estadoDesarrollo": "pendiente",
+      "comment": "Clave histórica marcada en el PDF del usuario; pendiente de cotejo independiente con tabla oficial: D. Dengue y sarampión. Ambos pueden presentarse con fiebre y erupciones, y requieren vigilancia en el contexto epidemiológico adecuado.\n\nRAZONAMIENTO\nEl establecimiento de Chiclayo observa más pacientes febriles y con lesiones eruptivas en semanas sucesivas y frente al mismo periodo del año anterior. Entre las opciones, dengue y sarampión son el par de enfermedades de relevancia epidemiológica que pueden producir fiebre con erupción. No obstante, este patrón sindrómico aislado no confirma ninguna de las dos ni excluye rubéola, varicela, chikungunya, enterovirus u otras etiologías. La vigilancia debe cumplir definiciones de caso, antecedentes de viaje, contacto y vacunación, inspección del vector si corresponde, pruebas apropiadas y notificación. En sarampión, fiebre + exantema obliga a actuar con precauciones respiratorias y notificación inmediata de sospechosos conforme a las alertas MINSA 2026. La comparación con semana anterior y homóloga puede identificar señal de incremento o brote, pero las diferencias de notificación y tamaños poblacionales deben evaluarse.\n\nDESARROLLO COMPLETO\nSíndrome febril eruptivo: fiebre con exantema; distinguir máculo-pápulas, vesículas, petequias y lesiones purulentas mediante historia y exploración.\n\nSarampión: fiebre, exantema maculopapular, tos, coriza, conjuntivitis; muy contagioso, requiere aislamiento respiratorio ante sospecha y notificación dentro de 24 horas según alertas nacionales.\n\nDengue: fiebre con cefalea, dolor retroocular, mialgias, artralgias, náuseas o exantema; identificar signos de alarma como dolor abdominal intenso, sangrado y vómitos persistentes.\n\nVigilancia: registrar casos en tiempo, lugar y persona; comparar con comportamiento esperado y activar investigación si existe incremento inusual.\n\nNormativa arbovirosis: RM 473-2025-MINSA aprueba NTS 230-MINSA/CDC-2025 para vigilancia epidemiológica y laboratorio de dengue y otros arbovirus.\n\nNormativa febriles eruptivas: RM 800-2012-MINSA aprueba DS 049-MINSA/DGE-V.01; observar alertas del MINSA emitidas durante 2026 por sarampión.\n\nInvestigación de casos: recabar inicio de fiebre/exantema, vacunación SRP, contactos, viajes, barrios, exposición a zancudos y contexto territorial.\n\nDiagnóstico diferencial: rubéola, chikungunya, Zika, parvovirus B19, varicela, enterovirus, rickettsiosis y otras según clínica y epidemiología.\n\nMedidas iniciales: manejar gravedad, aplicar aislamiento y notificación adecuados para sospecha de sarampión, tomar muestras según protocolo, fortalecer vacunación e intervenciones vectoriales.\n\nInterpretación del enunciado: «priorizar para vigilancia» no es «diagnóstico definitivo». Los datos agregados deben verificarse y el motivo de fiebre y lesiones cutáneas puede ser diferente entre pacientes.\n\nANÁLISIS DE ALTERNATIVAS\nA. Leishmaniasis cutánea suele tener lesiones ulceradas crónicas; bartonelosis tiene formas clínicas específicas. No es la combinación sindrómica de vigilancia preferente señalada en el caso.\nB. Rubéola sí puede provocar fiebre y exantema, pero tifoidea no explica habitualmente un aumento conjunto de erupciones típicas; frente a las opciones, dengue y sarampión requieren priorización.\nC. Piodermitis e impétigo causan lesiones bacterianas cutáneas, a menudo localizadas, sin corresponder necesariamente al aumento febril eruptivo sujeto a vigilancia sistémica.\nD. Correcta en el PDF: ambos pueden cursar con fiebre y erupción; requieren vigilancia y medidas de control diferenciadas.\n\nNORMATIVA Y FUENTES\nMINSA, RM N.° 473-2025-MINSA, NTS N.° 230-MINSA/CDC-2025 | https://www.gob.pe/institucion/minsa/normas-legales/6965655-473-2025-minsa | Vigilancia epidemiológica y laboratorio de dengue y otras arbovirosis\nMINSA, RM N.° 800-2012-MINSA | https://www.gob.pe/institucion/minsa/normas-legales/241480-800-2012-minsa | Vigilancia de sarampión, rubéola y otras enfermedades febriles eruptivas\nMINSA, alerta ante sarampión 2026 | https://www.gob.pe/institucion/minsa/noticias/1376357-minsa-fortalece-acciones-de-prevencion-y-vigilancia-frente-al-sarampion-en-establecimientos-de-salud-a-nivel-nacional | Notificación e investigación inmediata de sospechosos, control de infección y vacunación\nCDC, Symptoms of Dengue | https://www.cdc.gov/dengue/signs-symptoms/ | Fiebre y erupción, diagnóstico diferencial; evaluación de signos de alarma\n\nMNEMOTECNIA\nFIEBRE + EXANTEMA + AUMENTO DE CASOS → VIGILAR DENGUE Y SARAMPIÓN, sin olvidar diagnóstico diferencial.\n\nTRAMPAS DE EXAMEN\nNo diagnosticar dengue y sarampión solo por fiebre y rash; investigar definiciones y pruebas.\nPriorizar sarampión por riesgo de transmisión y necesidad de notificación/aislamiento oportunos.\nEl dengue se vigila también sin exantema; la presencia de rash es posible, no obligatoria.\nComparar recuentos con histórico exige considerar población, captación, estacionalidad y cambios de notificación.\nRubeola es diferencial real y también forma parte de la vigilancia de febriles eruptivos; la letra responde a las opciones del examen.\n\nPERLA\nP65: Fiebre + lesiones eruptivas + incremento epidemiológico = priorizar DENGUE y SARAMPIÓN; notificar e investigar, no asumir diagnóstico.",
+      "pearl": "P65: Fiebre + lesiones eruptivas + incremento epidemiológico = priorizar DENGUE y SARAMPIÓN; notificar e investigar, no asumir diagnóstico.",
+      "keywords": [
+        "Vigilancia epidemiológica · febriles eruptivos",
+        "Dengue y sarampión: vigilancia ante incremento de fiebre y exantema",
+        "ENCAPS 2026-II",
+        "MINSA 276"
+      ],
+      "estadoDesarrollo": "completo",
       "estadoClave": "resaltada_en_pdf_usuario_no_cotejada_independientemente_con_tabla_minsa",
-      "lesson": null
+      "lesson": {
+        "respuesta_resumida": "D. Dengue y sarampión. Ambos pueden presentarse con fiebre y erupciones, y requieren vigilancia en el contexto epidemiológico adecuado.",
+        "razonamiento": "El establecimiento de Chiclayo observa más pacientes febriles y con lesiones eruptivas en semanas sucesivas y frente al mismo periodo del año anterior. Entre las opciones, dengue y sarampión son el par de enfermedades de relevancia epidemiológica que pueden producir fiebre con erupción. No obstante, este patrón sindrómico aislado no confirma ninguna de las dos ni excluye rubéola, varicela, chikungunya, enterovirus u otras etiologías. La vigilancia debe cumplir definiciones de caso, antecedentes de viaje, contacto y vacunación, inspección del vector si corresponde, pruebas apropiadas y notificación. En sarampión, fiebre + exantema obliga a actuar con precauciones respiratorias y notificación inmediata de sospechosos conforme a las alertas MINSA 2026. La comparación con semana anterior y homóloga puede identificar señal de incremento o brote, pero las diferencias de notificación y tamaños poblacionales deben evaluarse.",
+        "temario": [
+          "Síndrome febril eruptivo: fiebre con exantema; distinguir máculo-pápulas, vesículas, petequias y lesiones purulentas mediante historia y exploración.",
+          "Sarampión: fiebre, exantema maculopapular, tos, coriza, conjuntivitis; muy contagioso, requiere aislamiento respiratorio ante sospecha y notificación dentro de 24 horas según alertas nacionales.",
+          "Dengue: fiebre con cefalea, dolor retroocular, mialgias, artralgias, náuseas o exantema; identificar signos de alarma como dolor abdominal intenso, sangrado y vómitos persistentes.",
+          "Vigilancia: registrar casos en tiempo, lugar y persona; comparar con comportamiento esperado y activar investigación si existe incremento inusual.",
+          "Normativa arbovirosis: RM 473-2025-MINSA aprueba NTS 230-MINSA/CDC-2025 para vigilancia epidemiológica y laboratorio de dengue y otros arbovirus.",
+          "Normativa febriles eruptivas: RM 800-2012-MINSA aprueba DS 049-MINSA/DGE-V.01; observar alertas del MINSA emitidas durante 2026 por sarampión.",
+          "Investigación de casos: recabar inicio de fiebre/exantema, vacunación SRP, contactos, viajes, barrios, exposición a zancudos y contexto territorial.",
+          "Diagnóstico diferencial: rubéola, chikungunya, Zika, parvovirus B19, varicela, enterovirus, rickettsiosis y otras según clínica y epidemiología.",
+          "Medidas iniciales: manejar gravedad, aplicar aislamiento y notificación adecuados para sospecha de sarampión, tomar muestras según protocolo, fortalecer vacunación e intervenciones vectoriales.",
+          "Interpretación del enunciado: «priorizar para vigilancia» no es «diagnóstico definitivo». Los datos agregados deben verificarse y el motivo de fiebre y lesiones cutáneas puede ser diferente entre pacientes."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Leishmaniasis cutánea suele tener lesiones ulceradas crónicas; bartonelosis tiene formas clínicas específicas. No es la combinación sindrómica de vigilancia preferente señalada en el caso.",
+          "B": "Rubéola sí puede provocar fiebre y exantema, pero tifoidea no explica habitualmente un aumento conjunto de erupciones típicas; frente a las opciones, dengue y sarampión requieren priorización.",
+          "C": "Piodermitis e impétigo causan lesiones bacterianas cutáneas, a menudo localizadas, sin corresponder necesariamente al aumento febril eruptivo sujeto a vigilancia sistémica.",
+          "D": "Correcta en el PDF: ambos pueden cursar con fiebre y erupción; requieren vigilancia y medidas de control diferenciadas."
+        },
+        "normativa": [
+          "MINSA, RM N.° 473-2025-MINSA, NTS N.° 230-MINSA/CDC-2025 | https://www.gob.pe/institucion/minsa/normas-legales/6965655-473-2025-minsa | Vigilancia epidemiológica y laboratorio de dengue y otras arbovirosis",
+          "MINSA, RM N.° 800-2012-MINSA | https://www.gob.pe/institucion/minsa/normas-legales/241480-800-2012-minsa | Vigilancia de sarampión, rubéola y otras enfermedades febriles eruptivas",
+          "MINSA, alerta ante sarampión 2026 | https://www.gob.pe/institucion/minsa/noticias/1376357-minsa-fortalece-acciones-de-prevencion-y-vigilancia-frente-al-sarampion-en-establecimientos-de-salud-a-nivel-nacional | Notificación e investigación inmediata de sospechosos, control de infección y vacunación",
+          "CDC, Symptoms of Dengue | https://www.cdc.gov/dengue/signs-symptoms/ | Fiebre y erupción, diagnóstico diferencial; evaluación de signos de alarma"
+        ],
+        "mnemotecnia": "FIEBRE + EXANTEMA + AUMENTO DE CASOS → VIGILAR DENGUE Y SARAMPIÓN, sin olvidar diagnóstico diferencial.",
+        "trampas": [
+          "No diagnosticar dengue y sarampión solo por fiebre y rash; investigar definiciones y pruebas.",
+          "Priorizar sarampión por riesgo de transmisión y necesidad de notificación/aislamiento oportunos.",
+          "El dengue se vigila también sin exantema; la presencia de rash es posible, no obligatoria.",
+          "Comparar recuentos con histórico exige considerar población, captación, estacionalidad y cambios de notificación.",
+          "Rubeola es diferencial real y también forma parte de la vigilancia de febriles eruptivos; la letra responde a las opciones del examen."
+        ],
+        "perla": "P65: Fiebre + lesiones eruptivas + incremento epidemiológico = priorizar DENGUE y SARAMPIÓN; notificar e investigar, no asumir diagnóstico.",
+        "repaso_activo": [
+          "¿Por qué dengue? — Puede producir fiebre con exantema y tiene relevancia vectorial local.",
+          "¿Por qué sarampión? — Enfermedad febril eruptiva muy contagiosa, con aislamiento y notificación prioritaria.",
+          "¿Qué norma aprueba vigilancia de arbovirosis 2025? — RM N.° 473-2025-MINSA, NTS 230.",
+          "¿La sospecha de sarampión exige confirmación antes de notificar? — No: se notifica e investiga la sospecha según protocolo.",
+          "¿Qué otra exantemática debe considerarse? — Rubéola, además de otras etiologías según contexto."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Niño no vacunado presenta fiebre de 39 °C, tos, coriza, conjuntivitis y exantema maculopapular. ¿Cuál es la acción de vigilancia inicial más adecuada?",
+            "alternativas": {
+              "A": "Esperar serología confirmatoria antes de comunicar el caso",
+              "B": "Indicar tratamiento antibiótico y alta sin investigación",
+              "C": "Realizar fumigación domiciliaria como única medida",
+              "D": "Descartar sarampión porque no hay neumonía",
+              "E": "Aislar, notificar sospecha de sarampión y coordinar estudio"
+            },
+            "respuesta": "E",
+            "explicacion": "Cumple patrón sospechoso y debe activar medidas de control respiratorio, notificación y diagnóstico."
+          },
+          {
+            "enunciado": "En localidad con Aedes circulante hay aumento de pacientes con fiebre, cefalea intensa, dolor retroocular y exantema. ¿Qué acción integra vigilancia y atención?",
+            "alternativas": {
+              "A": "Clasificar todos los casos como sarampión sin evaluación",
+              "B": "Evaluar dengue y signos de alarma, notificar según definición y tomar muestras indicadas",
+              "C": "Usar antibióticos sistemáticos sin criterios",
+              "D": "Esperar meses para comprobar endemia antes de actuar",
+              "E": "Realizar únicamente una encuesta de satisfacción"
+            },
+            "respuesta": "B",
+            "explicacion": "En contexto entomológico y clínico orientador corresponde valoración clínica, notificación y confirmación conforme a vigilancia de dengue."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Dengue y sarampión: vigilancia ante incremento de fiebre y exantema",
+          "eje": "Vigilancia epidemiológica · febriles eruptivos",
+          "confiabilidad": "clave_resaltada_fundamento_concordante_con_diferenciales",
+          "respuesta_resumida": "D. Dengue y sarampión. Ambos pueden presentarse con fiebre y erupciones, y requieren vigilancia en el contexto epidemiológico adecuado.",
+          "razonamiento": [
+            "El establecimiento de Chiclayo observa más pacientes febriles y con lesiones eruptivas en semanas sucesivas y frente al mismo periodo del año anterior. Entre las opciones, dengue y sarampión son el par de enfermedades de relevancia epidemiológica que pueden producir fiebre con erupción. No obstante, este patrón sindrómico aislado no confirma ninguna de las dos ni excluye rubéola, varicela, chikungunya, enterovirus u otras etiologías. La vigilancia debe cumplir definiciones de caso, antecedentes de viaje, contacto y vacunación, inspección del vector si corresponde, pruebas apropiadas y notificación. En sarampión, fiebre + exantema obliga a actuar con precauciones respiratorias y notificación inmediata de sospechosos conforme a las alertas MINSA 2026. La comparación con semana anterior y homóloga puede identificar señal de incremento o brote, pero las diferencias de notificación y tamaños poblacionales deben evaluarse."
+          ],
+          "temario": [
+            "Síndrome febril eruptivo: fiebre con exantema; distinguir máculo-pápulas, vesículas, petequias y lesiones purulentas mediante historia y exploración.",
+            "Sarampión: fiebre, exantema maculopapular, tos, coriza, conjuntivitis; muy contagioso, requiere aislamiento respiratorio ante sospecha y notificación dentro de 24 horas según alertas nacionales.",
+            "Dengue: fiebre con cefalea, dolor retroocular, mialgias, artralgias, náuseas o exantema; identificar signos de alarma como dolor abdominal intenso, sangrado y vómitos persistentes.",
+            "Vigilancia: registrar casos en tiempo, lugar y persona; comparar con comportamiento esperado y activar investigación si existe incremento inusual.",
+            "Normativa arbovirosis: RM 473-2025-MINSA aprueba NTS 230-MINSA/CDC-2025 para vigilancia epidemiológica y laboratorio de dengue y otros arbovirus.",
+            "Normativa febriles eruptivas: RM 800-2012-MINSA aprueba DS 049-MINSA/DGE-V.01; observar alertas del MINSA emitidas durante 2026 por sarampión.",
+            "Investigación de casos: recabar inicio de fiebre/exantema, vacunación SRP, contactos, viajes, barrios, exposición a zancudos y contexto territorial.",
+            "Diagnóstico diferencial: rubéola, chikungunya, Zika, parvovirus B19, varicela, enterovirus, rickettsiosis y otras según clínica y epidemiología.",
+            "Medidas iniciales: manejar gravedad, aplicar aislamiento y notificación adecuados para sospecha de sarampión, tomar muestras según protocolo, fortalecer vacunación e intervenciones vectoriales.",
+            "Interpretación del enunciado: «priorizar para vigilancia» no es «diagnóstico definitivo». Los datos agregados deben verificarse y el motivo de fiebre y lesiones cutáneas puede ser diferente entre pacientes."
+          ],
+          "distractores": {
+            "A": "Leishmaniasis cutánea suele tener lesiones ulceradas crónicas; bartonelosis tiene formas clínicas específicas. No es la combinación sindrómica de vigilancia preferente señalada en el caso.",
+            "B": "Rubéola sí puede provocar fiebre y exantema, pero tifoidea no explica habitualmente un aumento conjunto de erupciones típicas; frente a las opciones, dengue y sarampión requieren priorización.",
+            "C": "Piodermitis e impétigo causan lesiones bacterianas cutáneas, a menudo localizadas, sin corresponder necesariamente al aumento febril eruptivo sujeto a vigilancia sistémica.",
+            "D": "Correcta en el PDF: ambos pueden cursar con fiebre y erupción; requieren vigilancia y medidas de control diferenciadas."
+          },
+          "normativa": [
+            {
+              "nombre": "MINSA, RM N.° 473-2025-MINSA, NTS N.° 230-MINSA/CDC-2025",
+              "url": "https://www.gob.pe/institucion/minsa/normas-legales/6965655-473-2025-minsa",
+              "aplicacion": "Vigilancia epidemiológica y laboratorio de dengue y otras arbovirosis"
+            },
+            {
+              "nombre": "MINSA, RM N.° 800-2012-MINSA",
+              "url": "https://www.gob.pe/institucion/minsa/normas-legales/241480-800-2012-minsa",
+              "aplicacion": "Vigilancia de sarampión, rubéola y otras enfermedades febriles eruptivas"
+            },
+            {
+              "nombre": "MINSA, alerta ante sarampión 2026",
+              "url": "https://www.gob.pe/institucion/minsa/noticias/1376357-minsa-fortalece-acciones-de-prevencion-y-vigilancia-frente-al-sarampion-en-establecimientos-de-salud-a-nivel-nacional",
+              "aplicacion": "Notificación e investigación inmediata de sospechosos, control de infección y vacunación"
+            },
+            {
+              "nombre": "CDC, Symptoms of Dengue",
+              "url": "https://www.cdc.gov/dengue/signs-symptoms/",
+              "aplicacion": "Fiebre y erupción, diagnóstico diferencial; evaluación de signos de alarma"
+            }
+          ],
+          "mnemotecnia": "FIEBRE + EXANTEMA + AUMENTO DE CASOS → VIGILAR DENGUE Y SARAMPIÓN, sin olvidar diagnóstico diferencial.",
+          "trampas": [
+            "No diagnosticar dengue y sarampión solo por fiebre y rash; investigar definiciones y pruebas.",
+            "Priorizar sarampión por riesgo de transmisión y necesidad de notificación/aislamiento oportunos.",
+            "El dengue se vigila también sin exantema; la presencia de rash es posible, no obligatoria.",
+            "Comparar recuentos con histórico exige considerar población, captación, estacionalidad y cambios de notificación.",
+            "Rubeola es diferencial real y también forma parte de la vigilancia de febriles eruptivos; la letra responde a las opciones del examen."
+          ],
+          "perla": "P65: Fiebre + lesiones eruptivas + incremento epidemiológico = priorizar DENGUE y SARAMPIÓN; notificar e investigar, no asumir diagnóstico.",
+          "repaso_activo": [
+            "¿Por qué dengue? — Puede producir fiebre con exantema y tiene relevancia vectorial local.",
+            "¿Por qué sarampión? — Enfermedad febril eruptiva muy contagiosa, con aislamiento y notificación prioritaria.",
+            "¿Qué norma aprueba vigilancia de arbovirosis 2025? — RM N.° 473-2025-MINSA, NTS 230.",
+            "¿La sospecha de sarampión exige confirmación antes de notificar? — No: se notifica e investiga la sospecha según protocolo.",
+            "¿Qué otra exantemática debe considerarse? — Rubéola, además de otras etiologías según contexto."
+          ],
+          "refuerzo": [
+            {
+              "enunciado": "Niño no vacunado presenta fiebre de 39 °C, tos, coriza, conjuntivitis y exantema maculopapular. ¿Cuál es la acción de vigilancia inicial más adecuada?",
+              "alternativas": {
+                "A": "Esperar serología confirmatoria antes de comunicar el caso",
+                "B": "Indicar tratamiento antibiótico y alta sin investigación",
+                "C": "Realizar fumigación domiciliaria como única medida",
+                "D": "Descartar sarampión porque no hay neumonía",
+                "E": "Aislar, notificar sospecha de sarampión y coordinar estudio"
+              },
+              "respuesta": "E",
+              "explicacion": "Cumple patrón sospechoso y debe activar medidas de control respiratorio, notificación y diagnóstico."
+            },
+            {
+              "enunciado": "En localidad con Aedes circulante hay aumento de pacientes con fiebre, cefalea intensa, dolor retroocular y exantema. ¿Qué acción integra vigilancia y atención?",
+              "alternativas": {
+                "A": "Clasificar todos los casos como sarampión sin evaluación",
+                "B": "Evaluar dengue y signos de alarma, notificar según definición y tomar muestras indicadas",
+                "C": "Usar antibióticos sistemáticos sin criterios",
+                "D": "Esperar meses para comprobar endemia antes de actuar",
+                "E": "Realizar únicamente una encuesta de satisfacción"
+              },
+              "respuesta": "B",
+              "explicacion": "En contexto entomológico y clínico orientador corresponde valoración clínica, notificación y confirmación conforme a vigilancia de dengue."
+            }
+          ]
+        }
+      }
     },
     {
       "number": 66,
