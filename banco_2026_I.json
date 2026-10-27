@@ -3,7 +3,7 @@
   "bankId": "ENCAPS_2026_I",
   "title": "ENCAPS 2026-I · Medicina Humana",
   "source": "Examen SERUMS Medicina 19 abril 2026 · claves resaltadas en PDF del usuario",
-  "questionCount": 35,
+  "questionCount": 40,
   "questions": [
     {
       "number": 1,
@@ -3843,6 +3843,466 @@
         "leccion_extendida": {
           "titulo": "Parto institucional intercultural y participación comunitaria",
           "desarrollo": "RESPUESTA RAZONADA — PENDIENTE DE COTEJO CON CLAVE OFICIAL INDEPENDIENTE\nC. Educar e impulsar la participación comunitaria\n\nRAZONAMIENTO COMPLETO\nEl abordaje más sostenible implica educación dialógica, participación comunitaria y adecuación intercultural del servicio, evitando imposición y promesas materiales. La población debe intervenir en identificar barreras de transporte, idioma, confianza, privacidad y posición de parto. La atención institucional segura puede adaptarse a prácticas culturales compatibles con seguridad materna y neonatal.\n\nDESARROLLO DEL TEMARIO\n1. Mortalidad neonatal: causas incluyen prematuridad, asfixia, sepsis y anomalías congénitas.\n2. Parto institucional posibilita vigilancia, atención de emergencias y cuidados inmediatos del recién nacido.\n3. Interculturalidad: respeto a idioma, acompañamiento, preferencias, prácticas no dañinas y trato digno.\n4. Participación comunitaria: agentes comunitarios, líderes, familias y equipos diseñan soluciones.\n5. Identificar barreras geográficas, económicas, culturales y organizativas.\n6. Casas de espera materna y referencia oportuna pueden reducir barreras de distancia.\n7. Información sobre gratuidad es importante, pero insuficiente por sí sola.\n8. No prometer incentivos no financiados ni condicionar derechos de salud.\n9. La atención de emergencia de un parto domiciliario inminente no reemplaza estrategia preventiva comunitaria.\n\nANÁLISIS DE TODAS LAS ALTERNATIVAS\nA) Informar gratuidad ayuda, pero no modifica todas las barreras culturales y de acceso.\nB) Promesa de víveres no es estrategia ética ni sostenible para asegurar atención.\nC) Correcta: educación participativa con pertinencia cultural.\nD) Si el parto es inminente debe atenderse con seguridad; como política única no alcanza objetivo de parto institucional seguro.\n\nNORMATIVA Y FUENTES DE ESTUDIO\nMINSA, políticas de parto vertical con pertinencia intercultural y atención integral materna.\nOPS/OMS, participación comunitaria y calidad de atención materno-neonatal.\n\nTRAMPAS DE EXAMEN\nLa cultura no debe tratarse como obstáculo a eliminar, sino como contexto de atención.\nParticipación social no significa abandonar criterios clínicos.\nEducación paternalista no es equivalente a diálogo comunitario.\n\nMNEMOTECNIA\nPARTO SEGURO: COMUNIDAD + CONFIANZA + CULTURA.\n\nREPASO ACTIVO\n¿Clave? C. Educar e impulsar la participación comunitaria\n¿Idea principal? PARTO SEGURO: COMUNIDAD + CONFIANZA + CULTURA.\nLa cultura no debe tratarse como obstáculo a eliminar, sino como contexto de atención.\nParticipación social no significa abandonar criterios clínicos.\nEducación paternalista no es equivalente a diálogo comunitario.\n\nCASOS DE REFUERZO\n1. Comunidad rural rechaza parto institucional por maltrato previo. ¿Primera estrategia?\nA) Sancionar a familias\nB) Prometer premios\nC) No atender\nD) Dialogar y rediseñar atención con comunidad\nE) Eliminar acompañantes siempre\nClave: D. La participación atiende causas de desconfianza.\n\n2. Gestante solicita acompañante y posición vertical en IPRESS habilitada. ¿Qué hacer?\nA) Negar sin valoración\nB) Evaluar viabilidad y respetar preferencias\nC) Derivar automáticamente\nD) Imponer una sola posición\nE) Ignorar idioma\nClave: B. Cuidado humanizado y seguro adapta la atención."
+        }
+      }
+    },
+    {
+      "number": 36,
+      "question": "Se encuentra en un centro de salud I-4, el equipo de vigilancia está realizando la revisión de historias clínicas de las mujeres post parto eutócico, para identificar casos de endometritis puerperal. En el proceso de la vigilancia epidemiológica de las IAAS corresponde a:",
+      "options": {
+        "A": "Recolección de datos",
+        "B": "Análisis e interpretación de los datos",
+        "C": "Evaluación de la vigilancia",
+        "D": "Plan de vigilancia epidemiológica"
+      },
+      "correct": "A",
+      "code": "ENCAPS26-I P036",
+      "course": "ENCAPS Medicina 2026-I · Temario desarrollado",
+      "topic": "IAAS y endometritis puerperal: etapa de recolección de datos",
+      "comment": "CLAVE INTERPRETADA — PENDIENTE DE COTEJO OFICIAL INDEPENDIENTE\nA. Recolección de datos\n\nRAZONAMIENTO COMPLETO\nLa revisión dirigida de historias clínicas constituye una búsqueda de información para detectar posibles casos; por tanto pertenece a la fase de recolección de datos, dentro de una vigilancia activa. El análisis comienza cuando los datos recogidos se procesan para identificar tasas, tendencias, comparaciones y señales.\n\nDESARROLLO DEL TEMARIO\n1. Vigilancia de IAAS comprende definición de caso, recolección, análisis, interpretación, difusión y respuesta.\n2. Revisión de historias clínicas y laboratorios es mecanismo activo de captación.\n3. Endometritis puerperal: fiebre, sensibilidad uterina y otros datos compatibles en contexto posparto, aplicando definición nacional.\n4. Distinguir infección puerperal adquirida del proceso de parto de otras causas de fiebre posparto.\n5. Validar denominador de partos y períodos de vigilancia.\n6. Calidad de registro: consistencia, oportunidad, integridad y confidencialidad.\n7. Análisis: incidencia, tendencia, evaluación por sala o procedimiento y comparación temporal.\n8. Evaluación del sistema: sensibilidad, representatividad, oportunidad, aceptabilidad y utilidad.\n9. Medidas: higiene de manos, prácticas de asepsia y prevención obstétrica apropiada.\n\nTODAS LAS ALTERNATIVAS\nA) Correcta: se está obteniendo información de expedientes.\nB) Analizar exige datos compilados y procesados, no solamente revisar historias.\nC) Evalúa el desempeño del sistema de vigilancia, no realiza la búsqueda inicial de casos.\nD) Plan es el diseño previo de responsabilidades, metodología y periodicidad.\n\nREFERENCIAS\nCDC Perú, documentación técnica vigente para vigilancia epidemiológica de IAAS.\nMINSA, normas de prevención y control de infecciones relacionadas con atención sanitaria.\n\nTRAMPAS\nVigilancia activa es modalidad de búsqueda; recolección es etapa del proceso.\nPosparto con fiebre no equivale automáticamente a endometritis.\nSe requiere definición operacional del evento.\n\nMNEMOTECNIA\nREVISAR historias = RECOLECTAR; calcular tasas = ANALIZAR.\n\nREPASO ACTIVO\nRespuesta interpretada: A. Recolección de datos\nRegla: REVISAR historias = RECOLECTAR; calcular tasas = ANALIZAR.\nVigilancia activa es modalidad de búsqueda; recolección es etapa del proceso.\nPosparto con fiebre no equivale automáticamente a endometritis.\nSe requiere definición operacional del evento.\n\nDOS CASOS DE REFUERZO\n1. Epidemióloga revisa expedientes para captar casos de infección. ¿Etapa?\nA) Evaluación final\nB) Difusión\nC) Recolección\nD) Planificación estratégica\nE) Auditoría financiera\nClave C. Es obtención primaria de datos.\n\n2. Tras registrar casos, el equipo calcula incidencia por 100 partos. ¿Etapa?\nA) Análisis\nB) Recolección exclusivamente\nC) Archivo administrativo\nD) Compra de insumos\nE) Consentimiento\nClave A. El cálculo de indicadores es análisis.",
+      "pearl": "REVISAR historias = RECOLECTAR; calcular tasas = ANALIZAR.",
+      "keywords": [
+        "IAAS y endometritis puerperal: etapa de recolección de datos",
+        "ENCAPS Medicina 2026-I",
+        "SERUMS MINSA"
+      ],
+      "estadoDesarrollo": "completo",
+      "estadoClave": "interpretacion_pendiente_clave_oficial",
+      "lesson": {
+        "respuesta_resumida": "A. Recolección de datos",
+        "razonamiento": "La revisión dirigida de historias clínicas constituye una búsqueda de información para detectar posibles casos; por tanto pertenece a la fase de recolección de datos, dentro de una vigilancia activa. El análisis comienza cuando los datos recogidos se procesan para identificar tasas, tendencias, comparaciones y señales.",
+        "temario": [
+          "Vigilancia de IAAS comprende definición de caso, recolección, análisis, interpretación, difusión y respuesta.",
+          "Revisión de historias clínicas y laboratorios es mecanismo activo de captación.",
+          "Endometritis puerperal: fiebre, sensibilidad uterina y otros datos compatibles en contexto posparto, aplicando definición nacional.",
+          "Distinguir infección puerperal adquirida del proceso de parto de otras causas de fiebre posparto.",
+          "Validar denominador de partos y períodos de vigilancia.",
+          "Calidad de registro: consistencia, oportunidad, integridad y confidencialidad.",
+          "Análisis: incidencia, tendencia, evaluación por sala o procedimiento y comparación temporal.",
+          "Evaluación del sistema: sensibilidad, representatividad, oportunidad, aceptabilidad y utilidad.",
+          "Medidas: higiene de manos, prácticas de asepsia y prevención obstétrica apropiada."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Correcta: se está obteniendo información de expedientes.",
+          "B": "Analizar exige datos compilados y procesados, no solamente revisar historias.",
+          "C": "Evalúa el desempeño del sistema de vigilancia, no realiza la búsqueda inicial de casos.",
+          "D": "Plan es el diseño previo de responsabilidades, metodología y periodicidad."
+        },
+        "normativa": [
+          "CDC Perú, documentación técnica vigente para vigilancia epidemiológica de IAAS.",
+          "MINSA, normas de prevención y control de infecciones relacionadas con atención sanitaria."
+        ],
+        "mnemotecnia": "REVISAR historias = RECOLECTAR; calcular tasas = ANALIZAR.",
+        "trampas": [
+          "Vigilancia activa es modalidad de búsqueda; recolección es etapa del proceso.",
+          "Posparto con fiebre no equivale automáticamente a endometritis.",
+          "Se requiere definición operacional del evento."
+        ],
+        "perla": "REVISAR historias = RECOLECTAR; calcular tasas = ANALIZAR.",
+        "repaso_activo": [
+          "Respuesta interpretada: A. Recolección de datos",
+          "Regla: REVISAR historias = RECOLECTAR; calcular tasas = ANALIZAR.",
+          "Vigilancia activa es modalidad de búsqueda; recolección es etapa del proceso.",
+          "Posparto con fiebre no equivale automáticamente a endometritis.",
+          "Se requiere definición operacional del evento."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Epidemióloga revisa expedientes para captar casos de infección. ¿Etapa?",
+            "alternativas": {
+              "A": "Evaluación final",
+              "B": "Difusión",
+              "C": "Recolección",
+              "D": "Planificación estratégica",
+              "E": "Auditoría financiera"
+            },
+            "respuesta": "C",
+            "explicacion": "Es obtención primaria de datos."
+          },
+          {
+            "enunciado": "Tras registrar casos, el equipo calcula incidencia por 100 partos. ¿Etapa?",
+            "alternativas": {
+              "A": "Análisis",
+              "B": "Recolección exclusivamente",
+              "C": "Archivo administrativo",
+              "D": "Compra de insumos",
+              "E": "Consentimiento"
+            },
+            "respuesta": "A",
+            "explicacion": "El cálculo de indicadores es análisis."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "IAAS y endometritis puerperal: etapa de recolección de datos",
+          "desarrollo": "CLAVE INTERPRETADA — PENDIENTE DE COTEJO OFICIAL INDEPENDIENTE\nA. Recolección de datos\n\nRAZONAMIENTO COMPLETO\nLa revisión dirigida de historias clínicas constituye una búsqueda de información para detectar posibles casos; por tanto pertenece a la fase de recolección de datos, dentro de una vigilancia activa. El análisis comienza cuando los datos recogidos se procesan para identificar tasas, tendencias, comparaciones y señales.\n\nDESARROLLO DEL TEMARIO\n1. Vigilancia de IAAS comprende definición de caso, recolección, análisis, interpretación, difusión y respuesta.\n2. Revisión de historias clínicas y laboratorios es mecanismo activo de captación.\n3. Endometritis puerperal: fiebre, sensibilidad uterina y otros datos compatibles en contexto posparto, aplicando definición nacional.\n4. Distinguir infección puerperal adquirida del proceso de parto de otras causas de fiebre posparto.\n5. Validar denominador de partos y períodos de vigilancia.\n6. Calidad de registro: consistencia, oportunidad, integridad y confidencialidad.\n7. Análisis: incidencia, tendencia, evaluación por sala o procedimiento y comparación temporal.\n8. Evaluación del sistema: sensibilidad, representatividad, oportunidad, aceptabilidad y utilidad.\n9. Medidas: higiene de manos, prácticas de asepsia y prevención obstétrica apropiada.\n\nTODAS LAS ALTERNATIVAS\nA) Correcta: se está obteniendo información de expedientes.\nB) Analizar exige datos compilados y procesados, no solamente revisar historias.\nC) Evalúa el desempeño del sistema de vigilancia, no realiza la búsqueda inicial de casos.\nD) Plan es el diseño previo de responsabilidades, metodología y periodicidad.\n\nREFERENCIAS\nCDC Perú, documentación técnica vigente para vigilancia epidemiológica de IAAS.\nMINSA, normas de prevención y control de infecciones relacionadas con atención sanitaria.\n\nTRAMPAS\nVigilancia activa es modalidad de búsqueda; recolección es etapa del proceso.\nPosparto con fiebre no equivale automáticamente a endometritis.\nSe requiere definición operacional del evento.\n\nMNEMOTECNIA\nREVISAR historias = RECOLECTAR; calcular tasas = ANALIZAR.\n\nREPASO ACTIVO\nRespuesta interpretada: A. Recolección de datos\nRegla: REVISAR historias = RECOLECTAR; calcular tasas = ANALIZAR.\nVigilancia activa es modalidad de búsqueda; recolección es etapa del proceso.\nPosparto con fiebre no equivale automáticamente a endometritis.\nSe requiere definición operacional del evento.\n\nDOS CASOS DE REFUERZO\n1. Epidemióloga revisa expedientes para captar casos de infección. ¿Etapa?\nA) Evaluación final\nB) Difusión\nC) Recolección\nD) Planificación estratégica\nE) Auditoría financiera\nClave C. Es obtención primaria de datos.\n\n2. Tras registrar casos, el equipo calcula incidencia por 100 partos. ¿Etapa?\nA) Análisis\nB) Recolección exclusivamente\nC) Archivo administrativo\nD) Compra de insumos\nE) Consentimiento\nClave A. El cálculo de indicadores es análisis."
+        }
+      }
+    },
+    {
+      "number": 37,
+      "question": "Se encuentra atendiendo el serumista profesional de salud no médico en un establecimiento de salud nivel I-1. ¿Cuál es la atención de salud de urgencia que puede realizar según su categoría y su referencia correspondiente?",
+      "options": {
+        "A": "Hemorragia leve",
+        "B": "Síndrome febril",
+        "C": "Asma no complicada",
+        "D": "Parasitosis intestinal"
+      },
+      "correct": "A",
+      "code": "ENCAPS26-I P037",
+      "course": "ENCAPS Medicina 2026-I · Temario desarrollado",
+      "topic": "Capacidad resolutiva I-1 y atención inicial de urgencias por profesional no médico",
+      "comment": "CLAVE INTERPRETADA — PENDIENTE DE COTEJO OFICIAL INDEPENDIENTE\nA. Hemorragia leve\n\nRAZONAMIENTO COMPLETO\nLa alternativa de hemorragia leve es la más directamente relacionada con una urgencia de estabilización básica que un profesional no médico capacitado puede abordar mediante medidas iniciales según sus competencias y activar referencia si precisa mayor capacidad. El ítem, sin embargo, no precisa profesión, magnitud del sangrado ni norma de cartera: no debe interpretarse como autorización de cualquier procedimiento a todo profesional no médico.\n\nDESARROLLO DEL TEMARIO\n1. I-1 es establecimiento del primer nivel con oferta básica conforme a categorización y cartera autorizada.\n2. Urgencia y emergencia: distinguir atención que requiere prontitud de amenaza inmediata de vida.\n3. Evaluar ABC, signos vitales, nivel de conciencia, perfusión y signos de choque.\n4. Hemorragia externa leve: control local mediante presión directa y medidas de protección.\n5. No realizar procedimientos fuera de competencia, habilitación y equipamiento.\n6. Criterios de referencia: sangrado persistente, inestabilidad, lesión profunda o sospecha de hemorragia interna.\n7. Síndrome febril requiere evaluar signos de alarma, focalidad y riesgo epidemiológico.\n8. Asma puede descompensarse: severidad y disponibilidad de manejo determinan conducta.\n9. Registro de atención, consentimiento y comunicación con destino receptor.\n\nTODAS LAS ALTERNATIVAS\nA) Respuesta razonada: hemorragia leve puede requerir control inmediato y eventual referencia.\nB) El síndrome febril es un motivo común de consulta; no se define aquí como urgencia específica.\nC) Asma no complicada requiere evaluación y manejo protocolizado, pero la opción no identifica por sí sola urgencia con transferencia.\nD) Parasitosis intestinal suele manejarse de forma programada.\n\nREFERENCIAS\nMINSA, norma técnica de categorías de establecimientos de salud del sector salud (NTS 021 y actualizaciones).\nMINSA, normas de referencia y contrarreferencia y guías de urgencias en primer nivel.\n\nTRAMPAS\nCategoría no equivale a licencia profesional universal.\nUna hemorragia leve puede controlarse localmente, pero severidad real exige reevaluación.\nLa respuesta requiere cotejo normativo específico: ítem ambiguo.\n\nMNEMOTECNIA\nI-1: estabiliza lo básico y refiere lo que excede capacidad.\n\nREPASO ACTIVO\nRespuesta interpretada: A. Hemorragia leve\nRegla: I-1: estabiliza lo básico y refiere lo que excede capacidad.\nCategoría no equivale a licencia profesional universal.\nUna hemorragia leve puede controlarse localmente, pero severidad real exige reevaluación.\nLa respuesta requiere cotejo normativo específico: ítem ambiguo.\n\nDOS CASOS DE REFUERZO\n1. Paciente presenta sangrado superficial persistente en puesto I-1. Primer paso?\nA) Dar alta sin evaluación\nB) Presión directa y valorar estabilidad\nC) Incisión exploratoria\nD) Esperar hipotensión\nE) Enviar solo sin aviso\nClave B. El control local y valoración de gravedad son medidas iniciales.\n\n2. Tras presión directa continúa sangrado y aparece hipotensión. Conducta?\nA) Ignorar\nB) Solo observación de 24 horas\nC) Tratamiento antiparasitario\nD) Estabilización y referencia urgente\nE) Solo dieta\nClave D. La inestabilidad requiere escalamiento.",
+      "pearl": "I-1: estabiliza lo básico y refiere lo que excede capacidad.",
+      "keywords": [
+        "Capacidad resolutiva I-1 y atención inicial de urgencias por profesional no médico",
+        "ENCAPS Medicina 2026-I",
+        "SERUMS MINSA"
+      ],
+      "estadoDesarrollo": "completo",
+      "estadoClave": "ambiguedad_de_competencia_profesional_cotejo_pendiente",
+      "lesson": {
+        "respuesta_resumida": "A. Hemorragia leve",
+        "razonamiento": "La alternativa de hemorragia leve es la más directamente relacionada con una urgencia de estabilización básica que un profesional no médico capacitado puede abordar mediante medidas iniciales según sus competencias y activar referencia si precisa mayor capacidad. El ítem, sin embargo, no precisa profesión, magnitud del sangrado ni norma de cartera: no debe interpretarse como autorización de cualquier procedimiento a todo profesional no médico.",
+        "temario": [
+          "I-1 es establecimiento del primer nivel con oferta básica conforme a categorización y cartera autorizada.",
+          "Urgencia y emergencia: distinguir atención que requiere prontitud de amenaza inmediata de vida.",
+          "Evaluar ABC, signos vitales, nivel de conciencia, perfusión y signos de choque.",
+          "Hemorragia externa leve: control local mediante presión directa y medidas de protección.",
+          "No realizar procedimientos fuera de competencia, habilitación y equipamiento.",
+          "Criterios de referencia: sangrado persistente, inestabilidad, lesión profunda o sospecha de hemorragia interna.",
+          "Síndrome febril requiere evaluar signos de alarma, focalidad y riesgo epidemiológico.",
+          "Asma puede descompensarse: severidad y disponibilidad de manejo determinan conducta.",
+          "Registro de atención, consentimiento y comunicación con destino receptor."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Respuesta razonada: hemorragia leve puede requerir control inmediato y eventual referencia.",
+          "B": "El síndrome febril es un motivo común de consulta; no se define aquí como urgencia específica.",
+          "C": "Asma no complicada requiere evaluación y manejo protocolizado, pero la opción no identifica por sí sola urgencia con transferencia.",
+          "D": "Parasitosis intestinal suele manejarse de forma programada."
+        },
+        "normativa": [
+          "MINSA, norma técnica de categorías de establecimientos de salud del sector salud (NTS 021 y actualizaciones).",
+          "MINSA, normas de referencia y contrarreferencia y guías de urgencias en primer nivel."
+        ],
+        "mnemotecnia": "I-1: estabiliza lo básico y refiere lo que excede capacidad.",
+        "trampas": [
+          "Categoría no equivale a licencia profesional universal.",
+          "Una hemorragia leve puede controlarse localmente, pero severidad real exige reevaluación.",
+          "La respuesta requiere cotejo normativo específico: ítem ambiguo."
+        ],
+        "perla": "I-1: estabiliza lo básico y refiere lo que excede capacidad.",
+        "repaso_activo": [
+          "Respuesta interpretada: A. Hemorragia leve",
+          "Regla: I-1: estabiliza lo básico y refiere lo que excede capacidad.",
+          "Categoría no equivale a licencia profesional universal.",
+          "Una hemorragia leve puede controlarse localmente, pero severidad real exige reevaluación.",
+          "La respuesta requiere cotejo normativo específico: ítem ambiguo."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Paciente presenta sangrado superficial persistente en puesto I-1. Primer paso?",
+            "alternativas": {
+              "A": "Dar alta sin evaluación",
+              "B": "Presión directa y valorar estabilidad",
+              "C": "Incisión exploratoria",
+              "D": "Esperar hipotensión",
+              "E": "Enviar solo sin aviso"
+            },
+            "respuesta": "B",
+            "explicacion": "El control local y valoración de gravedad son medidas iniciales."
+          },
+          {
+            "enunciado": "Tras presión directa continúa sangrado y aparece hipotensión. Conducta?",
+            "alternativas": {
+              "A": "Ignorar",
+              "B": "Solo observación de 24 horas",
+              "C": "Tratamiento antiparasitario",
+              "D": "Estabilización y referencia urgente",
+              "E": "Solo dieta"
+            },
+            "respuesta": "D",
+            "explicacion": "La inestabilidad requiere escalamiento."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Capacidad resolutiva I-1 y atención inicial de urgencias por profesional no médico",
+          "desarrollo": "CLAVE INTERPRETADA — PENDIENTE DE COTEJO OFICIAL INDEPENDIENTE\nA. Hemorragia leve\n\nRAZONAMIENTO COMPLETO\nLa alternativa de hemorragia leve es la más directamente relacionada con una urgencia de estabilización básica que un profesional no médico capacitado puede abordar mediante medidas iniciales según sus competencias y activar referencia si precisa mayor capacidad. El ítem, sin embargo, no precisa profesión, magnitud del sangrado ni norma de cartera: no debe interpretarse como autorización de cualquier procedimiento a todo profesional no médico.\n\nDESARROLLO DEL TEMARIO\n1. I-1 es establecimiento del primer nivel con oferta básica conforme a categorización y cartera autorizada.\n2. Urgencia y emergencia: distinguir atención que requiere prontitud de amenaza inmediata de vida.\n3. Evaluar ABC, signos vitales, nivel de conciencia, perfusión y signos de choque.\n4. Hemorragia externa leve: control local mediante presión directa y medidas de protección.\n5. No realizar procedimientos fuera de competencia, habilitación y equipamiento.\n6. Criterios de referencia: sangrado persistente, inestabilidad, lesión profunda o sospecha de hemorragia interna.\n7. Síndrome febril requiere evaluar signos de alarma, focalidad y riesgo epidemiológico.\n8. Asma puede descompensarse: severidad y disponibilidad de manejo determinan conducta.\n9. Registro de atención, consentimiento y comunicación con destino receptor.\n\nTODAS LAS ALTERNATIVAS\nA) Respuesta razonada: hemorragia leve puede requerir control inmediato y eventual referencia.\nB) El síndrome febril es un motivo común de consulta; no se define aquí como urgencia específica.\nC) Asma no complicada requiere evaluación y manejo protocolizado, pero la opción no identifica por sí sola urgencia con transferencia.\nD) Parasitosis intestinal suele manejarse de forma programada.\n\nREFERENCIAS\nMINSA, norma técnica de categorías de establecimientos de salud del sector salud (NTS 021 y actualizaciones).\nMINSA, normas de referencia y contrarreferencia y guías de urgencias en primer nivel.\n\nTRAMPAS\nCategoría no equivale a licencia profesional universal.\nUna hemorragia leve puede controlarse localmente, pero severidad real exige reevaluación.\nLa respuesta requiere cotejo normativo específico: ítem ambiguo.\n\nMNEMOTECNIA\nI-1: estabiliza lo básico y refiere lo que excede capacidad.\n\nREPASO ACTIVO\nRespuesta interpretada: A. Hemorragia leve\nRegla: I-1: estabiliza lo básico y refiere lo que excede capacidad.\nCategoría no equivale a licencia profesional universal.\nUna hemorragia leve puede controlarse localmente, pero severidad real exige reevaluación.\nLa respuesta requiere cotejo normativo específico: ítem ambiguo.\n\nDOS CASOS DE REFUERZO\n1. Paciente presenta sangrado superficial persistente en puesto I-1. Primer paso?\nA) Dar alta sin evaluación\nB) Presión directa y valorar estabilidad\nC) Incisión exploratoria\nD) Esperar hipotensión\nE) Enviar solo sin aviso\nClave B. El control local y valoración de gravedad son medidas iniciales.\n\n2. Tras presión directa continúa sangrado y aparece hipotensión. Conducta?\nA) Ignorar\nB) Solo observación de 24 horas\nC) Tratamiento antiparasitario\nD) Estabilización y referencia urgente\nE) Solo dieta\nClave D. La inestabilidad requiere escalamiento."
+        }
+      }
+    },
+    {
+      "number": 38,
+      "question": "La farmacovigilancia es una actividad de la ...... que se encarga de evaluar la efectividad del medicamento y dispone un sistema rápido de alerta a…",
+      "options": {
+        "A": "salud pública / vigilancia epidemiológica.",
+        "B": "vigilancia / reacciones adversas.",
+        "C": "epidemiología / farmacovigilancia.",
+        "D": "salud pública / reacciones adversas."
+      },
+      "correct": "D",
+      "code": "ENCAPS26-I P038",
+      "course": "ENCAPS Medicina 2026-I · Temario desarrollado",
+      "topic": "Farmacovigilancia como actividad de salud pública y detección de RAM",
+      "comment": "CLAVE INTERPRETADA — PENDIENTE DE COTEJO OFICIAL INDEPENDIENTE\nD. salud pública / reacciones adversas.\n\nRAZONAMIENTO COMPLETO\nLa farmacovigilancia integra funciones de salud pública para detectar, evaluar, comprender y prevenir eventos adversos y otros problemas de seguridad relacionados con medicamentos. Los sistemas de alerta identifican señales de reacciones adversas. El enunciado menciona 'efectividad', pero el foco formal de farmacovigilancia es seguridad, no la evaluación aislada de eficacia terapéutica.\n\nDESARROLLO DEL TEMARIO\n1. OMS: farmacovigilancia como ciencia y actividades de detección, evaluación, comprensión y prevención de efectos adversos.\n2. Medicamento eficaz en ensayo puede causar RAM raras detectadas en uso masivo.\n3. RAM sospechada se comunica aunque no esté probada causalidad.\n4. Señal de seguridad es información que sugiere posible nueva relación causal.\n5. Clasificar gravedad, frecuencia, evitabilidad y causalidad sin confundir conceptos.\n6. Alertas pueden originar restricciones, cambios de ficha técnica o retiro de producto.\n7. Notificación por profesionales, establecimientos y pacientes según marco local.\n8. Diferenciar farmacovigilancia, farmacoeconomía, farmacoepidemiología y control de calidad.\n9. Confidencialidad, registro completo y vigilancia de poblaciones vulnerables.\n\nTODAS LAS ALTERNATIVAS\nA) La primera parte es correcta, pero las alertas se enfocan en problemas de seguridad y RAM, no en 'vigilancia epidemiológica' como destinatario abstracto.\nB) Vigilancia es término demasiado genérico para completar la primera parte.\nC) Farmacovigilancia no se alerta a sí misma; además no expresa bien función de salud pública.\nD) Correcta: actividad de salud pública y alerta de reacciones adversas.\n\nREFERENCIAS\nOMS, definición y objetivos de farmacovigilancia.\nDIGEMID / MINSA, Sistema Peruano de Farmacovigilancia y Tecnovigilancia.\n\nTRAMPAS\nEfectividad clínica y seguridad farmacológica son dominios relacionados, no idénticos.\nNotificar una sospecha no prueba causalidad.\nNo limitar reporte solo a RAM graves.\n\nMNEMOTECNIA\nFARMACOVIGILANCIA = SALUD PÚBLICA + ALERTA DE RAM.\n\nREPASO ACTIVO\nRespuesta interpretada: D. salud pública / reacciones adversas.\nRegla: FARMACOVIGILANCIA = SALUD PÚBLICA + ALERTA DE RAM.\nEfectividad clínica y seguridad farmacológica son dominios relacionados, no idénticos.\nNotificar una sospecha no prueba causalidad.\nNo limitar reporte solo a RAM graves.\n\nDOS CASOS DE REFUERZO\n1. Se detecta patrón inusual de hepatotoxicidad de un fármaco. ¿Sistema para generar alerta?\nA) Archivo de historias\nB) Farmacovigilancia\nC) Censo escolar\nD) Registro de vehículos\nE) Calendario laboral\nClave B. La farmacovigilancia identifica señales de seguridad.\n\n2. ¿Cuál es la finalidad principal al identificar una señal de RAM?\nA) Ocultarla\nB) Cambiar diagnóstico de todos\nC) Interrumpir atención indiscriminadamente\nD) Evaluar riesgo y adoptar medidas preventivas\nE) Ignorar frecuencia\nClave D. La finalidad es proteger a usuarios.",
+      "pearl": "FARMACOVIGILANCIA = SALUD PÚBLICA + ALERTA DE RAM.",
+      "keywords": [
+        "Farmacovigilancia como actividad de salud pública y detección de RAM",
+        "ENCAPS Medicina 2026-I",
+        "SERUMS MINSA"
+      ],
+      "estadoDesarrollo": "completo",
+      "estadoClave": "interpretacion_pendiente_clave_oficial",
+      "lesson": {
+        "respuesta_resumida": "D. salud pública / reacciones adversas.",
+        "razonamiento": "La farmacovigilancia integra funciones de salud pública para detectar, evaluar, comprender y prevenir eventos adversos y otros problemas de seguridad relacionados con medicamentos. Los sistemas de alerta identifican señales de reacciones adversas. El enunciado menciona 'efectividad', pero el foco formal de farmacovigilancia es seguridad, no la evaluación aislada de eficacia terapéutica.",
+        "temario": [
+          "OMS: farmacovigilancia como ciencia y actividades de detección, evaluación, comprensión y prevención de efectos adversos.",
+          "Medicamento eficaz en ensayo puede causar RAM raras detectadas en uso masivo.",
+          "RAM sospechada se comunica aunque no esté probada causalidad.",
+          "Señal de seguridad es información que sugiere posible nueva relación causal.",
+          "Clasificar gravedad, frecuencia, evitabilidad y causalidad sin confundir conceptos.",
+          "Alertas pueden originar restricciones, cambios de ficha técnica o retiro de producto.",
+          "Notificación por profesionales, establecimientos y pacientes según marco local.",
+          "Diferenciar farmacovigilancia, farmacoeconomía, farmacoepidemiología y control de calidad.",
+          "Confidencialidad, registro completo y vigilancia de poblaciones vulnerables."
+        ],
+        "por_que_no_las_otras": {
+          "A": "La primera parte es correcta, pero las alertas se enfocan en problemas de seguridad y RAM, no en 'vigilancia epidemiológica' como destinatario abstracto.",
+          "B": "Vigilancia es término demasiado genérico para completar la primera parte.",
+          "C": "Farmacovigilancia no se alerta a sí misma; además no expresa bien función de salud pública.",
+          "D": "Correcta: actividad de salud pública y alerta de reacciones adversas."
+        },
+        "normativa": [
+          "OMS, definición y objetivos de farmacovigilancia.",
+          "DIGEMID / MINSA, Sistema Peruano de Farmacovigilancia y Tecnovigilancia."
+        ],
+        "mnemotecnia": "FARMACOVIGILANCIA = SALUD PÚBLICA + ALERTA DE RAM.",
+        "trampas": [
+          "Efectividad clínica y seguridad farmacológica son dominios relacionados, no idénticos.",
+          "Notificar una sospecha no prueba causalidad.",
+          "No limitar reporte solo a RAM graves."
+        ],
+        "perla": "FARMACOVIGILANCIA = SALUD PÚBLICA + ALERTA DE RAM.",
+        "repaso_activo": [
+          "Respuesta interpretada: D. salud pública / reacciones adversas.",
+          "Regla: FARMACOVIGILANCIA = SALUD PÚBLICA + ALERTA DE RAM.",
+          "Efectividad clínica y seguridad farmacológica son dominios relacionados, no idénticos.",
+          "Notificar una sospecha no prueba causalidad.",
+          "No limitar reporte solo a RAM graves."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Se detecta patrón inusual de hepatotoxicidad de un fármaco. ¿Sistema para generar alerta?",
+            "alternativas": {
+              "A": "Archivo de historias",
+              "B": "Farmacovigilancia",
+              "C": "Censo escolar",
+              "D": "Registro de vehículos",
+              "E": "Calendario laboral"
+            },
+            "respuesta": "B",
+            "explicacion": "La farmacovigilancia identifica señales de seguridad."
+          },
+          {
+            "enunciado": "¿Cuál es la finalidad principal al identificar una señal de RAM?",
+            "alternativas": {
+              "A": "Ocultarla",
+              "B": "Cambiar diagnóstico de todos",
+              "C": "Interrumpir atención indiscriminadamente",
+              "D": "Evaluar riesgo y adoptar medidas preventivas",
+              "E": "Ignorar frecuencia"
+            },
+            "respuesta": "D",
+            "explicacion": "La finalidad es proteger a usuarios."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Farmacovigilancia como actividad de salud pública y detección de RAM",
+          "desarrollo": "CLAVE INTERPRETADA — PENDIENTE DE COTEJO OFICIAL INDEPENDIENTE\nD. salud pública / reacciones adversas.\n\nRAZONAMIENTO COMPLETO\nLa farmacovigilancia integra funciones de salud pública para detectar, evaluar, comprender y prevenir eventos adversos y otros problemas de seguridad relacionados con medicamentos. Los sistemas de alerta identifican señales de reacciones adversas. El enunciado menciona 'efectividad', pero el foco formal de farmacovigilancia es seguridad, no la evaluación aislada de eficacia terapéutica.\n\nDESARROLLO DEL TEMARIO\n1. OMS: farmacovigilancia como ciencia y actividades de detección, evaluación, comprensión y prevención de efectos adversos.\n2. Medicamento eficaz en ensayo puede causar RAM raras detectadas en uso masivo.\n3. RAM sospechada se comunica aunque no esté probada causalidad.\n4. Señal de seguridad es información que sugiere posible nueva relación causal.\n5. Clasificar gravedad, frecuencia, evitabilidad y causalidad sin confundir conceptos.\n6. Alertas pueden originar restricciones, cambios de ficha técnica o retiro de producto.\n7. Notificación por profesionales, establecimientos y pacientes según marco local.\n8. Diferenciar farmacovigilancia, farmacoeconomía, farmacoepidemiología y control de calidad.\n9. Confidencialidad, registro completo y vigilancia de poblaciones vulnerables.\n\nTODAS LAS ALTERNATIVAS\nA) La primera parte es correcta, pero las alertas se enfocan en problemas de seguridad y RAM, no en 'vigilancia epidemiológica' como destinatario abstracto.\nB) Vigilancia es término demasiado genérico para completar la primera parte.\nC) Farmacovigilancia no se alerta a sí misma; además no expresa bien función de salud pública.\nD) Correcta: actividad de salud pública y alerta de reacciones adversas.\n\nREFERENCIAS\nOMS, definición y objetivos de farmacovigilancia.\nDIGEMID / MINSA, Sistema Peruano de Farmacovigilancia y Tecnovigilancia.\n\nTRAMPAS\nEfectividad clínica y seguridad farmacológica son dominios relacionados, no idénticos.\nNotificar una sospecha no prueba causalidad.\nNo limitar reporte solo a RAM graves.\n\nMNEMOTECNIA\nFARMACOVIGILANCIA = SALUD PÚBLICA + ALERTA DE RAM.\n\nREPASO ACTIVO\nRespuesta interpretada: D. salud pública / reacciones adversas.\nRegla: FARMACOVIGILANCIA = SALUD PÚBLICA + ALERTA DE RAM.\nEfectividad clínica y seguridad farmacológica son dominios relacionados, no idénticos.\nNotificar una sospecha no prueba causalidad.\nNo limitar reporte solo a RAM graves.\n\nDOS CASOS DE REFUERZO\n1. Se detecta patrón inusual de hepatotoxicidad de un fármaco. ¿Sistema para generar alerta?\nA) Archivo de historias\nB) Farmacovigilancia\nC) Censo escolar\nD) Registro de vehículos\nE) Calendario laboral\nClave B. La farmacovigilancia identifica señales de seguridad.\n\n2. ¿Cuál es la finalidad principal al identificar una señal de RAM?\nA) Ocultarla\nB) Cambiar diagnóstico de todos\nC) Interrumpir atención indiscriminadamente\nD) Evaluar riesgo y adoptar medidas preventivas\nE) Ignorar frecuencia\nClave D. La finalidad es proteger a usuarios."
+        }
+      }
+    },
+    {
+      "number": 39,
+      "question": "Como integrante de un equipo multidisciplinario del adolescente en su IPRESS, realiza el cuidado integral a María de 15 años, buscando prevenir el riesgo y conductas problemáticas, desarrollando competencias necesarias para la consecución de logros, ¿Qué enfoque está abordando Ud.?",
+      "options": {
+        "A": "Desarrollo positivo",
+        "B": "Diversidad",
+        "C": "Derechos y ciudadanía",
+        "D": "Inclusión social"
+      },
+      "correct": "A",
+      "code": "ENCAPS26-I P039",
+      "course": "ENCAPS Medicina 2026-I · Temario desarrollado",
+      "topic": "Desarrollo positivo adolescente: activos, fortalezas y prevención de riesgos",
+      "comment": "CLAVE INTERPRETADA — PENDIENTE DE COTEJO OFICIAL INDEPENDIENTE\nA. Desarrollo positivo\n\nRAZONAMIENTO COMPLETO\nEl enfoque de desarrollo positivo del adolescente se orienta a potenciar capacidades, vínculos, competencias y oportunidades para alcanzar metas, en lugar de limitarse a combatir conductas problemáticas. Se complementa con enfoques de derechos, diversidad e inclusión.\n\nDESARROLLO DEL TEMARIO\n1. Desarrollo positivo basado en fortalezas y activos personales y comunitarios.\n2. Competencias cognitivas, sociales, emocionales y morales según etapa evolutiva.\n3. Promoción de autoeficacia, agencia, metas personales y proyecto de vida.\n4. Las cinco C clásicas: competencia, confianza, conexión, carácter y cuidado; algunos modelos agregan contribución.\n5. Factores protectores: adultos de confianza, seguridad escolar, redes de pares positivas.\n6. Prevención de violencia, consumo de sustancias, embarazo no planificado y dificultades de salud mental.\n7. Participación adolescente en decisiones sobre su cuidado.\n8. Atención integral incluye privacidad, consentimiento según normativa y consejería respetuosa.\n9. Derechos e inclusión atraviesan la intervención, aunque no nombran el modelo de fortalezas.\n\nTODAS LAS ALTERNATIVAS\nA) Correcta: promueve competencias y logros con enfoque de fortalezas.\nB) Diversidad implica reconocimiento de diferencias individuales y culturales.\nC) Derechos y ciudadanía orienta ejercicio de derechos y participación.\nD) Inclusión social combate barreras de acceso y exclusión.\n\nREFERENCIAS\nMINSA, documentos técnicos de cuidado integral de salud adolescente por curso de vida.\nLiteratura de desarrollo positivo adolescente (Positive Youth Development).\n\nTRAMPAS\nNo confundir prevenir riesgos con enfoque exclusivamente deficitario.\nEl desarrollo positivo no elimina el abordaje de problemas reales.\nLos enfoques de derechos e inclusión siguen siendo complementarios.\n\nMNEMOTECNIA\n5 C: COMPETENCIA, CONFIANZA, CONEXIÓN, CARÁCTER, CUIDADO.\n\nREPASO ACTIVO\nRespuesta interpretada: A. Desarrollo positivo\nRegla: 5 C: COMPETENCIA, CONFIANZA, CONEXIÓN, CARÁCTER, CUIDADO.\nNo confundir prevenir riesgos con enfoque exclusivamente deficitario.\nEl desarrollo positivo no elimina el abordaje de problemas reales.\nLos enfoques de derechos e inclusión siguen siendo complementarios.\n\nDOS CASOS DE REFUERZO\n1. Equipo organiza mentoría y proyectos para potenciar habilidades de adolescentes. ¿Enfoque?\nA) Punitivo\nB) Exclusión\nC) Desarrollo positivo\nD) Solo vigilancia policial\nE) Hospitalocéntrico\nClave C. Fortalece activos y capacidades.\n\n2. Programa juvenil promueve confianza, conexión y competencia. ¿Marco?\nA) Desarrollo positivo\nB) Cadena epidemiológica\nC) Farmacovigilancia\nD) Solo control de peso\nE) Referencia quirúrgica\nClave A. Son componentes del enfoque.",
+      "pearl": "5 C: COMPETENCIA, CONFIANZA, CONEXIÓN, CARÁCTER, CUIDADO.",
+      "keywords": [
+        "Desarrollo positivo adolescente: activos, fortalezas y prevención de riesgos",
+        "ENCAPS Medicina 2026-I",
+        "SERUMS MINSA"
+      ],
+      "estadoDesarrollo": "completo",
+      "estadoClave": "interpretacion_pendiente_clave_oficial",
+      "lesson": {
+        "respuesta_resumida": "A. Desarrollo positivo",
+        "razonamiento": "El enfoque de desarrollo positivo del adolescente se orienta a potenciar capacidades, vínculos, competencias y oportunidades para alcanzar metas, en lugar de limitarse a combatir conductas problemáticas. Se complementa con enfoques de derechos, diversidad e inclusión.",
+        "temario": [
+          "Desarrollo positivo basado en fortalezas y activos personales y comunitarios.",
+          "Competencias cognitivas, sociales, emocionales y morales según etapa evolutiva.",
+          "Promoción de autoeficacia, agencia, metas personales y proyecto de vida.",
+          "Las cinco C clásicas: competencia, confianza, conexión, carácter y cuidado; algunos modelos agregan contribución.",
+          "Factores protectores: adultos de confianza, seguridad escolar, redes de pares positivas.",
+          "Prevención de violencia, consumo de sustancias, embarazo no planificado y dificultades de salud mental.",
+          "Participación adolescente en decisiones sobre su cuidado.",
+          "Atención integral incluye privacidad, consentimiento según normativa y consejería respetuosa.",
+          "Derechos e inclusión atraviesan la intervención, aunque no nombran el modelo de fortalezas."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Correcta: promueve competencias y logros con enfoque de fortalezas.",
+          "B": "Diversidad implica reconocimiento de diferencias individuales y culturales.",
+          "C": "Derechos y ciudadanía orienta ejercicio de derechos y participación.",
+          "D": "Inclusión social combate barreras de acceso y exclusión."
+        },
+        "normativa": [
+          "MINSA, documentos técnicos de cuidado integral de salud adolescente por curso de vida.",
+          "Literatura de desarrollo positivo adolescente (Positive Youth Development)."
+        ],
+        "mnemotecnia": "5 C: COMPETENCIA, CONFIANZA, CONEXIÓN, CARÁCTER, CUIDADO.",
+        "trampas": [
+          "No confundir prevenir riesgos con enfoque exclusivamente deficitario.",
+          "El desarrollo positivo no elimina el abordaje de problemas reales.",
+          "Los enfoques de derechos e inclusión siguen siendo complementarios."
+        ],
+        "perla": "5 C: COMPETENCIA, CONFIANZA, CONEXIÓN, CARÁCTER, CUIDADO.",
+        "repaso_activo": [
+          "Respuesta interpretada: A. Desarrollo positivo",
+          "Regla: 5 C: COMPETENCIA, CONFIANZA, CONEXIÓN, CARÁCTER, CUIDADO.",
+          "No confundir prevenir riesgos con enfoque exclusivamente deficitario.",
+          "El desarrollo positivo no elimina el abordaje de problemas reales.",
+          "Los enfoques de derechos e inclusión siguen siendo complementarios."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Equipo organiza mentoría y proyectos para potenciar habilidades de adolescentes. ¿Enfoque?",
+            "alternativas": {
+              "A": "Punitivo",
+              "B": "Exclusión",
+              "C": "Desarrollo positivo",
+              "D": "Solo vigilancia policial",
+              "E": "Hospitalocéntrico"
+            },
+            "respuesta": "C",
+            "explicacion": "Fortalece activos y capacidades."
+          },
+          {
+            "enunciado": "Programa juvenil promueve confianza, conexión y competencia. ¿Marco?",
+            "alternativas": {
+              "A": "Desarrollo positivo",
+              "B": "Cadena epidemiológica",
+              "C": "Farmacovigilancia",
+              "D": "Solo control de peso",
+              "E": "Referencia quirúrgica"
+            },
+            "respuesta": "A",
+            "explicacion": "Son componentes del enfoque."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Desarrollo positivo adolescente: activos, fortalezas y prevención de riesgos",
+          "desarrollo": "CLAVE INTERPRETADA — PENDIENTE DE COTEJO OFICIAL INDEPENDIENTE\nA. Desarrollo positivo\n\nRAZONAMIENTO COMPLETO\nEl enfoque de desarrollo positivo del adolescente se orienta a potenciar capacidades, vínculos, competencias y oportunidades para alcanzar metas, en lugar de limitarse a combatir conductas problemáticas. Se complementa con enfoques de derechos, diversidad e inclusión.\n\nDESARROLLO DEL TEMARIO\n1. Desarrollo positivo basado en fortalezas y activos personales y comunitarios.\n2. Competencias cognitivas, sociales, emocionales y morales según etapa evolutiva.\n3. Promoción de autoeficacia, agencia, metas personales y proyecto de vida.\n4. Las cinco C clásicas: competencia, confianza, conexión, carácter y cuidado; algunos modelos agregan contribución.\n5. Factores protectores: adultos de confianza, seguridad escolar, redes de pares positivas.\n6. Prevención de violencia, consumo de sustancias, embarazo no planificado y dificultades de salud mental.\n7. Participación adolescente en decisiones sobre su cuidado.\n8. Atención integral incluye privacidad, consentimiento según normativa y consejería respetuosa.\n9. Derechos e inclusión atraviesan la intervención, aunque no nombran el modelo de fortalezas.\n\nTODAS LAS ALTERNATIVAS\nA) Correcta: promueve competencias y logros con enfoque de fortalezas.\nB) Diversidad implica reconocimiento de diferencias individuales y culturales.\nC) Derechos y ciudadanía orienta ejercicio de derechos y participación.\nD) Inclusión social combate barreras de acceso y exclusión.\n\nREFERENCIAS\nMINSA, documentos técnicos de cuidado integral de salud adolescente por curso de vida.\nLiteratura de desarrollo positivo adolescente (Positive Youth Development).\n\nTRAMPAS\nNo confundir prevenir riesgos con enfoque exclusivamente deficitario.\nEl desarrollo positivo no elimina el abordaje de problemas reales.\nLos enfoques de derechos e inclusión siguen siendo complementarios.\n\nMNEMOTECNIA\n5 C: COMPETENCIA, CONFIANZA, CONEXIÓN, CARÁCTER, CUIDADO.\n\nREPASO ACTIVO\nRespuesta interpretada: A. Desarrollo positivo\nRegla: 5 C: COMPETENCIA, CONFIANZA, CONEXIÓN, CARÁCTER, CUIDADO.\nNo confundir prevenir riesgos con enfoque exclusivamente deficitario.\nEl desarrollo positivo no elimina el abordaje de problemas reales.\nLos enfoques de derechos e inclusión siguen siendo complementarios.\n\nDOS CASOS DE REFUERZO\n1. Equipo organiza mentoría y proyectos para potenciar habilidades de adolescentes. ¿Enfoque?\nA) Punitivo\nB) Exclusión\nC) Desarrollo positivo\nD) Solo vigilancia policial\nE) Hospitalocéntrico\nClave C. Fortalece activos y capacidades.\n\n2. Programa juvenil promueve confianza, conexión y competencia. ¿Marco?\nA) Desarrollo positivo\nB) Cadena epidemiológica\nC) Farmacovigilancia\nD) Solo control de peso\nE) Referencia quirúrgica\nClave A. Son componentes del enfoque."
+        }
+      }
+    },
+    {
+      "number": 40,
+      "question": "El conjunto de procedimientos asistenciales a través del cual se asegura la continuidad de la atención de las necesidades de salud de los usuarios, transfiriéndolo del establecimiento de menor a mayor capacidad resolutiva corresponde a:",
+      "options": {
+        "A": "Referencia",
+        "B": "Contrarreferencia",
+        "C": "Atención primaria",
+        "D": "Atención compartida"
+      },
+      "correct": "A",
+      "code": "ENCAPS26-I P040",
+      "course": "ENCAPS Medicina 2026-I · Temario desarrollado",
+      "topic": "Referencia y contrarreferencia: continuidad y capacidad resolutiva",
+      "comment": "CLAVE INTERPRETADA — PENDIENTE DE COTEJO OFICIAL INDEPENDIENTE\nA. Referencia\n\nRAZONAMIENTO COMPLETO\nLa referencia traslada coordinadamente al usuario de un establecimiento a otro de mayor o diferente capacidad resolutiva cuando la necesidad supera los recursos disponibles, asegurando continuidad. La contrarreferencia devuelve información y seguimiento al establecimiento de origen tras atención del receptor.\n\nDESARROLLO DEL TEMARIO\n1. Referencia como procedimiento asistencial-administrativo de transferencia para prestaciones necesarias.\n2. Capacidad resolutiva considera profesionales, equipamiento, cartera, horario y transporte.\n3. Motivos: necesidad diagnóstica, tratamiento especializado, hospitalización o emergencia.\n4. Previo al traslado: evaluación, estabilización y comunicación con receptor.\n5. Documentación: motivo, hallazgos, tratamientos, estado y prioridad.\n6. Contra-referencia: comunicación de diagnóstico, conducta, recomendaciones y controles al origen.\n7. Evitar referencias innecesarias, duplicaciones, pérdidas de información y barreras económicas.\n8. Emergencia: prima seguridad y acceso sobre trámites de rutina.\n9. Continuidad longitudinal y coordinación en redes integradas de salud.\n\nTODAS LAS ALTERNATIVAS\nA) Correcta: transferencia del origen al destino con mayor capacidad resolutiva.\nB) Contrarreferencia es retorno de información/seguimiento desde receptor hacia origen.\nC) APS es un enfoque amplio de organización y cuidado, no el procedimiento específico.\nD) Atención compartida implica coordinación simultánea, no define el traslado descrito.\n\nREFERENCIAS\nMINSA, norma técnica de los servicios de referencia y contrarreferencia de los establecimientos de salud.\nMINSA, modelo de cuidado integral y Redes Integradas de Salud.\n\nTRAMPAS\nReferencia no es abandono del paciente.\nLa contrarreferencia no equivale necesariamente a transporte físico de regreso.\nUna derivación debe documentarse y coordinarse.\n\nMNEMOTECNIA\nREFERENCIA = SUBE; CONTRARREFERENCIA = REGRESA CON PLAN.\n\nREPASO ACTIVO\nRespuesta interpretada: A. Referencia\nRegla: REFERENCIA = SUBE; CONTRARREFERENCIA = REGRESA CON PLAN.\nReferencia no es abandono del paciente.\nLa contrarreferencia no equivale necesariamente a transporte físico de regreso.\nUna derivación debe documentarse y coordinarse.\n\nDOS CASOS DE REFUERZO\n1. IPRESS I-2 envía paciente a hospital para evaluación quirúrgica. ¿Proceso?\nA) Contrarreferencia\nB) Dispensación\nC) Alta voluntaria\nD) Referencia\nE) Notificación de RAM\nClave D. Se transfiere a mayor capacidad.\n\n2. Hospital devuelve informe y plan de seguimiento al establecimiento de origen. ¿Proceso?\nA) Tamizaje\nB) Contrarreferencia\nC) Referencia inicial\nD) Farmacovigilancia\nE) Triage\nClave B. Asegura continuidad de la atención.",
+      "pearl": "REFERENCIA = SUBE; CONTRARREFERENCIA = REGRESA CON PLAN.",
+      "keywords": [
+        "Referencia y contrarreferencia: continuidad y capacidad resolutiva",
+        "ENCAPS Medicina 2026-I",
+        "SERUMS MINSA"
+      ],
+      "estadoDesarrollo": "completo",
+      "estadoClave": "interpretacion_pendiente_clave_oficial",
+      "lesson": {
+        "respuesta_resumida": "A. Referencia",
+        "razonamiento": "La referencia traslada coordinadamente al usuario de un establecimiento a otro de mayor o diferente capacidad resolutiva cuando la necesidad supera los recursos disponibles, asegurando continuidad. La contrarreferencia devuelve información y seguimiento al establecimiento de origen tras atención del receptor.",
+        "temario": [
+          "Referencia como procedimiento asistencial-administrativo de transferencia para prestaciones necesarias.",
+          "Capacidad resolutiva considera profesionales, equipamiento, cartera, horario y transporte.",
+          "Motivos: necesidad diagnóstica, tratamiento especializado, hospitalización o emergencia.",
+          "Previo al traslado: evaluación, estabilización y comunicación con receptor.",
+          "Documentación: motivo, hallazgos, tratamientos, estado y prioridad.",
+          "Contra-referencia: comunicación de diagnóstico, conducta, recomendaciones y controles al origen.",
+          "Evitar referencias innecesarias, duplicaciones, pérdidas de información y barreras económicas.",
+          "Emergencia: prima seguridad y acceso sobre trámites de rutina.",
+          "Continuidad longitudinal y coordinación en redes integradas de salud."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Correcta: transferencia del origen al destino con mayor capacidad resolutiva.",
+          "B": "Contrarreferencia es retorno de información/seguimiento desde receptor hacia origen.",
+          "C": "APS es un enfoque amplio de organización y cuidado, no el procedimiento específico.",
+          "D": "Atención compartida implica coordinación simultánea, no define el traslado descrito."
+        },
+        "normativa": [
+          "MINSA, norma técnica de los servicios de referencia y contrarreferencia de los establecimientos de salud.",
+          "MINSA, modelo de cuidado integral y Redes Integradas de Salud."
+        ],
+        "mnemotecnia": "REFERENCIA = SUBE; CONTRARREFERENCIA = REGRESA CON PLAN.",
+        "trampas": [
+          "Referencia no es abandono del paciente.",
+          "La contrarreferencia no equivale necesariamente a transporte físico de regreso.",
+          "Una derivación debe documentarse y coordinarse."
+        ],
+        "perla": "REFERENCIA = SUBE; CONTRARREFERENCIA = REGRESA CON PLAN.",
+        "repaso_activo": [
+          "Respuesta interpretada: A. Referencia",
+          "Regla: REFERENCIA = SUBE; CONTRARREFERENCIA = REGRESA CON PLAN.",
+          "Referencia no es abandono del paciente.",
+          "La contrarreferencia no equivale necesariamente a transporte físico de regreso.",
+          "Una derivación debe documentarse y coordinarse."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "IPRESS I-2 envía paciente a hospital para evaluación quirúrgica. ¿Proceso?",
+            "alternativas": {
+              "A": "Contrarreferencia",
+              "B": "Dispensación",
+              "C": "Alta voluntaria",
+              "D": "Referencia",
+              "E": "Notificación de RAM"
+            },
+            "respuesta": "D",
+            "explicacion": "Se transfiere a mayor capacidad."
+          },
+          {
+            "enunciado": "Hospital devuelve informe y plan de seguimiento al establecimiento de origen. ¿Proceso?",
+            "alternativas": {
+              "A": "Tamizaje",
+              "B": "Contrarreferencia",
+              "C": "Referencia inicial",
+              "D": "Farmacovigilancia",
+              "E": "Triage"
+            },
+            "respuesta": "B",
+            "explicacion": "Asegura continuidad de la atención."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Referencia y contrarreferencia: continuidad y capacidad resolutiva",
+          "desarrollo": "CLAVE INTERPRETADA — PENDIENTE DE COTEJO OFICIAL INDEPENDIENTE\nA. Referencia\n\nRAZONAMIENTO COMPLETO\nLa referencia traslada coordinadamente al usuario de un establecimiento a otro de mayor o diferente capacidad resolutiva cuando la necesidad supera los recursos disponibles, asegurando continuidad. La contrarreferencia devuelve información y seguimiento al establecimiento de origen tras atención del receptor.\n\nDESARROLLO DEL TEMARIO\n1. Referencia como procedimiento asistencial-administrativo de transferencia para prestaciones necesarias.\n2. Capacidad resolutiva considera profesionales, equipamiento, cartera, horario y transporte.\n3. Motivos: necesidad diagnóstica, tratamiento especializado, hospitalización o emergencia.\n4. Previo al traslado: evaluación, estabilización y comunicación con receptor.\n5. Documentación: motivo, hallazgos, tratamientos, estado y prioridad.\n6. Contra-referencia: comunicación de diagnóstico, conducta, recomendaciones y controles al origen.\n7. Evitar referencias innecesarias, duplicaciones, pérdidas de información y barreras económicas.\n8. Emergencia: prima seguridad y acceso sobre trámites de rutina.\n9. Continuidad longitudinal y coordinación en redes integradas de salud.\n\nTODAS LAS ALTERNATIVAS\nA) Correcta: transferencia del origen al destino con mayor capacidad resolutiva.\nB) Contrarreferencia es retorno de información/seguimiento desde receptor hacia origen.\nC) APS es un enfoque amplio de organización y cuidado, no el procedimiento específico.\nD) Atención compartida implica coordinación simultánea, no define el traslado descrito.\n\nREFERENCIAS\nMINSA, norma técnica de los servicios de referencia y contrarreferencia de los establecimientos de salud.\nMINSA, modelo de cuidado integral y Redes Integradas de Salud.\n\nTRAMPAS\nReferencia no es abandono del paciente.\nLa contrarreferencia no equivale necesariamente a transporte físico de regreso.\nUna derivación debe documentarse y coordinarse.\n\nMNEMOTECNIA\nREFERENCIA = SUBE; CONTRARREFERENCIA = REGRESA CON PLAN.\n\nREPASO ACTIVO\nRespuesta interpretada: A. Referencia\nRegla: REFERENCIA = SUBE; CONTRARREFERENCIA = REGRESA CON PLAN.\nReferencia no es abandono del paciente.\nLa contrarreferencia no equivale necesariamente a transporte físico de regreso.\nUna derivación debe documentarse y coordinarse.\n\nDOS CASOS DE REFUERZO\n1. IPRESS I-2 envía paciente a hospital para evaluación quirúrgica. ¿Proceso?\nA) Contrarreferencia\nB) Dispensación\nC) Alta voluntaria\nD) Referencia\nE) Notificación de RAM\nClave D. Se transfiere a mayor capacidad.\n\n2. Hospital devuelve informe y plan de seguimiento al establecimiento de origen. ¿Proceso?\nA) Tamizaje\nB) Contrarreferencia\nC) Referencia inicial\nD) Farmacovigilancia\nE) Triage\nClave B. Asegura continuidad de la atención."
         }
       }
     }
