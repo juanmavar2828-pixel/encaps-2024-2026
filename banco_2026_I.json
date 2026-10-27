@@ -3,7 +3,7 @@
   "bankId": "ENCAPS_2026_I",
   "title": "ENCAPS 2026-I · Medicina Humana",
   "source": "Examen SERUMS Medicina 19 abril 2026 · claves resaltadas en PDF del usuario",
-  "questionCount": 85,
+  "questionCount": 90,
   "questions": [
     {
       "number": 1,
@@ -7826,6 +7826,466 @@
             },
             "respuesta": "E",
             "explicacion": "El tratamiento antirretroviral adecuado es clave para disminuir transmisión vertical."
+          }
+        ]
+      }
+    },
+    {
+      "number": 86,
+      "code": "ENCAPS26-I P86",
+      "course": "ENCAPS Medicina 2026-I",
+      "topic": "Funciones esenciales de salud pública y promoción de la salud",
+      "question": "¿Cuál es la función esencial de la salud pública que ha sido identificada como critica para la práctica de la salud publica relacionada a la colaboración activa del personal de los servicios de salud en el desarrollo de programas educativos en la comunidad?",
+      "options": {
+        "A": "Promoción del acceso equitativo",
+        "B": "Participación social",
+        "C": "Regulación y fiscalización",
+        "D": "Promoción de la salud"
+      },
+      "correct": "D",
+      "comment": "CLAVE RAZONADA — COTEJO OFICIAL PENDIENTE\nD. Promoción de la salud\n\nRAZONAMIENTO\n\nLa pista es el desarrollo de programas educativos comunitarios por personal sanitario. La educación para la salud es una intervención característica de la promoción de la salud, cuyo propósito es fortalecer capacidades personales y comunitarias para controlar determinantes. La participación social es un componente indispensable y por ello el ítem puede suscitar confusión; pero el producto concreto descrito es educación promotora de salud.\n\nDESARROLLO COMPLETO\n\n1. Promoción de salud no se limita a charlas: comprende políticas públicas saludables, ambientes favorables, acción comunitaria, habilidades personales y reorientación de servicios.\n\n2. La Carta de Ottawa define promoción como el proceso de proporcionar medios para mejorar salud y ejercer mayor control sobre ella.\n\n3. Educación sanitaria debe ser culturalmente apropiada, bidireccional y basada en necesidades detectadas.\n\n4. Participación social significa intervención real de comunidad en diagnóstico, priorización, codiseño, ejecución y evaluación de respuestas.\n\n5. Las funciones esenciales de salud pública de OPS son capacidades para proteger y mejorar salud poblacional y reducir desigualdades.\n\n6. Ejemplo: programa de escuelas saludables coordinado por la IPRESS sobre nutrición, higiene y prevención de dengue.\n\n7. Una campaña con carteles sin evaluación de comprensión ni acceso real a condiciones saludables tiene efectividad limitada.\n\n8. La regulación y fiscalización comprende medidas normativas, inspección y cumplimiento; no es la actividad principal del caso.\n\n9. Acceso equitativo busca reducir barreras de disponibilidad, oportunidad, aceptabilidad y asequibilidad.\n\n10. El ciclo de programa incluye diagnóstico, población objetivo, objetivos, intervención, indicadores de proceso y resultado.\n\n11. La alfabetización en salud exige mensajes comprensibles en idioma preferido y comprobación de comprensión.\n\n12. No confundir promoción con prevención primaria: promoción actúa ampliamente sobre capacidades y determinantes, mientras la prevención se orienta a eventos o riesgos específicos.\n\nALTERNATIVAS\n\nA) El acceso equitativo elimina barreras de servicio, pero no es la función descrita por la labor educativa comunitaria.\n\nB) La participación social es necesaria para construir los programas, aunque la actividad central descrita se asocia con promoción de la salud.\n\nC) Regulación/fiscalización se centra en normas y cumplimiento, no programas educativos.\n\nD) Correcta como clave razonada: promoción de la salud mediante actividades educativas.\n\nNORMATIVA\n\nOPS: funciones esenciales de salud pública renovadas, promoción de la salud y participación.\n\nOMS: Carta de Ottawa para la Promoción de la Salud.\n\nTRAMPAS\n\nIdentificar la palabra clave del enunciado y no confundir disciplinas próximas.\n\nLa clave del examen debe distinguirse de decisiones clínicas dependientes del protocolo y contexto.\n\nMNEMOTECNIA\n\nEDUCAR + EMPODERAR + ENTORNO = PROMOVER.\n\nREPASO ACTIVO\n\n¿Cuál es el razonamiento que resuelve el caso?\nLa pista es el desarrollo de programas educativos comunitarios por personal sanitario. La educación para la salud es una intervención característica de la promoción de la salud, cuyo propósito es fortalecer capacidades personales y comunitarias para controlar determinantes. La participación social es un componente indispensable y por ello el ítem puede suscitar confusión; pero el producto concreto descrito es educación promotora de salud.\n\n¿Qué asociación memorizar?\nEDUCAR + EMPODERAR + ENTORNO = PROMOVER.\n\n¿Por qué no las demás?\nEl acceso equitativo elimina barreras de servicio, pero no es la función descrita por la labor educativa comunitaria. La participación social es necesaria para construir los programas, aunque la actividad central descrita se asocia con promoción de la salud. Regulación/fiscalización se centra en normas y cumplimiento, no programas educativos. Correcta como clave razonada: promoción de la salud mediante actividades educativas.\n\nCASOS CLÍNICOS Y DE GESTIÓN\n\n1. Un centro de salud organiza talleres con vecinos para reducir consumo de bebidas azucaradas y facilitar entornos saludables. ¿Función predominante?\nA) Fiscalización\nB) Promoción de la salud\nC) Registro civil\nD) Auditoría contable\nE) Certificación laboral\nClave B. Se fortalecen capacidades y condiciones comunitarias de salud.\n\n2. Los vecinos deciden junto a la RIS prioridades y evalúan resultados del plan local. ¿Componente central?\nA) Farmacovigilancia\nB) Atención hospitalaria\nC) Participación social\nD) Vigilancia centinela\nE) Control de inventarios\nClave C. Existe involucramiento en las decisiones, no solo recepción de mensajes.",
+      "pearl": "EDUCAR + EMPODERAR + ENTORNO = PROMOVER.",
+      "estadoDesarrollo": "completo",
+      "estadoClave": "razonada_pendiente_cotejo_oficial",
+      "lesson": {
+        "respuesta_resumida": "D. Promoción de la salud",
+        "razonamiento": "La pista es el desarrollo de programas educativos comunitarios por personal sanitario. La educación para la salud es una intervención característica de la promoción de la salud, cuyo propósito es fortalecer capacidades personales y comunitarias para controlar determinantes. La participación social es un componente indispensable y por ello el ítem puede suscitar confusión; pero el producto concreto descrito es educación promotora de salud.",
+        "temario": [
+          "Promoción de salud no se limita a charlas: comprende políticas públicas saludables, ambientes favorables, acción comunitaria, habilidades personales y reorientación de servicios.",
+          "La Carta de Ottawa define promoción como el proceso de proporcionar medios para mejorar salud y ejercer mayor control sobre ella.",
+          "Educación sanitaria debe ser culturalmente apropiada, bidireccional y basada en necesidades detectadas.",
+          "Participación social significa intervención real de comunidad en diagnóstico, priorización, codiseño, ejecución y evaluación de respuestas.",
+          "Las funciones esenciales de salud pública de OPS son capacidades para proteger y mejorar salud poblacional y reducir desigualdades.",
+          "Ejemplo: programa de escuelas saludables coordinado por la IPRESS sobre nutrición, higiene y prevención de dengue.",
+          "Una campaña con carteles sin evaluación de comprensión ni acceso real a condiciones saludables tiene efectividad limitada.",
+          "La regulación y fiscalización comprende medidas normativas, inspección y cumplimiento; no es la actividad principal del caso.",
+          "Acceso equitativo busca reducir barreras de disponibilidad, oportunidad, aceptabilidad y asequibilidad.",
+          "El ciclo de programa incluye diagnóstico, población objetivo, objetivos, intervención, indicadores de proceso y resultado.",
+          "La alfabetización en salud exige mensajes comprensibles en idioma preferido y comprobación de comprensión.",
+          "No confundir promoción con prevención primaria: promoción actúa ampliamente sobre capacidades y determinantes, mientras la prevención se orienta a eventos o riesgos específicos."
+        ],
+        "por_que_no_las_otras": {
+          "A": "El acceso equitativo elimina barreras de servicio, pero no es la función descrita por la labor educativa comunitaria.",
+          "B": "La participación social es necesaria para construir los programas, aunque la actividad central descrita se asocia con promoción de la salud.",
+          "C": "Regulación/fiscalización se centra en normas y cumplimiento, no programas educativos.",
+          "D": "Correcta como clave razonada: promoción de la salud mediante actividades educativas."
+        },
+        "normativa": [
+          "OPS: funciones esenciales de salud pública renovadas, promoción de la salud y participación.",
+          "OMS: Carta de Ottawa para la Promoción de la Salud."
+        ],
+        "mnemotecnia": "EDUCAR + EMPODERAR + ENTORNO = PROMOVER.",
+        "trampas": [
+          "Identificar la palabra clave del enunciado y no confundir disciplinas próximas.",
+          "La clave del examen debe distinguirse de decisiones clínicas dependientes del protocolo y contexto."
+        ],
+        "perla": "EDUCAR + EMPODERAR + ENTORNO = PROMOVER.",
+        "repaso_activo": [
+          {
+            "pregunta": "¿Cuál es el razonamiento que resuelve el caso?",
+            "respuesta": "La pista es el desarrollo de programas educativos comunitarios por personal sanitario. La educación para la salud es una intervención característica de la promoción de la salud, cuyo propósito es fortalecer capacidades personales y comunitarias para controlar determinantes. La participación social es un componente indispensable y por ello el ítem puede suscitar confusión; pero el producto concreto descrito es educación promotora de salud."
+          },
+          {
+            "pregunta": "¿Qué asociación memorizar?",
+            "respuesta": "EDUCAR + EMPODERAR + ENTORNO = PROMOVER."
+          },
+          {
+            "pregunta": "¿Por qué no las demás?",
+            "respuesta": "El acceso equitativo elimina barreras de servicio, pero no es la función descrita por la labor educativa comunitaria. La participación social es necesaria para construir los programas, aunque la actividad central descrita se asocia con promoción de la salud. Regulación/fiscalización se centra en normas y cumplimiento, no programas educativos. Correcta como clave razonada: promoción de la salud mediante actividades educativas."
+          }
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Un centro de salud organiza talleres con vecinos para reducir consumo de bebidas azucaradas y facilitar entornos saludables. ¿Función predominante?",
+            "alternativas": {
+              "A": "Fiscalización",
+              "B": "Promoción de la salud",
+              "C": "Registro civil",
+              "D": "Auditoría contable",
+              "E": "Certificación laboral"
+            },
+            "respuesta": "B",
+            "explicacion": "Se fortalecen capacidades y condiciones comunitarias de salud."
+          },
+          {
+            "enunciado": "Los vecinos deciden junto a la RIS prioridades y evalúan resultados del plan local. ¿Componente central?",
+            "alternativas": {
+              "A": "Farmacovigilancia",
+              "B": "Atención hospitalaria",
+              "C": "Participación social",
+              "D": "Vigilancia centinela",
+              "E": "Control de inventarios"
+            },
+            "respuesta": "C",
+            "explicacion": "Existe involucramiento en las decisiones, no solo recepción de mensajes."
+          }
+        ]
+      }
+    },
+    {
+      "number": 87,
+      "code": "ENCAPS26-I P87",
+      "course": "ENCAPS Medicina 2026-I",
+      "topic": "Calendario peruano actualizado: vacuna hexavalente a los cuatro meses",
+      "question": "Niña de 4 meses de parto institucional con peso de 5 kg debe recibir sus vacunas de acuerdo a calendario de vacunación para su edad. ¿Cuál de las siguientes vacunas le corresponde?",
+      "options": {
+        "A": "BCG",
+        "B": "Pentavalente",
+        "C": "Hexavalente",
+        "D": "HvB"
+      },
+      "correct": "C",
+      "comment": "CLAVE RAZONADA — COTEJO OFICIAL PENDIENTE\nC. Hexavalente\n\nRAZONAMIENTO\n\nLa respuesta esperada con el esquema actualizado aplicado en 2026 es vacuna hexavalente, en la dosis correspondiente a los cuatro meses. Incluye protección frente a difteria, tétanos, tosferina, hepatitis B, poliomielitis y Haemophilus influenzae tipo b. La pentavalente correspondía a versiones anteriores y en contextos de transición deben verificarse cronograma regional, disponibilidad y dosis ya aplicadas. BCG y hepatitis B monovalente son vacunas de nacimiento.\n\nDESARROLLO COMPLETO\n\n1. La hexavalente combina antígenos contra difteria, tétanos, tosferina, poliomielitis inactivada, hepatitis B y Hib.\n\n2. El esquema peruano anunció la incorporación de hexavalente para sustituir esquemas con pentavalente en lactantes durante la transición programática.\n\n3. A los cuatro meses corresponde dosis del esquema primario que comenzó a los dos meses, si calendario y antecedente de vacunación lo permiten.\n\n4. La sustitución programática requiere revisar carné y lineamientos de transición, no duplicar vacunas combinadas arbitrariamente.\n\n5. BCG se indica idealmente en etapa neonatal y protege contra formas graves de tuberculosis en niños.\n\n6. Vacuna hepatitis B monovalente se administra como dosis de nacimiento dentro de primera jornada de vida.\n\n7. Peso 5 kg no justifica omitir automáticamente una vacuna por la sola cifra; evaluar salud actual y contraindicaciones específicas.\n\n8. El paquete a los cuatro meses puede incluir otras vacunas según calendario; esta pregunta pide solo una entre cuatro alternativas.\n\n9. En esquemas atrasados se aplican pautas de recuperación; no reiniciar series innecesariamente.\n\n10. Verificar cadena de frío, lote, vía, sitio de inyección, técnica y registro en carné y sistema.\n\n11. Explicar reacciones esperadas, signos de alarma y dónde consultar ante ESAVI.\n\n12. Diferenciar neumococo y rotavirus, cuyos intervalos y límites dependen de calendario, de la vacuna combinada hexavalente.\n\nALTERNATIVAS\n\nA) BCG es vacuna neonatal, no la dosis rutinaria indicada a los cuatro meses.\n\nB) Pentavalente figura en esquemas anteriores y puede causar confusión durante transición, pero la clave esperada 2026 es hexavalente.\n\nC) Correcta según actualización del programa 2026: hexavalente.\n\nD) La hepatitis B monovalente corresponde especialmente a dosis de nacimiento; hepatitis B está incluida en hexavalente.\n\nNORMATIVA\n\nMINSA, actualizaciones del Esquema Nacional de Vacunación e incorporación de vacuna hexavalente 2025–2026.\n\nNorma Técnica de Salud del Esquema Nacional de Vacunación y disposiciones de transición vigentes.\n\nTRAMPAS\n\nIdentificar la palabra clave del enunciado y no confundir disciplinas próximas.\n\nLa clave del examen debe distinguirse de decisiones clínicas dependientes del protocolo y contexto.\n\nMNEMOTECNIA\n\nHEXA = 6 PROTECCIONES; 2 Y 4 MESES EN PRIMOVACUNACIÓN.\n\nREPASO ACTIVO\n\n¿Cuál es el razonamiento que resuelve el caso?\nLa respuesta esperada con el esquema actualizado aplicado en 2026 es vacuna hexavalente, en la dosis correspondiente a los cuatro meses. Incluye protección frente a difteria, tétanos, tosferina, hepatitis B, poliomielitis y Haemophilus influenzae tipo b. La pentavalente correspondía a versiones anteriores y en contextos de transición deben verificarse cronograma regional, disponibilidad y dosis ya aplicadas. BCG y hepatitis B monovalente son vacunas de nacimiento.\n\n¿Qué asociación memorizar?\nHEXA = 6 PROTECCIONES; 2 Y 4 MESES EN PRIMOVACUNACIÓN.\n\n¿Por qué no las demás?\nBCG es vacuna neonatal, no la dosis rutinaria indicada a los cuatro meses. Pentavalente figura en esquemas anteriores y puede causar confusión durante transición, pero la clave esperada 2026 es hexavalente. Correcta según actualización del programa 2026: hexavalente. La hepatitis B monovalente corresponde especialmente a dosis de nacimiento; hepatitis B está incluida en hexavalente.\n\nCASOS CLÍNICOS Y DE GESTIÓN\n\n1. Lactante de cuatro meses con esquema oportuno consulta para segunda dosis de vacuna combinada 2026. ¿Cuál identifica seis antígenos?\nA) BCG\nB) Rotavirus\nC) Hexavalente\nD) Fiebre amarilla\nE) SRP\nClave C. La hexavalente reúne seis protecciones.\n\n2. Recién nacido de diez horas sin dosis monovalente contra hepatitis B. ¿Conducta?\nA) Aplicarla oportunamente según norma\nB) Esperar seis meses\nC) Omitir por haber hexavalente futura\nD) Sustituir por SRP\nE) Dar solo vitamina A\nClave A. La dosis oportuna al nacimiento tiene finalidad específica de prevención temprana.",
+      "pearl": "HEXA = 6 PROTECCIONES; 2 Y 4 MESES EN PRIMOVACUNACIÓN.",
+      "estadoDesarrollo": "completo",
+      "estadoClave": "razonada_pendiente_cotejo_oficial",
+      "lesson": {
+        "respuesta_resumida": "C. Hexavalente",
+        "razonamiento": "La respuesta esperada con el esquema actualizado aplicado en 2026 es vacuna hexavalente, en la dosis correspondiente a los cuatro meses. Incluye protección frente a difteria, tétanos, tosferina, hepatitis B, poliomielitis y Haemophilus influenzae tipo b. La pentavalente correspondía a versiones anteriores y en contextos de transición deben verificarse cronograma regional, disponibilidad y dosis ya aplicadas. BCG y hepatitis B monovalente son vacunas de nacimiento.",
+        "temario": [
+          "La hexavalente combina antígenos contra difteria, tétanos, tosferina, poliomielitis inactivada, hepatitis B y Hib.",
+          "El esquema peruano anunció la incorporación de hexavalente para sustituir esquemas con pentavalente en lactantes durante la transición programática.",
+          "A los cuatro meses corresponde dosis del esquema primario que comenzó a los dos meses, si calendario y antecedente de vacunación lo permiten.",
+          "La sustitución programática requiere revisar carné y lineamientos de transición, no duplicar vacunas combinadas arbitrariamente.",
+          "BCG se indica idealmente en etapa neonatal y protege contra formas graves de tuberculosis en niños.",
+          "Vacuna hepatitis B monovalente se administra como dosis de nacimiento dentro de primera jornada de vida.",
+          "Peso 5 kg no justifica omitir automáticamente una vacuna por la sola cifra; evaluar salud actual y contraindicaciones específicas.",
+          "El paquete a los cuatro meses puede incluir otras vacunas según calendario; esta pregunta pide solo una entre cuatro alternativas.",
+          "En esquemas atrasados se aplican pautas de recuperación; no reiniciar series innecesariamente.",
+          "Verificar cadena de frío, lote, vía, sitio de inyección, técnica y registro en carné y sistema.",
+          "Explicar reacciones esperadas, signos de alarma y dónde consultar ante ESAVI.",
+          "Diferenciar neumococo y rotavirus, cuyos intervalos y límites dependen de calendario, de la vacuna combinada hexavalente."
+        ],
+        "por_que_no_las_otras": {
+          "A": "BCG es vacuna neonatal, no la dosis rutinaria indicada a los cuatro meses.",
+          "B": "Pentavalente figura en esquemas anteriores y puede causar confusión durante transición, pero la clave esperada 2026 es hexavalente.",
+          "C": "Correcta según actualización del programa 2026: hexavalente.",
+          "D": "La hepatitis B monovalente corresponde especialmente a dosis de nacimiento; hepatitis B está incluida en hexavalente."
+        },
+        "normativa": [
+          "MINSA, actualizaciones del Esquema Nacional de Vacunación e incorporación de vacuna hexavalente 2025–2026.",
+          "Norma Técnica de Salud del Esquema Nacional de Vacunación y disposiciones de transición vigentes."
+        ],
+        "mnemotecnia": "HEXA = 6 PROTECCIONES; 2 Y 4 MESES EN PRIMOVACUNACIÓN.",
+        "trampas": [
+          "Identificar la palabra clave del enunciado y no confundir disciplinas próximas.",
+          "La clave del examen debe distinguirse de decisiones clínicas dependientes del protocolo y contexto."
+        ],
+        "perla": "HEXA = 6 PROTECCIONES; 2 Y 4 MESES EN PRIMOVACUNACIÓN.",
+        "repaso_activo": [
+          {
+            "pregunta": "¿Cuál es el razonamiento que resuelve el caso?",
+            "respuesta": "La respuesta esperada con el esquema actualizado aplicado en 2026 es vacuna hexavalente, en la dosis correspondiente a los cuatro meses. Incluye protección frente a difteria, tétanos, tosferina, hepatitis B, poliomielitis y Haemophilus influenzae tipo b. La pentavalente correspondía a versiones anteriores y en contextos de transición deben verificarse cronograma regional, disponibilidad y dosis ya aplicadas. BCG y hepatitis B monovalente son vacunas de nacimiento."
+          },
+          {
+            "pregunta": "¿Qué asociación memorizar?",
+            "respuesta": "HEXA = 6 PROTECCIONES; 2 Y 4 MESES EN PRIMOVACUNACIÓN."
+          },
+          {
+            "pregunta": "¿Por qué no las demás?",
+            "respuesta": "BCG es vacuna neonatal, no la dosis rutinaria indicada a los cuatro meses. Pentavalente figura en esquemas anteriores y puede causar confusión durante transición, pero la clave esperada 2026 es hexavalente. Correcta según actualización del programa 2026: hexavalente. La hepatitis B monovalente corresponde especialmente a dosis de nacimiento; hepatitis B está incluida en hexavalente."
+          }
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Lactante de cuatro meses con esquema oportuno consulta para segunda dosis de vacuna combinada 2026. ¿Cuál identifica seis antígenos?",
+            "alternativas": {
+              "A": "BCG",
+              "B": "Rotavirus",
+              "C": "Hexavalente",
+              "D": "Fiebre amarilla",
+              "E": "SRP"
+            },
+            "respuesta": "C",
+            "explicacion": "La hexavalente reúne seis protecciones."
+          },
+          {
+            "enunciado": "Recién nacido de diez horas sin dosis monovalente contra hepatitis B. ¿Conducta?",
+            "alternativas": {
+              "A": "Aplicarla oportunamente según norma",
+              "B": "Esperar seis meses",
+              "C": "Omitir por haber hexavalente futura",
+              "D": "Sustituir por SRP",
+              "E": "Dar solo vitamina A"
+            },
+            "respuesta": "A",
+            "explicacion": "La dosis oportuna al nacimiento tiene finalidad específica de prevención temprana."
+          }
+        ]
+      }
+    },
+    {
+      "number": 88,
+      "code": "ENCAPS26-I P88",
+      "course": "ENCAPS Medicina 2026-I",
+      "topic": "Planeamiento institucional: misión, visión, objetivos e indicadores",
+      "question": "En un centro de salud I-4, el nuevo médico jefe ha reestructurado el rol central de esta institución, la población objetivo asignada y los atributos de la entidad. Esta construcción de elementos se denomina:",
+      "options": {
+        "A": "Indicador",
+        "B": "Objetivo",
+        "C": "Misión",
+        "D": "Visión"
+      },
+      "correct": "C",
+      "comment": "CLAVE RAZONADA — COTEJO OFICIAL PENDIENTE\nC. Misión\n\nRAZONAMIENTO\n\nLa misión declara la razón de ser de la entidad, a quién sirve y cuál es su papel institucional. Al mencionar rol central, población destinataria y atributos de servicio, el enunciado apunta a construcción de misión. La visión describe estado futuro aspirado; los objetivos son logros específicos y los indicadores son medidas verificables de esos logros.\n\nDESARROLLO COMPLETO\n\n1. Misión responde qué hace la organización, para quién existe y cuál es el valor público que entrega.\n\n2. Debe ser comprensible, estable dentro del periodo de planificación y coherente con competencias legales y sanitarias.\n\n3. Población objetivo puede incluir jurisdicción, etapa de vida y necesidades de salud; no debe confundirse con exclusión de población no adscrita en urgencias.\n\n4. Visión es la imagen de futuro deseada: por ejemplo, comunidad con acceso oportuno y mejores resultados sanitarios.\n\n5. Objetivo estratégico es un cambio o resultado específico que la entidad pretende lograr.\n\n6. Indicador es una variable cuantitativa o cualitativa que permite medir avance hacia la meta.\n\n7. Ejemplo de misión: brindar atención integral y humanizada con enfoque intercultural a la población de la jurisdicción.\n\n8. Ejemplo de visión: ser referente en calidad y participación comunitaria en próximos años.\n\n9. Ejemplo de objetivo: reducir proporción de anemia infantil mediante cuidado integral.\n\n10. Ejemplo de indicador: porcentaje de niños tamizados y suplementados según norma.\n\n11. La misión debe vincularse con PEI, POI y rendición de cuentas sin sustituir estos instrumentos.\n\n12. En gestión pública la formulación de misión se supedita a funciones y lineamientos del sistema nacional de planeamiento.\n\nALTERNATIVAS\n\nA) Indicador cuantifica progreso, no describe razón de ser.\n\nB) Objetivo refiere al logro esperado, no al papel general de la institución.\n\nC) Correcta: misión, que reúne rol, destinatarios y atributos institucionales.\n\nD) Visión proyecta un futuro deseado, no resume principalmente rol presente.\n\nNORMATIVA\n\nCEPLAN, Guía para el Planeamiento Institucional.\n\nMINSA, lineamientos de organización y prestación de servicios del primer nivel.\n\nTRAMPAS\n\nIdentificar la palabra clave del enunciado y no confundir disciplinas próximas.\n\nLa clave del examen debe distinguirse de decisiones clínicas dependientes del protocolo y contexto.\n\nMNEMOTECNIA\n\nMISIÓN = QUÉ HAGO Y PARA QUIÉN; VISIÓN = A DÓNDE QUIERO LLEGAR.\n\nREPASO ACTIVO\n\n¿Cuál es el razonamiento que resuelve el caso?\nLa misión declara la razón de ser de la entidad, a quién sirve y cuál es su papel institucional. Al mencionar rol central, población destinataria y atributos de servicio, el enunciado apunta a construcción de misión. La visión describe estado futuro aspirado; los objetivos son logros específicos y los indicadores son medidas verificables de esos logros.\n\n¿Qué asociación memorizar?\nMISIÓN = QUÉ HAGO Y PARA QUIÉN; VISIÓN = A DÓNDE QUIERO LLEGAR.\n\n¿Por qué no las demás?\nIndicador cuantifica progreso, no describe razón de ser. Objetivo refiere al logro esperado, no al papel general de la institución. Correcta: misión, que reúne rol, destinatarios y atributos institucionales. Visión proyecta un futuro deseado, no resume principalmente rol presente.\n\nCASOS CLÍNICOS Y DE GESTIÓN\n\n1. Una IPRESS declara que brinda atención integral a las familias rurales de su territorio. ¿Elemento?\nA) Misión\nB) Índice\nC) Amenaza\nD) Meta\nE) Tasa\nClave A. Define función institucional y usuarios.\n\n2. Una IPRESS quiere ser referente regional de atención segura hacia 2032. ¿Elemento?\nA) Misión\nB) Diagnóstico\nC) Visión\nD) Procedimiento\nE) Brecha\nClave C. Expresa aspiración futura.",
+      "pearl": "MISIÓN = QUÉ HAGO Y PARA QUIÉN; VISIÓN = A DÓNDE QUIERO LLEGAR.",
+      "estadoDesarrollo": "completo",
+      "estadoClave": "razonada_pendiente_cotejo_oficial",
+      "lesson": {
+        "respuesta_resumida": "C. Misión",
+        "razonamiento": "La misión declara la razón de ser de la entidad, a quién sirve y cuál es su papel institucional. Al mencionar rol central, población destinataria y atributos de servicio, el enunciado apunta a construcción de misión. La visión describe estado futuro aspirado; los objetivos son logros específicos y los indicadores son medidas verificables de esos logros.",
+        "temario": [
+          "Misión responde qué hace la organización, para quién existe y cuál es el valor público que entrega.",
+          "Debe ser comprensible, estable dentro del periodo de planificación y coherente con competencias legales y sanitarias.",
+          "Población objetivo puede incluir jurisdicción, etapa de vida y necesidades de salud; no debe confundirse con exclusión de población no adscrita en urgencias.",
+          "Visión es la imagen de futuro deseada: por ejemplo, comunidad con acceso oportuno y mejores resultados sanitarios.",
+          "Objetivo estratégico es un cambio o resultado específico que la entidad pretende lograr.",
+          "Indicador es una variable cuantitativa o cualitativa que permite medir avance hacia la meta.",
+          "Ejemplo de misión: brindar atención integral y humanizada con enfoque intercultural a la población de la jurisdicción.",
+          "Ejemplo de visión: ser referente en calidad y participación comunitaria en próximos años.",
+          "Ejemplo de objetivo: reducir proporción de anemia infantil mediante cuidado integral.",
+          "Ejemplo de indicador: porcentaje de niños tamizados y suplementados según norma.",
+          "La misión debe vincularse con PEI, POI y rendición de cuentas sin sustituir estos instrumentos.",
+          "En gestión pública la formulación de misión se supedita a funciones y lineamientos del sistema nacional de planeamiento."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Indicador cuantifica progreso, no describe razón de ser.",
+          "B": "Objetivo refiere al logro esperado, no al papel general de la institución.",
+          "C": "Correcta: misión, que reúne rol, destinatarios y atributos institucionales.",
+          "D": "Visión proyecta un futuro deseado, no resume principalmente rol presente."
+        },
+        "normativa": [
+          "CEPLAN, Guía para el Planeamiento Institucional.",
+          "MINSA, lineamientos de organización y prestación de servicios del primer nivel."
+        ],
+        "mnemotecnia": "MISIÓN = QUÉ HAGO Y PARA QUIÉN; VISIÓN = A DÓNDE QUIERO LLEGAR.",
+        "trampas": [
+          "Identificar la palabra clave del enunciado y no confundir disciplinas próximas.",
+          "La clave del examen debe distinguirse de decisiones clínicas dependientes del protocolo y contexto."
+        ],
+        "perla": "MISIÓN = QUÉ HAGO Y PARA QUIÉN; VISIÓN = A DÓNDE QUIERO LLEGAR.",
+        "repaso_activo": [
+          {
+            "pregunta": "¿Cuál es el razonamiento que resuelve el caso?",
+            "respuesta": "La misión declara la razón de ser de la entidad, a quién sirve y cuál es su papel institucional. Al mencionar rol central, población destinataria y atributos de servicio, el enunciado apunta a construcción de misión. La visión describe estado futuro aspirado; los objetivos son logros específicos y los indicadores son medidas verificables de esos logros."
+          },
+          {
+            "pregunta": "¿Qué asociación memorizar?",
+            "respuesta": "MISIÓN = QUÉ HAGO Y PARA QUIÉN; VISIÓN = A DÓNDE QUIERO LLEGAR."
+          },
+          {
+            "pregunta": "¿Por qué no las demás?",
+            "respuesta": "Indicador cuantifica progreso, no describe razón de ser. Objetivo refiere al logro esperado, no al papel general de la institución. Correcta: misión, que reúne rol, destinatarios y atributos institucionales. Visión proyecta un futuro deseado, no resume principalmente rol presente."
+          }
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Una IPRESS declara que brinda atención integral a las familias rurales de su territorio. ¿Elemento?",
+            "alternativas": {
+              "A": "Misión",
+              "B": "Índice",
+              "C": "Amenaza",
+              "D": "Meta",
+              "E": "Tasa"
+            },
+            "respuesta": "A",
+            "explicacion": "Define función institucional y usuarios."
+          },
+          {
+            "enunciado": "Una IPRESS quiere ser referente regional de atención segura hacia 2032. ¿Elemento?",
+            "alternativas": {
+              "A": "Misión",
+              "B": "Diagnóstico",
+              "C": "Visión",
+              "D": "Procedimiento",
+              "E": "Brecha"
+            },
+            "respuesta": "C",
+            "explicacion": "Expresa aspiración futura."
+          }
+        ]
+      }
+    },
+    {
+      "number": 89,
+      "code": "ENCAPS26-I P89",
+      "course": "ENCAPS Medicina 2026-I",
+      "topic": "Vigilancia epidemiológica comunitaria: detección, análisis y respuesta",
+      "question": "En un establecimiento de salud I-4 el personal de salud está organizado para identificar problemas de salud, facilitando el control y resolución de los mismos en su comunidad. ¿Qué estrategia han implementado?",
+      "options": {
+        "A": "Presupuesto por resultados",
+        "B": "Gestión por procesos",
+        "C": "Vigilancia epidemiológica",
+        "D": "Oferta de servicios"
+      },
+      "correct": "C",
+      "comment": "CLAVE RAZONADA — COTEJO OFICIAL PENDIENTE\nC. Vigilancia epidemiológica\n\nRAZONAMIENTO\n\nLa organización del personal para identificar eventos y problemas de salud en la comunidad con el objetivo de controlarlos corresponde a vigilancia epidemiológica. No basta recopilar datos: debe analizarse información, detectar riesgos, notificar y movilizar respuesta. El término 'problemas de salud' es amplio, pero la finalidad de identificación y control poblacional favorece claramente esta alternativa.\n\nDESARROLLO COMPLETO\n\n1. Vigilancia epidemiológica es recogida sistemática y continua de información para su análisis, interpretación y uso en decisiones de salud pública.\n\n2. Su ciclo incluye detección, registro, notificación, validación, análisis, difusión y respuesta.\n\n3. El caso sospechoso, probable y confirmado se define mediante criterios operativos de vigilancia para cada evento.\n\n4. Los sistemas pueden incluir vigilancia pasiva de notificación y búsqueda activa dirigida.\n\n5. La oportunidad depende de tiempo entre identificación, notificación, investigación y medidas de control.\n\n6. La vigilancia comunitaria detecta señales como brotes, mortalidad inesperada, eventos ambientales y enfermedad zoonótica.\n\n7. La articulación con establecimientos, líderes y agentes comunitarios favorece alertas tempranas con verificación técnica.\n\n8. Control sanitario puede incluir vacunación, aislamiento según evento, búsqueda de contactos, saneamiento, educación y referencia.\n\n9. La confidencialidad protege a personas mientras se comunica información agregada y alertas relevantes.\n\n10. Los boletines epidemiológicos son productos del sistema y deben traducirse a intervenciones concretas.\n\n11. La gestión por procesos optimiza flujos asistenciales, distinta de vigilar eventos de salud.\n\n12. Presupuesto por resultados vincula recursos a productos, mientras oferta de servicios es cartera/capacidad prestacional.\n\nALTERNATIVAS\n\nA) Presupuesto por resultados no define la búsqueda y control de eventos.\n\nB) Gestión por procesos optimiza organización institucional, pero no especifica vigilancia sanitaria comunitaria.\n\nC) Correcta: vigilancia epidemiológica.\n\nD) Oferta de servicios describe prestaciones disponibles, no sistema de detección y respuesta.\n\nNORMATIVA\n\nCDC Perú, sistemas de vigilancia epidemiológica y notificación de eventos.\n\nOPS, componentes de vigilancia de salud pública.\n\nTRAMPAS\n\nIdentificar la palabra clave del enunciado y no confundir disciplinas próximas.\n\nLa clave del examen debe distinguirse de decisiones clínicas dependientes del protocolo y contexto.\n\nMNEMOTECNIA\n\nVIGILANCIA = DETECTAR + NOTIFICAR + ANALIZAR + ACTUAR.\n\nREPASO ACTIVO\n\n¿Cuál es el razonamiento que resuelve el caso?\nLa organización del personal para identificar eventos y problemas de salud en la comunidad con el objetivo de controlarlos corresponde a vigilancia epidemiológica. No basta recopilar datos: debe analizarse información, detectar riesgos, notificar y movilizar respuesta. El término 'problemas de salud' es amplio, pero la finalidad de identificación y control poblacional favorece claramente esta alternativa.\n\n¿Qué asociación memorizar?\nVIGILANCIA = DETECTAR + NOTIFICAR + ANALIZAR + ACTUAR.\n\n¿Por qué no las demás?\nPresupuesto por resultados no define la búsqueda y control de eventos. Gestión por procesos optimiza organización institucional, pero no especifica vigilancia sanitaria comunitaria. Correcta: vigilancia epidemiológica. Oferta de servicios describe prestaciones disponibles, no sistema de detección y respuesta.\n\nCASOS CLÍNICOS Y DE GESTIÓN\n\n1. Puesto identifica casos febriles anómalos, notifica y organiza investigación. ¿Qué función desarrolla?\nA) Vigilancia epidemiológica\nB) Auditoría contable\nC) Selección laboral\nD) Planilla\nE) Inventario\nClave A. Detecta y responde ante evento de salud pública.\n\n2. El equipo revisa registros para identificar pacientes omitidos del reporte semanal. ¿Modalidad?\nA) Pasiva\nB) Aleatoria\nC) Muestral\nD) Activa\nE) Financiera\nClave D. La búsqueda deliberada constituye vigilancia activa.",
+      "pearl": "VIGILANCIA = DETECTAR + NOTIFICAR + ANALIZAR + ACTUAR.",
+      "estadoDesarrollo": "completo",
+      "estadoClave": "razonada_pendiente_cotejo_oficial",
+      "lesson": {
+        "respuesta_resumida": "C. Vigilancia epidemiológica",
+        "razonamiento": "La organización del personal para identificar eventos y problemas de salud en la comunidad con el objetivo de controlarlos corresponde a vigilancia epidemiológica. No basta recopilar datos: debe analizarse información, detectar riesgos, notificar y movilizar respuesta. El término 'problemas de salud' es amplio, pero la finalidad de identificación y control poblacional favorece claramente esta alternativa.",
+        "temario": [
+          "Vigilancia epidemiológica es recogida sistemática y continua de información para su análisis, interpretación y uso en decisiones de salud pública.",
+          "Su ciclo incluye detección, registro, notificación, validación, análisis, difusión y respuesta.",
+          "El caso sospechoso, probable y confirmado se define mediante criterios operativos de vigilancia para cada evento.",
+          "Los sistemas pueden incluir vigilancia pasiva de notificación y búsqueda activa dirigida.",
+          "La oportunidad depende de tiempo entre identificación, notificación, investigación y medidas de control.",
+          "La vigilancia comunitaria detecta señales como brotes, mortalidad inesperada, eventos ambientales y enfermedad zoonótica.",
+          "La articulación con establecimientos, líderes y agentes comunitarios favorece alertas tempranas con verificación técnica.",
+          "Control sanitario puede incluir vacunación, aislamiento según evento, búsqueda de contactos, saneamiento, educación y referencia.",
+          "La confidencialidad protege a personas mientras se comunica información agregada y alertas relevantes.",
+          "Los boletines epidemiológicos son productos del sistema y deben traducirse a intervenciones concretas.",
+          "La gestión por procesos optimiza flujos asistenciales, distinta de vigilar eventos de salud.",
+          "Presupuesto por resultados vincula recursos a productos, mientras oferta de servicios es cartera/capacidad prestacional."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Presupuesto por resultados no define la búsqueda y control de eventos.",
+          "B": "Gestión por procesos optimiza organización institucional, pero no especifica vigilancia sanitaria comunitaria.",
+          "C": "Correcta: vigilancia epidemiológica.",
+          "D": "Oferta de servicios describe prestaciones disponibles, no sistema de detección y respuesta."
+        },
+        "normativa": [
+          "CDC Perú, sistemas de vigilancia epidemiológica y notificación de eventos.",
+          "OPS, componentes de vigilancia de salud pública."
+        ],
+        "mnemotecnia": "VIGILANCIA = DETECTAR + NOTIFICAR + ANALIZAR + ACTUAR.",
+        "trampas": [
+          "Identificar la palabra clave del enunciado y no confundir disciplinas próximas.",
+          "La clave del examen debe distinguirse de decisiones clínicas dependientes del protocolo y contexto."
+        ],
+        "perla": "VIGILANCIA = DETECTAR + NOTIFICAR + ANALIZAR + ACTUAR.",
+        "repaso_activo": [
+          {
+            "pregunta": "¿Cuál es el razonamiento que resuelve el caso?",
+            "respuesta": "La organización del personal para identificar eventos y problemas de salud en la comunidad con el objetivo de controlarlos corresponde a vigilancia epidemiológica. No basta recopilar datos: debe analizarse información, detectar riesgos, notificar y movilizar respuesta. El término 'problemas de salud' es amplio, pero la finalidad de identificación y control poblacional favorece claramente esta alternativa."
+          },
+          {
+            "pregunta": "¿Qué asociación memorizar?",
+            "respuesta": "VIGILANCIA = DETECTAR + NOTIFICAR + ANALIZAR + ACTUAR."
+          },
+          {
+            "pregunta": "¿Por qué no las demás?",
+            "respuesta": "Presupuesto por resultados no define la búsqueda y control de eventos. Gestión por procesos optimiza organización institucional, pero no especifica vigilancia sanitaria comunitaria. Correcta: vigilancia epidemiológica. Oferta de servicios describe prestaciones disponibles, no sistema de detección y respuesta."
+          }
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Puesto identifica casos febriles anómalos, notifica y organiza investigación. ¿Qué función desarrolla?",
+            "alternativas": {
+              "A": "Vigilancia epidemiológica",
+              "B": "Auditoría contable",
+              "C": "Selección laboral",
+              "D": "Planilla",
+              "E": "Inventario"
+            },
+            "respuesta": "A",
+            "explicacion": "Detecta y responde ante evento de salud pública."
+          },
+          {
+            "enunciado": "El equipo revisa registros para identificar pacientes omitidos del reporte semanal. ¿Modalidad?",
+            "alternativas": {
+              "A": "Pasiva",
+              "B": "Aleatoria",
+              "C": "Muestral",
+              "D": "Activa",
+              "E": "Financiera"
+            },
+            "respuesta": "D",
+            "explicacion": "La búsqueda deliberada constituye vigilancia activa."
+          }
+        ]
+      }
+    },
+    {
+      "number": 90,
+      "code": "ENCAPS26-I P90",
+      "course": "ENCAPS Medicina 2026-I",
+      "topic": "Continuidad de TAR en persona con VIH liberada de prisión, confidencialidad y red de atención",
+      "question": "Varón de 63 años, con diagnóstico HIV, en tratamiento desde que estuvo en prisión, actualmente en libertad, acude por retrovirales al establecimiento I-3. ¿Qué debe hacer el proveedor de salud que atiende?",
+      "options": {
+        "A": "Custodiar sus cosas personales e institucionales y mantener distancias",
+        "B": "Brindar confidencialidad, indicar hospital de derivación para recibir retrovirales",
+        "C": "Constatar si tiene SIS, para entregarle retrovirales correspondientes",
+        "D": "Indicarle que debe apersonarse con algún familiar para darle información"
+      },
+      "correct": "B",
+      "comment": "CLAVE RAZONADA — COTEJO OFICIAL PENDIENTE\nB. Brindar confidencialidad, indicar hospital de derivación para recibir retrovirales\n\nRAZONAMIENTO\n\nLa respuesta académica mejor formulada es respetar confidencialidad y coordinar la vinculación al servicio habilitado para continuidad del tratamiento antirretroviral (TAR). Es incorrecto tratar al usuario como amenaza por haber estado preso o condicionar información a un familiar. Importante matiz: la TAR puede brindarse en establecimientos descentralizados del primer nivel según cartera; derivar siempre al hospital no es requisito universal, y no debe interrumpirse el tratamiento durante la transición.\n\nDESARROLLO COMPLETO\n\n1. VIH es infección crónica tratable; el tratamiento antirretroviral sostenido permite supresión viral, mejores resultados y menor transmisión.\n\n2. El antecedente penitenciario no justifica trato diferente ni medidas de seguridad especiales basadas en estigma.\n\n3. La confidencialidad del diagnóstico y tratamiento es requisito ético y legal; solo compartir datos con personal autorizado por necesidad asistencial.\n\n4. Tras liberación de prisión, se debe asegurar transición de cuidado sin interrupciones, revisar esquema previo y documentar últimas dosis.\n\n5. Verificar adscripción, establecimiento dispensador, disponibilidad de medicamentos y red de referencia/contrarreferencia.\n\n6. La atención oportuna no debe quedar condicionada exclusivamente a demostrar afiliación al SIS, especialmente ante riesgo de interrupción.\n\n7. Evaluar síntomas de infecciones oportunistas, efectos adversos, comorbilidades, interacciones, adherencia y apoyo social.\n\n8. Solicitar carga viral y otros controles conforme a guía y disponibilidad, sin retrasar injustificadamente continuidad farmacológica.\n\n9. Principio indetectable = intransmisible en transmisión sexual se relaciona con supresión viral sostenida; ofrecer consejería adecuada.\n\n10. No pedir presencia familiar como condición de informar; puede haber apoyo elegido voluntariamente por el paciente.\n\n11. Las precauciones estándar se aplican a todos los pacientes, no se exige distanciamiento especial por diagnóstico de VIH.\n\n12. El circuito ideal incluye coordinación efectiva con el equipo TAR, cita concreta y solución de continuidad si carece de medicación.\n\nALTERNATIVAS\n\nA) Conducta estigmatizante basada en prisión y VIH; no corresponde distanciamiento discriminatorio.\n\nB) Mejor opción: confidencialidad y articulación a servicio que dispensa TAR; recordar que podría estar descentralizado.\n\nC) La cobertura SIS puede facilitar trámites, pero no debe ser condición aislada que interrumpa TAR ni asegura que todo I-3 dispense directamente.\n\nD) No es obligatorio traer familiar para recibir información sanitaria personal.\n\nNORMATIVA\n\nMINSA, normativa vigente de atención integral y tratamiento antirretroviral para personas con VIH.\n\nLey peruana N.° 26626 y modificatorias: protección y prevención de discriminación relacionada al VIH.\n\nTRAMPAS\n\nIdentificar la palabra clave del enunciado y no confundir disciplinas próximas.\n\nLa clave del examen debe distinguirse de decisiones clínicas dependientes del protocolo y contexto.\n\nMNEMOTECNIA\n\nVIH = CONFIDENCIALIDAD + TAR SIN INTERRUPCIÓN + CERO ESTIGMA.\n\nREPASO ACTIVO\n\n¿Cuál es el razonamiento que resuelve el caso?\nLa respuesta académica mejor formulada es respetar confidencialidad y coordinar la vinculación al servicio habilitado para continuidad del tratamiento antirretroviral (TAR). Es incorrecto tratar al usuario como amenaza por haber estado preso o condicionar información a un familiar. Importante matiz: la TAR puede brindarse en establecimientos descentralizados del primer nivel según cartera; derivar siempre al hospital no es requisito universal, y no debe interrumpirse el tratamiento durante la transición.\n\n¿Qué asociación memorizar?\nVIH = CONFIDENCIALIDAD + TAR SIN INTERRUPCIÓN + CERO ESTIGMA.\n\n¿Por qué no las demás?\nConducta estigmatizante basada en prisión y VIH; no corresponde distanciamiento discriminatorio. Mejor opción: confidencialidad y articulación a servicio que dispensa TAR; recordar que podría estar descentralizado. La cobertura SIS puede facilitar trámites, pero no debe ser condición aislada que interrumpa TAR ni asegura que todo I-3 dispense directamente. No es obligatorio traer familiar para recibir información sanitaria personal.\n\nCASOS CLÍNICOS Y DE GESTIÓN\n\n1. Usuario con VIH cambia de establecimiento y solo cuenta con tres dosis de TAR. ¿Prioridad?\nA) Suspender hasta trámite\nB) Exigir familiar\nC) Coordinar suministro y continuidad sin demoras\nD) Divulgar diagnóstico\nE) Negar atención\nClave C. La interrupción del tratamiento aumenta riesgos clínicos y de resistencia.\n\n2. Paciente VIH estable pregunta si puede compartir diagnóstico únicamente con pareja. ¿Principio?\nA) Divulgación pública\nB) Registro comunitario\nC) Obligación de contar a vecinos\nD) Prisión administrativa\nE) Confidencialidad y autonomía con orientación profesional\nClave E. La información clínica debe tratarse de forma confidencial.",
+      "pearl": "VIH = CONFIDENCIALIDAD + TAR SIN INTERRUPCIÓN + CERO ESTIGMA.",
+      "estadoDesarrollo": "completo",
+      "estadoClave": "razonada_pendiente_cotejo_oficial",
+      "lesson": {
+        "respuesta_resumida": "B. Brindar confidencialidad, indicar hospital de derivación para recibir retrovirales",
+        "razonamiento": "La respuesta académica mejor formulada es respetar confidencialidad y coordinar la vinculación al servicio habilitado para continuidad del tratamiento antirretroviral (TAR). Es incorrecto tratar al usuario como amenaza por haber estado preso o condicionar información a un familiar. Importante matiz: la TAR puede brindarse en establecimientos descentralizados del primer nivel según cartera; derivar siempre al hospital no es requisito universal, y no debe interrumpirse el tratamiento durante la transición.",
+        "temario": [
+          "VIH es infección crónica tratable; el tratamiento antirretroviral sostenido permite supresión viral, mejores resultados y menor transmisión.",
+          "El antecedente penitenciario no justifica trato diferente ni medidas de seguridad especiales basadas en estigma.",
+          "La confidencialidad del diagnóstico y tratamiento es requisito ético y legal; solo compartir datos con personal autorizado por necesidad asistencial.",
+          "Tras liberación de prisión, se debe asegurar transición de cuidado sin interrupciones, revisar esquema previo y documentar últimas dosis.",
+          "Verificar adscripción, establecimiento dispensador, disponibilidad de medicamentos y red de referencia/contrarreferencia.",
+          "La atención oportuna no debe quedar condicionada exclusivamente a demostrar afiliación al SIS, especialmente ante riesgo de interrupción.",
+          "Evaluar síntomas de infecciones oportunistas, efectos adversos, comorbilidades, interacciones, adherencia y apoyo social.",
+          "Solicitar carga viral y otros controles conforme a guía y disponibilidad, sin retrasar injustificadamente continuidad farmacológica.",
+          "Principio indetectable = intransmisible en transmisión sexual se relaciona con supresión viral sostenida; ofrecer consejería adecuada.",
+          "No pedir presencia familiar como condición de informar; puede haber apoyo elegido voluntariamente por el paciente.",
+          "Las precauciones estándar se aplican a todos los pacientes, no se exige distanciamiento especial por diagnóstico de VIH.",
+          "El circuito ideal incluye coordinación efectiva con el equipo TAR, cita concreta y solución de continuidad si carece de medicación."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Conducta estigmatizante basada en prisión y VIH; no corresponde distanciamiento discriminatorio.",
+          "B": "Mejor opción: confidencialidad y articulación a servicio que dispensa TAR; recordar que podría estar descentralizado.",
+          "C": "La cobertura SIS puede facilitar trámites, pero no debe ser condición aislada que interrumpa TAR ni asegura que todo I-3 dispense directamente.",
+          "D": "No es obligatorio traer familiar para recibir información sanitaria personal."
+        },
+        "normativa": [
+          "MINSA, normativa vigente de atención integral y tratamiento antirretroviral para personas con VIH.",
+          "Ley peruana N.° 26626 y modificatorias: protección y prevención de discriminación relacionada al VIH."
+        ],
+        "mnemotecnia": "VIH = CONFIDENCIALIDAD + TAR SIN INTERRUPCIÓN + CERO ESTIGMA.",
+        "trampas": [
+          "Identificar la palabra clave del enunciado y no confundir disciplinas próximas.",
+          "La clave del examen debe distinguirse de decisiones clínicas dependientes del protocolo y contexto."
+        ],
+        "perla": "VIH = CONFIDENCIALIDAD + TAR SIN INTERRUPCIÓN + CERO ESTIGMA.",
+        "repaso_activo": [
+          {
+            "pregunta": "¿Cuál es el razonamiento que resuelve el caso?",
+            "respuesta": "La respuesta académica mejor formulada es respetar confidencialidad y coordinar la vinculación al servicio habilitado para continuidad del tratamiento antirretroviral (TAR). Es incorrecto tratar al usuario como amenaza por haber estado preso o condicionar información a un familiar. Importante matiz: la TAR puede brindarse en establecimientos descentralizados del primer nivel según cartera; derivar siempre al hospital no es requisito universal, y no debe interrumpirse el tratamiento durante la transición."
+          },
+          {
+            "pregunta": "¿Qué asociación memorizar?",
+            "respuesta": "VIH = CONFIDENCIALIDAD + TAR SIN INTERRUPCIÓN + CERO ESTIGMA."
+          },
+          {
+            "pregunta": "¿Por qué no las demás?",
+            "respuesta": "Conducta estigmatizante basada en prisión y VIH; no corresponde distanciamiento discriminatorio. Mejor opción: confidencialidad y articulación a servicio que dispensa TAR; recordar que podría estar descentralizado. La cobertura SIS puede facilitar trámites, pero no debe ser condición aislada que interrumpa TAR ni asegura que todo I-3 dispense directamente. No es obligatorio traer familiar para recibir información sanitaria personal."
+          }
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Usuario con VIH cambia de establecimiento y solo cuenta con tres dosis de TAR. ¿Prioridad?",
+            "alternativas": {
+              "A": "Suspender hasta trámite",
+              "B": "Exigir familiar",
+              "C": "Coordinar suministro y continuidad sin demoras",
+              "D": "Divulgar diagnóstico",
+              "E": "Negar atención"
+            },
+            "respuesta": "C",
+            "explicacion": "La interrupción del tratamiento aumenta riesgos clínicos y de resistencia."
+          },
+          {
+            "enunciado": "Paciente VIH estable pregunta si puede compartir diagnóstico únicamente con pareja. ¿Principio?",
+            "alternativas": {
+              "A": "Divulgación pública",
+              "B": "Registro comunitario",
+              "C": "Obligación de contar a vecinos",
+              "D": "Prisión administrativa",
+              "E": "Confidencialidad y autonomía con orientación profesional"
+            },
+            "respuesta": "E",
+            "explicacion": "La información clínica debe tratarse de forma confidencial."
           }
         ]
       }
