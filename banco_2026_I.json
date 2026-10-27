@@ -3,7 +3,7 @@
   "bankId": "ENCAPS_2026_I",
   "title": "ENCAPS 2026-I · Medicina Humana",
   "source": "Examen SERUMS Medicina 19 abril 2026 · claves resaltadas en PDF del usuario",
-  "questionCount": 25,
+  "questionCount": 30,
   "questions": [
     {
       "number": 1,
@@ -2924,6 +2924,465 @@
         "leccion_extendida": {
           "titulo": "Vacuna VPH: una dosis desde los nueve años",
           "desarrollo": "RESPUESTA RAZONADA (CLAVE DOCUMENTAL SIN COTEJO INDEPENDIENTE)\nA. 9 años y dosis única\n\nRAZONAMIENTO COMPLETO\nLa vacunación frente al virus del papiloma humano se inicia desde los 9 años con esquema de dosis única para población elegible en Perú. El esquema general incluye niñas y niños; para inmunosupresión importante pueden requerirse esquemas especiales de varias dosis. No confundir con pautas históricas de dos dosis.\n\nDESARROLLO DEL TEMARIO\n1. VPH es causa necesaria para la mayoría de cánceres cervicales y contribuye a otros cánceres anogenitales y orofaríngeos.\n2. Vacunación idealmente antes del inicio de actividad sexual.\n3. En esquema general peruano, desde nueve años con una dosis para elegibles.\n4. Se vacunan niñas y niños para prevenir enfermedad y reducir circulación viral.\n5. En inmunosupresión grave se consideran esquemas de tres dosis conforme al MINSA.\n6. La vacuna previene nuevas infecciones; no trata infección ya establecida.\n7. Tipos de vacunas disponibles cambian con adquisiciones y disposiciones nacionales.\n8. Tamizaje cervical continúa en edades indicadas incluso si se recibió vacunación.\n9. Consentimiento, registro nominal y vigilancia de ESAVI son parte del programa.\n\nANÁLISIS DE ALTERNATIVAS\nA) Correcta: nueve años, dosis única según esquema nacional general.\nB) Once años no es edad mínima del esquema.\nC) Dos dosis refleja esquemas previos o diferentes situaciones y no el esquema general señalado.\nD) Trece años tampoco es edad de inicio mínima.\n\nNORMATIVA Y REFERENCIAS\nMINSA, vacunación contra VPH: https://www.gob.pe/116152-que-es-el-virus-del-papiloma-humano-vph-vacunacion-contra-el-vph\nMINSA, esquema nacional de vacunación: https://www.gob.pe/22037-vacunas-del-esquema-nacional-de-vacunacion-en-el-peru\n\nTRAMPAS\nLa indicación no se restringe a niñas.\nEn inmunosupresión pueden corresponder tres dosis.\nVacunarse no elimina la necesidad de tamizaje cervical futuro.\n\nMNEMOTECNIA\nVPH: NUEVE AÑOS, UNA DOSIS.\n\nREPASO ACTIVO\n¿Clave razonada? A: 9 años y dosis única.\n¿Idea de examen? VPH: NUEVE AÑOS, UNA DOSIS.\n¿Trampa frecuente? La indicación no se restringe a niñas.\n\nCASOS DE REFUERZO\n1. Escolar de nueve años no vacunada contra VPH. Esquema general?\nA) Esperar hasta 15\nB) Dos dosis obligatorias para todos\nC) Una dosis según esquema\nD) Vacuna BCG\nE) No vacunar niños\nClave C. El esquema general comienza desde los nueve años.\n\n2. Adolescente con inmunosupresión marcada consulta por VPH. ¿Qué hacer?\nA) Verificar esquema especial de tres dosis\nB) No registrar\nC) Asumir siempre una dosis\nD) Contraindicar todas vacunas\nE) Esperar hasta los 30\nClave A. La pauta especial se individualiza según normas vigentes."
+        }
+      }
+    },
+    {
+      "number": 26,
+      "question": "Tras administrar un medicamento \"x\" a un paciente, este reporta nauseas. Esta reacción a pesar de solo ser una sospecha de haber sido generada por el medicamento \"x\", sin necesidad de confirmar la relación causal, debe reportarse en la historia clínica del paciente; porque corresponde a:",
+      "options": {
+        "A": "Reacción bien caracterizada",
+        "B": "Evento centinela",
+        "C": "ESAVI",
+        "D": "Sospecha de reacción adversa"
+      },
+      "correct": "D",
+      "code": "ENCAPS26-I P026",
+      "course": "ENCAPS Medicina 2026-I · Temario desarrollado",
+      "topic": "Farmacovigilancia: sospecha de reacción adversa a medicamentos",
+      "comment": "CLAVE RAZONADA — NO COTEJADA CON TABLA OFICIAL INDEPENDIENTE\nD. Sospecha de reacción adversa\n\nRAZONAMIENTO\nLa aparición de náuseas después de un medicamento representa una sospecha de reacción adversa cuando existe posibilidad razonable de asociación temporal. Para registrar y notificar no se exige probar causalidad. Se debe evaluar gravedad, otros desencadenantes, medicamentos concomitantes, temporalidad, evolución al suspender y reexposición cuando sea pertinente y ética.\n\nDESARROLLO DEL TEMARIO\n1. Diferencia entre evento adverso y reacción adversa sospechada: asociación causal posible, no necesariamente probada.\n2. Farmacovigilancia detecta, evalúa, comprende y previene riesgos de medicamentos.\n3. La notificación espontánea no exige certeza causal: sospecha suficiente para comunicar.\n4. Anotar fármaco, dosis, lote cuando aplica, vía, tiempo de inicio, manifestaciones y desenlace.\n5. Criterios de gravedad: muerte, riesgo vital, hospitalización, discapacidad, anomalía congénita u otros eventos médicamente importantes.\n6. Causalidad mediante criterios clínicos: temporalidad, plausibilidad, dechallenge y causas alternativas.\n7. Reporte al sistema de farmacovigilancia institucional y autoridad competente según norma.\n8. ESAVI corresponde a evento presuntamente atribuido a vacunación, no a cualquier medicamento.\n9. Evento centinela es concepto de seguridad del paciente de consecuencias graves o señal de necesidad de investigación urgente.\n\nANÁLISIS DE ALTERNATIVAS\nA) Una reacción bien caracterizada presupone un nivel de conocimiento no establecido por una única sospecha.\nB) Náuseas aisladas no cumplen por sí solas una categoría de evento centinela.\nC) ESAVI se utiliza para eventos después de inmunización, no cualquier fármaco.\nD) Correcta: sospecha de reacción adversa registrable sin confirmación causal.\n\nNORMATIVA Y FUENTES\nDIGEMID, Sistema Peruano de Farmacovigilancia y Tecnovigilancia: https://www.digemid.minsa.gob.pe/webDigemid/farmacovigilancia-y-tecnovigilancia/\nOMS, farmacovigilancia y seguridad de medicamentos.\n\nTRAMPAS\nNotificación no significa causalidad demostrada.\nNo etiquetar automáticamente como alergia toda náusea farmacológica.\nCausalidad y gravedad son dimensiones diferentes.\n\nMNEMOTECNIA\nSOSPECHA SE NOTIFICA, causalidad se INVESTIGA.\n\nREPASO ACTIVO\nClave interpretada: D. Sospecha de reacción adversa\nSOSPECHA SE NOTIFICA, causalidad se INVESTIGA.\nNotificación no significa causalidad demostrada.\nNo etiquetar automáticamente como alergia toda náusea farmacológica.\nCausalidad y gravedad son dimensiones diferentes.\n\nCASOS DE REFUERZO\n1. Paciente presenta erupción tras antibiótico sin estudio causal. ¿Qué procede?\nA) No registrar\nB) Esperar causalidad definitiva\nC) Registrar y notificar sospecha\nD) Anotar solo al alta\nE) Clasificar automáticamente como evento centinela\nClave C. Se notifica la sospecha sin exigir prueba definitiva.\n\n2. Fiebre tras una vacuna durante campaña. ¿Qué categoría corresponde investigar?\nA) ESAVI\nB) Error innato del metabolismo\nC) Evento quirúrgico\nD) Intoxicación alimentaria confirmada\nE) Enfermedad ocupacional\nClave A. La asociación temporal a inmunización requiere evaluación de ESAVI.",
+      "pearl": "SOSPECHA SE NOTIFICA, causalidad se INVESTIGA.",
+      "keywords": [
+        "Farmacovigilancia: sospecha de reacción adversa a medicamentos",
+        "ENCAPS Medicina 2026-I",
+        "SERUMS MINSA"
+      ],
+      "estadoDesarrollo": "completo",
+      "estadoClave": "interpretacion_pendiente_cotejo_clave_oficial",
+      "lesson": {
+        "respuesta_resumida": "D. Sospecha de reacción adversa",
+        "razonamiento": "La aparición de náuseas después de un medicamento representa una sospecha de reacción adversa cuando existe posibilidad razonable de asociación temporal. Para registrar y notificar no se exige probar causalidad. Se debe evaluar gravedad, otros desencadenantes, medicamentos concomitantes, temporalidad, evolución al suspender y reexposición cuando sea pertinente y ética.",
+        "temario": [
+          "Diferencia entre evento adverso y reacción adversa sospechada: asociación causal posible, no necesariamente probada.",
+          "Farmacovigilancia detecta, evalúa, comprende y previene riesgos de medicamentos.",
+          "La notificación espontánea no exige certeza causal: sospecha suficiente para comunicar.",
+          "Anotar fármaco, dosis, lote cuando aplica, vía, tiempo de inicio, manifestaciones y desenlace.",
+          "Criterios de gravedad: muerte, riesgo vital, hospitalización, discapacidad, anomalía congénita u otros eventos médicamente importantes.",
+          "Causalidad mediante criterios clínicos: temporalidad, plausibilidad, dechallenge y causas alternativas.",
+          "Reporte al sistema de farmacovigilancia institucional y autoridad competente según norma.",
+          "ESAVI corresponde a evento presuntamente atribuido a vacunación, no a cualquier medicamento.",
+          "Evento centinela es concepto de seguridad del paciente de consecuencias graves o señal de necesidad de investigación urgente."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Una reacción bien caracterizada presupone un nivel de conocimiento no establecido por una única sospecha.",
+          "B": "Náuseas aisladas no cumplen por sí solas una categoría de evento centinela.",
+          "C": "ESAVI se utiliza para eventos después de inmunización, no cualquier fármaco.",
+          "D": "Correcta: sospecha de reacción adversa registrable sin confirmación causal."
+        },
+        "normativa": [
+          "DIGEMID, Sistema Peruano de Farmacovigilancia y Tecnovigilancia: https://www.digemid.minsa.gob.pe/webDigemid/farmacovigilancia-y-tecnovigilancia/",
+          "OMS, farmacovigilancia y seguridad de medicamentos."
+        ],
+        "mnemotecnia": "SOSPECHA SE NOTIFICA, causalidad se INVESTIGA.",
+        "trampas": [
+          "Notificación no significa causalidad demostrada.",
+          "No etiquetar automáticamente como alergia toda náusea farmacológica.",
+          "Causalidad y gravedad son dimensiones diferentes."
+        ],
+        "perla": "SOSPECHA SE NOTIFICA, causalidad se INVESTIGA.",
+        "repaso_activo": [
+          "Clave interpretada: D. Sospecha de reacción adversa",
+          "SOSPECHA SE NOTIFICA, causalidad se INVESTIGA.",
+          "Notificación no significa causalidad demostrada.",
+          "No etiquetar automáticamente como alergia toda náusea farmacológica.",
+          "Causalidad y gravedad son dimensiones diferentes."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Paciente presenta erupción tras antibiótico sin estudio causal. ¿Qué procede?",
+            "alternativas": {
+              "A": "No registrar",
+              "B": "Esperar causalidad definitiva",
+              "C": "Registrar y notificar sospecha",
+              "D": "Anotar solo al alta",
+              "E": "Clasificar automáticamente como evento centinela"
+            },
+            "respuesta": "C",
+            "explicacion": "Se notifica la sospecha sin exigir prueba definitiva."
+          },
+          {
+            "enunciado": "Fiebre tras una vacuna durante campaña. ¿Qué categoría corresponde investigar?",
+            "alternativas": {
+              "A": "ESAVI",
+              "B": "Error innato del metabolismo",
+              "C": "Evento quirúrgico",
+              "D": "Intoxicación alimentaria confirmada",
+              "E": "Enfermedad ocupacional"
+            },
+            "respuesta": "A",
+            "explicacion": "La asociación temporal a inmunización requiere evaluación de ESAVI."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Farmacovigilancia: sospecha de reacción adversa a medicamentos",
+          "desarrollo": "CLAVE RAZONADA — NO COTEJADA CON TABLA OFICIAL INDEPENDIENTE\nD. Sospecha de reacción adversa\n\nRAZONAMIENTO\nLa aparición de náuseas después de un medicamento representa una sospecha de reacción adversa cuando existe posibilidad razonable de asociación temporal. Para registrar y notificar no se exige probar causalidad. Se debe evaluar gravedad, otros desencadenantes, medicamentos concomitantes, temporalidad, evolución al suspender y reexposición cuando sea pertinente y ética.\n\nDESARROLLO DEL TEMARIO\n1. Diferencia entre evento adverso y reacción adversa sospechada: asociación causal posible, no necesariamente probada.\n2. Farmacovigilancia detecta, evalúa, comprende y previene riesgos de medicamentos.\n3. La notificación espontánea no exige certeza causal: sospecha suficiente para comunicar.\n4. Anotar fármaco, dosis, lote cuando aplica, vía, tiempo de inicio, manifestaciones y desenlace.\n5. Criterios de gravedad: muerte, riesgo vital, hospitalización, discapacidad, anomalía congénita u otros eventos médicamente importantes.\n6. Causalidad mediante criterios clínicos: temporalidad, plausibilidad, dechallenge y causas alternativas.\n7. Reporte al sistema de farmacovigilancia institucional y autoridad competente según norma.\n8. ESAVI corresponde a evento presuntamente atribuido a vacunación, no a cualquier medicamento.\n9. Evento centinela es concepto de seguridad del paciente de consecuencias graves o señal de necesidad de investigación urgente.\n\nANÁLISIS DE ALTERNATIVAS\nA) Una reacción bien caracterizada presupone un nivel de conocimiento no establecido por una única sospecha.\nB) Náuseas aisladas no cumplen por sí solas una categoría de evento centinela.\nC) ESAVI se utiliza para eventos después de inmunización, no cualquier fármaco.\nD) Correcta: sospecha de reacción adversa registrable sin confirmación causal.\n\nNORMATIVA Y FUENTES\nDIGEMID, Sistema Peruano de Farmacovigilancia y Tecnovigilancia: https://www.digemid.minsa.gob.pe/webDigemid/farmacovigilancia-y-tecnovigilancia/\nOMS, farmacovigilancia y seguridad de medicamentos.\n\nTRAMPAS\nNotificación no significa causalidad demostrada.\nNo etiquetar automáticamente como alergia toda náusea farmacológica.\nCausalidad y gravedad son dimensiones diferentes.\n\nMNEMOTECNIA\nSOSPECHA SE NOTIFICA, causalidad se INVESTIGA.\n\nREPASO ACTIVO\nClave interpretada: D. Sospecha de reacción adversa\nSOSPECHA SE NOTIFICA, causalidad se INVESTIGA.\nNotificación no significa causalidad demostrada.\nNo etiquetar automáticamente como alergia toda náusea farmacológica.\nCausalidad y gravedad son dimensiones diferentes.\n\nCASOS DE REFUERZO\n1. Paciente presenta erupción tras antibiótico sin estudio causal. ¿Qué procede?\nA) No registrar\nB) Esperar causalidad definitiva\nC) Registrar y notificar sospecha\nD) Anotar solo al alta\nE) Clasificar automáticamente como evento centinela\nClave C. Se notifica la sospecha sin exigir prueba definitiva.\n\n2. Fiebre tras una vacuna durante campaña. ¿Qué categoría corresponde investigar?\nA) ESAVI\nB) Error innato del metabolismo\nC) Evento quirúrgico\nD) Intoxicación alimentaria confirmada\nE) Enfermedad ocupacional\nClave A. La asociación temporal a inmunización requiere evaluación de ESAVI."
+        }
+      }
+    },
+    {
+      "number": 27,
+      "question": "En una actividad de prevención de cáncer en su comunidad, Ud. acude con su equipo multidisciplinario en salud para la captación de personas en riesgo, según la normatividad vigente sobre el acceso a la cobertura oncológica ¿Cuál es la conducta a seguir?",
+      "options": {
+        "A": "Citología cervical a mujeres de cualquier edad",
+        "B": "Tamizaje de piel a varones mayores de 50 años",
+        "C": "Dosaje de PSA a partir de los 40 años",
+        "D": "Aplicar IVAA a mujeres de 30 a 49 años"
+      },
+      "correct": "D",
+      "code": "ENCAPS26-I P027",
+      "course": "ENCAPS Medicina 2026-I · Temario desarrollado",
+      "topic": "Prevención del cáncer de cuello uterino: inspección visual con ácido acético (IVAA)",
+      "comment": "CLAVE RAZONADA — NO COTEJADA CON TABLA OFICIAL INDEPENDIENTE\nD. Aplicar IVAA a mujeres de 30 a 49 años\n\nRAZONAMIENTO\nLa opción clásica normativamente definida es IVAA para mujeres de 30 a 49 años en escenarios donde corresponde esta tecnología de tamizaje. Debe distinguirse del algoritmo actual basado preferentemente en detección molecular de VPH cuando está disponible. Ninguna citología se recomienda indiscriminadamente a todas las edades, y la determinación rutinaria de PSA a todos los varones de 40 años no se justifica.\n\nDESARROLLO DEL TEMARIO\n1. Prevención primaria: vacunación contra VPH y reducción de factores de riesgo.\n2. Prevención secundaria: tamizaje antes de los síntomas con prueba indicada por edad y contexto.\n3. IVAA: aplicar ácido acético diluido y observar lesiones acetoblancas del cuello uterino por personal capacitado.\n4. Edad clásica de IVAA usada en normas y preguntas peruanas: 30–49 años.\n5. Prueba molecular de VPH y citología son alternativas con algoritmos distintos según disponibilidad y norma vigente.\n6. Un tamizaje positivo requiere evaluación, manejo o referencia según estratificación y protocolo.\n7. No realizar pruebas de cribado cervical a cualquier edad sin considerar indicación.\n8. PSA: beneficios y riesgos, sobrediagnóstico y decisiones individualizadas.\n9. Consejería y seguimiento para asegurar resolución, no limitarse a captar casos.\n\nANÁLISIS DE ALTERNATIVAS\nA) Citología a cualquier edad induce sobrediagnóstico y no sigue un intervalo de tamizaje definido.\nB) No se describe un programa universal de piel restringido a varones mayores de 50.\nC) PSA indiscriminado desde 40 años no es la acción de cribado comunitario general propuesta.\nD) Correcta como criterio de IVAA para 30 a 49 años en el marco normativo clásico.\n\nNORMATIVA Y FUENTES\nMINSA, directivas de prevención y control de cáncer de cuello uterino; revisar versión actual y recomendaciones de VPH.\nOPS/OMS, guía de tamizaje y tratamiento de lesiones precancerosas cervicales.\n\nTRAMPAS\nConservar criterio del examen sin sustituir tamizaje molecular de VPH donde sea preferido.\nTamizaje positivo no equivale a diagnóstico de cáncer.\nIndicar prueba y periodicidad conforme a norma vigente.\n\nMNEMOTECNIA\nIVAA: treinta a cuarenta y nueve.\n\nREPASO ACTIVO\nClave interpretada: D. Aplicar IVAA a mujeres de 30 a 49 años\nIVAA: treinta a cuarenta y nueve.\nConservar criterio del examen sin sustituir tamizaje molecular de VPH donde sea preferido.\nTamizaje positivo no equivale a diagnóstico de cáncer.\nIndicar prueba y periodicidad conforme a norma vigente.\n\nCASOS DE REFUERZO\n1. Mujer asintomática de 35 años en establecimiento donde está indicada IVAA. ¿Qué realizar?\nA) PSA\nB) Mamografía obligatoria mensual\nC) Colonoscopia semanal\nD) IVAA según protocolo\nE) No ofrecer tamizaje\nClave D. Corresponde a la franja clásica del método.\n\n2. Una prueba de tamizaje de cuello uterino es positiva. ¿Siguiente paso?\nA) Declarar cáncer definitivo\nB) Completar algoritmo de evaluación y referencia\nC) Ignorar\nD) Repetir diariamente\nE) Suspender contacto\nClave B. El cribado exige confirmación y manejo.",
+      "pearl": "IVAA: treinta a cuarenta y nueve.",
+      "keywords": [
+        "Prevención del cáncer de cuello uterino: inspección visual con ácido acético (IVAA)",
+        "ENCAPS Medicina 2026-I",
+        "SERUMS MINSA"
+      ],
+      "estadoDesarrollo": "completo",
+      "estadoClave": "interpretacion_pendiente_cotejo_clave_oficial",
+      "lesson": {
+        "respuesta_resumida": "D. Aplicar IVAA a mujeres de 30 a 49 años",
+        "razonamiento": "La opción clásica normativamente definida es IVAA para mujeres de 30 a 49 años en escenarios donde corresponde esta tecnología de tamizaje. Debe distinguirse del algoritmo actual basado preferentemente en detección molecular de VPH cuando está disponible. Ninguna citología se recomienda indiscriminadamente a todas las edades, y la determinación rutinaria de PSA a todos los varones de 40 años no se justifica.",
+        "temario": [
+          "Prevención primaria: vacunación contra VPH y reducción de factores de riesgo.",
+          "Prevención secundaria: tamizaje antes de los síntomas con prueba indicada por edad y contexto.",
+          "IVAA: aplicar ácido acético diluido y observar lesiones acetoblancas del cuello uterino por personal capacitado.",
+          "Edad clásica de IVAA usada en normas y preguntas peruanas: 30–49 años.",
+          "Prueba molecular de VPH y citología son alternativas con algoritmos distintos según disponibilidad y norma vigente.",
+          "Un tamizaje positivo requiere evaluación, manejo o referencia según estratificación y protocolo.",
+          "No realizar pruebas de cribado cervical a cualquier edad sin considerar indicación.",
+          "PSA: beneficios y riesgos, sobrediagnóstico y decisiones individualizadas.",
+          "Consejería y seguimiento para asegurar resolución, no limitarse a captar casos."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Citología a cualquier edad induce sobrediagnóstico y no sigue un intervalo de tamizaje definido.",
+          "B": "No se describe un programa universal de piel restringido a varones mayores de 50.",
+          "C": "PSA indiscriminado desde 40 años no es la acción de cribado comunitario general propuesta.",
+          "D": "Correcta como criterio de IVAA para 30 a 49 años en el marco normativo clásico."
+        },
+        "normativa": [
+          "MINSA, directivas de prevención y control de cáncer de cuello uterino; revisar versión actual y recomendaciones de VPH.",
+          "OPS/OMS, guía de tamizaje y tratamiento de lesiones precancerosas cervicales."
+        ],
+        "mnemotecnia": "IVAA: treinta a cuarenta y nueve.",
+        "trampas": [
+          "Conservar criterio del examen sin sustituir tamizaje molecular de VPH donde sea preferido.",
+          "Tamizaje positivo no equivale a diagnóstico de cáncer.",
+          "Indicar prueba y periodicidad conforme a norma vigente."
+        ],
+        "perla": "IVAA: treinta a cuarenta y nueve.",
+        "repaso_activo": [
+          "Clave interpretada: D. Aplicar IVAA a mujeres de 30 a 49 años",
+          "IVAA: treinta a cuarenta y nueve.",
+          "Conservar criterio del examen sin sustituir tamizaje molecular de VPH donde sea preferido.",
+          "Tamizaje positivo no equivale a diagnóstico de cáncer.",
+          "Indicar prueba y periodicidad conforme a norma vigente."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Mujer asintomática de 35 años en establecimiento donde está indicada IVAA. ¿Qué realizar?",
+            "alternativas": {
+              "A": "PSA",
+              "B": "Mamografía obligatoria mensual",
+              "C": "Colonoscopia semanal",
+              "D": "IVAA según protocolo",
+              "E": "No ofrecer tamizaje"
+            },
+            "respuesta": "D",
+            "explicacion": "Corresponde a la franja clásica del método."
+          },
+          {
+            "enunciado": "Una prueba de tamizaje de cuello uterino es positiva. ¿Siguiente paso?",
+            "alternativas": {
+              "A": "Declarar cáncer definitivo",
+              "B": "Completar algoritmo de evaluación y referencia",
+              "C": "Ignorar",
+              "D": "Repetir diariamente",
+              "E": "Suspender contacto"
+            },
+            "respuesta": "B",
+            "explicacion": "El cribado exige confirmación y manejo."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Prevención del cáncer de cuello uterino: inspección visual con ácido acético (IVAA)",
+          "desarrollo": "CLAVE RAZONADA — NO COTEJADA CON TABLA OFICIAL INDEPENDIENTE\nD. Aplicar IVAA a mujeres de 30 a 49 años\n\nRAZONAMIENTO\nLa opción clásica normativamente definida es IVAA para mujeres de 30 a 49 años en escenarios donde corresponde esta tecnología de tamizaje. Debe distinguirse del algoritmo actual basado preferentemente en detección molecular de VPH cuando está disponible. Ninguna citología se recomienda indiscriminadamente a todas las edades, y la determinación rutinaria de PSA a todos los varones de 40 años no se justifica.\n\nDESARROLLO DEL TEMARIO\n1. Prevención primaria: vacunación contra VPH y reducción de factores de riesgo.\n2. Prevención secundaria: tamizaje antes de los síntomas con prueba indicada por edad y contexto.\n3. IVAA: aplicar ácido acético diluido y observar lesiones acetoblancas del cuello uterino por personal capacitado.\n4. Edad clásica de IVAA usada en normas y preguntas peruanas: 30–49 años.\n5. Prueba molecular de VPH y citología son alternativas con algoritmos distintos según disponibilidad y norma vigente.\n6. Un tamizaje positivo requiere evaluación, manejo o referencia según estratificación y protocolo.\n7. No realizar pruebas de cribado cervical a cualquier edad sin considerar indicación.\n8. PSA: beneficios y riesgos, sobrediagnóstico y decisiones individualizadas.\n9. Consejería y seguimiento para asegurar resolución, no limitarse a captar casos.\n\nANÁLISIS DE ALTERNATIVAS\nA) Citología a cualquier edad induce sobrediagnóstico y no sigue un intervalo de tamizaje definido.\nB) No se describe un programa universal de piel restringido a varones mayores de 50.\nC) PSA indiscriminado desde 40 años no es la acción de cribado comunitario general propuesta.\nD) Correcta como criterio de IVAA para 30 a 49 años en el marco normativo clásico.\n\nNORMATIVA Y FUENTES\nMINSA, directivas de prevención y control de cáncer de cuello uterino; revisar versión actual y recomendaciones de VPH.\nOPS/OMS, guía de tamizaje y tratamiento de lesiones precancerosas cervicales.\n\nTRAMPAS\nConservar criterio del examen sin sustituir tamizaje molecular de VPH donde sea preferido.\nTamizaje positivo no equivale a diagnóstico de cáncer.\nIndicar prueba y periodicidad conforme a norma vigente.\n\nMNEMOTECNIA\nIVAA: treinta a cuarenta y nueve.\n\nREPASO ACTIVO\nClave interpretada: D. Aplicar IVAA a mujeres de 30 a 49 años\nIVAA: treinta a cuarenta y nueve.\nConservar criterio del examen sin sustituir tamizaje molecular de VPH donde sea preferido.\nTamizaje positivo no equivale a diagnóstico de cáncer.\nIndicar prueba y periodicidad conforme a norma vigente.\n\nCASOS DE REFUERZO\n1. Mujer asintomática de 35 años en establecimiento donde está indicada IVAA. ¿Qué realizar?\nA) PSA\nB) Mamografía obligatoria mensual\nC) Colonoscopia semanal\nD) IVAA según protocolo\nE) No ofrecer tamizaje\nClave D. Corresponde a la franja clásica del método.\n\n2. Una prueba de tamizaje de cuello uterino es positiva. ¿Siguiente paso?\nA) Declarar cáncer definitivo\nB) Completar algoritmo de evaluación y referencia\nC) Ignorar\nD) Repetir diariamente\nE) Suspender contacto\nClave B. El cribado exige confirmación y manejo."
+        }
+      }
+    },
+    {
+      "number": 28,
+      "question": "Varón de 18 años le comenta a usted que tuvo su primera relación sexual sin protección para lo cual pide una prueba de descarte de VIH. Al regresar a consulta para su resultado se da con la noticia que es positivo ¿Qué responsabilidades tiene usted como médico?",
+      "options": {
+        "A": "Movilizar redes de soporte social para el paciente",
+        "B": "Coordinar con el servicio de inmunizaciones",
+        "C": "Confirmar el diagnóstico",
+        "D": "Identificar al agente de soporte"
+      },
+      "correct": "C",
+      "code": "ENCAPS26-I P028",
+      "course": "ENCAPS Medicina 2026-I · Temario desarrollado",
+      "topic": "VIH: resultado reactivo de tamizaje y confirmación diagnóstica",
+      "comment": "CLAVE RAZONADA — NO COTEJADA CON TABLA OFICIAL INDEPENDIENTE\nC. Confirmar el diagnóstico\n\nRAZONAMIENTO\nUn resultado positivo/reactivo inicial, si se trata de una prueba de tamizaje, debe verificarse mediante el algoritmo nacional vigente antes de comunicar un diagnóstico confirmado. Se brinda consejería, confidencialidad y vinculación rápida a tratamiento. Es imprescindible explorar si la exposición fue tan reciente que cae en ventana diagnóstica, o si requiere profilaxis postexposición dentro de su ventana temporal.\n\nDESARROLLO DEL TEMARIO\n1. Distinguir exposición al VIH, infección, prueba de tamizaje reactiva y diagnóstico confirmado.\n2. Algoritmo diagnóstico usa pruebas secuenciales o complementarias según tecnología y protocolo nacional.\n3. Período ventana: anticuerpos o antígenos pueden ser inicialmente indetectables según prueba y tiempo.\n4. Consentimiento informado, privacidad y comunicación sin estigmatización.\n5. Una exposición reciente dentro de 72 horas amerita valoración urgente de profilaxis postexposición (PEP).\n6. Tras confirmación, vincular a atención integral y terapia antirretroviral precoz.\n7. Ofrecer evaluación de ITS concurrentes, hepatitis virales y vacunaciones indicadas.\n8. Parejas sexuales: consejería, prevención y acciones de notificación conforme a consentimiento y reglas aplicables.\n9. Apoyo psicosocial y seguimiento son esenciales, pero no sustituyen confirmación diagnóstica.\n\nANÁLISIS DE ALTERNATIVAS\nA) Las redes de apoyo pueden movilizarse con consentimiento, pero el primer deber ante prueba de tamizaje reactiva es completar diagnóstico.\nB) Inmunizaciones son parte del seguimiento integral, no la acción primaria ante el resultado.\nC) Correcta: confirmar diagnóstico según algoritmo.\nD) Agente de soporte no es el procedimiento decisivo inmediato.\n\nNORMATIVA Y FUENTES\nMINSA, norma técnica vigente de prevención, diagnóstico y tratamiento de VIH.\nOMS, recomendaciones sobre pruebas de VIH y profilaxis posexposición.\n\nTRAMPAS\n'Positivo' coloquial puede significar reactivo de tamizaje; no confundir con infección confirmada.\nLa prevención postexposición depende del tiempo desde la exposición.\nGarantizar confidencialidad y no comunicar a terceros sin autorización o base legal.\n\nMNEMOTECNIA\nVIH: REACTIVO → ALGORITMO → VINCULACIÓN A TAR.\n\nREPASO ACTIVO\nClave interpretada: C. Confirmar el diagnóstico\nVIH: REACTIVO → ALGORITMO → VINCULACIÓN A TAR.\n'Positivo' coloquial puede significar reactivo de tamizaje; no confundir con infección confirmada.\nLa prevención postexposición depende del tiempo desde la exposición.\nGarantizar confidencialidad y no comunicar a terceros sin autorización o base legal.\n\nCASOS DE REFUERZO\n1. Paciente recibe prueba rápida VIH reactiva por primera vez. ¿Qué corresponde?\nA) Informar a empleador\nB) Diagnosticar SIDA de inmediato\nC) Ignorar\nD) Solicitar cirugía\nE) Completar algoritmo diagnóstico\nClave E. Un resultado reactivo requiere confirmación conforme protocolo.\n\n2. Varón tuvo exposición VIH hace 24 horas. ¿Qué evaluación urgente?\nA) Considerar PEP tras valorar riesgo\nB) Esperar seis meses para consultar\nC) Dar alta sin consejería\nD) Vacunar BCG\nE) Antibiótico común\nClave A. PEP se indica según riesgo y tiempo, idealmente lo antes posible.",
+      "pearl": "VIH: REACTIVO → ALGORITMO → VINCULACIÓN A TAR.",
+      "keywords": [
+        "VIH: resultado reactivo de tamizaje y confirmación diagnóstica",
+        "ENCAPS Medicina 2026-I",
+        "SERUMS MINSA"
+      ],
+      "estadoDesarrollo": "completo",
+      "estadoClave": "interpretacion_pendiente_cotejo_clave_oficial",
+      "lesson": {
+        "respuesta_resumida": "C. Confirmar el diagnóstico",
+        "razonamiento": "Un resultado positivo/reactivo inicial, si se trata de una prueba de tamizaje, debe verificarse mediante el algoritmo nacional vigente antes de comunicar un diagnóstico confirmado. Se brinda consejería, confidencialidad y vinculación rápida a tratamiento. Es imprescindible explorar si la exposición fue tan reciente que cae en ventana diagnóstica, o si requiere profilaxis postexposición dentro de su ventana temporal.",
+        "temario": [
+          "Distinguir exposición al VIH, infección, prueba de tamizaje reactiva y diagnóstico confirmado.",
+          "Algoritmo diagnóstico usa pruebas secuenciales o complementarias según tecnología y protocolo nacional.",
+          "Período ventana: anticuerpos o antígenos pueden ser inicialmente indetectables según prueba y tiempo.",
+          "Consentimiento informado, privacidad y comunicación sin estigmatización.",
+          "Una exposición reciente dentro de 72 horas amerita valoración urgente de profilaxis postexposición (PEP).",
+          "Tras confirmación, vincular a atención integral y terapia antirretroviral precoz.",
+          "Ofrecer evaluación de ITS concurrentes, hepatitis virales y vacunaciones indicadas.",
+          "Parejas sexuales: consejería, prevención y acciones de notificación conforme a consentimiento y reglas aplicables.",
+          "Apoyo psicosocial y seguimiento son esenciales, pero no sustituyen confirmación diagnóstica."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Las redes de apoyo pueden movilizarse con consentimiento, pero el primer deber ante prueba de tamizaje reactiva es completar diagnóstico.",
+          "B": "Inmunizaciones son parte del seguimiento integral, no la acción primaria ante el resultado.",
+          "C": "Correcta: confirmar diagnóstico según algoritmo.",
+          "D": "Agente de soporte no es el procedimiento decisivo inmediato."
+        },
+        "normativa": [
+          "MINSA, norma técnica vigente de prevención, diagnóstico y tratamiento de VIH.",
+          "OMS, recomendaciones sobre pruebas de VIH y profilaxis posexposición."
+        ],
+        "mnemotecnia": "VIH: REACTIVO → ALGORITMO → VINCULACIÓN A TAR.",
+        "trampas": [
+          "'Positivo' coloquial puede significar reactivo de tamizaje; no confundir con infección confirmada.",
+          "La prevención postexposición depende del tiempo desde la exposición.",
+          "Garantizar confidencialidad y no comunicar a terceros sin autorización o base legal."
+        ],
+        "perla": "VIH: REACTIVO → ALGORITMO → VINCULACIÓN A TAR.",
+        "repaso_activo": [
+          "Clave interpretada: C. Confirmar el diagnóstico",
+          "VIH: REACTIVO → ALGORITMO → VINCULACIÓN A TAR.",
+          "'Positivo' coloquial puede significar reactivo de tamizaje; no confundir con infección confirmada.",
+          "La prevención postexposición depende del tiempo desde la exposición.",
+          "Garantizar confidencialidad y no comunicar a terceros sin autorización o base legal."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Paciente recibe prueba rápida VIH reactiva por primera vez. ¿Qué corresponde?",
+            "alternativas": {
+              "A": "Informar a empleador",
+              "B": "Diagnosticar SIDA de inmediato",
+              "C": "Ignorar",
+              "D": "Solicitar cirugía",
+              "E": "Completar algoritmo diagnóstico"
+            },
+            "respuesta": "E",
+            "explicacion": "Un resultado reactivo requiere confirmación conforme protocolo."
+          },
+          {
+            "enunciado": "Varón tuvo exposición VIH hace 24 horas. ¿Qué evaluación urgente?",
+            "alternativas": {
+              "A": "Considerar PEP tras valorar riesgo",
+              "B": "Esperar seis meses para consultar",
+              "C": "Dar alta sin consejería",
+              "D": "Vacunar BCG",
+              "E": "Antibiótico común"
+            },
+            "respuesta": "A",
+            "explicacion": "PEP se indica según riesgo y tiempo, idealmente lo antes posible."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "VIH: resultado reactivo de tamizaje y confirmación diagnóstica",
+          "desarrollo": "CLAVE RAZONADA — NO COTEJADA CON TABLA OFICIAL INDEPENDIENTE\nC. Confirmar el diagnóstico\n\nRAZONAMIENTO\nUn resultado positivo/reactivo inicial, si se trata de una prueba de tamizaje, debe verificarse mediante el algoritmo nacional vigente antes de comunicar un diagnóstico confirmado. Se brinda consejería, confidencialidad y vinculación rápida a tratamiento. Es imprescindible explorar si la exposición fue tan reciente que cae en ventana diagnóstica, o si requiere profilaxis postexposición dentro de su ventana temporal.\n\nDESARROLLO DEL TEMARIO\n1. Distinguir exposición al VIH, infección, prueba de tamizaje reactiva y diagnóstico confirmado.\n2. Algoritmo diagnóstico usa pruebas secuenciales o complementarias según tecnología y protocolo nacional.\n3. Período ventana: anticuerpos o antígenos pueden ser inicialmente indetectables según prueba y tiempo.\n4. Consentimiento informado, privacidad y comunicación sin estigmatización.\n5. Una exposición reciente dentro de 72 horas amerita valoración urgente de profilaxis postexposición (PEP).\n6. Tras confirmación, vincular a atención integral y terapia antirretroviral precoz.\n7. Ofrecer evaluación de ITS concurrentes, hepatitis virales y vacunaciones indicadas.\n8. Parejas sexuales: consejería, prevención y acciones de notificación conforme a consentimiento y reglas aplicables.\n9. Apoyo psicosocial y seguimiento son esenciales, pero no sustituyen confirmación diagnóstica.\n\nANÁLISIS DE ALTERNATIVAS\nA) Las redes de apoyo pueden movilizarse con consentimiento, pero el primer deber ante prueba de tamizaje reactiva es completar diagnóstico.\nB) Inmunizaciones son parte del seguimiento integral, no la acción primaria ante el resultado.\nC) Correcta: confirmar diagnóstico según algoritmo.\nD) Agente de soporte no es el procedimiento decisivo inmediato.\n\nNORMATIVA Y FUENTES\nMINSA, norma técnica vigente de prevención, diagnóstico y tratamiento de VIH.\nOMS, recomendaciones sobre pruebas de VIH y profilaxis posexposición.\n\nTRAMPAS\n'Positivo' coloquial puede significar reactivo de tamizaje; no confundir con infección confirmada.\nLa prevención postexposición depende del tiempo desde la exposición.\nGarantizar confidencialidad y no comunicar a terceros sin autorización o base legal.\n\nMNEMOTECNIA\nVIH: REACTIVO → ALGORITMO → VINCULACIÓN A TAR.\n\nREPASO ACTIVO\nClave interpretada: C. Confirmar el diagnóstico\nVIH: REACTIVO → ALGORITMO → VINCULACIÓN A TAR.\n'Positivo' coloquial puede significar reactivo de tamizaje; no confundir con infección confirmada.\nLa prevención postexposición depende del tiempo desde la exposición.\nGarantizar confidencialidad y no comunicar a terceros sin autorización o base legal.\n\nCASOS DE REFUERZO\n1. Paciente recibe prueba rápida VIH reactiva por primera vez. ¿Qué corresponde?\nA) Informar a empleador\nB) Diagnosticar SIDA de inmediato\nC) Ignorar\nD) Solicitar cirugía\nE) Completar algoritmo diagnóstico\nClave E. Un resultado reactivo requiere confirmación conforme protocolo.\n\n2. Varón tuvo exposición VIH hace 24 horas. ¿Qué evaluación urgente?\nA) Considerar PEP tras valorar riesgo\nB) Esperar seis meses para consultar\nC) Dar alta sin consejería\nD) Vacunar BCG\nE) Antibiótico común\nClave A. PEP se indica según riesgo y tiempo, idealmente lo antes posible."
+        }
+      }
+    },
+    {
+      "number": 29,
+      "question": "La organización mundial de la salud ratifica la importancia de la actividad física y la considera como el factor que interviene en el estado de salud de las personas y la define como la principal estrategia en prevención de la ...",
+      "options": {
+        "A": "morbilidad.",
+        "B": "letalidad.",
+        "C": "mortalidad.",
+        "D": "obesidad."
+      },
+      "correct": "D",
+      "code": "ENCAPS26-I P029",
+      "course": "ENCAPS Medicina 2026-I · Temario desarrollado",
+      "topic": "Actividad física y prevención de obesidad y enfermedades crónicas",
+      "comment": "CLAVE RAZONADA — NO COTEJADA CON TABLA OFICIAL INDEPENDIENTE\nD. obesidad.\n\nRAZONAMIENTO\nLa actividad física regular desempeña un papel fundamental en la prevención de la obesidad al incrementar el gasto energético y mejorar la función metabólica. Sin embargo, también reduce el riesgo de morbilidad y mortalidad por múltiples enfermedades; el enunciado es amplio y la elección de obesidad depende de la intención evaluativa, por lo que se señala como interpretación no cotejada. La prevención de obesidad también requiere alimentación saludable, sueño y entorno.\n\nDESARROLLO DEL TEMARIO\n1. Actividad física: todo movimiento corporal producido por músculos esqueléticos que requiere gasto energético.\n2. Ejercicio es actividad física planificada, estructurada y repetitiva; no ambos términos son idénticos.\n3. Balance energético sostenido e interacción de genética, alimentación, sueño y ambiente en obesidad.\n4. En adultos, OMS recomienda 150–300 minutos semanales de ejercicio aeróbico moderado o equivalente vigoroso y fortalecimiento muscular.\n5. En niños y adolescentes, promedio de 60 minutos diarios de actividad aeróbica moderada a vigorosa durante la semana.\n6. Sedentarismo es dimensión independiente de insuficiente actividad.\n7. Efectos: control glucémico, presión arterial, aptitud cardiovascular, salud mental, sueño y composición corporal.\n8. Prevención de exceso de peso exige acciones multisectoriales, no culpabilización individual.\n9. Riesgo de mortalidad y morbilidad también disminuye, lo que limita exclusividad de esta pregunta.\n\nANÁLISIS DE ALTERNATIVAS\nA) La actividad física previene morbilidad cardiovascular y metabólica; término amplio y plausible.\nB) Letalidad es proporción de casos que fallecen por una enfermedad específica, no blanco principal de actividad física.\nC) También disminuye mortalidad prematura y es efecto real, aunque no el énfasis del ítem propuesto.\nD) Opción interpretada como objetivo preventivo específico de actividad física en la pregunta.\n\nNORMATIVA Y FUENTES\nOMS, directrices de actividad física y comportamiento sedentario: https://www.who.int/publications/i/item/9789240015128\n\nTRAMPAS\nLa obesidad es multifactorial; ejercicio aislado no explica todos los desenlaces.\nLa actividad física reduce también mortalidad y morbilidad: posible ambigüedad del ítem.\nEvitar imponer metas incompatibles con capacidad funcional o comorbilidades.\n\nMNEMOTECNIA\nMOVERSE protege PESO, CORAZÓN y METABOLISMO.\n\nREPASO ACTIVO\nClave interpretada: D. obesidad.\nMOVERSE protege PESO, CORAZÓN y METABOLISMO.\nLa obesidad es multifactorial; ejercicio aislado no explica todos los desenlaces.\nLa actividad física reduce también mortalidad y morbilidad: posible ambigüedad del ítem.\nEvitar imponer metas incompatibles con capacidad funcional o comorbilidades.\n\nCASOS DE REFUERZO\n1. Adulto sano busca reducir riesgo metabólico. ¿Consejo central?\nA) Sedentarismo continuo\nB) Solo suplementos\nC) Actividad física regular y alimentación saludable\nD) Ayuno sin control\nE) Cero ejercicio\nClave C. El abordaje sostenible integra hábitos.\n\n2. ¿Cuál es la recomendación general OMS semanal de actividad aeróbica moderada para adultos?\nA) Solo 10 minutos al mes\nB) 150–300 minutos\nC) No existe recomendación\nD) Exactamente 20 horas\nE) Solo actividad anaeróbica\nClave B. El rango adulto habitual es 150–300 minutos semanales de intensidad moderada.",
+      "pearl": "MOVERSE protege PESO, CORAZÓN y METABOLISMO.",
+      "keywords": [
+        "Actividad física y prevención de obesidad y enfermedades crónicas",
+        "ENCAPS Medicina 2026-I",
+        "SERUMS MINSA"
+      ],
+      "estadoDesarrollo": "completo",
+      "estadoClave": "ambigua_interpretacion_pendiente_cotejo",
+      "lesson": {
+        "respuesta_resumida": "D. obesidad.",
+        "razonamiento": "La actividad física regular desempeña un papel fundamental en la prevención de la obesidad al incrementar el gasto energético y mejorar la función metabólica. Sin embargo, también reduce el riesgo de morbilidad y mortalidad por múltiples enfermedades; el enunciado es amplio y la elección de obesidad depende de la intención evaluativa, por lo que se señala como interpretación no cotejada. La prevención de obesidad también requiere alimentación saludable, sueño y entorno.",
+        "temario": [
+          "Actividad física: todo movimiento corporal producido por músculos esqueléticos que requiere gasto energético.",
+          "Ejercicio es actividad física planificada, estructurada y repetitiva; no ambos términos son idénticos.",
+          "Balance energético sostenido e interacción de genética, alimentación, sueño y ambiente en obesidad.",
+          "En adultos, OMS recomienda 150–300 minutos semanales de ejercicio aeróbico moderado o equivalente vigoroso y fortalecimiento muscular.",
+          "En niños y adolescentes, promedio de 60 minutos diarios de actividad aeróbica moderada a vigorosa durante la semana.",
+          "Sedentarismo es dimensión independiente de insuficiente actividad.",
+          "Efectos: control glucémico, presión arterial, aptitud cardiovascular, salud mental, sueño y composición corporal.",
+          "Prevención de exceso de peso exige acciones multisectoriales, no culpabilización individual.",
+          "Riesgo de mortalidad y morbilidad también disminuye, lo que limita exclusividad de esta pregunta."
+        ],
+        "por_que_no_las_otras": {
+          "A": "La actividad física previene morbilidad cardiovascular y metabólica; término amplio y plausible.",
+          "B": "Letalidad es proporción de casos que fallecen por una enfermedad específica, no blanco principal de actividad física.",
+          "C": "También disminuye mortalidad prematura y es efecto real, aunque no el énfasis del ítem propuesto.",
+          "D": "Opción interpretada como objetivo preventivo específico de actividad física en la pregunta."
+        },
+        "normativa": [
+          "OMS, directrices de actividad física y comportamiento sedentario: https://www.who.int/publications/i/item/9789240015128"
+        ],
+        "mnemotecnia": "MOVERSE protege PESO, CORAZÓN y METABOLISMO.",
+        "trampas": [
+          "La obesidad es multifactorial; ejercicio aislado no explica todos los desenlaces.",
+          "La actividad física reduce también mortalidad y morbilidad: posible ambigüedad del ítem.",
+          "Evitar imponer metas incompatibles con capacidad funcional o comorbilidades."
+        ],
+        "perla": "MOVERSE protege PESO, CORAZÓN y METABOLISMO.",
+        "repaso_activo": [
+          "Clave interpretada: D. obesidad.",
+          "MOVERSE protege PESO, CORAZÓN y METABOLISMO.",
+          "La obesidad es multifactorial; ejercicio aislado no explica todos los desenlaces.",
+          "La actividad física reduce también mortalidad y morbilidad: posible ambigüedad del ítem.",
+          "Evitar imponer metas incompatibles con capacidad funcional o comorbilidades."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Adulto sano busca reducir riesgo metabólico. ¿Consejo central?",
+            "alternativas": {
+              "A": "Sedentarismo continuo",
+              "B": "Solo suplementos",
+              "C": "Actividad física regular y alimentación saludable",
+              "D": "Ayuno sin control",
+              "E": "Cero ejercicio"
+            },
+            "respuesta": "C",
+            "explicacion": "El abordaje sostenible integra hábitos."
+          },
+          {
+            "enunciado": "¿Cuál es la recomendación general OMS semanal de actividad aeróbica moderada para adultos?",
+            "alternativas": {
+              "A": "Solo 10 minutos al mes",
+              "B": "150–300 minutos",
+              "C": "No existe recomendación",
+              "D": "Exactamente 20 horas",
+              "E": "Solo actividad anaeróbica"
+            },
+            "respuesta": "B",
+            "explicacion": "El rango adulto habitual es 150–300 minutos semanales de intensidad moderada."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Actividad física y prevención de obesidad y enfermedades crónicas",
+          "desarrollo": "CLAVE RAZONADA — NO COTEJADA CON TABLA OFICIAL INDEPENDIENTE\nD. obesidad.\n\nRAZONAMIENTO\nLa actividad física regular desempeña un papel fundamental en la prevención de la obesidad al incrementar el gasto energético y mejorar la función metabólica. Sin embargo, también reduce el riesgo de morbilidad y mortalidad por múltiples enfermedades; el enunciado es amplio y la elección de obesidad depende de la intención evaluativa, por lo que se señala como interpretación no cotejada. La prevención de obesidad también requiere alimentación saludable, sueño y entorno.\n\nDESARROLLO DEL TEMARIO\n1. Actividad física: todo movimiento corporal producido por músculos esqueléticos que requiere gasto energético.\n2. Ejercicio es actividad física planificada, estructurada y repetitiva; no ambos términos son idénticos.\n3. Balance energético sostenido e interacción de genética, alimentación, sueño y ambiente en obesidad.\n4. En adultos, OMS recomienda 150–300 minutos semanales de ejercicio aeróbico moderado o equivalente vigoroso y fortalecimiento muscular.\n5. En niños y adolescentes, promedio de 60 minutos diarios de actividad aeróbica moderada a vigorosa durante la semana.\n6. Sedentarismo es dimensión independiente de insuficiente actividad.\n7. Efectos: control glucémico, presión arterial, aptitud cardiovascular, salud mental, sueño y composición corporal.\n8. Prevención de exceso de peso exige acciones multisectoriales, no culpabilización individual.\n9. Riesgo de mortalidad y morbilidad también disminuye, lo que limita exclusividad de esta pregunta.\n\nANÁLISIS DE ALTERNATIVAS\nA) La actividad física previene morbilidad cardiovascular y metabólica; término amplio y plausible.\nB) Letalidad es proporción de casos que fallecen por una enfermedad específica, no blanco principal de actividad física.\nC) También disminuye mortalidad prematura y es efecto real, aunque no el énfasis del ítem propuesto.\nD) Opción interpretada como objetivo preventivo específico de actividad física en la pregunta.\n\nNORMATIVA Y FUENTES\nOMS, directrices de actividad física y comportamiento sedentario: https://www.who.int/publications/i/item/9789240015128\n\nTRAMPAS\nLa obesidad es multifactorial; ejercicio aislado no explica todos los desenlaces.\nLa actividad física reduce también mortalidad y morbilidad: posible ambigüedad del ítem.\nEvitar imponer metas incompatibles con capacidad funcional o comorbilidades.\n\nMNEMOTECNIA\nMOVERSE protege PESO, CORAZÓN y METABOLISMO.\n\nREPASO ACTIVO\nClave interpretada: D. obesidad.\nMOVERSE protege PESO, CORAZÓN y METABOLISMO.\nLa obesidad es multifactorial; ejercicio aislado no explica todos los desenlaces.\nLa actividad física reduce también mortalidad y morbilidad: posible ambigüedad del ítem.\nEvitar imponer metas incompatibles con capacidad funcional o comorbilidades.\n\nCASOS DE REFUERZO\n1. Adulto sano busca reducir riesgo metabólico. ¿Consejo central?\nA) Sedentarismo continuo\nB) Solo suplementos\nC) Actividad física regular y alimentación saludable\nD) Ayuno sin control\nE) Cero ejercicio\nClave C. El abordaje sostenible integra hábitos.\n\n2. ¿Cuál es la recomendación general OMS semanal de actividad aeróbica moderada para adultos?\nA) Solo 10 minutos al mes\nB) 150–300 minutos\nC) No existe recomendación\nD) Exactamente 20 horas\nE) Solo actividad anaeróbica\nClave B. El rango adulto habitual es 150–300 minutos semanales de intensidad moderada."
+        }
+      }
+    },
+    {
+      "number": 30,
+      "question": "Mariela de 25 años acude por segunda vez en un mes al servicio de medicina por problemas personales no físicos, con insomnio y preocupación. Ante esta situación el médico SERUMS aplica el Cuestionario Symptoms Report Questionnaire - SRQ; luego de responder las primeras 18 preguntas obtiene un puntaje de 09, esto significa:",
+      "options": {
+        "A": "Alta probabilidad de sufrir enfermedad mental",
+        "B": "Joven con personalidad normal",
+        "C": "Probabilidad baja de sufrir ansiedad",
+        "D": "Alta probabilidad de sufrir adicción"
+      },
+      "correct": "A",
+      "code": "ENCAPS26-I P030",
+      "course": "ENCAPS Medicina 2026-I · Temario desarrollado",
+      "topic": "Tamizaje de trastornos mentales comunes mediante SRQ-18",
+      "comment": "CLAVE RAZONADA — NO COTEJADA CON TABLA OFICIAL INDEPENDIENTE\nA. Alta probabilidad de sufrir enfermedad mental\n\nRAZONAMIENTO\nEl puntaje 9 de las primeras 18 preguntas del Self-Reporting Questionnaire (SRQ) supera puntos de corte empleados para tamizaje de malestar psíquico y trastornos mentales comunes en contextos de atención primaria. Indica alta probabilidad y necesidad de evaluación clínica, no diagnóstico psiquiátrico definitivo. Los ítems iniciales no establecen por sí solos adicción.\n\nDESARROLLO DEL TEMARIO\n1. SRQ de OMS es instrumento de tamizaje de síntomas mentales en atención primaria.\n2. Primeros 18 ítems se orientan a síntomas neuróticos/comunes, como ansiedad, depresión y manifestaciones somáticas.\n3. La puntuación se calcula sumando respuestas positivas; puntos de corte varían según validación poblacional.\n4. Puntaje 9/18 sugiere probabilidad elevada de problema de salud mental y requiere entrevista completa.\n5. Investigar duración, funcionalidad, contexto familiar, violencia, consumo de sustancias y problemas médicos.\n6. Insomnio y preocupación pueden asociarse a ansiedad, depresión o estrés, sin definir por sí solos trastorno.\n7. Valorar riesgo suicida de forma directa cuando existe indicación.\n8. Derivar según severidad y asegurar seguimiento y apoyo comunitario.\n9. Otras secciones de cuestionarios extendidos pueden abordar síntomas psicóticos, convulsiones o alcohol; no inferir adicción de SRQ-18.\n\nANÁLISIS DE ALTERNATIVAS\nA) Correcta: alta probabilidad de problema de salud mental que precisa valoración.\nB) Un puntaje elevado de tamizaje no autoriza concluir normalidad sin evaluación.\nC) No indica probabilidad baja de ansiedad u otros trastornos comunes.\nD) Los primeros 18 ítems no diagnostican dependencia de sustancias.\n\nNORMATIVA Y FUENTES\nOMS, Self-Reporting Questionnaire (SRQ): herramienta de tamizaje en atención primaria.\nMINSA, documentos de salud mental comunitaria y herramientas de detección en primer nivel.\n\nTRAMPAS\nTamizaje positivo no equivale a diagnóstico confirmado.\nLos puntos de corte deben interpretarse según validación local.\nPreguntar suicidio y deterioro funcional cuando corresponde.\n\nMNEMOTECNIA\nSRQ-18 NUEVE → EVALUAR SALUD MENTAL.\n\nREPASO ACTIVO\nClave interpretada: A. Alta probabilidad de sufrir enfermedad mental\nSRQ-18 NUEVE → EVALUAR SALUD MENTAL.\nTamizaje positivo no equivale a diagnóstico confirmado.\nLos puntos de corte deben interpretarse según validación local.\nPreguntar suicidio y deterioro funcional cuando corresponde.\n\nCASOS DE REFUERZO\n1. SRQ-18 es positivo en centro de salud. ¿Siguiente paso?\nA) Diagnóstico automático de esquizofrenia\nB) Ignorar\nC) Dar alta sin entrevista\nD) Evaluación clínica y riesgo\nE) Informar públicamente\nClave D. Es herramienta de detección, no diagnóstico.\n\n2. ¿Qué sección del SRQ se usa típicamente para síntomas mentales comunes?\nA) Solo registro de vacunas\nB) Primeros 18 ítems\nC) Únicamente ecografía\nD) Prueba de drogas confirmatoria\nE) Solo hematocrito\nClave B. Los ítems iniciales tamizan síntomas frecuentes de malestar psíquico.",
+      "pearl": "SRQ-18 NUEVE → EVALUAR SALUD MENTAL.",
+      "keywords": [
+        "Tamizaje de trastornos mentales comunes mediante SRQ-18",
+        "ENCAPS Medicina 2026-I",
+        "SERUMS MINSA"
+      ],
+      "estadoDesarrollo": "completo",
+      "estadoClave": "interpretacion_pendiente_cotejo_clave_oficial",
+      "lesson": {
+        "respuesta_resumida": "A. Alta probabilidad de sufrir enfermedad mental",
+        "razonamiento": "El puntaje 9 de las primeras 18 preguntas del Self-Reporting Questionnaire (SRQ) supera puntos de corte empleados para tamizaje de malestar psíquico y trastornos mentales comunes en contextos de atención primaria. Indica alta probabilidad y necesidad de evaluación clínica, no diagnóstico psiquiátrico definitivo. Los ítems iniciales no establecen por sí solos adicción.",
+        "temario": [
+          "SRQ de OMS es instrumento de tamizaje de síntomas mentales en atención primaria.",
+          "Primeros 18 ítems se orientan a síntomas neuróticos/comunes, como ansiedad, depresión y manifestaciones somáticas.",
+          "La puntuación se calcula sumando respuestas positivas; puntos de corte varían según validación poblacional.",
+          "Puntaje 9/18 sugiere probabilidad elevada de problema de salud mental y requiere entrevista completa.",
+          "Investigar duración, funcionalidad, contexto familiar, violencia, consumo de sustancias y problemas médicos.",
+          "Insomnio y preocupación pueden asociarse a ansiedad, depresión o estrés, sin definir por sí solos trastorno.",
+          "Valorar riesgo suicida de forma directa cuando existe indicación.",
+          "Derivar según severidad y asegurar seguimiento y apoyo comunitario.",
+          "Otras secciones de cuestionarios extendidos pueden abordar síntomas psicóticos, convulsiones o alcohol; no inferir adicción de SRQ-18."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Correcta: alta probabilidad de problema de salud mental que precisa valoración.",
+          "B": "Un puntaje elevado de tamizaje no autoriza concluir normalidad sin evaluación.",
+          "C": "No indica probabilidad baja de ansiedad u otros trastornos comunes.",
+          "D": "Los primeros 18 ítems no diagnostican dependencia de sustancias."
+        },
+        "normativa": [
+          "OMS, Self-Reporting Questionnaire (SRQ): herramienta de tamizaje en atención primaria.",
+          "MINSA, documentos de salud mental comunitaria y herramientas de detección en primer nivel."
+        ],
+        "mnemotecnia": "SRQ-18 NUEVE → EVALUAR SALUD MENTAL.",
+        "trampas": [
+          "Tamizaje positivo no equivale a diagnóstico confirmado.",
+          "Los puntos de corte deben interpretarse según validación local.",
+          "Preguntar suicidio y deterioro funcional cuando corresponde."
+        ],
+        "perla": "SRQ-18 NUEVE → EVALUAR SALUD MENTAL.",
+        "repaso_activo": [
+          "Clave interpretada: A. Alta probabilidad de sufrir enfermedad mental",
+          "SRQ-18 NUEVE → EVALUAR SALUD MENTAL.",
+          "Tamizaje positivo no equivale a diagnóstico confirmado.",
+          "Los puntos de corte deben interpretarse según validación local.",
+          "Preguntar suicidio y deterioro funcional cuando corresponde."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "SRQ-18 es positivo en centro de salud. ¿Siguiente paso?",
+            "alternativas": {
+              "A": "Diagnóstico automático de esquizofrenia",
+              "B": "Ignorar",
+              "C": "Dar alta sin entrevista",
+              "D": "Evaluación clínica y riesgo",
+              "E": "Informar públicamente"
+            },
+            "respuesta": "D",
+            "explicacion": "Es herramienta de detección, no diagnóstico."
+          },
+          {
+            "enunciado": "¿Qué sección del SRQ se usa típicamente para síntomas mentales comunes?",
+            "alternativas": {
+              "A": "Solo registro de vacunas",
+              "B": "Primeros 18 ítems",
+              "C": "Únicamente ecografía",
+              "D": "Prueba de drogas confirmatoria",
+              "E": "Solo hematocrito"
+            },
+            "respuesta": "B",
+            "explicacion": "Los ítems iniciales tamizan síntomas frecuentes de malestar psíquico."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Tamizaje de trastornos mentales comunes mediante SRQ-18",
+          "desarrollo": "CLAVE RAZONADA — NO COTEJADA CON TABLA OFICIAL INDEPENDIENTE\nA. Alta probabilidad de sufrir enfermedad mental\n\nRAZONAMIENTO\nEl puntaje 9 de las primeras 18 preguntas del Self-Reporting Questionnaire (SRQ) supera puntos de corte empleados para tamizaje de malestar psíquico y trastornos mentales comunes en contextos de atención primaria. Indica alta probabilidad y necesidad de evaluación clínica, no diagnóstico psiquiátrico definitivo. Los ítems iniciales no establecen por sí solos adicción.\n\nDESARROLLO DEL TEMARIO\n1. SRQ de OMS es instrumento de tamizaje de síntomas mentales en atención primaria.\n2. Primeros 18 ítems se orientan a síntomas neuróticos/comunes, como ansiedad, depresión y manifestaciones somáticas.\n3. La puntuación se calcula sumando respuestas positivas; puntos de corte varían según validación poblacional.\n4. Puntaje 9/18 sugiere probabilidad elevada de problema de salud mental y requiere entrevista completa.\n5. Investigar duración, funcionalidad, contexto familiar, violencia, consumo de sustancias y problemas médicos.\n6. Insomnio y preocupación pueden asociarse a ansiedad, depresión o estrés, sin definir por sí solos trastorno.\n7. Valorar riesgo suicida de forma directa cuando existe indicación.\n8. Derivar según severidad y asegurar seguimiento y apoyo comunitario.\n9. Otras secciones de cuestionarios extendidos pueden abordar síntomas psicóticos, convulsiones o alcohol; no inferir adicción de SRQ-18.\n\nANÁLISIS DE ALTERNATIVAS\nA) Correcta: alta probabilidad de problema de salud mental que precisa valoración.\nB) Un puntaje elevado de tamizaje no autoriza concluir normalidad sin evaluación.\nC) No indica probabilidad baja de ansiedad u otros trastornos comunes.\nD) Los primeros 18 ítems no diagnostican dependencia de sustancias.\n\nNORMATIVA Y FUENTES\nOMS, Self-Reporting Questionnaire (SRQ): herramienta de tamizaje en atención primaria.\nMINSA, documentos de salud mental comunitaria y herramientas de detección en primer nivel.\n\nTRAMPAS\nTamizaje positivo no equivale a diagnóstico confirmado.\nLos puntos de corte deben interpretarse según validación local.\nPreguntar suicidio y deterioro funcional cuando corresponde.\n\nMNEMOTECNIA\nSRQ-18 NUEVE → EVALUAR SALUD MENTAL.\n\nREPASO ACTIVO\nClave interpretada: A. Alta probabilidad de sufrir enfermedad mental\nSRQ-18 NUEVE → EVALUAR SALUD MENTAL.\nTamizaje positivo no equivale a diagnóstico confirmado.\nLos puntos de corte deben interpretarse según validación local.\nPreguntar suicidio y deterioro funcional cuando corresponde.\n\nCASOS DE REFUERZO\n1. SRQ-18 es positivo en centro de salud. ¿Siguiente paso?\nA) Diagnóstico automático de esquizofrenia\nB) Ignorar\nC) Dar alta sin entrevista\nD) Evaluación clínica y riesgo\nE) Informar públicamente\nClave D. Es herramienta de detección, no diagnóstico.\n\n2. ¿Qué sección del SRQ se usa típicamente para síntomas mentales comunes?\nA) Solo registro de vacunas\nB) Primeros 18 ítems\nC) Únicamente ecografía\nD) Prueba de drogas confirmatoria\nE) Solo hematocrito\nClave B. Los ítems iniciales tamizan síntomas frecuentes de malestar psíquico."
         }
       }
     }
