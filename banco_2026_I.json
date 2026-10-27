@@ -8154,13 +8154,13 @@
         "D": "Plan de salud local"
       },
       "correct": "C",
-      "comment": "RESPUESTA RAZONADA: C. Plan operativo\n\nRAZONAMIENTO\n\nEl plan operativo institucional (POI) traduce las acciones estratégicas en actividades, metas físicas y recursos necesarios para ejecutarlas. La falta de personal técnico para alcanzar visitas domiciliarias exige revisar programación operativa, sustentar la necesidad y coordinar con presupuesto y recursos humanos. El POI no autoriza automáticamente contratar: la disponibilidad presupuestal y normas de contratación se evalúan separadamente.\n\nTEMARIO EXTENSO\n\n1. Planeamiento estratégico institucional: el PEI define objetivos y acciones estratégicas a mediano plazo; responde hacia dónde va la institución.\n\n2. Planeamiento operativo: el POI define actividades operativas, inversiones, responsables, metas físicas y costos o financiamiento según las reglas aplicables.\n\n3. La actividad 'visitas domiciliarias' requiere metas cuantificables: familias visitadas, seguimiento, cobertura, periodicidad, sector y responsable.\n\n4. Detección de brecha: comparar meta programada con producción efectiva; identificar ausentismo, dispersión territorial, tiempos de traslado y complejidad de atenciones.\n\n5. Recursos para operar: estimar número de técnicos, horas disponibles, transporte, materiales, supervisión y registro de actividades.\n\n6. Ejemplo: meta 200 visitas mensuales, capacidad actual 120, brecha 80; estimar carga de trabajo real antes de solicitar una plaza.\n\n7. Articulación con RR. HH. y presupuesto: programación no reemplaza el cumplimiento de reglas de financiamiento, plazas o contrataciones.\n\n8. Presupuesto por resultados vincula financiamiento con productos y resultados, pero no constituye por sí solo el instrumento concreto para programar cada recurso del establecimiento.\n\n9. El plan de salud local identifica problemas, prioridades y acciones territoriales, mientras POI organiza la ejecución institucional.\n\n10. Seguimiento: monitorear avance, calidad de visitas y resultados sanitarios, no solo cantidad de registros HIS.\n\n11. Corregir metas inalcanzables si supuestos poblacionales o capacidad no están sustentados; evitar manipular producción.\n\n12. Las redes integradas deben coordinar redistribución de recursos y continuidad del cuidado entre establecimientos.\n\nANÁLISIS DE ALTERNATIVAS\n\nA) El plan estratégico formula rumbo de mediano plazo y no detalla operativamente la dotación para esta meta.\n\nB) Presupuesto por resultados es enfoque de asignación y evaluación de recursos según productos, no sustituto del POI.\n\nC) Correcta: plan operativo donde se programan actividades y necesidades para cumplimiento de metas.\n\nD) Plan de salud local analiza y prioriza necesidades comunitarias, no es el instrumento central de programación institucional de recursos.\n\nNORMATIVA\n\nCEPLAN: Guía para el Planeamiento Institucional (PEI y POI).\n\nMEF: Presupuesto por Resultados y reglas de programación presupuestal.\n\nTRAMPAS\n\nEl dato decisivo del enunciado debe pesar más que la redacción de los distractores.\n\nNo extender la respuesta académica a escenarios con criterios clínicos diferentes.\n\nMNEMOTECNIA\n\nPEI = DESTINO; POI = ACTIVIDADES + RECURSOS + METAS.\n\nREPASO ACTIVO\n\n¿Qué pista resuelve la pregunta?: El plan operativo institucional (POI) traduce las acciones estratégicas en actividades, metas físicas y recursos necesarios para ejecutarlas. La falta de personal técnico para alcanzar visitas domiciliarias exige revisar programación operativa, sustentar la necesidad y coordinar con presupuesto y recursos humanos. El POI no autoriza automáticamente contratar: la disponibilidad presupuestal y normas de contratación se evalúan separadamente.\n\n¿Qué debemos memorizar?: PEI = DESTINO; POI = ACTIVIDADES + RECURSOS + METAS.\n\nDOS CASOS DE REFUERZO\n\nUn I-2 proyecta 300 controles infantiles y define personal, insumos y plazos anuales. ¿En qué instrumento incorpora actividades?\nA) PEI\nB) POI\nC) Reglamento interno\nD) Historia clínica\nE) Padrón nominal\nClave B: El POI contiene programación operativa.\n\nEl jefe quiere formular objetivos institucionales para próximos años. ¿Qué instrumento corresponde?\nA) Kardex\nB) Agenda diaria\nC) Parte de guardia\nD) PEI\nE) Receta médica\nClave D: El PEI define objetivos estratégicos de mediano plazo.",
-      "pearl": "PEI = DESTINO; POI = ACTIVIDADES + RECURSOS + METAS.",
+      "comment": "RESPUESTA RAZONADA: C. Plan operativo\n\nRAZONAMIENTO\n\nEl plan operativo institucional (POI) traduce las acciones estratégicas en actividades, metas físicas y recursos necesarios para ejecutarlas. La falta de personal técnico para alcanzar visitas domiciliarias exige revisar programación operativa, sustentar la necesidad y coordinar con presupuesto y recursos humanos. El POI no autoriza automáticamente contratar: la disponibilidad presupuestal y normas de contratación se evalúan separadamente.\n\nTEMARIO EXTENSO\n\n1. Planeamiento estratégico institucional: el PEI define objetivos y acciones estratégicas a mediano plazo; responde hacia dónde va la institución.\n\n2. Planeamiento operativo: el POI define actividades operativas, inversiones, responsables, metas físicas y costos o financiamiento según las reglas aplicables.\n\n3. La actividad 'visitas domiciliarias' requiere metas cuantificables: familias visitadas, seguimiento, cobertura, periodicidad, sector y responsable.\n\n4. Detección de brecha: comparar meta programada con producción efectiva; identificar ausentismo, dispersión territorial, tiempos de traslado y complejidad de atenciones.\n\n5. Recursos para operar: estimar número de técnicos, horas disponibles, transporte, materiales, supervisión y registro de actividades.\n\n6. Ejemplo: meta 200 visitas mensuales, capacidad actual 120, brecha 80; estimar carga de trabajo real antes de solicitar una plaza.\n\n7. Articulación con RR. HH. y presupuesto: programación no reemplaza el cumplimiento de reglas de financiamiento, plazas o contrataciones.\n\n8. Presupuesto por resultados vincula financiamiento con productos y resultados, pero no constituye por sí solo el instrumento concreto para programar cada recurso del establecimiento.\n\n9. El plan de salud local identifica problemas, prioridades y acciones territoriales, mientras POI organiza la ejecución institucional.\n\n10. Seguimiento: monitorear avance, calidad de visitas y resultados sanitarios, no solo cantidad de registros HIS.\n\n11. Corregir metas inalcanzables si supuestos poblacionales o capacidad no están sustentados; evitar manipular producción.\n\n12. Las redes integradas deben coordinar redistribución de recursos y continuidad del cuidado entre establecimientos.\n\nANÁLISIS DE ALTERNATIVAS\n\nA) El plan estratégico formula rumbo de mediano plazo y no detalla operativamente la dotación para esta meta.\n\nB) Presupuesto por resultados es enfoque de asignación y evaluación de recursos según productos, no sustituto del POI.\n\nC) Correcta: plan operativo donde se programan actividades y necesidades para cumplimiento de metas.\n\nD) Plan de salud local analiza y prioriza necesidades comunitarias, no es el instrumento central de programación institucional de recursos.\n\nNORMATIVA\n\nCEPLAN: Guía para el Planeamiento Institucional (PEI y POI).\n\nMEF: Presupuesto por Resultados y reglas de programación presupuestal.\n\nTRAMPAS\n\nEl dato decisivo del enunciado debe pesar más que la redacción de los distractores.\n\nNo extender la respuesta académica a escenarios con criterios clínicos diferentes.\n\nMNEMOTECNIA\n\nPEI = DESTINO; POI = ACTIVIDADES + RECURSOS + METAS.\n\nREPASO ACTIVO\n\n¿Qué pista resuelve la pregunta?: El plan operativo institucional (POI) traduce las acciones estratégicas en actividades, metas físicas y recursos necesarios para ejecutarlas. La falta de personal técnico para alcanzar visitas domiciliarias exige revisar programación operativa, sustentar la necesidad y coordinar con presupuesto y recursos humanos. El POI no autoriza automáticamente contratar: la disponibilidad presupuestal y normas de contratación se evalúan separadamente.\n\n¿Qué debemos memorizar?: PEI = DESTINO; POI = ACTIVIDADES + RECURSOS + METAS.\n\nDOS CASOS DE REFUERZO\n\nUn I-2 proyecta 300 controles infantiles y define personal, insumos y plazos anuales. ¿En qué instrumento incorpora actividades?\nA) PEI\nB) POI\nC) Reglamento interno\nD) Historia clínica\nE) Padrón nominal\nClave B: El POI contiene programación operativa.\n\nEl jefe quiere formular objetivos institucionales para próximos años. ¿Qué instrumento corresponde?\nA) Kardex\nB) Agenda diaria\nC) Parte de guardia\nD) PEI\nE) Receta médica\nClave D: El PEI define objetivos estratégicos de mediano plazo.\n\nAMPLIACIÓN TEMÁTICA Y RAZONAMIENTO\nEl POI programa actividades, metas y recursos para visitas domiciliarias, aunque no autoriza por sí mismo contratación de personal. El PEI define objetivos estratégicos, el presupuesto por resultados articula gasto y productos, y el plan local orienta prioridades territoriales. La jefatura debe calcular brecha de visitas, productividad real, tiempo de desplazamiento, capacidad de equipo y gestionar ante la unidad ejecutora conforme a presupuesto.\n\n1. POI: actividades operativas, metas físicas y recursos.\n2. PEI: objetivos y acciones estratégicas.\n3. Identificar brecha: visitas ejecutadas/programadas ×100.\n4. Sustentar necesidades de recursos humanos según competencias, rutas y financiamiento.\n5. Vigilar calidad y continuidad además de cantidad.\n\nMNEMOTECNIA\nPEI rumbo, POI actividad y recursos.\n\nCASOS DE REFUERZO AVANZADOS\n3. Se realizaron 120 de 200 visitas. ¿Cumplimiento?\nA) 40%\nB) 60%\nC) 80%\nD) 120%\nE) 20%\nClave B. 120/200=60%.\n\n4. Una IPRESS programa visitas, recursos y metas anuales. ¿Instrumento?\nA) PEI\nB) ROF\nC) POI\nD) HIS\nE) Historia clínica\nClave C. POI concreta metas operativas.",
+      "pearl": "PEI rumbo, POI actividad y recursos.",
       "estadoDesarrollo": "completo",
       "estadoClave": "razonada_pendiente_de_cotejo_oficial",
       "lesson": {
         "respuesta_resumida": "C. Plan operativo",
-        "razonamiento": "El plan operativo institucional (POI) traduce las acciones estratégicas en actividades, metas físicas y recursos necesarios para ejecutarlas. La falta de personal técnico para alcanzar visitas domiciliarias exige revisar programación operativa, sustentar la necesidad y coordinar con presupuesto y recursos humanos. El POI no autoriza automáticamente contratar: la disponibilidad presupuestal y normas de contratación se evalúan separadamente.",
+        "razonamiento": "El plan operativo institucional (POI) traduce las acciones estratégicas en actividades, metas físicas y recursos necesarios para ejecutarlas. La falta de personal técnico para alcanzar visitas domiciliarias exige revisar programación operativa, sustentar la necesidad y coordinar con presupuesto y recursos humanos. El POI no autoriza automáticamente contratar: la disponibilidad presupuestal y normas de contratación se evalúan separadamente.\n\nAMPLIACIÓN: El POI programa actividades, metas y recursos para visitas domiciliarias, aunque no autoriza por sí mismo contratación de personal. El PEI define objetivos estratégicos, el presupuesto por resultados articula gasto y productos, y el plan local orienta prioridades territoriales. La jefatura debe calcular brecha de visitas, productividad real, tiempo de desplazamiento, capacidad de equipo y gestionar ante la unidad ejecutora conforme a presupuesto.",
         "temario": [
           "Planeamiento estratégico institucional: el PEI define objetivos y acciones estratégicas a mediano plazo; responde hacia dónde va la institución.",
           "Planeamiento operativo: el POI define actividades operativas, inversiones, responsables, metas físicas y costos o financiamiento según las reglas aplicables.",
@@ -8173,7 +8173,12 @@
           "El plan de salud local identifica problemas, prioridades y acciones territoriales, mientras POI organiza la ejecución institucional.",
           "Seguimiento: monitorear avance, calidad de visitas y resultados sanitarios, no solo cantidad de registros HIS.",
           "Corregir metas inalcanzables si supuestos poblacionales o capacidad no están sustentados; evitar manipular producción.",
-          "Las redes integradas deben coordinar redistribución de recursos y continuidad del cuidado entre establecimientos."
+          "Las redes integradas deben coordinar redistribución de recursos y continuidad del cuidado entre establecimientos.",
+          "POI: actividades operativas, metas físicas y recursos.",
+          "PEI: objetivos y acciones estratégicas.",
+          "Identificar brecha: visitas ejecutadas/programadas ×100.",
+          "Sustentar necesidades de recursos humanos según competencias, rutas y financiamiento.",
+          "Vigilar calidad y continuidad además de cantidad."
         ],
         "por_que_no_las_otras": {
           "A": "El plan estratégico formula rumbo de mediano plazo y no detalla operativamente la dotación para esta meta.",
@@ -8185,12 +8190,12 @@
           "CEPLAN: Guía para el Planeamiento Institucional (PEI y POI).",
           "MEF: Presupuesto por Resultados y reglas de programación presupuestal."
         ],
-        "mnemotecnia": "PEI = DESTINO; POI = ACTIVIDADES + RECURSOS + METAS.",
+        "mnemotecnia": "PEI rumbo, POI actividad y recursos.",
         "trampas": [
           "El dato decisivo del enunciado debe pesar más que la redacción de los distractores.",
           "No extender la respuesta académica a escenarios con criterios clínicos diferentes."
         ],
-        "perla": "PEI = DESTINO; POI = ACTIVIDADES + RECURSOS + METAS.",
+        "perla": "PEI rumbo, POI actividad y recursos.",
         "repaso_activo": [
           {
             "pregunta": "¿Qué pista resuelve la pregunta?",
@@ -8225,6 +8230,30 @@
             },
             "respuesta": "D",
             "explicacion": "El PEI define objetivos estratégicos de mediano plazo."
+          },
+          {
+            "enunciado": "Se realizaron 120 de 200 visitas. ¿Cumplimiento?",
+            "alternativas": {
+              "A": "40%",
+              "B": "60%",
+              "C": "80%",
+              "D": "120%",
+              "E": "20%"
+            },
+            "respuesta": "B",
+            "explicacion": "120/200=60%."
+          },
+          {
+            "enunciado": "Una IPRESS programa visitas, recursos y metas anuales. ¿Instrumento?",
+            "alternativas": {
+              "A": "PEI",
+              "B": "ROF",
+              "C": "POI",
+              "D": "HIS",
+              "E": "Historia clínica"
+            },
+            "respuesta": "C",
+            "explicacion": "POI concreta metas operativas."
           }
         ]
       }
@@ -8242,13 +8271,13 @@
         "D": "¿Qué riesgos externos existen?"
       },
       "correct": "B",
-      "comment": "RESPUESTA RAZONADA: B. ¿Qué se está haciendo bien?\n\nRAZONAMIENTO\n\nUna fortaleza es un atributo interno favorable de la institución: capacidad instalada, competencias del equipo o proceso que funciona bien. Por eso la pregunta orientadora es '¿Qué se está haciendo bien?'. Las oportunidades y amenazas son externas; las debilidades describen carencias internas.\n\nTEMARIO EXTENSO\n\n1. FODA significa fortalezas, oportunidades, debilidades y amenazas; es una herramienta de diagnóstico estratégico participativo.\n\n2. Fortaleza: factor interno favorable que puede aprovecharse, como equipo entrenado o sistema de citas eficiente.\n\n3. Debilidad: factor interno que limita desempeño, como registro incompleto o equipos descalibrados.\n\n4. Oportunidad: circunstancia externa favorable, como cooperación interinstitucional o nuevo financiamiento.\n\n5. Amenaza: circunstancia externa desfavorable, como riesgo de inundación, crisis de abastecimiento o migración de personal.\n\n6. Matriz interna-externa: fortalezas/debilidades están bajo control relativo de la institución; oportunidades/amenazas dependen del entorno.\n\n7. La pregunta '¿qué se está haciendo bien?' explora logros observables; se debe corroborar con indicadores y testimonios.\n\n8. Ejemplo fortaleza: cobertura de vacunación superior a meta y equipo con buen desempeño; comprobar calidad de datos.\n\n9. No confundir facilidad externa con fortaleza: una universidad aliada sería oportunidad externa, mientras enfermeras capacitadas son fortaleza interna.\n\n10. Cruce FO usa fortalezas para aprovechar oportunidades; DO supera debilidades usando oportunidades; FA aprovecha fortalezas frente a amenazas; DA minimiza exposición.\n\n11. FODA debe traducirse a acciones específicas con responsables, indicadores, plazo y recursos.\n\n12. La mejora continua requiere ciclo PDSA/PHVA: planear, ejecutar, estudiar/verificar y actuar; el FODA no sustituye medición periódica.\n\nANÁLISIS DE ALTERNATIVAS\n\nA) La pregunta sobre facilidades suele identificar oportunidades del entorno, no una fortaleza interna definida.\n\nB) Correcta: revela acciones, capacidades y procesos internos positivos.\n\nC) Qué nos falta explora debilidades o brechas internas.\n\nD) Riesgos externos son amenazas, no fortalezas.\n\nNORMATIVA\n\nCEPLAN, guías de análisis institucional y planeamiento.\n\nPrincipios de mejora continua de la calidad en establecimientos de salud MINSA.\n\nTRAMPAS\n\nEl dato decisivo del enunciado debe pesar más que la redacción de los distractores.\n\nNo extender la respuesta académica a escenarios con criterios clínicos diferentes.\n\nMNEMOTECNIA\n\nFUErTE = INTERNO BUENO; DÉBIL = INTERNO MALO; OPORTUNIDAD/AMENAZA = AFUERA.\n\nREPASO ACTIVO\n\n¿Qué pista resuelve la pregunta?: Una fortaleza es un atributo interno favorable de la institución: capacidad instalada, competencias del equipo o proceso que funciona bien. Por eso la pregunta orientadora es '¿Qué se está haciendo bien?'. Las oportunidades y amenazas son externas; las debilidades describen carencias internas.\n\n¿Qué debemos memorizar?: FUErTE = INTERNO BUENO; DÉBIL = INTERNO MALO; OPORTUNIDAD/AMENAZA = AFUERA.\n\nDOS CASOS DE REFUERZO\n\nCentro tiene enfermeras certificadas y buen control de cadena de frío. ¿Elemento FODA?\nA) Amenaza\nB) Oportunidad\nC) Debilidad\nD) Fortaleza\nE) Riesgo externo\nClave D: Es capacidad interna favorable.\n\nMunicipalidad ofrece transporte gratuito para campañas de vacunación. ¿Elemento FODA?\nA) Oportunidad\nB) Fortaleza\nC) Debilidad\nD) Amenaza\nE) Error de medición\nClave A: Es recurso externo favorable.",
-      "pearl": "FUErTE = INTERNO BUENO; DÉBIL = INTERNO MALO; OPORTUNIDAD/AMENAZA = AFUERA.",
+      "comment": "RESPUESTA RAZONADA: B. ¿Qué se está haciendo bien?\n\nRAZONAMIENTO\n\nUna fortaleza es un atributo interno favorable de la institución: capacidad instalada, competencias del equipo o proceso que funciona bien. Por eso la pregunta orientadora es '¿Qué se está haciendo bien?'. Las oportunidades y amenazas son externas; las debilidades describen carencias internas.\n\nTEMARIO EXTENSO\n\n1. FODA significa fortalezas, oportunidades, debilidades y amenazas; es una herramienta de diagnóstico estratégico participativo.\n\n2. Fortaleza: factor interno favorable que puede aprovecharse, como equipo entrenado o sistema de citas eficiente.\n\n3. Debilidad: factor interno que limita desempeño, como registro incompleto o equipos descalibrados.\n\n4. Oportunidad: circunstancia externa favorable, como cooperación interinstitucional o nuevo financiamiento.\n\n5. Amenaza: circunstancia externa desfavorable, como riesgo de inundación, crisis de abastecimiento o migración de personal.\n\n6. Matriz interna-externa: fortalezas/debilidades están bajo control relativo de la institución; oportunidades/amenazas dependen del entorno.\n\n7. La pregunta '¿qué se está haciendo bien?' explora logros observables; se debe corroborar con indicadores y testimonios.\n\n8. Ejemplo fortaleza: cobertura de vacunación superior a meta y equipo con buen desempeño; comprobar calidad de datos.\n\n9. No confundir facilidad externa con fortaleza: una universidad aliada sería oportunidad externa, mientras enfermeras capacitadas son fortaleza interna.\n\n10. Cruce FO usa fortalezas para aprovechar oportunidades; DO supera debilidades usando oportunidades; FA aprovecha fortalezas frente a amenazas; DA minimiza exposición.\n\n11. FODA debe traducirse a acciones específicas con responsables, indicadores, plazo y recursos.\n\n12. La mejora continua requiere ciclo PDSA/PHVA: planear, ejecutar, estudiar/verificar y actuar; el FODA no sustituye medición periódica.\n\nANÁLISIS DE ALTERNATIVAS\n\nA) La pregunta sobre facilidades suele identificar oportunidades del entorno, no una fortaleza interna definida.\n\nB) Correcta: revela acciones, capacidades y procesos internos positivos.\n\nC) Qué nos falta explora debilidades o brechas internas.\n\nD) Riesgos externos son amenazas, no fortalezas.\n\nNORMATIVA\n\nCEPLAN, guías de análisis institucional y planeamiento.\n\nPrincipios de mejora continua de la calidad en establecimientos de salud MINSA.\n\nTRAMPAS\n\nEl dato decisivo del enunciado debe pesar más que la redacción de los distractores.\n\nNo extender la respuesta académica a escenarios con criterios clínicos diferentes.\n\nMNEMOTECNIA\n\nFUErTE = INTERNO BUENO; DÉBIL = INTERNO MALO; OPORTUNIDAD/AMENAZA = AFUERA.\n\nREPASO ACTIVO\n\n¿Qué pista resuelve la pregunta?: Una fortaleza es un atributo interno favorable de la institución: capacidad instalada, competencias del equipo o proceso que funciona bien. Por eso la pregunta orientadora es '¿Qué se está haciendo bien?'. Las oportunidades y amenazas son externas; las debilidades describen carencias internas.\n\n¿Qué debemos memorizar?: FUErTE = INTERNO BUENO; DÉBIL = INTERNO MALO; OPORTUNIDAD/AMENAZA = AFUERA.\n\nDOS CASOS DE REFUERZO\n\nCentro tiene enfermeras certificadas y buen control de cadena de frío. ¿Elemento FODA?\nA) Amenaza\nB) Oportunidad\nC) Debilidad\nD) Fortaleza\nE) Riesgo externo\nClave D: Es capacidad interna favorable.\n\nMunicipalidad ofrece transporte gratuito para campañas de vacunación. ¿Elemento FODA?\nA) Oportunidad\nB) Fortaleza\nC) Debilidad\nD) Amenaza\nE) Error de medición\nClave A: Es recurso externo favorable.\n\nAMPLIACIÓN TEMÁTICA Y RAZONAMIENTO\n'¿Qué se está haciendo bien?' identifica FORTALEZAS internas. En FODA fortalezas y debilidades son internas, oportunidades y amenazas externas. Las fortalezas deben corroborarse con evidencia para diseñar ciclos de mejora continua PHVA: planificar, hacer, verificar y actuar.\n\n1. Fortaleza: equipo competente y proceso eficiente propio.\n2. Debilidad: escasez de recursos o fallas internas.\n3. Oportunidad: alianza o financiamiento exterior favorable.\n4. Amenaza: crisis externa o barrera territorial.\n5. PHVA exige indicadores antes y después, no solo percepciones.\n\nMNEMOTECNIA\nF y D DENTRO; O y A AFUERA.\n\nCASOS DE REFUERZO AVANZADOS\n3. Cadena de frío eficiente y personal entrenado. ¿FODA?\nA) Amenaza\nB) Oportunidad\nC) Debilidad\nD) Fortaleza\nE) Riesgo\nClave D. Es capacidad interna favorable.\n\n4. Convenio externo abre opción de capacitación. ¿FODA?\nA) Debilidad\nB) Oportunidad\nC) Amenaza\nD) Fortaleza\nE) Falla\nClave B. Es condición externa favorable.",
+      "pearl": "F y D DENTRO; O y A AFUERA.",
       "estadoDesarrollo": "completo",
       "estadoClave": "razonada_pendiente_de_cotejo_oficial",
       "lesson": {
         "respuesta_resumida": "B. ¿Qué se está haciendo bien?",
-        "razonamiento": "Una fortaleza es un atributo interno favorable de la institución: capacidad instalada, competencias del equipo o proceso que funciona bien. Por eso la pregunta orientadora es '¿Qué se está haciendo bien?'. Las oportunidades y amenazas son externas; las debilidades describen carencias internas.",
+        "razonamiento": "Una fortaleza es un atributo interno favorable de la institución: capacidad instalada, competencias del equipo o proceso que funciona bien. Por eso la pregunta orientadora es '¿Qué se está haciendo bien?'. Las oportunidades y amenazas son externas; las debilidades describen carencias internas.\n\nAMPLIACIÓN: '¿Qué se está haciendo bien?' identifica FORTALEZAS internas. En FODA fortalezas y debilidades son internas, oportunidades y amenazas externas. Las fortalezas deben corroborarse con evidencia para diseñar ciclos de mejora continua PHVA: planificar, hacer, verificar y actuar.",
         "temario": [
           "FODA significa fortalezas, oportunidades, debilidades y amenazas; es una herramienta de diagnóstico estratégico participativo.",
           "Fortaleza: factor interno favorable que puede aprovecharse, como equipo entrenado o sistema de citas eficiente.",
@@ -8261,7 +8290,12 @@
           "No confundir facilidad externa con fortaleza: una universidad aliada sería oportunidad externa, mientras enfermeras capacitadas son fortaleza interna.",
           "Cruce FO usa fortalezas para aprovechar oportunidades; DO supera debilidades usando oportunidades; FA aprovecha fortalezas frente a amenazas; DA minimiza exposición.",
           "FODA debe traducirse a acciones específicas con responsables, indicadores, plazo y recursos.",
-          "La mejora continua requiere ciclo PDSA/PHVA: planear, ejecutar, estudiar/verificar y actuar; el FODA no sustituye medición periódica."
+          "La mejora continua requiere ciclo PDSA/PHVA: planear, ejecutar, estudiar/verificar y actuar; el FODA no sustituye medición periódica.",
+          "Fortaleza: equipo competente y proceso eficiente propio.",
+          "Debilidad: escasez de recursos o fallas internas.",
+          "Oportunidad: alianza o financiamiento exterior favorable.",
+          "Amenaza: crisis externa o barrera territorial.",
+          "PHVA exige indicadores antes y después, no solo percepciones."
         ],
         "por_que_no_las_otras": {
           "A": "La pregunta sobre facilidades suele identificar oportunidades del entorno, no una fortaleza interna definida.",
@@ -8273,12 +8307,12 @@
           "CEPLAN, guías de análisis institucional y planeamiento.",
           "Principios de mejora continua de la calidad en establecimientos de salud MINSA."
         ],
-        "mnemotecnia": "FUErTE = INTERNO BUENO; DÉBIL = INTERNO MALO; OPORTUNIDAD/AMENAZA = AFUERA.",
+        "mnemotecnia": "F y D DENTRO; O y A AFUERA.",
         "trampas": [
           "El dato decisivo del enunciado debe pesar más que la redacción de los distractores.",
           "No extender la respuesta académica a escenarios con criterios clínicos diferentes."
         ],
-        "perla": "FUErTE = INTERNO BUENO; DÉBIL = INTERNO MALO; OPORTUNIDAD/AMENAZA = AFUERA.",
+        "perla": "F y D DENTRO; O y A AFUERA.",
         "repaso_activo": [
           {
             "pregunta": "¿Qué pista resuelve la pregunta?",
@@ -8313,6 +8347,30 @@
             },
             "respuesta": "A",
             "explicacion": "Es recurso externo favorable."
+          },
+          {
+            "enunciado": "Cadena de frío eficiente y personal entrenado. ¿FODA?",
+            "alternativas": {
+              "A": "Amenaza",
+              "B": "Oportunidad",
+              "C": "Debilidad",
+              "D": "Fortaleza",
+              "E": "Riesgo"
+            },
+            "respuesta": "D",
+            "explicacion": "Es capacidad interna favorable."
+          },
+          {
+            "enunciado": "Convenio externo abre opción de capacitación. ¿FODA?",
+            "alternativas": {
+              "A": "Debilidad",
+              "B": "Oportunidad",
+              "C": "Amenaza",
+              "D": "Fortaleza",
+              "E": "Falla"
+            },
+            "respuesta": "B",
+            "explicacion": "Es condición externa favorable."
           }
         ]
       }
@@ -8330,13 +8388,13 @@
         "D": "Activa"
       },
       "correct": "D",
-      "comment": "RESPUESTA RAZONADA: D. Activa\n\nRAZONAMIENTO\n\nLa acción definitoria es una búsqueda intencionada y sistemática de casos por el equipo de salud, característica de la vigilancia activa. El uso de historias clínicas antiguas introduce componente retrospectivo, pero no convierte la modalidad de búsqueda en una categoría distinta: 'retrospectiva' describe el tiempo de los registros, no el grado de iniciativa del sistema.\n\nTEMARIO EXTENSO\n\n1. Vigilancia epidemiológica es recopilación sistemática, análisis, interpretación y difusión de información para acción de salud pública.\n\n2. Vigilancia pasiva recibe notificaciones rutinarias hechas por profesionales o IPRESS sin búsqueda dirigida frecuente.\n\n3. Vigilancia activa identifica casos mediante revisión deliberada de registros, llamadas, visitas o búsqueda en la comunidad.\n\n4. Vigilancia centinela usa unidades seleccionadas para monitorizar tendencias o características de eventos, sin pretender siempre exhaustividad territorial.\n\n5. Retrospectivo describe fuente temporal o diseño de investigación: se analiza información previa.\n\n6. Puede existir vigilancia activa retrospectiva cuando se revisan intencionadamente historias pasadas en busca de casos no reportados.\n\n7. Caso sospechoso, probable y confirmado dependen de definiciones operativas específicas; no etiquetar dislipidemia sin criterios clínicos.\n\n8. Obesidad infantil se evalúa con parámetros antropométricos apropiados a edad y sexo; evitar interpretar IMC con puntos de corte de adultos en niños.\n\n9. Dislipidemia requiere criterios por edad y evaluación de riesgo, no diagnóstico únicamente por antecedente narrativo.\n\n10. Calidad del sistema depende de oportunidad, sensibilidad, representatividad, aceptabilidad y completitud.\n\n11. La búsqueda activa puede detectar subregistro; necesita deduplicación y protección de datos personales.\n\n12. Transformar hallazgos en intervención: consejería, seguimiento y medidas poblacionales según enfoque de curso de vida.\n\nANÁLISIS DE ALTERNATIVAS\n\nA) Centinela requiere establecimientos o puntos seleccionados para vigilancia específica; no es lo descrito.\n\nB) Retrospectiva califica el periodo de registro, pero la modalidad central preguntada es búsqueda activa.\n\nC) Pasiva es recepción habitual de reportes sin exploración deliberada.\n\nD) Activa es búsqueda directa y sistemática de casos.\n\nNORMATIVA\n\nCDC Perú, normas y procedimientos de vigilancia epidemiológica.\n\nOPS, principios de vigilancia activa y pasiva.\n\nTRAMPAS\n\nEl dato decisivo del enunciado debe pesar más que la redacción de los distractores.\n\nNo extender la respuesta académica a escenarios con criterios clínicos diferentes.\n\nMNEMOTECNIA\n\nPASIVA ESPERA; ACTIVA SALE A BUSCAR.\n\nREPASO ACTIVO\n\n¿Qué pista resuelve la pregunta?: La acción definitoria es una búsqueda intencionada y sistemática de casos por el equipo de salud, característica de la vigilancia activa. El uso de historias clínicas antiguas introduce componente retrospectivo, pero no convierte la modalidad de búsqueda en una categoría distinta: 'retrospectiva' describe el tiempo de los registros, no el grado de iniciativa del sistema.\n\n¿Qué debemos memorizar?: PASIVA ESPERA; ACTIVA SALE A BUSCAR.\n\nDOS CASOS DE REFUERZO\n\nUn equipo visita escuelas y revisa padrones para detectar casos no notificados. ¿Modalidad?\nA) Pasiva\nB) Centinela\nC) Activa\nD) Ninguna\nE) Aleatoria\nClave C: Busca intencionalmente casos.\n\nHospital remite partes semanales rutinarios sin salir a investigar. ¿Modalidad?\nA) Centinela\nB) Activa\nC) Experimental\nD) Retrospectiva obligatoria\nE) Pasiva\nClave E: La notificación rutinaria corresponde a vigilancia pasiva.",
-      "pearl": "PASIVA ESPERA; ACTIVA SALE A BUSCAR.",
+      "comment": "RESPUESTA RAZONADA: D. Activa\n\nRAZONAMIENTO\n\nLa acción definitoria es una búsqueda intencionada y sistemática de casos por el equipo de salud, característica de la vigilancia activa. El uso de historias clínicas antiguas introduce componente retrospectivo, pero no convierte la modalidad de búsqueda en una categoría distinta: 'retrospectiva' describe el tiempo de los registros, no el grado de iniciativa del sistema.\n\nTEMARIO EXTENSO\n\n1. Vigilancia epidemiológica es recopilación sistemática, análisis, interpretación y difusión de información para acción de salud pública.\n\n2. Vigilancia pasiva recibe notificaciones rutinarias hechas por profesionales o IPRESS sin búsqueda dirigida frecuente.\n\n3. Vigilancia activa identifica casos mediante revisión deliberada de registros, llamadas, visitas o búsqueda en la comunidad.\n\n4. Vigilancia centinela usa unidades seleccionadas para monitorizar tendencias o características de eventos, sin pretender siempre exhaustividad territorial.\n\n5. Retrospectivo describe fuente temporal o diseño de investigación: se analiza información previa.\n\n6. Puede existir vigilancia activa retrospectiva cuando se revisan intencionadamente historias pasadas en busca de casos no reportados.\n\n7. Caso sospechoso, probable y confirmado dependen de definiciones operativas específicas; no etiquetar dislipidemia sin criterios clínicos.\n\n8. Obesidad infantil se evalúa con parámetros antropométricos apropiados a edad y sexo; evitar interpretar IMC con puntos de corte de adultos en niños.\n\n9. Dislipidemia requiere criterios por edad y evaluación de riesgo, no diagnóstico únicamente por antecedente narrativo.\n\n10. Calidad del sistema depende de oportunidad, sensibilidad, representatividad, aceptabilidad y completitud.\n\n11. La búsqueda activa puede detectar subregistro; necesita deduplicación y protección de datos personales.\n\n12. Transformar hallazgos en intervención: consejería, seguimiento y medidas poblacionales según enfoque de curso de vida.\n\nANÁLISIS DE ALTERNATIVAS\n\nA) Centinela requiere establecimientos o puntos seleccionados para vigilancia específica; no es lo descrito.\n\nB) Retrospectiva califica el periodo de registro, pero la modalidad central preguntada es búsqueda activa.\n\nC) Pasiva es recepción habitual de reportes sin exploración deliberada.\n\nD) Activa es búsqueda directa y sistemática de casos.\n\nNORMATIVA\n\nCDC Perú, normas y procedimientos de vigilancia epidemiológica.\n\nOPS, principios de vigilancia activa y pasiva.\n\nTRAMPAS\n\nEl dato decisivo del enunciado debe pesar más que la redacción de los distractores.\n\nNo extender la respuesta académica a escenarios con criterios clínicos diferentes.\n\nMNEMOTECNIA\n\nPASIVA ESPERA; ACTIVA SALE A BUSCAR.\n\nREPASO ACTIVO\n\n¿Qué pista resuelve la pregunta?: La acción definitoria es una búsqueda intencionada y sistemática de casos por el equipo de salud, característica de la vigilancia activa. El uso de historias clínicas antiguas introduce componente retrospectivo, pero no convierte la modalidad de búsqueda en una categoría distinta: 'retrospectiva' describe el tiempo de los registros, no el grado de iniciativa del sistema.\n\n¿Qué debemos memorizar?: PASIVA ESPERA; ACTIVA SALE A BUSCAR.\n\nDOS CASOS DE REFUERZO\n\nUn equipo visita escuelas y revisa padrones para detectar casos no notificados. ¿Modalidad?\nA) Pasiva\nB) Centinela\nC) Activa\nD) Ninguna\nE) Aleatoria\nClave C: Busca intencionalmente casos.\n\nHospital remite partes semanales rutinarios sin salir a investigar. ¿Modalidad?\nA) Centinela\nB) Activa\nC) Experimental\nD) Retrospectiva obligatoria\nE) Pasiva\nClave E: La notificación rutinaria corresponde a vigilancia pasiva.\n\nAMPLIACIÓN TEMÁTICA Y RAZONAMIENTO\nLa revisión INTENCIONADA de historias y estadísticas para hallar casos es vigilancia ACTIVA. Que se usen expedientes antiguos describe sentido retrospectivo, no cambia modalidad de búsqueda. Pasiva es recibir reportes; centinela se limita a sitios especialmente seleccionados. Hay que validar fechas, criterios y duplicados.\n\n1. Activa: búsqueda sistemática deliberada de casos.\n2. Pasiva: recepción de notificaciones rutinarias.\n3. Centinela: vigilancia en sedes previamente escogidas.\n4. Retrospectiva: temporalidad de información, compatible con búsqueda activa.\n5. Distinguir casos nuevos de existentes, controlar subregistro y duplicados.\n\nMNEMOTECNIA\nACTIVA busca; PASIVA recibe; CENTINELA observa sedes escogidas.\n\nCASOS DE REFUERZO AVANZADOS\n3. Personal revisa deliberadamente archivos buscando diagnósticos omitidos. ¿Vigilancia?\nA) Pasiva\nB) Centinela\nC) Automática\nD) Espontánea\nE) Activa\nClave E. Se realiza búsqueda intencional.\n\n4. Área recibe notificaciones rutinarias sin buscarlas. ¿Tipo?\nA) Pasiva\nB) Activa\nC) Centinela\nD) Cohorte\nE) Experimental\nClave A. El receptor espera reportes.",
+      "pearl": "ACTIVA busca; PASIVA recibe; CENTINELA observa sedes escogidas.",
       "estadoDesarrollo": "completo",
       "estadoClave": "razonada_pendiente_de_cotejo_oficial",
       "lesson": {
         "respuesta_resumida": "D. Activa",
-        "razonamiento": "La acción definitoria es una búsqueda intencionada y sistemática de casos por el equipo de salud, característica de la vigilancia activa. El uso de historias clínicas antiguas introduce componente retrospectivo, pero no convierte la modalidad de búsqueda en una categoría distinta: 'retrospectiva' describe el tiempo de los registros, no el grado de iniciativa del sistema.",
+        "razonamiento": "La acción definitoria es una búsqueda intencionada y sistemática de casos por el equipo de salud, característica de la vigilancia activa. El uso de historias clínicas antiguas introduce componente retrospectivo, pero no convierte la modalidad de búsqueda en una categoría distinta: 'retrospectiva' describe el tiempo de los registros, no el grado de iniciativa del sistema.\n\nAMPLIACIÓN: La revisión INTENCIONADA de historias y estadísticas para hallar casos es vigilancia ACTIVA. Que se usen expedientes antiguos describe sentido retrospectivo, no cambia modalidad de búsqueda. Pasiva es recibir reportes; centinela se limita a sitios especialmente seleccionados. Hay que validar fechas, criterios y duplicados.",
         "temario": [
           "Vigilancia epidemiológica es recopilación sistemática, análisis, interpretación y difusión de información para acción de salud pública.",
           "Vigilancia pasiva recibe notificaciones rutinarias hechas por profesionales o IPRESS sin búsqueda dirigida frecuente.",
@@ -8349,7 +8407,12 @@
           "Dislipidemia requiere criterios por edad y evaluación de riesgo, no diagnóstico únicamente por antecedente narrativo.",
           "Calidad del sistema depende de oportunidad, sensibilidad, representatividad, aceptabilidad y completitud.",
           "La búsqueda activa puede detectar subregistro; necesita deduplicación y protección de datos personales.",
-          "Transformar hallazgos en intervención: consejería, seguimiento y medidas poblacionales según enfoque de curso de vida."
+          "Transformar hallazgos en intervención: consejería, seguimiento y medidas poblacionales según enfoque de curso de vida.",
+          "Activa: búsqueda sistemática deliberada de casos.",
+          "Pasiva: recepción de notificaciones rutinarias.",
+          "Centinela: vigilancia en sedes previamente escogidas.",
+          "Retrospectiva: temporalidad de información, compatible con búsqueda activa.",
+          "Distinguir casos nuevos de existentes, controlar subregistro y duplicados."
         ],
         "por_que_no_las_otras": {
           "A": "Centinela requiere establecimientos o puntos seleccionados para vigilancia específica; no es lo descrito.",
@@ -8361,12 +8424,12 @@
           "CDC Perú, normas y procedimientos de vigilancia epidemiológica.",
           "OPS, principios de vigilancia activa y pasiva."
         ],
-        "mnemotecnia": "PASIVA ESPERA; ACTIVA SALE A BUSCAR.",
+        "mnemotecnia": "ACTIVA busca; PASIVA recibe; CENTINELA observa sedes escogidas.",
         "trampas": [
           "El dato decisivo del enunciado debe pesar más que la redacción de los distractores.",
           "No extender la respuesta académica a escenarios con criterios clínicos diferentes."
         ],
-        "perla": "PASIVA ESPERA; ACTIVA SALE A BUSCAR.",
+        "perla": "ACTIVA busca; PASIVA recibe; CENTINELA observa sedes escogidas.",
         "repaso_activo": [
           {
             "pregunta": "¿Qué pista resuelve la pregunta?",
@@ -8401,6 +8464,30 @@
             },
             "respuesta": "E",
             "explicacion": "La notificación rutinaria corresponde a vigilancia pasiva."
+          },
+          {
+            "enunciado": "Personal revisa deliberadamente archivos buscando diagnósticos omitidos. ¿Vigilancia?",
+            "alternativas": {
+              "A": "Pasiva",
+              "B": "Centinela",
+              "C": "Automática",
+              "D": "Espontánea",
+              "E": "Activa"
+            },
+            "respuesta": "E",
+            "explicacion": "Se realiza búsqueda intencional."
+          },
+          {
+            "enunciado": "Área recibe notificaciones rutinarias sin buscarlas. ¿Tipo?",
+            "alternativas": {
+              "A": "Pasiva",
+              "B": "Activa",
+              "C": "Centinela",
+              "D": "Cohorte",
+              "E": "Experimental"
+            },
+            "respuesta": "A",
+            "explicacion": "El receptor espera reportes."
           }
         ]
       }
@@ -8418,13 +8505,13 @@
         "D": "Dentro de una semana"
       },
       "correct": "B",
-      "comment": "RESPUESTA RAZONADA: B. Dentro de las 24 horas\n\nRAZONAMIENTO\n\nEl esquema peruano establece aplicación neonatal ideal de BCG y primera dosis contra hepatitis B dentro de las 24 horas del nacimiento, incluso cuando el parto ocurrió en domicilio. A las ocho horas todavía está dentro de esa ventana. Si se perdió el intervalo, no debe interpretarse que ya no haya nada que hacer: se evalúa aplicación y medidas según esquema y condiciones del recién nacido.\n\nTEMARIO EXTENSO\n\n1. BCG es vacuna viva atenuada contra formas graves de tuberculosis infantil, especialmente tuberculosis meníngea y diseminada; se administra vía intradérmica según normativa.\n\n2. La dosis de vacuna antihepatitis B de nacimiento busca prevenir transmisión vertical y horizontal temprana; se administra vía intramuscular.\n\n3. Ambas se indican idealmente en primeras 24 horas según esquema nacional y condiciones de elegibilidad.\n\n4. Parto domiciliario necesita captación neonatal, evaluación clínica, historia de nacimiento y coordinación de inmunizaciones sin demoras.\n\n5. Vacuna anti-HB en recién nacido expuesto a madre HBsAg positiva debe acompañarse de inmunoglobulina específica contra hepatitis B de manera temprana según protocolo, en sitios anatómicos distintos.\n\n6. El estado serológico materno y factores de riesgo deben evaluarse sin retrasar la dosis neonatal indicada.\n\n7. En prematuros y bajo peso ciertas decisiones, especialmente BCG, requieren criterios específicos de estabilidad y peso establecidos por norma.\n\n8. Verificar termoestabilidad, cadena de frío, reconstitución de BCG, sitios de administración, técnica y registro.\n\n9. La BCG puede generar reacción local y cicatriz; explicar cuidados adecuados sin manipular la lesión.\n\n10. Contraindicaciones y precauciones: sospecha de inmunodeficiencia severa y otras situaciones requieren evaluación previa a una vacuna viva.\n\n11. No confundir dosis de nacimiento de hepatitis B con dosis de esquemas posteriores combinados.\n\n12. Reforzar control CRED, tamizaje neonatal, lactancia, vitamina K y evaluación de signos de alarma en neonato nacido fuera de institución.\n\nANÁLISIS DE ALTERNATIVAS\n\nA) Hasta un año es demasiado tardío como tiempo ideal de nacimiento.\n\nB) Correcta: dentro de las primeras 24 horas.\n\nC) Hasta un mes no representa el momento ideal neonatal.\n\nD) Dentro de una semana pierde oportunidad temprana de protección.\n\nNORMATIVA\n\nMINSA, Norma Técnica de Salud que establece el Esquema Nacional de Vacunación, versión vigente.\n\nOMS, vacunación oportuna contra hepatitis B al nacimiento.\n\nTRAMPAS\n\nEl dato decisivo del enunciado debe pesar más que la redacción de los distractores.\n\nNo extender la respuesta académica a escenarios con criterios clínicos diferentes.\n\nMNEMOTECNIA\n\nNACER = BCG + HB EN 24 H.\n\nREPASO ACTIVO\n\n¿Qué pista resuelve la pregunta?: El esquema peruano establece aplicación neonatal ideal de BCG y primera dosis contra hepatitis B dentro de las 24 horas del nacimiento, incluso cuando el parto ocurrió en domicilio. A las ocho horas todavía está dentro de esa ventana. Si se perdió el intervalo, no debe interpretarse que ya no haya nada que hacer: se evalúa aplicación y medidas según esquema y condiciones del recién nacido.\n\n¿Qué debemos memorizar?: NACER = BCG + HB EN 24 H.\n\nDOS CASOS DE REFUERZO\n\nNeonato de 10 horas sin dosis de nacimiento acude estable. ¿Qué debe hacer el servicio?\nA) Esperar primer cumpleaños\nB) Vacunar según elegibilidad y calendario\nC) Dar antibiótico preventivo\nD) Posponer hasta 6 meses\nE) Omitir registro\nClave B: Está dentro de la ventana ideal de vacunas neonatales.\n\nMadre HBsAg positiva da a luz. ¿Qué intervención se añade a vacuna anti-HB?\nA) BCG extra\nB) Vacuna antipolio\nC) Hierro\nD) Inmunoglobulina contra hepatitis B\nE) Vitamina A\nClave D: La profilaxis específica se añade a dosis anti-HB según protocolo.",
-      "pearl": "NACER = BCG + HB EN 24 H.",
+      "comment": "RESPUESTA RAZONADA: B. Dentro de las 24 horas\n\nRAZONAMIENTO\n\nEl esquema peruano establece aplicación neonatal ideal de BCG y primera dosis contra hepatitis B dentro de las 24 horas del nacimiento, incluso cuando el parto ocurrió en domicilio. A las ocho horas todavía está dentro de esa ventana. Si se perdió el intervalo, no debe interpretarse que ya no haya nada que hacer: se evalúa aplicación y medidas según esquema y condiciones del recién nacido.\n\nTEMARIO EXTENSO\n\n1. BCG es vacuna viva atenuada contra formas graves de tuberculosis infantil, especialmente tuberculosis meníngea y diseminada; se administra vía intradérmica según normativa.\n\n2. La dosis de vacuna antihepatitis B de nacimiento busca prevenir transmisión vertical y horizontal temprana; se administra vía intramuscular.\n\n3. Ambas se indican idealmente en primeras 24 horas según esquema nacional y condiciones de elegibilidad.\n\n4. Parto domiciliario necesita captación neonatal, evaluación clínica, historia de nacimiento y coordinación de inmunizaciones sin demoras.\n\n5. Vacuna anti-HB en recién nacido expuesto a madre HBsAg positiva debe acompañarse de inmunoglobulina específica contra hepatitis B de manera temprana según protocolo, en sitios anatómicos distintos.\n\n6. El estado serológico materno y factores de riesgo deben evaluarse sin retrasar la dosis neonatal indicada.\n\n7. En prematuros y bajo peso ciertas decisiones, especialmente BCG, requieren criterios específicos de estabilidad y peso establecidos por norma.\n\n8. Verificar termoestabilidad, cadena de frío, reconstitución de BCG, sitios de administración, técnica y registro.\n\n9. La BCG puede generar reacción local y cicatriz; explicar cuidados adecuados sin manipular la lesión.\n\n10. Contraindicaciones y precauciones: sospecha de inmunodeficiencia severa y otras situaciones requieren evaluación previa a una vacuna viva.\n\n11. No confundir dosis de nacimiento de hepatitis B con dosis de esquemas posteriores combinados.\n\n12. Reforzar control CRED, tamizaje neonatal, lactancia, vitamina K y evaluación de signos de alarma en neonato nacido fuera de institución.\n\nANÁLISIS DE ALTERNATIVAS\n\nA) Hasta un año es demasiado tardío como tiempo ideal de nacimiento.\n\nB) Correcta: dentro de las primeras 24 horas.\n\nC) Hasta un mes no representa el momento ideal neonatal.\n\nD) Dentro de una semana pierde oportunidad temprana de protección.\n\nNORMATIVA\n\nMINSA, Norma Técnica de Salud que establece el Esquema Nacional de Vacunación, versión vigente.\n\nOMS, vacunación oportuna contra hepatitis B al nacimiento.\n\nTRAMPAS\n\nEl dato decisivo del enunciado debe pesar más que la redacción de los distractores.\n\nNo extender la respuesta académica a escenarios con criterios clínicos diferentes.\n\nMNEMOTECNIA\n\nNACER = BCG + HB EN 24 H.\n\nREPASO ACTIVO\n\n¿Qué pista resuelve la pregunta?: El esquema peruano establece aplicación neonatal ideal de BCG y primera dosis contra hepatitis B dentro de las 24 horas del nacimiento, incluso cuando el parto ocurrió en domicilio. A las ocho horas todavía está dentro de esa ventana. Si se perdió el intervalo, no debe interpretarse que ya no haya nada que hacer: se evalúa aplicación y medidas según esquema y condiciones del recién nacido.\n\n¿Qué debemos memorizar?: NACER = BCG + HB EN 24 H.\n\nDOS CASOS DE REFUERZO\n\nNeonato de 10 horas sin dosis de nacimiento acude estable. ¿Qué debe hacer el servicio?\nA) Esperar primer cumpleaños\nB) Vacunar según elegibilidad y calendario\nC) Dar antibiótico preventivo\nD) Posponer hasta 6 meses\nE) Omitir registro\nClave B: Está dentro de la ventana ideal de vacunas neonatales.\n\nMadre HBsAg positiva da a luz. ¿Qué intervención se añade a vacuna anti-HB?\nA) BCG extra\nB) Vacuna antipolio\nC) Hierro\nD) Inmunoglobulina contra hepatitis B\nE) Vitamina A\nClave D: La profilaxis específica se añade a dosis anti-HB según protocolo.\n\nAMPLIACIÓN TEMÁTICA Y RAZONAMIENTO\nLas vacunas BCG y hepatitis B deben administrarse idealmente durante las primeras 24 horas de vida, sujeto a criterios y contraindicaciones aplicables. En parto domiciliario no hay razón para retrasar el contacto. Revisar inmunosupresión y criterios para BCG, además del HBsAg materno. Si la madre es HBsAg positiva se requiere profilaxis específica temprana conforme a normas; no basta con esperar al mes.\n\n1. BCG: protección frente a TB infantil grave.\n2. Hepatitis B: dosis de nacimiento previene transmisión perinatal.\n3. Se busca administrar ambas dentro de primeras 24 horas cuando indicadas.\n4. Ante madre HBsAg positiva: vacuna y HBIG conforme a esquema de exposición, idealmente dentro de 12 horas.\n5. Evaluar estabilidad neonatal, contraindicaciones, peso, temperatura, signos de alarma y técnica.\n6. Si se perdió oportunidad de 24 horas, aplicar pauta de rescate, no omitir vacunas.\n\nMNEMOTECNIA\nBCG + HVB: primeras 24 horas.\n\nCASOS DE REFUERZO AVANZADOS\n3. Neonato sano de 8 horas tras parto domiciliario. ¿Momento de vacunación?\nA) Al año\nB) Ahora, durante primeras 24 horas\nC) Al mes\nD) A la semana\nE) Al comenzar escuela\nClave B. Primera ventana neonatal.\n\n4. Madre es HBsAg positiva. ¿Intervención?\nA) Solo BCG\nB) Esperar un mes\nC) Profilaxis específica de hepatitis B temprana\nD) Omitir vacuna\nE) Solo observación\nClave C. Se precisa profilaxis neonatal según exposición.",
+      "pearl": "BCG + HVB: primeras 24 horas.",
       "estadoDesarrollo": "completo",
       "estadoClave": "razonada_pendiente_de_cotejo_oficial",
       "lesson": {
         "respuesta_resumida": "B. Dentro de las 24 horas",
-        "razonamiento": "El esquema peruano establece aplicación neonatal ideal de BCG y primera dosis contra hepatitis B dentro de las 24 horas del nacimiento, incluso cuando el parto ocurrió en domicilio. A las ocho horas todavía está dentro de esa ventana. Si se perdió el intervalo, no debe interpretarse que ya no haya nada que hacer: se evalúa aplicación y medidas según esquema y condiciones del recién nacido.",
+        "razonamiento": "El esquema peruano establece aplicación neonatal ideal de BCG y primera dosis contra hepatitis B dentro de las 24 horas del nacimiento, incluso cuando el parto ocurrió en domicilio. A las ocho horas todavía está dentro de esa ventana. Si se perdió el intervalo, no debe interpretarse que ya no haya nada que hacer: se evalúa aplicación y medidas según esquema y condiciones del recién nacido.\n\nAMPLIACIÓN: Las vacunas BCG y hepatitis B deben administrarse idealmente durante las primeras 24 horas de vida, sujeto a criterios y contraindicaciones aplicables. En parto domiciliario no hay razón para retrasar el contacto. Revisar inmunosupresión y criterios para BCG, además del HBsAg materno. Si la madre es HBsAg positiva se requiere profilaxis específica temprana conforme a normas; no basta con esperar al mes.",
         "temario": [
           "BCG es vacuna viva atenuada contra formas graves de tuberculosis infantil, especialmente tuberculosis meníngea y diseminada; se administra vía intradérmica según normativa.",
           "La dosis de vacuna antihepatitis B de nacimiento busca prevenir transmisión vertical y horizontal temprana; se administra vía intramuscular.",
@@ -8437,7 +8524,13 @@
           "La BCG puede generar reacción local y cicatriz; explicar cuidados adecuados sin manipular la lesión.",
           "Contraindicaciones y precauciones: sospecha de inmunodeficiencia severa y otras situaciones requieren evaluación previa a una vacuna viva.",
           "No confundir dosis de nacimiento de hepatitis B con dosis de esquemas posteriores combinados.",
-          "Reforzar control CRED, tamizaje neonatal, lactancia, vitamina K y evaluación de signos de alarma en neonato nacido fuera de institución."
+          "Reforzar control CRED, tamizaje neonatal, lactancia, vitamina K y evaluación de signos de alarma en neonato nacido fuera de institución.",
+          "BCG: protección frente a TB infantil grave.",
+          "Hepatitis B: dosis de nacimiento previene transmisión perinatal.",
+          "Se busca administrar ambas dentro de primeras 24 horas cuando indicadas.",
+          "Ante madre HBsAg positiva: vacuna y HBIG conforme a esquema de exposición, idealmente dentro de 12 horas.",
+          "Evaluar estabilidad neonatal, contraindicaciones, peso, temperatura, signos de alarma y técnica.",
+          "Si se perdió oportunidad de 24 horas, aplicar pauta de rescate, no omitir vacunas."
         ],
         "por_que_no_las_otras": {
           "A": "Hasta un año es demasiado tardío como tiempo ideal de nacimiento.",
@@ -8449,12 +8542,12 @@
           "MINSA, Norma Técnica de Salud que establece el Esquema Nacional de Vacunación, versión vigente.",
           "OMS, vacunación oportuna contra hepatitis B al nacimiento."
         ],
-        "mnemotecnia": "NACER = BCG + HB EN 24 H.",
+        "mnemotecnia": "BCG + HVB: primeras 24 horas.",
         "trampas": [
           "El dato decisivo del enunciado debe pesar más que la redacción de los distractores.",
           "No extender la respuesta académica a escenarios con criterios clínicos diferentes."
         ],
-        "perla": "NACER = BCG + HB EN 24 H.",
+        "perla": "BCG + HVB: primeras 24 horas.",
         "repaso_activo": [
           {
             "pregunta": "¿Qué pista resuelve la pregunta?",
@@ -8489,6 +8582,30 @@
             },
             "respuesta": "D",
             "explicacion": "La profilaxis específica se añade a dosis anti-HB según protocolo."
+          },
+          {
+            "enunciado": "Neonato sano de 8 horas tras parto domiciliario. ¿Momento de vacunación?",
+            "alternativas": {
+              "A": "Al año",
+              "B": "Ahora, durante primeras 24 horas",
+              "C": "Al mes",
+              "D": "A la semana",
+              "E": "Al comenzar escuela"
+            },
+            "respuesta": "B",
+            "explicacion": "Primera ventana neonatal."
+          },
+          {
+            "enunciado": "Madre es HBsAg positiva. ¿Intervención?",
+            "alternativas": {
+              "A": "Solo BCG",
+              "B": "Esperar un mes",
+              "C": "Profilaxis específica de hepatitis B temprana",
+              "D": "Omitir vacuna",
+              "E": "Solo observación"
+            },
+            "respuesta": "C",
+            "explicacion": "Se precisa profilaxis neonatal según exposición."
           }
         ]
       }
@@ -8506,13 +8623,13 @@
         "D": "Gestionar apoyo con programa social del MIDIS"
       },
       "correct": "B",
-      "comment": "RESPUESTA RAZONADA: B. Derivación a centro hospitalario para confirmación\n\nRAZONAMIENTO\n\nLa opción más apropiada entre las ofrecidas es derivar o articular oportunamente con el establecimiento y circuito habilitado para completar algoritmo diagnóstico y manejo materno de VIH. Sin embargo, NO debe concluirse que todo tamizaje reactivo requiera necesariamente confirmación solo en un hospital: según capacidad y algoritmo vigente puede completarse con pruebas suplementarias en red, y la atención materna y antirretroviral no deben retrasarse. Respetar confidencialidad y consejería.\n\nTEMARIO EXTENSO\n\n1. Tamizaje reactivo no equivale automáticamente a diagnóstico definitivo de VIH: aplicar algoritmo confirmatorio vigente.\n\n2. Toda gestante debe acceder tempranamente a prueba de VIH con consentimiento y consejería conforme a normativa; captar prenatal tardío sin culpabilizar.\n\n3. Ante resultado reactivo, informar en privacidad con lenguaje cuidadoso y explicar pruebas siguientes.\n\n4. Organizar segunda prueba con técnica o estrategia indicada, evaluación clínica y continuidad sin retrasos evitables.\n\n5. La prevención de transmisión maternoinfantil requiere inicio oportuno de terapia antirretroviral y seguimiento de carga viral, según protocolo nacional.\n\n6. No suspender controles prenatales mientras se concreta diagnóstico; evaluar anemia, ITS, sífilis y hepatitis B según normas.\n\n7. La coordinación entre primer nivel y servicio de VIH debe asegurar entrega de resultados, referencia efectiva y contrarreferencia.\n\n8. La atención VIH debe ser confidencial; contactar familiares o pareja sin autorización vulnera privacidad.\n\n9. Adherencia al tratamiento, apoyo psicosocial voluntario y reducción de estigma son elementos esenciales.\n\n10. Planificar decisiones sobre vía de parto, profilaxis del recién nacido, lactancia y seguimiento pediátrico conforme a carga viral y lineamientos peruanos actualizados.\n\n11. Tamizaje no reactivo en paciente con exposición reciente puede requerir repetición por periodo de ventana; no es objeto de este ítem.\n\n12. La respuesta B es administrativa simplificada y no representa la ruta completa: en la práctica hay que confirmar, iniciar manejo y sostener continuidad integral.\n\nANÁLISIS DE ALTERNATIVAS\n\nA) Buscar familiares sin consentimiento no es primera medida y amenaza confidencialidad.\n\nB) Clave académica entre las opciones: articular derivación/confirmación oportuna, pero la confirmación no es necesariamente hospitalaria en todos los contextos.\n\nC) Control prenatal y psicoprofilaxis son necesarios, pero solos no resuelven tamizaje VIH reactivo.\n\nD) Apoyo MIDIS puede ser complementario con consentimiento, no primera respuesta clínica.\n\nNORMATIVA\n\nMINSA, norma técnica vigente para prevención de transmisión maternoinfantil del VIH, sífilis y hepatitis B.\n\nOMS, recomendaciones de testeo VIH en gestantes y tratamiento antirretroviral.\n\nTRAMPAS\n\nEl dato decisivo del enunciado debe pesar más que la redacción de los distractores.\n\nNo extender la respuesta académica a escenarios con criterios clínicos diferentes.\n\nMNEMOTECNIA\n\nVIH REACTIVO EN GESTANTE = CONFIRMAR + VINCULAR + TRATAR + CUIDAR CONFIDENCIALIDAD.\n\nREPASO ACTIVO\n\n¿Qué pista resuelve la pregunta?: La opción más apropiada entre las ofrecidas es derivar o articular oportunamente con el establecimiento y circuito habilitado para completar algoritmo diagnóstico y manejo materno de VIH. Sin embargo, NO debe concluirse que todo tamizaje reactivo requiera necesariamente confirmación solo en un hospital: según capacidad y algoritmo vigente puede completarse con pruebas suplementarias en red, y la atención materna y antirretroviral no deben retrasarse. Respetar confidencialidad y consejería.\n\n¿Qué debemos memorizar?: VIH REACTIVO EN GESTANTE = CONFIRMAR + VINCULAR + TRATAR + CUIDAR CONFIDENCIALIDAD.\n\nDOS CASOS DE REFUERZO\n\nGestante con tamizaje VIH reactivo pregunta si es diagnóstico definitivo. ¿Qué se explica?\nA) Debe aplicarse algoritmo confirmatorio\nB) Se confirma sin otras pruebas\nC) Debe informar a todo el barrio\nD) No acudir a controles\nE) Esperar hasta posparto\nClave A: Un tamizaje reactivo exige algoritmo diagnóstico; la vinculación rápida al cuidado es esencial.\n\nGestante con VIH confirmado está sin terapia. ¿Qué prioridad disminuye transmisión vertical?\nA) Esperar meses\nB) Abandonar control\nC) Suspender pruebas\nD) Notificar públicamente\nE) Inicio oportuno de TAR y seguimiento\nClave E: El tratamiento antirretroviral adecuado es clave para disminuir transmisión vertical.",
-      "pearl": "VIH REACTIVO EN GESTANTE = CONFIRMAR + VINCULAR + TRATAR + CUIDAR CONFIDENCIALIDAD.",
+      "comment": "RESPUESTA RAZONADA: B. Derivación a centro hospitalario para confirmación\n\nRAZONAMIENTO\n\nLa opción más apropiada entre las ofrecidas es derivar o articular oportunamente con el establecimiento y circuito habilitado para completar algoritmo diagnóstico y manejo materno de VIH. Sin embargo, NO debe concluirse que todo tamizaje reactivo requiera necesariamente confirmación solo en un hospital: según capacidad y algoritmo vigente puede completarse con pruebas suplementarias en red, y la atención materna y antirretroviral no deben retrasarse. Respetar confidencialidad y consejería.\n\nTEMARIO EXTENSO\n\n1. Tamizaje reactivo no equivale automáticamente a diagnóstico definitivo de VIH: aplicar algoritmo confirmatorio vigente.\n\n2. Toda gestante debe acceder tempranamente a prueba de VIH con consentimiento y consejería conforme a normativa; captar prenatal tardío sin culpabilizar.\n\n3. Ante resultado reactivo, informar en privacidad con lenguaje cuidadoso y explicar pruebas siguientes.\n\n4. Organizar segunda prueba con técnica o estrategia indicada, evaluación clínica y continuidad sin retrasos evitables.\n\n5. La prevención de transmisión maternoinfantil requiere inicio oportuno de terapia antirretroviral y seguimiento de carga viral, según protocolo nacional.\n\n6. No suspender controles prenatales mientras se concreta diagnóstico; evaluar anemia, ITS, sífilis y hepatitis B según normas.\n\n7. La coordinación entre primer nivel y servicio de VIH debe asegurar entrega de resultados, referencia efectiva y contrarreferencia.\n\n8. La atención VIH debe ser confidencial; contactar familiares o pareja sin autorización vulnera privacidad.\n\n9. Adherencia al tratamiento, apoyo psicosocial voluntario y reducción de estigma son elementos esenciales.\n\n10. Planificar decisiones sobre vía de parto, profilaxis del recién nacido, lactancia y seguimiento pediátrico conforme a carga viral y lineamientos peruanos actualizados.\n\n11. Tamizaje no reactivo en paciente con exposición reciente puede requerir repetición por periodo de ventana; no es objeto de este ítem.\n\n12. La respuesta B es administrativa simplificada y no representa la ruta completa: en la práctica hay que confirmar, iniciar manejo y sostener continuidad integral.\n\nANÁLISIS DE ALTERNATIVAS\n\nA) Buscar familiares sin consentimiento no es primera medida y amenaza confidencialidad.\n\nB) Clave académica entre las opciones: articular derivación/confirmación oportuna, pero la confirmación no es necesariamente hospitalaria en todos los contextos.\n\nC) Control prenatal y psicoprofilaxis son necesarios, pero solos no resuelven tamizaje VIH reactivo.\n\nD) Apoyo MIDIS puede ser complementario con consentimiento, no primera respuesta clínica.\n\nNORMATIVA\n\nMINSA, norma técnica vigente para prevención de transmisión maternoinfantil del VIH, sífilis y hepatitis B.\n\nOMS, recomendaciones de testeo VIH en gestantes y tratamiento antirretroviral.\n\nTRAMPAS\n\nEl dato decisivo del enunciado debe pesar más que la redacción de los distractores.\n\nNo extender la respuesta académica a escenarios con criterios clínicos diferentes.\n\nMNEMOTECNIA\n\nVIH REACTIVO EN GESTANTE = CONFIRMAR + VINCULAR + TRATAR + CUIDAR CONFIDENCIALIDAD.\n\nREPASO ACTIVO\n\n¿Qué pista resuelve la pregunta?: La opción más apropiada entre las ofrecidas es derivar o articular oportunamente con el establecimiento y circuito habilitado para completar algoritmo diagnóstico y manejo materno de VIH. Sin embargo, NO debe concluirse que todo tamizaje reactivo requiera necesariamente confirmación solo en un hospital: según capacidad y algoritmo vigente puede completarse con pruebas suplementarias en red, y la atención materna y antirretroviral no deben retrasarse. Respetar confidencialidad y consejería.\n\n¿Qué debemos memorizar?: VIH REACTIVO EN GESTANTE = CONFIRMAR + VINCULAR + TRATAR + CUIDAR CONFIDENCIALIDAD.\n\nDOS CASOS DE REFUERZO\n\nGestante con tamizaje VIH reactivo pregunta si es diagnóstico definitivo. ¿Qué se explica?\nA) Debe aplicarse algoritmo confirmatorio\nB) Se confirma sin otras pruebas\nC) Debe informar a todo el barrio\nD) No acudir a controles\nE) Esperar hasta posparto\nClave A: Un tamizaje reactivo exige algoritmo diagnóstico; la vinculación rápida al cuidado es esencial.\n\nGestante con VIH confirmado está sin terapia. ¿Qué prioridad disminuye transmisión vertical?\nA) Esperar meses\nB) Abandonar control\nC) Suspender pruebas\nD) Notificar públicamente\nE) Inicio oportuno de TAR y seguimiento\nClave E: El tratamiento antirretroviral adecuado es clave para disminuir transmisión vertical.\n\nAMPLIACIÓN TEMÁTICA Y RAZONAMIENTO\nUn tamizaje de VIH reactivo a las 20 semanas no confirma por sí mismo infección. Entre las respuestas del examen, derivación para confirmación es la mejor, pero NO significa que necesariamente deba esperar hospital: el servicio debe activar el algoritmo de confirmación disponible, enlace rápido a tratamiento antirretroviral y prevención de transmisión vertical sin barreras administrativas. Mantener confidencialidad, explorar otras ITS y asegurar continuidad.\n\n1. Tamizaje reactivo ≠ diagnóstico VIH confirmado: usar algoritmo validado.\n2. Confirmar y enlazar a unidad resolutiva sin retraso innecesario.\n3. TAR oportuna y seguimiento virológico son claves de prevención vertical.\n4. Evaluar sífilis, hepatitis B, TB y necesidades psicosociales.\n5. Informar a familia solo según consentimiento y reglas aplicables.\n6. No suspender control prenatal ni esperar puerperio para actuar.\n\nMNEMOTECNIA\nREACTIVO: confirmar + enlazar + TAR + proteger al RN.\n\nCASOS DE REFUERZO AVANZADOS\n3. Gestante con prueba VIH inicial reactiva. ¿Acción principal?\nA) Informar a comunidad\nB) Esperar parto\nC) Suspender control\nD) Activar confirmación y enlace a tratamiento\nE) Solo apoyo económico\nClave D. Inicia ruta diagnóstica y preventiva sin demoras.\n\n4. Gestante con VIH confirmado, sin TAR. ¿Prioridad?\nA) Esperar puerperio\nB) Asegurar TAR y seguimiento\nC) Suspender embarazo de rutina\nD) No evaluar ITS\nE) Esperar síntomas\nClave B. TAR reduce riesgo de transmisión vertical.",
+      "pearl": "REACTIVO: confirmar + enlazar + TAR + proteger al RN.",
       "estadoDesarrollo": "completo",
       "estadoClave": "razonada_pendiente_de_cotejo_oficial",
       "lesson": {
         "respuesta_resumida": "B. Derivación a centro hospitalario para confirmación",
-        "razonamiento": "La opción más apropiada entre las ofrecidas es derivar o articular oportunamente con el establecimiento y circuito habilitado para completar algoritmo diagnóstico y manejo materno de VIH. Sin embargo, NO debe concluirse que todo tamizaje reactivo requiera necesariamente confirmación solo en un hospital: según capacidad y algoritmo vigente puede completarse con pruebas suplementarias en red, y la atención materna y antirretroviral no deben retrasarse. Respetar confidencialidad y consejería.",
+        "razonamiento": "La opción más apropiada entre las ofrecidas es derivar o articular oportunamente con el establecimiento y circuito habilitado para completar algoritmo diagnóstico y manejo materno de VIH. Sin embargo, NO debe concluirse que todo tamizaje reactivo requiera necesariamente confirmación solo en un hospital: según capacidad y algoritmo vigente puede completarse con pruebas suplementarias en red, y la atención materna y antirretroviral no deben retrasarse. Respetar confidencialidad y consejería.\n\nAMPLIACIÓN: Un tamizaje de VIH reactivo a las 20 semanas no confirma por sí mismo infección. Entre las respuestas del examen, derivación para confirmación es la mejor, pero NO significa que necesariamente deba esperar hospital: el servicio debe activar el algoritmo de confirmación disponible, enlace rápido a tratamiento antirretroviral y prevención de transmisión vertical sin barreras administrativas. Mantener confidencialidad, explorar otras ITS y asegurar continuidad.",
         "temario": [
           "Tamizaje reactivo no equivale automáticamente a diagnóstico definitivo de VIH: aplicar algoritmo confirmatorio vigente.",
           "Toda gestante debe acceder tempranamente a prueba de VIH con consentimiento y consejería conforme a normativa; captar prenatal tardío sin culpabilizar.",
@@ -8525,7 +8642,13 @@
           "Adherencia al tratamiento, apoyo psicosocial voluntario y reducción de estigma son elementos esenciales.",
           "Planificar decisiones sobre vía de parto, profilaxis del recién nacido, lactancia y seguimiento pediátrico conforme a carga viral y lineamientos peruanos actualizados.",
           "Tamizaje no reactivo en paciente con exposición reciente puede requerir repetición por periodo de ventana; no es objeto de este ítem.",
-          "La respuesta B es administrativa simplificada y no representa la ruta completa: en la práctica hay que confirmar, iniciar manejo y sostener continuidad integral."
+          "La respuesta B es administrativa simplificada y no representa la ruta completa: en la práctica hay que confirmar, iniciar manejo y sostener continuidad integral.",
+          "Tamizaje reactivo ≠ diagnóstico VIH confirmado: usar algoritmo validado.",
+          "Confirmar y enlazar a unidad resolutiva sin retraso innecesario.",
+          "TAR oportuna y seguimiento virológico son claves de prevención vertical.",
+          "Evaluar sífilis, hepatitis B, TB y necesidades psicosociales.",
+          "Informar a familia solo según consentimiento y reglas aplicables.",
+          "No suspender control prenatal ni esperar puerperio para actuar."
         ],
         "por_que_no_las_otras": {
           "A": "Buscar familiares sin consentimiento no es primera medida y amenaza confidencialidad.",
@@ -8537,12 +8660,12 @@
           "MINSA, norma técnica vigente para prevención de transmisión maternoinfantil del VIH, sífilis y hepatitis B.",
           "OMS, recomendaciones de testeo VIH en gestantes y tratamiento antirretroviral."
         ],
-        "mnemotecnia": "VIH REACTIVO EN GESTANTE = CONFIRMAR + VINCULAR + TRATAR + CUIDAR CONFIDENCIALIDAD.",
+        "mnemotecnia": "REACTIVO: confirmar + enlazar + TAR + proteger al RN.",
         "trampas": [
           "El dato decisivo del enunciado debe pesar más que la redacción de los distractores.",
           "No extender la respuesta académica a escenarios con criterios clínicos diferentes."
         ],
-        "perla": "VIH REACTIVO EN GESTANTE = CONFIRMAR + VINCULAR + TRATAR + CUIDAR CONFIDENCIALIDAD.",
+        "perla": "REACTIVO: confirmar + enlazar + TAR + proteger al RN.",
         "repaso_activo": [
           {
             "pregunta": "¿Qué pista resuelve la pregunta?",
@@ -8577,6 +8700,30 @@
             },
             "respuesta": "E",
             "explicacion": "El tratamiento antirretroviral adecuado es clave para disminuir transmisión vertical."
+          },
+          {
+            "enunciado": "Gestante con prueba VIH inicial reactiva. ¿Acción principal?",
+            "alternativas": {
+              "A": "Informar a comunidad",
+              "B": "Esperar parto",
+              "C": "Suspender control",
+              "D": "Activar confirmación y enlace a tratamiento",
+              "E": "Solo apoyo económico"
+            },
+            "respuesta": "D",
+            "explicacion": "Inicia ruta diagnóstica y preventiva sin demoras."
+          },
+          {
+            "enunciado": "Gestante con VIH confirmado, sin TAR. ¿Prioridad?",
+            "alternativas": {
+              "A": "Esperar puerperio",
+              "B": "Asegurar TAR y seguimiento",
+              "C": "Suspender embarazo de rutina",
+              "D": "No evaluar ITS",
+              "E": "Esperar síntomas"
+            },
+            "respuesta": "B",
+            "explicacion": "TAR reduce riesgo de transmisión vertical."
           }
         ]
       }
