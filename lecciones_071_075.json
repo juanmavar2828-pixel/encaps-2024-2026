@@ -1,0 +1,840 @@
+{
+  "schemaVersion": 1,
+  "bankId": "ENCAPS_2026_II",
+  "source": "Examen SERUMS 2026-II del 9 de agosto de 2026 y consulta de OMS, MINSA y literatura científica",
+  "note": "Claves del PDF de usuario, no cotejadas independientemente con tabla oficial. P73 recomendación familiar verificada en MINSA sin citar un documento específico OMS de la frase. P75 conceptual vs operacional.",
+  "questions": [
+    {
+      "number": 71,
+      "code": "ENCAPS26-II P071",
+      "course": "Farmacología y gestión del medicamento",
+      "topic": "Medicamentos esenciales: seguridad, eficacia y costo-efectividad",
+      "comment": "Clave resaltada en PDF del usuario, todavía no cotejada independientemente con la tabla oficial: C. Esenciales. Son medicamentos y productos biológicos seleccionados por responder a necesidades prioritarias de salud con evidencia de eficacia, seguridad y uso eficiente de recursos.\n\nRAZONAMIENTO\nEl texto del ítem coincide con el concepto OMS de medicamentos esenciales: satisfacen necesidades sanitarias prioritarias y se seleccionan considerando carga de enfermedad, beneficios, riesgos y costo-efectividad comparativa. Deben estar disponibles, en formas farmacéuticas apropiadas, calidad garantizada y precios razonables. La clase terapéutica no define por sí sola si un producto es esencial: algunos antibióticos, analgésicos o antiinflamatorios están en listas, pero otros no. El Perú cuenta con el Petitorio Nacional Único de Medicamentos Esenciales (PNUME), aprobado mediante RM N.° 633-2023-MINSA. La Lista Modelo OMS orienta, sin sustituir automáticamente la selección nacional.\n\nDESARROLLO DEL TEMARIO\nDefinición OMS: satisfacer las necesidades prioritarias de atención sanitaria de la población, según prevalencia de enfermedades y relevancia sanitaria.\n\nCriterios básicos: eficacia demostrada, seguridad, calidad, costo-efectividad, dosis/formulación apropiada y pertinencia para perfiles epidemiológicos.\n\nDisponibilidad: deben permanecer accesibles dentro del sistema, con abastecimiento apropiado, conservación adecuada y precios asequibles.\n\nPNUME: petitorio nacional que organiza la selección de medicamentos esenciales para el sector público peruano; verificar anexos, categorías y modificaciones vigentes al prescribir.\n\nLista Modelo OMS: referencia internacional que se actualiza periódicamente; la edición de 2025 es la 24.ª y no se aplica mecánicamente sin adecuación nacional.\n\nUso racional: elegir fármaco indicado, dosis, vía y duración pertinentes; antibióticos solo cuando corresponda; vigilar interacciones, contraindicaciones y eventos adversos.\n\nAbastecimiento: gestión de stock, vencimientos, rotación, continuidad de tratamientos crónicos, farmacovigilancia y uso de denominación común internacional cuando corresponda.\n\nEquidad: medicamento esencial no significa que sea económico por definición ni que esté necesariamente disponible en toda IPRESS en ese momento; orientar solución del desabastecimiento y referencia si es necesario.\n\nExamen: distinguir esencial como categoría de política farmacéutica frente a familias terapéuticas como antibiótico, analgésico o antiinflamatorio.\n\nANÁLISIS DE ALTERNATIVAS\nA. Los antibióticos son un grupo farmacológico y varios son esenciales, pero esa denominación no abarca todos los medicamentos prioritarios.\nB. Los analgésicos se emplean para el dolor y algunos figuran en petitorios, pero no describen la clasificación general del ítem.\nC. Correcta: esenciales es la categoría seleccionada según necesidad sanitaria, eficacia, seguridad y costo-efectividad.\nD. Antiinflamatorios es una familia terapéutica más restringida; no equivale a todos los fármacos esenciales.\n\nNORMATIVA Y FUENTES\nOMS, Medicamentos esenciales, 26 de enero de 2026 | https://www.who.int/es/news-room/fact-sheets/detail/essential-medicines | Necesidades prioritarias, evidencia de eficacia y seguridad, costos, accesibilidad y calidad garantizada\nOMS, 24.ª Lista Modelo de Medicamentos Esenciales, 2025 | https://www.who.int/publications/i/item/B09474 | Lista orientadora internacional, adaptada según necesidades nacionales\nMINSA, RM N.° 633-2023-MINSA | https://www.gob.pe/institucion/minsa/normas-legales/4387054-633-2023-minsa | Aprueba el Petitorio Nacional Único de Medicamentos Esenciales para el Sector Salud\n\nMNEMOTECNIA\nESENCIALES = NECESIDAD PRIORITARIA + EFICACIA + SEGURIDAD + COSTO-EFECTIVIDAD + ACCESO.\n\nTRAMPAS\nNo asumir que todos los antibióticos son esenciales por pertenecer a una clase.\nNo confundir lista OMS internacional con petitorio nacional PNUME de Perú.\nQue sea esencial no permite automedicación ni receta automática: debe evaluarse indicación.\nCosto-efectividad no significa elegir siempre el fármaco de menor precio unitario.\nDisponibilidad y precio asequible son objetivos de política, no prueba de stock permanente en cada establecimiento.\n\nPERLA\n71: SEGURIDAD + EFICACIA + COSTO-EFECTIVIDAD + NECESIDADES PRIORITARIAS → MEDICAMENTOS ESENCIALES (PNUME).",
+      "pearl": "71: SEGURIDAD + EFICACIA + COSTO-EFECTIVIDAD + NECESIDADES PRIORITARIAS → MEDICAMENTOS ESENCIALES (PNUME).",
+      "keywords": [
+        "Farmacología y gestión del medicamento",
+        "Medicamentos esenciales: seguridad, eficacia y costo-efectividad",
+        "ENCAPS 2026-II",
+        "MINSA 276"
+      ],
+      "estadoDesarrollo": "completo",
+      "lesson": {
+        "respuesta_resumida": "C. Esenciales. Son medicamentos y productos biológicos seleccionados por responder a necesidades prioritarias de salud con evidencia de eficacia, seguridad y uso eficiente de recursos.",
+        "razonamiento": "El texto del ítem coincide con el concepto OMS de medicamentos esenciales: satisfacen necesidades sanitarias prioritarias y se seleccionan considerando carga de enfermedad, beneficios, riesgos y costo-efectividad comparativa. Deben estar disponibles, en formas farmacéuticas apropiadas, calidad garantizada y precios razonables. La clase terapéutica no define por sí sola si un producto es esencial: algunos antibióticos, analgésicos o antiinflamatorios están en listas, pero otros no. El Perú cuenta con el Petitorio Nacional Único de Medicamentos Esenciales (PNUME), aprobado mediante RM N.° 633-2023-MINSA. La Lista Modelo OMS orienta, sin sustituir automáticamente la selección nacional.",
+        "temario": [
+          "Definición OMS: satisfacer las necesidades prioritarias de atención sanitaria de la población, según prevalencia de enfermedades y relevancia sanitaria.",
+          "Criterios básicos: eficacia demostrada, seguridad, calidad, costo-efectividad, dosis/formulación apropiada y pertinencia para perfiles epidemiológicos.",
+          "Disponibilidad: deben permanecer accesibles dentro del sistema, con abastecimiento apropiado, conservación adecuada y precios asequibles.",
+          "PNUME: petitorio nacional que organiza la selección de medicamentos esenciales para el sector público peruano; verificar anexos, categorías y modificaciones vigentes al prescribir.",
+          "Lista Modelo OMS: referencia internacional que se actualiza periódicamente; la edición de 2025 es la 24.ª y no se aplica mecánicamente sin adecuación nacional.",
+          "Uso racional: elegir fármaco indicado, dosis, vía y duración pertinentes; antibióticos solo cuando corresponda; vigilar interacciones, contraindicaciones y eventos adversos.",
+          "Abastecimiento: gestión de stock, vencimientos, rotación, continuidad de tratamientos crónicos, farmacovigilancia y uso de denominación común internacional cuando corresponda.",
+          "Equidad: medicamento esencial no significa que sea económico por definición ni que esté necesariamente disponible en toda IPRESS en ese momento; orientar solución del desabastecimiento y referencia si es necesario.",
+          "Examen: distinguir esencial como categoría de política farmacéutica frente a familias terapéuticas como antibiótico, analgésico o antiinflamatorio."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Los antibióticos son un grupo farmacológico y varios son esenciales, pero esa denominación no abarca todos los medicamentos prioritarios.",
+          "B": "Los analgésicos se emplean para el dolor y algunos figuran en petitorios, pero no describen la clasificación general del ítem.",
+          "C": "Correcta: esenciales es la categoría seleccionada según necesidad sanitaria, eficacia, seguridad y costo-efectividad.",
+          "D": "Antiinflamatorios es una familia terapéutica más restringida; no equivale a todos los fármacos esenciales."
+        },
+        "normativa": [
+          "OMS, Medicamentos esenciales, 26 de enero de 2026 | https://www.who.int/es/news-room/fact-sheets/detail/essential-medicines | Necesidades prioritarias, evidencia de eficacia y seguridad, costos, accesibilidad y calidad garantizada",
+          "OMS, 24.ª Lista Modelo de Medicamentos Esenciales, 2025 | https://www.who.int/publications/i/item/B09474 | Lista orientadora internacional, adaptada según necesidades nacionales",
+          "MINSA, RM N.° 633-2023-MINSA | https://www.gob.pe/institucion/minsa/normas-legales/4387054-633-2023-minsa | Aprueba el Petitorio Nacional Único de Medicamentos Esenciales para el Sector Salud"
+        ],
+        "mnemotecnia": "ESENCIALES = NECESIDAD PRIORITARIA + EFICACIA + SEGURIDAD + COSTO-EFECTIVIDAD + ACCESO.",
+        "trampas": [
+          "No asumir que todos los antibióticos son esenciales por pertenecer a una clase.",
+          "No confundir lista OMS internacional con petitorio nacional PNUME de Perú.",
+          "Que sea esencial no permite automedicación ni receta automática: debe evaluarse indicación.",
+          "Costo-efectividad no significa elegir siempre el fármaco de menor precio unitario.",
+          "Disponibilidad y precio asequible son objetivos de política, no prueba de stock permanente en cada establecimiento."
+        ],
+        "perla": "71: SEGURIDAD + EFICACIA + COSTO-EFECTIVIDAD + NECESIDADES PRIORITARIAS → MEDICAMENTOS ESENCIALES (PNUME).",
+        "repaso_activo": [
+          "¿Qué define esencialidad? — Responder a necesidades prioritarias con eficacia, seguridad y costo-efectividad.",
+          "¿Qué significa PNUME? — Petitorio Nacional Único de Medicamentos Esenciales.",
+          "¿Cuál RM aprobó el PNUME 2023? — RM N.° 633-2023-MINSA.",
+          "¿La lista OMS es igual al PNUME? — No, la OMS orienta la selección nacional."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Un comité técnico elige, entre opciones terapéuticas comparables, medicamentos que cubren patologías prioritarias y ofrecen seguridad, eficacia y buena costo-efectividad. ¿Qué criterio aplica?",
+            "alternativas": {
+              "A": "Selección de medicamentos por promoción comercial",
+              "B": "Exclusión de productos con formas pediátricas",
+              "C": "Clasificación obligatoria de medicamentos genéricos",
+              "D": "Priorización exclusiva de marcas reconocidas",
+              "E": "Selección de medicamentos esenciales"
+            },
+            "respuesta": "E",
+            "explicacion": "La selección de esenciales prioriza necesidades poblacionales, eficacia, seguridad y costo-efectividad."
+          },
+          {
+            "enunciado": "Un médico encuentra un medicamento en la Lista Modelo OMS, pero no verifica su indicación ni inclusión nacional. ¿Cuál es la acción más apropiada?",
+            "alternativas": {
+              "A": "Prescribirlo siempre porque figura en la lista OMS",
+              "B": "Verificar indicación clínica y normativa nacional aplicable",
+              "C": "Sustituirlo por cualquier producto del mismo grupo",
+              "D": "Seleccionarlo solo según su precio por tableta",
+              "E": "Indicarlo sin valorar efectos adversos ni interacciones"
+            },
+            "respuesta": "B",
+            "explicacion": "La lista OMS orienta, pero se necesita criterio clínico, regulación y petitorio nacional aplicable."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Medicamentos esenciales: seguridad, eficacia y costo-efectividad",
+          "eje": "Farmacología y gestión del medicamento",
+          "confiabilidad": "clave_resaltada_fundamento_concordante",
+          "respuesta_resumida": "C. Esenciales. Son medicamentos y productos biológicos seleccionados por responder a necesidades prioritarias de salud con evidencia de eficacia, seguridad y uso eficiente de recursos.",
+          "razonamiento": [
+            "El texto del ítem coincide con el concepto OMS de medicamentos esenciales: satisfacen necesidades sanitarias prioritarias y se seleccionan considerando carga de enfermedad, beneficios, riesgos y costo-efectividad comparativa. Deben estar disponibles, en formas farmacéuticas apropiadas, calidad garantizada y precios razonables. La clase terapéutica no define por sí sola si un producto es esencial: algunos antibióticos, analgésicos o antiinflamatorios están en listas, pero otros no. El Perú cuenta con el Petitorio Nacional Único de Medicamentos Esenciales (PNUME), aprobado mediante RM N.° 633-2023-MINSA. La Lista Modelo OMS orienta, sin sustituir automáticamente la selección nacional."
+          ],
+          "temario": [
+            "Definición OMS: satisfacer las necesidades prioritarias de atención sanitaria de la población, según prevalencia de enfermedades y relevancia sanitaria.",
+            "Criterios básicos: eficacia demostrada, seguridad, calidad, costo-efectividad, dosis/formulación apropiada y pertinencia para perfiles epidemiológicos.",
+            "Disponibilidad: deben permanecer accesibles dentro del sistema, con abastecimiento apropiado, conservación adecuada y precios asequibles.",
+            "PNUME: petitorio nacional que organiza la selección de medicamentos esenciales para el sector público peruano; verificar anexos, categorías y modificaciones vigentes al prescribir.",
+            "Lista Modelo OMS: referencia internacional que se actualiza periódicamente; la edición de 2025 es la 24.ª y no se aplica mecánicamente sin adecuación nacional.",
+            "Uso racional: elegir fármaco indicado, dosis, vía y duración pertinentes; antibióticos solo cuando corresponda; vigilar interacciones, contraindicaciones y eventos adversos.",
+            "Abastecimiento: gestión de stock, vencimientos, rotación, continuidad de tratamientos crónicos, farmacovigilancia y uso de denominación común internacional cuando corresponda.",
+            "Equidad: medicamento esencial no significa que sea económico por definición ni que esté necesariamente disponible en toda IPRESS en ese momento; orientar solución del desabastecimiento y referencia si es necesario.",
+            "Examen: distinguir esencial como categoría de política farmacéutica frente a familias terapéuticas como antibiótico, analgésico o antiinflamatorio."
+          ],
+          "distractores": {
+            "A": "Los antibióticos son un grupo farmacológico y varios son esenciales, pero esa denominación no abarca todos los medicamentos prioritarios.",
+            "B": "Los analgésicos se emplean para el dolor y algunos figuran en petitorios, pero no describen la clasificación general del ítem.",
+            "C": "Correcta: esenciales es la categoría seleccionada según necesidad sanitaria, eficacia, seguridad y costo-efectividad.",
+            "D": "Antiinflamatorios es una familia terapéutica más restringida; no equivale a todos los fármacos esenciales."
+          },
+          "normativa": [
+            {
+              "nombre": "OMS, Medicamentos esenciales, 26 de enero de 2026",
+              "url": "https://www.who.int/es/news-room/fact-sheets/detail/essential-medicines",
+              "aplicacion": "Necesidades prioritarias, evidencia de eficacia y seguridad, costos, accesibilidad y calidad garantizada"
+            },
+            {
+              "nombre": "OMS, 24.ª Lista Modelo de Medicamentos Esenciales, 2025",
+              "url": "https://www.who.int/publications/i/item/B09474",
+              "aplicacion": "Lista orientadora internacional, adaptada según necesidades nacionales"
+            },
+            {
+              "nombre": "MINSA, RM N.° 633-2023-MINSA",
+              "url": "https://www.gob.pe/institucion/minsa/normas-legales/4387054-633-2023-minsa",
+              "aplicacion": "Aprueba el Petitorio Nacional Único de Medicamentos Esenciales para el Sector Salud"
+            }
+          ],
+          "mnemotecnia": "ESENCIALES = NECESIDAD PRIORITARIA + EFICACIA + SEGURIDAD + COSTO-EFECTIVIDAD + ACCESO.",
+          "trampas": [
+            "No asumir que todos los antibióticos son esenciales por pertenecer a una clase.",
+            "No confundir lista OMS internacional con petitorio nacional PNUME de Perú.",
+            "Que sea esencial no permite automedicación ni receta automática: debe evaluarse indicación.",
+            "Costo-efectividad no significa elegir siempre el fármaco de menor precio unitario.",
+            "Disponibilidad y precio asequible son objetivos de política, no prueba de stock permanente en cada establecimiento."
+          ],
+          "perla": "71: SEGURIDAD + EFICACIA + COSTO-EFECTIVIDAD + NECESIDADES PRIORITARIAS → MEDICAMENTOS ESENCIALES (PNUME).",
+          "repaso_activo": [
+            "¿Qué define esencialidad? — Responder a necesidades prioritarias con eficacia, seguridad y costo-efectividad.",
+            "¿Qué significa PNUME? — Petitorio Nacional Único de Medicamentos Esenciales.",
+            "¿Cuál RM aprobó el PNUME 2023? — RM N.° 633-2023-MINSA.",
+            "¿La lista OMS es igual al PNUME? — No, la OMS orienta la selección nacional."
+          ],
+          "refuerzo": [
+            {
+              "enunciado": "Un comité técnico elige, entre opciones terapéuticas comparables, medicamentos que cubren patologías prioritarias y ofrecen seguridad, eficacia y buena costo-efectividad. ¿Qué criterio aplica?",
+              "alternativas": {
+                "A": "Selección de medicamentos por promoción comercial",
+                "B": "Exclusión de productos con formas pediátricas",
+                "C": "Clasificación obligatoria de medicamentos genéricos",
+                "D": "Priorización exclusiva de marcas reconocidas",
+                "E": "Selección de medicamentos esenciales"
+              },
+              "respuesta": "E",
+              "explicacion": "La selección de esenciales prioriza necesidades poblacionales, eficacia, seguridad y costo-efectividad."
+            },
+            {
+              "enunciado": "Un médico encuentra un medicamento en la Lista Modelo OMS, pero no verifica su indicación ni inclusión nacional. ¿Cuál es la acción más apropiada?",
+              "alternativas": {
+                "A": "Prescribirlo siempre porque figura en la lista OMS",
+                "B": "Verificar indicación clínica y normativa nacional aplicable",
+                "C": "Sustituirlo por cualquier producto del mismo grupo",
+                "D": "Seleccionarlo solo según su precio por tableta",
+                "E": "Indicarlo sin valorar efectos adversos ni interacciones"
+              },
+              "respuesta": "B",
+              "explicacion": "La lista OMS orienta, pero se necesita criterio clínico, regulación y petitorio nacional aplicable."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "number": 72,
+      "code": "ENCAPS26-II P072",
+      "course": "Promoción de salud · instituciones educativas",
+      "topic": "Escuelas saludables: prácticas, entornos y participación comunitaria",
+      "comment": "Clave resaltada en PDF del usuario, todavía no cotejada independientemente con la tabla oficial: A. Saludables. Las escuelas saludables articulan comunidad educativa y personal sanitario para promover estilos de vida y entornos protectores.\n\nRAZONAMIENTO\nEl enunciado describe a docentes, estudiantes y personal del establecimiento trabajando conjuntamente en promoción de hábitos saludables y mejora de calidad de vida. Esa es la estrategia de «instituciones educativas saludables» de la guía técnica MINSA de promoción de salud. La acción no se limita a educación informativa: incluye participación, convivencia y entornos seguros, alimentación, higiene, salud mental, actividad física y coordinación con familias y comunidad. Una escuela puede ser participativa o comprometida, pero esas palabras son atributos genéricos y no la denominación programática solicitada.\n\nDESARROLLO DEL TEMARIO\nEscuela saludable: comunidad educativa que organiza, planifica y desarrolla acciones para mejorar prácticas y entornos y fortalecer capacidades de autocuidado.\n\nActores: directivos, profesores, estudiantes, padres/cuidadores, servicios de salud y actores locales, cada uno con responsabilidades.\n\nLíneas de trabajo: educación para la salud, nutrición saludable, actividad física, higiene, salud bucal, convivencia y salud socioemocional.\n\nEntorno escolar: acceso a agua segura, higiene de manos, servicios sanitarios, seguridad física, alimentación disponible y prevención de violencia.\n\nTrabajo con EESS: sesiones educativas basadas en necesidades, actividades preventivas, referencias oportunas y evaluación de indicadores.\n\nPlanificación: diagnóstico participativo del colegio, metas realistas, cronograma, responsables y seguimiento con resultados observables.\n\nEnfoque de promoción: crear condiciones para decisiones y prácticas saludables, no reducir estrategia a un solo afiche o charla.\n\nAdaptación territorial: en escuelas rurales y bilingües, usar lengua materna pertinente, alimentos locales y participación familiar sin estigmatización.\n\nMonitoreo: comprobar prácticas adoptadas y condiciones del entorno, no solo número de talleres ejecutados.\n\nANÁLISIS DE ALTERNATIVAS\nA. Correcta: institución educativa saludable es la estrategia que articula promoción de estilos y entornos protectores.\nB. Participativa señala una característica deseable, pero no es el nombre técnico pedido para el programa descrito.\nC. Comprometida puede expresar motivación de docentes y familias, sin designar el modelo de promoción de salud.\nD. Concertada alude a coordinación y acuerdos, necesarios pero insuficientes como denominación de esta estrategia.\n\nNORMATIVA Y FUENTES\nMINSA, Guía técnica de gestión de promoción de la salud en instituciones educativas para el desarrollo sostenible, 2011 | https://www.gob.pe/institucion/minsa/informes-publicaciones/321833-guia-tecnica-de-gestion-de-promocion-de-la-salud-en-instituciones-educativas-para-el-desarrollo-sostenible | Participación de docentes, estudiantes y familias para entornos y prácticas saludables\nMINSA, Loncheras nutritivas en escolares, 16 de febrero de 2026 | https://www.gob.pe/institucion/minsa/noticias/1354611-energia-y-salud-en-el-cole-recomendaciones-para-loncheras-nutritivas | Alimentación, agua segura, higiene y actividad física en comunidad escolar\nMINAM SINIA, Guía Técnica de Gestión de Promoción de la Salud en Instituciones Educativas | https://sinia.minam.gob.pe/documentos/guia-tecnica-gestion-promocion-salud-instituciones-educativas | Definición operativa de institución educativa saludable\n\nMNEMOTECNIA\nESCUELA SALUDABLE = APRENDE + PRACTICA + CAMBIA ENTORNOS + INVOLUCRA FAMILIAS.\n\nTRAMPAS\nUna sesión aislada no convierte automáticamente un colegio en saludable.\nPromoción incluye entornos, prácticas y participación, no solo contenidos curriculares.\nEl equipo sanitario acompaña al colegio, pero no reemplaza el liderazgo de comunidad educativa.\nEvaluar resultados reales, no únicamente asistencia a talleres.\n\nPERLA\nCOLEGIO + EESS + estilos de vida + calidad de vida → ESCUELA SALUDABLE.",
+      "pearl": "COLEGIO + EESS + estilos de vida + calidad de vida → ESCUELA SALUDABLE.",
+      "keywords": [
+        "Promoción de salud · instituciones educativas",
+        "Escuelas saludables: prácticas, entornos y participación comunitaria",
+        "ENCAPS 2026-II",
+        "MINSA 276"
+      ],
+      "estadoDesarrollo": "completo",
+      "lesson": {
+        "respuesta_resumida": "A. Saludables. Las escuelas saludables articulan comunidad educativa y personal sanitario para promover estilos de vida y entornos protectores.",
+        "razonamiento": "El enunciado describe a docentes, estudiantes y personal del establecimiento trabajando conjuntamente en promoción de hábitos saludables y mejora de calidad de vida. Esa es la estrategia de «instituciones educativas saludables» de la guía técnica MINSA de promoción de salud. La acción no se limita a educación informativa: incluye participación, convivencia y entornos seguros, alimentación, higiene, salud mental, actividad física y coordinación con familias y comunidad. Una escuela puede ser participativa o comprometida, pero esas palabras son atributos genéricos y no la denominación programática solicitada.",
+        "temario": [
+          "Escuela saludable: comunidad educativa que organiza, planifica y desarrolla acciones para mejorar prácticas y entornos y fortalecer capacidades de autocuidado.",
+          "Actores: directivos, profesores, estudiantes, padres/cuidadores, servicios de salud y actores locales, cada uno con responsabilidades.",
+          "Líneas de trabajo: educación para la salud, nutrición saludable, actividad física, higiene, salud bucal, convivencia y salud socioemocional.",
+          "Entorno escolar: acceso a agua segura, higiene de manos, servicios sanitarios, seguridad física, alimentación disponible y prevención de violencia.",
+          "Trabajo con EESS: sesiones educativas basadas en necesidades, actividades preventivas, referencias oportunas y evaluación de indicadores.",
+          "Planificación: diagnóstico participativo del colegio, metas realistas, cronograma, responsables y seguimiento con resultados observables.",
+          "Enfoque de promoción: crear condiciones para decisiones y prácticas saludables, no reducir estrategia a un solo afiche o charla.",
+          "Adaptación territorial: en escuelas rurales y bilingües, usar lengua materna pertinente, alimentos locales y participación familiar sin estigmatización.",
+          "Monitoreo: comprobar prácticas adoptadas y condiciones del entorno, no solo número de talleres ejecutados."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Correcta: institución educativa saludable es la estrategia que articula promoción de estilos y entornos protectores.",
+          "B": "Participativa señala una característica deseable, pero no es el nombre técnico pedido para el programa descrito.",
+          "C": "Comprometida puede expresar motivación de docentes y familias, sin designar el modelo de promoción de salud.",
+          "D": "Concertada alude a coordinación y acuerdos, necesarios pero insuficientes como denominación de esta estrategia."
+        },
+        "normativa": [
+          "MINSA, Guía técnica de gestión de promoción de la salud en instituciones educativas para el desarrollo sostenible, 2011 | https://www.gob.pe/institucion/minsa/informes-publicaciones/321833-guia-tecnica-de-gestion-de-promocion-de-la-salud-en-instituciones-educativas-para-el-desarrollo-sostenible | Participación de docentes, estudiantes y familias para entornos y prácticas saludables",
+          "MINSA, Loncheras nutritivas en escolares, 16 de febrero de 2026 | https://www.gob.pe/institucion/minsa/noticias/1354611-energia-y-salud-en-el-cole-recomendaciones-para-loncheras-nutritivas | Alimentación, agua segura, higiene y actividad física en comunidad escolar",
+          "MINAM SINIA, Guía Técnica de Gestión de Promoción de la Salud en Instituciones Educativas | https://sinia.minam.gob.pe/documentos/guia-tecnica-gestion-promocion-salud-instituciones-educativas | Definición operativa de institución educativa saludable"
+        ],
+        "mnemotecnia": "ESCUELA SALUDABLE = APRENDE + PRACTICA + CAMBIA ENTORNOS + INVOLUCRA FAMILIAS.",
+        "trampas": [
+          "Una sesión aislada no convierte automáticamente un colegio en saludable.",
+          "Promoción incluye entornos, prácticas y participación, no solo contenidos curriculares.",
+          "El equipo sanitario acompaña al colegio, pero no reemplaza el liderazgo de comunidad educativa.",
+          "Evaluar resultados reales, no únicamente asistencia a talleres."
+        ],
+        "perla": "COLEGIO + EESS + estilos de vida + calidad de vida → ESCUELA SALUDABLE.",
+        "repaso_activo": [
+          "¿Qué actores forman parte de la escuela saludable? — Docentes, alumnos, familias y aliados sanitarios/locales.",
+          "¿Cuál es el componente además de educación? — Entornos que faciliten prácticas saludables.",
+          "¿Basta una charla para cumplir la estrategia? — No, requiere acciones organizadas y sostenidas.",
+          "¿Qué adapta la estrategia al ámbito rural? — Pertinencia cultural, lengua y recursos locales."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Un colegio y su centro de salud crean espacios de lavado de manos, promueven actividad física y acuerdan menús saludables con familias. ¿Qué modelo aplican?",
+            "alternativas": {
+              "A": "Atención exclusivamente hospitalaria",
+              "B": "Escuela saludable con participación comunitaria",
+              "C": "Vigilancia centinela de morbilidad escolar",
+              "D": "Sistema de contratación por objetivos",
+              "E": "Intervención curativa sin prevención"
+            },
+            "respuesta": "B",
+            "explicacion": "Se intervienen hábitos y entornos con actores educativos y sanitarios."
+          },
+          {
+            "enunciado": "Un colegio ha realizado cuatro charlas sobre alimentación, pero mantiene expendio habitual de bebidas azucaradas y no dispone de agua segura. ¿Cuál es la mejora más coherente?",
+            "alternativas": {
+              "A": "Evaluar solo cuántos alumnos asistieron a charlas",
+              "B": "Trasladar toda responsabilidad al docente de aula",
+              "C": "Eliminar actividades familiares del proyecto",
+              "D": "Cambiar condiciones del entorno y evaluar nuevas prácticas",
+              "E": "Cancelar toda coordinación con el establecimiento"
+            },
+            "respuesta": "D",
+            "explicacion": "El enfoque de escuela saludable exige intervenir sobre condiciones que hacen posible el hábito."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Escuelas saludables: prácticas, entornos y participación comunitaria",
+          "eje": "Promoción de salud · instituciones educativas",
+          "confiabilidad": "clave_resaltada_fundamento_concordante",
+          "respuesta_resumida": "A. Saludables. Las escuelas saludables articulan comunidad educativa y personal sanitario para promover estilos de vida y entornos protectores.",
+          "razonamiento": [
+            "El enunciado describe a docentes, estudiantes y personal del establecimiento trabajando conjuntamente en promoción de hábitos saludables y mejora de calidad de vida. Esa es la estrategia de «instituciones educativas saludables» de la guía técnica MINSA de promoción de salud. La acción no se limita a educación informativa: incluye participación, convivencia y entornos seguros, alimentación, higiene, salud mental, actividad física y coordinación con familias y comunidad. Una escuela puede ser participativa o comprometida, pero esas palabras son atributos genéricos y no la denominación programática solicitada."
+          ],
+          "temario": [
+            "Escuela saludable: comunidad educativa que organiza, planifica y desarrolla acciones para mejorar prácticas y entornos y fortalecer capacidades de autocuidado.",
+            "Actores: directivos, profesores, estudiantes, padres/cuidadores, servicios de salud y actores locales, cada uno con responsabilidades.",
+            "Líneas de trabajo: educación para la salud, nutrición saludable, actividad física, higiene, salud bucal, convivencia y salud socioemocional.",
+            "Entorno escolar: acceso a agua segura, higiene de manos, servicios sanitarios, seguridad física, alimentación disponible y prevención de violencia.",
+            "Trabajo con EESS: sesiones educativas basadas en necesidades, actividades preventivas, referencias oportunas y evaluación de indicadores.",
+            "Planificación: diagnóstico participativo del colegio, metas realistas, cronograma, responsables y seguimiento con resultados observables.",
+            "Enfoque de promoción: crear condiciones para decisiones y prácticas saludables, no reducir estrategia a un solo afiche o charla.",
+            "Adaptación territorial: en escuelas rurales y bilingües, usar lengua materna pertinente, alimentos locales y participación familiar sin estigmatización.",
+            "Monitoreo: comprobar prácticas adoptadas y condiciones del entorno, no solo número de talleres ejecutados."
+          ],
+          "distractores": {
+            "A": "Correcta: institución educativa saludable es la estrategia que articula promoción de estilos y entornos protectores.",
+            "B": "Participativa señala una característica deseable, pero no es el nombre técnico pedido para el programa descrito.",
+            "C": "Comprometida puede expresar motivación de docentes y familias, sin designar el modelo de promoción de salud.",
+            "D": "Concertada alude a coordinación y acuerdos, necesarios pero insuficientes como denominación de esta estrategia."
+          },
+          "normativa": [
+            {
+              "nombre": "MINSA, Guía técnica de gestión de promoción de la salud en instituciones educativas para el desarrollo sostenible, 2011",
+              "url": "https://www.gob.pe/institucion/minsa/informes-publicaciones/321833-guia-tecnica-de-gestion-de-promocion-de-la-salud-en-instituciones-educativas-para-el-desarrollo-sostenible",
+              "aplicacion": "Participación de docentes, estudiantes y familias para entornos y prácticas saludables"
+            },
+            {
+              "nombre": "MINSA, Loncheras nutritivas en escolares, 16 de febrero de 2026",
+              "url": "https://www.gob.pe/institucion/minsa/noticias/1354611-energia-y-salud-en-el-cole-recomendaciones-para-loncheras-nutritivas",
+              "aplicacion": "Alimentación, agua segura, higiene y actividad física en comunidad escolar"
+            },
+            {
+              "nombre": "MINAM SINIA, Guía Técnica de Gestión de Promoción de la Salud en Instituciones Educativas",
+              "url": "https://sinia.minam.gob.pe/documentos/guia-tecnica-gestion-promocion-salud-instituciones-educativas",
+              "aplicacion": "Definición operativa de institución educativa saludable"
+            }
+          ],
+          "mnemotecnia": "ESCUELA SALUDABLE = APRENDE + PRACTICA + CAMBIA ENTORNOS + INVOLUCRA FAMILIAS.",
+          "trampas": [
+            "Una sesión aislada no convierte automáticamente un colegio en saludable.",
+            "Promoción incluye entornos, prácticas y participación, no solo contenidos curriculares.",
+            "El equipo sanitario acompaña al colegio, pero no reemplaza el liderazgo de comunidad educativa.",
+            "Evaluar resultados reales, no únicamente asistencia a talleres."
+          ],
+          "perla": "COLEGIO + EESS + estilos de vida + calidad de vida → ESCUELA SALUDABLE.",
+          "repaso_activo": [
+            "¿Qué actores forman parte de la escuela saludable? — Docentes, alumnos, familias y aliados sanitarios/locales.",
+            "¿Cuál es el componente además de educación? — Entornos que faciliten prácticas saludables.",
+            "¿Basta una charla para cumplir la estrategia? — No, requiere acciones organizadas y sostenidas.",
+            "¿Qué adapta la estrategia al ámbito rural? — Pertinencia cultural, lengua y recursos locales."
+          ],
+          "refuerzo": [
+            {
+              "enunciado": "Un colegio y su centro de salud crean espacios de lavado de manos, promueven actividad física y acuerdan menús saludables con familias. ¿Qué modelo aplican?",
+              "alternativas": {
+                "A": "Atención exclusivamente hospitalaria",
+                "B": "Escuela saludable con participación comunitaria",
+                "C": "Vigilancia centinela de morbilidad escolar",
+                "D": "Sistema de contratación por objetivos",
+                "E": "Intervención curativa sin prevención"
+              },
+              "respuesta": "B",
+              "explicacion": "Se intervienen hábitos y entornos con actores educativos y sanitarios."
+            },
+            {
+              "enunciado": "Un colegio ha realizado cuatro charlas sobre alimentación, pero mantiene expendio habitual de bebidas azucaradas y no dispone de agua segura. ¿Cuál es la mejora más coherente?",
+              "alternativas": {
+                "A": "Evaluar solo cuántos alumnos asistieron a charlas",
+                "B": "Trasladar toda responsabilidad al docente de aula",
+                "C": "Eliminar actividades familiares del proyecto",
+                "D": "Cambiar condiciones del entorno y evaluar nuevas prácticas",
+                "E": "Cancelar toda coordinación con el establecimiento"
+              },
+              "respuesta": "D",
+              "explicacion": "El enfoque de escuela saludable exige intervenir sobre condiciones que hacen posible el hábito."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "number": 73,
+      "code": "ENCAPS26-II P073",
+      "course": "Nutrición por curso de vida · familia",
+      "topic": "Comidas compartidas en familia y consejería nutricional",
+      "comment": "Clave resaltada en PDF del usuario, todavía no cotejada independientemente con la tabla oficial: D. Familia. Recomendar, cuando sea posible, compartir las comidas en familia ayuda a modelar hábitos saludables y fortalecer vínculos.\n\nRAZONAMIENTO\nLa pregunta pide completar «hacer lo posible porque las comidas se hagan en...». La opción correcta del cuadernillo es «familia». Compartir comidas en un ambiente respetuoso favorece rutinas, aprendizaje de elección de alimentos, observación del hambre y la saciedad, acompañamiento y comunicación. El MINSA ha destacado en 2026 comer juntos, organizar horarios y evitar pantallas durante las comidas. Aunque el enunciado atribuye la recomendación a OMS, la regla exacta debe contrastarse con el material específico; su base educativa general resulta coherente con orientación familiar saludable. La familia debe entenderse en sentido inclusivo: los cuidadores pueden variar y no deben culpabilizarse hogares sin disponibilidad de compartir siempre las comidas.\n\nDESARROLLO DEL TEMARIO\nConsejería nutricional: diálogo centrado en persona/familia, adaptado al curso de vida, cultura, necesidades y disponibilidad de alimentos.\n\nComer en familia: oportunidad de ofrecer modelos de alimentación, conversación y apoyo; no requiere un formato rígido ni horario idéntico para todos.\n\nResponsabilidad del adulto: facilitar alimentos adecuados y un entorno sin coerción; respetar señales de hambre y saciedad según edad.\n\nPantallas: disminuir televisión y celular durante comidas compartidas puede favorecer atención a la alimentación y comunicación familiar.\n\nRegularidad y variedad: planificar horarios flexibles, combinar alimentos disponibles y adecuados, priorizar preparaciones seguras y agua potable.\n\nInfancia: niños aprenden mediante modelamiento y participación gradual en preparación de alimentos, con higiene y supervisión apropiada.\n\nAdolescencia: reforzar autonomía, alimentación suficiente y diálogo respetuoso sin comentarios estigmatizantes sobre peso o imagen.\n\nPertinencia cultural: incorporar preparaciones tradicionales, alimentos locales, economía y características lingüísticas de cada familia.\n\nEvitar interpretaciones rígidas: si una familia no puede reunirse diariamente por trabajo o circunstancias, orientar alternativas realistas sin culpabilizar.\n\nANÁLISIS DE ALTERNATIVAS\nA. La escuela puede ofrecer comidas y educación nutricional, pero el ítem alude a la práctica cotidiana compartida con cuidadores.\nB. El aire libre puede ser agradable si hay condiciones sanitarias, pero no es requisito ni foco central de la recomendación.\nC. Comer de forma aislada en la habitación no promueve el acompañamiento familiar descrito y puede favorecer distracciones.\nD. Correcta: la práctica indicada es compartir comidas en familia cuando sea posible.\n\nNORMATIVA Y FUENTES\nMINSA, Alimentación saludable de niños durante fines de semana, 12 de abril de 2026 | https://www.gob.pe/institucion/minsa/noticias/1377780-minsa-recomienda-reforzar-la-alimentacion-saludable-en-ninos-durante-los-fines-de-semana | Compartir comidas en familia, establecer horarios, evitar pantallas\nMINSA, Loncheras nutritivas escolares, 16 de febrero de 2026 | https://www.gob.pe/institucion/minsa/noticias/1354611-energia-y-salud-en-el-cole-recomendaciones-para-loncheras-nutritivas | Variación de alimentos, higiene y evitación de ultraprocesados\nOMS, Alimentación sana | https://www.who.int/es/news-room/fact-sheets/detail/healthy-diet | Recomendaciones generales para alimentación saludable; el ítem pregunta por práctica social de comer juntos\n\nMNEMOTECNIA\nALIMENTACIÓN EN FAMILIA = COMPAÑÍA + HORARIOS + VARIEDAD + SIN PANTALLAS.\n\nTRAMPAS\nNo afirmar que todos los hogares pueden compartir cada comida: proponer alternativas flexibles y respetuosas.\nNo confundir el sitio físico (comedor, patio) con el componente social de comer juntos.\nNo forzar al niño a terminar el plato; respetar señales de hambre y saciedad.\nComer en familia complementa, no sustituye, recomendaciones sobre calidad y cantidad de alimentos.\nLa frase del examen dice OMS; evitar atribuir una cita textual sin localizar el documento exacto.\n\nPERLA\nP73: «que las comidas se hagan en…» → FAMILIA; modelamiento y hábitos saludables.",
+      "pearl": "P73: «que las comidas se hagan en…» → FAMILIA; modelamiento y hábitos saludables.",
+      "keywords": [
+        "Nutrición por curso de vida · familia",
+        "Comidas compartidas en familia y consejería nutricional",
+        "ENCAPS 2026-II",
+        "MINSA 276"
+      ],
+      "estadoDesarrollo": "completo",
+      "lesson": {
+        "respuesta_resumida": "D. Familia. Recomendar, cuando sea posible, compartir las comidas en familia ayuda a modelar hábitos saludables y fortalecer vínculos.",
+        "razonamiento": "La pregunta pide completar «hacer lo posible porque las comidas se hagan en...». La opción correcta del cuadernillo es «familia». Compartir comidas en un ambiente respetuoso favorece rutinas, aprendizaje de elección de alimentos, observación del hambre y la saciedad, acompañamiento y comunicación. El MINSA ha destacado en 2026 comer juntos, organizar horarios y evitar pantallas durante las comidas. Aunque el enunciado atribuye la recomendación a OMS, la regla exacta debe contrastarse con el material específico; su base educativa general resulta coherente con orientación familiar saludable. La familia debe entenderse en sentido inclusivo: los cuidadores pueden variar y no deben culpabilizarse hogares sin disponibilidad de compartir siempre las comidas.",
+        "temario": [
+          "Consejería nutricional: diálogo centrado en persona/familia, adaptado al curso de vida, cultura, necesidades y disponibilidad de alimentos.",
+          "Comer en familia: oportunidad de ofrecer modelos de alimentación, conversación y apoyo; no requiere un formato rígido ni horario idéntico para todos.",
+          "Responsabilidad del adulto: facilitar alimentos adecuados y un entorno sin coerción; respetar señales de hambre y saciedad según edad.",
+          "Pantallas: disminuir televisión y celular durante comidas compartidas puede favorecer atención a la alimentación y comunicación familiar.",
+          "Regularidad y variedad: planificar horarios flexibles, combinar alimentos disponibles y adecuados, priorizar preparaciones seguras y agua potable.",
+          "Infancia: niños aprenden mediante modelamiento y participación gradual en preparación de alimentos, con higiene y supervisión apropiada.",
+          "Adolescencia: reforzar autonomía, alimentación suficiente y diálogo respetuoso sin comentarios estigmatizantes sobre peso o imagen.",
+          "Pertinencia cultural: incorporar preparaciones tradicionales, alimentos locales, economía y características lingüísticas de cada familia.",
+          "Evitar interpretaciones rígidas: si una familia no puede reunirse diariamente por trabajo o circunstancias, orientar alternativas realistas sin culpabilizar."
+        ],
+        "por_que_no_las_otras": {
+          "A": "La escuela puede ofrecer comidas y educación nutricional, pero el ítem alude a la práctica cotidiana compartida con cuidadores.",
+          "B": "El aire libre puede ser agradable si hay condiciones sanitarias, pero no es requisito ni foco central de la recomendación.",
+          "C": "Comer de forma aislada en la habitación no promueve el acompañamiento familiar descrito y puede favorecer distracciones.",
+          "D": "Correcta: la práctica indicada es compartir comidas en familia cuando sea posible."
+        },
+        "normativa": [
+          "MINSA, Alimentación saludable de niños durante fines de semana, 12 de abril de 2026 | https://www.gob.pe/institucion/minsa/noticias/1377780-minsa-recomienda-reforzar-la-alimentacion-saludable-en-ninos-durante-los-fines-de-semana | Compartir comidas en familia, establecer horarios, evitar pantallas",
+          "MINSA, Loncheras nutritivas escolares, 16 de febrero de 2026 | https://www.gob.pe/institucion/minsa/noticias/1354611-energia-y-salud-en-el-cole-recomendaciones-para-loncheras-nutritivas | Variación de alimentos, higiene y evitación de ultraprocesados",
+          "OMS, Alimentación sana | https://www.who.int/es/news-room/fact-sheets/detail/healthy-diet | Recomendaciones generales para alimentación saludable; el ítem pregunta por práctica social de comer juntos"
+        ],
+        "mnemotecnia": "ALIMENTACIÓN EN FAMILIA = COMPAÑÍA + HORARIOS + VARIEDAD + SIN PANTALLAS.",
+        "trampas": [
+          "No afirmar que todos los hogares pueden compartir cada comida: proponer alternativas flexibles y respetuosas.",
+          "No confundir el sitio físico (comedor, patio) con el componente social de comer juntos.",
+          "No forzar al niño a terminar el plato; respetar señales de hambre y saciedad.",
+          "Comer en familia complementa, no sustituye, recomendaciones sobre calidad y cantidad de alimentos.",
+          "La frase del examen dice OMS; evitar atribuir una cita textual sin localizar el documento exacto."
+        ],
+        "perla": "P73: «que las comidas se hagan en…» → FAMILIA; modelamiento y hábitos saludables.",
+        "repaso_activo": [
+          "¿Qué responde la pregunta 73? — En familia.",
+          "¿Cuáles son dos hábitos que acompañan comidas compartidas? — Horarios organizados y evitar pantallas.",
+          "¿Qué enfoque requiere consejería nutricional? — Curso de vida, contexto familiar y pertinencia cultural.",
+          "¿Qué hacer si la familia no puede comer junta siempre? — Identificar momentos posibles sin culpas."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "En control nutricional de un escolar, sus cuidadores desean mejorar hábitos con recursos limitados. ¿Qué intervención práctica es más pertinente?",
+            "alternativas": {
+              "A": "Exigir suplementos en reemplazo de comidas principales",
+              "B": "Pedir que el niño coma solo para ganar independencia",
+              "C": "Sugerir comidas compartidas y opciones locales variadas",
+              "D": "Restringir frutas porque contienen azúcares naturales",
+              "E": "Imponer horarios incompatibles con la jornada familiar"
+            },
+            "respuesta": "C",
+            "explicacion": "La recomendación es realista, familiar, culturalmente pertinente y centrada en hábitos sostenibles."
+          },
+          {
+            "enunciado": "Un niño pequeño es obligado a terminar platos grandes y recibe amenazas cuando expresa saciedad. ¿Qué orientación corresponde?",
+            "alternativas": {
+              "A": "Respetar señales de hambre y saciedad en entorno de apoyo",
+              "B": "Mantener coerción para asegurar disciplina alimentaria",
+              "C": "Restringir agua durante todas las comidas",
+              "D": "Utilizar pantallas para distraerlo y que termine siempre",
+              "E": "Aumentar tamaño de porciones sin valorar su crecimiento"
+            },
+            "respuesta": "A",
+            "explicacion": "La consejería busca ambiente respetuoso y evitar presión alimentaria innecesaria."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Comidas compartidas en familia y consejería nutricional",
+          "eje": "Nutrición por curso de vida · familia",
+          "confiabilidad": "clave_resaltada_fundamento_concordante",
+          "respuesta_resumida": "D. Familia. Recomendar, cuando sea posible, compartir las comidas en familia ayuda a modelar hábitos saludables y fortalecer vínculos.",
+          "razonamiento": [
+            "La pregunta pide completar «hacer lo posible porque las comidas se hagan en...». La opción correcta del cuadernillo es «familia». Compartir comidas en un ambiente respetuoso favorece rutinas, aprendizaje de elección de alimentos, observación del hambre y la saciedad, acompañamiento y comunicación. El MINSA ha destacado en 2026 comer juntos, organizar horarios y evitar pantallas durante las comidas. Aunque el enunciado atribuye la recomendación a OMS, la regla exacta debe contrastarse con el material específico; su base educativa general resulta coherente con orientación familiar saludable. La familia debe entenderse en sentido inclusivo: los cuidadores pueden variar y no deben culpabilizarse hogares sin disponibilidad de compartir siempre las comidas."
+          ],
+          "temario": [
+            "Consejería nutricional: diálogo centrado en persona/familia, adaptado al curso de vida, cultura, necesidades y disponibilidad de alimentos.",
+            "Comer en familia: oportunidad de ofrecer modelos de alimentación, conversación y apoyo; no requiere un formato rígido ni horario idéntico para todos.",
+            "Responsabilidad del adulto: facilitar alimentos adecuados y un entorno sin coerción; respetar señales de hambre y saciedad según edad.",
+            "Pantallas: disminuir televisión y celular durante comidas compartidas puede favorecer atención a la alimentación y comunicación familiar.",
+            "Regularidad y variedad: planificar horarios flexibles, combinar alimentos disponibles y adecuados, priorizar preparaciones seguras y agua potable.",
+            "Infancia: niños aprenden mediante modelamiento y participación gradual en preparación de alimentos, con higiene y supervisión apropiada.",
+            "Adolescencia: reforzar autonomía, alimentación suficiente y diálogo respetuoso sin comentarios estigmatizantes sobre peso o imagen.",
+            "Pertinencia cultural: incorporar preparaciones tradicionales, alimentos locales, economía y características lingüísticas de cada familia.",
+            "Evitar interpretaciones rígidas: si una familia no puede reunirse diariamente por trabajo o circunstancias, orientar alternativas realistas sin culpabilizar."
+          ],
+          "distractores": {
+            "A": "La escuela puede ofrecer comidas y educación nutricional, pero el ítem alude a la práctica cotidiana compartida con cuidadores.",
+            "B": "El aire libre puede ser agradable si hay condiciones sanitarias, pero no es requisito ni foco central de la recomendación.",
+            "C": "Comer de forma aislada en la habitación no promueve el acompañamiento familiar descrito y puede favorecer distracciones.",
+            "D": "Correcta: la práctica indicada es compartir comidas en familia cuando sea posible."
+          },
+          "normativa": [
+            {
+              "nombre": "MINSA, Alimentación saludable de niños durante fines de semana, 12 de abril de 2026",
+              "url": "https://www.gob.pe/institucion/minsa/noticias/1377780-minsa-recomienda-reforzar-la-alimentacion-saludable-en-ninos-durante-los-fines-de-semana",
+              "aplicacion": "Compartir comidas en familia, establecer horarios, evitar pantallas"
+            },
+            {
+              "nombre": "MINSA, Loncheras nutritivas escolares, 16 de febrero de 2026",
+              "url": "https://www.gob.pe/institucion/minsa/noticias/1354611-energia-y-salud-en-el-cole-recomendaciones-para-loncheras-nutritivas",
+              "aplicacion": "Variación de alimentos, higiene y evitación de ultraprocesados"
+            },
+            {
+              "nombre": "OMS, Alimentación sana",
+              "url": "https://www.who.int/es/news-room/fact-sheets/detail/healthy-diet",
+              "aplicacion": "Recomendaciones generales para alimentación saludable; el ítem pregunta por práctica social de comer juntos"
+            }
+          ],
+          "mnemotecnia": "ALIMENTACIÓN EN FAMILIA = COMPAÑÍA + HORARIOS + VARIEDAD + SIN PANTALLAS.",
+          "trampas": [
+            "No afirmar que todos los hogares pueden compartir cada comida: proponer alternativas flexibles y respetuosas.",
+            "No confundir el sitio físico (comedor, patio) con el componente social de comer juntos.",
+            "No forzar al niño a terminar el plato; respetar señales de hambre y saciedad.",
+            "Comer en familia complementa, no sustituye, recomendaciones sobre calidad y cantidad de alimentos.",
+            "La frase del examen dice OMS; evitar atribuir una cita textual sin localizar el documento exacto."
+          ],
+          "perla": "P73: «que las comidas se hagan en…» → FAMILIA; modelamiento y hábitos saludables.",
+          "repaso_activo": [
+            "¿Qué responde la pregunta 73? — En familia.",
+            "¿Cuáles son dos hábitos que acompañan comidas compartidas? — Horarios organizados y evitar pantallas.",
+            "¿Qué enfoque requiere consejería nutricional? — Curso de vida, contexto familiar y pertinencia cultural.",
+            "¿Qué hacer si la familia no puede comer junta siempre? — Identificar momentos posibles sin culpas."
+          ],
+          "refuerzo": [
+            {
+              "enunciado": "En control nutricional de un escolar, sus cuidadores desean mejorar hábitos con recursos limitados. ¿Qué intervención práctica es más pertinente?",
+              "alternativas": {
+                "A": "Exigir suplementos en reemplazo de comidas principales",
+                "B": "Pedir que el niño coma solo para ganar independencia",
+                "C": "Sugerir comidas compartidas y opciones locales variadas",
+                "D": "Restringir frutas porque contienen azúcares naturales",
+                "E": "Imponer horarios incompatibles con la jornada familiar"
+              },
+              "respuesta": "C",
+              "explicacion": "La recomendación es realista, familiar, culturalmente pertinente y centrada en hábitos sostenibles."
+            },
+            {
+              "enunciado": "Un niño pequeño es obligado a terminar platos grandes y recibe amenazas cuando expresa saciedad. ¿Qué orientación corresponde?",
+              "alternativas": {
+                "A": "Respetar señales de hambre y saciedad en entorno de apoyo",
+                "B": "Mantener coerción para asegurar disciplina alimentaria",
+                "C": "Restringir agua durante todas las comidas",
+                "D": "Utilizar pantallas para distraerlo y que termine siempre",
+                "E": "Aumentar tamaño de porciones sin valorar su crecimiento"
+              },
+              "respuesta": "A",
+              "explicacion": "La consejería busca ambiente respetuoso y evitar presión alimentaria innecesaria."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "number": 74,
+      "code": "ENCAPS26-II P074",
+      "course": "Salud intercultural · pueblos indígenas",
+      "topic": "Interculturalidad y atención con pertinencia cultural en el primer nivel",
+      "comment": "Clave resaltada en PDF del usuario, todavía no cotejada independientemente con la tabla oficial: C. Interculturalidad. El equipo de salud necesita competencias para dialogar con diversas cosmovisiones, lenguas y prácticas, respetando derechos y seguridad clínica.\n\nRAZONAMIENTO\nLa pregunta señala que pueblos indígenas solicitan atención ajustada a sus patrones culturales. La formación básica apropiada es interculturalidad: reconocer diversidad cultural y lingüística, evitar discriminación y construir diálogo horizontal entre personal y usuarios. En Perú, la Política Sectorial de Salud Intercultural fue aprobada por DS 016-2016-SA y existen orientaciones para pertinencia cultural del primer nivel. En 2026 la ENSAP ofrece formación orientada a derechos, diversidad y servicios pertinentes. Ello no significa aceptar cualquier intervención insegura ni abandonar el consentimiento informado: se debe negociar de modo respetuoso, explicar riesgos y medidas, facilitar intérpretes y articular prácticas inocuas cuando sean compatibles con atención basada en evidencia.\n\nDESARROLLO DEL TEMARIO\nInterculturalidad: interacción respetuosa entre culturas con equidad, reconocimiento y comunicación bidireccional en la atención sanitaria.\n\nPertinencia cultural: adaptar prestación a valores, lengua, prácticas, organización social y expectativas sin sacrificar seguridad y derechos de la persona.\n\nDS 016-2016-SA: Política Sectorial de Salud Intercultural como marco regulador nacional para inclusión y oportunidades iguales.\n\nPrimer nivel: instructivo MINSA 2022 orienta adaptación cultural y fortalecimiento de competencias del personal con población andina, amazónica y afroperuana.\n\nCompetencias prácticas: preguntar idioma preferido, utilizar intérprete o agente comunitario capacitado, verificar comprensión y ofrecer información completa para decisiones informadas.\n\nCosmovisiones y prácticas: explorar significados de enfermedad, tratamientos tradicionales, medicina occidental y expectativas; identificar interacciones con medicamentos y signos de alarma.\n\nRespeto sin relativismo clínico: no discriminar prácticas culturales, pero advertir daños demostrables, mantener medidas eficaces y buscar acuerdos seguros.\n\nParticipación de la comunidad: líderes y organizaciones pueden facilitar identificación de barreras y diseño del servicio sin sustituir autonomía individual.\n\nFormación ENSAP 2026: derechos humanos, diversidad cultural y pertinencia de servicios, en marco de formación en salud pública.\n\nEjemplo en Puno: atención quechua o aimara con explicación comprensible, adaptación horaria pertinente y comunicación que permita libre consentimiento.\n\nANÁLISIS DE ALTERNATIVAS\nA. Atención primaria es marco amplio de primer contacto y cuidado integral; la necesidad específica de reconocer patrones culturales es interculturalidad.\nB. Salud pública aporta enfoque colectivo, pero no identifica la competencia cultural particular exigida.\nC. Correcta: interculturalidad permite adecuación respetuosa de comunicación y prestación a las culturas de los pueblos indígenas.\nD. Salud comunitaria enfatiza territorio y participación; puede complementarse con interculturalidad, pero no la reemplaza.\n\nNORMATIVA Y FUENTES\nDS N.° 016-2016-SA, Política Sectorial de Salud Intercultural | https://www.gob.pe/institucion/minsa/normas-legales/192483-016-2016-sa | Inclusión, respeto intercultural y derecho a la salud en todo el país\nMINSA, Orientaciones para pertinencia cultural en primer nivel, 2022 | https://www.gob.pe/institucion/minsa/informes-publicaciones/3310525-instructivo-orientaciones-para-la-implementacion-de-la-directiva-administrativa-para-la-adecuacion-de-servicios-de-salud-con-pertinencia-cultural-en-el-primer-nivel-de-atencion | Adecuación de prácticas y fortalecimiento de competencias del personal\nENSAP, Curso Salud Intercultural 2026 | https://www.gob.pe/institucion/ensap/noticias/1378817-ensap-lanza-ambicioso-programa-para-transformar-la-atencion-medica-con-enfoque-intercultural | Formación en derechos, diversidad cultural y servicios pertinentes\nMINSA, RM N.° 726-2025-MINSA, Directiva 384 para segundo nivel | https://www.gob.pe/institucion/minsa/noticias/1286371-minsa-hospitales-tambien-calificaran-para-servicios-de-salud-con-pertinencia-cultural | Extensión de servicios culturalmente pertinentes a hospitales\n\nMNEMOTECNIA\nINTERCULTURALIDAD = ESCUCHAR CULTURA + HABLAR LENGUA + EXPLICAR RIESGOS + RESPETAR DERECHOS.\n\nTRAMPAS\nInterculturalidad no se limita a traducir palabras: abarca trato, relaciones y adecuación del servicio.\nRespetar cultura no implica sustituir una terapia eficaz por una intervención dañina.\nSalud comunitaria y APS no son sinónimos de pertinencia cultural, aunque se integran.\nPreguntar preferencia cultural no equivale a inferirla por apariencia, apellido o lugar de origen.\nLa comunicación comprensible es requisito para ejercer autonomía y consentimiento válido.\n\nPERLA\nP74: patrones culturales de pueblos indígenas + atención pertinente → INTERCULTURALIDAD (DS 016-2016-SA).",
+      "pearl": "P74: patrones culturales de pueblos indígenas + atención pertinente → INTERCULTURALIDAD (DS 016-2016-SA).",
+      "keywords": [
+        "Salud intercultural · pueblos indígenas",
+        "Interculturalidad y atención con pertinencia cultural en el primer nivel",
+        "ENCAPS 2026-II",
+        "MINSA 276"
+      ],
+      "estadoDesarrollo": "completo",
+      "lesson": {
+        "respuesta_resumida": "C. Interculturalidad. El equipo de salud necesita competencias para dialogar con diversas cosmovisiones, lenguas y prácticas, respetando derechos y seguridad clínica.",
+        "razonamiento": "La pregunta señala que pueblos indígenas solicitan atención ajustada a sus patrones culturales. La formación básica apropiada es interculturalidad: reconocer diversidad cultural y lingüística, evitar discriminación y construir diálogo horizontal entre personal y usuarios. En Perú, la Política Sectorial de Salud Intercultural fue aprobada por DS 016-2016-SA y existen orientaciones para pertinencia cultural del primer nivel. En 2026 la ENSAP ofrece formación orientada a derechos, diversidad y servicios pertinentes. Ello no significa aceptar cualquier intervención insegura ni abandonar el consentimiento informado: se debe negociar de modo respetuoso, explicar riesgos y medidas, facilitar intérpretes y articular prácticas inocuas cuando sean compatibles con atención basada en evidencia.",
+        "temario": [
+          "Interculturalidad: interacción respetuosa entre culturas con equidad, reconocimiento y comunicación bidireccional en la atención sanitaria.",
+          "Pertinencia cultural: adaptar prestación a valores, lengua, prácticas, organización social y expectativas sin sacrificar seguridad y derechos de la persona.",
+          "DS 016-2016-SA: Política Sectorial de Salud Intercultural como marco regulador nacional para inclusión y oportunidades iguales.",
+          "Primer nivel: instructivo MINSA 2022 orienta adaptación cultural y fortalecimiento de competencias del personal con población andina, amazónica y afroperuana.",
+          "Competencias prácticas: preguntar idioma preferido, utilizar intérprete o agente comunitario capacitado, verificar comprensión y ofrecer información completa para decisiones informadas.",
+          "Cosmovisiones y prácticas: explorar significados de enfermedad, tratamientos tradicionales, medicina occidental y expectativas; identificar interacciones con medicamentos y signos de alarma.",
+          "Respeto sin relativismo clínico: no discriminar prácticas culturales, pero advertir daños demostrables, mantener medidas eficaces y buscar acuerdos seguros.",
+          "Participación de la comunidad: líderes y organizaciones pueden facilitar identificación de barreras y diseño del servicio sin sustituir autonomía individual.",
+          "Formación ENSAP 2026: derechos humanos, diversidad cultural y pertinencia de servicios, en marco de formación en salud pública.",
+          "Ejemplo en Puno: atención quechua o aimara con explicación comprensible, adaptación horaria pertinente y comunicación que permita libre consentimiento."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Atención primaria es marco amplio de primer contacto y cuidado integral; la necesidad específica de reconocer patrones culturales es interculturalidad.",
+          "B": "Salud pública aporta enfoque colectivo, pero no identifica la competencia cultural particular exigida.",
+          "C": "Correcta: interculturalidad permite adecuación respetuosa de comunicación y prestación a las culturas de los pueblos indígenas.",
+          "D": "Salud comunitaria enfatiza territorio y participación; puede complementarse con interculturalidad, pero no la reemplaza."
+        },
+        "normativa": [
+          "DS N.° 016-2016-SA, Política Sectorial de Salud Intercultural | https://www.gob.pe/institucion/minsa/normas-legales/192483-016-2016-sa | Inclusión, respeto intercultural y derecho a la salud en todo el país",
+          "MINSA, Orientaciones para pertinencia cultural en primer nivel, 2022 | https://www.gob.pe/institucion/minsa/informes-publicaciones/3310525-instructivo-orientaciones-para-la-implementacion-de-la-directiva-administrativa-para-la-adecuacion-de-servicios-de-salud-con-pertinencia-cultural-en-el-primer-nivel-de-atencion | Adecuación de prácticas y fortalecimiento de competencias del personal",
+          "ENSAP, Curso Salud Intercultural 2026 | https://www.gob.pe/institucion/ensap/noticias/1378817-ensap-lanza-ambicioso-programa-para-transformar-la-atencion-medica-con-enfoque-intercultural | Formación en derechos, diversidad cultural y servicios pertinentes",
+          "MINSA, RM N.° 726-2025-MINSA, Directiva 384 para segundo nivel | https://www.gob.pe/institucion/minsa/noticias/1286371-minsa-hospitales-tambien-calificaran-para-servicios-de-salud-con-pertinencia-cultural | Extensión de servicios culturalmente pertinentes a hospitales"
+        ],
+        "mnemotecnia": "INTERCULTURALIDAD = ESCUCHAR CULTURA + HABLAR LENGUA + EXPLICAR RIESGOS + RESPETAR DERECHOS.",
+        "trampas": [
+          "Interculturalidad no se limita a traducir palabras: abarca trato, relaciones y adecuación del servicio.",
+          "Respetar cultura no implica sustituir una terapia eficaz por una intervención dañina.",
+          "Salud comunitaria y APS no son sinónimos de pertinencia cultural, aunque se integran.",
+          "Preguntar preferencia cultural no equivale a inferirla por apariencia, apellido o lugar de origen.",
+          "La comunicación comprensible es requisito para ejercer autonomía y consentimiento válido."
+        ],
+        "perla": "P74: patrones culturales de pueblos indígenas + atención pertinente → INTERCULTURALIDAD (DS 016-2016-SA).",
+        "repaso_activo": [
+          "¿Qué formación requiere el profesional del caso? — Interculturalidad.",
+          "¿Cuál es el marco sectorial? — DS N.° 016-2016-SA.",
+          "¿Qué debe hacer ante barrera lingüística? — Interpretación idónea y verificación de comprensión.",
+          "¿Respetar cultura exige aceptar prácticas inseguras? — No; negociar y explicar riesgos sin discriminación."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Paciente quechuahablante no comprende el consentimiento para un procedimiento. El personal dispone de intérprete capacitado. ¿Qué conducta es correcta?",
+            "alternativas": {
+              "A": "Solicitar firma sin ampliar explicación",
+              "B": "Usar solo el español porque es idioma institucional",
+              "C": "Delegar toda decisión al dirigente comunal",
+              "D": "Cancelar automáticamente cualquier procedimiento",
+              "E": "Brindar explicación con intérprete y verificar comprensión"
+            },
+            "respuesta": "E",
+            "explicacion": "La pertinencia cultural implica información comprensible y consentimiento válido."
+          },
+          {
+            "enunciado": "En una comunidad se propone integrar una práctica tradicional que no sustituye terapias eficaces. ¿Qué enfoque de relación es más adecuado?",
+            "alternativas": {
+              "A": "Excluir toda participación comunitaria del diseño",
+              "B": "Dialogar y valorar seguridad, evidencia y preferencias",
+              "C": "Aceptar cualquier práctica sin evaluación de riesgos",
+              "D": "Imponer un enfoque único sin informar a pacientes",
+              "E": "Sustituir la decisión del paciente por la del personal"
+            },
+            "respuesta": "B",
+            "explicacion": "La interculturalidad requiere diálogo respetuoso, protección clínica y autonomía."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Interculturalidad y atención con pertinencia cultural en el primer nivel",
+          "eje": "Salud intercultural · pueblos indígenas",
+          "confiabilidad": "clave_resaltada_fundamento_concordante",
+          "respuesta_resumida": "C. Interculturalidad. El equipo de salud necesita competencias para dialogar con diversas cosmovisiones, lenguas y prácticas, respetando derechos y seguridad clínica.",
+          "razonamiento": [
+            "La pregunta señala que pueblos indígenas solicitan atención ajustada a sus patrones culturales. La formación básica apropiada es interculturalidad: reconocer diversidad cultural y lingüística, evitar discriminación y construir diálogo horizontal entre personal y usuarios. En Perú, la Política Sectorial de Salud Intercultural fue aprobada por DS 016-2016-SA y existen orientaciones para pertinencia cultural del primer nivel. En 2026 la ENSAP ofrece formación orientada a derechos, diversidad y servicios pertinentes. Ello no significa aceptar cualquier intervención insegura ni abandonar el consentimiento informado: se debe negociar de modo respetuoso, explicar riesgos y medidas, facilitar intérpretes y articular prácticas inocuas cuando sean compatibles con atención basada en evidencia."
+          ],
+          "temario": [
+            "Interculturalidad: interacción respetuosa entre culturas con equidad, reconocimiento y comunicación bidireccional en la atención sanitaria.",
+            "Pertinencia cultural: adaptar prestación a valores, lengua, prácticas, organización social y expectativas sin sacrificar seguridad y derechos de la persona.",
+            "DS 016-2016-SA: Política Sectorial de Salud Intercultural como marco regulador nacional para inclusión y oportunidades iguales.",
+            "Primer nivel: instructivo MINSA 2022 orienta adaptación cultural y fortalecimiento de competencias del personal con población andina, amazónica y afroperuana.",
+            "Competencias prácticas: preguntar idioma preferido, utilizar intérprete o agente comunitario capacitado, verificar comprensión y ofrecer información completa para decisiones informadas.",
+            "Cosmovisiones y prácticas: explorar significados de enfermedad, tratamientos tradicionales, medicina occidental y expectativas; identificar interacciones con medicamentos y signos de alarma.",
+            "Respeto sin relativismo clínico: no discriminar prácticas culturales, pero advertir daños demostrables, mantener medidas eficaces y buscar acuerdos seguros.",
+            "Participación de la comunidad: líderes y organizaciones pueden facilitar identificación de barreras y diseño del servicio sin sustituir autonomía individual.",
+            "Formación ENSAP 2026: derechos humanos, diversidad cultural y pertinencia de servicios, en marco de formación en salud pública.",
+            "Ejemplo en Puno: atención quechua o aimara con explicación comprensible, adaptación horaria pertinente y comunicación que permita libre consentimiento."
+          ],
+          "distractores": {
+            "A": "Atención primaria es marco amplio de primer contacto y cuidado integral; la necesidad específica de reconocer patrones culturales es interculturalidad.",
+            "B": "Salud pública aporta enfoque colectivo, pero no identifica la competencia cultural particular exigida.",
+            "C": "Correcta: interculturalidad permite adecuación respetuosa de comunicación y prestación a las culturas de los pueblos indígenas.",
+            "D": "Salud comunitaria enfatiza territorio y participación; puede complementarse con interculturalidad, pero no la reemplaza."
+          },
+          "normativa": [
+            {
+              "nombre": "DS N.° 016-2016-SA, Política Sectorial de Salud Intercultural",
+              "url": "https://www.gob.pe/institucion/minsa/normas-legales/192483-016-2016-sa",
+              "aplicacion": "Inclusión, respeto intercultural y derecho a la salud en todo el país"
+            },
+            {
+              "nombre": "MINSA, Orientaciones para pertinencia cultural en primer nivel, 2022",
+              "url": "https://www.gob.pe/institucion/minsa/informes-publicaciones/3310525-instructivo-orientaciones-para-la-implementacion-de-la-directiva-administrativa-para-la-adecuacion-de-servicios-de-salud-con-pertinencia-cultural-en-el-primer-nivel-de-atencion",
+              "aplicacion": "Adecuación de prácticas y fortalecimiento de competencias del personal"
+            },
+            {
+              "nombre": "ENSAP, Curso Salud Intercultural 2026",
+              "url": "https://www.gob.pe/institucion/ensap/noticias/1378817-ensap-lanza-ambicioso-programa-para-transformar-la-atencion-medica-con-enfoque-intercultural",
+              "aplicacion": "Formación en derechos, diversidad cultural y servicios pertinentes"
+            },
+            {
+              "nombre": "MINSA, RM N.° 726-2025-MINSA, Directiva 384 para segundo nivel",
+              "url": "https://www.gob.pe/institucion/minsa/noticias/1286371-minsa-hospitales-tambien-calificaran-para-servicios-de-salud-con-pertinencia-cultural",
+              "aplicacion": "Extensión de servicios culturalmente pertinentes a hospitales"
+            }
+          ],
+          "mnemotecnia": "INTERCULTURALIDAD = ESCUCHAR CULTURA + HABLAR LENGUA + EXPLICAR RIESGOS + RESPETAR DERECHOS.",
+          "trampas": [
+            "Interculturalidad no se limita a traducir palabras: abarca trato, relaciones y adecuación del servicio.",
+            "Respetar cultura no implica sustituir una terapia eficaz por una intervención dañina.",
+            "Salud comunitaria y APS no son sinónimos de pertinencia cultural, aunque se integran.",
+            "Preguntar preferencia cultural no equivale a inferirla por apariencia, apellido o lugar de origen.",
+            "La comunicación comprensible es requisito para ejercer autonomía y consentimiento válido."
+          ],
+          "perla": "P74: patrones culturales de pueblos indígenas + atención pertinente → INTERCULTURALIDAD (DS 016-2016-SA).",
+          "repaso_activo": [
+            "¿Qué formación requiere el profesional del caso? — Interculturalidad.",
+            "¿Cuál es el marco sectorial? — DS N.° 016-2016-SA.",
+            "¿Qué debe hacer ante barrera lingüística? — Interpretación idónea y verificación de comprensión.",
+            "¿Respetar cultura exige aceptar prácticas inseguras? — No; negociar y explicar riesgos sin discriminación."
+          ],
+          "refuerzo": [
+            {
+              "enunciado": "Paciente quechuahablante no comprende el consentimiento para un procedimiento. El personal dispone de intérprete capacitado. ¿Qué conducta es correcta?",
+              "alternativas": {
+                "A": "Solicitar firma sin ampliar explicación",
+                "B": "Usar solo el español porque es idioma institucional",
+                "C": "Delegar toda decisión al dirigente comunal",
+                "D": "Cancelar automáticamente cualquier procedimiento",
+                "E": "Brindar explicación con intérprete y verificar comprensión"
+              },
+              "respuesta": "E",
+              "explicacion": "La pertinencia cultural implica información comprensible y consentimiento válido."
+            },
+            {
+              "enunciado": "En una comunidad se propone integrar una práctica tradicional que no sustituye terapias eficaces. ¿Qué enfoque de relación es más adecuado?",
+              "alternativas": {
+                "A": "Excluir toda participación comunitaria del diseño",
+                "B": "Dialogar y valorar seguridad, evidencia y preferencias",
+                "C": "Aceptar cualquier práctica sin evaluación de riesgos",
+                "D": "Imponer un enfoque único sin informar a pacientes",
+                "E": "Sustituir la decisión del paciente por la del personal"
+              },
+              "respuesta": "B",
+              "explicacion": "La interculturalidad requiere diálogo respetuoso, protección clínica y autonomía."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "number": 75,
+      "code": "ENCAPS26-II P075",
+      "course": "Metodología de investigación · informe científico",
+      "topic": "Marco teórico y conceptual: antecedentes, teorías y conceptos de variables",
+      "comment": "Clave resaltada en PDF del usuario, todavía no cotejada independientemente con la tabla oficial: B. Marco teórico y conceptual. Allí se explican antecedentes, teorías y conceptos de las variables y del objeto investigado, con postura argumentada del investigador.\n\nRAZONAMIENTO\nEl enunciado pide la sección del informe que define y conceptualiza variables y presenta un esquema interpretativo del objeto de estudio. Esa función corresponde al marco teórico y conceptual: sintetiza conocimiento existente, principales modelos, definiciones y relaciones propuestas. Debe fundamentarse con fuentes, no en opiniones sin respaldo. Los objetivos indican qué se busca, materiales y métodos detallan cómo se midió y estudió, y resultados/discusión presentan lo encontrado y su interpretación frente a literatura. Matiz importante: la definición OPERACIONAL de variables (indicadores, escalas, instrumentos) se ubica preferentemente en el apartado metodológico, aunque el significado teórico y conceptos estén en el marco.\n\nDESARROLLO DEL TEMARIO\nMarco teórico: conjunto organizado de teorías, antecedentes y evidencia pertinente para comprender el problema y orientar las preguntas e hipótesis.\n\nMarco conceptual: definiciones clave, relaciones entre constructos y delimitación de términos utilizados para evitar ambigüedad.\n\nAntecedentes: trabajos previos de calidad y pertinencia que muestran qué se sabe, brechas y contradicciones; analizarlos críticamente, no enumerar sin síntesis.\n\nVariables: características que pueden tomar valores; por ejemplo, hemoglobina, adherencia, condición socioeconómica o estado nutricional.\n\nDefinición conceptual: sentido de una variable o constructo con apoyo teórico; la literatura discute ambigüedades del término y recomienda precisión.\n\nDefinición operacional: indicadores, unidades, escalas, herramientas y reglas para observar o medir; suele detallarse en metodología.\n\nPostura del investigador: selección justificada de modelos o teorías, explicando cómo enmarcan el problema; no es licencia para afirmar sin evidencias.\n\nObjetivos general y específicos: expresan resultados de conocimiento buscados; no sustituyen desarrollo teórico.\n\nMateriales y métodos: población, diseño, muestreo, procedimientos, mediciones, control de sesgo y plan de análisis.\n\nResultados y discusión: reportar hallazgos, después compararlos críticamente con evidencia e hipótesis, reconociendo limitaciones.\n\nCoherencia del informe: conceptos e hipótesis deben guiar operacionalización y métodos; no mezclar resultados propios en el marco teórico.\n\nANÁLISIS DE ALTERNATIVAS\nA. Resultados y discusión comunican hallazgos e interpretan lo observado tras el estudio; no son la sección de definición conceptual del objeto.\nB. Correcta: el marco teórico y conceptual estructura antecedentes, teorías y significados de las variables.\nC. Objetivos general y específicos expresan fines del estudio, pero no desarrollan por sí mismos las bases conceptuales.\nD. Materiales y métodos explican diseño, población, procedimientos y definiciones operativas, no sustituyen la discusión de conceptos y teorías.\n\nNORMATIVA Y FUENTES\nRevista científica peruana, La variable, 2021 | https://www.scielo.org.pe/scielo.php?pid=S2227-47312021000100016&script=sci_arttext | Diferencia entre bases conceptuales, definiciones y operacionalización de variables\nUniversidad Nacional Autónoma de Huanta, Marco teórico en una investigación científica, 2022 | https://aldia.unah.edu.pe/?p=5755 | Bases teóricas, definiciones y antecedentes para comprender el objeto de estudio\n\nMNEMOTECNIA\nMARCO = QUÉ SIGNIFICA / POR QUÉ IMPORTA; MÉTODO = CÓMO MIDO; RESULTADOS = QUÉ ENCONTRÉ.\n\nTRAMPAS\nNo confundir explicación teórica de variable con indicador operativo e instrumento para medirla.\nUna postura teórica debe justificarse con evidencia y fuentes, no ser opinión personal libre.\nLos objetivos no reemplazan el marco teórico.\nResultados no son lugar para introducir conceptos fundamentales sin haberlos delimitado antes.\n\nPERLA\nP75: DEFINICIÓN + CONCEPTUALIZACIÓN de variables → MARCO TEÓRICO Y CONCEPTUAL; operacionalización → MÉTODOS.",
+      "pearl": "P75: DEFINICIÓN + CONCEPTUALIZACIÓN de variables → MARCO TEÓRICO Y CONCEPTUAL; operacionalización → MÉTODOS.",
+      "keywords": [
+        "Metodología de investigación · informe científico",
+        "Marco teórico y conceptual: antecedentes, teorías y conceptos de variables",
+        "ENCAPS 2026-II",
+        "MINSA 276"
+      ],
+      "estadoDesarrollo": "completo",
+      "lesson": {
+        "respuesta_resumida": "B. Marco teórico y conceptual. Allí se explican antecedentes, teorías y conceptos de las variables y del objeto investigado, con postura argumentada del investigador.",
+        "razonamiento": "El enunciado pide la sección del informe que define y conceptualiza variables y presenta un esquema interpretativo del objeto de estudio. Esa función corresponde al marco teórico y conceptual: sintetiza conocimiento existente, principales modelos, definiciones y relaciones propuestas. Debe fundamentarse con fuentes, no en opiniones sin respaldo. Los objetivos indican qué se busca, materiales y métodos detallan cómo se midió y estudió, y resultados/discusión presentan lo encontrado y su interpretación frente a literatura. Matiz importante: la definición OPERACIONAL de variables (indicadores, escalas, instrumentos) se ubica preferentemente en el apartado metodológico, aunque el significado teórico y conceptos estén en el marco.",
+        "temario": [
+          "Marco teórico: conjunto organizado de teorías, antecedentes y evidencia pertinente para comprender el problema y orientar las preguntas e hipótesis.",
+          "Marco conceptual: definiciones clave, relaciones entre constructos y delimitación de términos utilizados para evitar ambigüedad.",
+          "Antecedentes: trabajos previos de calidad y pertinencia que muestran qué se sabe, brechas y contradicciones; analizarlos críticamente, no enumerar sin síntesis.",
+          "Variables: características que pueden tomar valores; por ejemplo, hemoglobina, adherencia, condición socioeconómica o estado nutricional.",
+          "Definición conceptual: sentido de una variable o constructo con apoyo teórico; la literatura discute ambigüedades del término y recomienda precisión.",
+          "Definición operacional: indicadores, unidades, escalas, herramientas y reglas para observar o medir; suele detallarse en metodología.",
+          "Postura del investigador: selección justificada de modelos o teorías, explicando cómo enmarcan el problema; no es licencia para afirmar sin evidencias.",
+          "Objetivos general y específicos: expresan resultados de conocimiento buscados; no sustituyen desarrollo teórico.",
+          "Materiales y métodos: población, diseño, muestreo, procedimientos, mediciones, control de sesgo y plan de análisis.",
+          "Resultados y discusión: reportar hallazgos, después compararlos críticamente con evidencia e hipótesis, reconociendo limitaciones.",
+          "Coherencia del informe: conceptos e hipótesis deben guiar operacionalización y métodos; no mezclar resultados propios en el marco teórico."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Resultados y discusión comunican hallazgos e interpretan lo observado tras el estudio; no son la sección de definición conceptual del objeto.",
+          "B": "Correcta: el marco teórico y conceptual estructura antecedentes, teorías y significados de las variables.",
+          "C": "Objetivos general y específicos expresan fines del estudio, pero no desarrollan por sí mismos las bases conceptuales.",
+          "D": "Materiales y métodos explican diseño, población, procedimientos y definiciones operativas, no sustituyen la discusión de conceptos y teorías."
+        },
+        "normativa": [
+          "Revista científica peruana, La variable, 2021 | https://www.scielo.org.pe/scielo.php?pid=S2227-47312021000100016&script=sci_arttext | Diferencia entre bases conceptuales, definiciones y operacionalización de variables",
+          "Universidad Nacional Autónoma de Huanta, Marco teórico en una investigación científica, 2022 | https://aldia.unah.edu.pe/?p=5755 | Bases teóricas, definiciones y antecedentes para comprender el objeto de estudio"
+        ],
+        "mnemotecnia": "MARCO = QUÉ SIGNIFICA / POR QUÉ IMPORTA; MÉTODO = CÓMO MIDO; RESULTADOS = QUÉ ENCONTRÉ.",
+        "trampas": [
+          "No confundir explicación teórica de variable con indicador operativo e instrumento para medirla.",
+          "Una postura teórica debe justificarse con evidencia y fuentes, no ser opinión personal libre.",
+          "Los objetivos no reemplazan el marco teórico.",
+          "Resultados no son lugar para introducir conceptos fundamentales sin haberlos delimitado antes."
+        ],
+        "perla": "P75: DEFINICIÓN + CONCEPTUALIZACIÓN de variables → MARCO TEÓRICO Y CONCEPTUAL; operacionalización → MÉTODOS.",
+        "repaso_activo": [
+          "¿Qué sección conceptualiza el objeto y variables? — Marco teórico y conceptual.",
+          "¿Dónde se describen escalas e instrumentos para medir variables? — Materiales y métodos/operacionalización.",
+          "¿Qué parte comunica hallazgos del estudio? — Resultados.",
+          "¿Qué diferencia objetivos de marco? — Qué busca el estudio versus base teórica que lo fundamenta."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Un informe revisa modelos de adherencia terapéutica y define el concepto de autocuidado antes de presentar el método. ¿Qué sección desarrolla principalmente?",
+            "alternativas": {
+              "A": "Análisis de resultados cuantitativos",
+              "B": "Descripción del diseño muestral",
+              "C": "Marco teórico y conceptual",
+              "D": "Presupuesto del estudio aplicado",
+              "E": "Cronograma de actividades de campo"
+            },
+            "respuesta": "C",
+            "explicacion": "Los antecedentes teóricos y definiciones pertenecen al marco teórico/conceptual."
+          },
+          {
+            "enunciado": "El investigador especifica que adherencia se medirá mediante porcentaje de dosis consumidas durante 30 días y un registro validado. ¿Qué está haciendo?",
+            "alternativas": {
+              "A": "Interpretación de significancia clínica",
+              "B": "Presentación de conclusiones",
+              "C": "Revisión de antecedentes históricos",
+              "D": "Operacionalización metodológica de la variable",
+              "E": "Justificación filosófica de hipótesis"
+            },
+            "respuesta": "D",
+            "explicacion": "La definición de cómo observar y cuantificar adherencia corresponde a operacionalización."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Marco teórico y conceptual: antecedentes, teorías y conceptos de variables",
+          "eje": "Metodología de investigación · informe científico",
+          "confiabilidad": "clave_resaltada_fundamento_concordante",
+          "respuesta_resumida": "B. Marco teórico y conceptual. Allí se explican antecedentes, teorías y conceptos de las variables y del objeto investigado, con postura argumentada del investigador.",
+          "razonamiento": [
+            "El enunciado pide la sección del informe que define y conceptualiza variables y presenta un esquema interpretativo del objeto de estudio. Esa función corresponde al marco teórico y conceptual: sintetiza conocimiento existente, principales modelos, definiciones y relaciones propuestas. Debe fundamentarse con fuentes, no en opiniones sin respaldo. Los objetivos indican qué se busca, materiales y métodos detallan cómo se midió y estudió, y resultados/discusión presentan lo encontrado y su interpretación frente a literatura. Matiz importante: la definición OPERACIONAL de variables (indicadores, escalas, instrumentos) se ubica preferentemente en el apartado metodológico, aunque el significado teórico y conceptos estén en el marco."
+          ],
+          "temario": [
+            "Marco teórico: conjunto organizado de teorías, antecedentes y evidencia pertinente para comprender el problema y orientar las preguntas e hipótesis.",
+            "Marco conceptual: definiciones clave, relaciones entre constructos y delimitación de términos utilizados para evitar ambigüedad.",
+            "Antecedentes: trabajos previos de calidad y pertinencia que muestran qué se sabe, brechas y contradicciones; analizarlos críticamente, no enumerar sin síntesis.",
+            "Variables: características que pueden tomar valores; por ejemplo, hemoglobina, adherencia, condición socioeconómica o estado nutricional.",
+            "Definición conceptual: sentido de una variable o constructo con apoyo teórico; la literatura discute ambigüedades del término y recomienda precisión.",
+            "Definición operacional: indicadores, unidades, escalas, herramientas y reglas para observar o medir; suele detallarse en metodología.",
+            "Postura del investigador: selección justificada de modelos o teorías, explicando cómo enmarcan el problema; no es licencia para afirmar sin evidencias.",
+            "Objetivos general y específicos: expresan resultados de conocimiento buscados; no sustituyen desarrollo teórico.",
+            "Materiales y métodos: población, diseño, muestreo, procedimientos, mediciones, control de sesgo y plan de análisis.",
+            "Resultados y discusión: reportar hallazgos, después compararlos críticamente con evidencia e hipótesis, reconociendo limitaciones.",
+            "Coherencia del informe: conceptos e hipótesis deben guiar operacionalización y métodos; no mezclar resultados propios en el marco teórico."
+          ],
+          "distractores": {
+            "A": "Resultados y discusión comunican hallazgos e interpretan lo observado tras el estudio; no son la sección de definición conceptual del objeto.",
+            "B": "Correcta: el marco teórico y conceptual estructura antecedentes, teorías y significados de las variables.",
+            "C": "Objetivos general y específicos expresan fines del estudio, pero no desarrollan por sí mismos las bases conceptuales.",
+            "D": "Materiales y métodos explican diseño, población, procedimientos y definiciones operativas, no sustituyen la discusión de conceptos y teorías."
+          },
+          "normativa": [
+            {
+              "nombre": "Revista científica peruana, La variable, 2021",
+              "url": "https://www.scielo.org.pe/scielo.php?pid=S2227-47312021000100016&script=sci_arttext",
+              "aplicacion": "Diferencia entre bases conceptuales, definiciones y operacionalización de variables"
+            },
+            {
+              "nombre": "Universidad Nacional Autónoma de Huanta, Marco teórico en una investigación científica, 2022",
+              "url": "https://aldia.unah.edu.pe/?p=5755",
+              "aplicacion": "Bases teóricas, definiciones y antecedentes para comprender el objeto de estudio"
+            }
+          ],
+          "mnemotecnia": "MARCO = QUÉ SIGNIFICA / POR QUÉ IMPORTA; MÉTODO = CÓMO MIDO; RESULTADOS = QUÉ ENCONTRÉ.",
+          "trampas": [
+            "No confundir explicación teórica de variable con indicador operativo e instrumento para medirla.",
+            "Una postura teórica debe justificarse con evidencia y fuentes, no ser opinión personal libre.",
+            "Los objetivos no reemplazan el marco teórico.",
+            "Resultados no son lugar para introducir conceptos fundamentales sin haberlos delimitado antes."
+          ],
+          "perla": "P75: DEFINICIÓN + CONCEPTUALIZACIÓN de variables → MARCO TEÓRICO Y CONCEPTUAL; operacionalización → MÉTODOS.",
+          "repaso_activo": [
+            "¿Qué sección conceptualiza el objeto y variables? — Marco teórico y conceptual.",
+            "¿Dónde se describen escalas e instrumentos para medir variables? — Materiales y métodos/operacionalización.",
+            "¿Qué parte comunica hallazgos del estudio? — Resultados.",
+            "¿Qué diferencia objetivos de marco? — Qué busca el estudio versus base teórica que lo fundamenta."
+          ],
+          "refuerzo": [
+            {
+              "enunciado": "Un informe revisa modelos de adherencia terapéutica y define el concepto de autocuidado antes de presentar el método. ¿Qué sección desarrolla principalmente?",
+              "alternativas": {
+                "A": "Análisis de resultados cuantitativos",
+                "B": "Descripción del diseño muestral",
+                "C": "Marco teórico y conceptual",
+                "D": "Presupuesto del estudio aplicado",
+                "E": "Cronograma de actividades de campo"
+              },
+              "respuesta": "C",
+              "explicacion": "Los antecedentes teóricos y definiciones pertenecen al marco teórico/conceptual."
+            },
+            {
+              "enunciado": "El investigador especifica que adherencia se medirá mediante porcentaje de dosis consumidas durante 30 días y un registro validado. ¿Qué está haciendo?",
+              "alternativas": {
+                "A": "Interpretación de significancia clínica",
+                "B": "Presentación de conclusiones",
+                "C": "Revisión de antecedentes históricos",
+                "D": "Operacionalización metodológica de la variable",
+                "E": "Justificación filosófica de hipótesis"
+              },
+              "respuesta": "D",
+              "explicacion": "La definición de cómo observar y cuantificar adherencia corresponde a operacionalización."
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
