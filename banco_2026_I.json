@@ -3,7 +3,7 @@
   "bankId": "ENCAPS_2026_I",
   "title": "ENCAPS 2026-I · Medicina Humana",
   "source": "Examen SERUMS Medicina 19 abril 2026 · claves resaltadas en PDF del usuario",
-  "questionCount": 30,
+  "questionCount": 35,
   "questions": [
     {
       "number": 1,
@@ -3383,6 +3383,466 @@
         "leccion_extendida": {
           "titulo": "Tamizaje de trastornos mentales comunes mediante SRQ-18",
           "desarrollo": "CLAVE RAZONADA — NO COTEJADA CON TABLA OFICIAL INDEPENDIENTE\nA. Alta probabilidad de sufrir enfermedad mental\n\nRAZONAMIENTO\nEl puntaje 9 de las primeras 18 preguntas del Self-Reporting Questionnaire (SRQ) supera puntos de corte empleados para tamizaje de malestar psíquico y trastornos mentales comunes en contextos de atención primaria. Indica alta probabilidad y necesidad de evaluación clínica, no diagnóstico psiquiátrico definitivo. Los ítems iniciales no establecen por sí solos adicción.\n\nDESARROLLO DEL TEMARIO\n1. SRQ de OMS es instrumento de tamizaje de síntomas mentales en atención primaria.\n2. Primeros 18 ítems se orientan a síntomas neuróticos/comunes, como ansiedad, depresión y manifestaciones somáticas.\n3. La puntuación se calcula sumando respuestas positivas; puntos de corte varían según validación poblacional.\n4. Puntaje 9/18 sugiere probabilidad elevada de problema de salud mental y requiere entrevista completa.\n5. Investigar duración, funcionalidad, contexto familiar, violencia, consumo de sustancias y problemas médicos.\n6. Insomnio y preocupación pueden asociarse a ansiedad, depresión o estrés, sin definir por sí solos trastorno.\n7. Valorar riesgo suicida de forma directa cuando existe indicación.\n8. Derivar según severidad y asegurar seguimiento y apoyo comunitario.\n9. Otras secciones de cuestionarios extendidos pueden abordar síntomas psicóticos, convulsiones o alcohol; no inferir adicción de SRQ-18.\n\nANÁLISIS DE ALTERNATIVAS\nA) Correcta: alta probabilidad de problema de salud mental que precisa valoración.\nB) Un puntaje elevado de tamizaje no autoriza concluir normalidad sin evaluación.\nC) No indica probabilidad baja de ansiedad u otros trastornos comunes.\nD) Los primeros 18 ítems no diagnostican dependencia de sustancias.\n\nNORMATIVA Y FUENTES\nOMS, Self-Reporting Questionnaire (SRQ): herramienta de tamizaje en atención primaria.\nMINSA, documentos de salud mental comunitaria y herramientas de detección en primer nivel.\n\nTRAMPAS\nTamizaje positivo no equivale a diagnóstico confirmado.\nLos puntos de corte deben interpretarse según validación local.\nPreguntar suicidio y deterioro funcional cuando corresponde.\n\nMNEMOTECNIA\nSRQ-18 NUEVE → EVALUAR SALUD MENTAL.\n\nREPASO ACTIVO\nClave interpretada: A. Alta probabilidad de sufrir enfermedad mental\nSRQ-18 NUEVE → EVALUAR SALUD MENTAL.\nTamizaje positivo no equivale a diagnóstico confirmado.\nLos puntos de corte deben interpretarse según validación local.\nPreguntar suicidio y deterioro funcional cuando corresponde.\n\nCASOS DE REFUERZO\n1. SRQ-18 es positivo en centro de salud. ¿Siguiente paso?\nA) Diagnóstico automático de esquizofrenia\nB) Ignorar\nC) Dar alta sin entrevista\nD) Evaluación clínica y riesgo\nE) Informar públicamente\nClave D. Es herramienta de detección, no diagnóstico.\n\n2. ¿Qué sección del SRQ se usa típicamente para síntomas mentales comunes?\nA) Solo registro de vacunas\nB) Primeros 18 ítems\nC) Únicamente ecografía\nD) Prueba de drogas confirmatoria\nE) Solo hematocrito\nClave B. Los ítems iniciales tamizan síntomas frecuentes de malestar psíquico."
+        }
+      }
+    },
+    {
+      "number": 31,
+      "question": "En el PS I-2 de la región central se ha detectado un caso de fiebre amarilla selvática, en este caso la notificación es:",
+      "options": {
+        "A": "Mensual",
+        "B": "Inmediata",
+        "C": "Quincenal",
+        "D": "Semanal"
+      },
+      "correct": "B",
+      "code": "ENCAPS26-I P031",
+      "course": "ENCAPS Medicina 2026-I · Temario desarrollado",
+      "topic": "Vigilancia epidemiológica: notificación inmediata de fiebre amarilla",
+      "comment": "RESPUESTA RAZONADA — PENDIENTE DE COTEJO CON CLAVE OFICIAL INDEPENDIENTE\nB. Inmediata\n\nRAZONAMIENTO COMPLETO\nLa fiebre amarilla es enfermedad potencialmente grave, epidémica y sujeta a respuesta urgente; un caso sospechoso debe comunicarse inmediatamente según los procedimientos de vigilancia, sin esperar confirmación de laboratorio. La notificación temprana permite investigación, búsqueda de casos y contactos epidemiológicos, respuesta vectorial y evaluación de cobertura vacunal.\n\nDESARROLLO DEL TEMARIO\n1. Caso sospechoso, probable y confirmado: usar definiciones vigentes sin exigir confirmación para alertar.\n2. La notificación inmediata activa investigación y control de riesgo, mientras la semanal consolida otros eventos.\n3. Fiebre amarilla: flavivirus transmitido por mosquitos en ciclo selvático.\n4. Presentación: fiebre aguda, cefalea, mialgias, náuseas; formas graves con ictericia, hemorragia y daño hepatorrenal.\n5. En regiones endémicas, el antecedente de exposición selvática orienta sospecha.\n6. Confirmación por laboratorio y diagnóstico diferencial con dengue, leptospirosis, malaria y hepatitis.\n7. Respuesta: investigación epidemiológica, vacunación de susceptibles según norma, control vectorial y comunicación del riesgo.\n8. Atención clínica: valoración de severidad y soporte; no retrasar referencia por trámites.\n9. El establecimiento notificador es responsable aunque tenga categoría I-2.\n\nANÁLISIS DE TODAS LAS ALTERNATIVAS\nA) Mensual retrasaría una respuesta de salud pública urgente.\nB) Correcta: notificación inmediata de caso sospechoso.\nC) Quincenal no corresponde al evento de alto potencial epidémico.\nD) Semanal es insuficiente para la alerta inicial, aunque existan consolidaciones periódicas.\n\nNORMATIVA Y FUENTES DE ESTUDIO\nCDC Perú / MINSA, protocolos de vigilancia epidemiológica de fiebre amarilla y alertas de notificación inmediata.\nOPS/OMS, vigilancia y respuesta ante fiebre amarilla.\n\nTRAMPAS DE EXAMEN\nNo esperar prueba confirmatoria para notificar una sospecha.\nNotificación inmediata y confirmación diagnóstica son procesos distintos.\nEl nivel I-2 también debe iniciar la alerta.\n\nMNEMOTECNIA\nAMARILLA = ALERTA AHORA.\n\nREPASO ACTIVO\n¿Clave? B. Inmediata\n¿Idea principal? AMARILLA = ALERTA AHORA.\nNo esperar prueba confirmatoria para notificar una sospecha.\nNotificación inmediata y confirmación diagnóstica son procesos distintos.\nEl nivel I-2 también debe iniciar la alerta.\n\nCASOS DE REFUERZO\n1. En posta rural aparece paciente con sospecha de fiebre amarilla. ¿Cuándo notificar?\nA) Al cierre mensual\nB) Inmediatamente\nC) Al semestre\nD) Después del cultivo\nE) Al año\nClave: B. Es un evento de notificación inmediata.\n\n2. Tras notificación de fiebre amarilla se inicia investigación. ¿Qué medida complementa la respuesta?\nA) Esperar nuevos casos\nB) Ocultar información\nC) Suspender vigilancia\nD) Investigar exposición y susceptibles\nE) No coordinar\nClave: D. Se articula vigilancia y prevención comunitaria.",
+      "pearl": "AMARILLA = ALERTA AHORA.",
+      "keywords": [
+        "Vigilancia epidemiológica: notificación inmediata de fiebre amarilla",
+        "ENCAPS Medicina 2026-I",
+        "SERUMS MINSA"
+      ],
+      "estadoDesarrollo": "completo",
+      "estadoClave": "interpretacion_pendiente_cotejo_clave_oficial",
+      "lesson": {
+        "respuesta_resumida": "B. Inmediata",
+        "razonamiento": "La fiebre amarilla es enfermedad potencialmente grave, epidémica y sujeta a respuesta urgente; un caso sospechoso debe comunicarse inmediatamente según los procedimientos de vigilancia, sin esperar confirmación de laboratorio. La notificación temprana permite investigación, búsqueda de casos y contactos epidemiológicos, respuesta vectorial y evaluación de cobertura vacunal.",
+        "temario": [
+          "Caso sospechoso, probable y confirmado: usar definiciones vigentes sin exigir confirmación para alertar.",
+          "La notificación inmediata activa investigación y control de riesgo, mientras la semanal consolida otros eventos.",
+          "Fiebre amarilla: flavivirus transmitido por mosquitos en ciclo selvático.",
+          "Presentación: fiebre aguda, cefalea, mialgias, náuseas; formas graves con ictericia, hemorragia y daño hepatorrenal.",
+          "En regiones endémicas, el antecedente de exposición selvática orienta sospecha.",
+          "Confirmación por laboratorio y diagnóstico diferencial con dengue, leptospirosis, malaria y hepatitis.",
+          "Respuesta: investigación epidemiológica, vacunación de susceptibles según norma, control vectorial y comunicación del riesgo.",
+          "Atención clínica: valoración de severidad y soporte; no retrasar referencia por trámites.",
+          "El establecimiento notificador es responsable aunque tenga categoría I-2."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Mensual retrasaría una respuesta de salud pública urgente.",
+          "B": "Correcta: notificación inmediata de caso sospechoso.",
+          "C": "Quincenal no corresponde al evento de alto potencial epidémico.",
+          "D": "Semanal es insuficiente para la alerta inicial, aunque existan consolidaciones periódicas."
+        },
+        "normativa": [
+          "CDC Perú / MINSA, protocolos de vigilancia epidemiológica de fiebre amarilla y alertas de notificación inmediata.",
+          "OPS/OMS, vigilancia y respuesta ante fiebre amarilla."
+        ],
+        "mnemotecnia": "AMARILLA = ALERTA AHORA.",
+        "trampas": [
+          "No esperar prueba confirmatoria para notificar una sospecha.",
+          "Notificación inmediata y confirmación diagnóstica son procesos distintos.",
+          "El nivel I-2 también debe iniciar la alerta."
+        ],
+        "perla": "AMARILLA = ALERTA AHORA.",
+        "repaso_activo": [
+          "¿Clave? B. Inmediata",
+          "¿Idea principal? AMARILLA = ALERTA AHORA.",
+          "No esperar prueba confirmatoria para notificar una sospecha.",
+          "Notificación inmediata y confirmación diagnóstica son procesos distintos.",
+          "El nivel I-2 también debe iniciar la alerta."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "En posta rural aparece paciente con sospecha de fiebre amarilla. ¿Cuándo notificar?",
+            "alternativas": {
+              "A": "Al cierre mensual",
+              "B": "Inmediatamente",
+              "C": "Al semestre",
+              "D": "Después del cultivo",
+              "E": "Al año"
+            },
+            "respuesta": "B",
+            "explicacion": "Es un evento de notificación inmediata."
+          },
+          {
+            "enunciado": "Tras notificación de fiebre amarilla se inicia investigación. ¿Qué medida complementa la respuesta?",
+            "alternativas": {
+              "A": "Esperar nuevos casos",
+              "B": "Ocultar información",
+              "C": "Suspender vigilancia",
+              "D": "Investigar exposición y susceptibles",
+              "E": "No coordinar"
+            },
+            "respuesta": "D",
+            "explicacion": "Se articula vigilancia y prevención comunitaria."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Vigilancia epidemiológica: notificación inmediata de fiebre amarilla",
+          "desarrollo": "RESPUESTA RAZONADA — PENDIENTE DE COTEJO CON CLAVE OFICIAL INDEPENDIENTE\nB. Inmediata\n\nRAZONAMIENTO COMPLETO\nLa fiebre amarilla es enfermedad potencialmente grave, epidémica y sujeta a respuesta urgente; un caso sospechoso debe comunicarse inmediatamente según los procedimientos de vigilancia, sin esperar confirmación de laboratorio. La notificación temprana permite investigación, búsqueda de casos y contactos epidemiológicos, respuesta vectorial y evaluación de cobertura vacunal.\n\nDESARROLLO DEL TEMARIO\n1. Caso sospechoso, probable y confirmado: usar definiciones vigentes sin exigir confirmación para alertar.\n2. La notificación inmediata activa investigación y control de riesgo, mientras la semanal consolida otros eventos.\n3. Fiebre amarilla: flavivirus transmitido por mosquitos en ciclo selvático.\n4. Presentación: fiebre aguda, cefalea, mialgias, náuseas; formas graves con ictericia, hemorragia y daño hepatorrenal.\n5. En regiones endémicas, el antecedente de exposición selvática orienta sospecha.\n6. Confirmación por laboratorio y diagnóstico diferencial con dengue, leptospirosis, malaria y hepatitis.\n7. Respuesta: investigación epidemiológica, vacunación de susceptibles según norma, control vectorial y comunicación del riesgo.\n8. Atención clínica: valoración de severidad y soporte; no retrasar referencia por trámites.\n9. El establecimiento notificador es responsable aunque tenga categoría I-2.\n\nANÁLISIS DE TODAS LAS ALTERNATIVAS\nA) Mensual retrasaría una respuesta de salud pública urgente.\nB) Correcta: notificación inmediata de caso sospechoso.\nC) Quincenal no corresponde al evento de alto potencial epidémico.\nD) Semanal es insuficiente para la alerta inicial, aunque existan consolidaciones periódicas.\n\nNORMATIVA Y FUENTES DE ESTUDIO\nCDC Perú / MINSA, protocolos de vigilancia epidemiológica de fiebre amarilla y alertas de notificación inmediata.\nOPS/OMS, vigilancia y respuesta ante fiebre amarilla.\n\nTRAMPAS DE EXAMEN\nNo esperar prueba confirmatoria para notificar una sospecha.\nNotificación inmediata y confirmación diagnóstica son procesos distintos.\nEl nivel I-2 también debe iniciar la alerta.\n\nMNEMOTECNIA\nAMARILLA = ALERTA AHORA.\n\nREPASO ACTIVO\n¿Clave? B. Inmediata\n¿Idea principal? AMARILLA = ALERTA AHORA.\nNo esperar prueba confirmatoria para notificar una sospecha.\nNotificación inmediata y confirmación diagnóstica son procesos distintos.\nEl nivel I-2 también debe iniciar la alerta.\n\nCASOS DE REFUERZO\n1. En posta rural aparece paciente con sospecha de fiebre amarilla. ¿Cuándo notificar?\nA) Al cierre mensual\nB) Inmediatamente\nC) Al semestre\nD) Después del cultivo\nE) Al año\nClave: B. Es un evento de notificación inmediata.\n\n2. Tras notificación de fiebre amarilla se inicia investigación. ¿Qué medida complementa la respuesta?\nA) Esperar nuevos casos\nB) Ocultar información\nC) Suspender vigilancia\nD) Investigar exposición y susceptibles\nE) No coordinar\nClave: D. Se articula vigilancia y prevención comunitaria."
+        }
+      }
+    },
+    {
+      "number": 32,
+      "question": "Mujer de 30 años con 9 meses de gestación refiere que empezó a tener contracciones hace más de dos horas y se encuentra pronta a dar a luz. ¿Qué criterios debe cumplir para parto vertical?",
+      "options": {
+        "A": "Presentación cefálica del feto",
+        "B": "Incompatibilidad feto pélvica",
+        "C": "Embarazo gemelar",
+        "D": "Cirugía uterina previa"
+      },
+      "correct": "A",
+      "code": "ENCAPS26-I P032",
+      "course": "ENCAPS Medicina 2026-I · Temario desarrollado",
+      "topic": "Parto vertical: criterios obstétricos, seguridad y pertinencia intercultural",
+      "comment": "RESPUESTA RAZONADA — PENDIENTE DE COTEJO CON CLAVE OFICIAL INDEPENDIENTE\nA. Presentación cefálica del feto\n\nRAZONAMIENTO COMPLETO\nPara planificar parto vaginal vertical, la presentación cefálica es un criterio favorable en gestación de bajo riesgo y con evaluación clínica adecuada. Desproporción céfalo-pélvica, embarazo múltiple y antecedente de cirugía uterina pueden modificar riesgo y elegibilidad; requieren evaluación según protocolo y no deben tratarse automáticamente como equivalentes.\n\nDESARROLLO DEL TEMARIO\n1. Parto vertical describe posiciones de la mujer durante el nacimiento, incluyendo cuclillas, semisentada o de rodillas.\n2. Respeto de decisión informada, acompañamiento y pertinencia intercultural.\n3. Confirmar bienestar maternofetal, presentación fetal y evolución del trabajo de parto.\n4. La presentación cefálica es el supuesto favorable del enunciado.\n5. Valorar antecedentes de cesárea u otra cirugía uterina, riesgo de rotura y disponibilidad resolutiva.\n6. Embarazo múltiple exige condiciones y evaluación especializada; no es candidato estándar del ítem.\n7. Desproporción céfalo-pélvica contraindica parto vaginal no seguro.\n8. Vigilar frecuencia cardiaca fetal, dinámica uterina, sangrado y progresión.\n9. Preparar prevención y manejo de hemorragia, reanimación neonatal y referencia cuando corresponda.\n\nANÁLISIS DE TODAS LAS ALTERNATIVAS\nA) Correcta: presentación cefálica es criterio favorable para parto vaginal vertical.\nB) Incompatibilidad fetopélvica dificulta o imposibilita parto vaginal seguro.\nC) Gestación gemelar necesita evaluación especializada y no es criterio general de elegibilidad.\nD) La cirugía uterina previa obliga a estratificación individual del riesgo.\n\nNORMATIVA Y FUENTES DE ESTUDIO\nMINSA, Norma Técnica de Salud para atención del parto vertical con pertinencia intercultural.\nMINSA, Norma Técnica de Salud para la Atención Integral de Salud Materna y modificatorias.\n\nTRAMPAS DE EXAMEN\nParto vertical es una posición, no sinónimo de parto domiciliario.\nElegibilidad depende de riesgo y cartera habilitada.\nRespeto cultural y vigilancia clínica no son excluyentes.\n\nMNEMOTECNIA\nVERTICAL SEGURO: CEFÁLICA + BAJO RIESGO.\n\nREPASO ACTIVO\n¿Clave? A. Presentación cefálica del feto\n¿Idea principal? VERTICAL SEGURO: CEFÁLICA + BAJO RIESGO.\nParto vertical es una posición, no sinónimo de parto domiciliario.\nElegibilidad depende de riesgo y cartera habilitada.\nRespeto cultural y vigilancia clínica no son excluyentes.\n\nCASOS DE REFUERZO\n1. Gestante de bajo riesgo solicita parto de cuclillas, feto cefálico. ¿Respuesta?\nA) Prohibir por costumbre\nB) Indicar cesárea inmediata\nC) Evaluar y apoyar posición elegida con seguridad\nD) Dar alta\nE) No vigilar al feto\nClave: C. Puede facilitarse elección en condiciones obstétricas apropiadas.\n\n2. Parturienta presenta sospecha de desproporción fetopélvica. ¿Prioridad?\nA) Insistir en parto vaginal\nB) No monitorizar\nC) Enviar sola\nD) Ignorar\nE) Evaluar y derivar o resolver según riesgo\nClave: E. La seguridad prevalece ante distocia.",
+      "pearl": "VERTICAL SEGURO: CEFÁLICA + BAJO RIESGO.",
+      "keywords": [
+        "Parto vertical: criterios obstétricos, seguridad y pertinencia intercultural",
+        "ENCAPS Medicina 2026-I",
+        "SERUMS MINSA"
+      ],
+      "estadoDesarrollo": "completo",
+      "estadoClave": "interpretacion_pendiente_cotejo_clave_oficial",
+      "lesson": {
+        "respuesta_resumida": "A. Presentación cefálica del feto",
+        "razonamiento": "Para planificar parto vaginal vertical, la presentación cefálica es un criterio favorable en gestación de bajo riesgo y con evaluación clínica adecuada. Desproporción céfalo-pélvica, embarazo múltiple y antecedente de cirugía uterina pueden modificar riesgo y elegibilidad; requieren evaluación según protocolo y no deben tratarse automáticamente como equivalentes.",
+        "temario": [
+          "Parto vertical describe posiciones de la mujer durante el nacimiento, incluyendo cuclillas, semisentada o de rodillas.",
+          "Respeto de decisión informada, acompañamiento y pertinencia intercultural.",
+          "Confirmar bienestar maternofetal, presentación fetal y evolución del trabajo de parto.",
+          "La presentación cefálica es el supuesto favorable del enunciado.",
+          "Valorar antecedentes de cesárea u otra cirugía uterina, riesgo de rotura y disponibilidad resolutiva.",
+          "Embarazo múltiple exige condiciones y evaluación especializada; no es candidato estándar del ítem.",
+          "Desproporción céfalo-pélvica contraindica parto vaginal no seguro.",
+          "Vigilar frecuencia cardiaca fetal, dinámica uterina, sangrado y progresión.",
+          "Preparar prevención y manejo de hemorragia, reanimación neonatal y referencia cuando corresponda."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Correcta: presentación cefálica es criterio favorable para parto vaginal vertical.",
+          "B": "Incompatibilidad fetopélvica dificulta o imposibilita parto vaginal seguro.",
+          "C": "Gestación gemelar necesita evaluación especializada y no es criterio general de elegibilidad.",
+          "D": "La cirugía uterina previa obliga a estratificación individual del riesgo."
+        },
+        "normativa": [
+          "MINSA, Norma Técnica de Salud para atención del parto vertical con pertinencia intercultural.",
+          "MINSA, Norma Técnica de Salud para la Atención Integral de Salud Materna y modificatorias."
+        ],
+        "mnemotecnia": "VERTICAL SEGURO: CEFÁLICA + BAJO RIESGO.",
+        "trampas": [
+          "Parto vertical es una posición, no sinónimo de parto domiciliario.",
+          "Elegibilidad depende de riesgo y cartera habilitada.",
+          "Respeto cultural y vigilancia clínica no son excluyentes."
+        ],
+        "perla": "VERTICAL SEGURO: CEFÁLICA + BAJO RIESGO.",
+        "repaso_activo": [
+          "¿Clave? A. Presentación cefálica del feto",
+          "¿Idea principal? VERTICAL SEGURO: CEFÁLICA + BAJO RIESGO.",
+          "Parto vertical es una posición, no sinónimo de parto domiciliario.",
+          "Elegibilidad depende de riesgo y cartera habilitada.",
+          "Respeto cultural y vigilancia clínica no son excluyentes."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Gestante de bajo riesgo solicita parto de cuclillas, feto cefálico. ¿Respuesta?",
+            "alternativas": {
+              "A": "Prohibir por costumbre",
+              "B": "Indicar cesárea inmediata",
+              "C": "Evaluar y apoyar posición elegida con seguridad",
+              "D": "Dar alta",
+              "E": "No vigilar al feto"
+            },
+            "respuesta": "C",
+            "explicacion": "Puede facilitarse elección en condiciones obstétricas apropiadas."
+          },
+          {
+            "enunciado": "Parturienta presenta sospecha de desproporción fetopélvica. ¿Prioridad?",
+            "alternativas": {
+              "A": "Insistir en parto vaginal",
+              "B": "No monitorizar",
+              "C": "Enviar sola",
+              "D": "Ignorar",
+              "E": "Evaluar y derivar o resolver según riesgo"
+            },
+            "respuesta": "E",
+            "explicacion": "La seguridad prevalece ante distocia."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Parto vertical: criterios obstétricos, seguridad y pertinencia intercultural",
+          "desarrollo": "RESPUESTA RAZONADA — PENDIENTE DE COTEJO CON CLAVE OFICIAL INDEPENDIENTE\nA. Presentación cefálica del feto\n\nRAZONAMIENTO COMPLETO\nPara planificar parto vaginal vertical, la presentación cefálica es un criterio favorable en gestación de bajo riesgo y con evaluación clínica adecuada. Desproporción céfalo-pélvica, embarazo múltiple y antecedente de cirugía uterina pueden modificar riesgo y elegibilidad; requieren evaluación según protocolo y no deben tratarse automáticamente como equivalentes.\n\nDESARROLLO DEL TEMARIO\n1. Parto vertical describe posiciones de la mujer durante el nacimiento, incluyendo cuclillas, semisentada o de rodillas.\n2. Respeto de decisión informada, acompañamiento y pertinencia intercultural.\n3. Confirmar bienestar maternofetal, presentación fetal y evolución del trabajo de parto.\n4. La presentación cefálica es el supuesto favorable del enunciado.\n5. Valorar antecedentes de cesárea u otra cirugía uterina, riesgo de rotura y disponibilidad resolutiva.\n6. Embarazo múltiple exige condiciones y evaluación especializada; no es candidato estándar del ítem.\n7. Desproporción céfalo-pélvica contraindica parto vaginal no seguro.\n8. Vigilar frecuencia cardiaca fetal, dinámica uterina, sangrado y progresión.\n9. Preparar prevención y manejo de hemorragia, reanimación neonatal y referencia cuando corresponda.\n\nANÁLISIS DE TODAS LAS ALTERNATIVAS\nA) Correcta: presentación cefálica es criterio favorable para parto vaginal vertical.\nB) Incompatibilidad fetopélvica dificulta o imposibilita parto vaginal seguro.\nC) Gestación gemelar necesita evaluación especializada y no es criterio general de elegibilidad.\nD) La cirugía uterina previa obliga a estratificación individual del riesgo.\n\nNORMATIVA Y FUENTES DE ESTUDIO\nMINSA, Norma Técnica de Salud para atención del parto vertical con pertinencia intercultural.\nMINSA, Norma Técnica de Salud para la Atención Integral de Salud Materna y modificatorias.\n\nTRAMPAS DE EXAMEN\nParto vertical es una posición, no sinónimo de parto domiciliario.\nElegibilidad depende de riesgo y cartera habilitada.\nRespeto cultural y vigilancia clínica no son excluyentes.\n\nMNEMOTECNIA\nVERTICAL SEGURO: CEFÁLICA + BAJO RIESGO.\n\nREPASO ACTIVO\n¿Clave? A. Presentación cefálica del feto\n¿Idea principal? VERTICAL SEGURO: CEFÁLICA + BAJO RIESGO.\nParto vertical es una posición, no sinónimo de parto domiciliario.\nElegibilidad depende de riesgo y cartera habilitada.\nRespeto cultural y vigilancia clínica no son excluyentes.\n\nCASOS DE REFUERZO\n1. Gestante de bajo riesgo solicita parto de cuclillas, feto cefálico. ¿Respuesta?\nA) Prohibir por costumbre\nB) Indicar cesárea inmediata\nC) Evaluar y apoyar posición elegida con seguridad\nD) Dar alta\nE) No vigilar al feto\nClave: C. Puede facilitarse elección en condiciones obstétricas apropiadas.\n\n2. Parturienta presenta sospecha de desproporción fetopélvica. ¿Prioridad?\nA) Insistir en parto vaginal\nB) No monitorizar\nC) Enviar sola\nD) Ignorar\nE) Evaluar y derivar o resolver según riesgo\nClave: E. La seguridad prevalece ante distocia."
+        }
+      }
+    },
+    {
+      "number": 33,
+      "question": "Alfonso de 62 años, agricultor, acude a su control anual por medicina en la posta de San Marcos. A la evaluación integral se obtiene una PA: 142/90 mmHg, FR: 20X’, FC: 80X’ y un IMC: 31 Kg/m2, sin daño a órgano blanco. ¿Qué riesgo cardiovascular le corresponde?",
+      "options": {
+        "A": "Alto",
+        "B": "Moderado",
+        "C": "Bajo a moderado",
+        "D": "Moderado a alto"
+      },
+      "correct": "B",
+      "code": "ENCAPS26-I P033",
+      "course": "ENCAPS Medicina 2026-I · Temario desarrollado",
+      "topic": "Hipertensión grado 1, obesidad y estratificación de riesgo cardiovascular",
+      "comment": "RESPUESTA RAZONADA — PENDIENTE DE COTEJO CON CLAVE OFICIAL INDEPENDIENTE\nB. Moderado\n\nRAZONAMIENTO COMPLETO\nLa PA 142/90 mmHg cae en hipertensión de grado 1 bajo clasificaciones tradicionales y el IMC 31 corresponde a obesidad grado I. Por la edad y el factor de riesgo agregado, la categoría moderada es la interpretación esperable bajo tablas clásicas. Sin embargo, una estratificación cardiovascular individual válida requiere conocer sexo, tabaquismo, diabetes, colesterol, enfermedad renal y puntuación según la herramienta adoptada; ausencia de daño orgánico no basta para establecer riesgo absoluto preciso.\n\nDESARROLLO DEL TEMARIO\n1. Confirmar hipertensión mediante mediciones repetidas, técnica adecuada y, cuando esté disponible, MAPA/AMPA.\n2. La PA 140–159/90–99 mmHg corresponde a grado 1 en varias clasificaciones históricas.\n3. IMC 30–34.9 kg/m² indica obesidad grado I.\n4. Riesgo cardiovascular depende de edad, presión, tabaquismo, lípidos, diabetes y comorbilidades.\n5. Distinguir riesgo absoluto a diez años de clasificación cualitativa por niveles.\n6. Daño a órgano blanco: hipertrofia ventricular, albuminuria, retinopatía y lesión vascular.\n7. Prevención: dieta saludable, actividad física adaptada, reducción de sodio, control de peso y cesación tabáquica.\n8. Decisión farmacológica depende de PA confirmada, riesgo global y norma aplicable.\n9. Tablas OMS de riesgo cardiovascular requieren variables adicionales o versión sin laboratorio.\n\nANÁLISIS DE TODAS LAS ALTERNATIVAS\nA) Alto no puede concluirse solo por presión ligeramente elevada y obesidad sin otros datos.\nB) Moderado es clasificación didáctica probable al sumar edad y obesidad a HTA de grado 1.\nC) Bajo a moderado podría ser defendible con menos factores, pero la presencia de obesidad inclina opción B en esquema tradicional.\nD) Moderado a alto implicaría mayor acumulación de riesgos o lesión no documentada.\n\nNORMATIVA Y FUENTES DE ESTUDIO\nOMS, tablas de predicción de riesgo cardiovascular por región y sus variables.\nMINSA, guías de evaluación y manejo de hipertensión arterial en primer nivel; validar umbrales vigentes.\n\nTRAMPAS DE EXAMEN\nUna sola PA elevada no confirma diagnóstico permanente.\nNo calcular riesgo absoluto con datos insuficientes.\nNo considerar ausencia de daño a órgano blanco como ausencia de riesgo.\n\nMNEMOTECNIA\nHTA G1 + OBESIDAD: RIESGO A ESTRATIFICAR.\n\nREPASO ACTIVO\n¿Clave? B. Moderado\n¿Idea principal? HTA G1 + OBESIDAD: RIESGO A ESTRATIFICAR.\nUna sola PA elevada no confirma diagnóstico permanente.\nNo calcular riesgo absoluto con datos insuficientes.\nNo considerar ausencia de daño a órgano blanco como ausencia de riesgo.\n\nCASOS DE REFUERZO\n1. Varón de 62 años PA 145/92 en una sola visita. ¿Qué corresponde antes de etiquetar HTA persistente?\nA) Confirmar con medidas adecuadas repetidas\nB) Ignorar\nC) Asignar riesgo alto automático\nD) Suponer diabetes\nE) No revisar fármacos\nClave: A. Debe confirmarse elevación sostenida.\n\n2. Paciente tiene IMC 31. ¿Clasificación nutricional?\nA) Normalidad\nB) Desnutrición\nC) Sobrepeso leve\nD) Obesidad grado I\nE) Obesidad grado III\nClave: D. IMC 30 a 34.9 es obesidad grado I.",
+      "pearl": "HTA G1 + OBESIDAD: RIESGO A ESTRATIFICAR.",
+      "keywords": [
+        "Hipertensión grado 1, obesidad y estratificación de riesgo cardiovascular",
+        "ENCAPS Medicina 2026-I",
+        "SERUMS MINSA"
+      ],
+      "estadoDesarrollo": "completo",
+      "estadoClave": "interpretacion_incompleta_datos_riesgo_pendiente_cotejo",
+      "lesson": {
+        "respuesta_resumida": "B. Moderado",
+        "razonamiento": "La PA 142/90 mmHg cae en hipertensión de grado 1 bajo clasificaciones tradicionales y el IMC 31 corresponde a obesidad grado I. Por la edad y el factor de riesgo agregado, la categoría moderada es la interpretación esperable bajo tablas clásicas. Sin embargo, una estratificación cardiovascular individual válida requiere conocer sexo, tabaquismo, diabetes, colesterol, enfermedad renal y puntuación según la herramienta adoptada; ausencia de daño orgánico no basta para establecer riesgo absoluto preciso.",
+        "temario": [
+          "Confirmar hipertensión mediante mediciones repetidas, técnica adecuada y, cuando esté disponible, MAPA/AMPA.",
+          "La PA 140–159/90–99 mmHg corresponde a grado 1 en varias clasificaciones históricas.",
+          "IMC 30–34.9 kg/m² indica obesidad grado I.",
+          "Riesgo cardiovascular depende de edad, presión, tabaquismo, lípidos, diabetes y comorbilidades.",
+          "Distinguir riesgo absoluto a diez años de clasificación cualitativa por niveles.",
+          "Daño a órgano blanco: hipertrofia ventricular, albuminuria, retinopatía y lesión vascular.",
+          "Prevención: dieta saludable, actividad física adaptada, reducción de sodio, control de peso y cesación tabáquica.",
+          "Decisión farmacológica depende de PA confirmada, riesgo global y norma aplicable.",
+          "Tablas OMS de riesgo cardiovascular requieren variables adicionales o versión sin laboratorio."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Alto no puede concluirse solo por presión ligeramente elevada y obesidad sin otros datos.",
+          "B": "Moderado es clasificación didáctica probable al sumar edad y obesidad a HTA de grado 1.",
+          "C": "Bajo a moderado podría ser defendible con menos factores, pero la presencia de obesidad inclina opción B en esquema tradicional.",
+          "D": "Moderado a alto implicaría mayor acumulación de riesgos o lesión no documentada."
+        },
+        "normativa": [
+          "OMS, tablas de predicción de riesgo cardiovascular por región y sus variables.",
+          "MINSA, guías de evaluación y manejo de hipertensión arterial en primer nivel; validar umbrales vigentes."
+        ],
+        "mnemotecnia": "HTA G1 + OBESIDAD: RIESGO A ESTRATIFICAR.",
+        "trampas": [
+          "Una sola PA elevada no confirma diagnóstico permanente.",
+          "No calcular riesgo absoluto con datos insuficientes.",
+          "No considerar ausencia de daño a órgano blanco como ausencia de riesgo."
+        ],
+        "perla": "HTA G1 + OBESIDAD: RIESGO A ESTRATIFICAR.",
+        "repaso_activo": [
+          "¿Clave? B. Moderado",
+          "¿Idea principal? HTA G1 + OBESIDAD: RIESGO A ESTRATIFICAR.",
+          "Una sola PA elevada no confirma diagnóstico permanente.",
+          "No calcular riesgo absoluto con datos insuficientes.",
+          "No considerar ausencia de daño a órgano blanco como ausencia de riesgo."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Varón de 62 años PA 145/92 en una sola visita. ¿Qué corresponde antes de etiquetar HTA persistente?",
+            "alternativas": {
+              "A": "Confirmar con medidas adecuadas repetidas",
+              "B": "Ignorar",
+              "C": "Asignar riesgo alto automático",
+              "D": "Suponer diabetes",
+              "E": "No revisar fármacos"
+            },
+            "respuesta": "A",
+            "explicacion": "Debe confirmarse elevación sostenida."
+          },
+          {
+            "enunciado": "Paciente tiene IMC 31. ¿Clasificación nutricional?",
+            "alternativas": {
+              "A": "Normalidad",
+              "B": "Desnutrición",
+              "C": "Sobrepeso leve",
+              "D": "Obesidad grado I",
+              "E": "Obesidad grado III"
+            },
+            "respuesta": "D",
+            "explicacion": "IMC 30 a 34.9 es obesidad grado I."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Hipertensión grado 1, obesidad y estratificación de riesgo cardiovascular",
+          "desarrollo": "RESPUESTA RAZONADA — PENDIENTE DE COTEJO CON CLAVE OFICIAL INDEPENDIENTE\nB. Moderado\n\nRAZONAMIENTO COMPLETO\nLa PA 142/90 mmHg cae en hipertensión de grado 1 bajo clasificaciones tradicionales y el IMC 31 corresponde a obesidad grado I. Por la edad y el factor de riesgo agregado, la categoría moderada es la interpretación esperable bajo tablas clásicas. Sin embargo, una estratificación cardiovascular individual válida requiere conocer sexo, tabaquismo, diabetes, colesterol, enfermedad renal y puntuación según la herramienta adoptada; ausencia de daño orgánico no basta para establecer riesgo absoluto preciso.\n\nDESARROLLO DEL TEMARIO\n1. Confirmar hipertensión mediante mediciones repetidas, técnica adecuada y, cuando esté disponible, MAPA/AMPA.\n2. La PA 140–159/90–99 mmHg corresponde a grado 1 en varias clasificaciones históricas.\n3. IMC 30–34.9 kg/m² indica obesidad grado I.\n4. Riesgo cardiovascular depende de edad, presión, tabaquismo, lípidos, diabetes y comorbilidades.\n5. Distinguir riesgo absoluto a diez años de clasificación cualitativa por niveles.\n6. Daño a órgano blanco: hipertrofia ventricular, albuminuria, retinopatía y lesión vascular.\n7. Prevención: dieta saludable, actividad física adaptada, reducción de sodio, control de peso y cesación tabáquica.\n8. Decisión farmacológica depende de PA confirmada, riesgo global y norma aplicable.\n9. Tablas OMS de riesgo cardiovascular requieren variables adicionales o versión sin laboratorio.\n\nANÁLISIS DE TODAS LAS ALTERNATIVAS\nA) Alto no puede concluirse solo por presión ligeramente elevada y obesidad sin otros datos.\nB) Moderado es clasificación didáctica probable al sumar edad y obesidad a HTA de grado 1.\nC) Bajo a moderado podría ser defendible con menos factores, pero la presencia de obesidad inclina opción B en esquema tradicional.\nD) Moderado a alto implicaría mayor acumulación de riesgos o lesión no documentada.\n\nNORMATIVA Y FUENTES DE ESTUDIO\nOMS, tablas de predicción de riesgo cardiovascular por región y sus variables.\nMINSA, guías de evaluación y manejo de hipertensión arterial en primer nivel; validar umbrales vigentes.\n\nTRAMPAS DE EXAMEN\nUna sola PA elevada no confirma diagnóstico permanente.\nNo calcular riesgo absoluto con datos insuficientes.\nNo considerar ausencia de daño a órgano blanco como ausencia de riesgo.\n\nMNEMOTECNIA\nHTA G1 + OBESIDAD: RIESGO A ESTRATIFICAR.\n\nREPASO ACTIVO\n¿Clave? B. Moderado\n¿Idea principal? HTA G1 + OBESIDAD: RIESGO A ESTRATIFICAR.\nUna sola PA elevada no confirma diagnóstico permanente.\nNo calcular riesgo absoluto con datos insuficientes.\nNo considerar ausencia de daño a órgano blanco como ausencia de riesgo.\n\nCASOS DE REFUERZO\n1. Varón de 62 años PA 145/92 en una sola visita. ¿Qué corresponde antes de etiquetar HTA persistente?\nA) Confirmar con medidas adecuadas repetidas\nB) Ignorar\nC) Asignar riesgo alto automático\nD) Suponer diabetes\nE) No revisar fármacos\nClave: A. Debe confirmarse elevación sostenida.\n\n2. Paciente tiene IMC 31. ¿Clasificación nutricional?\nA) Normalidad\nB) Desnutrición\nC) Sobrepeso leve\nD) Obesidad grado I\nE) Obesidad grado III\nClave: D. IMC 30 a 34.9 es obesidad grado I."
+        }
+      }
+    },
+    {
+      "number": 34,
+      "question": "Cuando el personal de salud reconoce a las enfermedades transmisibles a través de la ruta del agente infeccioso desde la fuente de infección hasta el susceptible. Está aplicando la definición de:",
+      "options": {
+        "A": "Epidemiología de las enfermedades",
+        "B": "Cadena de vigilancia y recuperación",
+        "C": "Triada epidemiológica",
+        "D": "Cadena epidemiológica"
+      },
+      "correct": "D",
+      "code": "ENCAPS26-I P034",
+      "course": "ENCAPS Medicina 2026-I · Temario desarrollado",
+      "topic": "Cadena epidemiológica de transmisión de enfermedades infecciosas",
+      "comment": "RESPUESTA RAZONADA — PENDIENTE DE COTEJO CON CLAVE OFICIAL INDEPENDIENTE\nD. Cadena epidemiológica\n\nRAZONAMIENTO COMPLETO\nLa cadena epidemiológica describe eslabones sucesivos que posibilitan el paso de un agente desde su reservorio o fuente hasta un hospedero susceptible. Comprende agente, reservorio, puerta de salida, mecanismo de transmisión, puerta de entrada y huésped susceptible. Interrumpir cualquiera de estos eslabones reduce transmisión.\n\nDESARROLLO DEL TEMARIO\n1. Agente causal: bacteria, virus, hongo o parásito con propiedades infectantes.\n2. Reservorio: personas, animales o ambiente donde se mantiene el agente.\n3. Puerta de salida: secreciones respiratorias, sangre, heces, lesiones, etc.\n4. Vía de transmisión: contacto, gotas, aire, vehículo, vector u otras según patógeno.\n5. Puerta de entrada: respiratoria, digestiva, mucosa, piel no íntegra y parenteral.\n6. Hospedero susceptible: depende de inmunidad, vacunación, edad y comorbilidades.\n7. La tríada epidemiológica reúne agente, huésped y ambiente: marco diferente de cadena.\n8. Prevención por eslabones: vacunación, higiene de manos, ventilación, aislamiento, agua segura y control vectorial.\n9. Aplicación en brotes: identificar punto de interrupción más eficiente.\n\nANÁLISIS DE TODAS LAS ALTERNATIVAS\nA) Epidemiología es disciplina amplia, no la secuencia descrita.\nB) Cadena de vigilancia y recuperación no es el término epidemiológico estándar.\nC) Tríada agente-huésped-ambiente resume factores, no todos los eslabones de transmisión.\nD) Correcta: cadena epidemiológica.\n\nNORMATIVA Y FUENTES DE ESTUDIO\nOPS/OMS, epidemiología básica y mecanismos de transmisión.\nCDC Perú, materiales de investigación de brotes y vigilancia epidemiológica.\n\nTRAMPAS DE EXAMEN\nCadena y tríada no son sinónimos.\nReservorio y fuente pueden coincidir, pero no siempre.\nLa prevención puede actuar en varios eslabones simultáneamente.\n\nMNEMOTECNIA\nAGENTE → RESERVORIO → SALIDA → VÍA → ENTRADA → SUSCEPTIBLE.\n\nREPASO ACTIVO\n¿Clave? D. Cadena epidemiológica\n¿Idea principal? AGENTE → RESERVORIO → SALIDA → VÍA → ENTRADA → SUSCEPTIBLE.\nCadena y tríada no son sinónimos.\nReservorio y fuente pueden coincidir, pero no siempre.\nLa prevención puede actuar en varios eslabones simultáneamente.\n\nCASOS DE REFUERZO\n1. Lavado de manos disminuye contagios por contacto. ¿Qué eslabón interrumpe primordialmente?\nA) Edad del huésped\nB) Vía de transmisión\nC) Mutación genética\nD) Reservorio animal obligatorio\nE) Periodo de incubación\nClave: B. Reduce transmisión por contacto.\n\n2. Agente, huésped y ambiente constituyen:\nA) Cadena de custodia\nB) Historia natural completa\nC) Tríada epidemiológica\nD) Plan contable\nE) Red de laboratorios\nClave: C. Son los tres componentes clásicos de la tríada.",
+      "pearl": "AGENTE → RESERVORIO → SALIDA → VÍA → ENTRADA → SUSCEPTIBLE.",
+      "keywords": [
+        "Cadena epidemiológica de transmisión de enfermedades infecciosas",
+        "ENCAPS Medicina 2026-I",
+        "SERUMS MINSA"
+      ],
+      "estadoDesarrollo": "completo",
+      "estadoClave": "interpretacion_pendiente_cotejo_clave_oficial",
+      "lesson": {
+        "respuesta_resumida": "D. Cadena epidemiológica",
+        "razonamiento": "La cadena epidemiológica describe eslabones sucesivos que posibilitan el paso de un agente desde su reservorio o fuente hasta un hospedero susceptible. Comprende agente, reservorio, puerta de salida, mecanismo de transmisión, puerta de entrada y huésped susceptible. Interrumpir cualquiera de estos eslabones reduce transmisión.",
+        "temario": [
+          "Agente causal: bacteria, virus, hongo o parásito con propiedades infectantes.",
+          "Reservorio: personas, animales o ambiente donde se mantiene el agente.",
+          "Puerta de salida: secreciones respiratorias, sangre, heces, lesiones, etc.",
+          "Vía de transmisión: contacto, gotas, aire, vehículo, vector u otras según patógeno.",
+          "Puerta de entrada: respiratoria, digestiva, mucosa, piel no íntegra y parenteral.",
+          "Hospedero susceptible: depende de inmunidad, vacunación, edad y comorbilidades.",
+          "La tríada epidemiológica reúne agente, huésped y ambiente: marco diferente de cadena.",
+          "Prevención por eslabones: vacunación, higiene de manos, ventilación, aislamiento, agua segura y control vectorial.",
+          "Aplicación en brotes: identificar punto de interrupción más eficiente."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Epidemiología es disciplina amplia, no la secuencia descrita.",
+          "B": "Cadena de vigilancia y recuperación no es el término epidemiológico estándar.",
+          "C": "Tríada agente-huésped-ambiente resume factores, no todos los eslabones de transmisión.",
+          "D": "Correcta: cadena epidemiológica."
+        },
+        "normativa": [
+          "OPS/OMS, epidemiología básica y mecanismos de transmisión.",
+          "CDC Perú, materiales de investigación de brotes y vigilancia epidemiológica."
+        ],
+        "mnemotecnia": "AGENTE → RESERVORIO → SALIDA → VÍA → ENTRADA → SUSCEPTIBLE.",
+        "trampas": [
+          "Cadena y tríada no son sinónimos.",
+          "Reservorio y fuente pueden coincidir, pero no siempre.",
+          "La prevención puede actuar en varios eslabones simultáneamente."
+        ],
+        "perla": "AGENTE → RESERVORIO → SALIDA → VÍA → ENTRADA → SUSCEPTIBLE.",
+        "repaso_activo": [
+          "¿Clave? D. Cadena epidemiológica",
+          "¿Idea principal? AGENTE → RESERVORIO → SALIDA → VÍA → ENTRADA → SUSCEPTIBLE.",
+          "Cadena y tríada no son sinónimos.",
+          "Reservorio y fuente pueden coincidir, pero no siempre.",
+          "La prevención puede actuar en varios eslabones simultáneamente."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Lavado de manos disminuye contagios por contacto. ¿Qué eslabón interrumpe primordialmente?",
+            "alternativas": {
+              "A": "Edad del huésped",
+              "B": "Vía de transmisión",
+              "C": "Mutación genética",
+              "D": "Reservorio animal obligatorio",
+              "E": "Periodo de incubación"
+            },
+            "respuesta": "B",
+            "explicacion": "Reduce transmisión por contacto."
+          },
+          {
+            "enunciado": "Agente, huésped y ambiente constituyen:",
+            "alternativas": {
+              "A": "Cadena de custodia",
+              "B": "Historia natural completa",
+              "C": "Tríada epidemiológica",
+              "D": "Plan contable",
+              "E": "Red de laboratorios"
+            },
+            "respuesta": "C",
+            "explicacion": "Son los tres componentes clásicos de la tríada."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Cadena epidemiológica de transmisión de enfermedades infecciosas",
+          "desarrollo": "RESPUESTA RAZONADA — PENDIENTE DE COTEJO CON CLAVE OFICIAL INDEPENDIENTE\nD. Cadena epidemiológica\n\nRAZONAMIENTO COMPLETO\nLa cadena epidemiológica describe eslabones sucesivos que posibilitan el paso de un agente desde su reservorio o fuente hasta un hospedero susceptible. Comprende agente, reservorio, puerta de salida, mecanismo de transmisión, puerta de entrada y huésped susceptible. Interrumpir cualquiera de estos eslabones reduce transmisión.\n\nDESARROLLO DEL TEMARIO\n1. Agente causal: bacteria, virus, hongo o parásito con propiedades infectantes.\n2. Reservorio: personas, animales o ambiente donde se mantiene el agente.\n3. Puerta de salida: secreciones respiratorias, sangre, heces, lesiones, etc.\n4. Vía de transmisión: contacto, gotas, aire, vehículo, vector u otras según patógeno.\n5. Puerta de entrada: respiratoria, digestiva, mucosa, piel no íntegra y parenteral.\n6. Hospedero susceptible: depende de inmunidad, vacunación, edad y comorbilidades.\n7. La tríada epidemiológica reúne agente, huésped y ambiente: marco diferente de cadena.\n8. Prevención por eslabones: vacunación, higiene de manos, ventilación, aislamiento, agua segura y control vectorial.\n9. Aplicación en brotes: identificar punto de interrupción más eficiente.\n\nANÁLISIS DE TODAS LAS ALTERNATIVAS\nA) Epidemiología es disciplina amplia, no la secuencia descrita.\nB) Cadena de vigilancia y recuperación no es el término epidemiológico estándar.\nC) Tríada agente-huésped-ambiente resume factores, no todos los eslabones de transmisión.\nD) Correcta: cadena epidemiológica.\n\nNORMATIVA Y FUENTES DE ESTUDIO\nOPS/OMS, epidemiología básica y mecanismos de transmisión.\nCDC Perú, materiales de investigación de brotes y vigilancia epidemiológica.\n\nTRAMPAS DE EXAMEN\nCadena y tríada no son sinónimos.\nReservorio y fuente pueden coincidir, pero no siempre.\nLa prevención puede actuar en varios eslabones simultáneamente.\n\nMNEMOTECNIA\nAGENTE → RESERVORIO → SALIDA → VÍA → ENTRADA → SUSCEPTIBLE.\n\nREPASO ACTIVO\n¿Clave? D. Cadena epidemiológica\n¿Idea principal? AGENTE → RESERVORIO → SALIDA → VÍA → ENTRADA → SUSCEPTIBLE.\nCadena y tríada no son sinónimos.\nReservorio y fuente pueden coincidir, pero no siempre.\nLa prevención puede actuar en varios eslabones simultáneamente.\n\nCASOS DE REFUERZO\n1. Lavado de manos disminuye contagios por contacto. ¿Qué eslabón interrumpe primordialmente?\nA) Edad del huésped\nB) Vía de transmisión\nC) Mutación genética\nD) Reservorio animal obligatorio\nE) Periodo de incubación\nClave: B. Reduce transmisión por contacto.\n\n2. Agente, huésped y ambiente constituyen:\nA) Cadena de custodia\nB) Historia natural completa\nC) Tríada epidemiológica\nD) Plan contable\nE) Red de laboratorios\nClave: C. Son los tres componentes clásicos de la tríada."
+        }
+      }
+    },
+    {
+      "number": 35,
+      "question": "Para prevenir las muertes neonatales se impulsa el parto institucional, sin embargo, la población de las zonas rurales, por costumbre y cultura, prefieren los partos domiciliarios. ¿Qué acciones se deben de tomar en cuenta para cumplir con los objetivos del sector?",
+      "options": {
+        "A": "Informar a las gestantes que la atención es gratuita",
+        "B": "Prometerles la entrega de canastas de víveres",
+        "C": "Educar e impulsar la participación comunitaria",
+        "D": "Atender los partos intradomiciliarios"
+      },
+      "correct": "C",
+      "code": "ENCAPS26-I P035",
+      "course": "ENCAPS Medicina 2026-I · Temario desarrollado",
+      "topic": "Parto institucional intercultural y participación comunitaria",
+      "comment": "RESPUESTA RAZONADA — PENDIENTE DE COTEJO CON CLAVE OFICIAL INDEPENDIENTE\nC. Educar e impulsar la participación comunitaria\n\nRAZONAMIENTO COMPLETO\nEl abordaje más sostenible implica educación dialógica, participación comunitaria y adecuación intercultural del servicio, evitando imposición y promesas materiales. La población debe intervenir en identificar barreras de transporte, idioma, confianza, privacidad y posición de parto. La atención institucional segura puede adaptarse a prácticas culturales compatibles con seguridad materna y neonatal.\n\nDESARROLLO DEL TEMARIO\n1. Mortalidad neonatal: causas incluyen prematuridad, asfixia, sepsis y anomalías congénitas.\n2. Parto institucional posibilita vigilancia, atención de emergencias y cuidados inmediatos del recién nacido.\n3. Interculturalidad: respeto a idioma, acompañamiento, preferencias, prácticas no dañinas y trato digno.\n4. Participación comunitaria: agentes comunitarios, líderes, familias y equipos diseñan soluciones.\n5. Identificar barreras geográficas, económicas, culturales y organizativas.\n6. Casas de espera materna y referencia oportuna pueden reducir barreras de distancia.\n7. Información sobre gratuidad es importante, pero insuficiente por sí sola.\n8. No prometer incentivos no financiados ni condicionar derechos de salud.\n9. La atención de emergencia de un parto domiciliario inminente no reemplaza estrategia preventiva comunitaria.\n\nANÁLISIS DE TODAS LAS ALTERNATIVAS\nA) Informar gratuidad ayuda, pero no modifica todas las barreras culturales y de acceso.\nB) Promesa de víveres no es estrategia ética ni sostenible para asegurar atención.\nC) Correcta: educación participativa con pertinencia cultural.\nD) Si el parto es inminente debe atenderse con seguridad; como política única no alcanza objetivo de parto institucional seguro.\n\nNORMATIVA Y FUENTES DE ESTUDIO\nMINSA, políticas de parto vertical con pertinencia intercultural y atención integral materna.\nOPS/OMS, participación comunitaria y calidad de atención materno-neonatal.\n\nTRAMPAS DE EXAMEN\nLa cultura no debe tratarse como obstáculo a eliminar, sino como contexto de atención.\nParticipación social no significa abandonar criterios clínicos.\nEducación paternalista no es equivalente a diálogo comunitario.\n\nMNEMOTECNIA\nPARTO SEGURO: COMUNIDAD + CONFIANZA + CULTURA.\n\nREPASO ACTIVO\n¿Clave? C. Educar e impulsar la participación comunitaria\n¿Idea principal? PARTO SEGURO: COMUNIDAD + CONFIANZA + CULTURA.\nLa cultura no debe tratarse como obstáculo a eliminar, sino como contexto de atención.\nParticipación social no significa abandonar criterios clínicos.\nEducación paternalista no es equivalente a diálogo comunitario.\n\nCASOS DE REFUERZO\n1. Comunidad rural rechaza parto institucional por maltrato previo. ¿Primera estrategia?\nA) Sancionar a familias\nB) Prometer premios\nC) No atender\nD) Dialogar y rediseñar atención con comunidad\nE) Eliminar acompañantes siempre\nClave: D. La participación atiende causas de desconfianza.\n\n2. Gestante solicita acompañante y posición vertical en IPRESS habilitada. ¿Qué hacer?\nA) Negar sin valoración\nB) Evaluar viabilidad y respetar preferencias\nC) Derivar automáticamente\nD) Imponer una sola posición\nE) Ignorar idioma\nClave: B. Cuidado humanizado y seguro adapta la atención.",
+      "pearl": "PARTO SEGURO: COMUNIDAD + CONFIANZA + CULTURA.",
+      "keywords": [
+        "Parto institucional intercultural y participación comunitaria",
+        "ENCAPS Medicina 2026-I",
+        "SERUMS MINSA"
+      ],
+      "estadoDesarrollo": "completo",
+      "estadoClave": "interpretacion_pendiente_cotejo_clave_oficial",
+      "lesson": {
+        "respuesta_resumida": "C. Educar e impulsar la participación comunitaria",
+        "razonamiento": "El abordaje más sostenible implica educación dialógica, participación comunitaria y adecuación intercultural del servicio, evitando imposición y promesas materiales. La población debe intervenir en identificar barreras de transporte, idioma, confianza, privacidad y posición de parto. La atención institucional segura puede adaptarse a prácticas culturales compatibles con seguridad materna y neonatal.",
+        "temario": [
+          "Mortalidad neonatal: causas incluyen prematuridad, asfixia, sepsis y anomalías congénitas.",
+          "Parto institucional posibilita vigilancia, atención de emergencias y cuidados inmediatos del recién nacido.",
+          "Interculturalidad: respeto a idioma, acompañamiento, preferencias, prácticas no dañinas y trato digno.",
+          "Participación comunitaria: agentes comunitarios, líderes, familias y equipos diseñan soluciones.",
+          "Identificar barreras geográficas, económicas, culturales y organizativas.",
+          "Casas de espera materna y referencia oportuna pueden reducir barreras de distancia.",
+          "Información sobre gratuidad es importante, pero insuficiente por sí sola.",
+          "No prometer incentivos no financiados ni condicionar derechos de salud.",
+          "La atención de emergencia de un parto domiciliario inminente no reemplaza estrategia preventiva comunitaria."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Informar gratuidad ayuda, pero no modifica todas las barreras culturales y de acceso.",
+          "B": "Promesa de víveres no es estrategia ética ni sostenible para asegurar atención.",
+          "C": "Correcta: educación participativa con pertinencia cultural.",
+          "D": "Si el parto es inminente debe atenderse con seguridad; como política única no alcanza objetivo de parto institucional seguro."
+        },
+        "normativa": [
+          "MINSA, políticas de parto vertical con pertinencia intercultural y atención integral materna.",
+          "OPS/OMS, participación comunitaria y calidad de atención materno-neonatal."
+        ],
+        "mnemotecnia": "PARTO SEGURO: COMUNIDAD + CONFIANZA + CULTURA.",
+        "trampas": [
+          "La cultura no debe tratarse como obstáculo a eliminar, sino como contexto de atención.",
+          "Participación social no significa abandonar criterios clínicos.",
+          "Educación paternalista no es equivalente a diálogo comunitario."
+        ],
+        "perla": "PARTO SEGURO: COMUNIDAD + CONFIANZA + CULTURA.",
+        "repaso_activo": [
+          "¿Clave? C. Educar e impulsar la participación comunitaria",
+          "¿Idea principal? PARTO SEGURO: COMUNIDAD + CONFIANZA + CULTURA.",
+          "La cultura no debe tratarse como obstáculo a eliminar, sino como contexto de atención.",
+          "Participación social no significa abandonar criterios clínicos.",
+          "Educación paternalista no es equivalente a diálogo comunitario."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Comunidad rural rechaza parto institucional por maltrato previo. ¿Primera estrategia?",
+            "alternativas": {
+              "A": "Sancionar a familias",
+              "B": "Prometer premios",
+              "C": "No atender",
+              "D": "Dialogar y rediseñar atención con comunidad",
+              "E": "Eliminar acompañantes siempre"
+            },
+            "respuesta": "D",
+            "explicacion": "La participación atiende causas de desconfianza."
+          },
+          {
+            "enunciado": "Gestante solicita acompañante y posición vertical en IPRESS habilitada. ¿Qué hacer?",
+            "alternativas": {
+              "A": "Negar sin valoración",
+              "B": "Evaluar viabilidad y respetar preferencias",
+              "C": "Derivar automáticamente",
+              "D": "Imponer una sola posición",
+              "E": "Ignorar idioma"
+            },
+            "respuesta": "B",
+            "explicacion": "Cuidado humanizado y seguro adapta la atención."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Parto institucional intercultural y participación comunitaria",
+          "desarrollo": "RESPUESTA RAZONADA — PENDIENTE DE COTEJO CON CLAVE OFICIAL INDEPENDIENTE\nC. Educar e impulsar la participación comunitaria\n\nRAZONAMIENTO COMPLETO\nEl abordaje más sostenible implica educación dialógica, participación comunitaria y adecuación intercultural del servicio, evitando imposición y promesas materiales. La población debe intervenir en identificar barreras de transporte, idioma, confianza, privacidad y posición de parto. La atención institucional segura puede adaptarse a prácticas culturales compatibles con seguridad materna y neonatal.\n\nDESARROLLO DEL TEMARIO\n1. Mortalidad neonatal: causas incluyen prematuridad, asfixia, sepsis y anomalías congénitas.\n2. Parto institucional posibilita vigilancia, atención de emergencias y cuidados inmediatos del recién nacido.\n3. Interculturalidad: respeto a idioma, acompañamiento, preferencias, prácticas no dañinas y trato digno.\n4. Participación comunitaria: agentes comunitarios, líderes, familias y equipos diseñan soluciones.\n5. Identificar barreras geográficas, económicas, culturales y organizativas.\n6. Casas de espera materna y referencia oportuna pueden reducir barreras de distancia.\n7. Información sobre gratuidad es importante, pero insuficiente por sí sola.\n8. No prometer incentivos no financiados ni condicionar derechos de salud.\n9. La atención de emergencia de un parto domiciliario inminente no reemplaza estrategia preventiva comunitaria.\n\nANÁLISIS DE TODAS LAS ALTERNATIVAS\nA) Informar gratuidad ayuda, pero no modifica todas las barreras culturales y de acceso.\nB) Promesa de víveres no es estrategia ética ni sostenible para asegurar atención.\nC) Correcta: educación participativa con pertinencia cultural.\nD) Si el parto es inminente debe atenderse con seguridad; como política única no alcanza objetivo de parto institucional seguro.\n\nNORMATIVA Y FUENTES DE ESTUDIO\nMINSA, políticas de parto vertical con pertinencia intercultural y atención integral materna.\nOPS/OMS, participación comunitaria y calidad de atención materno-neonatal.\n\nTRAMPAS DE EXAMEN\nLa cultura no debe tratarse como obstáculo a eliminar, sino como contexto de atención.\nParticipación social no significa abandonar criterios clínicos.\nEducación paternalista no es equivalente a diálogo comunitario.\n\nMNEMOTECNIA\nPARTO SEGURO: COMUNIDAD + CONFIANZA + CULTURA.\n\nREPASO ACTIVO\n¿Clave? C. Educar e impulsar la participación comunitaria\n¿Idea principal? PARTO SEGURO: COMUNIDAD + CONFIANZA + CULTURA.\nLa cultura no debe tratarse como obstáculo a eliminar, sino como contexto de atención.\nParticipación social no significa abandonar criterios clínicos.\nEducación paternalista no es equivalente a diálogo comunitario.\n\nCASOS DE REFUERZO\n1. Comunidad rural rechaza parto institucional por maltrato previo. ¿Primera estrategia?\nA) Sancionar a familias\nB) Prometer premios\nC) No atender\nD) Dialogar y rediseñar atención con comunidad\nE) Eliminar acompañantes siempre\nClave: D. La participación atiende causas de desconfianza.\n\n2. Gestante solicita acompañante y posición vertical en IPRESS habilitada. ¿Qué hacer?\nA) Negar sin valoración\nB) Evaluar viabilidad y respetar preferencias\nC) Derivar automáticamente\nD) Imponer una sola posición\nE) Ignorar idioma\nClave: B. Cuidado humanizado y seguro adapta la atención."
         }
       }
     }
