@@ -6683,9 +6683,78 @@
       "razonamiento": "Sífilis latente de duración desconocida: requiere confirmar infección y antecedentes; si no hay evidencia de infección reciente ni terapia previa adecuada, aplicar penicilina G benzatínica 2,4 millones UI intramuscular cada semana durante tres semanas. El RPR 1:8 no define fecha de adquisición.",
       "code": "ENCAPS26-I P67",
       "course": "ENCAPS Medicina 2026-I",
-      "comment": "CLAVE RAZONADA: A\n\nSífilis latente de duración desconocida: requiere confirmar infección y antecedentes; si no hay evidencia de infección reciente ni terapia previa adecuada, aplicar penicilina G benzatínica 2,4 millones UI intramuscular cada semana durante tres semanas. El RPR 1:8 no define fecha de adquisición.",
-      "estadoDesarrollo": "pendiente_de_ampliacion",
-      "estadoClave": "razonada_pendiente_cotejo_oficial"
+      "comment": "RESPUESTA RAZONADA: A. Penicilina benzatínica 2 400 000 UI 1 ampolla IM c/semana por 3 semanas\n\nRAZONAMIENTO\n\nLa mujer está asintomática y se desconoce cuándo contrajo la infección. Si el RPR 1:8 se confirma mediante prueba treponémica y se descarta tratamiento previo adecuado, la clasificación operativa es sífilis latente de duración desconocida: penicilina G benzatínica 2,4 millones de UI IM semanal por tres semanas (dosis total 7,2 millones). El título RPR no permite fechar la infección y un RPR aislado NO confirma sífilis: consultar antecedentes y prueba treponémica antes de instaurar el diagnóstico definitivo.\n\nDESARROLLO COMPLETO DEL TEMARIO\n\n1. Sífilis primaria: chancro; secundaria: erupción, lesiones mucosas y síntomas sistémicos; fase latente: serología reactiva sin hallazgos clínicos.\n\n2. Pruebas no treponémicas RPR/VDRL dan título para seguimiento y pueden ser falsamente positivas; corroborar con prueba treponémica.\n\n3. Latente temprana exige criterios documentados de adquisición en el último año; si no constan, tratar como tardía o de duración desconocida.\n\n4. Penicilina benzatínica 2,4 MUI IM única para temprana, versus 2,4 MUI IM semanal ×3 para tardía o de duración desconocida.\n\n5. Neurosífilis, ocular u ótica requieren evaluación específica y penicilina G acuosa intravenosa, generalmente 10 a 14 días.\n\n6. El RPR de 1:8 no implica necesariamente infección nueva ni demuestra que pareja actual sea origen; investigar terapia previa y títulos basales.\n\n7. Control clínico y cuantitativo de títulos; descenso cuádruple equivale a dos diluciones, por ejemplo de 1:8 a 1:2.\n\n8. Evaluar VIH, otras ITS, síntomas neurológicos, visuales y auditivos, parejas y aspectos de consentimiento y confidencialidad.\n\nANÁLISIS DE ALTERNATIVAS\n\nA) Correcta si se confirma sífilis latente de duración desconocida: 3 dosis semanales de penicilina G benzatínica IM.\n\nB) Penicilina cristalina EV está indicada en neurosífilis u otras afectaciones específicas, no latente no complicada.\n\nC) Doxiciclina 14 días corresponde a alternativas de etapas tempranas bajo condiciones determinadas; para latente tardía la pauta alternativa no es 14 días.\n\nD) Dosis única IM corresponde a sífilis temprana comprobada y no basta cuando duración es desconocida.\n\nNORMATIVA Y FUENTES\n\nCDC, Latent Syphilis: https://www.cdc.gov/std/treatment-guidelines/latent-syphilis.htm\n\nMINSA, normativa de ITS y sífilis aplicable en la IPRESS.\n\nTRAMPAS DEL EXAMEN\n\nIdentificar la pista discriminante del enunciado.\n\nNo confundir respuesta del examen con diagnóstico sin evaluación.\n\nRevisar escenarios de la vida real con más de un factor explicativo.\n\nMNEMOTECNIA\n\nLATENTE TEMPRANA = 1 DOSIS; LATENTE DESCONOCIDA/TARDÍA = 3 SEMANAS.\n\nREPASO ACTIVO\n\n¿Cuál es el núcleo del razonamiento? — La mujer está asintomática y se desconoce cuándo contrajo la infección. Si el RPR 1:8 se confirma mediante prueba treponémica y se descarta tratamiento previo adecuado, la clasificación operativa es sífilis latente de duración desconocida: penicilina G benzatínica 2,4 millones de UI IM semanal por tres semanas (dosis total 7,2 millones). El título RPR no permite fechar la infección y un RPR aislado NO confirma sífilis: consultar antecedentes y prueba treponémica antes de instaurar el diagnóstico definitivo.\n\n¿Qué mnemotecnia resume el tema? — LATENTE TEMPRANA = 1 DOSIS; LATENTE DESCONOCIDA/TARDÍA = 3 SEMANAS.\n\nCASOS DE REFUERZO\n\n1. Persona asintomática con prueba treponémica positiva, sin datos de fecha de contagio. ¿Tratamiento de elección?\nA) Penicilina benzatínica IM semanal tres semanas\nB) Penicilina benzatínica IM dosis única\nC) Doxiciclina siete días\nD) Azitromicina dosis única\nE) Penicilina oral cinco días\nClave A: Latente de duración desconocida.\n\n2. RPR 1:8 aislado y tratamiento previo remoto. ¿Paso siguiente?\nA) Afirmar reinfección\nB) Tratar neurosífilis\nC) Ignorar historia\nD) Revisar prueba treponémica, títulos y tratamientos previos\nE) Deducir fecha de contagio\nClave D: El título aislado no define actividad ni duración.",
+      "estadoDesarrollo": "completo",
+      "estadoClave": "razonada_pendiente_cotejo_oficial",
+      "topic": "Sífilis latente de duración desconocida: pruebas, estadios, tratamiento y seguimiento",
+      "lesson": {
+        "respuesta_resumida": "A. Penicilina benzatínica 2 400 000 UI 1 ampolla IM c/semana por 3 semanas",
+        "razonamiento": "La mujer está asintomática y se desconoce cuándo contrajo la infección. Si el RPR 1:8 se confirma mediante prueba treponémica y se descarta tratamiento previo adecuado, la clasificación operativa es sífilis latente de duración desconocida: penicilina G benzatínica 2,4 millones de UI IM semanal por tres semanas (dosis total 7,2 millones). El título RPR no permite fechar la infección y un RPR aislado NO confirma sífilis: consultar antecedentes y prueba treponémica antes de instaurar el diagnóstico definitivo.",
+        "temario": [
+          "Sífilis primaria: chancro; secundaria: erupción, lesiones mucosas y síntomas sistémicos; fase latente: serología reactiva sin hallazgos clínicos.",
+          "Pruebas no treponémicas RPR/VDRL dan título para seguimiento y pueden ser falsamente positivas; corroborar con prueba treponémica.",
+          "Latente temprana exige criterios documentados de adquisición en el último año; si no constan, tratar como tardía o de duración desconocida.",
+          "Penicilina benzatínica 2,4 MUI IM única para temprana, versus 2,4 MUI IM semanal ×3 para tardía o de duración desconocida.",
+          "Neurosífilis, ocular u ótica requieren evaluación específica y penicilina G acuosa intravenosa, generalmente 10 a 14 días.",
+          "El RPR de 1:8 no implica necesariamente infección nueva ni demuestra que pareja actual sea origen; investigar terapia previa y títulos basales.",
+          "Control clínico y cuantitativo de títulos; descenso cuádruple equivale a dos diluciones, por ejemplo de 1:8 a 1:2.",
+          "Evaluar VIH, otras ITS, síntomas neurológicos, visuales y auditivos, parejas y aspectos de consentimiento y confidencialidad."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Correcta si se confirma sífilis latente de duración desconocida: 3 dosis semanales de penicilina G benzatínica IM.",
+          "B": "Penicilina cristalina EV está indicada en neurosífilis u otras afectaciones específicas, no latente no complicada.",
+          "C": "Doxiciclina 14 días corresponde a alternativas de etapas tempranas bajo condiciones determinadas; para latente tardía la pauta alternativa no es 14 días.",
+          "D": "Dosis única IM corresponde a sífilis temprana comprobada y no basta cuando duración es desconocida."
+        },
+        "normativa": [
+          "CDC, Latent Syphilis: https://www.cdc.gov/std/treatment-guidelines/latent-syphilis.htm",
+          "MINSA, normativa de ITS y sífilis aplicable en la IPRESS."
+        ],
+        "mnemotecnia": "LATENTE TEMPRANA = 1 DOSIS; LATENTE DESCONOCIDA/TARDÍA = 3 SEMANAS.",
+        "trampas": [
+          "Identificar la pista discriminante del enunciado.",
+          "No confundir respuesta del examen con diagnóstico sin evaluación.",
+          "Revisar escenarios de la vida real con más de un factor explicativo."
+        ],
+        "perla": "LATENTE TEMPRANA = 1 DOSIS; LATENTE DESCONOCIDA/TARDÍA = 3 SEMANAS.",
+        "repaso_activo": [
+          {
+            "pregunta": "¿Cuál es el núcleo del razonamiento?",
+            "respuesta": "La mujer está asintomática y se desconoce cuándo contrajo la infección. Si el RPR 1:8 se confirma mediante prueba treponémica y se descarta tratamiento previo adecuado, la clasificación operativa es sífilis latente de duración desconocida: penicilina G benzatínica 2,4 millones de UI IM semanal por tres semanas (dosis total 7,2 millones). El título RPR no permite fechar la infección y un RPR aislado NO confirma sífilis: consultar antecedentes y prueba treponémica antes de instaurar el diagnóstico definitivo."
+          },
+          {
+            "pregunta": "¿Qué mnemotecnia resume el tema?",
+            "respuesta": "LATENTE TEMPRANA = 1 DOSIS; LATENTE DESCONOCIDA/TARDÍA = 3 SEMANAS."
+          }
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Persona asintomática con prueba treponémica positiva, sin datos de fecha de contagio. ¿Tratamiento de elección?",
+            "alternativas": {
+              "A": "Penicilina benzatínica IM semanal tres semanas",
+              "B": "Penicilina benzatínica IM dosis única",
+              "C": "Doxiciclina siete días",
+              "D": "Azitromicina dosis única",
+              "E": "Penicilina oral cinco días"
+            },
+            "respuesta": "A",
+            "explicacion": "Latente de duración desconocida."
+          },
+          {
+            "enunciado": "RPR 1:8 aislado y tratamiento previo remoto. ¿Paso siguiente?",
+            "alternativas": {
+              "A": "Afirmar reinfección",
+              "B": "Tratar neurosífilis",
+              "C": "Ignorar historia",
+              "D": "Revisar prueba treponémica, títulos y tratamientos previos",
+              "E": "Deducir fecha de contagio"
+            },
+            "respuesta": "D",
+            "explicacion": "El título aislado no define actividad ni duración."
+          }
+        ]
+      },
+      "pearl": "LATENTE TEMPRANA = 1 DOSIS; LATENTE DESCONOCIDA/TARDÍA = 3 SEMANAS."
     },
     {
       "number": 68,
@@ -6700,9 +6769,78 @@
       "razonamiento": "El DNI identifica al paciente peruano para el expediente longitudinal. Evitar duplicados y verificar datos. La atención urgente no debe retrasarse por ausencia de documento físico.",
       "code": "ENCAPS26-I P68",
       "course": "ENCAPS Medicina 2026-I",
-      "comment": "CLAVE RAZONADA: B\n\nEl DNI identifica al paciente peruano para el expediente longitudinal. Evitar duplicados y verificar datos. La atención urgente no debe retrasarse por ausencia de documento físico.",
-      "estadoDesarrollo": "pendiente_de_ampliacion",
-      "estadoClave": "razonada_pendiente_cotejo_oficial"
+      "comment": "RESPUESTA RAZONADA: B. Documento Nacional de Identidad\n\nRAZONAMIENTO\n\nEl documento nacional de identidad (DNI) es el identificador principal de una persona peruana; se vincula al número de su historia clínica conforme al sistema de registro empleado. Así se evita crear identidades clínicas duplicadas y se facilita continuidad de atención. Si un paciente llega sin identificación, especialmente en emergencia, se activa procedimiento de identificación temporal y no se demora la atención.\n\nDESARROLLO COMPLETO DEL TEMARIO\n\n1. Historia clínica: documento medico-legal cronológico que reúne anamnesis, examen, diagnósticos, tratamientos, procedimientos y evolución.\n\n2. Identificación inequívoca reduce errores de medicación, transfusión, intervenciones y entrega de resultados.\n\n3. El DNI corresponde al ciudadano peruano, mientras el carné de extranjería identifica determinadas personas extranjeras.\n\n4. Número de ingreso o atención describe un episodio; no debe confundirse con identificador longitudinal de paciente.\n\n5. Ante ausencia de documentos se realiza identificación provisional, se verifican otros datos y luego se concilian registros.\n\n6. Antes de procedimiento invasivo confirmar identificadores válidos y concordancia de registros.\n\n7. Registros deben proteger privacidad y confidencialidad mediante acceso autorizado, integridad y trazabilidad.\n\n8. En urgencia priman estabilización y seguridad; nunca exigir documento como condición para atención inmediata.\n\nANÁLISIS DE ALTERNATIVAS\n\nA) Carné de extranjería corresponde a extranjeros; no es la identificación habitual del ciudadano peruano.\n\nB) Correcta: Documento Nacional de Identidad.\n\nC) Pasaporte no es identificador ordinario preferido para la historia clínica de peruano.\n\nD) Número de ingreso identifica una visita concreta, no a la persona longitudinalmente.\n\nNORMATIVA Y FUENTES\n\nMINSA, normativa vigente de gestión de historias clínicas.\n\nLey 29733: protección de datos personales y reglamento.\n\nTRAMPAS DEL EXAMEN\n\nIdentificar la pista discriminante del enunciado.\n\nNo confundir respuesta del examen con diagnóstico sin evaluación.\n\nRevisar escenarios de la vida real con más de un factor explicativo.\n\nMNEMOTECNIA\n\nDNI = IDENTIDAD; INGRESO = EPISODIO; HC = CONTINUIDAD.\n\nREPASO ACTIVO\n\n¿Cuál es el núcleo del razonamiento? — El documento nacional de identidad (DNI) es el identificador principal de una persona peruana; se vincula al número de su historia clínica conforme al sistema de registro empleado. Así se evita crear identidades clínicas duplicadas y se facilita continuidad de atención. Si un paciente llega sin identificación, especialmente en emergencia, se activa procedimiento de identificación temporal y no se demora la atención.\n\n¿Qué mnemotecnia resume el tema? — DNI = IDENTIDAD; INGRESO = EPISODIO; HC = CONTINUIDAD.\n\nCASOS DE REFUERZO\n\n1. Adulto peruano acude a consulta. ¿Dato de identificación principal?\nA) Número de turno\nB) Código de farmacia\nC) DNI\nD) Número de cama\nE) Código de consulta\nClave C: DNI identifica a la persona.\n\n2. Paciente inconsciente sin DNI ingresa con shock. ¿Actitud?\nA) Exigir DNI antes de ingreso\nB) Usar identificador temporal y reanimar\nC) Rechazar asistencia\nD) Esperar familiar\nE) Suspender documentación\nClave B: La emergencia se atiende inmediatamente.",
+      "estadoDesarrollo": "completo",
+      "estadoClave": "razonada_pendiente_cotejo_oficial",
+      "topic": "Historia clínica: DNI, identificación segura, continuidad y confidencialidad",
+      "lesson": {
+        "respuesta_resumida": "B. Documento Nacional de Identidad",
+        "razonamiento": "El documento nacional de identidad (DNI) es el identificador principal de una persona peruana; se vincula al número de su historia clínica conforme al sistema de registro empleado. Así se evita crear identidades clínicas duplicadas y se facilita continuidad de atención. Si un paciente llega sin identificación, especialmente en emergencia, se activa procedimiento de identificación temporal y no se demora la atención.",
+        "temario": [
+          "Historia clínica: documento medico-legal cronológico que reúne anamnesis, examen, diagnósticos, tratamientos, procedimientos y evolución.",
+          "Identificación inequívoca reduce errores de medicación, transfusión, intervenciones y entrega de resultados.",
+          "El DNI corresponde al ciudadano peruano, mientras el carné de extranjería identifica determinadas personas extranjeras.",
+          "Número de ingreso o atención describe un episodio; no debe confundirse con identificador longitudinal de paciente.",
+          "Ante ausencia de documentos se realiza identificación provisional, se verifican otros datos y luego se concilian registros.",
+          "Antes de procedimiento invasivo confirmar identificadores válidos y concordancia de registros.",
+          "Registros deben proteger privacidad y confidencialidad mediante acceso autorizado, integridad y trazabilidad.",
+          "En urgencia priman estabilización y seguridad; nunca exigir documento como condición para atención inmediata."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Carné de extranjería corresponde a extranjeros; no es la identificación habitual del ciudadano peruano.",
+          "B": "Correcta: Documento Nacional de Identidad.",
+          "C": "Pasaporte no es identificador ordinario preferido para la historia clínica de peruano.",
+          "D": "Número de ingreso identifica una visita concreta, no a la persona longitudinalmente."
+        },
+        "normativa": [
+          "MINSA, normativa vigente de gestión de historias clínicas.",
+          "Ley 29733: protección de datos personales y reglamento."
+        ],
+        "mnemotecnia": "DNI = IDENTIDAD; INGRESO = EPISODIO; HC = CONTINUIDAD.",
+        "trampas": [
+          "Identificar la pista discriminante del enunciado.",
+          "No confundir respuesta del examen con diagnóstico sin evaluación.",
+          "Revisar escenarios de la vida real con más de un factor explicativo."
+        ],
+        "perla": "DNI = IDENTIDAD; INGRESO = EPISODIO; HC = CONTINUIDAD.",
+        "repaso_activo": [
+          {
+            "pregunta": "¿Cuál es el núcleo del razonamiento?",
+            "respuesta": "El documento nacional de identidad (DNI) es el identificador principal de una persona peruana; se vincula al número de su historia clínica conforme al sistema de registro empleado. Así se evita crear identidades clínicas duplicadas y se facilita continuidad de atención. Si un paciente llega sin identificación, especialmente en emergencia, se activa procedimiento de identificación temporal y no se demora la atención."
+          },
+          {
+            "pregunta": "¿Qué mnemotecnia resume el tema?",
+            "respuesta": "DNI = IDENTIDAD; INGRESO = EPISODIO; HC = CONTINUIDAD."
+          }
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Adulto peruano acude a consulta. ¿Dato de identificación principal?",
+            "alternativas": {
+              "A": "Número de turno",
+              "B": "Código de farmacia",
+              "C": "DNI",
+              "D": "Número de cama",
+              "E": "Código de consulta"
+            },
+            "respuesta": "C",
+            "explicacion": "DNI identifica a la persona."
+          },
+          {
+            "enunciado": "Paciente inconsciente sin DNI ingresa con shock. ¿Actitud?",
+            "alternativas": {
+              "A": "Exigir DNI antes de ingreso",
+              "B": "Usar identificador temporal y reanimar",
+              "C": "Rechazar asistencia",
+              "D": "Esperar familiar",
+              "E": "Suspender documentación"
+            },
+            "respuesta": "B",
+            "explicacion": "La emergencia se atiende inmediatamente."
+          }
+        ]
+      },
+      "pearl": "DNI = IDENTIDAD; INGRESO = EPISODIO; HC = CONTINUIDAD."
     },
     {
       "number": 69,
@@ -6717,9 +6855,78 @@
       "razonamiento": "AUDIT-C pregunta frecuencia de ingesta, cantidad habitual y episodios de consumo intenso; es instrumento de tamizaje, no diagnóstico definitivo de dependencia. Hamilton, Zung y SRQ exploran otros aspectos de salud mental.",
       "code": "ENCAPS26-I P69",
       "course": "ENCAPS Medicina 2026-I",
-      "comment": "CLAVE RAZONADA: C\n\nAUDIT-C pregunta frecuencia de ingesta, cantidad habitual y episodios de consumo intenso; es instrumento de tamizaje, no diagnóstico definitivo de dependencia. Hamilton, Zung y SRQ exploran otros aspectos de salud mental.",
-      "estadoDesarrollo": "pendiente_de_ampliacion",
-      "estadoClave": "razonada_pendiente_cotejo_oficial"
+      "comment": "RESPUESTA RAZONADA: C. AUDIT C\n\nRAZONAMIENTO\n\nAUDIT-C es un instrumento de cribado del consumo problemático de alcohol que contiene tres preguntas sobre frecuencia, cantidad habitual y episodios de consumo elevado. Un resultado positivo orienta evaluación y consejería, sin diagnosticar por sí solo trastorno por uso de alcohol. El desempleo exige sensibilidad a los determinantes sociales y evaluación familiar, evitando culpabilizar a Roberto.\n\nDESARROLLO COMPLETO DEL TEMARIO\n\n1. AUDIT-C: 3 preguntas puntuadas 0 a 4; total posible 0–12. Puntos de corte varían según población y protocolo.\n\n2. Frecuencia de consumo, número de bebidas estándar y frecuencia de ingestas intensas son los dominios básicos.\n\n3. AUDIT original de 10 preguntas explora riesgos, dependencia probable y consecuencias, útil para evaluación ampliada.\n\n4. Cribado positivo no equivale a diagnóstico definitivo de dependencia; ampliar historia, funcionalidad y daño.\n\n5. Intervención breve: feedback no estigmatizante, negociación de metas, entrevista motivacional y seguimiento.\n\n6. Evaluar síntomas de abstinencia, trastorno depresivo, riesgo suicida, violencia y comorbilidades cuando existan señales.\n\n7. Hamilton evalúa depresión o ansiedad según versión; Zung evalúa síntomas depresivos o ansiosos; SRQ tamiza problemas mentales comunes.\n\n8. PAIFAM y visita familiar incorporan roles, redes de apoyo, factores socioeconómicos y recursos comunitarios; documentar manteniendo confidencialidad.\n\nANÁLISIS DE ALTERNATIVAS\n\nA) Hamilton es una escala clínica de síntomas emocionales, no la mejor específica para consumo de bebidas.\n\nB) Zung indaga ansiedad o depresión, no cuantifica riesgo de consumo alcohólico.\n\nC) Correcta: AUDIT-C para cribado breve del patrón de alcohol.\n\nD) SRQ detecta problemas de salud mental comunes, pero es menos específico para el objetivo del caso.\n\nNORMATIVA Y FUENTES\n\nOMS, AUDIT: https://www.who.int/publications/i/item/WHO-MSD-MSB-01.6a\n\nMINSA, protocolos de detección e intervención breve por consumo de alcohol.\n\nTRAMPAS DEL EXAMEN\n\nIdentificar la pista discriminante del enunciado.\n\nNo confundir respuesta del examen con diagnóstico sin evaluación.\n\nRevisar escenarios de la vida real con más de un factor explicativo.\n\nMNEMOTECNIA\n\nAUDIT-C: CUÁNDO, CUÁNTO, CUÁNTO EN EXCESO.\n\nREPASO ACTIVO\n\n¿Cuál es el núcleo del razonamiento? — AUDIT-C es un instrumento de cribado del consumo problemático de alcohol que contiene tres preguntas sobre frecuencia, cantidad habitual y episodios de consumo elevado. Un resultado positivo orienta evaluación y consejería, sin diagnosticar por sí solo trastorno por uso de alcohol. El desempleo exige sensibilidad a los determinantes sociales y evaluación familiar, evitando culpabilizar a Roberto.\n\n¿Qué mnemotecnia resume el tema? — AUDIT-C: CUÁNDO, CUÁNTO, CUÁNTO EN EXCESO.\n\nCASOS DE REFUERZO\n\n1. ¿Instrumento breve para frecuencia y cantidad de consumo alcohólico?\nA) Glasgow\nB) Zung\nC) Hamilton\nD) AUDIT-C\nE) Apgar neonatal\nClave D: AUDIT-C tiene 3 preguntas.\n\n2. AUDIT-C positivo sin signos de emergencia. ¿Acción?\nA) Criminalizar consumo\nB) Ignorar puntaje\nC) Alta sin consejería\nD) Diagnosticar dependencia automáticamente\nE) Evaluación adicional e intervención breve\nClave E: Es cribado y requiere seguimiento.",
+      "estadoDesarrollo": "completo",
+      "estadoClave": "razonada_pendiente_cotejo_oficial",
+      "topic": "AUDIT-C: tamizaje de consumo de alcohol y atención familiar",
+      "lesson": {
+        "respuesta_resumida": "C. AUDIT C",
+        "razonamiento": "AUDIT-C es un instrumento de cribado del consumo problemático de alcohol que contiene tres preguntas sobre frecuencia, cantidad habitual y episodios de consumo elevado. Un resultado positivo orienta evaluación y consejería, sin diagnosticar por sí solo trastorno por uso de alcohol. El desempleo exige sensibilidad a los determinantes sociales y evaluación familiar, evitando culpabilizar a Roberto.",
+        "temario": [
+          "AUDIT-C: 3 preguntas puntuadas 0 a 4; total posible 0–12. Puntos de corte varían según población y protocolo.",
+          "Frecuencia de consumo, número de bebidas estándar y frecuencia de ingestas intensas son los dominios básicos.",
+          "AUDIT original de 10 preguntas explora riesgos, dependencia probable y consecuencias, útil para evaluación ampliada.",
+          "Cribado positivo no equivale a diagnóstico definitivo de dependencia; ampliar historia, funcionalidad y daño.",
+          "Intervención breve: feedback no estigmatizante, negociación de metas, entrevista motivacional y seguimiento.",
+          "Evaluar síntomas de abstinencia, trastorno depresivo, riesgo suicida, violencia y comorbilidades cuando existan señales.",
+          "Hamilton evalúa depresión o ansiedad según versión; Zung evalúa síntomas depresivos o ansiosos; SRQ tamiza problemas mentales comunes.",
+          "PAIFAM y visita familiar incorporan roles, redes de apoyo, factores socioeconómicos y recursos comunitarios; documentar manteniendo confidencialidad."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Hamilton es una escala clínica de síntomas emocionales, no la mejor específica para consumo de bebidas.",
+          "B": "Zung indaga ansiedad o depresión, no cuantifica riesgo de consumo alcohólico.",
+          "C": "Correcta: AUDIT-C para cribado breve del patrón de alcohol.",
+          "D": "SRQ detecta problemas de salud mental comunes, pero es menos específico para el objetivo del caso."
+        },
+        "normativa": [
+          "OMS, AUDIT: https://www.who.int/publications/i/item/WHO-MSD-MSB-01.6a",
+          "MINSA, protocolos de detección e intervención breve por consumo de alcohol."
+        ],
+        "mnemotecnia": "AUDIT-C: CUÁNDO, CUÁNTO, CUÁNTO EN EXCESO.",
+        "trampas": [
+          "Identificar la pista discriminante del enunciado.",
+          "No confundir respuesta del examen con diagnóstico sin evaluación.",
+          "Revisar escenarios de la vida real con más de un factor explicativo."
+        ],
+        "perla": "AUDIT-C: CUÁNDO, CUÁNTO, CUÁNTO EN EXCESO.",
+        "repaso_activo": [
+          {
+            "pregunta": "¿Cuál es el núcleo del razonamiento?",
+            "respuesta": "AUDIT-C es un instrumento de cribado del consumo problemático de alcohol que contiene tres preguntas sobre frecuencia, cantidad habitual y episodios de consumo elevado. Un resultado positivo orienta evaluación y consejería, sin diagnosticar por sí solo trastorno por uso de alcohol. El desempleo exige sensibilidad a los determinantes sociales y evaluación familiar, evitando culpabilizar a Roberto."
+          },
+          {
+            "pregunta": "¿Qué mnemotecnia resume el tema?",
+            "respuesta": "AUDIT-C: CUÁNDO, CUÁNTO, CUÁNTO EN EXCESO."
+          }
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "¿Instrumento breve para frecuencia y cantidad de consumo alcohólico?",
+            "alternativas": {
+              "A": "Glasgow",
+              "B": "Zung",
+              "C": "Hamilton",
+              "D": "AUDIT-C",
+              "E": "Apgar neonatal"
+            },
+            "respuesta": "D",
+            "explicacion": "AUDIT-C tiene 3 preguntas."
+          },
+          {
+            "enunciado": "AUDIT-C positivo sin signos de emergencia. ¿Acción?",
+            "alternativas": {
+              "A": "Criminalizar consumo",
+              "B": "Ignorar puntaje",
+              "C": "Alta sin consejería",
+              "D": "Diagnosticar dependencia automáticamente",
+              "E": "Evaluación adicional e intervención breve"
+            },
+            "respuesta": "E",
+            "explicacion": "Es cribado y requiere seguimiento."
+          }
+        ]
+      },
+      "pearl": "AUDIT-C: CUÁNDO, CUÁNTO, CUÁNTO EN EXCESO."
     },
     {
       "number": 70,
@@ -6734,9 +6941,79 @@
       "razonamiento": "La exclusión escolar y la necesidad colectiva de trabajo adolescente reflejan desigualdad socioeconómica, acceso a educación y oportunidades: determinantes estructurales. El trabajo a la intemperie es exposición intermedia adicional.",
       "code": "ENCAPS26-I P70",
       "course": "ENCAPS Medicina 2026-I",
-      "comment": "CLAVE RAZONADA: D\n\nLa exclusión escolar y la necesidad colectiva de trabajo adolescente reflejan desigualdad socioeconómica, acceso a educación y oportunidades: determinantes estructurales. El trabajo a la intemperie es exposición intermedia adicional.",
-      "estadoDesarrollo": "pendiente_de_ampliacion",
-      "estadoClave": "razonada_pendiente_cotejo_oficial"
+      "comment": "RESPUESTA RAZONADA: D. Estructurales\n\nRAZONAMIENTO\n\nLa asociación de trabajo adolescente, exclusión de la matrícula escolar y carencias en oportunidades refleja determinantes estructurales vinculados a distribución de recursos, educación y posición socioeconómica. Pernoctar al aire libre también implica determinantes intermedios materiales —frío, exposición a animales y vivienda precaria—, pero la dimensión sociopolítica de la exclusión educativa-laboral predomina en el ítem.\n\nDESARROLLO COMPLETO DEL TEMARIO\n\n1. Determinantes estructurales se originan en distribución de poder y recursos, políticas públicas y estratificación social.\n\n2. Educación, ocupación e ingresos contribuyen a la posición socioeconómica y al acceso desigual a oportunidades.\n\n3. Determinantes intermedios abarcan vivienda, trabajo material, ambiente físico, circunstancias psicosociales y acceso a servicios.\n\n4. No escolarización colectiva e inserción laboral precoz ameritan intervención intersectorial, no solo atención clínica individual.\n\n5. El pastoreo prolongado puede asociarse con exposición a frío, infecciones zoonóticas, problemas nutricionales y dificultades en continuidad educativa.\n\n6. Estilos de vida son conductas, pero no explican inequidades impuestas por condiciones económicas y geográficas.\n\n7. La salud adolescente requiere evaluación de desarrollo, estado emocional, seguridad, nutrición, violencia y acceso a escuela.\n\n8. Coordinación con familia, servicios sociales, educación y autoridades de protección de infancia según circunstancias locales.\n\n9. Equidad no significa ofrecer idéntico servicio a todos: se adaptan apoyos para superar barreras reales.\n\nANÁLISIS DE ALTERNATIVAS\n\nA) Estilo de vida atribuye a decisiones individuales un problema colectivo de oportunidades desiguales.\n\nB) Factores ambientales recogen exposición al campo, pero no explican por sí solos la exclusión educativa.\n\nC) Intermedios están presentes en condiciones materiales del trabajo y pernoctación; no representan el enfoque principal del enunciado.\n\nD) Correcta: educación, ocupación y exclusión socioeconómica como determinantes estructurales.\n\nNORMATIVA Y FUENTES\n\nOMS, determinantes sociales de la salud: https://www.who.int/health-topics/social-determinants-of-health\n\nMINSA, enfoque territorial e intersectorial de promoción de la salud.\n\nTRAMPAS DEL EXAMEN\n\nIdentificar la pista discriminante del enunciado.\n\nNo confundir respuesta del examen con diagnóstico sin evaluación.\n\nRevisar escenarios de la vida real con más de un factor explicativo.\n\nMNEMOTECNIA\n\nESTRUCTURAL = REGLAS Y OPORTUNIDADES; INTERMEDIO = CONDICIONES EN QUE SE VIVE.\n\nREPASO ACTIVO\n\n¿Cuál es el núcleo del razonamiento? — La asociación de trabajo adolescente, exclusión de la matrícula escolar y carencias en oportunidades refleja determinantes estructurales vinculados a distribución de recursos, educación y posición socioeconómica. Pernoctar al aire libre también implica determinantes intermedios materiales —frío, exposición a animales y vivienda precaria—, pero la dimensión sociopolítica de la exclusión educativa-laboral predomina en el ítem.\n\n¿Qué mnemotecnia resume el tema? — ESTRUCTURAL = REGLAS Y OPORTUNIDADES; INTERMEDIO = CONDICIONES EN QUE SE VIVE.\n\nCASOS DE REFUERZO\n\n1. Ausencia de matrícula por pobreza persistente y desigualdad educativa. ¿Determinante?\nA) Estructural\nB) Genético\nC) Biológico\nD) Farmacológico\nE) Microbiano\nClave A: La exclusión educativa refleja condiciones estructurales.\n\n2. Exposición al frío por pernoctar al aire libre. ¿Nivel directo?\nA) Heredado\nB) Estratégico\nC) Intermedio material\nD) Molecular\nE) Constitucional\nClave C: La condición física de vida es intermedia.",
+      "estadoDesarrollo": "completo",
+      "estadoClave": "razonada_pendiente_cotejo_oficial",
+      "topic": "Determinantes sociales estructurales: exclusión educativa y trabajo adolescente",
+      "lesson": {
+        "respuesta_resumida": "D. Estructurales",
+        "razonamiento": "La asociación de trabajo adolescente, exclusión de la matrícula escolar y carencias en oportunidades refleja determinantes estructurales vinculados a distribución de recursos, educación y posición socioeconómica. Pernoctar al aire libre también implica determinantes intermedios materiales —frío, exposición a animales y vivienda precaria—, pero la dimensión sociopolítica de la exclusión educativa-laboral predomina en el ítem.",
+        "temario": [
+          "Determinantes estructurales se originan en distribución de poder y recursos, políticas públicas y estratificación social.",
+          "Educación, ocupación e ingresos contribuyen a la posición socioeconómica y al acceso desigual a oportunidades.",
+          "Determinantes intermedios abarcan vivienda, trabajo material, ambiente físico, circunstancias psicosociales y acceso a servicios.",
+          "No escolarización colectiva e inserción laboral precoz ameritan intervención intersectorial, no solo atención clínica individual.",
+          "El pastoreo prolongado puede asociarse con exposición a frío, infecciones zoonóticas, problemas nutricionales y dificultades en continuidad educativa.",
+          "Estilos de vida son conductas, pero no explican inequidades impuestas por condiciones económicas y geográficas.",
+          "La salud adolescente requiere evaluación de desarrollo, estado emocional, seguridad, nutrición, violencia y acceso a escuela.",
+          "Coordinación con familia, servicios sociales, educación y autoridades de protección de infancia según circunstancias locales.",
+          "Equidad no significa ofrecer idéntico servicio a todos: se adaptan apoyos para superar barreras reales."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Estilo de vida atribuye a decisiones individuales un problema colectivo de oportunidades desiguales.",
+          "B": "Factores ambientales recogen exposición al campo, pero no explican por sí solos la exclusión educativa.",
+          "C": "Intermedios están presentes en condiciones materiales del trabajo y pernoctación; no representan el enfoque principal del enunciado.",
+          "D": "Correcta: educación, ocupación y exclusión socioeconómica como determinantes estructurales."
+        },
+        "normativa": [
+          "OMS, determinantes sociales de la salud: https://www.who.int/health-topics/social-determinants-of-health",
+          "MINSA, enfoque territorial e intersectorial de promoción de la salud."
+        ],
+        "mnemotecnia": "ESTRUCTURAL = REGLAS Y OPORTUNIDADES; INTERMEDIO = CONDICIONES EN QUE SE VIVE.",
+        "trampas": [
+          "Identificar la pista discriminante del enunciado.",
+          "No confundir respuesta del examen con diagnóstico sin evaluación.",
+          "Revisar escenarios de la vida real con más de un factor explicativo."
+        ],
+        "perla": "ESTRUCTURAL = REGLAS Y OPORTUNIDADES; INTERMEDIO = CONDICIONES EN QUE SE VIVE.",
+        "repaso_activo": [
+          {
+            "pregunta": "¿Cuál es el núcleo del razonamiento?",
+            "respuesta": "La asociación de trabajo adolescente, exclusión de la matrícula escolar y carencias en oportunidades refleja determinantes estructurales vinculados a distribución de recursos, educación y posición socioeconómica. Pernoctar al aire libre también implica determinantes intermedios materiales —frío, exposición a animales y vivienda precaria—, pero la dimensión sociopolítica de la exclusión educativa-laboral predomina en el ítem."
+          },
+          {
+            "pregunta": "¿Qué mnemotecnia resume el tema?",
+            "respuesta": "ESTRUCTURAL = REGLAS Y OPORTUNIDADES; INTERMEDIO = CONDICIONES EN QUE SE VIVE."
+          }
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Ausencia de matrícula por pobreza persistente y desigualdad educativa. ¿Determinante?",
+            "alternativas": {
+              "A": "Estructural",
+              "B": "Genético",
+              "C": "Biológico",
+              "D": "Farmacológico",
+              "E": "Microbiano"
+            },
+            "respuesta": "A",
+            "explicacion": "La exclusión educativa refleja condiciones estructurales."
+          },
+          {
+            "enunciado": "Exposición al frío por pernoctar al aire libre. ¿Nivel directo?",
+            "alternativas": {
+              "A": "Heredado",
+              "B": "Estratégico",
+              "C": "Intermedio material",
+              "D": "Molecular",
+              "E": "Constitucional"
+            },
+            "respuesta": "C",
+            "explicacion": "La condición física de vida es intermedia."
+          }
+        ]
+      },
+      "pearl": "ESTRUCTURAL = REGLAS Y OPORTUNIDADES; INTERMEDIO = CONDICIONES EN QUE SE VIVE."
     },
     {
       "number": 71,
