@@ -1559,7 +1559,14 @@ window.cloudSyncNow=async()=>{
      await cloudFlush();
      await cloudUploadAll(false);
    }
-   if(cloud.started)cloudUi('☁️ Avance guardado en Firebase. Comprueba tu progreso antes de cambiar de dispositivo.');
+   const metaCheck=await cloud.getDoc(cloudMetaRef());
+   const savedProgress=await cloud.getDocs(cloud.collection(cloud.fs,'users',cloud.user.uid,'progress'));
+   const expected=progress.size;
+   if(metaCheck.exists() && savedProgress.size>=expected){
+     cloudUi('☁️ Verificado: metadatos y '+savedProgress.size+' registros de progreso en Firebase.');
+   } else {
+     cloudUi('⚠️ Sincronización incompleta: meta '+(metaCheck.exists()?'OK':'FALTA')+', progreso '+savedProgress.size+'/'+expected+'. Conserva tu respaldo.');
+   }
  }catch(e){cloudUi('Sincronización pendiente: '+cloudProblem(e))}
 };
 
