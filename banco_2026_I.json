@@ -3,7 +3,7 @@
   "bankId": "ENCAPS_2026_I",
   "title": "ENCAPS 2026-I · Medicina Humana",
   "source": "Examen SERUMS Medicina 19 abril 2026 · claves resaltadas en PDF del usuario",
-  "questionCount": 20,
+  "questionCount": 25,
   "questions": [
     {
       "number": 1,
@@ -2479,6 +2479,451 @@
         "leccion_extendida": {
           "titulo": "Vacuna antiamarílica y esquema nacional peruano",
           "desarrollo": "CLAVE RAZONADA — PENDIENTE COTEJO INDEPENDIENTE CON TABLA OFICIAL\nB. Antiamarílica (AMA)\n\nRAZONAMIENTO\nLa opción que corresponde a la indicación programática clásica desde 15 meses hasta 59 años en áreas de riesgo es antiamarílica (AMA), vacuna viva atenuada contra fiebre amarilla que puede presentarse en frascos multidosis. La indicación concreta requiere considerar geografía, antecedentes, riesgo, contraindicaciones y esquema nacional vigente.\n\nDESARROLLO COMPLETO DEL TEMARIO\n1. La fiebre amarilla es enfermedad viral transmitida por mosquitos en zonas de riesgo.\n2. Antiamarílica: vacuna viva atenuada con indicaciones territoriales.\n3. Edad programática clásica: 15 meses y hasta 59 años según pregunta de esquema peruano.\n4. Multidosis requiere técnica aséptica y cumplimiento de políticas de reconstitución y frasco abierto.\n5. La inmunidad suele ser duradera; refuerzos dependen de indicación normativa.\n6. Valorar riesgo en viajero y residentes de zonas endémicas.\n7. Edad avanzada, gestación e inmunosupresión exigen precauciones o pueden contraindicar vacuna.\n8. BCG es usualmente neonatal; SPR es vacuna combinada distinta; DT cubre difteria y tétanos.\n\nANÁLISIS POR ALTERNATIVA\nA) DT no corresponde al binomio de edad y riesgo amarílico descrito.\nB) AMA es la opción esperada.\nC) BCG se emplea habitualmente al nacimiento.\nD) SPR tiene esquema propio de sarampión, parotiditis y rubéola.\n\nNORMATIVA Y REFERENCIAS\nNormativa MINSA y NTS vigente vinculada al tema: verificar versión y modificatorias al aplicar clínicamente.\nReferencias OPS/OMS y guías clínicas actuales cuando corresponda; separar clave de examen y práctica actual.\n\nTRAMPAS DE EXAMEN\nNo recomendar vacuna de fiebre amarilla a todas las personas sin evaluar riesgo.\nMultidosis no es suficiente por sí solo para identificar un inmunobiológico.\nNo confundir la edad programática con una regla clínica absoluta.\n\nMNEMOTECNIA\nAMA = ÁREA DE RIESGO AMARÍLICO.\n\nREPASO ACTIVO\nClave razonada: B. Antiamarílica (AMA)\nIdea principal: La opción que corresponde a la indicación programática clásica desde 15 meses hasta 59 años en áreas de riesgo es antiamarílica (AMA), vacuna viva atenuada contra fiebre amarilla que puede presentarse en frascos multidosis.\n\nCASOS DE REFUERZO\n1. Adulto sin antecedente viaja a zona endémica. ¿Qué vacuna valorar?\nA) BCG\nB) Rotavirus\nC) Antiamarílica\nD) DPT neonatal\nE) Solo SPR\nClave: C. Se evalúa inmunización ante riesgo territorial.\n\n2. Persona con inmunosupresión intensa pide antiamarílica. ¿Qué hacer?\nA) Evaluar contraindicación y prevención alternativa\nB) Aplicar sin evaluación\nC) Duplicar dosis\nD) Sustituir por BCG\nE) Indicar siempre\nClave: A. Las vacunas vivas pueden estar contraindicadas."
+        }
+      }
+    },
+    {
+      "number": 21,
+      "question": "Para garantizar el adecuado desempeño de los recursos humanos de su establecimiento de salud. ¿Qué se debe considerar?",
+      "options": {
+        "A": "Virtudes",
+        "B": "Competencias",
+        "C": "Valores",
+        "D": "Caracteres"
+      },
+      "correct": "B",
+      "code": "ENCAPS26-I P021",
+      "course": "ENCAPS Medicina 2026-I · Temario desarrollado",
+      "topic": "Gestión por competencias del talento humano sanitario",
+      "comment": "RESPUESTA RAZONADA (CLAVE DOCUMENTAL SIN COTEJO INDEPENDIENTE)\nB. Competencias\n\nRAZONAMIENTO COMPLETO\nLas competencias integran conocimientos, habilidades, actitudes y conductas observables que permiten un desempeño de calidad. Las virtudes y valores son relevantes, pero son dimensiones parciales del perfil de desempeño.\n\nDESARROLLO DEL TEMARIO\n1. Competencia profesional integra saber, saber hacer, saber ser y actuar en contexto.\n2. Evaluación de desempeño compara conductas observables y resultados con estándares del puesto.\n3. Capacitación continua responde a brechas de competencias, no solo a certificados.\n4. Competencias clínicas incluyen seguridad del paciente, comunicación, ética y registro.\n5. Competencias de equipo incluyen coordinación, gestión y atención intercultural.\n6. Supervisión formativa y retroalimentación permiten mejora continua.\n7. Distinguir competencia técnica, transversal y de gestión.\n8. El plan de desarrollo de personas puede vincularse con brechas del servicio.\n\nANÁLISIS DE ALTERNATIVAS\nA) Virtudes éticas contribuyen, pero no agotan el desempeño técnico y organizacional.\nB) Correcta: competencias medibles ligadas a funciones.\nC) Valores orientan conducta, aunque no sustituyen destrezas y conocimientos.\nD) Caracteres o rasgos de personalidad no definen el estándar de desempeño.\n\nNORMATIVA Y REFERENCIAS\nNormativa peruana de gestión de recursos humanos en el sector público y perfiles por competencias; verificar instrumentos institucionales.\nGuías SERVIR para gestión de capacitación y desempeño del personal.\n\nTRAMPAS\nCompetencia no equivale solo a conocimiento teórico.\nNo confundir calidad del servicio con cualidades personales aisladas.\n\nMNEMOTECNIA\nSABER + HACER + ACTUAR = COMPETENCIA.\n\nREPASO ACTIVO\n¿Clave razonada? B: Competencias.\n¿Idea de examen? SABER + HACER + ACTUAR = COMPETENCIA.\n¿Trampa frecuente? Competencia no equivale solo a conocimiento teórico.\n\nCASOS DE REFUERZO\n1. Enfermera conoce protocolos, pero no realiza correctamente triaje. ¿Qué brecha se identifica?\nA) Solo valor moral\nB) Solo antigüedad\nC) Competencia práctica\nD) Solo carácter\nE) Solo puntualidad\nClave C. El desempeño exige aplicar el conocimiento.\n\n2. Director organiza evaluación basada en procedimientos observables. ¿Qué enfoque usa?\nA) Gestión por competencias\nB) Antigüedad exclusivamente\nC) Improvisación\nD) Evaluación por simpatía\nE) Sorteo\nClave A. Se mide el desempeño respecto a tareas y estándares.",
+      "pearl": "SABER + HACER + ACTUAR = COMPETENCIA.",
+      "keywords": [
+        "Gestión por competencias del talento humano sanitario",
+        "ENCAPS Medicina 2026-I",
+        "SERUMS MINSA"
+      ],
+      "estadoDesarrollo": "completo",
+      "estadoClave": "interpretacion_pendiente_cotejo_clave_oficial",
+      "lesson": {
+        "respuesta_resumida": "B. Competencias",
+        "razonamiento": "Las competencias integran conocimientos, habilidades, actitudes y conductas observables que permiten un desempeño de calidad. Las virtudes y valores son relevantes, pero son dimensiones parciales del perfil de desempeño.",
+        "temario": [
+          "Competencia profesional integra saber, saber hacer, saber ser y actuar en contexto.",
+          "Evaluación de desempeño compara conductas observables y resultados con estándares del puesto.",
+          "Capacitación continua responde a brechas de competencias, no solo a certificados.",
+          "Competencias clínicas incluyen seguridad del paciente, comunicación, ética y registro.",
+          "Competencias de equipo incluyen coordinación, gestión y atención intercultural.",
+          "Supervisión formativa y retroalimentación permiten mejora continua.",
+          "Distinguir competencia técnica, transversal y de gestión.",
+          "El plan de desarrollo de personas puede vincularse con brechas del servicio."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Virtudes éticas contribuyen, pero no agotan el desempeño técnico y organizacional.",
+          "B": "Correcta: competencias medibles ligadas a funciones.",
+          "C": "Valores orientan conducta, aunque no sustituyen destrezas y conocimientos.",
+          "D": "Caracteres o rasgos de personalidad no definen el estándar de desempeño."
+        },
+        "normativa": [
+          "Normativa peruana de gestión de recursos humanos en el sector público y perfiles por competencias; verificar instrumentos institucionales.",
+          "Guías SERVIR para gestión de capacitación y desempeño del personal."
+        ],
+        "mnemotecnia": "SABER + HACER + ACTUAR = COMPETENCIA.",
+        "trampas": [
+          "Competencia no equivale solo a conocimiento teórico.",
+          "No confundir calidad del servicio con cualidades personales aisladas."
+        ],
+        "perla": "SABER + HACER + ACTUAR = COMPETENCIA.",
+        "repaso_activo": [
+          "¿Clave razonada? B: Competencias.",
+          "¿Idea de examen? SABER + HACER + ACTUAR = COMPETENCIA.",
+          "¿Trampa frecuente? Competencia no equivale solo a conocimiento teórico."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Enfermera conoce protocolos, pero no realiza correctamente triaje. ¿Qué brecha se identifica?",
+            "alternativas": {
+              "A": "Solo valor moral",
+              "B": "Solo antigüedad",
+              "C": "Competencia práctica",
+              "D": "Solo carácter",
+              "E": "Solo puntualidad"
+            },
+            "respuesta": "C",
+            "explicacion": "El desempeño exige aplicar el conocimiento."
+          },
+          {
+            "enunciado": "Director organiza evaluación basada en procedimientos observables. ¿Qué enfoque usa?",
+            "alternativas": {
+              "A": "Gestión por competencias",
+              "B": "Antigüedad exclusivamente",
+              "C": "Improvisación",
+              "D": "Evaluación por simpatía",
+              "E": "Sorteo"
+            },
+            "respuesta": "A",
+            "explicacion": "Se mide el desempeño respecto a tareas y estándares."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Gestión por competencias del talento humano sanitario",
+          "desarrollo": "RESPUESTA RAZONADA (CLAVE DOCUMENTAL SIN COTEJO INDEPENDIENTE)\nB. Competencias\n\nRAZONAMIENTO COMPLETO\nLas competencias integran conocimientos, habilidades, actitudes y conductas observables que permiten un desempeño de calidad. Las virtudes y valores son relevantes, pero son dimensiones parciales del perfil de desempeño.\n\nDESARROLLO DEL TEMARIO\n1. Competencia profesional integra saber, saber hacer, saber ser y actuar en contexto.\n2. Evaluación de desempeño compara conductas observables y resultados con estándares del puesto.\n3. Capacitación continua responde a brechas de competencias, no solo a certificados.\n4. Competencias clínicas incluyen seguridad del paciente, comunicación, ética y registro.\n5. Competencias de equipo incluyen coordinación, gestión y atención intercultural.\n6. Supervisión formativa y retroalimentación permiten mejora continua.\n7. Distinguir competencia técnica, transversal y de gestión.\n8. El plan de desarrollo de personas puede vincularse con brechas del servicio.\n\nANÁLISIS DE ALTERNATIVAS\nA) Virtudes éticas contribuyen, pero no agotan el desempeño técnico y organizacional.\nB) Correcta: competencias medibles ligadas a funciones.\nC) Valores orientan conducta, aunque no sustituyen destrezas y conocimientos.\nD) Caracteres o rasgos de personalidad no definen el estándar de desempeño.\n\nNORMATIVA Y REFERENCIAS\nNormativa peruana de gestión de recursos humanos en el sector público y perfiles por competencias; verificar instrumentos institucionales.\nGuías SERVIR para gestión de capacitación y desempeño del personal.\n\nTRAMPAS\nCompetencia no equivale solo a conocimiento teórico.\nNo confundir calidad del servicio con cualidades personales aisladas.\n\nMNEMOTECNIA\nSABER + HACER + ACTUAR = COMPETENCIA.\n\nREPASO ACTIVO\n¿Clave razonada? B: Competencias.\n¿Idea de examen? SABER + HACER + ACTUAR = COMPETENCIA.\n¿Trampa frecuente? Competencia no equivale solo a conocimiento teórico.\n\nCASOS DE REFUERZO\n1. Enfermera conoce protocolos, pero no realiza correctamente triaje. ¿Qué brecha se identifica?\nA) Solo valor moral\nB) Solo antigüedad\nC) Competencia práctica\nD) Solo carácter\nE) Solo puntualidad\nClave C. El desempeño exige aplicar el conocimiento.\n\n2. Director organiza evaluación basada en procedimientos observables. ¿Qué enfoque usa?\nA) Gestión por competencias\nB) Antigüedad exclusivamente\nC) Improvisación\nD) Evaluación por simpatía\nE) Sorteo\nClave A. Se mide el desempeño respecto a tareas y estándares."
+        }
+      }
+    },
+    {
+      "number": 22,
+      "question": "Se considera posible cáncer o enfermedad muy grave a todo niño o adolescente que presente:",
+      "options": {
+        "A": "Ganglios mayores de 5 cm de cualquier localización",
+        "B": "Inicio progresivo de visión borrosa, doble o ceguera",
+        "C": "Cefalea con pred, diurno, persistente y progresivo",
+        "D": "Fiebre de duración mayor a 7 días sin causa conocida"
+      },
+      "correct": "D",
+      "code": "ENCAPS26-I P022",
+      "course": "ENCAPS Medicina 2026-I · Temario desarrollado",
+      "topic": "Alarma de cáncer infantil: fiebre persistente y otros signos",
+      "comment": "RESPUESTA RAZONADA (CLAVE DOCUMENTAL SIN COTEJO INDEPENDIENTE)\nD. Fiebre de duración mayor a 7 días sin causa conocida\n\nRAZONAMIENTO COMPLETO\nLa fiebre de más de siete días sin causa conocida figura expresamente entre las alertas de posible cáncer o enfermedad muy grave. No obstante, el ítem es ambiguo: adenopatías marcadas y alteraciones visuales también ameritan evaluación urgente; la cefalea de alarma suele describirse con predominio nocturno o matutino, no diurno. La alternativa D es la coincidencia textual más sólida, pero no debe considerarse que A o B carezcan de alarma clínica. Se registra la clave como interpretación pendiente de cotejo oficial.\n\nDESARROLLO DEL TEMARIO\n1. El cáncer infantil puede presentarse con síntomas inespecíficos inicialmente.\n2. Fiebre persistente sin foco exige exploración completa y valoración de infecciones, neoplasias y otras etiologías.\n3. Ganglios duros, no dolorosos, persistentes y de tamaño relevante ameritan estudio; algunas guías usan umbrales menores de 5 cm.\n4. Alteraciones de visión, leucocoria, estrabismo nuevo o signos neurológicos requieren derivación oportuna.\n5. Cefalea progresiva, especialmente nocturna/matutina o acompañada de vómitos, es signo de alarma.\n6. Petequias, sangrado, palidez marcada, dolor óseo progresivo y masa abdominal son alertas.\n7. Ante criterios de posible cáncer, la referencia al tercer nivel debe gestionarse oportunamente conforme a norma.\n8. No confundir signo de alerta con confirmación diagnóstica de neoplasia.\n9. La presencia de un solo signo suficientemente preocupante puede justificar evaluación especializada.\n\nANÁLISIS DE ALTERNATIVAS\nA) Ganglios de 5 cm son muy preocupantes, pero el criterio formal incluye cualidades y umbrales menores, por lo que no puede tratarse como benigno.\nB) Alteraciones visuales progresivas pueden alertar de enfermedad grave; la redacción normativa puede describir inicio súbito o pérdida progresiva según el signo.\nC) La cefalea de alarma es persistente/progresiva con predominio nocturno o al despertar, no típicamente diurno.\nD) Coincide con la alerta oficial de fiebre mayor de siete días sin causa aparente.\n\nNORMATIVA Y REFERENCIAS\nMINSA, Directiva Sanitaria y guía para diagnóstico precoz de cáncer en niños y adolescentes: https://cdn.www.gob.pe/uploads/document/file/1226986/guia-de-diagnostico-precoz-de-cancer-en-ni%C3%B1os-y-adolescentes-en-peru.pdf\nMINSA, señales de alerta de cáncer infantil: https://www.gob.pe/55049\n\nTRAMPAS\nPregunta de selección única con otras opciones también potencialmente alarmantes.\nFiebre prolongada no equivale automáticamente a neoplasia.\nNo retrasar referencia por falta de confirmación histológica cuando se sospecha enfermedad grave.\n\nMNEMOTECNIA\nNIÑO: FIEBRE >7 DÍAS, SANGRADO, MASA, PALIDEZ, OJO BLANCO.\n\nREPASO ACTIVO\n¿Clave razonada? D: Fiebre de duración mayor a 7 días sin causa conocida.\n¿Idea de examen? NIÑO: FIEBRE >7 DÍAS, SANGRADO, MASA, PALIDEZ, OJO BLANCO.\n¿Trampa frecuente? Pregunta de selección única con otras opciones también potencialmente alarmantes.\n\nCASOS DE REFUERZO\n1. Niña tiene fiebre de 10 días sin causa definida y adenopatías. ¿Qué hacer?\nA) Solo antipirético indefinido\nB) Ignorar\nC) Dar alta sin reevaluar\nD) Evaluar y gestionar referencia según sospecha\nE) Esperar meses\nClave D. La fiebre prolongada y adenopatías exigen estudio.\n\n2. Escolar presenta leucocoria reciente. ¿Cuál conducta corresponde?\nA) Observación anual\nB) Derivación urgente para evaluación\nC) Solo lentes sin examen\nD) No registrar\nE) Atribuir a cansancio\nClave B. La leucocoria es una alerta ocular importante.",
+      "pearl": "NIÑO: FIEBRE >7 DÍAS, SANGRADO, MASA, PALIDEZ, OJO BLANCO.",
+      "keywords": [
+        "Alarma de cáncer infantil: fiebre persistente y otros signos",
+        "ENCAPS Medicina 2026-I",
+        "SERUMS MINSA"
+      ],
+      "estadoDesarrollo": "completo",
+      "estadoClave": "ambigua_interpretacion_pendiente_tabla_oficial",
+      "lesson": {
+        "respuesta_resumida": "D. Fiebre de duración mayor a 7 días sin causa conocida",
+        "razonamiento": "La fiebre de más de siete días sin causa conocida figura expresamente entre las alertas de posible cáncer o enfermedad muy grave. No obstante, el ítem es ambiguo: adenopatías marcadas y alteraciones visuales también ameritan evaluación urgente; la cefalea de alarma suele describirse con predominio nocturno o matutino, no diurno. La alternativa D es la coincidencia textual más sólida, pero no debe considerarse que A o B carezcan de alarma clínica. Se registra la clave como interpretación pendiente de cotejo oficial.",
+        "temario": [
+          "El cáncer infantil puede presentarse con síntomas inespecíficos inicialmente.",
+          "Fiebre persistente sin foco exige exploración completa y valoración de infecciones, neoplasias y otras etiologías.",
+          "Ganglios duros, no dolorosos, persistentes y de tamaño relevante ameritan estudio; algunas guías usan umbrales menores de 5 cm.",
+          "Alteraciones de visión, leucocoria, estrabismo nuevo o signos neurológicos requieren derivación oportuna.",
+          "Cefalea progresiva, especialmente nocturna/matutina o acompañada de vómitos, es signo de alarma.",
+          "Petequias, sangrado, palidez marcada, dolor óseo progresivo y masa abdominal son alertas.",
+          "Ante criterios de posible cáncer, la referencia al tercer nivel debe gestionarse oportunamente conforme a norma.",
+          "No confundir signo de alerta con confirmación diagnóstica de neoplasia.",
+          "La presencia de un solo signo suficientemente preocupante puede justificar evaluación especializada."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Ganglios de 5 cm son muy preocupantes, pero el criterio formal incluye cualidades y umbrales menores, por lo que no puede tratarse como benigno.",
+          "B": "Alteraciones visuales progresivas pueden alertar de enfermedad grave; la redacción normativa puede describir inicio súbito o pérdida progresiva según el signo.",
+          "C": "La cefalea de alarma es persistente/progresiva con predominio nocturno o al despertar, no típicamente diurno.",
+          "D": "Coincide con la alerta oficial de fiebre mayor de siete días sin causa aparente."
+        },
+        "normativa": [
+          "MINSA, Directiva Sanitaria y guía para diagnóstico precoz de cáncer en niños y adolescentes: https://cdn.www.gob.pe/uploads/document/file/1226986/guia-de-diagnostico-precoz-de-cancer-en-ni%C3%B1os-y-adolescentes-en-peru.pdf",
+          "MINSA, señales de alerta de cáncer infantil: https://www.gob.pe/55049"
+        ],
+        "mnemotecnia": "NIÑO: FIEBRE >7 DÍAS, SANGRADO, MASA, PALIDEZ, OJO BLANCO.",
+        "trampas": [
+          "Pregunta de selección única con otras opciones también potencialmente alarmantes.",
+          "Fiebre prolongada no equivale automáticamente a neoplasia.",
+          "No retrasar referencia por falta de confirmación histológica cuando se sospecha enfermedad grave."
+        ],
+        "perla": "NIÑO: FIEBRE >7 DÍAS, SANGRADO, MASA, PALIDEZ, OJO BLANCO.",
+        "repaso_activo": [
+          "¿Clave razonada? D: Fiebre de duración mayor a 7 días sin causa conocida.",
+          "¿Idea de examen? NIÑO: FIEBRE >7 DÍAS, SANGRADO, MASA, PALIDEZ, OJO BLANCO.",
+          "¿Trampa frecuente? Pregunta de selección única con otras opciones también potencialmente alarmantes."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Niña tiene fiebre de 10 días sin causa definida y adenopatías. ¿Qué hacer?",
+            "alternativas": {
+              "A": "Solo antipirético indefinido",
+              "B": "Ignorar",
+              "C": "Dar alta sin reevaluar",
+              "D": "Evaluar y gestionar referencia según sospecha",
+              "E": "Esperar meses"
+            },
+            "respuesta": "D",
+            "explicacion": "La fiebre prolongada y adenopatías exigen estudio."
+          },
+          {
+            "enunciado": "Escolar presenta leucocoria reciente. ¿Cuál conducta corresponde?",
+            "alternativas": {
+              "A": "Observación anual",
+              "B": "Derivación urgente para evaluación",
+              "C": "Solo lentes sin examen",
+              "D": "No registrar",
+              "E": "Atribuir a cansancio"
+            },
+            "respuesta": "B",
+            "explicacion": "La leucocoria es una alerta ocular importante."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Alarma de cáncer infantil: fiebre persistente y otros signos",
+          "desarrollo": "RESPUESTA RAZONADA (CLAVE DOCUMENTAL SIN COTEJO INDEPENDIENTE)\nD. Fiebre de duración mayor a 7 días sin causa conocida\n\nRAZONAMIENTO COMPLETO\nLa fiebre de más de siete días sin causa conocida figura expresamente entre las alertas de posible cáncer o enfermedad muy grave. No obstante, el ítem es ambiguo: adenopatías marcadas y alteraciones visuales también ameritan evaluación urgente; la cefalea de alarma suele describirse con predominio nocturno o matutino, no diurno. La alternativa D es la coincidencia textual más sólida, pero no debe considerarse que A o B carezcan de alarma clínica. Se registra la clave como interpretación pendiente de cotejo oficial.\n\nDESARROLLO DEL TEMARIO\n1. El cáncer infantil puede presentarse con síntomas inespecíficos inicialmente.\n2. Fiebre persistente sin foco exige exploración completa y valoración de infecciones, neoplasias y otras etiologías.\n3. Ganglios duros, no dolorosos, persistentes y de tamaño relevante ameritan estudio; algunas guías usan umbrales menores de 5 cm.\n4. Alteraciones de visión, leucocoria, estrabismo nuevo o signos neurológicos requieren derivación oportuna.\n5. Cefalea progresiva, especialmente nocturna/matutina o acompañada de vómitos, es signo de alarma.\n6. Petequias, sangrado, palidez marcada, dolor óseo progresivo y masa abdominal son alertas.\n7. Ante criterios de posible cáncer, la referencia al tercer nivel debe gestionarse oportunamente conforme a norma.\n8. No confundir signo de alerta con confirmación diagnóstica de neoplasia.\n9. La presencia de un solo signo suficientemente preocupante puede justificar evaluación especializada.\n\nANÁLISIS DE ALTERNATIVAS\nA) Ganglios de 5 cm son muy preocupantes, pero el criterio formal incluye cualidades y umbrales menores, por lo que no puede tratarse como benigno.\nB) Alteraciones visuales progresivas pueden alertar de enfermedad grave; la redacción normativa puede describir inicio súbito o pérdida progresiva según el signo.\nC) La cefalea de alarma es persistente/progresiva con predominio nocturno o al despertar, no típicamente diurno.\nD) Coincide con la alerta oficial de fiebre mayor de siete días sin causa aparente.\n\nNORMATIVA Y REFERENCIAS\nMINSA, Directiva Sanitaria y guía para diagnóstico precoz de cáncer en niños y adolescentes: https://cdn.www.gob.pe/uploads/document/file/1226986/guia-de-diagnostico-precoz-de-cancer-en-ni%C3%B1os-y-adolescentes-en-peru.pdf\nMINSA, señales de alerta de cáncer infantil: https://www.gob.pe/55049\n\nTRAMPAS\nPregunta de selección única con otras opciones también potencialmente alarmantes.\nFiebre prolongada no equivale automáticamente a neoplasia.\nNo retrasar referencia por falta de confirmación histológica cuando se sospecha enfermedad grave.\n\nMNEMOTECNIA\nNIÑO: FIEBRE >7 DÍAS, SANGRADO, MASA, PALIDEZ, OJO BLANCO.\n\nREPASO ACTIVO\n¿Clave razonada? D: Fiebre de duración mayor a 7 días sin causa conocida.\n¿Idea de examen? NIÑO: FIEBRE >7 DÍAS, SANGRADO, MASA, PALIDEZ, OJO BLANCO.\n¿Trampa frecuente? Pregunta de selección única con otras opciones también potencialmente alarmantes.\n\nCASOS DE REFUERZO\n1. Niña tiene fiebre de 10 días sin causa definida y adenopatías. ¿Qué hacer?\nA) Solo antipirético indefinido\nB) Ignorar\nC) Dar alta sin reevaluar\nD) Evaluar y gestionar referencia según sospecha\nE) Esperar meses\nClave D. La fiebre prolongada y adenopatías exigen estudio.\n\n2. Escolar presenta leucocoria reciente. ¿Cuál conducta corresponde?\nA) Observación anual\nB) Derivación urgente para evaluación\nC) Solo lentes sin examen\nD) No registrar\nE) Atribuir a cansancio\nClave B. La leucocoria es una alerta ocular importante."
+        }
+      }
+    },
+    {
+      "number": 23,
+      "question": "Se identifica un caso índice de tuberculosis en su comunidad, en población semicerrada, por lo que, de acuerdo con la normativa, inicia estudio de contactos. ¿Cuál es el plazo límite para el estudio de contactos?",
+      "options": {
+        "A": "≤7 días calendario",
+        "B": ">7 días calendario",
+        "C": "<48 horas",
+        "D": "≥48 horas"
+      },
+      "correct": "A",
+      "code": "ENCAPS26-I P023",
+      "course": "ENCAPS Medicina 2026-I · Temario desarrollado",
+      "topic": "Tuberculosis: contactos en población cerrada y semicerrada",
+      "comment": "RESPUESTA RAZONADA (CLAVE DOCUMENTAL SIN COTEJO INDEPENDIENTE)\nA. ≤7 días calendario\n\nRAZONAMIENTO COMPLETO\nLa norma peruana distingue el plazo general de censo y examen integral de contactos (no mayor de dos semanas) de la búsqueda activa y evaluación clínica de contactos en población cerrada/semicerrada, que debe implementarse en no más de 7 días calendario. El enunciado apunta a esta última condición.\n\nDESARROLLO DEL TEMARIO\n1. Caso índice es el caso que desencadena investigación de contactos, sin asumir siempre fuente primaria.\n2. Contactos intradomiciliarios y extradomiciliarios se censan y estratifican según exposición.\n3. Poblaciones cerradas o semicerradas exigen intervención organizada y rápida.\n4. Evaluación clínica de contactos en estos escenarios: máximo siete días calendario.\n5. En términos generales, censo y examen integral se completan en plazo no mayor de dos semanas según norma consultada.\n6. Evaluación contempla síntomas y pruebas radiológicas, inmunológicas o bacteriológicas indicadas.\n7. Antes de terapia preventiva de TB debe descartarse enfermedad activa.\n8. Niños pequeños, personas con VIH e inmunosuprimidos necesitan evaluación prioritaria.\n9. Registrar acciones y seguimiento en los sistemas oficiales correspondientes.\n\nANÁLISIS DE ALTERNATIVAS\nA) Correcta para la evaluación rápida de contactos en población cerrada o semicerrada.\nB) Excede el plazo específico previsto.\nC) Menos de 48 horas no es el plazo normativo general solicitado, aunque urgencias concretas puedan exigir actuar antes.\nD) Mayor o igual a 48 horas no establece un máximo apropiado.\n\nNORMATIVA Y REFERENCIAS\nNorma Técnica peruana de atención integral de tuberculosis, apartado 6.1.1.2 estudio de contactos: https://bvs.minsa.gob.pe/local/MINSA/7667.pdf\n\nTRAMPAS\nNo confundir 7 días para intervención en población cerrada/semicerrada con 2 semanas de censo y examen general.\nNo esperar inicio de tratamiento del caso índice para comenzar estudio.\nDescartar TB activa antes de indicar terapia preventiva.\n\nMNEMOTECNIA\nTB EN POBLACIÓN CERRADA: 7 DÍAS.\n\nREPASO ACTIVO\n¿Clave razonada? A: ≤7 días calendario.\n¿Idea de examen? TB EN POBLACIÓN CERRADA: 7 DÍAS.\n¿Trampa frecuente? No confundir 7 días para intervención en población cerrada/semicerrada con 2 semanas de censo y examen general.\n\nCASOS DE REFUERZO\n1. Se detecta TB en internado residencial. ¿En qué plazo realizar evaluación clínica de contactos según norma?\nA) 30 días\nB) 90 días\nC) 7 días calendario como máximo\nD) Solo al egreso\nE) 6 meses\nClave C. Es población semicerrada con búsqueda activa prioritaria.\n\n2. Contacto menor de cinco años de caso pulmonar bacilífero. ¿Qué prioridad?\nA) Descartar TB activa e indicar manejo según riesgo\nB) Esperar síntomas graves\nC) No visitar\nD) Solo medir peso\nE) Descartar por edad\nClave A. Los niños pequeños son grupo prioritario.",
+      "pearl": "TB EN POBLACIÓN CERRADA: 7 DÍAS.",
+      "keywords": [
+        "Tuberculosis: contactos en población cerrada y semicerrada",
+        "ENCAPS Medicina 2026-I",
+        "SERUMS MINSA"
+      ],
+      "estadoDesarrollo": "completo",
+      "estadoClave": "interpretacion_pendiente_cotejo_clave_oficial",
+      "lesson": {
+        "respuesta_resumida": "A. ≤7 días calendario",
+        "razonamiento": "La norma peruana distingue el plazo general de censo y examen integral de contactos (no mayor de dos semanas) de la búsqueda activa y evaluación clínica de contactos en población cerrada/semicerrada, que debe implementarse en no más de 7 días calendario. El enunciado apunta a esta última condición.",
+        "temario": [
+          "Caso índice es el caso que desencadena investigación de contactos, sin asumir siempre fuente primaria.",
+          "Contactos intradomiciliarios y extradomiciliarios se censan y estratifican según exposición.",
+          "Poblaciones cerradas o semicerradas exigen intervención organizada y rápida.",
+          "Evaluación clínica de contactos en estos escenarios: máximo siete días calendario.",
+          "En términos generales, censo y examen integral se completan en plazo no mayor de dos semanas según norma consultada.",
+          "Evaluación contempla síntomas y pruebas radiológicas, inmunológicas o bacteriológicas indicadas.",
+          "Antes de terapia preventiva de TB debe descartarse enfermedad activa.",
+          "Niños pequeños, personas con VIH e inmunosuprimidos necesitan evaluación prioritaria.",
+          "Registrar acciones y seguimiento en los sistemas oficiales correspondientes."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Correcta para la evaluación rápida de contactos en población cerrada o semicerrada.",
+          "B": "Excede el plazo específico previsto.",
+          "C": "Menos de 48 horas no es el plazo normativo general solicitado, aunque urgencias concretas puedan exigir actuar antes.",
+          "D": "Mayor o igual a 48 horas no establece un máximo apropiado."
+        },
+        "normativa": [
+          "Norma Técnica peruana de atención integral de tuberculosis, apartado 6.1.1.2 estudio de contactos: https://bvs.minsa.gob.pe/local/MINSA/7667.pdf"
+        ],
+        "mnemotecnia": "TB EN POBLACIÓN CERRADA: 7 DÍAS.",
+        "trampas": [
+          "No confundir 7 días para intervención en población cerrada/semicerrada con 2 semanas de censo y examen general.",
+          "No esperar inicio de tratamiento del caso índice para comenzar estudio.",
+          "Descartar TB activa antes de indicar terapia preventiva."
+        ],
+        "perla": "TB EN POBLACIÓN CERRADA: 7 DÍAS.",
+        "repaso_activo": [
+          "¿Clave razonada? A: ≤7 días calendario.",
+          "¿Idea de examen? TB EN POBLACIÓN CERRADA: 7 DÍAS.",
+          "¿Trampa frecuente? No confundir 7 días para intervención en población cerrada/semicerrada con 2 semanas de censo y examen general."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Se detecta TB en internado residencial. ¿En qué plazo realizar evaluación clínica de contactos según norma?",
+            "alternativas": {
+              "A": "30 días",
+              "B": "90 días",
+              "C": "7 días calendario como máximo",
+              "D": "Solo al egreso",
+              "E": "6 meses"
+            },
+            "respuesta": "C",
+            "explicacion": "Es población semicerrada con búsqueda activa prioritaria."
+          },
+          {
+            "enunciado": "Contacto menor de cinco años de caso pulmonar bacilífero. ¿Qué prioridad?",
+            "alternativas": {
+              "A": "Descartar TB activa e indicar manejo según riesgo",
+              "B": "Esperar síntomas graves",
+              "C": "No visitar",
+              "D": "Solo medir peso",
+              "E": "Descartar por edad"
+            },
+            "respuesta": "A",
+            "explicacion": "Los niños pequeños son grupo prioritario."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Tuberculosis: contactos en población cerrada y semicerrada",
+          "desarrollo": "RESPUESTA RAZONADA (CLAVE DOCUMENTAL SIN COTEJO INDEPENDIENTE)\nA. ≤7 días calendario\n\nRAZONAMIENTO COMPLETO\nLa norma peruana distingue el plazo general de censo y examen integral de contactos (no mayor de dos semanas) de la búsqueda activa y evaluación clínica de contactos en población cerrada/semicerrada, que debe implementarse en no más de 7 días calendario. El enunciado apunta a esta última condición.\n\nDESARROLLO DEL TEMARIO\n1. Caso índice es el caso que desencadena investigación de contactos, sin asumir siempre fuente primaria.\n2. Contactos intradomiciliarios y extradomiciliarios se censan y estratifican según exposición.\n3. Poblaciones cerradas o semicerradas exigen intervención organizada y rápida.\n4. Evaluación clínica de contactos en estos escenarios: máximo siete días calendario.\n5. En términos generales, censo y examen integral se completan en plazo no mayor de dos semanas según norma consultada.\n6. Evaluación contempla síntomas y pruebas radiológicas, inmunológicas o bacteriológicas indicadas.\n7. Antes de terapia preventiva de TB debe descartarse enfermedad activa.\n8. Niños pequeños, personas con VIH e inmunosuprimidos necesitan evaluación prioritaria.\n9. Registrar acciones y seguimiento en los sistemas oficiales correspondientes.\n\nANÁLISIS DE ALTERNATIVAS\nA) Correcta para la evaluación rápida de contactos en población cerrada o semicerrada.\nB) Excede el plazo específico previsto.\nC) Menos de 48 horas no es el plazo normativo general solicitado, aunque urgencias concretas puedan exigir actuar antes.\nD) Mayor o igual a 48 horas no establece un máximo apropiado.\n\nNORMATIVA Y REFERENCIAS\nNorma Técnica peruana de atención integral de tuberculosis, apartado 6.1.1.2 estudio de contactos: https://bvs.minsa.gob.pe/local/MINSA/7667.pdf\n\nTRAMPAS\nNo confundir 7 días para intervención en población cerrada/semicerrada con 2 semanas de censo y examen general.\nNo esperar inicio de tratamiento del caso índice para comenzar estudio.\nDescartar TB activa antes de indicar terapia preventiva.\n\nMNEMOTECNIA\nTB EN POBLACIÓN CERRADA: 7 DÍAS.\n\nREPASO ACTIVO\n¿Clave razonada? A: ≤7 días calendario.\n¿Idea de examen? TB EN POBLACIÓN CERRADA: 7 DÍAS.\n¿Trampa frecuente? No confundir 7 días para intervención en población cerrada/semicerrada con 2 semanas de censo y examen general.\n\nCASOS DE REFUERZO\n1. Se detecta TB en internado residencial. ¿En qué plazo realizar evaluación clínica de contactos según norma?\nA) 30 días\nB) 90 días\nC) 7 días calendario como máximo\nD) Solo al egreso\nE) 6 meses\nClave C. Es población semicerrada con búsqueda activa prioritaria.\n\n2. Contacto menor de cinco años de caso pulmonar bacilífero. ¿Qué prioridad?\nA) Descartar TB activa e indicar manejo según riesgo\nB) Esperar síntomas graves\nC) No visitar\nD) Solo medir peso\nE) Descartar por edad\nClave A. Los niños pequeños son grupo prioritario."
+        }
+      }
+    },
+    {
+      "number": 24,
+      "question": "Se desea ordenar el servicio de Admisión en un establecimiento de salud. ¿Hasta cuántos años de la última consulta se pueden tener las historias clínicas en el archivo activo?",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "5",
+        "D": "10"
+      },
+      "correct": "C",
+      "code": "ENCAPS26-I P024",
+      "course": "ENCAPS Medicina 2026-I · Temario desarrollado",
+      "topic": "Gestión de historia clínica: archivo activo y pasivo",
+      "comment": "RESPUESTA RAZONADA (CLAVE DOCUMENTAL SIN COTEJO INDEPENDIENTE)\nC. 5\n\nRAZONAMIENTO COMPLETO\nLa NTS N.º 139-MINSA/2018/DGAIN dispone que el archivo activo contiene historias clínicas utilizadas durante los últimos cinco años desde la última prestación. Después de cinco años sin ser solicitada, la historia pasa a archivo pasivo según procedimiento. No significa que se destruya al quinto año.\n\nDESARROLLO DEL TEMARIO\n1. Historia clínica es documento médico-legal reservado con registro longitudinal.\n2. Archivo activo agrupa historias solicitadas o utilizadas durante los últimos cinco años.\n3. El cómputo se considera desde la última prestación o atención pertinente.\n4. Archivo pasivo conserva historias no solicitadas por más de cinco años.\n5. Archivo especial puede incluir casos médico-legales, científicos o históricos.\n6. Custodia, confidencialidad y trazabilidad de accesos son responsabilidades institucionales.\n7. Transferencia a pasivo no implica eliminación automática ni pérdida del identificador.\n8. Los plazos generales de conservación total y excepciones se determinan por la norma y tablas archivísticas vigentes.\n\nANÁLISIS DE ALTERNATIVAS\nA) Dos años es menor que plazo del archivo activo.\nB) Tres años tampoco corresponde al período establecido.\nC) Correcta: cinco años.\nD) Diez años no es duración ordinaria del archivo activo.\n\nNORMATIVA Y REFERENCIAS\nNTS 139-MINSA/2018/DGAIN, Norma Técnica de Salud para la Gestión de la Historia Clínica: https://www.ino.gob.pe/wp-content/uploads/2023/05/NTS-GESTION-HISTORIA-CLINICA-MINSA-2018.pdf\n\nTRAMPAS\nActivo no equivale a plazo máximo de conservación total.\nCambiar a pasivo exige manejo administrativo y resguardo.\nNo divulgar historias clínicas sin causa legítima.\n\nMNEMOTECNIA\nACTIVO = CINCO AÑOS.\n\nREPASO ACTIVO\n¿Clave razonada? C: 5.\n¿Idea de examen? ACTIVO = CINCO AÑOS.\n¿Trampa frecuente? Activo no equivale a plazo máximo de conservación total.\n\nCASOS DE REFUERZO\n1. HC no solicitada desde hace seis años. ¿Archivo habitual?\nA) Siempre destruir\nB) Solo bolsillo personal\nC) Archivo activo permanente\nD) Archivo pasivo\nE) Publicación libre\nClave D. Excede el plazo activo de cinco años.\n\n2. Personal necesita revisar una HC. ¿Qué regla prevalece?\nA) Acceso libre\nB) Confidencialidad y acceso autorizado\nC) Publicarla\nD) Prestarla sin registro\nE) Destruir anotaciones\nClave B. Es información confidencial.",
+      "pearl": "ACTIVO = CINCO AÑOS.",
+      "keywords": [
+        "Gestión de historia clínica: archivo activo y pasivo",
+        "ENCAPS Medicina 2026-I",
+        "SERUMS MINSA"
+      ],
+      "estadoDesarrollo": "completo",
+      "estadoClave": "interpretacion_pendiente_cotejo_clave_oficial",
+      "lesson": {
+        "respuesta_resumida": "C. 5",
+        "razonamiento": "La NTS N.º 139-MINSA/2018/DGAIN dispone que el archivo activo contiene historias clínicas utilizadas durante los últimos cinco años desde la última prestación. Después de cinco años sin ser solicitada, la historia pasa a archivo pasivo según procedimiento. No significa que se destruya al quinto año.",
+        "temario": [
+          "Historia clínica es documento médico-legal reservado con registro longitudinal.",
+          "Archivo activo agrupa historias solicitadas o utilizadas durante los últimos cinco años.",
+          "El cómputo se considera desde la última prestación o atención pertinente.",
+          "Archivo pasivo conserva historias no solicitadas por más de cinco años.",
+          "Archivo especial puede incluir casos médico-legales, científicos o históricos.",
+          "Custodia, confidencialidad y trazabilidad de accesos son responsabilidades institucionales.",
+          "Transferencia a pasivo no implica eliminación automática ni pérdida del identificador.",
+          "Los plazos generales de conservación total y excepciones se determinan por la norma y tablas archivísticas vigentes."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Dos años es menor que plazo del archivo activo.",
+          "B": "Tres años tampoco corresponde al período establecido.",
+          "C": "Correcta: cinco años.",
+          "D": "Diez años no es duración ordinaria del archivo activo."
+        },
+        "normativa": [
+          "NTS 139-MINSA/2018/DGAIN, Norma Técnica de Salud para la Gestión de la Historia Clínica: https://www.ino.gob.pe/wp-content/uploads/2023/05/NTS-GESTION-HISTORIA-CLINICA-MINSA-2018.pdf"
+        ],
+        "mnemotecnia": "ACTIVO = CINCO AÑOS.",
+        "trampas": [
+          "Activo no equivale a plazo máximo de conservación total.",
+          "Cambiar a pasivo exige manejo administrativo y resguardo.",
+          "No divulgar historias clínicas sin causa legítima."
+        ],
+        "perla": "ACTIVO = CINCO AÑOS.",
+        "repaso_activo": [
+          "¿Clave razonada? C: 5.",
+          "¿Idea de examen? ACTIVO = CINCO AÑOS.",
+          "¿Trampa frecuente? Activo no equivale a plazo máximo de conservación total."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "HC no solicitada desde hace seis años. ¿Archivo habitual?",
+            "alternativas": {
+              "A": "Siempre destruir",
+              "B": "Solo bolsillo personal",
+              "C": "Archivo activo permanente",
+              "D": "Archivo pasivo",
+              "E": "Publicación libre"
+            },
+            "respuesta": "D",
+            "explicacion": "Excede el plazo activo de cinco años."
+          },
+          {
+            "enunciado": "Personal necesita revisar una HC. ¿Qué regla prevalece?",
+            "alternativas": {
+              "A": "Acceso libre",
+              "B": "Confidencialidad y acceso autorizado",
+              "C": "Publicarla",
+              "D": "Prestarla sin registro",
+              "E": "Destruir anotaciones"
+            },
+            "respuesta": "B",
+            "explicacion": "Es información confidencial."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Gestión de historia clínica: archivo activo y pasivo",
+          "desarrollo": "RESPUESTA RAZONADA (CLAVE DOCUMENTAL SIN COTEJO INDEPENDIENTE)\nC. 5\n\nRAZONAMIENTO COMPLETO\nLa NTS N.º 139-MINSA/2018/DGAIN dispone que el archivo activo contiene historias clínicas utilizadas durante los últimos cinco años desde la última prestación. Después de cinco años sin ser solicitada, la historia pasa a archivo pasivo según procedimiento. No significa que se destruya al quinto año.\n\nDESARROLLO DEL TEMARIO\n1. Historia clínica es documento médico-legal reservado con registro longitudinal.\n2. Archivo activo agrupa historias solicitadas o utilizadas durante los últimos cinco años.\n3. El cómputo se considera desde la última prestación o atención pertinente.\n4. Archivo pasivo conserva historias no solicitadas por más de cinco años.\n5. Archivo especial puede incluir casos médico-legales, científicos o históricos.\n6. Custodia, confidencialidad y trazabilidad de accesos son responsabilidades institucionales.\n7. Transferencia a pasivo no implica eliminación automática ni pérdida del identificador.\n8. Los plazos generales de conservación total y excepciones se determinan por la norma y tablas archivísticas vigentes.\n\nANÁLISIS DE ALTERNATIVAS\nA) Dos años es menor que plazo del archivo activo.\nB) Tres años tampoco corresponde al período establecido.\nC) Correcta: cinco años.\nD) Diez años no es duración ordinaria del archivo activo.\n\nNORMATIVA Y REFERENCIAS\nNTS 139-MINSA/2018/DGAIN, Norma Técnica de Salud para la Gestión de la Historia Clínica: https://www.ino.gob.pe/wp-content/uploads/2023/05/NTS-GESTION-HISTORIA-CLINICA-MINSA-2018.pdf\n\nTRAMPAS\nActivo no equivale a plazo máximo de conservación total.\nCambiar a pasivo exige manejo administrativo y resguardo.\nNo divulgar historias clínicas sin causa legítima.\n\nMNEMOTECNIA\nACTIVO = CINCO AÑOS.\n\nREPASO ACTIVO\n¿Clave razonada? C: 5.\n¿Idea de examen? ACTIVO = CINCO AÑOS.\n¿Trampa frecuente? Activo no equivale a plazo máximo de conservación total.\n\nCASOS DE REFUERZO\n1. HC no solicitada desde hace seis años. ¿Archivo habitual?\nA) Siempre destruir\nB) Solo bolsillo personal\nC) Archivo activo permanente\nD) Archivo pasivo\nE) Publicación libre\nClave D. Excede el plazo activo de cinco años.\n\n2. Personal necesita revisar una HC. ¿Qué regla prevalece?\nA) Acceso libre\nB) Confidencialidad y acceso autorizado\nC) Publicarla\nD) Prestarla sin registro\nE) Destruir anotaciones\nClave B. Es información confidencial."
+        }
+      }
+    },
+    {
+      "number": 25,
+      "question": "Durante las campañas de vacunación se intervienen a las instituciones educativas a fin de vacunar a los niños y niñas con la vacuna de VPH para protegerlos y prevenir el cáncer cervical. ¿Desde qué edad se puede vacunar y cuantas dosis se debe aplicar?",
+      "options": {
+        "A": "9 años y dosis única",
+        "B": "11 años y dosis única",
+        "C": "9 años y dos dosis",
+        "D": "13 años y dosis única"
+      },
+      "correct": "A",
+      "code": "ENCAPS26-I P025",
+      "course": "ENCAPS Medicina 2026-I · Temario desarrollado",
+      "topic": "Vacuna VPH: una dosis desde los nueve años",
+      "comment": "RESPUESTA RAZONADA (CLAVE DOCUMENTAL SIN COTEJO INDEPENDIENTE)\nA. 9 años y dosis única\n\nRAZONAMIENTO COMPLETO\nLa vacunación frente al virus del papiloma humano se inicia desde los 9 años con esquema de dosis única para población elegible en Perú. El esquema general incluye niñas y niños; para inmunosupresión importante pueden requerirse esquemas especiales de varias dosis. No confundir con pautas históricas de dos dosis.\n\nDESARROLLO DEL TEMARIO\n1. VPH es causa necesaria para la mayoría de cánceres cervicales y contribuye a otros cánceres anogenitales y orofaríngeos.\n2. Vacunación idealmente antes del inicio de actividad sexual.\n3. En esquema general peruano, desde nueve años con una dosis para elegibles.\n4. Se vacunan niñas y niños para prevenir enfermedad y reducir circulación viral.\n5. En inmunosupresión grave se consideran esquemas de tres dosis conforme al MINSA.\n6. La vacuna previene nuevas infecciones; no trata infección ya establecida.\n7. Tipos de vacunas disponibles cambian con adquisiciones y disposiciones nacionales.\n8. Tamizaje cervical continúa en edades indicadas incluso si se recibió vacunación.\n9. Consentimiento, registro nominal y vigilancia de ESAVI son parte del programa.\n\nANÁLISIS DE ALTERNATIVAS\nA) Correcta: nueve años, dosis única según esquema nacional general.\nB) Once años no es edad mínima del esquema.\nC) Dos dosis refleja esquemas previos o diferentes situaciones y no el esquema general señalado.\nD) Trece años tampoco es edad de inicio mínima.\n\nNORMATIVA Y REFERENCIAS\nMINSA, vacunación contra VPH: https://www.gob.pe/116152-que-es-el-virus-del-papiloma-humano-vph-vacunacion-contra-el-vph\nMINSA, esquema nacional de vacunación: https://www.gob.pe/22037-vacunas-del-esquema-nacional-de-vacunacion-en-el-peru\n\nTRAMPAS\nLa indicación no se restringe a niñas.\nEn inmunosupresión pueden corresponder tres dosis.\nVacunarse no elimina la necesidad de tamizaje cervical futuro.\n\nMNEMOTECNIA\nVPH: NUEVE AÑOS, UNA DOSIS.\n\nREPASO ACTIVO\n¿Clave razonada? A: 9 años y dosis única.\n¿Idea de examen? VPH: NUEVE AÑOS, UNA DOSIS.\n¿Trampa frecuente? La indicación no se restringe a niñas.\n\nCASOS DE REFUERZO\n1. Escolar de nueve años no vacunada contra VPH. Esquema general?\nA) Esperar hasta 15\nB) Dos dosis obligatorias para todos\nC) Una dosis según esquema\nD) Vacuna BCG\nE) No vacunar niños\nClave C. El esquema general comienza desde los nueve años.\n\n2. Adolescente con inmunosupresión marcada consulta por VPH. ¿Qué hacer?\nA) Verificar esquema especial de tres dosis\nB) No registrar\nC) Asumir siempre una dosis\nD) Contraindicar todas vacunas\nE) Esperar hasta los 30\nClave A. La pauta especial se individualiza según normas vigentes.",
+      "pearl": "VPH: NUEVE AÑOS, UNA DOSIS.",
+      "keywords": [
+        "Vacuna VPH: una dosis desde los nueve años",
+        "ENCAPS Medicina 2026-I",
+        "SERUMS MINSA"
+      ],
+      "estadoDesarrollo": "completo",
+      "estadoClave": "interpretacion_pendiente_cotejo_clave_oficial",
+      "lesson": {
+        "respuesta_resumida": "A. 9 años y dosis única",
+        "razonamiento": "La vacunación frente al virus del papiloma humano se inicia desde los 9 años con esquema de dosis única para población elegible en Perú. El esquema general incluye niñas y niños; para inmunosupresión importante pueden requerirse esquemas especiales de varias dosis. No confundir con pautas históricas de dos dosis.",
+        "temario": [
+          "VPH es causa necesaria para la mayoría de cánceres cervicales y contribuye a otros cánceres anogenitales y orofaríngeos.",
+          "Vacunación idealmente antes del inicio de actividad sexual.",
+          "En esquema general peruano, desde nueve años con una dosis para elegibles.",
+          "Se vacunan niñas y niños para prevenir enfermedad y reducir circulación viral.",
+          "En inmunosupresión grave se consideran esquemas de tres dosis conforme al MINSA.",
+          "La vacuna previene nuevas infecciones; no trata infección ya establecida.",
+          "Tipos de vacunas disponibles cambian con adquisiciones y disposiciones nacionales.",
+          "Tamizaje cervical continúa en edades indicadas incluso si se recibió vacunación.",
+          "Consentimiento, registro nominal y vigilancia de ESAVI son parte del programa."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Correcta: nueve años, dosis única según esquema nacional general.",
+          "B": "Once años no es edad mínima del esquema.",
+          "C": "Dos dosis refleja esquemas previos o diferentes situaciones y no el esquema general señalado.",
+          "D": "Trece años tampoco es edad de inicio mínima."
+        },
+        "normativa": [
+          "MINSA, vacunación contra VPH: https://www.gob.pe/116152-que-es-el-virus-del-papiloma-humano-vph-vacunacion-contra-el-vph",
+          "MINSA, esquema nacional de vacunación: https://www.gob.pe/22037-vacunas-del-esquema-nacional-de-vacunacion-en-el-peru"
+        ],
+        "mnemotecnia": "VPH: NUEVE AÑOS, UNA DOSIS.",
+        "trampas": [
+          "La indicación no se restringe a niñas.",
+          "En inmunosupresión pueden corresponder tres dosis.",
+          "Vacunarse no elimina la necesidad de tamizaje cervical futuro."
+        ],
+        "perla": "VPH: NUEVE AÑOS, UNA DOSIS.",
+        "repaso_activo": [
+          "¿Clave razonada? A: 9 años y dosis única.",
+          "¿Idea de examen? VPH: NUEVE AÑOS, UNA DOSIS.",
+          "¿Trampa frecuente? La indicación no se restringe a niñas."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Escolar de nueve años no vacunada contra VPH. Esquema general?",
+            "alternativas": {
+              "A": "Esperar hasta 15",
+              "B": "Dos dosis obligatorias para todos",
+              "C": "Una dosis según esquema",
+              "D": "Vacuna BCG",
+              "E": "No vacunar niños"
+            },
+            "respuesta": "C",
+            "explicacion": "El esquema general comienza desde los nueve años."
+          },
+          {
+            "enunciado": "Adolescente con inmunosupresión marcada consulta por VPH. ¿Qué hacer?",
+            "alternativas": {
+              "A": "Verificar esquema especial de tres dosis",
+              "B": "No registrar",
+              "C": "Asumir siempre una dosis",
+              "D": "Contraindicar todas vacunas",
+              "E": "Esperar hasta los 30"
+            },
+            "respuesta": "A",
+            "explicacion": "La pauta especial se individualiza según normas vigentes."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Vacuna VPH: una dosis desde los nueve años",
+          "desarrollo": "RESPUESTA RAZONADA (CLAVE DOCUMENTAL SIN COTEJO INDEPENDIENTE)\nA. 9 años y dosis única\n\nRAZONAMIENTO COMPLETO\nLa vacunación frente al virus del papiloma humano se inicia desde los 9 años con esquema de dosis única para población elegible en Perú. El esquema general incluye niñas y niños; para inmunosupresión importante pueden requerirse esquemas especiales de varias dosis. No confundir con pautas históricas de dos dosis.\n\nDESARROLLO DEL TEMARIO\n1. VPH es causa necesaria para la mayoría de cánceres cervicales y contribuye a otros cánceres anogenitales y orofaríngeos.\n2. Vacunación idealmente antes del inicio de actividad sexual.\n3. En esquema general peruano, desde nueve años con una dosis para elegibles.\n4. Se vacunan niñas y niños para prevenir enfermedad y reducir circulación viral.\n5. En inmunosupresión grave se consideran esquemas de tres dosis conforme al MINSA.\n6. La vacuna previene nuevas infecciones; no trata infección ya establecida.\n7. Tipos de vacunas disponibles cambian con adquisiciones y disposiciones nacionales.\n8. Tamizaje cervical continúa en edades indicadas incluso si se recibió vacunación.\n9. Consentimiento, registro nominal y vigilancia de ESAVI son parte del programa.\n\nANÁLISIS DE ALTERNATIVAS\nA) Correcta: nueve años, dosis única según esquema nacional general.\nB) Once años no es edad mínima del esquema.\nC) Dos dosis refleja esquemas previos o diferentes situaciones y no el esquema general señalado.\nD) Trece años tampoco es edad de inicio mínima.\n\nNORMATIVA Y REFERENCIAS\nMINSA, vacunación contra VPH: https://www.gob.pe/116152-que-es-el-virus-del-papiloma-humano-vph-vacunacion-contra-el-vph\nMINSA, esquema nacional de vacunación: https://www.gob.pe/22037-vacunas-del-esquema-nacional-de-vacunacion-en-el-peru\n\nTRAMPAS\nLa indicación no se restringe a niñas.\nEn inmunosupresión pueden corresponder tres dosis.\nVacunarse no elimina la necesidad de tamizaje cervical futuro.\n\nMNEMOTECNIA\nVPH: NUEVE AÑOS, UNA DOSIS.\n\nREPASO ACTIVO\n¿Clave razonada? A: 9 años y dosis única.\n¿Idea de examen? VPH: NUEVE AÑOS, UNA DOSIS.\n¿Trampa frecuente? La indicación no se restringe a niñas.\n\nCASOS DE REFUERZO\n1. Escolar de nueve años no vacunada contra VPH. Esquema general?\nA) Esperar hasta 15\nB) Dos dosis obligatorias para todos\nC) Una dosis según esquema\nD) Vacuna BCG\nE) No vacunar niños\nClave C. El esquema general comienza desde los nueve años.\n\n2. Adolescente con inmunosupresión marcada consulta por VPH. ¿Qué hacer?\nA) Verificar esquema especial de tres dosis\nB) No registrar\nC) Asumir siempre una dosis\nD) Contraindicar todas vacunas\nE) Esperar hasta los 30\nClave A. La pauta especial se individualiza según normas vigentes."
         }
       }
     }
