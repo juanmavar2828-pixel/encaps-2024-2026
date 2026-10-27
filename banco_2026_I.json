@@ -3,7 +3,7 @@
   "bankId": "ENCAPS_2026_I",
   "title": "ENCAPS 2026-I · Medicina Humana",
   "source": "Examen SERUMS Medicina 19 abril 2026 · claves resaltadas en PDF del usuario",
-  "questionCount": 90,
+  "questionCount": 95,
   "questions": [
     {
       "number": 1,
@@ -8286,6 +8286,449 @@
             },
             "respuesta": "E",
             "explicacion": "La información clínica debe tratarse de forma confidencial."
+          }
+        ]
+      }
+    },
+    {
+      "number": 91,
+      "code": "ENCAPS26-I P91",
+      "course": "ENCAPS Medicina 2026-I",
+      "topic": "Epizootia, zoonosis y vigilancia de mortalidad animal inusual",
+      "question": "En la comunidad rural donde realiza su SERUMS varios moradores reportan el hallazgo de muerte y enfermedad inusuales en cuyes y ratas de campo, por lo que debe proceder a la notificación respectiva. ¿Cuál es el acontecimiento epidemiológico presentado?",
+      "options": {
+        "A": "Brote infeccioso",
+        "B": "Zoonosis",
+        "C": "Epizootia",
+        "D": "Endemia animal"
+      },
+      "correct": "C",
+      "comment": "RESPUESTA RAZONADA — COTEJO OFICIAL PENDIENTE\nC. Epizootia\n\nRAZONAMIENTO\n\nEl acontecimiento ocurre en animales: muertes y enfermedad inusuales en cuyes y ratas de campo. Una epizootia es el aumento inesperado de enfermedad en una población animal, equivalente aproximado a epidemia en humanos. Zoonosis alude a enfermedad transmisible entre animales y personas; sin casos humanos o agente identificado no puede asumirse transmisión zoonótica, aunque la alerta exige investigación conjunta con sanidad animal.\n\nTEMARIO EXTENSO\n\n1. Epizootia describe ocurrencia de casos de una enfermedad en animales por encima del nivel esperado en población y espacio definidos.\n\n2. Enzootia es presencia habitual de enfermedad en una población animal, comparable al concepto de endemia humana.\n\n3. Zoonosis significa infección o enfermedad naturalmente transmisible entre animales vertebrados y humanos; no equivale automáticamente a epizootia.\n\n4. Un conglomerado de muertes animales debe motivar vigilancia de eventos inusuales y coordinación con autoridades veterinarias y de salud pública.\n\n5. En roedores es importante considerar peste, leptospirosis y otras infecciones según epidemiología local, pero sin diagnosticar etiología por la sola especie.\n\n6. Los cuyes y roedores pueden ser indicadores epidemiológicos; investigar signos, geografía, fecha, exposición y contacto humano.\n\n7. Aplicar enfoque Una Salud: interacción entre salud humana, animal y ambiente para detección, evaluación de riesgo y respuesta.\n\n8. Evitar manipular cadáveres animales sin equipos de protección apropiados y orientación de autoridad sanitaria.\n\n9. Si hay personas con fiebre, adenopatías, neumonía grave o contacto relevante, realizar evaluación urgente según sospecha y protocolos.\n\n10. La notificación inicial no debe esperar confirmación etiológica si el evento cumple criterios de alerta.\n\n11. Definición de caso animal permite línea de eventos, mapa, curva y comparación con mortalidad esperada.\n\n12. Comunicar riesgo sin alarmismo y coordinar control de vectores/roedores siguiendo indicaciones de especialistas.\n\nALTERNATIVAS\n\nA) Brote infeccioso es expresión genérica, pero epizootia especifica el fenómeno en población animal.\n\nB) Zoonosis señala transmisión animal-humano, no queda demostrada aquí.\n\nC) Correcta: epizootia por evento inusual en animales.\n\nD) Endemia animal supone ocurrencia habitual, lo opuesto al aumento inusual.\n\nNORMATIVA Y FUENTES\n\nOPS/OMS: enfoque Una Salud y vigilancia de zoonosis.\n\nCDC Perú/MINSA y SENASA: notificación y coordinación ante eventos inusuales en animales.\n\nTRAMPAS\n\nIdentificar el concepto operacional solicitado, distinguiendo medición, diagnóstico e intervención.\n\nNo confundir la respuesta académica con el protocolo clínico completo cuando faltan datos.\n\nMNEMOTECNIA\n\nEPIzootia = EPIdemia en animales; ZOOnosis = salto animal-persona.\n\nREPASO ACTIVO\n\n¿Cuál es la pista decisiva? El acontecimiento ocurre en animales: muertes y enfermedad inusuales en cuyes y ratas de campo. Una epizootia es el aumento inesperado de enfermedad en una población animal, equivalente aproximado a epidemia en humanos. Zoonosis alude a enfermedad transmisible entre animales y personas; sin casos humanos o agente identificado no puede asumirse transmisión zoonótica, aunque la alerta exige investigación conjunta con sanidad animal.\n\n¿Qué recordar para otro caso? EPIzootia = EPIdemia en animales; ZOOnosis = salto animal-persona.\n\nCASOS DE REFUERZO\n\nAparecen múltiples muertes inesperadas de roedores en una comunidad sin casos humanos notificados. ¿Evento?\nA) Endemia humana\nB) Epizootia\nC) Pandemia\nD) Enfermedad laboral\nE) Endemia animal estable\nClave: B — El patrón inusual afecta animales.\n\nVeterinarios y médicos investigan animales enfermos y personas expuestas. ¿Enfoque?\nA) Solo hospitalario\nB) Exclusivamente farmacológico\nC) Sin participación ambiental\nD) Una Salud\nE) Administrativo únicamente\nClave: D — Integra salud animal, humana y ambiental.",
+      "pearl": "EPIzootia = EPIdemia en animales; ZOOnosis = salto animal-persona.",
+      "estadoDesarrollo": "completo",
+      "estadoClave": "clave_razonada_pendiente_verificacion_oficial",
+      "lesson": {
+        "respuesta_resumida": "C. Epizootia",
+        "razonamiento": "El acontecimiento ocurre en animales: muertes y enfermedad inusuales en cuyes y ratas de campo. Una epizootia es el aumento inesperado de enfermedad en una población animal, equivalente aproximado a epidemia en humanos. Zoonosis alude a enfermedad transmisible entre animales y personas; sin casos humanos o agente identificado no puede asumirse transmisión zoonótica, aunque la alerta exige investigación conjunta con sanidad animal.",
+        "temario": [
+          "Epizootia describe ocurrencia de casos de una enfermedad en animales por encima del nivel esperado en población y espacio definidos.",
+          "Enzootia es presencia habitual de enfermedad en una población animal, comparable al concepto de endemia humana.",
+          "Zoonosis significa infección o enfermedad naturalmente transmisible entre animales vertebrados y humanos; no equivale automáticamente a epizootia.",
+          "Un conglomerado de muertes animales debe motivar vigilancia de eventos inusuales y coordinación con autoridades veterinarias y de salud pública.",
+          "En roedores es importante considerar peste, leptospirosis y otras infecciones según epidemiología local, pero sin diagnosticar etiología por la sola especie.",
+          "Los cuyes y roedores pueden ser indicadores epidemiológicos; investigar signos, geografía, fecha, exposición y contacto humano.",
+          "Aplicar enfoque Una Salud: interacción entre salud humana, animal y ambiente para detección, evaluación de riesgo y respuesta.",
+          "Evitar manipular cadáveres animales sin equipos de protección apropiados y orientación de autoridad sanitaria.",
+          "Si hay personas con fiebre, adenopatías, neumonía grave o contacto relevante, realizar evaluación urgente según sospecha y protocolos.",
+          "La notificación inicial no debe esperar confirmación etiológica si el evento cumple criterios de alerta.",
+          "Definición de caso animal permite línea de eventos, mapa, curva y comparación con mortalidad esperada.",
+          "Comunicar riesgo sin alarmismo y coordinar control de vectores/roedores siguiendo indicaciones de especialistas."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Brote infeccioso es expresión genérica, pero epizootia especifica el fenómeno en población animal.",
+          "B": "Zoonosis señala transmisión animal-humano, no queda demostrada aquí.",
+          "C": "Correcta: epizootia por evento inusual en animales.",
+          "D": "Endemia animal supone ocurrencia habitual, lo opuesto al aumento inusual."
+        },
+        "normativa": [
+          "OPS/OMS: enfoque Una Salud y vigilancia de zoonosis.",
+          "CDC Perú/MINSA y SENASA: notificación y coordinación ante eventos inusuales en animales."
+        ],
+        "mnemotecnia": "EPIzootia = EPIdemia en animales; ZOOnosis = salto animal-persona.",
+        "trampas": [
+          "Identificar el concepto operacional solicitado, distinguiendo medición, diagnóstico e intervención.",
+          "No confundir la respuesta académica con el protocolo clínico completo cuando faltan datos."
+        ],
+        "perla": "EPIzootia = EPIdemia en animales; ZOOnosis = salto animal-persona.",
+        "repaso_activo": [
+          {
+            "pregunta": "¿Cuál es la pista decisiva?",
+            "respuesta": "El acontecimiento ocurre en animales: muertes y enfermedad inusuales en cuyes y ratas de campo. Una epizootia es el aumento inesperado de enfermedad en una población animal, equivalente aproximado a epidemia en humanos. Zoonosis alude a enfermedad transmisible entre animales y personas; sin casos humanos o agente identificado no puede asumirse transmisión zoonótica, aunque la alerta exige investigación conjunta con sanidad animal."
+          },
+          {
+            "pregunta": "¿Qué recordar para otro caso?",
+            "respuesta": "EPIzootia = EPIdemia en animales; ZOOnosis = salto animal-persona."
+          }
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Aparecen múltiples muertes inesperadas de roedores en una comunidad sin casos humanos notificados. ¿Evento?",
+            "alternativas": {
+              "A": "Endemia humana",
+              "B": "Epizootia",
+              "C": "Pandemia",
+              "D": "Enfermedad laboral",
+              "E": "Endemia animal estable"
+            },
+            "respuesta": "B",
+            "explicacion": "El patrón inusual afecta animales."
+          },
+          {
+            "enunciado": "Veterinarios y médicos investigan animales enfermos y personas expuestas. ¿Enfoque?",
+            "alternativas": {
+              "A": "Solo hospitalario",
+              "B": "Exclusivamente farmacológico",
+              "C": "Sin participación ambiental",
+              "D": "Una Salud",
+              "E": "Administrativo únicamente"
+            },
+            "respuesta": "D",
+            "explicacion": "Integra salud animal, humana y ambiental."
+          }
+        ]
+      }
+    },
+    {
+      "number": 92,
+      "code": "ENCAPS26-I P92",
+      "course": "ENCAPS Medicina 2026-I",
+      "topic": "Análisis de Situación de Salud (ASIS) como herramienta de planificación",
+      "question": "Usted acaba de ganar su plaza SERUMS, y en su primer día de trabajo, su jefatura le indica que se encuentran en el proceso de búsqueda de información a fin de elaborar el documento que oriente una gestión eficiente en salud acorde con los procesos de planificación. ¿Cuál es el documento?",
+      "options": {
+        "A": "Análisis de la Vulnerabilidad territorial",
+        "B": "Análisis Global del Estado de la Salud",
+        "C": "Análisis Global de los Determinantes de la Salud",
+        "D": "Análisis de Situación de Salud"
+      },
+      "correct": "D",
+      "comment": "RESPUESTA RAZONADA — COTEJO OFICIAL PENDIENTE\nD. Análisis de Situación de Salud\n\nRAZONAMIENTO\n\nEl ASIS integra información demográfica, sanitaria, epidemiológica, social y territorial para comprender problemas de salud y orientar prioridades, acciones y gestión. Las alternativas A y C representan dimensiones parciales; la denominación normativa y ampliamente utilizada es Análisis de Situación de Salud.\n\nTEMARIO EXTENSO\n\n1. ASIS es un proceso analítico y participativo para describir y explicar la situación de salud de una población y sus determinantes.\n\n2. Incluye características demográficas, ciclo vital, pobreza, ambiente, oferta sanitaria, morbilidad, mortalidad, riesgos y desigualdades.\n\n3. La unidad territorial puede ser ámbito de una IPRESS, distrito, red, región u otra unidad de planificación, con datos apropiados.\n\n4. Fuentes posibles: registros HIS, vigilancia epidemiológica, estadísticas vitales, censos, encuestas, padrones y diagnósticos comunitarios.\n\n5. Se evalúa completitud, validez y oportunidad; datos deficientes generan prioridades equivocadas.\n\n6. Describir problemas no equivale a explicarlos: investigar determinantes estructurales e intermedios ayuda a planificar intervenciones.\n\n7. La priorización utiliza magnitud, gravedad, vulnerabilidad, factibilidad e inequidad, con participación relevante.\n\n8. Desagregar por edad, sexo, territorio y otros ejes cuando haya datos confiables para identificar brechas.\n\n9. El ASIS apoya formulación de objetivos, planes, presupuesto y evaluación de intervenciones sanitarias.\n\n10. La participación comunitaria complementa registros cuantitativos con percepciones y barreras de acceso.\n\n11. Actualización y comparación temporal permiten monitorear cambios; no basta un documento archivado.\n\n12. ASIS no reemplaza el POI ni el PEI: suministra evidencia para planificar.\n\nALTERNATIVAS\n\nA) Vulnerabilidad territorial es componente útil, pero no el documento integral solicitado.\n\nB) No corresponde a denominación técnica formal del documento integral.\n\nC) Determinantes de salud son parte del análisis, sin abarcar todos los dominios del ASIS.\n\nD) Correcta: Análisis de Situación de Salud.\n\nNORMATIVA Y FUENTES\n\nMINSA/CDC Perú: documentos técnicos y metodologías de análisis de situación de salud.\n\nOPS: análisis de situación de salud y planificación basada en evidencia.\n\nTRAMPAS\n\nIdentificar el concepto operacional solicitado, distinguiendo medición, diagnóstico e intervención.\n\nNo confundir la respuesta académica con el protocolo clínico completo cuando faltan datos.\n\nMNEMOTECNIA\n\nASIS = ASÍ ESTÁ MI SALUD POBLACIONAL, ASÍ PRIORIZO.\n\nREPASO ACTIVO\n\n¿Cuál es la pista decisiva? El ASIS integra información demográfica, sanitaria, epidemiológica, social y territorial para comprender problemas de salud y orientar prioridades, acciones y gestión. Las alternativas A y C representan dimensiones parciales; la denominación normativa y ampliamente utilizada es Análisis de Situación de Salud.\n\n¿Qué recordar para otro caso? ASIS = ASÍ ESTÁ MI SALUD POBLACIONAL, ASÍ PRIORIZO.\n\nCASOS DE REFUERZO\n\nRed revisa mortalidad, nutrición, pobreza, accesibilidad y morbilidad para priorizar recursos. ¿Documento?\nA) ASIS\nB) Planilla\nC) Historia clínica individual\nD) Kardex\nE) Manual de funciones\nClave: A — Integra datos poblacionales para orientar decisiones.\n\nCentro tiene ASIS actualizado e inicia programación anual de actividades y metas. ¿Instrumento posterior?\nA) Consentimiento\nB) Acta policial\nC) POI\nD) Receta\nE) Certificado médico\nClave: C — El POI traduce prioridades institucionales en actividades anuales.",
+      "pearl": "ASIS = ASÍ ESTÁ MI SALUD POBLACIONAL, ASÍ PRIORIZO.",
+      "estadoDesarrollo": "completo",
+      "estadoClave": "clave_razonada_pendiente_verificacion_oficial",
+      "lesson": {
+        "respuesta_resumida": "D. Análisis de Situación de Salud",
+        "razonamiento": "El ASIS integra información demográfica, sanitaria, epidemiológica, social y territorial para comprender problemas de salud y orientar prioridades, acciones y gestión. Las alternativas A y C representan dimensiones parciales; la denominación normativa y ampliamente utilizada es Análisis de Situación de Salud.",
+        "temario": [
+          "ASIS es un proceso analítico y participativo para describir y explicar la situación de salud de una población y sus determinantes.",
+          "Incluye características demográficas, ciclo vital, pobreza, ambiente, oferta sanitaria, morbilidad, mortalidad, riesgos y desigualdades.",
+          "La unidad territorial puede ser ámbito de una IPRESS, distrito, red, región u otra unidad de planificación, con datos apropiados.",
+          "Fuentes posibles: registros HIS, vigilancia epidemiológica, estadísticas vitales, censos, encuestas, padrones y diagnósticos comunitarios.",
+          "Se evalúa completitud, validez y oportunidad; datos deficientes generan prioridades equivocadas.",
+          "Describir problemas no equivale a explicarlos: investigar determinantes estructurales e intermedios ayuda a planificar intervenciones.",
+          "La priorización utiliza magnitud, gravedad, vulnerabilidad, factibilidad e inequidad, con participación relevante.",
+          "Desagregar por edad, sexo, territorio y otros ejes cuando haya datos confiables para identificar brechas.",
+          "El ASIS apoya formulación de objetivos, planes, presupuesto y evaluación de intervenciones sanitarias.",
+          "La participación comunitaria complementa registros cuantitativos con percepciones y barreras de acceso.",
+          "Actualización y comparación temporal permiten monitorear cambios; no basta un documento archivado.",
+          "ASIS no reemplaza el POI ni el PEI: suministra evidencia para planificar."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Vulnerabilidad territorial es componente útil, pero no el documento integral solicitado.",
+          "B": "No corresponde a denominación técnica formal del documento integral.",
+          "C": "Determinantes de salud son parte del análisis, sin abarcar todos los dominios del ASIS.",
+          "D": "Correcta: Análisis de Situación de Salud."
+        },
+        "normativa": [
+          "MINSA/CDC Perú: documentos técnicos y metodologías de análisis de situación de salud.",
+          "OPS: análisis de situación de salud y planificación basada en evidencia."
+        ],
+        "mnemotecnia": "ASIS = ASÍ ESTÁ MI SALUD POBLACIONAL, ASÍ PRIORIZO.",
+        "trampas": [
+          "Identificar el concepto operacional solicitado, distinguiendo medición, diagnóstico e intervención.",
+          "No confundir la respuesta académica con el protocolo clínico completo cuando faltan datos."
+        ],
+        "perla": "ASIS = ASÍ ESTÁ MI SALUD POBLACIONAL, ASÍ PRIORIZO.",
+        "repaso_activo": [
+          {
+            "pregunta": "¿Cuál es la pista decisiva?",
+            "respuesta": "El ASIS integra información demográfica, sanitaria, epidemiológica, social y territorial para comprender problemas de salud y orientar prioridades, acciones y gestión. Las alternativas A y C representan dimensiones parciales; la denominación normativa y ampliamente utilizada es Análisis de Situación de Salud."
+          },
+          {
+            "pregunta": "¿Qué recordar para otro caso?",
+            "respuesta": "ASIS = ASÍ ESTÁ MI SALUD POBLACIONAL, ASÍ PRIORIZO."
+          }
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Red revisa mortalidad, nutrición, pobreza, accesibilidad y morbilidad para priorizar recursos. ¿Documento?",
+            "alternativas": {
+              "A": "ASIS",
+              "B": "Planilla",
+              "C": "Historia clínica individual",
+              "D": "Kardex",
+              "E": "Manual de funciones"
+            },
+            "respuesta": "A",
+            "explicacion": "Integra datos poblacionales para orientar decisiones."
+          },
+          {
+            "enunciado": "Centro tiene ASIS actualizado e inicia programación anual de actividades y metas. ¿Instrumento posterior?",
+            "alternativas": {
+              "A": "Consentimiento",
+              "B": "Acta policial",
+              "C": "POI",
+              "D": "Receta",
+              "E": "Certificado médico"
+            },
+            "respuesta": "C",
+            "explicacion": "El POI traduce prioridades institucionales en actividades anuales."
+          }
+        ]
+      }
+    },
+    {
+      "number": 93,
+      "code": "ENCAPS26-I P93",
+      "course": "ENCAPS Medicina 2026-I",
+      "topic": "Programación anual de Salud Familiar: plan operativo institucional",
+      "question": "La autoridad regional de salud está implementando la estrategia de Salud Familiar para que se pueda desarrollar efectivamente en el siguiente año. ¿En qué plan institucional se debe programar?",
+      "options": {
+        "A": "Continuidad",
+        "B": "Contingencia",
+        "C": "Estratégico",
+        "D": "Operativo"
+      },
+      "correct": "D",
+      "comment": "RESPUESTA RAZONADA — COTEJO OFICIAL PENDIENTE\nD. Operativo\n\nRAZONAMIENTO\n\nEl horizonte de ejecución es el año siguiente y la pregunta pide dónde programar la implementación concreta de una estrategia: el plan operativo. El estratégico orienta objetivos de mediano plazo; continuidad y contingencia son planes específicos para mantener servicios ante interrupciones y responder a eventos adversos.\n\nTEMARIO EXTENSO\n\n1. Salud Familiar organiza cuidados integrales de la persona, familia y comunidad con enfoque de curso de vida, derechos e interculturalidad.\n\n2. La estrategia requiere programación de visitas domiciliarias, evaluación familiar, identificación de riesgos y seguimiento longitudinal.\n\n3. PEI define objetivos institucionales de mediano plazo; el POI incorpora las actividades anuales y metas necesarias para ejecutarlos.\n\n4. Un POI puede fijar número de familias caracterizadas, paquetes integrales brindados, personal responsable y metas por trimestre.\n\n5. Los costos de movilidad, insumos, capacitación y registro deben coordinarse con programación presupuestaria correspondiente.\n\n6. Distinguir meta física (familias visitadas) de resultado (cambio de estado de salud o continuidad del cuidado).\n\n7. Monitoreo debe incluir calidad y pertinencia de visitas, no solo cantidad, y proteger confidencialidad del hogar.\n\n8. Plan de continuidad operativa se activa o prepara para sostener funciones críticas frente a interrupciones.\n\n9. Plan de contingencia detalla respuesta ante amenazas o emergencias específicas.\n\n10. Plan estratégico establece resultados aspirados y rumbo, pero no reemplaza programación para el año entrante.\n\n11. La implementación necesita participación comunitaria, articulación con actores intersectoriales y seguimiento de familias vulnerables.\n\n12. Revisar POI con resultados del ASIS y prioridades de riesgo familiar, y ajustar ante cambios significativos autorizados.\n\nALTERNATIVAS\n\nA) Continuidad se refiere a sostener servicios ante interrupciones, no a programar acción anual ordinaria.\n\nB) Contingencia organiza medidas de emergencia ante riesgos específicos.\n\nC) Estratégico define rumbo y objetivos, pero no programa ejecución concreta del siguiente año.\n\nD) Correcta: operativo, por programación anual de actividades, responsables y recursos.\n\nNORMATIVA Y FUENTES\n\nCEPLAN, Guía para el Planeamiento Institucional (PEI/POI).\n\nMINSA: Modelo de Cuidado Integral de Salud por Curso de Vida para Persona, Familia y Comunidad.\n\nTRAMPAS\n\nIdentificar el concepto operacional solicitado, distinguiendo medición, diagnóstico e intervención.\n\nNo confundir la respuesta académica con el protocolo clínico completo cuando faltan datos.\n\nMNEMOTECNIA\n\nESTRATEGIA A EJECUTAR EL PRÓXIMO AÑO = POI.\n\nREPASO ACTIVO\n\n¿Cuál es la pista decisiva? El horizonte de ejecución es el año siguiente y la pregunta pide dónde programar la implementación concreta de una estrategia: el plan operativo. El estratégico orienta objetivos de mediano plazo; continuidad y contingencia son planes específicos para mantener servicios ante interrupciones y responder a eventos adversos.\n\n¿Qué recordar para otro caso? ESTRATEGIA A EJECUTAR EL PRÓXIMO AÑO = POI.\n\nCASOS DE REFUERZO\n\nRIS programa 500 fichas familiares y 150 visitas prioritarias para 2027. ¿Dónde incorpora meta anual?\nA) Plan de contingencia\nB) POI\nC) Parte diario\nD) Plan de evacuación\nE) Historia clínica\nClave: B — Las metas operativas se programan en el POI.\n\nUna región define expansión del modelo familiar para un periodo multianual. ¿Nivel de planificación?\nA) Receta\nB) Acta de defunción\nC) Kardex\nD) Estrategia institucional\nE) Prescripción individual\nClave: D — La proyección de mediano plazo se ubica en planeamiento estratégico.",
+      "pearl": "ESTRATEGIA A EJECUTAR EL PRÓXIMO AÑO = POI.",
+      "estadoDesarrollo": "completo",
+      "estadoClave": "clave_razonada_pendiente_verificacion_oficial",
+      "lesson": {
+        "respuesta_resumida": "D. Operativo",
+        "razonamiento": "El horizonte de ejecución es el año siguiente y la pregunta pide dónde programar la implementación concreta de una estrategia: el plan operativo. El estratégico orienta objetivos de mediano plazo; continuidad y contingencia son planes específicos para mantener servicios ante interrupciones y responder a eventos adversos.",
+        "temario": [
+          "Salud Familiar organiza cuidados integrales de la persona, familia y comunidad con enfoque de curso de vida, derechos e interculturalidad.",
+          "La estrategia requiere programación de visitas domiciliarias, evaluación familiar, identificación de riesgos y seguimiento longitudinal.",
+          "PEI define objetivos institucionales de mediano plazo; el POI incorpora las actividades anuales y metas necesarias para ejecutarlos.",
+          "Un POI puede fijar número de familias caracterizadas, paquetes integrales brindados, personal responsable y metas por trimestre.",
+          "Los costos de movilidad, insumos, capacitación y registro deben coordinarse con programación presupuestaria correspondiente.",
+          "Distinguir meta física (familias visitadas) de resultado (cambio de estado de salud o continuidad del cuidado).",
+          "Monitoreo debe incluir calidad y pertinencia de visitas, no solo cantidad, y proteger confidencialidad del hogar.",
+          "Plan de continuidad operativa se activa o prepara para sostener funciones críticas frente a interrupciones.",
+          "Plan de contingencia detalla respuesta ante amenazas o emergencias específicas.",
+          "Plan estratégico establece resultados aspirados y rumbo, pero no reemplaza programación para el año entrante.",
+          "La implementación necesita participación comunitaria, articulación con actores intersectoriales y seguimiento de familias vulnerables.",
+          "Revisar POI con resultados del ASIS y prioridades de riesgo familiar, y ajustar ante cambios significativos autorizados."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Continuidad se refiere a sostener servicios ante interrupciones, no a programar acción anual ordinaria.",
+          "B": "Contingencia organiza medidas de emergencia ante riesgos específicos.",
+          "C": "Estratégico define rumbo y objetivos, pero no programa ejecución concreta del siguiente año.",
+          "D": "Correcta: operativo, por programación anual de actividades, responsables y recursos."
+        },
+        "normativa": [
+          "CEPLAN, Guía para el Planeamiento Institucional (PEI/POI).",
+          "MINSA: Modelo de Cuidado Integral de Salud por Curso de Vida para Persona, Familia y Comunidad."
+        ],
+        "mnemotecnia": "ESTRATEGIA A EJECUTAR EL PRÓXIMO AÑO = POI.",
+        "trampas": [
+          "Identificar el concepto operacional solicitado, distinguiendo medición, diagnóstico e intervención.",
+          "No confundir la respuesta académica con el protocolo clínico completo cuando faltan datos."
+        ],
+        "perla": "ESTRATEGIA A EJECUTAR EL PRÓXIMO AÑO = POI.",
+        "repaso_activo": [
+          {
+            "pregunta": "¿Cuál es la pista decisiva?",
+            "respuesta": "El horizonte de ejecución es el año siguiente y la pregunta pide dónde programar la implementación concreta de una estrategia: el plan operativo. El estratégico orienta objetivos de mediano plazo; continuidad y contingencia son planes específicos para mantener servicios ante interrupciones y responder a eventos adversos."
+          },
+          {
+            "pregunta": "¿Qué recordar para otro caso?",
+            "respuesta": "ESTRATEGIA A EJECUTAR EL PRÓXIMO AÑO = POI."
+          }
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "RIS programa 500 fichas familiares y 150 visitas prioritarias para 2027. ¿Dónde incorpora meta anual?",
+            "alternativas": {
+              "A": "Plan de contingencia",
+              "B": "POI",
+              "C": "Parte diario",
+              "D": "Plan de evacuación",
+              "E": "Historia clínica"
+            },
+            "respuesta": "B",
+            "explicacion": "Las metas operativas se programan en el POI."
+          },
+          {
+            "enunciado": "Una región define expansión del modelo familiar para un periodo multianual. ¿Nivel de planificación?",
+            "alternativas": {
+              "A": "Receta",
+              "B": "Acta de defunción",
+              "C": "Kardex",
+              "D": "Estrategia institucional",
+              "E": "Prescripción individual"
+            },
+            "respuesta": "D",
+            "explicacion": "La proyección de mediano plazo se ubica en planeamiento estratégico."
+          }
+        ]
+      }
+    },
+    {
+      "number": 94,
+      "code": "ENCAPS26-I P94",
+      "course": "ENCAPS Medicina 2026-I",
+      "topic": "Determinantes estructurales, políticas públicas y salud de poblaciones migrantes",
+      "question": "Un grupo de migrantes de la selva que viven en comunidad en Lima, mantienen sus estilos de vida donde prevalece el trabajo informal, la deserción escolar y el ausentismo en servicios de salud. ¿Qué acciones deben realizar las autoridades locales?",
+      "options": {
+        "A": "Brindar solamente acceso a los diversos programas sociales",
+        "B": "Gestionar políticas públicas que brinden recursos en la comunidad",
+        "C": "Censo a fin de conocer las personas que se encuentran en riesgo de salud",
+        "D": "Visitas domiciliarias a fin de integrarlos a los servicios de salud"
+      },
+      "correct": "B",
+      "comment": "RESPUESTA RAZONADA — COTEJO OFICIAL PENDIENTE\nB. Gestionar políticas públicas que brinden recursos en la comunidad\n\nRAZONAMIENTO\n\nLos problemas descritos atraviesan empleo, educación y acceso sanitario; requieren acciones intersectoriales sobre determinantes estructurales. Gestionar políticas públicas que asignen recursos y reduzcan barreras es más integral que ofrecer únicamente programas sociales, censar personas sin intervenir o realizar solo visitas domiciliarias. La respuesta debe ser participativa y respetuosa de la identidad cultural.\n\nTEMARIO EXTENSO\n\n1. Migración interna no es patología ni constituye por sí sola conducta de riesgo; las vulnerabilidades provienen de barreras sociales y económicas concretas.\n\n2. Determinantes estructurales incluyen distribución de oportunidades educativas, protección social, empleo y políticas de inclusión.\n\n3. Determinantes intermedios incluyen vivienda, servicios, condiciones laborales, alimentación, estrés y acceso real a atención.\n\n4. La informalidad puede relacionarse con ausencia de protección laboral y horarios incompatibles con servicios sanitarios.\n\n5. La deserción escolar demanda articulación con sector educación, protección social y autoridades locales.\n\n6. El ausentismo a servicios puede reflejar distancia, costos, discriminación, horarios, idioma o desconfianza; investigar antes de atribuir desinterés.\n\n7. Políticas públicas deben movilizar recursos para educación, protección social, empleo digno, servicios aceptables y atención primaria.\n\n8. El censo sirve como diagnóstico territorial, pero recolectar datos sin respuesta no corrige la inequidad.\n\n9. Las visitas domiciliarias pueden mejorar vínculo y continuidad, aunque necesitan formar parte de un plan mayor.\n\n10. El enfoque intercultural exige participación de la propia comunidad y respeto de prácticas seguras, sin imponer asimilación.\n\n11. Priorizar protección de niños y adolescentes sin escolaridad y acceso a vacunación, nutrición y atención integral.\n\n12. Medir cambios en cobertura, escolaridad, empleo, satisfacción y acceso efectivo, evitando usar solo número de visitas como éxito.\n\nALTERNATIVAS\n\nA) La palabra 'solamente' limita la intervención a programas sociales y excluye otros determinantes.\n\nB) Correcta: políticas públicas intersectoriales con recursos y participación.\n\nC) El censo es útil como diagnóstico, pero no intervención suficiente por sí mismo.\n\nD) Las visitas domiciliarias son herramienta de atención, pero no abordan integralmente empleo y deserción escolar.\n\nNORMATIVA Y FUENTES\n\nOMS: determinantes sociales de salud y equidad.\n\nMINSA: políticas de interculturalidad y cuidado integral.\n\nGobiernos locales: competencias de articulación territorial y promoción de desarrollo social.\n\nTRAMPAS\n\nIdentificar el concepto operacional solicitado, distinguiendo medición, diagnóstico e intervención.\n\nNo confundir la respuesta académica con el protocolo clínico completo cuando faltan datos.\n\nMNEMOTECNIA\n\nPROBLEMA ESTRUCTURAL = POLÍTICAS + RECURSOS + PARTICIPACIÓN.\n\nREPASO ACTIVO\n\n¿Cuál es la pista decisiva? Los problemas descritos atraviesan empleo, educación y acceso sanitario; requieren acciones intersectoriales sobre determinantes estructurales. Gestionar políticas públicas que asignen recursos y reduzcan barreras es más integral que ofrecer únicamente programas sociales, censar personas sin intervenir o realizar solo visitas domiciliarias. La respuesta debe ser participativa y respetuosa de la identidad cultural.\n\n¿Qué recordar para otro caso? PROBLEMA ESTRUCTURAL = POLÍTICAS + RECURSOS + PARTICIPACIÓN.\n\nCASOS DE REFUERZO\n\nComunidad presenta deserción escolar, inseguridad alimentaria y barreras laborales. ¿Mejor intervención municipal?\nA) Solo entregar folletos\nB) Excluir migrantes\nC) Solo censar\nD) Esperar solicitudes individuales\nE) Políticas intersectoriales con recursos y seguimiento\nClave: E — Se actúa sobre determinantes y condiciones de acceso.\n\nIPRESS identifica que horarios laborales impiden consultas de población migrante. ¿Medida útil?\nA) Ampliar horarios accesibles con participación\nB) Multar ausentes\nC) Exigir renunciar trabajo\nD) Negar atenciones\nE) Cerrar programas\nClave: A — Se reduce una barrera material para acceso efectivo.",
+      "pearl": "PROBLEMA ESTRUCTURAL = POLÍTICAS + RECURSOS + PARTICIPACIÓN.",
+      "estadoDesarrollo": "completo",
+      "estadoClave": "clave_razonada_pendiente_verificacion_oficial",
+      "lesson": {
+        "respuesta_resumida": "B. Gestionar políticas públicas que brinden recursos en la comunidad",
+        "razonamiento": "Los problemas descritos atraviesan empleo, educación y acceso sanitario; requieren acciones intersectoriales sobre determinantes estructurales. Gestionar políticas públicas que asignen recursos y reduzcan barreras es más integral que ofrecer únicamente programas sociales, censar personas sin intervenir o realizar solo visitas domiciliarias. La respuesta debe ser participativa y respetuosa de la identidad cultural.",
+        "temario": [
+          "Migración interna no es patología ni constituye por sí sola conducta de riesgo; las vulnerabilidades provienen de barreras sociales y económicas concretas.",
+          "Determinantes estructurales incluyen distribución de oportunidades educativas, protección social, empleo y políticas de inclusión.",
+          "Determinantes intermedios incluyen vivienda, servicios, condiciones laborales, alimentación, estrés y acceso real a atención.",
+          "La informalidad puede relacionarse con ausencia de protección laboral y horarios incompatibles con servicios sanitarios.",
+          "La deserción escolar demanda articulación con sector educación, protección social y autoridades locales.",
+          "El ausentismo a servicios puede reflejar distancia, costos, discriminación, horarios, idioma o desconfianza; investigar antes de atribuir desinterés.",
+          "Políticas públicas deben movilizar recursos para educación, protección social, empleo digno, servicios aceptables y atención primaria.",
+          "El censo sirve como diagnóstico territorial, pero recolectar datos sin respuesta no corrige la inequidad.",
+          "Las visitas domiciliarias pueden mejorar vínculo y continuidad, aunque necesitan formar parte de un plan mayor.",
+          "El enfoque intercultural exige participación de la propia comunidad y respeto de prácticas seguras, sin imponer asimilación.",
+          "Priorizar protección de niños y adolescentes sin escolaridad y acceso a vacunación, nutrición y atención integral.",
+          "Medir cambios en cobertura, escolaridad, empleo, satisfacción y acceso efectivo, evitando usar solo número de visitas como éxito."
+        ],
+        "por_que_no_las_otras": {
+          "A": "La palabra 'solamente' limita la intervención a programas sociales y excluye otros determinantes.",
+          "B": "Correcta: políticas públicas intersectoriales con recursos y participación.",
+          "C": "El censo es útil como diagnóstico, pero no intervención suficiente por sí mismo.",
+          "D": "Las visitas domiciliarias son herramienta de atención, pero no abordan integralmente empleo y deserción escolar."
+        },
+        "normativa": [
+          "OMS: determinantes sociales de salud y equidad.",
+          "MINSA: políticas de interculturalidad y cuidado integral.",
+          "Gobiernos locales: competencias de articulación territorial y promoción de desarrollo social."
+        ],
+        "mnemotecnia": "PROBLEMA ESTRUCTURAL = POLÍTICAS + RECURSOS + PARTICIPACIÓN.",
+        "trampas": [
+          "Identificar el concepto operacional solicitado, distinguiendo medición, diagnóstico e intervención.",
+          "No confundir la respuesta académica con el protocolo clínico completo cuando faltan datos."
+        ],
+        "perla": "PROBLEMA ESTRUCTURAL = POLÍTICAS + RECURSOS + PARTICIPACIÓN.",
+        "repaso_activo": [
+          {
+            "pregunta": "¿Cuál es la pista decisiva?",
+            "respuesta": "Los problemas descritos atraviesan empleo, educación y acceso sanitario; requieren acciones intersectoriales sobre determinantes estructurales. Gestionar políticas públicas que asignen recursos y reduzcan barreras es más integral que ofrecer únicamente programas sociales, censar personas sin intervenir o realizar solo visitas domiciliarias. La respuesta debe ser participativa y respetuosa de la identidad cultural."
+          },
+          {
+            "pregunta": "¿Qué recordar para otro caso?",
+            "respuesta": "PROBLEMA ESTRUCTURAL = POLÍTICAS + RECURSOS + PARTICIPACIÓN."
+          }
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Comunidad presenta deserción escolar, inseguridad alimentaria y barreras laborales. ¿Mejor intervención municipal?",
+            "alternativas": {
+              "A": "Solo entregar folletos",
+              "B": "Excluir migrantes",
+              "C": "Solo censar",
+              "D": "Esperar solicitudes individuales",
+              "E": "Políticas intersectoriales con recursos y seguimiento"
+            },
+            "respuesta": "E",
+            "explicacion": "Se actúa sobre determinantes y condiciones de acceso."
+          },
+          {
+            "enunciado": "IPRESS identifica que horarios laborales impiden consultas de población migrante. ¿Medida útil?",
+            "alternativas": {
+              "A": "Ampliar horarios accesibles con participación",
+              "B": "Multar ausentes",
+              "C": "Exigir renunciar trabajo",
+              "D": "Negar atenciones",
+              "E": "Cerrar programas"
+            },
+            "respuesta": "A",
+            "explicacion": "Se reduce una barrera material para acceso efectivo."
+          }
+        ]
+      }
+    },
+    {
+      "number": 95,
+      "code": "ENCAPS26-I P95",
+      "course": "ENCAPS Medicina 2026-I",
+      "topic": "Prevención de anemia en lactante nacido a término: hierro a partir de cuatro meses",
+      "question": "Rosa acude a la IPRESS de su jurisdicción, con su hijo Iván nacido a término, quien ha cumplido 4 meses, aparentemente normal. Como médico preocupado por la lucha contra la anemia, Ud. decide lo siguiente, de acuerdo a normatividad vigente:",
+      "options": {
+        "A": "Iniciar con suplementación preventiva a 2 mg/kg/día de hierro elemental",
+        "B": "Dosaje de hemoglobina urgente e iniciar tratamiento con hierro polimaltosado",
+        "C": "Tratamiento con hierro elemental a 3mg/Kg/día para prevenir la anemia",
+        "D": "Esperar hasta los 6 meses para dosaje de hemoglobina y suplementación"
+      },
+      "correct": "A",
+      "comment": "RESPUESTA RAZONADA — COTEJO OFICIAL PENDIENTE\nA. Iniciar con suplementación preventiva a 2 mg/kg/día de hierro elemental\n\nRAZONAMIENTO\n\nEn lactantes nacidos a término, con peso adecuado y sin anemia conocida, la prevención con hierro se inicia a partir de los cuatro meses según la norma peruana. La opción A propone 2 mg/kg/día de hierro elemental como suplementación preventiva. Un lactante aparentemente sano no debe recibir dosis terapéutica de 3 mg/kg/día por el solo propósito de prevención, ni esperar de rutina hasta los seis meses para iniciar suplementación. Los cambios normativos recientes y el tipo de preparado deben verificarse antes de prescribir.\n\nTEMARIO EXTENSO\n\n1. La anemia infantil puede afectar desarrollo psicomotor y función cognitiva, aunque las consecuencias dependen de gravedad, duración y causas.\n\n2. La deficiencia de hierro es causa frecuente, pero anemia también puede deberse a inflamación, hemoglobinopatías y otras etiologías.\n\n3. El neonato a término recibe reservas de hierro maternofetales; hacia meses posteriores la demanda del crecimiento supera aporte de reservas y alimentación exclusiva.\n\n4. La prevención incluye suplementación oportuna según edad y condición, lactancia apropiada y consejería sobre alimentación complementaria desde los seis meses.\n\n5. La norma peruana vigente de anemia plantea acciones preventivas diferenciadas para nacidos a término, prematuros y bajo peso al nacer.\n\n6. Dosis de suplemento se calcula como miligramos de hierro elemental por kilogramo por día, no miligramos de sal de hierro.\n\n7. Ejemplo: si el lactante pesa 6 kg, 2 mg/kg/día equivalen a 12 mg de hierro elemental diario, siempre revisando presentación y prescripción local.\n\n8. El tratamiento de anemia confirmada usa pautas terapéuticas distintas según edad, peso, nivel de hemoglobina y etiología.\n\n9. No iniciar tratamiento terapéutico únicamente por sospecha sin evaluación apropiada, salvo indicaciones específicas de protocolo.\n\n10. El tamizaje de hemoglobina debe programarse según norma; interpretar Hb con ajustes pertinentes cuando correspondan, incluido contexto de altura.\n\n11. Conservación y administración adecuada del hierro, manejo de estreñimiento o malestar gastrointestinal y adherencia son esenciales.\n\n12. El hierro no reemplaza educación alimentaria: desde seis meses promover alimentos ricos en hierro y prácticas seguras.\n\n13. Registrar suplementación, monitorear adherencia y verificar respuesta o anemia durante controles CRED.\n\n14. Evitar sobredosificación: frascos con hierro pueden causar intoxicación grave si quedan al alcance de niños.\n\nALTERNATIVAS\n\nA) Correcta como clave de examen: suplementación preventiva con 2 mg/kg/día de hierro elemental a cuatro meses en lactante a término.\n\nB) No hay anemia documentada; dosaje urgente y tratamiento inmediato no se justifican solo por edad.\n\nC) Tres mg/kg/día plantea dosis de tratamiento en determinados esquemas, no objetivo preventivo en este caso.\n\nD) Esperar a los seis meses retrasa prevención indicada desde cuatro meses.\n\nNORMATIVA Y FUENTES\n\nMINSA, NTS de prevención y control de anemia por deficiencia de hierro en niñas, niños y gestantes; cotejar versión 2024–2026.\n\nMINSA, documentos de CRED y suplementación con hierro de lactantes.\n\nTRAMPAS\n\nIdentificar el concepto operacional solicitado, distinguiendo medición, diagnóstico e intervención.\n\nNo confundir la respuesta académica con el protocolo clínico completo cuando faltan datos.\n\nMNEMOTECNIA\n\nTÉRMINO + 4 MESES = HIERRO PREVENTIVO 2 mg/kg/día.\n\nREPASO ACTIVO\n\n¿Cuál es la pista decisiva? En lactantes nacidos a término, con peso adecuado y sin anemia conocida, la prevención con hierro se inicia a partir de los cuatro meses según la norma peruana. La opción A propone 2 mg/kg/día de hierro elemental como suplementación preventiva. Un lactante aparentemente sano no debe recibir dosis terapéutica de 3 mg/kg/día por el solo propósito de prevención, ni esperar de rutina hasta los seis meses para iniciar suplementación. Los cambios normativos recientes y el tipo de preparado deben verificarse antes de prescribir.\n\n¿Qué recordar para otro caso? TÉRMINO + 4 MESES = HIERRO PREVENTIVO 2 mg/kg/día.\n\nCASOS DE REFUERZO\n\nLactante de cuatro meses nacido a término, 6 kg, sin anemia conocida. ¿Cantidad diaria de hierro elemental con 2 mg/kg/día?\nA) 3 mg\nB) 6 mg\nC) 12 mg\nD) 18 mg\nE) 24 mg\nClave: C — 6×2=12 mg de hierro elemental cada día.\n\nLactante con Hb baja confirmada requiere manejo. ¿Cómo se determina pauta?\nA) Dar suplemento preventivo sin diagnóstico\nB) Usar protocolo terapéutico según edad, peso y gravedad\nC) Suspender controles\nD) No evaluar causas\nE) Esperar obligatoriamente hasta un año\nClave: B — El tratamiento de anemia se determina por norma y evaluación, no por pauta preventiva aislada.",
+      "pearl": "TÉRMINO + 4 MESES = HIERRO PREVENTIVO 2 mg/kg/día.",
+      "estadoDesarrollo": "completo",
+      "estadoClave": "clave_razonada_pendiente_verificacion_oficial",
+      "lesson": {
+        "respuesta_resumida": "A. Iniciar con suplementación preventiva a 2 mg/kg/día de hierro elemental",
+        "razonamiento": "En lactantes nacidos a término, con peso adecuado y sin anemia conocida, la prevención con hierro se inicia a partir de los cuatro meses según la norma peruana. La opción A propone 2 mg/kg/día de hierro elemental como suplementación preventiva. Un lactante aparentemente sano no debe recibir dosis terapéutica de 3 mg/kg/día por el solo propósito de prevención, ni esperar de rutina hasta los seis meses para iniciar suplementación. Los cambios normativos recientes y el tipo de preparado deben verificarse antes de prescribir.",
+        "temario": [
+          "La anemia infantil puede afectar desarrollo psicomotor y función cognitiva, aunque las consecuencias dependen de gravedad, duración y causas.",
+          "La deficiencia de hierro es causa frecuente, pero anemia también puede deberse a inflamación, hemoglobinopatías y otras etiologías.",
+          "El neonato a término recibe reservas de hierro maternofetales; hacia meses posteriores la demanda del crecimiento supera aporte de reservas y alimentación exclusiva.",
+          "La prevención incluye suplementación oportuna según edad y condición, lactancia apropiada y consejería sobre alimentación complementaria desde los seis meses.",
+          "La norma peruana vigente de anemia plantea acciones preventivas diferenciadas para nacidos a término, prematuros y bajo peso al nacer.",
+          "Dosis de suplemento se calcula como miligramos de hierro elemental por kilogramo por día, no miligramos de sal de hierro.",
+          "Ejemplo: si el lactante pesa 6 kg, 2 mg/kg/día equivalen a 12 mg de hierro elemental diario, siempre revisando presentación y prescripción local.",
+          "El tratamiento de anemia confirmada usa pautas terapéuticas distintas según edad, peso, nivel de hemoglobina y etiología.",
+          "No iniciar tratamiento terapéutico únicamente por sospecha sin evaluación apropiada, salvo indicaciones específicas de protocolo.",
+          "El tamizaje de hemoglobina debe programarse según norma; interpretar Hb con ajustes pertinentes cuando correspondan, incluido contexto de altura.",
+          "Conservación y administración adecuada del hierro, manejo de estreñimiento o malestar gastrointestinal y adherencia son esenciales.",
+          "El hierro no reemplaza educación alimentaria: desde seis meses promover alimentos ricos en hierro y prácticas seguras.",
+          "Registrar suplementación, monitorear adherencia y verificar respuesta o anemia durante controles CRED.",
+          "Evitar sobredosificación: frascos con hierro pueden causar intoxicación grave si quedan al alcance de niños."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Correcta como clave de examen: suplementación preventiva con 2 mg/kg/día de hierro elemental a cuatro meses en lactante a término.",
+          "B": "No hay anemia documentada; dosaje urgente y tratamiento inmediato no se justifican solo por edad.",
+          "C": "Tres mg/kg/día plantea dosis de tratamiento en determinados esquemas, no objetivo preventivo en este caso.",
+          "D": "Esperar a los seis meses retrasa prevención indicada desde cuatro meses."
+        },
+        "normativa": [
+          "MINSA, NTS de prevención y control de anemia por deficiencia de hierro en niñas, niños y gestantes; cotejar versión 2024–2026.",
+          "MINSA, documentos de CRED y suplementación con hierro de lactantes."
+        ],
+        "mnemotecnia": "TÉRMINO + 4 MESES = HIERRO PREVENTIVO 2 mg/kg/día.",
+        "trampas": [
+          "Identificar el concepto operacional solicitado, distinguiendo medición, diagnóstico e intervención.",
+          "No confundir la respuesta académica con el protocolo clínico completo cuando faltan datos."
+        ],
+        "perla": "TÉRMINO + 4 MESES = HIERRO PREVENTIVO 2 mg/kg/día.",
+        "repaso_activo": [
+          {
+            "pregunta": "¿Cuál es la pista decisiva?",
+            "respuesta": "En lactantes nacidos a término, con peso adecuado y sin anemia conocida, la prevención con hierro se inicia a partir de los cuatro meses según la norma peruana. La opción A propone 2 mg/kg/día de hierro elemental como suplementación preventiva. Un lactante aparentemente sano no debe recibir dosis terapéutica de 3 mg/kg/día por el solo propósito de prevención, ni esperar de rutina hasta los seis meses para iniciar suplementación. Los cambios normativos recientes y el tipo de preparado deben verificarse antes de prescribir."
+          },
+          {
+            "pregunta": "¿Qué recordar para otro caso?",
+            "respuesta": "TÉRMINO + 4 MESES = HIERRO PREVENTIVO 2 mg/kg/día."
+          }
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Lactante de cuatro meses nacido a término, 6 kg, sin anemia conocida. ¿Cantidad diaria de hierro elemental con 2 mg/kg/día?",
+            "alternativas": {
+              "A": "3 mg",
+              "B": "6 mg",
+              "C": "12 mg",
+              "D": "18 mg",
+              "E": "24 mg"
+            },
+            "respuesta": "C",
+            "explicacion": "6×2=12 mg de hierro elemental cada día."
+          },
+          {
+            "enunciado": "Lactante con Hb baja confirmada requiere manejo. ¿Cómo se determina pauta?",
+            "alternativas": {
+              "A": "Dar suplemento preventivo sin diagnóstico",
+              "B": "Usar protocolo terapéutico según edad, peso y gravedad",
+              "C": "Suspender controles",
+              "D": "No evaluar causas",
+              "E": "Esperar obligatoriamente hasta un año"
+            },
+            "respuesta": "B",
+            "explicacion": "El tratamiento de anemia se determina por norma y evaluación, no por pauta preventiva aislada."
           }
         ]
       }
