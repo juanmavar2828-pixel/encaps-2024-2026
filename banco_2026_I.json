@@ -7739,10 +7739,76 @@
       "correct": "D",
       "razonamiento": "Los casos nuevos registrados durante un periodo son incidentes. La prevalencia incluye diagnósticos previos aún existentes; probable indica certeza diagnóstica y recurrente aparición posterior.",
       "code": "ENCAPS26-I P76",
-      "course": "ENCAPS Medicina 2026-I",
-      "comment": "CLAVE RAZONADA D\n\nLos casos nuevos registrados durante un periodo son incidentes. La prevalencia incluye diagnósticos previos aún existentes; probable indica certeza diagnóstica y recurrente aparición posterior.",
-      "estadoDesarrollo": "pendiente_de_ampliacion",
-      "estadoClave": "razonada_pendiente_cotejo_oficial"
+      "course": "ENCAPS Medicina 2026-I · Temario desarrollado",
+      "comment": "RESPUESTA RAZONADA: D. Incidentes\n\nRAZONAMIENTO\n\nLos diagnósticos nuevos durante el último año son casos INCIDENTES. Prevalencia cuenta todos los casos existentes; casos probables describen certeza diagnóstica, y reincidencia significa recurrencia. La incidencia acumulada exige un denominador inicialmente en riesgo y la tasa de incidencia demanda persona-tiempo.\n\nDESARROLLO TEMÁTICO\n\n1. Incidencia acumulada = casos nuevos / personas inicialmente en riesgo\n\n2. densidad = casos nuevos / persona-tiempo\n\n3. prevalencia = casos existentes / población\n\n4. factores causales de melanoma incluyen UV, quemaduras solares y predisposición\n\n5. ABCDE de lesiones pigmentadas\n\n6. diferenciar aumento por riesgo frente a mayor detección\n\n7. ajustar comparaciones por edad y población.\n\nALTERNATIVAS\n\nA) No responde al hallazgo específico del enunciado; comparar con Incidentes y las definiciones del temario.\n\nB) No responde al hallazgo específico del enunciado; comparar con Incidentes y las definiciones del temario.\n\nC) No responde al hallazgo específico del enunciado; comparar con Incidentes y las definiciones del temario.\n\nD) Correcta como clave razonada: Los diagnósticos nuevos durante el último año son casos INCIDENTES. Prevalencia cuenta todos los casos existentes; casos probables describen certeza diagnóstica, y reincidencia significa recurrencia. La incidencia acumulada exige un denominador inicialmente en riesgo y la tasa de incidencia demanda persona-tiempo.\n\nFUENTES Y NORMATIVA\n\nhttps://www.who.int/news-room/questions-and-answers/item/radiation-ultraviolet-(uv)\n\nTRAMPAS\n\nConfirmar el supuesto clínico o epidemiológico antes de extrapolar.\n\nLa clave propuesta debe cotejarse con clave oficial.\n\nMNEMOTECNIA\n\nINCIDENCIA = INGRESAN; PREVALENCIA = PERMANECEN.\n\nREPASO ACTIVO\n\n¿Cuál es el razonamiento esencial? — Los diagnósticos nuevos durante el último año son casos INCIDENTES. Prevalencia cuenta todos los casos existentes; casos probables describen certeza diagnóstica, y reincidencia significa recurrencia. La incidencia acumulada exige un denominador inicialmente en riesgo y la tasa de incidencia demanda persona-tiempo.\n\n¿Qué fórmula o distinción se debe recordar? — INCIDENCIA = INGRESAN; PREVALENCIA = PERMANECEN.\n\nCASOS AVANZADOS\n\n1. Un informe contabiliza los 60 diagnósticos NUEVOS durante 2026. ¿Medida?\nA) Letalidad\nB) Prevalencia\nC) Incidencia\nD) Mortalidad\nE) Ataque\nClave C: Nuevos casos constituyen incidencia.\n\n2. En enero se cuenta a todos los pacientes que VIVEN con melanoma. ¿Medida?\nA) Prevalencia\nB) Incidencia\nC) Mortalidad\nD) Recidiva\nE) Letalidad\nClave A: Prevalencia integra casos existentes.",
+      "estadoDesarrollo": "completo",
+      "estadoClave": "propuesta_razonada_pendiente_cotejo_clave_oficial",
+      "topic": "Casos incidentes y prevalentes de melanoma",
+      "lesson": {
+        "respuesta_resumida": "D. Incidentes",
+        "razonamiento": "Los diagnósticos nuevos durante el último año son casos INCIDENTES. Prevalencia cuenta todos los casos existentes; casos probables describen certeza diagnóstica, y reincidencia significa recurrencia. La incidencia acumulada exige un denominador inicialmente en riesgo y la tasa de incidencia demanda persona-tiempo.",
+        "temario": [
+          "Incidencia acumulada = casos nuevos / personas inicialmente en riesgo",
+          "densidad = casos nuevos / persona-tiempo",
+          "prevalencia = casos existentes / población",
+          "factores causales de melanoma incluyen UV, quemaduras solares y predisposición",
+          "ABCDE de lesiones pigmentadas",
+          "diferenciar aumento por riesgo frente a mayor detección",
+          "ajustar comparaciones por edad y población."
+        ],
+        "por_que_no_las_otras": {
+          "A": "No responde al hallazgo específico del enunciado; comparar con Incidentes y las definiciones del temario.",
+          "B": "No responde al hallazgo específico del enunciado; comparar con Incidentes y las definiciones del temario.",
+          "C": "No responde al hallazgo específico del enunciado; comparar con Incidentes y las definiciones del temario.",
+          "D": "Correcta como clave razonada: Los diagnósticos nuevos durante el último año son casos INCIDENTES. Prevalencia cuenta todos los casos existentes; casos probables describen certeza diagnóstica, y reincidencia significa recurrencia. La incidencia acumulada exige un denominador inicialmente en riesgo y la tasa de incidencia demanda persona-tiempo."
+        },
+        "normativa": [
+          "https://www.who.int/news-room/questions-and-answers/item/radiation-ultraviolet-(uv)"
+        ],
+        "mnemotecnia": "INCIDENCIA = INGRESAN; PREVALENCIA = PERMANECEN.",
+        "trampas": [
+          "Confirmar el supuesto clínico o epidemiológico antes de extrapolar.",
+          "La clave propuesta debe cotejarse con clave oficial."
+        ],
+        "perla": "INCIDENCIA = INGRESAN; PREVALENCIA = PERMANECEN.",
+        "repaso_activo": [
+          {
+            "pregunta": "¿Cuál es el razonamiento esencial?",
+            "respuesta": "Los diagnósticos nuevos durante el último año son casos INCIDENTES. Prevalencia cuenta todos los casos existentes; casos probables describen certeza diagnóstica, y reincidencia significa recurrencia. La incidencia acumulada exige un denominador inicialmente en riesgo y la tasa de incidencia demanda persona-tiempo."
+          },
+          {
+            "pregunta": "¿Qué fórmula o distinción se debe recordar?",
+            "respuesta": "INCIDENCIA = INGRESAN; PREVALENCIA = PERMANECEN."
+          }
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Un informe contabiliza los 60 diagnósticos NUEVOS durante 2026. ¿Medida?",
+            "alternativas": {
+              "A": "Letalidad",
+              "B": "Prevalencia",
+              "C": "Incidencia",
+              "D": "Mortalidad",
+              "E": "Ataque"
+            },
+            "respuesta": "C",
+            "explicacion": "Nuevos casos constituyen incidencia."
+          },
+          {
+            "enunciado": "En enero se cuenta a todos los pacientes que VIVEN con melanoma. ¿Medida?",
+            "alternativas": {
+              "A": "Prevalencia",
+              "B": "Incidencia",
+              "C": "Mortalidad",
+              "D": "Recidiva",
+              "E": "Letalidad"
+            },
+            "respuesta": "A",
+            "explicacion": "Prevalencia integra casos existentes."
+          }
+        ]
+      },
+      "pearl": "INCIDENCIA = INGRESAN; PREVALENCIA = PERMANECEN."
     },
     {
       "number": 77,
@@ -7756,10 +7822,77 @@
       "correct": "A",
       "razonamiento": "Grupo A: dengue sin signos de alarma ni factores de riesgo, apto para manejo ambulatorio si tiene tolerancia oral, diuresis y seguimiento. B1: riesgo/comorbilidad, B2: alarma, C: dengue grave.",
       "code": "ENCAPS26-I P77",
-      "course": "ENCAPS Medicina 2026-I",
-      "comment": "CLAVE RAZONADA A\n\nGrupo A: dengue sin signos de alarma ni factores de riesgo, apto para manejo ambulatorio si tiene tolerancia oral, diuresis y seguimiento. B1: riesgo/comorbilidad, B2: alarma, C: dengue grave.",
-      "estadoDesarrollo": "pendiente_de_ampliacion",
-      "estadoClave": "razonada_pendiente_cotejo_oficial"
+      "course": "ENCAPS Medicina 2026-I · Temario desarrollado",
+      "comment": "RESPUESTA RAZONADA: A. A\n\nRAZONAMIENTO\n\nPaciente con sospecha de dengue, sin factores de riesgo ni signos de alarma: grupo A, si se comprueba estabilidad hemodinámica, adecuada tolerancia oral y capacidad de seguimiento. Requiere control ambulatorio e instrucciones de alarma; la desaparición de fiebre puede anunciar etapa crítica.\n\nDESARROLLO TEMÁTICO\n\n1. A: sin alarma ni comorbilidad, oral y ambulatorio\n\n2. B1: condición especial, comorbilidades o factores sociales\n\n3. B2: signos de alarma como dolor abdominal persistente, vómitos repetidos, sangrado mucoso, letargo o fuga plasmática\n\n4. C: dengue grave con choque o daño orgánico\n\n5. Valorar presión, perfusión, diuresis, hematocrito, tolerancia oral\n\n6. Evitar aspirina y AINE\n\n7. preferir paracetamol y fluidos según protocolo\n\n8. Evaluar constantemente tras defervescencia.\n\nALTERNATIVAS\n\nA) Correcta como clave razonada: Paciente con sospecha de dengue, sin factores de riesgo ni signos de alarma: grupo A, si se comprueba estabilidad hemodinámica, adecuada tolerancia oral y capacidad de seguimiento. Requiere control ambulatorio e instrucciones de alarma; la desaparición de fiebre puede anunciar etapa crítica.\n\nB) No responde al hallazgo específico del enunciado; comparar con A y las definiciones del temario.\n\nC) No responde al hallazgo específico del enunciado; comparar con A y las definiciones del temario.\n\nD) No responde al hallazgo específico del enunciado; comparar con A y las definiciones del temario.\n\nFUENTES Y NORMATIVA\n\nhttps://www.gob.pe/institucion/minsa/normas-legales/5323501-175-2024-minsa\n\nTRAMPAS\n\nConfirmar el supuesto clínico o epidemiológico antes de extrapolar.\n\nLa clave propuesta debe cotejarse con clave oficial.\n\nMNEMOTECNIA\n\nA AMBULATORIO; B1 RIESGO; B2 ALARMA; C CRÍTICO.\n\nREPASO ACTIVO\n\n¿Cuál es el razonamiento esencial? — Paciente con sospecha de dengue, sin factores de riesgo ni signos de alarma: grupo A, si se comprueba estabilidad hemodinámica, adecuada tolerancia oral y capacidad de seguimiento. Requiere control ambulatorio e instrucciones de alarma; la desaparición de fiebre puede anunciar etapa crítica.\n\n¿Qué fórmula o distinción se debe recordar? — A AMBULATORIO; B1 RIESGO; B2 ALARMA; C CRÍTICO.\n\nCASOS AVANZADOS\n\n1. Dengue probable estable que tolera vía oral sin alarma ni riesgos asociados. ¿Grupo?\nA) B1\nB) B2\nC) C\nD) A\nE) No clasificable\nClave D: Se maneja como grupo A con seguimiento.\n\n2. Paciente presenta dolor abdominal persistente y vómitos reiterados, sin choque. ¿Grupo?\nA) A\nB) B2\nC) C\nD) B1\nE) No clasificar\nClave B: Los signos de alarma definen B2.",
+      "estadoDesarrollo": "completo",
+      "estadoClave": "propuesta_razonada_pendiente_cotejo_clave_oficial",
+      "topic": "Dengue: clasificación clínica A, B1, B2 y C",
+      "lesson": {
+        "respuesta_resumida": "A. A",
+        "razonamiento": "Paciente con sospecha de dengue, sin factores de riesgo ni signos de alarma: grupo A, si se comprueba estabilidad hemodinámica, adecuada tolerancia oral y capacidad de seguimiento. Requiere control ambulatorio e instrucciones de alarma; la desaparición de fiebre puede anunciar etapa crítica.",
+        "temario": [
+          "A: sin alarma ni comorbilidad, oral y ambulatorio",
+          "B1: condición especial, comorbilidades o factores sociales",
+          "B2: signos de alarma como dolor abdominal persistente, vómitos repetidos, sangrado mucoso, letargo o fuga plasmática",
+          "C: dengue grave con choque o daño orgánico",
+          "Valorar presión, perfusión, diuresis, hematocrito, tolerancia oral",
+          "Evitar aspirina y AINE",
+          "preferir paracetamol y fluidos según protocolo",
+          "Evaluar constantemente tras defervescencia."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Correcta como clave razonada: Paciente con sospecha de dengue, sin factores de riesgo ni signos de alarma: grupo A, si se comprueba estabilidad hemodinámica, adecuada tolerancia oral y capacidad de seguimiento. Requiere control ambulatorio e instrucciones de alarma; la desaparición de fiebre puede anunciar etapa crítica.",
+          "B": "No responde al hallazgo específico del enunciado; comparar con A y las definiciones del temario.",
+          "C": "No responde al hallazgo específico del enunciado; comparar con A y las definiciones del temario.",
+          "D": "No responde al hallazgo específico del enunciado; comparar con A y las definiciones del temario."
+        },
+        "normativa": [
+          "https://www.gob.pe/institucion/minsa/normas-legales/5323501-175-2024-minsa"
+        ],
+        "mnemotecnia": "A AMBULATORIO; B1 RIESGO; B2 ALARMA; C CRÍTICO.",
+        "trampas": [
+          "Confirmar el supuesto clínico o epidemiológico antes de extrapolar.",
+          "La clave propuesta debe cotejarse con clave oficial."
+        ],
+        "perla": "A AMBULATORIO; B1 RIESGO; B2 ALARMA; C CRÍTICO.",
+        "repaso_activo": [
+          {
+            "pregunta": "¿Cuál es el razonamiento esencial?",
+            "respuesta": "Paciente con sospecha de dengue, sin factores de riesgo ni signos de alarma: grupo A, si se comprueba estabilidad hemodinámica, adecuada tolerancia oral y capacidad de seguimiento. Requiere control ambulatorio e instrucciones de alarma; la desaparición de fiebre puede anunciar etapa crítica."
+          },
+          {
+            "pregunta": "¿Qué fórmula o distinción se debe recordar?",
+            "respuesta": "A AMBULATORIO; B1 RIESGO; B2 ALARMA; C CRÍTICO."
+          }
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Dengue probable estable que tolera vía oral sin alarma ni riesgos asociados. ¿Grupo?",
+            "alternativas": {
+              "A": "B1",
+              "B": "B2",
+              "C": "C",
+              "D": "A",
+              "E": "No clasificable"
+            },
+            "respuesta": "D",
+            "explicacion": "Se maneja como grupo A con seguimiento."
+          },
+          {
+            "enunciado": "Paciente presenta dolor abdominal persistente y vómitos reiterados, sin choque. ¿Grupo?",
+            "alternativas": {
+              "A": "A",
+              "B": "B2",
+              "C": "C",
+              "D": "B1",
+              "E": "No clasificar"
+            },
+            "respuesta": "B",
+            "explicacion": "Los signos de alarma definen B2."
+          }
+        ]
+      },
+      "pearl": "A AMBULATORIO; B1 RIESGO; B2 ALARMA; C CRÍTICO."
     },
     {
       "number": 78,
@@ -7773,10 +7906,75 @@
       "correct": "B",
       "razonamiento": "La norma peruana sobre parto vertical contempla que el profesional pueda situarse delante o detrás de la parturienta; en la variante de cuatro apoyos la ubicación posterior suele permitir apoyo perineal.",
       "code": "ENCAPS26-I P78",
-      "course": "ENCAPS Medicina 2026-I",
-      "comment": "CLAVE RAZONADA B\n\nLa norma peruana sobre parto vertical contempla que el profesional pueda situarse delante o detrás de la parturienta; en la variante de cuatro apoyos la ubicación posterior suele permitir apoyo perineal.",
-      "estadoDesarrollo": "pendiente_de_ampliacion",
-      "estadoClave": "razonada_pendiente_cotejo_oficial"
+      "course": "ENCAPS Medicina 2026-I · Temario desarrollado",
+      "comment": "RESPUESTA RAZONADA: B. Delante o detrás\n\nRAZONAMIENTO\n\nLa clave propuesta B ('delante o detrás') es ambigua: la NTS MINSA describe específicamente en CUATRO PUNTOS (manos y rodillas) que el profesional se sitúa DETRÁS de la gestante para proteger periné. Otras variantes de rodillas requieren ajuste de posición y visibilidad. No memorizar delante/detrás como equivalentes universales.\n\nDESARROLLO TEMÁTICO\n\n1. Parto vertical permite posiciones de pie, cuclillas, sentada, rodillas o cuatro puntos\n\n2. garantizar consentimiento, pertinencia cultural, acompañamiento apropiado, privacidad, evaluación del riesgo y bienestar fetal\n\n3. Cuatro puntos: personal detrás protegiendo periné\n\n4. Mantener soporte seguro y evitar tracción innecesaria, vigilar sangrado y progresión\n\n5. Ante hemorragia u otra urgencia prevalece actuación inmediata conforme al protocolo.\n\nALTERNATIVAS\n\nA) No responde al hallazgo específico del enunciado; comparar con Delante o detrás y las definiciones del temario.\n\nB) Correcta como clave razonada: La clave propuesta B ('delante o detrás') es ambigua: la NTS MINSA describe específicamente en CUATRO PUNTOS (manos y rodillas) que el profesional se sitúa DETRÁS de la gestante para proteger periné. Otras variantes de rodillas requieren ajuste de posición y visibilidad. No memorizar delante/detrás como equivalentes universales.\n\nC) No responde al hallazgo específico del enunciado; comparar con Delante o detrás y las definiciones del temario.\n\nD) No responde al hallazgo específico del enunciado; comparar con Delante o detrás y las definiciones del temario.\n\nFUENTES Y NORMATIVA\n\nhttps://bvs.minsa.gob.pe/local/MINSA/5016.pdf\n\nTRAMPAS\n\nConfirmar el supuesto clínico o epidemiológico antes de extrapolar.\n\nLa clave propuesta debe cotejarse con clave oficial.\n\nLa NTS dice detrás en cuatro puntos; la pregunta es ambigua.\n\nMNEMOTECNIA\n\nCUATRO PUNTOS: ASISTENTE DETRÁS; RESPETO MÁS SEGURIDAD.\n\nREPASO ACTIVO\n\n¿Cuál es el razonamiento esencial? — La clave propuesta B ('delante o detrás') es ambigua: la NTS MINSA describe específicamente en CUATRO PUNTOS (manos y rodillas) que el profesional se sitúa DETRÁS de la gestante para proteger periné. Otras variantes de rodillas requieren ajuste de posición y visibilidad. No memorizar delante/detrás como equivalentes universales.\n\n¿Qué fórmula o distinción se debe recordar? — CUATRO PUNTOS: ASISTENTE DETRÁS; RESPETO MÁS SEGURIDAD.\n\nCASOS AVANZADOS\n\n1. En cuatro puntos, ¿dónde se coloca el profesional según norma?\nA) Detrás\nB) Solo a la izquierda\nC) Fuera de sala\nD) Frente al rostro siempre\nE) Sin vigilar\nClave A: Se especifica ubicación posterior para cuidar periné.\n\n2. Gestante estable prefiere parto de rodillas. ¿Conducta?\nA) Negar preferencia\nB) Obligar litotomía\nC) Omitir monitoreo\nD) Respetar postura segura y vigilar\nE) Suspender información\nClave D: Parto respetado con evaluación y seguridad.",
+      "estadoDesarrollo": "completo",
+      "estadoClave": "propuesta_razonada_pendiente_cotejo_clave_oficial",
+      "topic": "Parto vertical de rodillas: ubicación del profesional y seguridad perineal",
+      "lesson": {
+        "respuesta_resumida": "B. Delante o detrás",
+        "razonamiento": "La clave propuesta B ('delante o detrás') es ambigua: la NTS MINSA describe específicamente en CUATRO PUNTOS (manos y rodillas) que el profesional se sitúa DETRÁS de la gestante para proteger periné. Otras variantes de rodillas requieren ajuste de posición y visibilidad. No memorizar delante/detrás como equivalentes universales.",
+        "temario": [
+          "Parto vertical permite posiciones de pie, cuclillas, sentada, rodillas o cuatro puntos",
+          "garantizar consentimiento, pertinencia cultural, acompañamiento apropiado, privacidad, evaluación del riesgo y bienestar fetal",
+          "Cuatro puntos: personal detrás protegiendo periné",
+          "Mantener soporte seguro y evitar tracción innecesaria, vigilar sangrado y progresión",
+          "Ante hemorragia u otra urgencia prevalece actuación inmediata conforme al protocolo."
+        ],
+        "por_que_no_las_otras": {
+          "A": "No responde al hallazgo específico del enunciado; comparar con Delante o detrás y las definiciones del temario.",
+          "B": "Correcta como clave razonada: La clave propuesta B ('delante o detrás') es ambigua: la NTS MINSA describe específicamente en CUATRO PUNTOS (manos y rodillas) que el profesional se sitúa DETRÁS de la gestante para proteger periné. Otras variantes de rodillas requieren ajuste de posición y visibilidad. No memorizar delante/detrás como equivalentes universales.",
+          "C": "No responde al hallazgo específico del enunciado; comparar con Delante o detrás y las definiciones del temario.",
+          "D": "No responde al hallazgo específico del enunciado; comparar con Delante o detrás y las definiciones del temario."
+        },
+        "normativa": [
+          "https://bvs.minsa.gob.pe/local/MINSA/5016.pdf"
+        ],
+        "mnemotecnia": "CUATRO PUNTOS: ASISTENTE DETRÁS; RESPETO MÁS SEGURIDAD.",
+        "trampas": [
+          "Confirmar el supuesto clínico o epidemiológico antes de extrapolar.",
+          "La clave propuesta debe cotejarse con clave oficial.",
+          "La NTS dice detrás en cuatro puntos; la pregunta es ambigua."
+        ],
+        "perla": "CUATRO PUNTOS: ASISTENTE DETRÁS; RESPETO MÁS SEGURIDAD.",
+        "repaso_activo": [
+          {
+            "pregunta": "¿Cuál es el razonamiento esencial?",
+            "respuesta": "La clave propuesta B ('delante o detrás') es ambigua: la NTS MINSA describe específicamente en CUATRO PUNTOS (manos y rodillas) que el profesional se sitúa DETRÁS de la gestante para proteger periné. Otras variantes de rodillas requieren ajuste de posición y visibilidad. No memorizar delante/detrás como equivalentes universales."
+          },
+          {
+            "pregunta": "¿Qué fórmula o distinción se debe recordar?",
+            "respuesta": "CUATRO PUNTOS: ASISTENTE DETRÁS; RESPETO MÁS SEGURIDAD."
+          }
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "En cuatro puntos, ¿dónde se coloca el profesional según norma?",
+            "alternativas": {
+              "A": "Detrás",
+              "B": "Solo a la izquierda",
+              "C": "Fuera de sala",
+              "D": "Frente al rostro siempre",
+              "E": "Sin vigilar"
+            },
+            "respuesta": "A",
+            "explicacion": "Se especifica ubicación posterior para cuidar periné."
+          },
+          {
+            "enunciado": "Gestante estable prefiere parto de rodillas. ¿Conducta?",
+            "alternativas": {
+              "A": "Negar preferencia",
+              "B": "Obligar litotomía",
+              "C": "Omitir monitoreo",
+              "D": "Respetar postura segura y vigilar",
+              "E": "Suspender información"
+            },
+            "respuesta": "D",
+            "explicacion": "Parto respetado con evaluación y seguridad."
+          }
+        ]
+      },
+      "pearl": "CUATRO PUNTOS: ASISTENTE DETRÁS; RESPETO MÁS SEGURIDAD."
     },
     {
       "number": 79,
@@ -7790,10 +7988,77 @@
       "correct": "B",
       "razonamiento": "La letalidad es proporción de fallecimientos entre enfermos; 2/50 × 100 = 4 %. Mortalidad usa como denominador la población general o en riesgo.",
       "code": "ENCAPS26-I P79",
-      "course": "ENCAPS Medicina 2026-I",
-      "comment": "CLAVE RAZONADA B\n\nLa letalidad es proporción de fallecimientos entre enfermos; 2/50 × 100 = 4 %. Mortalidad usa como denominador la población general o en riesgo.",
-      "estadoDesarrollo": "pendiente_de_ampliacion",
-      "estadoClave": "razonada_pendiente_cotejo_oficial"
+      "course": "ENCAPS Medicina 2026-I · Temario desarrollado",
+      "comment": "RESPUESTA RAZONADA: B. Tasa de letalidad\n\nRAZONAMIENTO\n\nDos fallecimientos entre 50 enfermos confirmados representan LETALIDAD: 2/50×100=4%. Se suele denominar tasa de letalidad aunque matemáticamente es proporción. La mortalidad requiere población como denominador; incidencia, personas en riesgo; ataque, expuestos.\n\nDESARROLLO TEMÁTICO\n\n1. Letalidad = muertos/casos ×100\n\n2. mortalidad específica = muertos/población ×k\n\n3. incidencia = nuevos casos/población en riesgo\n\n4. tasa de ataque = enfermos/expuestos\n\n5. P\n\n6. falciparum puede producir malaria grave con coma, anemia, hipoglucemia, choque y daño renal\n\n7. Diagnosticar con gota gruesa u otras pruebas indicadas, sin retrasar tratamiento urgente\n\n8. notificar y vigilar casos.\n\nALTERNATIVAS\n\nA) No responde al hallazgo específico del enunciado; comparar con Tasa de letalidad y las definiciones del temario.\n\nB) Correcta como clave razonada: Dos fallecimientos entre 50 enfermos confirmados representan LETALIDAD: 2/50×100=4%. Se suele denominar tasa de letalidad aunque matemáticamente es proporción. La mortalidad requiere población como denominador; incidencia, personas en riesgo; ataque, expuestos.\n\nC) No responde al hallazgo específico del enunciado; comparar con Tasa de letalidad y las definiciones del temario.\n\nD) No responde al hallazgo específico del enunciado; comparar con Tasa de letalidad y las definiciones del temario.\n\nFUENTES Y NORMATIVA\n\nhttps://www.who.int/news-room/fact-sheets/detail/malaria\n\nTRAMPAS\n\nConfirmar el supuesto clínico o epidemiológico antes de extrapolar.\n\nLa clave propuesta debe cotejarse con clave oficial.\n\nMNEMOTECNIA\n\nLETALIDAD: MUERTOS ENTRE ENFERMOS.\n\nREPASO ACTIVO\n\n¿Cuál es el razonamiento esencial? — Dos fallecimientos entre 50 enfermos confirmados representan LETALIDAD: 2/50×100=4%. Se suele denominar tasa de letalidad aunque matemáticamente es proporción. La mortalidad requiere población como denominador; incidencia, personas en riesgo; ataque, expuestos.\n\n¿Qué fórmula o distinción se debe recordar? — LETALIDAD: MUERTOS ENTRE ENFERMOS.\n\nCASOS AVANZADOS\n\n1. Fallecen 6 entre 200 casos. ¿Letalidad?\nA) 0,3%\nB) 3%\nC) 6%\nD) 12%\nE) 30%\nClave B: 6/200×100=3%.\n\n2. Mueren 4 personas por malaria en población total 20 000. ¿Mortalidad por 100 mil?\nA) 2\nB) 4\nC) 10\nD) 20\nE) 40\nClave D: 4/20 000×100 000 = 20.",
+      "estadoDesarrollo": "completo",
+      "estadoClave": "propuesta_razonada_pendiente_cotejo_clave_oficial",
+      "topic": "Letalidad, mortalidad, incidencia y tasa de ataque en malaria",
+      "lesson": {
+        "respuesta_resumida": "B. Tasa de letalidad",
+        "razonamiento": "Dos fallecimientos entre 50 enfermos confirmados representan LETALIDAD: 2/50×100=4%. Se suele denominar tasa de letalidad aunque matemáticamente es proporción. La mortalidad requiere población como denominador; incidencia, personas en riesgo; ataque, expuestos.",
+        "temario": [
+          "Letalidad = muertos/casos ×100",
+          "mortalidad específica = muertos/población ×k",
+          "incidencia = nuevos casos/población en riesgo",
+          "tasa de ataque = enfermos/expuestos",
+          "P",
+          "falciparum puede producir malaria grave con coma, anemia, hipoglucemia, choque y daño renal",
+          "Diagnosticar con gota gruesa u otras pruebas indicadas, sin retrasar tratamiento urgente",
+          "notificar y vigilar casos."
+        ],
+        "por_que_no_las_otras": {
+          "A": "No responde al hallazgo específico del enunciado; comparar con Tasa de letalidad y las definiciones del temario.",
+          "B": "Correcta como clave razonada: Dos fallecimientos entre 50 enfermos confirmados representan LETALIDAD: 2/50×100=4%. Se suele denominar tasa de letalidad aunque matemáticamente es proporción. La mortalidad requiere población como denominador; incidencia, personas en riesgo; ataque, expuestos.",
+          "C": "No responde al hallazgo específico del enunciado; comparar con Tasa de letalidad y las definiciones del temario.",
+          "D": "No responde al hallazgo específico del enunciado; comparar con Tasa de letalidad y las definiciones del temario."
+        },
+        "normativa": [
+          "https://www.who.int/news-room/fact-sheets/detail/malaria"
+        ],
+        "mnemotecnia": "LETALIDAD: MUERTOS ENTRE ENFERMOS.",
+        "trampas": [
+          "Confirmar el supuesto clínico o epidemiológico antes de extrapolar.",
+          "La clave propuesta debe cotejarse con clave oficial."
+        ],
+        "perla": "LETALIDAD: MUERTOS ENTRE ENFERMOS.",
+        "repaso_activo": [
+          {
+            "pregunta": "¿Cuál es el razonamiento esencial?",
+            "respuesta": "Dos fallecimientos entre 50 enfermos confirmados representan LETALIDAD: 2/50×100=4%. Se suele denominar tasa de letalidad aunque matemáticamente es proporción. La mortalidad requiere población como denominador; incidencia, personas en riesgo; ataque, expuestos."
+          },
+          {
+            "pregunta": "¿Qué fórmula o distinción se debe recordar?",
+            "respuesta": "LETALIDAD: MUERTOS ENTRE ENFERMOS."
+          }
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Fallecen 6 entre 200 casos. ¿Letalidad?",
+            "alternativas": {
+              "A": "0,3%",
+              "B": "3%",
+              "C": "6%",
+              "D": "12%",
+              "E": "30%"
+            },
+            "respuesta": "B",
+            "explicacion": "6/200×100=3%."
+          },
+          {
+            "enunciado": "Mueren 4 personas por malaria en población total 20 000. ¿Mortalidad por 100 mil?",
+            "alternativas": {
+              "A": "2",
+              "B": "4",
+              "C": "10",
+              "D": "20",
+              "E": "40"
+            },
+            "respuesta": "D",
+            "explicacion": "4/20 000×100 000 = 20."
+          }
+        ]
+      },
+      "pearl": "LETALIDAD: MUERTOS ENTRE ENFERMOS."
     },
     {
       "number": 80,
@@ -7807,10 +8072,74 @@
       "correct": "A",
       "razonamiento": "La respuesta intercultural promueve diálogo comunitario, respeto, acceso y no discriminación. No corresponde normalizar el rechazo ni imponer renuncia a costumbres.",
       "code": "ENCAPS26-I P80",
-      "course": "ENCAPS Medicina 2026-I",
-      "comment": "CLAVE RAZONADA A\n\nLa respuesta intercultural promueve diálogo comunitario, respeto, acceso y no discriminación. No corresponde normalizar el rechazo ni imponer renuncia a costumbres.",
-      "estadoDesarrollo": "pendiente_de_ampliacion",
-      "estadoClave": "razonada_pendiente_cotejo_oficial"
+      "course": "ENCAPS Medicina 2026-I · Temario desarrollado",
+      "comment": "RESPUESTA RAZONADA: A. Reforzar la interacción cultural\n\nRAZONAMIENTO\n\nLa respuesta A es promover interacción cultural, diálogo, participación y servicios con pertinencia cultural. Normalizar discriminación es inaceptable, imponer medidas sin participación erosiona derechos y obligar a abandonar costumbres contradice el enfoque intercultural.\n\nDESARROLLO TEMÁTICO\n\n1. Interculturalidad reconoce diversidad cultural y lingüística sin jerarquizar grupos\n\n2. garantizar igualdad y equidad, intérpretes cuando procedan, consentimiento comprensible, confidencialidad, participación vecinal y eliminación de barreras\n\n3. Explorar prácticas tradicionales con respeto y evaluar interacciones clínicas reales\n\n4. Trabajar con representantes sin reducir a cada persona a su etnia\n\n5. activar mecanismos de protección si hay violencia.\n\nALTERNATIVAS\n\nA) Correcta como clave razonada: La respuesta A es promover interacción cultural, diálogo, participación y servicios con pertinencia cultural. Normalizar discriminación es inaceptable, imponer medidas sin participación erosiona derechos y obligar a abandonar costumbres contradice el enfoque intercultural.\n\nB) No responde al hallazgo específico del enunciado; comparar con Reforzar la interacción cultural y las definiciones del temario.\n\nC) No responde al hallazgo específico del enunciado; comparar con Reforzar la interacción cultural y las definiciones del temario.\n\nD) No responde al hallazgo específico del enunciado; comparar con Reforzar la interacción cultural y las definiciones del temario.\n\nFUENTES Y NORMATIVA\n\nMinisterio de Cultura: Política Nacional para la Transversalización del Enfoque Intercultural.\n\nTRAMPAS\n\nConfirmar el supuesto clínico o epidemiológico antes de extrapolar.\n\nLa clave propuesta debe cotejarse con clave oficial.\n\nMNEMOTECNIA\n\nINTERCULTURALIDAD: DIALOGAR, NO IMPONER.\n\nREPASO ACTIVO\n\n¿Cuál es el razonamiento esencial? — La respuesta A es promover interacción cultural, diálogo, participación y servicios con pertinencia cultural. Normalizar discriminación es inaceptable, imponer medidas sin participación erosiona derechos y obligar a abandonar costumbres contradice el enfoque intercultural.\n\n¿Qué fórmula o distinción se debe recordar? — INTERCULTURALIDAD: DIALOGAR, NO IMPONER.\n\nCASOS AVANZADOS\n\n1. Familia migrante no comprende indicación en castellano. ¿Acción?\nA) Negar consulta\nB) Imponer castellano\nC) Asegurar intérprete y comprensión\nD) Retirar atención\nE) No informar\nClave C: Atención con pertinencia cultural.\n\n2. Los vecinos discriminan a recién llegados por costumbres culturales. ¿Acción?\nA) Promover diálogo intercultural\nB) Excluirlos\nC) Obligar asimilación\nD) Normalizar rechazo\nE) Imponer castigo colectivo\nClave A: Diálogo y participación mejoran convivencia.",
+      "estadoDesarrollo": "completo",
+      "estadoClave": "propuesta_razonada_pendiente_cotejo_clave_oficial",
+      "topic": "Interculturalidad, migración amazónica y rechazo comunitario",
+      "lesson": {
+        "respuesta_resumida": "A. Reforzar la interacción cultural",
+        "razonamiento": "La respuesta A es promover interacción cultural, diálogo, participación y servicios con pertinencia cultural. Normalizar discriminación es inaceptable, imponer medidas sin participación erosiona derechos y obligar a abandonar costumbres contradice el enfoque intercultural.",
+        "temario": [
+          "Interculturalidad reconoce diversidad cultural y lingüística sin jerarquizar grupos",
+          "garantizar igualdad y equidad, intérpretes cuando procedan, consentimiento comprensible, confidencialidad, participación vecinal y eliminación de barreras",
+          "Explorar prácticas tradicionales con respeto y evaluar interacciones clínicas reales",
+          "Trabajar con representantes sin reducir a cada persona a su etnia",
+          "activar mecanismos de protección si hay violencia."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Correcta como clave razonada: La respuesta A es promover interacción cultural, diálogo, participación y servicios con pertinencia cultural. Normalizar discriminación es inaceptable, imponer medidas sin participación erosiona derechos y obligar a abandonar costumbres contradice el enfoque intercultural.",
+          "B": "No responde al hallazgo específico del enunciado; comparar con Reforzar la interacción cultural y las definiciones del temario.",
+          "C": "No responde al hallazgo específico del enunciado; comparar con Reforzar la interacción cultural y las definiciones del temario.",
+          "D": "No responde al hallazgo específico del enunciado; comparar con Reforzar la interacción cultural y las definiciones del temario."
+        },
+        "normativa": [
+          "Ministerio de Cultura: Política Nacional para la Transversalización del Enfoque Intercultural."
+        ],
+        "mnemotecnia": "INTERCULTURALIDAD: DIALOGAR, NO IMPONER.",
+        "trampas": [
+          "Confirmar el supuesto clínico o epidemiológico antes de extrapolar.",
+          "La clave propuesta debe cotejarse con clave oficial."
+        ],
+        "perla": "INTERCULTURALIDAD: DIALOGAR, NO IMPONER.",
+        "repaso_activo": [
+          {
+            "pregunta": "¿Cuál es el razonamiento esencial?",
+            "respuesta": "La respuesta A es promover interacción cultural, diálogo, participación y servicios con pertinencia cultural. Normalizar discriminación es inaceptable, imponer medidas sin participación erosiona derechos y obligar a abandonar costumbres contradice el enfoque intercultural."
+          },
+          {
+            "pregunta": "¿Qué fórmula o distinción se debe recordar?",
+            "respuesta": "INTERCULTURALIDAD: DIALOGAR, NO IMPONER."
+          }
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Familia migrante no comprende indicación en castellano. ¿Acción?",
+            "alternativas": {
+              "A": "Negar consulta",
+              "B": "Imponer castellano",
+              "C": "Asegurar intérprete y comprensión",
+              "D": "Retirar atención",
+              "E": "No informar"
+            },
+            "respuesta": "C",
+            "explicacion": "Atención con pertinencia cultural."
+          },
+          {
+            "enunciado": "Los vecinos discriminan a recién llegados por costumbres culturales. ¿Acción?",
+            "alternativas": {
+              "A": "Promover diálogo intercultural",
+              "B": "Excluirlos",
+              "C": "Obligar asimilación",
+              "D": "Normalizar rechazo",
+              "E": "Imponer castigo colectivo"
+            },
+            "respuesta": "A",
+            "explicacion": "Diálogo y participación mejoran convivencia."
+          }
+        ]
+      },
+      "pearl": "INTERCULTURALIDAD: DIALOGAR, NO IMPONER."
     },
     {
       "number": 81,
