@@ -1529,6 +1529,16 @@ window.cloudSignOut=async()=>{
  cloud.user=null;cloud.started=false;
  cloudUi('Sesión cerrada. El respaldo local permanece.');
 };
+window.cloudEmailCreate=async()=>{
+ if(!cloud.ready)return toast('Firebase todavía no está listo');
+ const email=(document.getElementById('cloudEmail')?.value||'').trim();
+ const password=document.getElementById('cloudPassword')?.value||'';
+ if(!email||password.length<6)return toast('Escribe un correo y una contraseña de al menos 6 caracteres');
+ try{
+   const result=await cloud.createUserWithEmailAndPassword(cloud.auth,email,password);
+   if(result?.user)await cloudStart(result.user);
+ }catch(e){toast('No se pudo crear la cuenta: '+cloudProblem(e));}
+};
 document.addEventListener('DOMContentLoaded',()=>{
  for(const id of ['cloudGuestActions','cloudHeaderBtn']){const el=document.getElementById(id);if(el)el.classList.remove('hidden')}
  const st=document.getElementById('cloudStatus');if(st)st.textContent='Inicia sesión para sincronizar el avance entre dispositivos. Antes, guarda un respaldo completo.';
