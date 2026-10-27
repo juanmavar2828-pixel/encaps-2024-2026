@@ -1,0 +1,824 @@
+{
+  "schemaVersion": 1,
+  "bankId": "ENCAPS_2026_II",
+  "source": "Cuadernillo SERUMS 2026-II del 09/08/2026; contraste con CDC Perú, MINSA y OMS",
+  "note": "Claves resaltadas, no cotejadas con tabla oficial. P41 discrepancia normativa centinela/universal. P45 matiz entre C y D. Se conservan question codes, A–D y progreso local.",
+  "questions": [
+    {
+      "number": 41,
+      "code": "ENCAPS26-II P041",
+      "course": "Vigilancia epidemiológica de EDA",
+      "topic": "EDA disentérica: vigilancia universal y detección de conglomerados",
+      "comment": "Clave original (marcada en PDF, sin cotejo de clave oficial independiente): C. Centinela (solo como clave resaltada del PDF). Advertencia: el escenario no acredita un establecimiento designado como centinela; según CDC Perú, la vigilancia de EDA es universal, obligatoria y puede requerir búsqueda activa ante un aumento inusual.\n\nRAZONAMIENTO\nUn serumista encuentra un incremento inesperado de diarreas mucosanguinolentas en menores de cinco años cerca de un drenaje. La presencia de sangre y moco orienta a EDA disentérica, que requiere atención clínica, registro y evaluación epidemiológica de un posible conglomerado o brote. El cuadernillo marca C, «centinela», pero falta un dato definitorio: que el establecimiento pertenezca a una red previamente designada para vigilancia centinela de un agente/evento. El CDC Perú establece vigilancia UNIVERSAL de EDA con notificación obligatoria; en general es pasiva, pero puede pasar a ACTIVA cuando se necesita buscar casos intencionalmente. Las opciones «dirigida», «específica» y «selectiva» tampoco constituyen el nombre formal de esta modalidad universal. Por eso, conserva C para reconocer la clave histórica, sin aplicarla como conducta normativa. Se trata de un ítem incompleto o potencialmente erróneo.\n\nDESARROLLO DEL TEMA\nIdentificación de síndrome: diarrea con moco y sangre visible es disentérica, con diagnóstico etiológico diferencial de Shigella, Campylobacter, Salmonella, amebiasis y otros agentes según edad, lugar, duración y pruebas.\n\nNTS N.° 190-MINSA/CDC-2022: la EDA se vigila universalmente en el país, de manera obligatoria; el personal clasifica EDA acuosa o disentérica. Las definiciones de tiempo y síndromes importan.\n\nVigilancia pasiva: casos registrados durante atención habitual; vigilancia activa: equipo epidemiológico realiza búsqueda intencional de personas afectadas cuando el contexto lo indica.\n\nVigilancia centinela: recolección protocolizada en puntos/hospitales previamente elegidos para ciertos eventos. En Perú hay hospitales designados para rotavirus; ser un establecimiento de la zona de un brote no lo convierte automáticamente en centro centinela.\n\nAlerta epidemiológica: incremento inesperado respecto de lo habitual, asociación temporal o espacial y fuente ambiental común requieren informar a epidemiología, caracterizar por persona-lugar-tiempo y aplicar las medidas definidas por autoridad competente.\n\nRespuesta integral: valorar deshidratación y gravedad, proteger a niños vulnerables, asegurar muestras según indicación epidemiológica, investigar agua/saneamiento y comunicar riesgos sin retrasar el manejo clínico.\n\nInterpretación del ítem: memoriza el resaltado C solamente como clave del archivo histórico; en práctica real y normativa EDA corresponde a vigilancia universal con posible búsqueda activa.\n\nANÁLISIS A–D\nA — «Dirigida» describe coloquialmente focalizar la búsqueda, pero no sustituye la clasificación formal nacional de la vigilancia universal de EDA.\nB — «Específica» expresa que se monitoriza una enfermedad o problema determinado; no demuestra que el establecimiento deba operar bajo un sistema centinela.\nC — Es la clave resaltada del PDF. Solo sería técnicamente defendible si se indicara que el EESS es un centro centinela designado y que vigila un evento concreto bajo protocolo.\nD — «Selectiva» alude genéricamente a concentrar esfuerzos en ciertos grupos o riesgos, pero no es la etiqueta normativa que el CDC utiliza para la vigilancia nacional de EDA.\n\nFUENTES\nCDC Perú — Vigilancia epidemiológica de EDA; NTS N.° 190-MINSA/CDC-2022 (RM N.° 730-2022-MINSA) | https://www.dge.gob.pe/portalnuevo/vigilancia-epidemiologica/vigilancia-de-eda-ira-sgb-utveis/ | EDA universal y obligatoria; puede ser pasiva o activa; distinguir diarrea disentérica\nCDC Perú — Vigilancia centinela de rotavirus, RM N.° 422-2026-MINSA | https://www.dge.gob.pe/portalnuevo/informacion-publica/prensa/minsa-fortalece-la-vigilancia-epidemiologica-del-rotavirus-en-el-pais/ | Los centros centinela son designados para vigilancia específica de diarrea por rotavirus\nINS — Observatorio de vigilancia centinela de rotavirus | https://www.gob.pe/38776-acceder-al-observatorio-de-vigilancia-centinela-de-rotavirus-en-ninos-menores-de-5-anos-en-el-peru | Ejemplo de vigilancia centinela con hospitales designados\n\nMNEMOTECNIA\nEDA = Universal, Obligatoria, Pasiva o Activa. CENTINELA = centros seleccionados PREVIAMENTE.\n\nTRAMPAS\nTrampa de la pregunta: incremento inusual ≠ vigilancia centinela automática.\nEn el sistema peruano la EDA se registra nacionalmente; puede requerir búsqueda activa por sospecha de brote.\nMoco + sangre caracteriza EDA disentérica; no diagnostica por sí sola a un agente específico.\nLa cercanía a un drenaje puede sugerir riesgo ambiental, pero no demuestra fuente común sin investigación.\n\nPERLA\nALERTA: pregunta 41 cuestionable. PDF: C (centinela). CDC Perú: vigilancia de EDA universal, con posible búsqueda activa. Prioriza la norma en la práctica.",
+      "pearl": "ALERTA: pregunta 41 cuestionable. PDF: C (centinela). CDC Perú: vigilancia de EDA universal, con posible búsqueda activa. Prioriza la norma en la práctica.",
+      "keywords": [
+        "Vigilancia epidemiológica de EDA",
+        "EDA disentérica: vigilancia universal y detección de conglomerados",
+        "ENCAPS 2026-II",
+        "MINSA 276"
+      ],
+      "estadoDesarrollo": "completo",
+      "lesson": {
+        "respuesta_resumida": "C. Centinela (solo como clave resaltada del PDF). Advertencia: el escenario no acredita un establecimiento designado como centinela; según CDC Perú, la vigilancia de EDA es universal, obligatoria y puede requerir búsqueda activa ante un aumento inusual.",
+        "razonamiento": "Un serumista encuentra un incremento inesperado de diarreas mucosanguinolentas en menores de cinco años cerca de un drenaje. La presencia de sangre y moco orienta a EDA disentérica, que requiere atención clínica, registro y evaluación epidemiológica de un posible conglomerado o brote. El cuadernillo marca C, «centinela», pero falta un dato definitorio: que el establecimiento pertenezca a una red previamente designada para vigilancia centinela de un agente/evento. El CDC Perú establece vigilancia UNIVERSAL de EDA con notificación obligatoria; en general es pasiva, pero puede pasar a ACTIVA cuando se necesita buscar casos intencionalmente. Las opciones «dirigida», «específica» y «selectiva» tampoco constituyen el nombre formal de esta modalidad universal. Por eso, conserva C para reconocer la clave histórica, sin aplicarla como conducta normativa. Se trata de un ítem incompleto o potencialmente erróneo.",
+        "temario": [
+          "Identificación de síndrome: diarrea con moco y sangre visible es disentérica, con diagnóstico etiológico diferencial de Shigella, Campylobacter, Salmonella, amebiasis y otros agentes según edad, lugar, duración y pruebas.",
+          "NTS N.° 190-MINSA/CDC-2022: la EDA se vigila universalmente en el país, de manera obligatoria; el personal clasifica EDA acuosa o disentérica. Las definiciones de tiempo y síndromes importan.",
+          "Vigilancia pasiva: casos registrados durante atención habitual; vigilancia activa: equipo epidemiológico realiza búsqueda intencional de personas afectadas cuando el contexto lo indica.",
+          "Vigilancia centinela: recolección protocolizada en puntos/hospitales previamente elegidos para ciertos eventos. En Perú hay hospitales designados para rotavirus; ser un establecimiento de la zona de un brote no lo convierte automáticamente en centro centinela.",
+          "Alerta epidemiológica: incremento inesperado respecto de lo habitual, asociación temporal o espacial y fuente ambiental común requieren informar a epidemiología, caracterizar por persona-lugar-tiempo y aplicar las medidas definidas por autoridad competente.",
+          "Respuesta integral: valorar deshidratación y gravedad, proteger a niños vulnerables, asegurar muestras según indicación epidemiológica, investigar agua/saneamiento y comunicar riesgos sin retrasar el manejo clínico.",
+          "Interpretación del ítem: memoriza el resaltado C solamente como clave del archivo histórico; en práctica real y normativa EDA corresponde a vigilancia universal con posible búsqueda activa."
+        ],
+        "por_que_no_las_otras": {
+          "A": "«Dirigida» describe coloquialmente focalizar la búsqueda, pero no sustituye la clasificación formal nacional de la vigilancia universal de EDA.",
+          "B": "«Específica» expresa que se monitoriza una enfermedad o problema determinado; no demuestra que el establecimiento deba operar bajo un sistema centinela.",
+          "C": "Es la clave resaltada del PDF. Solo sería técnicamente defendible si se indicara que el EESS es un centro centinela designado y que vigila un evento concreto bajo protocolo.",
+          "D": "«Selectiva» alude genéricamente a concentrar esfuerzos en ciertos grupos o riesgos, pero no es la etiqueta normativa que el CDC utiliza para la vigilancia nacional de EDA."
+        },
+        "normativa": [
+          "CDC Perú — Vigilancia epidemiológica de EDA; NTS N.° 190-MINSA/CDC-2022 (RM N.° 730-2022-MINSA) | https://www.dge.gob.pe/portalnuevo/vigilancia-epidemiologica/vigilancia-de-eda-ira-sgb-utveis/ | EDA universal y obligatoria; puede ser pasiva o activa; distinguir diarrea disentérica",
+          "CDC Perú — Vigilancia centinela de rotavirus, RM N.° 422-2026-MINSA | https://www.dge.gob.pe/portalnuevo/informacion-publica/prensa/minsa-fortalece-la-vigilancia-epidemiologica-del-rotavirus-en-el-pais/ | Los centros centinela son designados para vigilancia específica de diarrea por rotavirus",
+          "INS — Observatorio de vigilancia centinela de rotavirus | https://www.gob.pe/38776-acceder-al-observatorio-de-vigilancia-centinela-de-rotavirus-en-ninos-menores-de-5-anos-en-el-peru | Ejemplo de vigilancia centinela con hospitales designados"
+        ],
+        "mnemotecnia": "EDA = Universal, Obligatoria, Pasiva o Activa. CENTINELA = centros seleccionados PREVIAMENTE.",
+        "trampas": [
+          "Trampa de la pregunta: incremento inusual ≠ vigilancia centinela automática.",
+          "En el sistema peruano la EDA se registra nacionalmente; puede requerir búsqueda activa por sospecha de brote.",
+          "Moco + sangre caracteriza EDA disentérica; no diagnostica por sí sola a un agente específico.",
+          "La cercanía a un drenaje puede sugerir riesgo ambiental, pero no demuestra fuente común sin investigación."
+        ],
+        "perla": "ALERTA: pregunta 41 cuestionable. PDF: C (centinela). CDC Perú: vigilancia de EDA universal, con posible búsqueda activa. Prioriza la norma en la práctica.",
+        "repaso_activo": [
+          "¿Qué vigilancia prescribe el CDC Perú para EDA? — Universal y obligatoria; en general pasiva, con opción de búsqueda activa.",
+          "¿Qué establece una vigilancia centinela? — Centros previamente seleccionados, evento definido y protocolo de vigilancia.",
+          "¿Qué caracteriza EDA disentérica? — Heces diarreicas con sangre visible y moco.",
+          "¿Qué hacer ante incremento inesperado de casos? — Atender, registrar, notificar conforme a norma, coordinar investigación y medidas de control."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Un centro de salud no está designado como centinela y notifica rutinariamente todas las EDA acuosas y disentéricas que atiende. ¿Cómo se clasifica el alcance de vigilancia de EDA según el CDC Perú?",
+            "alternativas": {
+              "A": "Centinela en todos los establecimientos del país",
+              "B": "Selectiva limitada a grupos priorizados",
+              "C": "Dirigida únicamente a brotes confirmados",
+              "D": "Universal y de notificación obligatoria",
+              "E": "Exclusivamente hospitalaria por rotavirus"
+            },
+            "respuesta": "D",
+            "explicacion": "El registro general de EDA en Perú es universal y obligatorio, no centinela."
+          },
+          {
+            "enunciado": "Tras notar ocho casos disentéricos adicionales en un barrio, epidemiología visita hogares para encontrar afectados que no acudieron al EESS. ¿Qué modalidad de captación está realizando?",
+            "alternativas": {
+              "A": "Vigilancia pasiva de atención rutinaria",
+              "B": "Búsqueda activa de casos en el territorio",
+              "C": "Seguimiento exclusivo de un hospital centinela",
+              "D": "Estudio experimental con grupo control",
+              "E": "Tamizaje de población sin evento definido"
+            },
+            "respuesta": "B",
+            "explicacion": "Buscar personas intencionalmente fuera de la consulta rutinaria corresponde a vigilancia activa."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "EDA disentérica: vigilancia universal y detección de conglomerados",
+          "eje": "Vigilancia epidemiológica de EDA",
+          "confiabilidad": "clave_resaltada_con_discrepancia_normativa",
+          "respuesta_resumida": "C. Centinela (solo como clave resaltada del PDF). Advertencia: el escenario no acredita un establecimiento designado como centinela; según CDC Perú, la vigilancia de EDA es universal, obligatoria y puede requerir búsqueda activa ante un aumento inusual.",
+          "razonamiento": [
+            "Un serumista encuentra un incremento inesperado de diarreas mucosanguinolentas en menores de cinco años cerca de un drenaje. La presencia de sangre y moco orienta a EDA disentérica, que requiere atención clínica, registro y evaluación epidemiológica de un posible conglomerado o brote. El cuadernillo marca C, «centinela», pero falta un dato definitorio: que el establecimiento pertenezca a una red previamente designada para vigilancia centinela de un agente/evento. El CDC Perú establece vigilancia UNIVERSAL de EDA con notificación obligatoria; en general es pasiva, pero puede pasar a ACTIVA cuando se necesita buscar casos intencionalmente. Las opciones «dirigida», «específica» y «selectiva» tampoco constituyen el nombre formal de esta modalidad universal. Por eso, conserva C para reconocer la clave histórica, sin aplicarla como conducta normativa. Se trata de un ítem incompleto o potencialmente erróneo."
+          ],
+          "temario": [
+            "Identificación de síndrome: diarrea con moco y sangre visible es disentérica, con diagnóstico etiológico diferencial de Shigella, Campylobacter, Salmonella, amebiasis y otros agentes según edad, lugar, duración y pruebas.",
+            "NTS N.° 190-MINSA/CDC-2022: la EDA se vigila universalmente en el país, de manera obligatoria; el personal clasifica EDA acuosa o disentérica. Las definiciones de tiempo y síndromes importan.",
+            "Vigilancia pasiva: casos registrados durante atención habitual; vigilancia activa: equipo epidemiológico realiza búsqueda intencional de personas afectadas cuando el contexto lo indica.",
+            "Vigilancia centinela: recolección protocolizada en puntos/hospitales previamente elegidos para ciertos eventos. En Perú hay hospitales designados para rotavirus; ser un establecimiento de la zona de un brote no lo convierte automáticamente en centro centinela.",
+            "Alerta epidemiológica: incremento inesperado respecto de lo habitual, asociación temporal o espacial y fuente ambiental común requieren informar a epidemiología, caracterizar por persona-lugar-tiempo y aplicar las medidas definidas por autoridad competente.",
+            "Respuesta integral: valorar deshidratación y gravedad, proteger a niños vulnerables, asegurar muestras según indicación epidemiológica, investigar agua/saneamiento y comunicar riesgos sin retrasar el manejo clínico.",
+            "Interpretación del ítem: memoriza el resaltado C solamente como clave del archivo histórico; en práctica real y normativa EDA corresponde a vigilancia universal con posible búsqueda activa."
+          ],
+          "distractores": {
+            "A": "«Dirigida» describe coloquialmente focalizar la búsqueda, pero no sustituye la clasificación formal nacional de la vigilancia universal de EDA.",
+            "B": "«Específica» expresa que se monitoriza una enfermedad o problema determinado; no demuestra que el establecimiento deba operar bajo un sistema centinela.",
+            "C": "Es la clave resaltada del PDF. Solo sería técnicamente defendible si se indicara que el EESS es un centro centinela designado y que vigila un evento concreto bajo protocolo.",
+            "D": "«Selectiva» alude genéricamente a concentrar esfuerzos en ciertos grupos o riesgos, pero no es la etiqueta normativa que el CDC utiliza para la vigilancia nacional de EDA."
+          },
+          "normativa": [
+            {
+              "nombre": "CDC Perú — Vigilancia epidemiológica de EDA; NTS N.° 190-MINSA/CDC-2022 (RM N.° 730-2022-MINSA)",
+              "url": "https://www.dge.gob.pe/portalnuevo/vigilancia-epidemiologica/vigilancia-de-eda-ira-sgb-utveis/",
+              "aplicacion": "EDA universal y obligatoria; puede ser pasiva o activa; distinguir diarrea disentérica"
+            },
+            {
+              "nombre": "CDC Perú — Vigilancia centinela de rotavirus, RM N.° 422-2026-MINSA",
+              "url": "https://www.dge.gob.pe/portalnuevo/informacion-publica/prensa/minsa-fortalece-la-vigilancia-epidemiologica-del-rotavirus-en-el-pais/",
+              "aplicacion": "Los centros centinela son designados para vigilancia específica de diarrea por rotavirus"
+            },
+            {
+              "nombre": "INS — Observatorio de vigilancia centinela de rotavirus",
+              "url": "https://www.gob.pe/38776-acceder-al-observatorio-de-vigilancia-centinela-de-rotavirus-en-ninos-menores-de-5-anos-en-el-peru",
+              "aplicacion": "Ejemplo de vigilancia centinela con hospitales designados"
+            }
+          ],
+          "mnemotecnia": "EDA = Universal, Obligatoria, Pasiva o Activa. CENTINELA = centros seleccionados PREVIAMENTE.",
+          "trampas": [
+            "Trampa de la pregunta: incremento inusual ≠ vigilancia centinela automática.",
+            "En el sistema peruano la EDA se registra nacionalmente; puede requerir búsqueda activa por sospecha de brote.",
+            "Moco + sangre caracteriza EDA disentérica; no diagnostica por sí sola a un agente específico.",
+            "La cercanía a un drenaje puede sugerir riesgo ambiental, pero no demuestra fuente común sin investigación."
+          ],
+          "perla": "ALERTA: pregunta 41 cuestionable. PDF: C (centinela). CDC Perú: vigilancia de EDA universal, con posible búsqueda activa. Prioriza la norma en la práctica.",
+          "repaso_activo": [
+            "¿Qué vigilancia prescribe el CDC Perú para EDA? — Universal y obligatoria; en general pasiva, con opción de búsqueda activa.",
+            "¿Qué establece una vigilancia centinela? — Centros previamente seleccionados, evento definido y protocolo de vigilancia.",
+            "¿Qué caracteriza EDA disentérica? — Heces diarreicas con sangre visible y moco.",
+            "¿Qué hacer ante incremento inesperado de casos? — Atender, registrar, notificar conforme a norma, coordinar investigación y medidas de control."
+          ],
+          "refuerzo": [
+            {
+              "enunciado": "Un centro de salud no está designado como centinela y notifica rutinariamente todas las EDA acuosas y disentéricas que atiende. ¿Cómo se clasifica el alcance de vigilancia de EDA según el CDC Perú?",
+              "alternativas": {
+                "A": "Centinela en todos los establecimientos del país",
+                "B": "Selectiva limitada a grupos priorizados",
+                "C": "Dirigida únicamente a brotes confirmados",
+                "D": "Universal y de notificación obligatoria",
+                "E": "Exclusivamente hospitalaria por rotavirus"
+              },
+              "respuesta": "D",
+              "explicacion": "El registro general de EDA en Perú es universal y obligatorio, no centinela."
+            },
+            {
+              "enunciado": "Tras notar ocho casos disentéricos adicionales en un barrio, epidemiología visita hogares para encontrar afectados que no acudieron al EESS. ¿Qué modalidad de captación está realizando?",
+              "alternativas": {
+                "A": "Vigilancia pasiva de atención rutinaria",
+                "B": "Búsqueda activa de casos en el territorio",
+                "C": "Seguimiento exclusivo de un hospital centinela",
+                "D": "Estudio experimental con grupo control",
+                "E": "Tamizaje de población sin evento definido"
+              },
+              "respuesta": "B",
+              "explicacion": "Buscar personas intencionalmente fuera de la consulta rutinaria corresponde a vigilancia activa."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "number": 42,
+      "code": "ENCAPS26-II P042",
+      "course": "Epidemiología causal y tuberculosis",
+      "topic": "Causa necesaria pero no suficiente en tuberculosis",
+      "comment": "Clave original (marcada en PDF, sin cotejo de clave oficial independiente): B. Necesaria pero no suficiente. Para desarrollar tuberculosis por M. tuberculosis debe existir infección por dicho agente, pero la infección no progresa inevitablemente a enfermedad activa.\n\nRAZONAMIENTO\nLa pregunta describe convivientes expuestos, de los que solo cuatro desarrollan tuberculosis. La lógica epidemiológica clásica consiste en que la infección por Mycobacterium tuberculosis es necesaria para la tuberculosis debida a ese microorganismo, pero NO es suficiente por sí sola: muchos infectados permanecen sin enfermedad. Importante: exposición ambiental no es sinónimo de infección; otros familiares pueden no haberse infectado. La probabilidad de progresión depende de inmunidad, edad, VIH, diabetes, desnutrición y otras condiciones. La OMS estima que aproximadamente 5–10 % de infectados desarrollan TB a lo largo de la vida (valor poblacional general, no predicción de esta familia). La respuesta B es coherente con la relación causal definida en el examen.\n\nDESARROLLO DEL TEMA\nCausa necesaria: elemento imprescindible para que ocurra un desenlace definido. En tuberculosis causada por M. tuberculosis se requiere la infección por ese bacilo; no implica inevitable enfermedad.\n\nCausa suficiente: conjunto de condiciones cuya presencia basta para originar el evento dentro del modelo causal. Una sola exposición rara vez equivale a ese conjunto.\n\nModelo de causas componentes de Rothman: múltiples combinaciones de causas pueden culminar en enfermedad; algunas componentes necesarias participan en cada mecanismo suficiente.\n\nSecuencia: contacto/exposición → posible transmisión e infección → infección contenida sin síntomas o progresión a enfermedad activa. No saltar directamente de convivencia a diagnóstico.\n\nFactores de progresión: infección por VIH, inmunosupresión, diabetes, desnutrición, edad temprana, consumo de tabaco y exposición reciente se relacionan con riesgo aumentado.\n\nInfección tuberculosa: sin síntomas ni evidencia de enfermedad activa; evaluar contactos y tratamiento preventivo conforme a protocolos tras descartar enfermedad.\n\nEn enfermedad activa: clínica y evaluación microbiológica y radiológica dirigidas; evitar tratar como TB activa a una persona solo por haber convivido con un caso.\n\nDiferencias entre necesario/no suficiente, suficiente/no necesario, necesario/suficiente y ni necesario ni suficiente: la clasificación depende de cómo se define el evento etiológico.\n\nANÁLISIS A–D\nA — «Necesaria y suficiente» exigiría que toda infección por el bacilo causara inevitablemente enfermedad activa, lo cual es falso.\nB — Correcta: la infección por el agente es condición etiológica necesaria, pero no basta sin una combinación susceptible de factores.\nC — «Suficiente pero no necesaria» permitiría que esa causa por sí sola produjera siempre el desenlace y que existieran vías independientes sin ella; no describe TB por M. tuberculosis.\nD — «Ni necesaria ni suficiente» no representa el papel del agente específico en la tuberculosis que causa. Puede describir factores predisponentes aislados, como hacinamiento, pero no al patógeno.\n\nFUENTES\nOMS — Tuberculosis, preguntas y respuestas (13/11/2025) | https://www.who.int/es/news-room/questions-and-answers/item/tuberculosis | La mayoría de infectados no desarrolla enfermedad; importante distinguir exposición, infección y TB activa\nOMS — Tuberculosis: información epidemiológica | https://www.who.int/data/gho/data/themes/tuberculosis/1000 | Riesgo vitalicio de progresión aproximado 5-10% en personas infectadas, modificado por factores de riesgo\nCDC — Infección tuberculosa latente | https://www.cdc.gov/tb/hcp/clinical-overview/latent-tuberculosis-infection.html | Infección sin enfermedad activa y valor del tratamiento preventivo\n\nMNEMOTECNIA\nTB = BAClLO necesario, ENFERMEDAD NO automática. NECESARIO ≠ SUFICIENTE.\n\nTRAMPAS\nExposición no implica infección: convivientes no enfermos pueden tener o no infección tuberculosa.\nLa infección tuberculosa no siempre es transmisible; generalmente quien tiene infección sin enfermedad no contagia.\nUna causa componente como desnutrición NO es necesaria en todos los pacientes con TB.\nLa asociación estadística y la relación causal son conceptos diferentes.\n\nPERLA\nM. tuberculosis para TB por ese agente: NECESARIO, pero NO SUFICIENTE. Exposición ≠ infección ≠ enfermedad.",
+      "pearl": "M. tuberculosis para TB por ese agente: NECESARIO, pero NO SUFICIENTE. Exposición ≠ infección ≠ enfermedad.",
+      "keywords": [
+        "Epidemiología causal y tuberculosis",
+        "Causa necesaria pero no suficiente en tuberculosis",
+        "ENCAPS 2026-II",
+        "MINSA 276"
+      ],
+      "estadoDesarrollo": "completo",
+      "lesson": {
+        "respuesta_resumida": "B. Necesaria pero no suficiente. Para desarrollar tuberculosis por M. tuberculosis debe existir infección por dicho agente, pero la infección no progresa inevitablemente a enfermedad activa.",
+        "razonamiento": "La pregunta describe convivientes expuestos, de los que solo cuatro desarrollan tuberculosis. La lógica epidemiológica clásica consiste en que la infección por Mycobacterium tuberculosis es necesaria para la tuberculosis debida a ese microorganismo, pero NO es suficiente por sí sola: muchos infectados permanecen sin enfermedad. Importante: exposición ambiental no es sinónimo de infección; otros familiares pueden no haberse infectado. La probabilidad de progresión depende de inmunidad, edad, VIH, diabetes, desnutrición y otras condiciones. La OMS estima que aproximadamente 5–10 % de infectados desarrollan TB a lo largo de la vida (valor poblacional general, no predicción de esta familia). La respuesta B es coherente con la relación causal definida en el examen.",
+        "temario": [
+          "Causa necesaria: elemento imprescindible para que ocurra un desenlace definido. En tuberculosis causada por M. tuberculosis se requiere la infección por ese bacilo; no implica inevitable enfermedad.",
+          "Causa suficiente: conjunto de condiciones cuya presencia basta para originar el evento dentro del modelo causal. Una sola exposición rara vez equivale a ese conjunto.",
+          "Modelo de causas componentes de Rothman: múltiples combinaciones de causas pueden culminar en enfermedad; algunas componentes necesarias participan en cada mecanismo suficiente.",
+          "Secuencia: contacto/exposición → posible transmisión e infección → infección contenida sin síntomas o progresión a enfermedad activa. No saltar directamente de convivencia a diagnóstico.",
+          "Factores de progresión: infección por VIH, inmunosupresión, diabetes, desnutrición, edad temprana, consumo de tabaco y exposición reciente se relacionan con riesgo aumentado.",
+          "Infección tuberculosa: sin síntomas ni evidencia de enfermedad activa; evaluar contactos y tratamiento preventivo conforme a protocolos tras descartar enfermedad.",
+          "En enfermedad activa: clínica y evaluación microbiológica y radiológica dirigidas; evitar tratar como TB activa a una persona solo por haber convivido con un caso.",
+          "Diferencias entre necesario/no suficiente, suficiente/no necesario, necesario/suficiente y ni necesario ni suficiente: la clasificación depende de cómo se define el evento etiológico."
+        ],
+        "por_que_no_las_otras": {
+          "A": "«Necesaria y suficiente» exigiría que toda infección por el bacilo causara inevitablemente enfermedad activa, lo cual es falso.",
+          "B": "Correcta: la infección por el agente es condición etiológica necesaria, pero no basta sin una combinación susceptible de factores.",
+          "C": "«Suficiente pero no necesaria» permitiría que esa causa por sí sola produjera siempre el desenlace y que existieran vías independientes sin ella; no describe TB por M. tuberculosis.",
+          "D": "«Ni necesaria ni suficiente» no representa el papel del agente específico en la tuberculosis que causa. Puede describir factores predisponentes aislados, como hacinamiento, pero no al patógeno."
+        },
+        "normativa": [
+          "OMS — Tuberculosis, preguntas y respuestas (13/11/2025) | https://www.who.int/es/news-room/questions-and-answers/item/tuberculosis | La mayoría de infectados no desarrolla enfermedad; importante distinguir exposición, infección y TB activa",
+          "OMS — Tuberculosis: información epidemiológica | https://www.who.int/data/gho/data/themes/tuberculosis/1000 | Riesgo vitalicio de progresión aproximado 5-10% en personas infectadas, modificado por factores de riesgo",
+          "CDC — Infección tuberculosa latente | https://www.cdc.gov/tb/hcp/clinical-overview/latent-tuberculosis-infection.html | Infección sin enfermedad activa y valor del tratamiento preventivo"
+        ],
+        "mnemotecnia": "TB = BAClLO necesario, ENFERMEDAD NO automática. NECESARIO ≠ SUFICIENTE.",
+        "trampas": [
+          "Exposición no implica infección: convivientes no enfermos pueden tener o no infección tuberculosa.",
+          "La infección tuberculosa no siempre es transmisible; generalmente quien tiene infección sin enfermedad no contagia.",
+          "Una causa componente como desnutrición NO es necesaria en todos los pacientes con TB.",
+          "La asociación estadística y la relación causal son conceptos diferentes."
+        ],
+        "perla": "M. tuberculosis para TB por ese agente: NECESARIO, pero NO SUFICIENTE. Exposición ≠ infección ≠ enfermedad.",
+        "repaso_activo": [
+          "¿Qué distingue exposición de infección? — Exposición es contacto con fuente; infección significa establecimiento de respuesta al bacilo.",
+          "¿Puede existir infección tuberculosa sin enfermedad clínica? — Sí.",
+          "¿Qué factor cambia el riesgo de progresión? — Estado inmunitario, nutrición, VIH, diabetes, entre otros.",
+          "¿Qué diferencia hay entre condición necesaria y suficiente? — La primera debe estar presente; la segunda basta en conjunto para causar el evento."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "En una investigación de contactos, una adolescente tiene prueba de infección tuberculosa positiva y no presenta síntomas ni evidencia de enfermedad activa. ¿Cuál es la interpretación correcta?",
+            "alternativas": {
+              "A": "La infección confirma tuberculosis pulmonar activa",
+              "B": "La prueba permite descartar enfermedad futura",
+              "C": "Tiene infección sin demostración de enfermedad activa",
+              "D": "El hallazgo exige aislamiento respiratorio universal",
+              "E": "La prueba demuestra contagiosidad inmediata"
+            },
+            "respuesta": "C",
+            "explicacion": "Infección y enfermedad son estados distintos. Se debe excluir enfermedad activa y valorar prevención según recomendaciones."
+          },
+          {
+            "enunciado": "Para determinada enfermedad, un agente está presente en todos los casos, pero muchas personas que lo adquieren nunca desarrollan síntomas. ¿Qué relación describe mejor el agente respecto de esa enfermedad?",
+            "alternativas": {
+              "A": "Causa necesaria, no suficiente",
+              "B": "Causa suficiente, no necesaria",
+              "C": "Causa necesaria y suficiente",
+              "D": "Factor confusor sin papel causal",
+              "E": "Causa independiente de susceptibilidad"
+            },
+            "respuesta": "A",
+            "explicacion": "Está en todos los casos (necesidad), pero no genera enfermedad en todos los expuestos/infectados (insuficiencia)."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Causa necesaria pero no suficiente en tuberculosis",
+          "eje": "Epidemiología causal y tuberculosis",
+          "confiabilidad": "clave_resaltada_fundamento_concordante",
+          "respuesta_resumida": "B. Necesaria pero no suficiente. Para desarrollar tuberculosis por M. tuberculosis debe existir infección por dicho agente, pero la infección no progresa inevitablemente a enfermedad activa.",
+          "razonamiento": [
+            "La pregunta describe convivientes expuestos, de los que solo cuatro desarrollan tuberculosis. La lógica epidemiológica clásica consiste en que la infección por Mycobacterium tuberculosis es necesaria para la tuberculosis debida a ese microorganismo, pero NO es suficiente por sí sola: muchos infectados permanecen sin enfermedad. Importante: exposición ambiental no es sinónimo de infección; otros familiares pueden no haberse infectado. La probabilidad de progresión depende de inmunidad, edad, VIH, diabetes, desnutrición y otras condiciones. La OMS estima que aproximadamente 5–10 % de infectados desarrollan TB a lo largo de la vida (valor poblacional general, no predicción de esta familia). La respuesta B es coherente con la relación causal definida en el examen."
+          ],
+          "temario": [
+            "Causa necesaria: elemento imprescindible para que ocurra un desenlace definido. En tuberculosis causada por M. tuberculosis se requiere la infección por ese bacilo; no implica inevitable enfermedad.",
+            "Causa suficiente: conjunto de condiciones cuya presencia basta para originar el evento dentro del modelo causal. Una sola exposición rara vez equivale a ese conjunto.",
+            "Modelo de causas componentes de Rothman: múltiples combinaciones de causas pueden culminar en enfermedad; algunas componentes necesarias participan en cada mecanismo suficiente.",
+            "Secuencia: contacto/exposición → posible transmisión e infección → infección contenida sin síntomas o progresión a enfermedad activa. No saltar directamente de convivencia a diagnóstico.",
+            "Factores de progresión: infección por VIH, inmunosupresión, diabetes, desnutrición, edad temprana, consumo de tabaco y exposición reciente se relacionan con riesgo aumentado.",
+            "Infección tuberculosa: sin síntomas ni evidencia de enfermedad activa; evaluar contactos y tratamiento preventivo conforme a protocolos tras descartar enfermedad.",
+            "En enfermedad activa: clínica y evaluación microbiológica y radiológica dirigidas; evitar tratar como TB activa a una persona solo por haber convivido con un caso.",
+            "Diferencias entre necesario/no suficiente, suficiente/no necesario, necesario/suficiente y ni necesario ni suficiente: la clasificación depende de cómo se define el evento etiológico."
+          ],
+          "distractores": {
+            "A": "«Necesaria y suficiente» exigiría que toda infección por el bacilo causara inevitablemente enfermedad activa, lo cual es falso.",
+            "B": "Correcta: la infección por el agente es condición etiológica necesaria, pero no basta sin una combinación susceptible de factores.",
+            "C": "«Suficiente pero no necesaria» permitiría que esa causa por sí sola produjera siempre el desenlace y que existieran vías independientes sin ella; no describe TB por M. tuberculosis.",
+            "D": "«Ni necesaria ni suficiente» no representa el papel del agente específico en la tuberculosis que causa. Puede describir factores predisponentes aislados, como hacinamiento, pero no al patógeno."
+          },
+          "normativa": [
+            {
+              "nombre": "OMS — Tuberculosis, preguntas y respuestas (13/11/2025)",
+              "url": "https://www.who.int/es/news-room/questions-and-answers/item/tuberculosis",
+              "aplicacion": "La mayoría de infectados no desarrolla enfermedad; importante distinguir exposición, infección y TB activa"
+            },
+            {
+              "nombre": "OMS — Tuberculosis: información epidemiológica",
+              "url": "https://www.who.int/data/gho/data/themes/tuberculosis/1000",
+              "aplicacion": "Riesgo vitalicio de progresión aproximado 5-10% en personas infectadas, modificado por factores de riesgo"
+            },
+            {
+              "nombre": "CDC — Infección tuberculosa latente",
+              "url": "https://www.cdc.gov/tb/hcp/clinical-overview/latent-tuberculosis-infection.html",
+              "aplicacion": "Infección sin enfermedad activa y valor del tratamiento preventivo"
+            }
+          ],
+          "mnemotecnia": "TB = BAClLO necesario, ENFERMEDAD NO automática. NECESARIO ≠ SUFICIENTE.",
+          "trampas": [
+            "Exposición no implica infección: convivientes no enfermos pueden tener o no infección tuberculosa.",
+            "La infección tuberculosa no siempre es transmisible; generalmente quien tiene infección sin enfermedad no contagia.",
+            "Una causa componente como desnutrición NO es necesaria en todos los pacientes con TB.",
+            "La asociación estadística y la relación causal son conceptos diferentes."
+          ],
+          "perla": "M. tuberculosis para TB por ese agente: NECESARIO, pero NO SUFICIENTE. Exposición ≠ infección ≠ enfermedad.",
+          "repaso_activo": [
+            "¿Qué distingue exposición de infección? — Exposición es contacto con fuente; infección significa establecimiento de respuesta al bacilo.",
+            "¿Puede existir infección tuberculosa sin enfermedad clínica? — Sí.",
+            "¿Qué factor cambia el riesgo de progresión? — Estado inmunitario, nutrición, VIH, diabetes, entre otros.",
+            "¿Qué diferencia hay entre condición necesaria y suficiente? — La primera debe estar presente; la segunda basta en conjunto para causar el evento."
+          ],
+          "refuerzo": [
+            {
+              "enunciado": "En una investigación de contactos, una adolescente tiene prueba de infección tuberculosa positiva y no presenta síntomas ni evidencia de enfermedad activa. ¿Cuál es la interpretación correcta?",
+              "alternativas": {
+                "A": "La infección confirma tuberculosis pulmonar activa",
+                "B": "La prueba permite descartar enfermedad futura",
+                "C": "Tiene infección sin demostración de enfermedad activa",
+                "D": "El hallazgo exige aislamiento respiratorio universal",
+                "E": "La prueba demuestra contagiosidad inmediata"
+              },
+              "respuesta": "C",
+              "explicacion": "Infección y enfermedad son estados distintos. Se debe excluir enfermedad activa y valorar prevención según recomendaciones."
+            },
+            {
+              "enunciado": "Para determinada enfermedad, un agente está presente en todos los casos, pero muchas personas que lo adquieren nunca desarrollan síntomas. ¿Qué relación describe mejor el agente respecto de esa enfermedad?",
+              "alternativas": {
+                "A": "Causa necesaria, no suficiente",
+                "B": "Causa suficiente, no necesaria",
+                "C": "Causa necesaria y suficiente",
+                "D": "Factor confusor sin papel causal",
+                "E": "Causa independiente de susceptibilidad"
+              },
+              "respuesta": "A",
+              "explicacion": "Está en todos los casos (necesidad), pero no genera enfermedad en todos los expuestos/infectados (insuficiencia)."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "number": 43,
+      "code": "ENCAPS26-II P043",
+      "course": "Pediatría oncológica y signos de alarma",
+      "topic": "Fiebre prolongada y adenopatías sospechosas de cáncer infantil",
+      "comment": "Clave original (marcada en PDF, sin cotejo de clave oficial independiente): A. Cáncer infantil. Fiebre sin explicación de más de 7 días junto con ganglios grandes, indoloros y sin inflamación son signos de alarma que exigen evaluación y referencia oportunas.\n\nRAZONAMIENTO\nEl escenario reproduce criterios de alarma difundidos por el MINSA: fiebre de más de siete días y ganglios aumentados, especialmente si son duros, grandes, progresivos o no dolorosos. La directiva de detección precoz publicada en 2020 empleó adenopatías superiores a 2,5 cm; materiales MINSA posteriores mencionan ganglios duros >2 cm. Ninguno de esos hallazgos confirma por sí solo neoplasia: las infecciones, TB ganglionar y otras enfermedades pueden producirlos. Pero obligan a considerar leucemias, linfomas y otras patologías graves, investigar y organizar referencia sin demora. La clave A corresponde al diagnóstico que se debe DESCARTAR prioritariamente, no a un diagnóstico ya establecido.\n\nDESARROLLO DEL TEMA\nSignos sistémicos: fiebre prolongada sin causa, palidez progresiva, fatiga marcada, pérdida ponderal, sudoración nocturna, petequias, sangrados espontáneos.\n\nAdenopatía de alarma: ganglio >2–2,5 cm según material, duro, fijo, progresivo, indoloro o localizado en región de alto riesgo; explorar generalización y hepatoesplenomegalia.\n\nLeucemia infantil: puede producir fiebre, palidez/anemia, hemorragias, dolor óseo, adenopatías y alteraciones del hemograma; no se confirma con un signo aislado.\n\nLinfoma: considerar adenopatías persistentes o progresivas y síntomas generales; tuberculosis ganglionar y otras infecciones pueden imitar su presentación.\n\nEvaluación inicial: anamnesis dirigida, tiempo de evolución, examen de todas las cadenas ganglionares, peso, estado general, abdomen; hemograma y otras pruebas según capacidades y sin retrasar la referencia.\n\nMINSA: la directiva 2020 de diagnóstico precoz establece evaluación de alerta y referencia a centro con capacidad resolutiva; asegurar comunicación, registro y seguimiento de la referencia.\n\nOtros signos oncológicos a recordar: leucocoria/estrabismo súbito, cefalea persistente con vómitos, aumento de volumen abdominal, dolor óseo persistente e inexplicable.\n\nComunicación responsable: informar a la familia que se está descartando una condición seria, sin comunicar «cáncer confirmado» antes de estudio especializado.\n\nANÁLISIS A–D\nA — Correcta: se trata de un patrón de alarma para neoplasia pediátrica y requiere evaluación de posible cáncer infantil.\nB — Tuberculosis ganglionar es diagnóstico diferencial relevante, pero el enunciado reproduce los criterios de alarma oncológica del MINSA sin evidencia epidemiológica ni clínica específica que la confirme.\nC — Una tumoración benigna no explica con seguridad fiebre inexplicada prolongada y ganglios sospechosos; no debe ser la presunción tranquilizadora de primera elección.\nD — La fiebre reumática se evalúa con criterios clínicos y evidencia de infección estreptocócica antecedente; el patrón de adenopatías grandes indoloras no constituye presentación típica.\n\nFUENTES\nMINSA — Directiva sanitaria para la detección temprana y atención de cáncer en niño y adolescente, RM N.° 149-2020-MINSA | https://www.gob.pe/institucion/minsa/noticias/111744-minsa-aprueba-directiva-sanitaria-para-la-deteccion-temprana-y-atencion-de-cancer-en-el-nino-y-adolescente | Fiebre >7 días y adenopatías >2,5 cm indoloras como alertas que requieren referencia oportuna\nMINSA — Signos de cáncer infantil, febrero 2026 | https://www.gob.pe/institucion/minsa/noticias/1353667-cancer-infantil-signos-y-sintomas-que-no-se-deben-ignorar | Fiebre prolongada, ganglios duros de más de 2 cm y otros signos de alarma\nMINSA — Guía de diagnóstico precoz de cáncer en menores | https://www.gob.pe/institucion/minsa/informes-publicaciones/1091072-directiva-sanitaria-para-la-deteccion-temprana-y-atencion-de-cancer-en-el-nino-y-adolescente-guia-de-diagnostico-precoz-de-cancer-en-ninos-y-adolescentes-en-peru | Criterios y procedimientos para detección y atención\n\nMNEMOTECNIA\nCÁNCER PEDIÁTRICO: 7 días de fiebre + ganglios >2 cm persistentes = DESCARTAR enfermedad grave.\n\nTRAMPAS\nNo diagnosticar cáncer solo por fiebre y adenopatías: son signos de ALERTA, no confirmación.\nDiferenciar adenopatías inflamatorias dolorosas de ganglios grandes, duros, progresivos y no dolorosos; hay superposición clínica.\nTB ganglionar siempre se considera según epidemiología, curso y examen, incluso si se sospecha neoplasia.\nNo retrasar referencia por estudios de primera línea cuando la capacidad resolutiva sea insuficiente.\n\nPERLA\nFiebre >7 días + adenopatías grandes indoloras = ALARMA DE CÁNCER INFANTIL. Evaluar y referir oportunamente, no afirmar diagnóstico.",
+      "pearl": "Fiebre >7 días + adenopatías grandes indoloras = ALARMA DE CÁNCER INFANTIL. Evaluar y referir oportunamente, no afirmar diagnóstico.",
+      "keywords": [
+        "Pediatría oncológica y signos de alarma",
+        "Fiebre prolongada y adenopatías sospechosas de cáncer infantil",
+        "ENCAPS 2026-II",
+        "MINSA 276"
+      ],
+      "estadoDesarrollo": "completo",
+      "lesson": {
+        "respuesta_resumida": "A. Cáncer infantil. Fiebre sin explicación de más de 7 días junto con ganglios grandes, indoloros y sin inflamación son signos de alarma que exigen evaluación y referencia oportunas.",
+        "razonamiento": "El escenario reproduce criterios de alarma difundidos por el MINSA: fiebre de más de siete días y ganglios aumentados, especialmente si son duros, grandes, progresivos o no dolorosos. La directiva de detección precoz publicada en 2020 empleó adenopatías superiores a 2,5 cm; materiales MINSA posteriores mencionan ganglios duros >2 cm. Ninguno de esos hallazgos confirma por sí solo neoplasia: las infecciones, TB ganglionar y otras enfermedades pueden producirlos. Pero obligan a considerar leucemias, linfomas y otras patologías graves, investigar y organizar referencia sin demora. La clave A corresponde al diagnóstico que se debe DESCARTAR prioritariamente, no a un diagnóstico ya establecido.",
+        "temario": [
+          "Signos sistémicos: fiebre prolongada sin causa, palidez progresiva, fatiga marcada, pérdida ponderal, sudoración nocturna, petequias, sangrados espontáneos.",
+          "Adenopatía de alarma: ganglio >2–2,5 cm según material, duro, fijo, progresivo, indoloro o localizado en región de alto riesgo; explorar generalización y hepatoesplenomegalia.",
+          "Leucemia infantil: puede producir fiebre, palidez/anemia, hemorragias, dolor óseo, adenopatías y alteraciones del hemograma; no se confirma con un signo aislado.",
+          "Linfoma: considerar adenopatías persistentes o progresivas y síntomas generales; tuberculosis ganglionar y otras infecciones pueden imitar su presentación.",
+          "Evaluación inicial: anamnesis dirigida, tiempo de evolución, examen de todas las cadenas ganglionares, peso, estado general, abdomen; hemograma y otras pruebas según capacidades y sin retrasar la referencia.",
+          "MINSA: la directiva 2020 de diagnóstico precoz establece evaluación de alerta y referencia a centro con capacidad resolutiva; asegurar comunicación, registro y seguimiento de la referencia.",
+          "Otros signos oncológicos a recordar: leucocoria/estrabismo súbito, cefalea persistente con vómitos, aumento de volumen abdominal, dolor óseo persistente e inexplicable.",
+          "Comunicación responsable: informar a la familia que se está descartando una condición seria, sin comunicar «cáncer confirmado» antes de estudio especializado."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Correcta: se trata de un patrón de alarma para neoplasia pediátrica y requiere evaluación de posible cáncer infantil.",
+          "B": "Tuberculosis ganglionar es diagnóstico diferencial relevante, pero el enunciado reproduce los criterios de alarma oncológica del MINSA sin evidencia epidemiológica ni clínica específica que la confirme.",
+          "C": "Una tumoración benigna no explica con seguridad fiebre inexplicada prolongada y ganglios sospechosos; no debe ser la presunción tranquilizadora de primera elección.",
+          "D": "La fiebre reumática se evalúa con criterios clínicos y evidencia de infección estreptocócica antecedente; el patrón de adenopatías grandes indoloras no constituye presentación típica."
+        },
+        "normativa": [
+          "MINSA — Directiva sanitaria para la detección temprana y atención de cáncer en niño y adolescente, RM N.° 149-2020-MINSA | https://www.gob.pe/institucion/minsa/noticias/111744-minsa-aprueba-directiva-sanitaria-para-la-deteccion-temprana-y-atencion-de-cancer-en-el-nino-y-adolescente | Fiebre >7 días y adenopatías >2,5 cm indoloras como alertas que requieren referencia oportuna",
+          "MINSA — Signos de cáncer infantil, febrero 2026 | https://www.gob.pe/institucion/minsa/noticias/1353667-cancer-infantil-signos-y-sintomas-que-no-se-deben-ignorar | Fiebre prolongada, ganglios duros de más de 2 cm y otros signos de alarma",
+          "MINSA — Guía de diagnóstico precoz de cáncer en menores | https://www.gob.pe/institucion/minsa/informes-publicaciones/1091072-directiva-sanitaria-para-la-deteccion-temprana-y-atencion-de-cancer-en-el-nino-y-adolescente-guia-de-diagnostico-precoz-de-cancer-en-ninos-y-adolescentes-en-peru | Criterios y procedimientos para detección y atención"
+        ],
+        "mnemotecnia": "CÁNCER PEDIÁTRICO: 7 días de fiebre + ganglios >2 cm persistentes = DESCARTAR enfermedad grave.",
+        "trampas": [
+          "No diagnosticar cáncer solo por fiebre y adenopatías: son signos de ALERTA, no confirmación.",
+          "Diferenciar adenopatías inflamatorias dolorosas de ganglios grandes, duros, progresivos y no dolorosos; hay superposición clínica.",
+          "TB ganglionar siempre se considera según epidemiología, curso y examen, incluso si se sospecha neoplasia.",
+          "No retrasar referencia por estudios de primera línea cuando la capacidad resolutiva sea insuficiente."
+        ],
+        "perla": "Fiebre >7 días + adenopatías grandes indoloras = ALARMA DE CÁNCER INFANTIL. Evaluar y referir oportunamente, no afirmar diagnóstico.",
+        "repaso_activo": [
+          "¿Cuál es el umbral temporal de fiebre de la alerta de este examen? — Más de 7 días sin causa conocida.",
+          "¿Qué característica de ganglio aumenta sospecha? — Gran tamaño (>2–2,5 cm en guías), dureza, progresión, ausencia de inflamación dolorosa.",
+          "¿Qué patologías se deben considerar? — Leucemia, linfoma, tuberculosis y otras infecciones.",
+          "¿Qué acción es correcta en primer nivel? — Evaluar, registrar, informar a cuidadores, referir y confirmar continuidad."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Niño de siete años presenta tres semanas de cansancio, palidez, petequias y dolor óseo nocturno. ¿Cuál es la acción más adecuada en el primer nivel?",
+            "alternativas": {
+              "A": "Confirmar anemia ferropénica e indicar hierro sin estudios",
+              "B": "Evaluar signos de alarma y gestionar referencia urgente",
+              "C": "Controlar en un mes sin ampliar la evaluación",
+              "D": "Atribuir todos los signos a actividad física intensa",
+              "E": "Indicar antibiótico empírico prolongado sin evaluación"
+            },
+            "respuesta": "B",
+            "explicacion": "La combinación de signos hematológicos y dolor óseo obliga a descartar enfermedad oncohematológica y referir oportunamente."
+          },
+          {
+            "enunciado": "Niña de cinco años presenta adenopatía cervical de 3 cm, firme y progresiva, afebril. La madre solicita saber si es cáncer. ¿Cuál es la respuesta clínica apropiada?",
+            "alternativas": {
+              "A": "Confirmar cáncer por tamaño ganglionar aislado",
+              "B": "Descartar linfoma porque no hay fiebre",
+              "C": "Indicar cirugía inmediata sin valoración previa",
+              "D": "Diagnosticar fiebre reumática subclínica",
+              "E": "Explicar que es un signo de alarma y organizar evaluación especializada"
+            },
+            "respuesta": "E",
+            "explicacion": "Adenopatía grande y progresiva requiere investigación, pero no establece malignidad por sí sola."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Fiebre prolongada y adenopatías sospechosas de cáncer infantil",
+          "eje": "Pediatría oncológica y signos de alarma",
+          "confiabilidad": "clave_resaltada_fundamento_concordante",
+          "respuesta_resumida": "A. Cáncer infantil. Fiebre sin explicación de más de 7 días junto con ganglios grandes, indoloros y sin inflamación son signos de alarma que exigen evaluación y referencia oportunas.",
+          "razonamiento": [
+            "El escenario reproduce criterios de alarma difundidos por el MINSA: fiebre de más de siete días y ganglios aumentados, especialmente si son duros, grandes, progresivos o no dolorosos. La directiva de detección precoz publicada en 2020 empleó adenopatías superiores a 2,5 cm; materiales MINSA posteriores mencionan ganglios duros >2 cm. Ninguno de esos hallazgos confirma por sí solo neoplasia: las infecciones, TB ganglionar y otras enfermedades pueden producirlos. Pero obligan a considerar leucemias, linfomas y otras patologías graves, investigar y organizar referencia sin demora. La clave A corresponde al diagnóstico que se debe DESCARTAR prioritariamente, no a un diagnóstico ya establecido."
+          ],
+          "temario": [
+            "Signos sistémicos: fiebre prolongada sin causa, palidez progresiva, fatiga marcada, pérdida ponderal, sudoración nocturna, petequias, sangrados espontáneos.",
+            "Adenopatía de alarma: ganglio >2–2,5 cm según material, duro, fijo, progresivo, indoloro o localizado en región de alto riesgo; explorar generalización y hepatoesplenomegalia.",
+            "Leucemia infantil: puede producir fiebre, palidez/anemia, hemorragias, dolor óseo, adenopatías y alteraciones del hemograma; no se confirma con un signo aislado.",
+            "Linfoma: considerar adenopatías persistentes o progresivas y síntomas generales; tuberculosis ganglionar y otras infecciones pueden imitar su presentación.",
+            "Evaluación inicial: anamnesis dirigida, tiempo de evolución, examen de todas las cadenas ganglionares, peso, estado general, abdomen; hemograma y otras pruebas según capacidades y sin retrasar la referencia.",
+            "MINSA: la directiva 2020 de diagnóstico precoz establece evaluación de alerta y referencia a centro con capacidad resolutiva; asegurar comunicación, registro y seguimiento de la referencia.",
+            "Otros signos oncológicos a recordar: leucocoria/estrabismo súbito, cefalea persistente con vómitos, aumento de volumen abdominal, dolor óseo persistente e inexplicable.",
+            "Comunicación responsable: informar a la familia que se está descartando una condición seria, sin comunicar «cáncer confirmado» antes de estudio especializado."
+          ],
+          "distractores": {
+            "A": "Correcta: se trata de un patrón de alarma para neoplasia pediátrica y requiere evaluación de posible cáncer infantil.",
+            "B": "Tuberculosis ganglionar es diagnóstico diferencial relevante, pero el enunciado reproduce los criterios de alarma oncológica del MINSA sin evidencia epidemiológica ni clínica específica que la confirme.",
+            "C": "Una tumoración benigna no explica con seguridad fiebre inexplicada prolongada y ganglios sospechosos; no debe ser la presunción tranquilizadora de primera elección.",
+            "D": "La fiebre reumática se evalúa con criterios clínicos y evidencia de infección estreptocócica antecedente; el patrón de adenopatías grandes indoloras no constituye presentación típica."
+          },
+          "normativa": [
+            {
+              "nombre": "MINSA — Directiva sanitaria para la detección temprana y atención de cáncer en niño y adolescente, RM N.° 149-2020-MINSA",
+              "url": "https://www.gob.pe/institucion/minsa/noticias/111744-minsa-aprueba-directiva-sanitaria-para-la-deteccion-temprana-y-atencion-de-cancer-en-el-nino-y-adolescente",
+              "aplicacion": "Fiebre >7 días y adenopatías >2,5 cm indoloras como alertas que requieren referencia oportuna"
+            },
+            {
+              "nombre": "MINSA — Signos de cáncer infantil, febrero 2026",
+              "url": "https://www.gob.pe/institucion/minsa/noticias/1353667-cancer-infantil-signos-y-sintomas-que-no-se-deben-ignorar",
+              "aplicacion": "Fiebre prolongada, ganglios duros de más de 2 cm y otros signos de alarma"
+            },
+            {
+              "nombre": "MINSA — Guía de diagnóstico precoz de cáncer en menores",
+              "url": "https://www.gob.pe/institucion/minsa/informes-publicaciones/1091072-directiva-sanitaria-para-la-deteccion-temprana-y-atencion-de-cancer-en-el-nino-y-adolescente-guia-de-diagnostico-precoz-de-cancer-en-ninos-y-adolescentes-en-peru",
+              "aplicacion": "Criterios y procedimientos para detección y atención"
+            }
+          ],
+          "mnemotecnia": "CÁNCER PEDIÁTRICO: 7 días de fiebre + ganglios >2 cm persistentes = DESCARTAR enfermedad grave.",
+          "trampas": [
+            "No diagnosticar cáncer solo por fiebre y adenopatías: son signos de ALERTA, no confirmación.",
+            "Diferenciar adenopatías inflamatorias dolorosas de ganglios grandes, duros, progresivos y no dolorosos; hay superposición clínica.",
+            "TB ganglionar siempre se considera según epidemiología, curso y examen, incluso si se sospecha neoplasia.",
+            "No retrasar referencia por estudios de primera línea cuando la capacidad resolutiva sea insuficiente."
+          ],
+          "perla": "Fiebre >7 días + adenopatías grandes indoloras = ALARMA DE CÁNCER INFANTIL. Evaluar y referir oportunamente, no afirmar diagnóstico.",
+          "repaso_activo": [
+            "¿Cuál es el umbral temporal de fiebre de la alerta de este examen? — Más de 7 días sin causa conocida.",
+            "¿Qué característica de ganglio aumenta sospecha? — Gran tamaño (>2–2,5 cm en guías), dureza, progresión, ausencia de inflamación dolorosa.",
+            "¿Qué patologías se deben considerar? — Leucemia, linfoma, tuberculosis y otras infecciones.",
+            "¿Qué acción es correcta en primer nivel? — Evaluar, registrar, informar a cuidadores, referir y confirmar continuidad."
+          ],
+          "refuerzo": [
+            {
+              "enunciado": "Niño de siete años presenta tres semanas de cansancio, palidez, petequias y dolor óseo nocturno. ¿Cuál es la acción más adecuada en el primer nivel?",
+              "alternativas": {
+                "A": "Confirmar anemia ferropénica e indicar hierro sin estudios",
+                "B": "Evaluar signos de alarma y gestionar referencia urgente",
+                "C": "Controlar en un mes sin ampliar la evaluación",
+                "D": "Atribuir todos los signos a actividad física intensa",
+                "E": "Indicar antibiótico empírico prolongado sin evaluación"
+              },
+              "respuesta": "B",
+              "explicacion": "La combinación de signos hematológicos y dolor óseo obliga a descartar enfermedad oncohematológica y referir oportunamente."
+            },
+            {
+              "enunciado": "Niña de cinco años presenta adenopatía cervical de 3 cm, firme y progresiva, afebril. La madre solicita saber si es cáncer. ¿Cuál es la respuesta clínica apropiada?",
+              "alternativas": {
+                "A": "Confirmar cáncer por tamaño ganglionar aislado",
+                "B": "Descartar linfoma porque no hay fiebre",
+                "C": "Indicar cirugía inmediata sin valoración previa",
+                "D": "Diagnosticar fiebre reumática subclínica",
+                "E": "Explicar que es un signo de alarma y organizar evaluación especializada"
+              },
+              "respuesta": "E",
+              "explicacion": "Adenopatía grande y progresiva requiere investigación, pero no establece malignidad por sí sola."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "number": 44,
+      "code": "ENCAPS26-II P044",
+      "course": "Metodología de investigación en salud",
+      "topic": "Método científico y generación de conocimiento nuevo",
+      "comment": "Clave original (marcada en PDF, sin cotejo de clave oficial independiente): A. Método científico. La investigación en salud construye conocimiento mediante procesos sistemáticos de observación, planteamiento de preguntas, métodos válidos, análisis y evaluación crítica.\n\nRAZONAMIENTO\nLa pregunta define investigación en salud como producción de conocimientos nuevos para comprender y afrontar problemas sanitarios, sin restringirla a biomedicina. El término que completa la definición es «método científico». Un análisis estadístico o epidemiológico puede ser parte importante del método, pero no lo reemplaza: hay investigación clínica, epidemiológica, social, cualitativa, operacional, de implementación y en sistemas de salud. El diseño debe concordar con la pregunta, con estrategias de muestreo, ética, validez y transparencia.\n\nDESARROLLO DEL TEMA\nInicio: delimitar un problema real, identificar brecha de conocimiento, revisar literatura y construir pregunta de investigación y objetivos medibles.\n\nHipótesis: formulación contrastable en estudios que la requieren; investigaciones exploratorias o cualitativas pueden emplear preguntas abiertas sin hipótesis formal de contraste.\n\nDiseño: elegir observacional, experimental, cualitativo, mixto, metodológico o de implementación según objeto y factibilidad; no hay un diseño superior para todos los objetivos.\n\nPoblación y muestra: definir criterios, marco muestral, variables/constructos y técnicas de medición para reducir sesgos y errores.\n\nRecolección y análisis: aplicar instrumentos válidos y procedimientos reproducibles; combinar análisis cuantitativo y/o cualitativo según el diseño.\n\nÉtica: consentimiento y confidencialidad cuando corresponda, balance riesgo-beneficio, revisión ética pertinente y especial protección de poblaciones vulnerables.\n\nInterpretación: distinguir resultados de conclusiones; considerar incertidumbre, confusión, sesgos, validez externa y limitaciones.\n\nDifusión y aplicación: comunicar resultados, propiciar replicación y traducir evidencia en mejora de servicios y políticas sin sobregeneralizar.\n\nANÁLISIS A–D\nA — Correcta: constituye el procedimiento general para obtener conocimiento verificable mediante investigación sistemática.\nB — Los métodos estadísticos permiten analizar datos cuantitativos, pero muchos trabajos no son exclusivamente estadísticos; son herramientas del proceso.\nC — El análisis epidemiológico estudia distribución y determinantes en poblaciones; es una disciplina y conjunto de métodos, no el fundamento general de toda investigación en salud.\nD — El análisis poblacional caracteriza grupos y procesos demográficos; tampoco abarca la investigación biomédica, cualitativa, clínica y de sistemas.\n\nFUENTES\nOMS — Health Research Methodology: A Guide for Training in Research Methods | https://iris.who.int/handle/10665/206929 | Investigación sistemática para generar conocimiento mediante métodos científicos\nOMS — Research for health | https://www.who.int/our-work/science-division/research-for-health | La investigación contribuye a generar evidencia para la salud pública\nINS — Instituto Nacional de Salud del Perú | https://www.gob.pe/ins | Investigación y generación de evidencias para decisiones sanitarias\n\nMNEMOTECNIA\nCIENCIA = Pregunta → Diseño → Datos → Análisis → Contraste → Comunicación.\n\nTRAMPAS\nEstadística es herramienta, no sinónimo de método científico.\nNo toda investigación en salud exige experimento aleatorizado o hipótesis cuantitativa.\nEl método debe alinearse con la pregunta; resultados correlacionales no demuestran causalidad.\nInvestigación en salud no se limita a pacientes: comprende determinantes sociales, servicios, políticas y organización.\n\nPERLA\nInvestigación = conocimiento nuevo con MÉTODO CIENTÍFICO; bioestadística y epidemiología son instrumentos o campos, no sinónimos universales.",
+      "pearl": "Investigación = conocimiento nuevo con MÉTODO CIENTÍFICO; bioestadística y epidemiología son instrumentos o campos, no sinónimos universales.",
+      "keywords": [
+        "Metodología de investigación en salud",
+        "Método científico y generación de conocimiento nuevo",
+        "ENCAPS 2026-II",
+        "MINSA 276"
+      ],
+      "estadoDesarrollo": "completo",
+      "lesson": {
+        "respuesta_resumida": "A. Método científico. La investigación en salud construye conocimiento mediante procesos sistemáticos de observación, planteamiento de preguntas, métodos válidos, análisis y evaluación crítica.",
+        "razonamiento": "La pregunta define investigación en salud como producción de conocimientos nuevos para comprender y afrontar problemas sanitarios, sin restringirla a biomedicina. El término que completa la definición es «método científico». Un análisis estadístico o epidemiológico puede ser parte importante del método, pero no lo reemplaza: hay investigación clínica, epidemiológica, social, cualitativa, operacional, de implementación y en sistemas de salud. El diseño debe concordar con la pregunta, con estrategias de muestreo, ética, validez y transparencia.",
+        "temario": [
+          "Inicio: delimitar un problema real, identificar brecha de conocimiento, revisar literatura y construir pregunta de investigación y objetivos medibles.",
+          "Hipótesis: formulación contrastable en estudios que la requieren; investigaciones exploratorias o cualitativas pueden emplear preguntas abiertas sin hipótesis formal de contraste.",
+          "Diseño: elegir observacional, experimental, cualitativo, mixto, metodológico o de implementación según objeto y factibilidad; no hay un diseño superior para todos los objetivos.",
+          "Población y muestra: definir criterios, marco muestral, variables/constructos y técnicas de medición para reducir sesgos y errores.",
+          "Recolección y análisis: aplicar instrumentos válidos y procedimientos reproducibles; combinar análisis cuantitativo y/o cualitativo según el diseño.",
+          "Ética: consentimiento y confidencialidad cuando corresponda, balance riesgo-beneficio, revisión ética pertinente y especial protección de poblaciones vulnerables.",
+          "Interpretación: distinguir resultados de conclusiones; considerar incertidumbre, confusión, sesgos, validez externa y limitaciones.",
+          "Difusión y aplicación: comunicar resultados, propiciar replicación y traducir evidencia en mejora de servicios y políticas sin sobregeneralizar."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Correcta: constituye el procedimiento general para obtener conocimiento verificable mediante investigación sistemática.",
+          "B": "Los métodos estadísticos permiten analizar datos cuantitativos, pero muchos trabajos no son exclusivamente estadísticos; son herramientas del proceso.",
+          "C": "El análisis epidemiológico estudia distribución y determinantes en poblaciones; es una disciplina y conjunto de métodos, no el fundamento general de toda investigación en salud.",
+          "D": "El análisis poblacional caracteriza grupos y procesos demográficos; tampoco abarca la investigación biomédica, cualitativa, clínica y de sistemas."
+        },
+        "normativa": [
+          "OMS — Health Research Methodology: A Guide for Training in Research Methods | https://iris.who.int/handle/10665/206929 | Investigación sistemática para generar conocimiento mediante métodos científicos",
+          "OMS — Research for health | https://www.who.int/our-work/science-division/research-for-health | La investigación contribuye a generar evidencia para la salud pública",
+          "INS — Instituto Nacional de Salud del Perú | https://www.gob.pe/ins | Investigación y generación de evidencias para decisiones sanitarias"
+        ],
+        "mnemotecnia": "CIENCIA = Pregunta → Diseño → Datos → Análisis → Contraste → Comunicación.",
+        "trampas": [
+          "Estadística es herramienta, no sinónimo de método científico.",
+          "No toda investigación en salud exige experimento aleatorizado o hipótesis cuantitativa.",
+          "El método debe alinearse con la pregunta; resultados correlacionales no demuestran causalidad.",
+          "Investigación en salud no se limita a pacientes: comprende determinantes sociales, servicios, políticas y organización."
+        ],
+        "perla": "Investigación = conocimiento nuevo con MÉTODO CIENTÍFICO; bioestadística y epidemiología son instrumentos o campos, no sinónimos universales.",
+        "repaso_activo": [
+          "¿Qué se aplica para generar conocimiento científico? — Método científico.",
+          "¿Todos los estudios requieren una hipótesis estadística formal? — No; depende de pregunta y diseño.",
+          "¿Puede la investigación en salud abordar organización y acceso a servicios? — Sí.",
+          "¿Qué diferencia dato de evidencia? — El dato es observación; evidencia es información interpretada y críticamente evaluada."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Un equipo desea saber por qué pacientes con hipertensión abandonan controles y entrevista en profundidad a usuarios y profesionales. ¿Qué enfoque de investigación describe mejor?",
+            "alternativas": {
+              "A": "Ensayo clínico doble ciego",
+              "B": "Cohorte prospectiva con asignación aleatoria",
+              "C": "Investigación cualitativa con entrevistas",
+              "D": "Estudio ecológico de series nacionales",
+              "E": "Metaanálisis de ensayos terapéuticos"
+            },
+            "respuesta": "C",
+            "explicacion": "La pregunta explora experiencias y barreras mediante entrevistas, por lo que es cualitativa."
+          },
+          {
+            "enunciado": "Un investigador encuentra asociación entre uso de leña y síntomas respiratorios en un corte transversal. ¿Cuál es la interpretación más prudente?",
+            "alternativas": {
+              "A": "La asociación sugiere hipótesis, sin demostrar causalidad",
+              "B": "La asociación demuestra causa y efecto de forma definitiva",
+              "C": "El tamaño de muestra elimina todos los sesgos posibles",
+              "D": "Solo un análisis descriptivo puede evaluar asociación",
+              "E": "Los factores de confusión dejan de importar al comparar grupos"
+            },
+            "respuesta": "A",
+            "explicacion": "La asociación transversal puede motivar investigación adicional; causalidad exige análisis de temporalidad, confusión y otros criterios."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Método científico y generación de conocimiento nuevo",
+          "eje": "Metodología de investigación en salud",
+          "confiabilidad": "clave_resaltada_fundamento_concordante",
+          "respuesta_resumida": "A. Método científico. La investigación en salud construye conocimiento mediante procesos sistemáticos de observación, planteamiento de preguntas, métodos válidos, análisis y evaluación crítica.",
+          "razonamiento": [
+            "La pregunta define investigación en salud como producción de conocimientos nuevos para comprender y afrontar problemas sanitarios, sin restringirla a biomedicina. El término que completa la definición es «método científico». Un análisis estadístico o epidemiológico puede ser parte importante del método, pero no lo reemplaza: hay investigación clínica, epidemiológica, social, cualitativa, operacional, de implementación y en sistemas de salud. El diseño debe concordar con la pregunta, con estrategias de muestreo, ética, validez y transparencia."
+          ],
+          "temario": [
+            "Inicio: delimitar un problema real, identificar brecha de conocimiento, revisar literatura y construir pregunta de investigación y objetivos medibles.",
+            "Hipótesis: formulación contrastable en estudios que la requieren; investigaciones exploratorias o cualitativas pueden emplear preguntas abiertas sin hipótesis formal de contraste.",
+            "Diseño: elegir observacional, experimental, cualitativo, mixto, metodológico o de implementación según objeto y factibilidad; no hay un diseño superior para todos los objetivos.",
+            "Población y muestra: definir criterios, marco muestral, variables/constructos y técnicas de medición para reducir sesgos y errores.",
+            "Recolección y análisis: aplicar instrumentos válidos y procedimientos reproducibles; combinar análisis cuantitativo y/o cualitativo según el diseño.",
+            "Ética: consentimiento y confidencialidad cuando corresponda, balance riesgo-beneficio, revisión ética pertinente y especial protección de poblaciones vulnerables.",
+            "Interpretación: distinguir resultados de conclusiones; considerar incertidumbre, confusión, sesgos, validez externa y limitaciones.",
+            "Difusión y aplicación: comunicar resultados, propiciar replicación y traducir evidencia en mejora de servicios y políticas sin sobregeneralizar."
+          ],
+          "distractores": {
+            "A": "Correcta: constituye el procedimiento general para obtener conocimiento verificable mediante investigación sistemática.",
+            "B": "Los métodos estadísticos permiten analizar datos cuantitativos, pero muchos trabajos no son exclusivamente estadísticos; son herramientas del proceso.",
+            "C": "El análisis epidemiológico estudia distribución y determinantes en poblaciones; es una disciplina y conjunto de métodos, no el fundamento general de toda investigación en salud.",
+            "D": "El análisis poblacional caracteriza grupos y procesos demográficos; tampoco abarca la investigación biomédica, cualitativa, clínica y de sistemas."
+          },
+          "normativa": [
+            {
+              "nombre": "OMS — Health Research Methodology: A Guide for Training in Research Methods",
+              "url": "https://iris.who.int/handle/10665/206929",
+              "aplicacion": "Investigación sistemática para generar conocimiento mediante métodos científicos"
+            },
+            {
+              "nombre": "OMS — Research for health",
+              "url": "https://www.who.int/our-work/science-division/research-for-health",
+              "aplicacion": "La investigación contribuye a generar evidencia para la salud pública"
+            },
+            {
+              "nombre": "INS — Instituto Nacional de Salud del Perú",
+              "url": "https://www.gob.pe/ins",
+              "aplicacion": "Investigación y generación de evidencias para decisiones sanitarias"
+            }
+          ],
+          "mnemotecnia": "CIENCIA = Pregunta → Diseño → Datos → Análisis → Contraste → Comunicación.",
+          "trampas": [
+            "Estadística es herramienta, no sinónimo de método científico.",
+            "No toda investigación en salud exige experimento aleatorizado o hipótesis cuantitativa.",
+            "El método debe alinearse con la pregunta; resultados correlacionales no demuestran causalidad.",
+            "Investigación en salud no se limita a pacientes: comprende determinantes sociales, servicios, políticas y organización."
+          ],
+          "perla": "Investigación = conocimiento nuevo con MÉTODO CIENTÍFICO; bioestadística y epidemiología son instrumentos o campos, no sinónimos universales.",
+          "repaso_activo": [
+            "¿Qué se aplica para generar conocimiento científico? — Método científico.",
+            "¿Todos los estudios requieren una hipótesis estadística formal? — No; depende de pregunta y diseño.",
+            "¿Puede la investigación en salud abordar organización y acceso a servicios? — Sí.",
+            "¿Qué diferencia dato de evidencia? — El dato es observación; evidencia es información interpretada y críticamente evaluada."
+          ],
+          "refuerzo": [
+            {
+              "enunciado": "Un equipo desea saber por qué pacientes con hipertensión abandonan controles y entrevista en profundidad a usuarios y profesionales. ¿Qué enfoque de investigación describe mejor?",
+              "alternativas": {
+                "A": "Ensayo clínico doble ciego",
+                "B": "Cohorte prospectiva con asignación aleatoria",
+                "C": "Investigación cualitativa con entrevistas",
+                "D": "Estudio ecológico de series nacionales",
+                "E": "Metaanálisis de ensayos terapéuticos"
+              },
+              "respuesta": "C",
+              "explicacion": "La pregunta explora experiencias y barreras mediante entrevistas, por lo que es cualitativa."
+            },
+            {
+              "enunciado": "Un investigador encuentra asociación entre uso de leña y síntomas respiratorios en un corte transversal. ¿Cuál es la interpretación más prudente?",
+              "alternativas": {
+                "A": "La asociación sugiere hipótesis, sin demostrar causalidad",
+                "B": "La asociación demuestra causa y efecto de forma definitiva",
+                "C": "El tamaño de muestra elimina todos los sesgos posibles",
+                "D": "Solo un análisis descriptivo puede evaluar asociación",
+                "E": "Los factores de confusión dejan de importar al comparar grupos"
+              },
+              "respuesta": "A",
+              "explicacion": "La asociación transversal puede motivar investigación adicional; causalidad exige análisis de temporalidad, confusión y otros criterios."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "number": 45,
+      "code": "ENCAPS26-II P045",
+      "course": "Atención primaria de salud y MCI",
+      "topic": "APS: accesibilidad, continuidad, coordinación e integralidad",
+      "comment": "Clave original (marcada en PDF, sin cotejo de clave oficial independiente): D. Accesibilidad y continuidad del cuidado. Ampliar horarios y realizar visitas domiciliarias reducen barreras de acceso; sostener acciones para responder a necesidades de la población favorece continuidad de cuidados.\n\nRAZONAMIENTO\nEl líder del equipo implementa visitas al domicilio, extensión del horario institucional y coordinación de acciones según necesidades, dentro del MCI. El horario ampliado y la atención extramural son formas directas de mejorar accesibilidad (geográfica, organizativa y temporal). La continuidad se reconoce por el compromiso persistente de cuidado y seguimiento, aunque el enunciado NO describe explícitamente controles longitudinales; por eso la inferencia tiene un grado de ambigüedad. La opción C, «coordinación e integralidad», resulta también plausible por las expresiones coordinar acciones y cuidado integral, pero la clave resaltada es D. En examen, identifica la asociación acceso ampliado + cuidado sostenido, y en la práctica no confundas coordinación de actividades con continuidad longitudinal.\n\nDESARROLLO DEL TEMA\nAtributos OMS de atención primaria: acceso en primer contacto, continuidad, coordinación, integralidad y enfoque centrado en la persona. Son complementarios, no intercambiables.\n\nAccesibilidad: eliminación de obstáculos de horario, distancia, costo, idioma, discapacidad o trámites. Extender horarios y realizar visitas puede fortalecer el acceso.\n\nPrimer contacto: capacidad del servicio de ser entrada habitual y oportuna cuando surge una necesidad de salud nueva; ser el primer nivel no lo asegura por sí solo.\n\nContinuidad/longitudinalidad: relación asistencial sostenida, responsabilidad de seguimiento y transición segura entre episodios o servicios; no se deduce únicamente de visitar una vivienda una vez.\n\nCoordinación: enlace entre profesionales, establecimientos y sectores para que las acciones no se fragmenten, incluida referencia y contrarreferencia.\n\nIntegralidad: cartera que responde al espectro de necesidades, promoción, prevención, diagnóstico, tratamiento, rehabilitación y paliativos conforme a competencia y articulación.\n\nMCI peruano: RM N.° 030-2020-MINSA y manual RM N.° 220-2021-MINSA; cuidado centrado en persona, familia, comunidad y curso de vida.\n\nResolución del ítem: asociar «ampliación de horarios y visitas» a accesibilidad; el mantenimiento del cuidado ajustado a necesidades favorece continuidad. Advertir que coordinación e integralidad también están presentes en la redacción.\n\nEvaluación de servicios: medir oportunidad de primera cita, abandonos y seguimiento, registros compartidos, satisfacción y resultados para valorar si las medidas realmente mejoran los atributos.\n\nANÁLISIS A–D\nA — La formación profesional no se menciona; aunque la continuidad importa, el par propuesto tiene un componente sin sustento directo.\nB — Primer contacto y accesibilidad reflejan parcialmente el horario y las visitas, pero el caso también intenta representar seguimiento de necesidades a lo largo del tiempo.\nC — Coordinación e integralidad son conceptos realmente sugeridos por la redacción; constituyen una alternativa plausible, lo que resta precisión discriminativa al ítem.\nD — Clave resaltada: accesibilidad se manifiesta en horarios y desplazamiento al domicilio; continuidad se infiere de asegurar atención repetida y adecuada a necesidades.\n\nFUENTES\nOMS — Primary Care Checklist (27/06/2025) | https://www.who.int/publications/m/item/primary-care-checklist | Funciones del primer nivel: primer contacto, accesibilidad, continuidad, coordinación, integralidad y atención centrada en personas\nOMS — Primary care: five core functions | https://www.who.int/teams/integrated-health-services/clinical-services-and-systems/primary-care | Diferencia entre accesibilidad, continuidad, coordinación e integralidad\nMINSA — RM N.° 030-2020-MINSA | https://www.gob.pe/institucion/minsa/normas-legales/414755-030-2020-minsa | Modelo de cuidado integral por curso de vida para persona, familia y comunidad\nMINSA — RM N.° 220-2021-MINSA | https://www.gob.pe/institucion/minsa/normas-legales/1682527-220-2021-minsa | Manual de implementación del MCI\n\nMNEMOTECNIA\nAPS 5C: Contacto (acceso), Continuidad, Coordinación, Comprehensividad/integralidad, Centrada en la persona.\n\nTRAMPAS\nVisita única ≠ continuidad demostrada; se necesita seguimiento longitudinal.\nCoordinar acciones no demuestra por sí solo integralidad de servicios, pero puede apoyarla.\nAccesibilidad incluye horario y desplazamiento: no solo cercanía en kilómetros.\nLa pregunta presenta dos pares defendibles (C y D) si se interpretan distintos verbos; conservar la clave histórica y razonar los atributos por separado.\n\nPERLA\nP45 clave PDF D: HORARIOS + DOMICILIO → ACCESO; SEGUIMIENTO SOSTENIDO → CONTINUIDAD. Hay solapamiento con C (coordinación e integralidad).",
+      "pearl": "P45 clave PDF D: HORARIOS + DOMICILIO → ACCESO; SEGUIMIENTO SOSTENIDO → CONTINUIDAD. Hay solapamiento con C (coordinación e integralidad).",
+      "keywords": [
+        "Atención primaria de salud y MCI",
+        "APS: accesibilidad, continuidad, coordinación e integralidad",
+        "ENCAPS 2026-II",
+        "MINSA 276"
+      ],
+      "estadoDesarrollo": "completo",
+      "lesson": {
+        "respuesta_resumida": "D. Accesibilidad y continuidad del cuidado. Ampliar horarios y realizar visitas domiciliarias reducen barreras de acceso; sostener acciones para responder a necesidades de la población favorece continuidad de cuidados.",
+        "razonamiento": "El líder del equipo implementa visitas al domicilio, extensión del horario institucional y coordinación de acciones según necesidades, dentro del MCI. El horario ampliado y la atención extramural son formas directas de mejorar accesibilidad (geográfica, organizativa y temporal). La continuidad se reconoce por el compromiso persistente de cuidado y seguimiento, aunque el enunciado NO describe explícitamente controles longitudinales; por eso la inferencia tiene un grado de ambigüedad. La opción C, «coordinación e integralidad», resulta también plausible por las expresiones coordinar acciones y cuidado integral, pero la clave resaltada es D. En examen, identifica la asociación acceso ampliado + cuidado sostenido, y en la práctica no confundas coordinación de actividades con continuidad longitudinal.",
+        "temario": [
+          "Atributos OMS de atención primaria: acceso en primer contacto, continuidad, coordinación, integralidad y enfoque centrado en la persona. Son complementarios, no intercambiables.",
+          "Accesibilidad: eliminación de obstáculos de horario, distancia, costo, idioma, discapacidad o trámites. Extender horarios y realizar visitas puede fortalecer el acceso.",
+          "Primer contacto: capacidad del servicio de ser entrada habitual y oportuna cuando surge una necesidad de salud nueva; ser el primer nivel no lo asegura por sí solo.",
+          "Continuidad/longitudinalidad: relación asistencial sostenida, responsabilidad de seguimiento y transición segura entre episodios o servicios; no se deduce únicamente de visitar una vivienda una vez.",
+          "Coordinación: enlace entre profesionales, establecimientos y sectores para que las acciones no se fragmenten, incluida referencia y contrarreferencia.",
+          "Integralidad: cartera que responde al espectro de necesidades, promoción, prevención, diagnóstico, tratamiento, rehabilitación y paliativos conforme a competencia y articulación.",
+          "MCI peruano: RM N.° 030-2020-MINSA y manual RM N.° 220-2021-MINSA; cuidado centrado en persona, familia, comunidad y curso de vida.",
+          "Resolución del ítem: asociar «ampliación de horarios y visitas» a accesibilidad; el mantenimiento del cuidado ajustado a necesidades favorece continuidad. Advertir que coordinación e integralidad también están presentes en la redacción.",
+          "Evaluación de servicios: medir oportunidad de primera cita, abandonos y seguimiento, registros compartidos, satisfacción y resultados para valorar si las medidas realmente mejoran los atributos."
+        ],
+        "por_que_no_las_otras": {
+          "A": "La formación profesional no se menciona; aunque la continuidad importa, el par propuesto tiene un componente sin sustento directo.",
+          "B": "Primer contacto y accesibilidad reflejan parcialmente el horario y las visitas, pero el caso también intenta representar seguimiento de necesidades a lo largo del tiempo.",
+          "C": "Coordinación e integralidad son conceptos realmente sugeridos por la redacción; constituyen una alternativa plausible, lo que resta precisión discriminativa al ítem.",
+          "D": "Clave resaltada: accesibilidad se manifiesta en horarios y desplazamiento al domicilio; continuidad se infiere de asegurar atención repetida y adecuada a necesidades."
+        },
+        "normativa": [
+          "OMS — Primary Care Checklist (27/06/2025) | https://www.who.int/publications/m/item/primary-care-checklist | Funciones del primer nivel: primer contacto, accesibilidad, continuidad, coordinación, integralidad y atención centrada en personas",
+          "OMS — Primary care: five core functions | https://www.who.int/teams/integrated-health-services/clinical-services-and-systems/primary-care | Diferencia entre accesibilidad, continuidad, coordinación e integralidad",
+          "MINSA — RM N.° 030-2020-MINSA | https://www.gob.pe/institucion/minsa/normas-legales/414755-030-2020-minsa | Modelo de cuidado integral por curso de vida para persona, familia y comunidad",
+          "MINSA — RM N.° 220-2021-MINSA | https://www.gob.pe/institucion/minsa/normas-legales/1682527-220-2021-minsa | Manual de implementación del MCI"
+        ],
+        "mnemotecnia": "APS 5C: Contacto (acceso), Continuidad, Coordinación, Comprehensividad/integralidad, Centrada en la persona.",
+        "trampas": [
+          "Visita única ≠ continuidad demostrada; se necesita seguimiento longitudinal.",
+          "Coordinar acciones no demuestra por sí solo integralidad de servicios, pero puede apoyarla.",
+          "Accesibilidad incluye horario y desplazamiento: no solo cercanía en kilómetros.",
+          "La pregunta presenta dos pares defendibles (C y D) si se interpretan distintos verbos; conservar la clave histórica y razonar los atributos por separado."
+        ],
+        "perla": "P45 clave PDF D: HORARIOS + DOMICILIO → ACCESO; SEGUIMIENTO SOSTENIDO → CONTINUIDAD. Hay solapamiento con C (coordinación e integralidad).",
+        "repaso_activo": [
+          "¿Qué atributo mejora un EESS al ampliar horarios? — Accesibilidad.",
+          "¿Qué atributo exige una relación de seguimiento en el tiempo? — Continuidad o longitudinalidad.",
+          "¿Qué distingue coordinación? — Enlace entre servicios, equipos y niveles de atención.",
+          "¿Qué describe integralidad? — Respuesta al conjunto de necesidades de salud a lo largo del curso de vida."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Un centro de salud abre turnos vespertinos para trabajadores y ofrece atención itinerante en anexos rurales. ¿Qué atributo intenta fortalecer de manera directa?",
+            "alternativas": {
+              "A": "Accesibilidad del primer contacto",
+              "B": "Continuidad longitudinal documentada",
+              "C": "Integralidad de la cartera especializada",
+              "D": "Coordinación de la contrarreferencia",
+              "E": "Formación clínica del equipo interdisciplinario"
+            },
+            "respuesta": "A",
+            "explicacion": "Horarios y territorio reducen barreras temporales y geográficas de acceso."
+          },
+          {
+            "enunciado": "Una paciente con hipertensión es vista durante cinco años por su mismo equipo, que registra controles, contacta tras ausencias y ajusta su plan longitudinalmente. ¿Qué atributo predomina?",
+            "alternativas": {
+              "A": "Primer contacto por derivación hospitalaria",
+              "B": "Integralidad de tecnologías diagnósticas",
+              "C": "Selección territorial de población centinela",
+              "D": "Continuidad/longitudinalidad del cuidado",
+              "E": "Accesibilidad geográfica exclusivamente"
+            },
+            "respuesta": "D",
+            "explicacion": "Se mantiene responsabilidad y relación clínica a lo largo del tiempo."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "APS: accesibilidad, continuidad, coordinación e integralidad",
+          "eje": "Atención primaria de salud y MCI",
+          "confiabilidad": "clave_resaltada_con_matiz_de_interpretacion",
+          "respuesta_resumida": "D. Accesibilidad y continuidad del cuidado. Ampliar horarios y realizar visitas domiciliarias reducen barreras de acceso; sostener acciones para responder a necesidades de la población favorece continuidad de cuidados.",
+          "razonamiento": [
+            "El líder del equipo implementa visitas al domicilio, extensión del horario institucional y coordinación de acciones según necesidades, dentro del MCI. El horario ampliado y la atención extramural son formas directas de mejorar accesibilidad (geográfica, organizativa y temporal). La continuidad se reconoce por el compromiso persistente de cuidado y seguimiento, aunque el enunciado NO describe explícitamente controles longitudinales; por eso la inferencia tiene un grado de ambigüedad. La opción C, «coordinación e integralidad», resulta también plausible por las expresiones coordinar acciones y cuidado integral, pero la clave resaltada es D. En examen, identifica la asociación acceso ampliado + cuidado sostenido, y en la práctica no confundas coordinación de actividades con continuidad longitudinal."
+          ],
+          "temario": [
+            "Atributos OMS de atención primaria: acceso en primer contacto, continuidad, coordinación, integralidad y enfoque centrado en la persona. Son complementarios, no intercambiables.",
+            "Accesibilidad: eliminación de obstáculos de horario, distancia, costo, idioma, discapacidad o trámites. Extender horarios y realizar visitas puede fortalecer el acceso.",
+            "Primer contacto: capacidad del servicio de ser entrada habitual y oportuna cuando surge una necesidad de salud nueva; ser el primer nivel no lo asegura por sí solo.",
+            "Continuidad/longitudinalidad: relación asistencial sostenida, responsabilidad de seguimiento y transición segura entre episodios o servicios; no se deduce únicamente de visitar una vivienda una vez.",
+            "Coordinación: enlace entre profesionales, establecimientos y sectores para que las acciones no se fragmenten, incluida referencia y contrarreferencia.",
+            "Integralidad: cartera que responde al espectro de necesidades, promoción, prevención, diagnóstico, tratamiento, rehabilitación y paliativos conforme a competencia y articulación.",
+            "MCI peruano: RM N.° 030-2020-MINSA y manual RM N.° 220-2021-MINSA; cuidado centrado en persona, familia, comunidad y curso de vida.",
+            "Resolución del ítem: asociar «ampliación de horarios y visitas» a accesibilidad; el mantenimiento del cuidado ajustado a necesidades favorece continuidad. Advertir que coordinación e integralidad también están presentes en la redacción.",
+            "Evaluación de servicios: medir oportunidad de primera cita, abandonos y seguimiento, registros compartidos, satisfacción y resultados para valorar si las medidas realmente mejoran los atributos."
+          ],
+          "distractores": {
+            "A": "La formación profesional no se menciona; aunque la continuidad importa, el par propuesto tiene un componente sin sustento directo.",
+            "B": "Primer contacto y accesibilidad reflejan parcialmente el horario y las visitas, pero el caso también intenta representar seguimiento de necesidades a lo largo del tiempo.",
+            "C": "Coordinación e integralidad son conceptos realmente sugeridos por la redacción; constituyen una alternativa plausible, lo que resta precisión discriminativa al ítem.",
+            "D": "Clave resaltada: accesibilidad se manifiesta en horarios y desplazamiento al domicilio; continuidad se infiere de asegurar atención repetida y adecuada a necesidades."
+          },
+          "normativa": [
+            {
+              "nombre": "OMS — Primary Care Checklist (27/06/2025)",
+              "url": "https://www.who.int/publications/m/item/primary-care-checklist",
+              "aplicacion": "Funciones del primer nivel: primer contacto, accesibilidad, continuidad, coordinación, integralidad y atención centrada en personas"
+            },
+            {
+              "nombre": "OMS — Primary care: five core functions",
+              "url": "https://www.who.int/teams/integrated-health-services/clinical-services-and-systems/primary-care",
+              "aplicacion": "Diferencia entre accesibilidad, continuidad, coordinación e integralidad"
+            },
+            {
+              "nombre": "MINSA — RM N.° 030-2020-MINSA",
+              "url": "https://www.gob.pe/institucion/minsa/normas-legales/414755-030-2020-minsa",
+              "aplicacion": "Modelo de cuidado integral por curso de vida para persona, familia y comunidad"
+            },
+            {
+              "nombre": "MINSA — RM N.° 220-2021-MINSA",
+              "url": "https://www.gob.pe/institucion/minsa/normas-legales/1682527-220-2021-minsa",
+              "aplicacion": "Manual de implementación del MCI"
+            }
+          ],
+          "mnemotecnia": "APS 5C: Contacto (acceso), Continuidad, Coordinación, Comprehensividad/integralidad, Centrada en la persona.",
+          "trampas": [
+            "Visita única ≠ continuidad demostrada; se necesita seguimiento longitudinal.",
+            "Coordinar acciones no demuestra por sí solo integralidad de servicios, pero puede apoyarla.",
+            "Accesibilidad incluye horario y desplazamiento: no solo cercanía en kilómetros.",
+            "La pregunta presenta dos pares defendibles (C y D) si se interpretan distintos verbos; conservar la clave histórica y razonar los atributos por separado."
+          ],
+          "perla": "P45 clave PDF D: HORARIOS + DOMICILIO → ACCESO; SEGUIMIENTO SOSTENIDO → CONTINUIDAD. Hay solapamiento con C (coordinación e integralidad).",
+          "repaso_activo": [
+            "¿Qué atributo mejora un EESS al ampliar horarios? — Accesibilidad.",
+            "¿Qué atributo exige una relación de seguimiento en el tiempo? — Continuidad o longitudinalidad.",
+            "¿Qué distingue coordinación? — Enlace entre servicios, equipos y niveles de atención.",
+            "¿Qué describe integralidad? — Respuesta al conjunto de necesidades de salud a lo largo del curso de vida."
+          ],
+          "refuerzo": [
+            {
+              "enunciado": "Un centro de salud abre turnos vespertinos para trabajadores y ofrece atención itinerante en anexos rurales. ¿Qué atributo intenta fortalecer de manera directa?",
+              "alternativas": {
+                "A": "Accesibilidad del primer contacto",
+                "B": "Continuidad longitudinal documentada",
+                "C": "Integralidad de la cartera especializada",
+                "D": "Coordinación de la contrarreferencia",
+                "E": "Formación clínica del equipo interdisciplinario"
+              },
+              "respuesta": "A",
+              "explicacion": "Horarios y territorio reducen barreras temporales y geográficas de acceso."
+            },
+            {
+              "enunciado": "Una paciente con hipertensión es vista durante cinco años por su mismo equipo, que registra controles, contacta tras ausencias y ajusta su plan longitudinalmente. ¿Qué atributo predomina?",
+              "alternativas": {
+                "A": "Primer contacto por derivación hospitalaria",
+                "B": "Integralidad de tecnologías diagnósticas",
+                "C": "Selección territorial de población centinela",
+                "D": "Continuidad/longitudinalidad del cuidado",
+                "E": "Accesibilidad geográfica exclusivamente"
+              },
+              "respuesta": "D",
+              "explicacion": "Se mantiene responsabilidad y relación clínica a lo largo del tiempo."
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
