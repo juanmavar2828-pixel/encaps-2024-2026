@@ -3,7 +3,7 @@
   "bankId": "ENCAPS_2026_I",
   "title": "ENCAPS 2026-I · Medicina Humana",
   "source": "Examen SERUMS Medicina 19 abril 2026 · claves resaltadas en PDF del usuario",
-  "questionCount": 95,
+  "questionCount": 100,
   "questions": [
     {
       "number": 1,
@@ -8729,6 +8729,483 @@
             },
             "respuesta": "B",
             "explicacion": "El tratamiento de anemia se determina por norma y evaluación, no por pauta preventiva aislada."
+          }
+        ]
+      }
+    },
+    {
+      "number": 96,
+      "code": "ENCAPS26-I P96",
+      "course": "ENCAPS Medicina 2026-I",
+      "topic": "UPSS, consulta externa y cartera de servicios de salud",
+      "question": "En un establecimiento de salud I-4, un ejemplo de UPSS podría considerarse al servicio de …",
+      "options": {
+        "A": "epidemiología.",
+        "B": "pediatría.",
+        "C": "gestión de investigación.",
+        "D": "docencia."
+      },
+      "correct": "B",
+      "comment": "RESPUESTA RAZONADA (COTEJO DE CLAVE OFICIAL PENDIENTE): B. pediatría.\n\nRAZONAMIENTO\n\nLa opción esperada es pediatría, por constituir atención clínica que puede organizarse dentro de la UPSS Consulta Externa. Precisión importante: la UPSS formalmente suele denominarse Consulta Externa, no 'Pediatría'; esta puede ser una especialidad o consultorio dentro de la UPSS, según categorización y cartera habilitada. El ítem presenta imprecisión terminológica.\n\nDESARROLLO EXTENSO DEL TEMARIO\n\n1. UPSS significa Unidad Productora de Servicios de Salud; es una unidad funcional organizada para producir prestaciones sanitarias.\n\n2. La categorización I-1 a I-4 describe capacidades del primer nivel y servicios autorizados, no obliga a todas las IPRESS a disponer de igual número de especialistas.\n\n3. Consulta externa es una UPSS asistencial y puede comprender consultas de medicina general, pediatría u otras especialidades, de acuerdo con habilitación.\n\n4. El servicio o consultorio de pediatría presta atención de lactantes, niñas, niños y adolescentes, y puede estar incluido dentro de consulta externa.\n\n5. Diferenciar UPSS de unidad administrativa: epidemiología puede realizar vigilancia y gestión; docencia e investigación son funciones de soporte o académicas.\n\n6. La organización formal se consulta en categorización, cartera de servicios y documentos de organización vigentes de la IPRESS.\n\n7. Las UPSS de mayor complejidad pueden incluir hospitalización, emergencia, centro quirúrgico, diagnóstico y tratamiento, según nivel.\n\n8. Las actividades de gestión clínica y soporte son necesarias, pero no equivalen necesariamente a UPSS asistenciales.\n\n9. Preguntar en examen qué opción representa prestación clínica directa; 'pediatría' es la única entre cuatro.\n\n10. Seguridad del paciente exige que el profesional, instalaciones y equipamiento correspondan a prestaciones habilitadas.\n\n11. No equiparar especialidad con IPRESS: pediatría puede prestarse ambulatoriamente y no implica hospital pediátrico.\n\n12. La respuesta académica se conserva con advertencia: el nombre formal de UPSS pertinente es Consulta Externa.\n\nANÁLISIS DE ALTERNATIVAS\n\nA) Epidemiología apoya vigilancia, análisis y respuesta de salud pública, pero no es la prestación clínica directa del listado.\n\nB) Pediatría es la opción asistencial adecuada, aunque formalmente puede integrarse en la UPSS Consulta Externa.\n\nC) Gestión de investigación es función de apoyo, no UPSS asistencial correspondiente.\n\nD) Docencia tiene funciones formativas, no constituye la respuesta a cartera clínica del ítem.\n\nNORMATIVA\n\nMINSA: Norma técnica de categorías de establecimientos de salud del sector salud.\n\nMINSA: definiciones de UPSS y Consulta Externa; revisar cartera y categorización vigente.\n\nTRAMPAS DE EXAMEN\n\nPediatría no siempre es el nombre jurídico de una UPSS; consulta externa sí puede serlo.\n\nUn I-4 no necesariamente cuenta con pediatra especialista: revisar cartera aprobada.\n\nMNEMOTECNIA\n\nUPSS ASISTENCIAL = PRODUCE ATENCIONES; PEDIATRÍA ES SERVICIO DENTRO DE CONSULTA EXTERNA.\n\nREPASO ACTIVO\n\n¿Qué pista define la respuesta?: La opción esperada es pediatría, por constituir atención clínica que puede organizarse dentro de la UPSS Consulta Externa. Precisión importante: la UPSS formalmente suele denominarse Consulta Externa, no 'Pediatría'; esta puede ser una especialidad o consultorio dentro de la UPSS, según categorización y cartera habilitada. El ítem presenta imprecisión terminológica.\n\n¿Qué detalle diferencial recordar?: Pediatría no siempre es el nombre jurídico de una UPSS; consulta externa sí puede serlo.\n\n¿Cómo memorizar?: UPSS ASISTENCIAL = PRODUCE ATENCIONES; PEDIATRÍA ES SERVICIO DENTRO DE CONSULTA EXTERNA.\n\nDOS CASOS CON EXPLICACIÓN\n\nUna IPRESS organiza consultorios de medicina y pediatría que brindan citas ambulatorias. ¿UPSS formal predominante?\nA) Epidemiología\nB) Administración\nC) Docencia\nD) Consulta Externa\nE) Auditoría\nClave: D. Las consultas ambulatorias se ubican en la UPSS Consulta Externa.\n\nEn un organigrama figura un equipo de vigilancia epidemiológica. ¿Cómo se distingue respecto de consulta externa?\nA) Realiza prioritariamente vigilancia y soporte de salud pública\nB) Es necesariamente hospitalización\nC) Siempre opera quirófano\nD) Sustituye todas las atenciones\nE) Equivale automáticamente a pediatría\nClave: A. Epidemiología tiene finalidad de vigilancia y análisis poblacional.",
+      "pearl": "UPSS ASISTENCIAL = PRODUCE ATENCIONES; PEDIATRÍA ES SERVICIO DENTRO DE CONSULTA EXTERNA.",
+      "keywords": [],
+      "estadoDesarrollo": "completo",
+      "estadoClave": "razonada_pendiente_cotejo_oficial",
+      "lesson": {
+        "respuesta_resumida": "B. pediatría.",
+        "razonamiento": "La opción esperada es pediatría, por constituir atención clínica que puede organizarse dentro de la UPSS Consulta Externa. Precisión importante: la UPSS formalmente suele denominarse Consulta Externa, no 'Pediatría'; esta puede ser una especialidad o consultorio dentro de la UPSS, según categorización y cartera habilitada. El ítem presenta imprecisión terminológica.",
+        "temario": [
+          "UPSS significa Unidad Productora de Servicios de Salud; es una unidad funcional organizada para producir prestaciones sanitarias.",
+          "La categorización I-1 a I-4 describe capacidades del primer nivel y servicios autorizados, no obliga a todas las IPRESS a disponer de igual número de especialistas.",
+          "Consulta externa es una UPSS asistencial y puede comprender consultas de medicina general, pediatría u otras especialidades, de acuerdo con habilitación.",
+          "El servicio o consultorio de pediatría presta atención de lactantes, niñas, niños y adolescentes, y puede estar incluido dentro de consulta externa.",
+          "Diferenciar UPSS de unidad administrativa: epidemiología puede realizar vigilancia y gestión; docencia e investigación son funciones de soporte o académicas.",
+          "La organización formal se consulta en categorización, cartera de servicios y documentos de organización vigentes de la IPRESS.",
+          "Las UPSS de mayor complejidad pueden incluir hospitalización, emergencia, centro quirúrgico, diagnóstico y tratamiento, según nivel.",
+          "Las actividades de gestión clínica y soporte son necesarias, pero no equivalen necesariamente a UPSS asistenciales.",
+          "Preguntar en examen qué opción representa prestación clínica directa; 'pediatría' es la única entre cuatro.",
+          "Seguridad del paciente exige que el profesional, instalaciones y equipamiento correspondan a prestaciones habilitadas.",
+          "No equiparar especialidad con IPRESS: pediatría puede prestarse ambulatoriamente y no implica hospital pediátrico.",
+          "La respuesta académica se conserva con advertencia: el nombre formal de UPSS pertinente es Consulta Externa."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Epidemiología apoya vigilancia, análisis y respuesta de salud pública, pero no es la prestación clínica directa del listado.",
+          "B": "Pediatría es la opción asistencial adecuada, aunque formalmente puede integrarse en la UPSS Consulta Externa.",
+          "C": "Gestión de investigación es función de apoyo, no UPSS asistencial correspondiente.",
+          "D": "Docencia tiene funciones formativas, no constituye la respuesta a cartera clínica del ítem."
+        },
+        "normativa": [
+          "MINSA: Norma técnica de categorías de establecimientos de salud del sector salud.",
+          "MINSA: definiciones de UPSS y Consulta Externa; revisar cartera y categorización vigente."
+        ],
+        "mnemotecnia": "UPSS ASISTENCIAL = PRODUCE ATENCIONES; PEDIATRÍA ES SERVICIO DENTRO DE CONSULTA EXTERNA.",
+        "trampas": [
+          "Pediatría no siempre es el nombre jurídico de una UPSS; consulta externa sí puede serlo.",
+          "Un I-4 no necesariamente cuenta con pediatra especialista: revisar cartera aprobada."
+        ],
+        "perla": "UPSS ASISTENCIAL = PRODUCE ATENCIONES; PEDIATRÍA ES SERVICIO DENTRO DE CONSULTA EXTERNA.",
+        "repaso_activo": [
+          {
+            "pregunta": "¿Qué pista define la respuesta?",
+            "respuesta": "La opción esperada es pediatría, por constituir atención clínica que puede organizarse dentro de la UPSS Consulta Externa. Precisión importante: la UPSS formalmente suele denominarse Consulta Externa, no 'Pediatría'; esta puede ser una especialidad o consultorio dentro de la UPSS, según categorización y cartera habilitada. El ítem presenta imprecisión terminológica."
+          },
+          {
+            "pregunta": "¿Qué detalle diferencial recordar?",
+            "respuesta": "Pediatría no siempre es el nombre jurídico de una UPSS; consulta externa sí puede serlo."
+          },
+          {
+            "pregunta": "¿Cómo memorizar?",
+            "respuesta": "UPSS ASISTENCIAL = PRODUCE ATENCIONES; PEDIATRÍA ES SERVICIO DENTRO DE CONSULTA EXTERNA."
+          }
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Una IPRESS organiza consultorios de medicina y pediatría que brindan citas ambulatorias. ¿UPSS formal predominante?",
+            "alternativas": {
+              "A": "Epidemiología",
+              "B": "Administración",
+              "C": "Docencia",
+              "D": "Consulta Externa",
+              "E": "Auditoría"
+            },
+            "respuesta": "D",
+            "explicacion": "Las consultas ambulatorias se ubican en la UPSS Consulta Externa."
+          },
+          {
+            "enunciado": "En un organigrama figura un equipo de vigilancia epidemiológica. ¿Cómo se distingue respecto de consulta externa?",
+            "alternativas": {
+              "A": "Realiza prioritariamente vigilancia y soporte de salud pública",
+              "B": "Es necesariamente hospitalización",
+              "C": "Siempre opera quirófano",
+              "D": "Sustituye todas las atenciones",
+              "E": "Equivale automáticamente a pediatría"
+            },
+            "respuesta": "A",
+            "explicacion": "Epidemiología tiene finalidad de vigilancia y análisis poblacional."
+          }
+        ]
+      }
+    },
+    {
+      "number": 97,
+      "code": "ENCAPS26-I P97",
+      "course": "ENCAPS Medicina 2026-I",
+      "topic": "Enterobius vermicularis y prueba de Graham: diagnóstico de oxiuriasis",
+      "question": "Durante la visita del equipo multidisciplinario a la comunidad de un sector sanitario, se brindan actividades incluidas en el paquete de cuidado integral. Se sabe que en la localidad visitada consume agua no potable por lo cual se solicita el test de Graham. ¿Qué probable enfermedad se pretende descartar?",
+      "options": {
+        "A": "Amebiasis",
+        "B": "Salmonelosis",
+        "C": "Disentería",
+        "D": "Oxiuriasis"
+      },
+      "correct": "D",
+      "comment": "RESPUESTA RAZONADA (COTEJO DE CLAVE OFICIAL PENDIENTE): D. Oxiuriasis\n\nRAZONAMIENTO\n\nLa prueba de Graham (cinta adhesiva perianal) identifica huevos de Enterobius vermicularis y sirve para investigar oxiuriasis. El dato de consumo de agua no potable funciona como distractor: la transmisión principal de oxiuros es fecal-oral mediante huevos en manos y objetos, con autoinfección, no se diagnostica por coproparasitológico simple ni por el origen del agua.\n\nDESARROLLO EXTENSO DEL TEMARIO\n\n1. Enterobius vermicularis es nematodo intestinal humano que produce oxiuriasis o enterobiasis, común en niños.\n\n2. La hembra adulta migra a zona perianal, frecuentemente de noche, y deposita huevos; causa prurito anal nocturno.\n\n3. La exposición puede ocurrir por ingestión de huevos infectantes depositados en manos, uñas, ropa de cama u objetos.\n\n4. La autoinfección sucede al rascarse región anal y llevar huevos a la boca; puede perpetuar transmisión familiar.\n\n5. La prueba de Graham utiliza cinta adhesiva transparente aplicada en pliegues perianales por la mañana antes de baño o defecación.\n\n6. Conviene obtener muestras en mañanas consecutivas si la primera es negativa, para aumentar sensibilidad.\n\n7. La microscopia evidencia huevos característicos; los huevos no se detectan de forma confiable mediante examen coproparasitológico convencional.\n\n8. Prurito nocturno, excoriaciones, alteraciones del sueño y ocasional vulvovaginitis pueden orientar sospecha.\n\n9. Tratamiento antiparasitario, cuando indicado y según edad y contraindicaciones, puede incluir albendazol, mebendazol o pamoato de pirantel, habitualmente con repetición a las dos semanas para huevos remanentes.\n\n10. Evaluar y tratar convivientes cuando el protocolo lo indique, además de higiene de manos y corte de uñas.\n\n11. Lavar ropa de cama y prendas, reducir rascado y limpiar superficies contribuye a evitar reinfección.\n\n12. La amebiasis por Entamoeba histolytica puede provocar disentería y se investiga con otros métodos coprológicos o antígenos/PCR.\n\n13. Salmonelosis es infección bacteriana entérica, no se pesquisa con cinta perianal.\n\n14. La disentería es síndrome de diarrea sanguinolenta e inflamación colónica, no un parásito específico.\n\n15. El acceso a agua segura es fundamental, pero no reemplaza identificar el método diagnóstico concreto que nombra el ítem.\n\nANÁLISIS DE ALTERNATIVAS\n\nA) Amebiasis no es la indicación de la cinta perianal; se requieren técnicas apropiadas para Entamoeba.\n\nB) Salmonelosis se identifica por enfoque bacteriológico clínico, no test de Graham.\n\nC) Disentería es síndrome clínico que puede tener distintas etiologías.\n\nD) Oxiuriasis por Enterobius vermicularis es la enfermedad investigada por prueba de Graham.\n\nNORMATIVA\n\nCDC: Enterobiasis — diagnóstico mediante prueba de cinta adhesiva.\n\nMINSA: documentos de parasitosis intestinal y medidas preventivas en atención primaria.\n\nTRAMPAS DE EXAMEN\n\nAgua no potable distrae; Graham identifica huevos de oxiuros.\n\nUn examen de heces negativo no descarta oxiuriasis.\n\nMNEMOTECNIA\n\nGRAHAM = CINTA EN GLÚTEOS = ENTEROBIUS.\n\nREPASO ACTIVO\n\n¿Qué pista define la respuesta?: La prueba de Graham (cinta adhesiva perianal) identifica huevos de Enterobius vermicularis y sirve para investigar oxiuriasis. El dato de consumo de agua no potable funciona como distractor: la transmisión principal de oxiuros es fecal-oral mediante huevos en manos y objetos, con autoinfección, no se diagnostica por coproparasitológico simple ni por el origen del agua.\n\n¿Qué detalle diferencial recordar?: Agua no potable distrae; Graham identifica huevos de oxiuros.\n\n¿Cómo memorizar?: GRAHAM = CINTA EN GLÚTEOS = ENTEROBIUS.\n\nDOS CASOS CON EXPLICACIÓN\n\nEscolar con prurito perianal nocturno y familiares con igual síntoma. ¿Muestra preferente?\nA) Hemocultivo\nB) Esputo\nC) Cinta adhesiva perianal matutina\nD) Orina\nE) Serología VIH\nClave: C. La prueba de Graham es el estudio indicado.\n\nUna niña tiene un Graham negativo, pero sospecha clínica alta. ¿Acción razonable?\nA) Descartar siempre\nB) Dar antibióticos\nC) Solicitar colonoscopia inmediata\nD) Suspender higiene\nE) Repetir recolección matutina en días consecutivos\nClave: E. Muestras seriadas incrementan rendimiento diagnóstico.",
+      "pearl": "GRAHAM = CINTA EN GLÚTEOS = ENTEROBIUS.",
+      "keywords": [],
+      "estadoDesarrollo": "completo",
+      "estadoClave": "razonada_pendiente_cotejo_oficial",
+      "lesson": {
+        "respuesta_resumida": "D. Oxiuriasis",
+        "razonamiento": "La prueba de Graham (cinta adhesiva perianal) identifica huevos de Enterobius vermicularis y sirve para investigar oxiuriasis. El dato de consumo de agua no potable funciona como distractor: la transmisión principal de oxiuros es fecal-oral mediante huevos en manos y objetos, con autoinfección, no se diagnostica por coproparasitológico simple ni por el origen del agua.",
+        "temario": [
+          "Enterobius vermicularis es nematodo intestinal humano que produce oxiuriasis o enterobiasis, común en niños.",
+          "La hembra adulta migra a zona perianal, frecuentemente de noche, y deposita huevos; causa prurito anal nocturno.",
+          "La exposición puede ocurrir por ingestión de huevos infectantes depositados en manos, uñas, ropa de cama u objetos.",
+          "La autoinfección sucede al rascarse región anal y llevar huevos a la boca; puede perpetuar transmisión familiar.",
+          "La prueba de Graham utiliza cinta adhesiva transparente aplicada en pliegues perianales por la mañana antes de baño o defecación.",
+          "Conviene obtener muestras en mañanas consecutivas si la primera es negativa, para aumentar sensibilidad.",
+          "La microscopia evidencia huevos característicos; los huevos no se detectan de forma confiable mediante examen coproparasitológico convencional.",
+          "Prurito nocturno, excoriaciones, alteraciones del sueño y ocasional vulvovaginitis pueden orientar sospecha.",
+          "Tratamiento antiparasitario, cuando indicado y según edad y contraindicaciones, puede incluir albendazol, mebendazol o pamoato de pirantel, habitualmente con repetición a las dos semanas para huevos remanentes.",
+          "Evaluar y tratar convivientes cuando el protocolo lo indique, además de higiene de manos y corte de uñas.",
+          "Lavar ropa de cama y prendas, reducir rascado y limpiar superficies contribuye a evitar reinfección.",
+          "La amebiasis por Entamoeba histolytica puede provocar disentería y se investiga con otros métodos coprológicos o antígenos/PCR.",
+          "Salmonelosis es infección bacteriana entérica, no se pesquisa con cinta perianal.",
+          "La disentería es síndrome de diarrea sanguinolenta e inflamación colónica, no un parásito específico.",
+          "El acceso a agua segura es fundamental, pero no reemplaza identificar el método diagnóstico concreto que nombra el ítem."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Amebiasis no es la indicación de la cinta perianal; se requieren técnicas apropiadas para Entamoeba.",
+          "B": "Salmonelosis se identifica por enfoque bacteriológico clínico, no test de Graham.",
+          "C": "Disentería es síndrome clínico que puede tener distintas etiologías.",
+          "D": "Oxiuriasis por Enterobius vermicularis es la enfermedad investigada por prueba de Graham."
+        },
+        "normativa": [
+          "CDC: Enterobiasis — diagnóstico mediante prueba de cinta adhesiva.",
+          "MINSA: documentos de parasitosis intestinal y medidas preventivas en atención primaria."
+        ],
+        "mnemotecnia": "GRAHAM = CINTA EN GLÚTEOS = ENTEROBIUS.",
+        "trampas": [
+          "Agua no potable distrae; Graham identifica huevos de oxiuros.",
+          "Un examen de heces negativo no descarta oxiuriasis."
+        ],
+        "perla": "GRAHAM = CINTA EN GLÚTEOS = ENTEROBIUS.",
+        "repaso_activo": [
+          {
+            "pregunta": "¿Qué pista define la respuesta?",
+            "respuesta": "La prueba de Graham (cinta adhesiva perianal) identifica huevos de Enterobius vermicularis y sirve para investigar oxiuriasis. El dato de consumo de agua no potable funciona como distractor: la transmisión principal de oxiuros es fecal-oral mediante huevos en manos y objetos, con autoinfección, no se diagnostica por coproparasitológico simple ni por el origen del agua."
+          },
+          {
+            "pregunta": "¿Qué detalle diferencial recordar?",
+            "respuesta": "Agua no potable distrae; Graham identifica huevos de oxiuros."
+          },
+          {
+            "pregunta": "¿Cómo memorizar?",
+            "respuesta": "GRAHAM = CINTA EN GLÚTEOS = ENTEROBIUS."
+          }
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Escolar con prurito perianal nocturno y familiares con igual síntoma. ¿Muestra preferente?",
+            "alternativas": {
+              "A": "Hemocultivo",
+              "B": "Esputo",
+              "C": "Cinta adhesiva perianal matutina",
+              "D": "Orina",
+              "E": "Serología VIH"
+            },
+            "respuesta": "C",
+            "explicacion": "La prueba de Graham es el estudio indicado."
+          },
+          {
+            "enunciado": "Una niña tiene un Graham negativo, pero sospecha clínica alta. ¿Acción razonable?",
+            "alternativas": {
+              "A": "Descartar siempre",
+              "B": "Dar antibióticos",
+              "C": "Solicitar colonoscopia inmediata",
+              "D": "Suspender higiene",
+              "E": "Repetir recolección matutina en días consecutivos"
+            },
+            "respuesta": "E",
+            "explicacion": "Muestras seriadas incrementan rendimiento diagnóstico."
+          }
+        ]
+      }
+    },
+    {
+      "number": 98,
+      "code": "ENCAPS26-I P98",
+      "course": "ENCAPS Medicina 2026-I",
+      "topic": "Riesgo relativo: medidas de asociación y distinción de causalidad",
+      "question": "Un estudio de investigación realizado en una población aledaña a su centro de salud, reporta que los niños cuya familia es monoparental tiene el doble de riesgo de presentar anemia (RR=2.0), respecto a aquellos con familia biparental. ¿Cuál es el tipo de medida epidemiológica a la que se hace referencia?",
+      "options": {
+        "A": "Impacto",
+        "B": "Asociación",
+        "C": "Mortalidad",
+        "D": "Frecuencia"
+      },
+      "correct": "B",
+      "comment": "RESPUESTA RAZONADA (COTEJO DE CLAVE OFICIAL PENDIENTE): B. Asociación\n\nRAZONAMIENTO\n\nRR=2.0 es una medida de asociación: el riesgo estimado en el grupo expuesto es el doble del riesgo del grupo de comparación. No mide frecuencia absoluta ni mortalidad. La asociación observada no demuestra que la estructura familiar cause anemia; pueden existir confusión por ingresos, alimentación, entorno o acceso a salud.\n\nDESARROLLO EXTENSO DEL TEMARIO\n\n1. Riesgo relativo (RR) se define como riesgo del desenlace en expuestos dividido por riesgo en no expuestos.\n\n2. Riesgo puede calcularse como casos nuevos entre personas inicialmente libres del desenlace durante periodo establecido.\n\n3. RR = 1 indica igualdad de riesgo; RR > 1 sugiere asociación positiva; RR < 1 sugiere asociación protectora.\n\n4. RR = 2 significa riesgo doble en grupo expuesto en comparación con no expuesto, no significa que el 200 % de niños esté anémico.\n\n5. Ejemplo: riesgo 20/100 frente a 10/100 produce RR=(0,20)/(0,10)=2.\n\n6. Medida de asociación no equivale a medida de impacto: reducción absoluta del riesgo, riesgo atribuible y número necesario a tratar son otros indicadores.\n\n7. RR tampoco equivale a odds ratio (OR); cuando el desenlace no es raro, OR y RR pueden diferir significativamente.\n\n8. En estudios de cohortes y ensayos puede estimarse RR; en casos y controles clásicos se utiliza OR por diseño.\n\n9. Interpretar intervalo de confianza y precisión: un RR 2 con IC95 % que incluye 1 puede no ser estadísticamente concluyente.\n\n10. Confusión: nivel socioeconómico, inseguridad alimentaria, acceso sanitario, escolaridad u otras variables podrían explicar parte de asociación.\n\n11. Sesgos de selección y medición pueden alterar estimación; no atribuir automáticamente causalidad por asociación estadística.\n\n12. La noción de familia monoparental no es diagnóstico ni rasgo causal intrínseco; evitar estigmatización y explorar condiciones modificables.\n\n13. Las medidas de frecuencia incluyen incidencia y prevalencia; mortalidad mide defunciones en población; asociación compara grupos.\n\n14. La interpretación práctica debe orientar intervenciones equitativas centradas en alimentación, seguimiento y acceso, no juicios sobre composición familiar.\n\nANÁLISIS DE ALTERNATIVAS\n\nA) Impacto mide carga atribuible o cambio absoluto en riesgo, diferente de razón comparativa entre grupos.\n\nB) Asociación: RR compara riesgos entre expuestos y no expuestos.\n\nC) Mortalidad contabiliza muerte, ajena al indicador reportado.\n\nD) Frecuencia describe incidencia/prevalencia sin comparación relativa necesariamente.\n\nNORMATIVA\n\nOPS: Epidemiología básica — medidas de frecuencia, asociación e impacto.\n\nSTROBE: reporte adecuado de estudios observacionales y evaluación de confusión.\n\nTRAMPAS DE EXAMEN\n\nRR 2 no significa probabilidad de 200 %.\n\nAsociación no demuestra causalidad ni justifica estigmatizar familias.\n\nMNEMOTECNIA\n\nRR = RIESGO EXPUESTOS / RIESGO NO EXPUESTOS; RR2 = DOBLE RIESGO.\n\nREPASO ACTIVO\n\n¿Qué pista define la respuesta?: RR=2.0 es una medida de asociación: el riesgo estimado en el grupo expuesto es el doble del riesgo del grupo de comparación. No mide frecuencia absoluta ni mortalidad. La asociación observada no demuestra que la estructura familiar cause anemia; pueden existir confusión por ingresos, alimentación, entorno o acceso a salud.\n\n¿Qué detalle diferencial recordar?: RR 2 no significa probabilidad de 200 %.\n\n¿Cómo memorizar?: RR = RIESGO EXPUESTOS / RIESGO NO EXPUESTOS; RR2 = DOBLE RIESGO.\n\nDOS CASOS CON EXPLICACIÓN\n\nEn expuestos enferman 30/150; en no expuestos 10/100. ¿Cuál es RR?\nA) 0,5\nB) 2,0\nC) 3,0\nD) 0,1\nE) 20\nClave: B. 0,20/0,10 = 2.\n\nEstudio observa RR 2 de anemia en hogares con menor ingreso y no ajusta covariables. ¿Riesgo interpretativo?\nA) Causalidad demostrada\nB) No hace falta medir ingresos\nC) RR es letalidad\nD) Confusión por factores socioeconómicos\nE) No existen sesgos\nClave: D. Variables comunes pueden influir en exposición y desenlace.",
+      "pearl": "RR = RIESGO EXPUESTOS / RIESGO NO EXPUESTOS; RR2 = DOBLE RIESGO.",
+      "keywords": [],
+      "estadoDesarrollo": "completo",
+      "estadoClave": "razonada_pendiente_cotejo_oficial",
+      "lesson": {
+        "respuesta_resumida": "B. Asociación",
+        "razonamiento": "RR=2.0 es una medida de asociación: el riesgo estimado en el grupo expuesto es el doble del riesgo del grupo de comparación. No mide frecuencia absoluta ni mortalidad. La asociación observada no demuestra que la estructura familiar cause anemia; pueden existir confusión por ingresos, alimentación, entorno o acceso a salud.",
+        "temario": [
+          "Riesgo relativo (RR) se define como riesgo del desenlace en expuestos dividido por riesgo en no expuestos.",
+          "Riesgo puede calcularse como casos nuevos entre personas inicialmente libres del desenlace durante periodo establecido.",
+          "RR = 1 indica igualdad de riesgo; RR > 1 sugiere asociación positiva; RR < 1 sugiere asociación protectora.",
+          "RR = 2 significa riesgo doble en grupo expuesto en comparación con no expuesto, no significa que el 200 % de niños esté anémico.",
+          "Ejemplo: riesgo 20/100 frente a 10/100 produce RR=(0,20)/(0,10)=2.",
+          "Medida de asociación no equivale a medida de impacto: reducción absoluta del riesgo, riesgo atribuible y número necesario a tratar son otros indicadores.",
+          "RR tampoco equivale a odds ratio (OR); cuando el desenlace no es raro, OR y RR pueden diferir significativamente.",
+          "En estudios de cohortes y ensayos puede estimarse RR; en casos y controles clásicos se utiliza OR por diseño.",
+          "Interpretar intervalo de confianza y precisión: un RR 2 con IC95 % que incluye 1 puede no ser estadísticamente concluyente.",
+          "Confusión: nivel socioeconómico, inseguridad alimentaria, acceso sanitario, escolaridad u otras variables podrían explicar parte de asociación.",
+          "Sesgos de selección y medición pueden alterar estimación; no atribuir automáticamente causalidad por asociación estadística.",
+          "La noción de familia monoparental no es diagnóstico ni rasgo causal intrínseco; evitar estigmatización y explorar condiciones modificables.",
+          "Las medidas de frecuencia incluyen incidencia y prevalencia; mortalidad mide defunciones en población; asociación compara grupos.",
+          "La interpretación práctica debe orientar intervenciones equitativas centradas en alimentación, seguimiento y acceso, no juicios sobre composición familiar."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Impacto mide carga atribuible o cambio absoluto en riesgo, diferente de razón comparativa entre grupos.",
+          "B": "Asociación: RR compara riesgos entre expuestos y no expuestos.",
+          "C": "Mortalidad contabiliza muerte, ajena al indicador reportado.",
+          "D": "Frecuencia describe incidencia/prevalencia sin comparación relativa necesariamente."
+        },
+        "normativa": [
+          "OPS: Epidemiología básica — medidas de frecuencia, asociación e impacto.",
+          "STROBE: reporte adecuado de estudios observacionales y evaluación de confusión."
+        ],
+        "mnemotecnia": "RR = RIESGO EXPUESTOS / RIESGO NO EXPUESTOS; RR2 = DOBLE RIESGO.",
+        "trampas": [
+          "RR 2 no significa probabilidad de 200 %.",
+          "Asociación no demuestra causalidad ni justifica estigmatizar familias."
+        ],
+        "perla": "RR = RIESGO EXPUESTOS / RIESGO NO EXPUESTOS; RR2 = DOBLE RIESGO.",
+        "repaso_activo": [
+          {
+            "pregunta": "¿Qué pista define la respuesta?",
+            "respuesta": "RR=2.0 es una medida de asociación: el riesgo estimado en el grupo expuesto es el doble del riesgo del grupo de comparación. No mide frecuencia absoluta ni mortalidad. La asociación observada no demuestra que la estructura familiar cause anemia; pueden existir confusión por ingresos, alimentación, entorno o acceso a salud."
+          },
+          {
+            "pregunta": "¿Qué detalle diferencial recordar?",
+            "respuesta": "RR 2 no significa probabilidad de 200 %."
+          },
+          {
+            "pregunta": "¿Cómo memorizar?",
+            "respuesta": "RR = RIESGO EXPUESTOS / RIESGO NO EXPUESTOS; RR2 = DOBLE RIESGO."
+          }
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "En expuestos enferman 30/150; en no expuestos 10/100. ¿Cuál es RR?",
+            "alternativas": {
+              "A": "0,5",
+              "B": "2,0",
+              "C": "3,0",
+              "D": "0,1",
+              "E": "20"
+            },
+            "respuesta": "B",
+            "explicacion": "0,20/0,10 = 2."
+          },
+          {
+            "enunciado": "Estudio observa RR 2 de anemia en hogares con menor ingreso y no ajusta covariables. ¿Riesgo interpretativo?",
+            "alternativas": {
+              "A": "Causalidad demostrada",
+              "B": "No hace falta medir ingresos",
+              "C": "RR es letalidad",
+              "D": "Confusión por factores socioeconómicos",
+              "E": "No existen sesgos"
+            },
+            "respuesta": "D",
+            "explicacion": "Variables comunes pueden influir en exposición y desenlace."
+          }
+        ]
+      }
+    },
+    {
+      "number": 99,
+      "code": "ENCAPS26-I P99",
+      "course": "ENCAPS Medicina 2026-I",
+      "topic": "Definición operativa de brote y diferencias frente a epidemia, pandemia y endemia",
+      "question": "En una comunidad se reportan dos o más casos de una misma enfermedad y están relacionados entre sí, el personal de salud según criterio epidemiológico identifica que es:",
+      "options": {
+        "A": "Endemia",
+        "B": "Epidemia",
+        "C": "Pandemia",
+        "D": "Brote"
+      },
+      "correct": "D",
+      "comment": "RESPUESTA RAZONADA (COTEJO DE CLAVE OFICIAL PENDIENTE): D. Brote\n\nRAZONAMIENTO\n\nLa agrupación de dos o más casos relacionados epidemiológicamente de un mismo evento, dentro de lugar y periodo definidos, es un criterio práctico de sospecha de brote para muchas enfermedades. La definición formal depende del evento: para enfermedades eliminadas o de notificación inmediata, un único caso puede activar una alerta. La clave del ítem es brote.\n\nDESARROLLO EXTENSO DEL TEMARIO\n\n1. Brote designa incremento o agrupación inusual de casos vinculados en tiempo, lugar y población, respecto de la expectativa.\n\n2. Dos casos relacionados pueden ser suficientes como umbral operativo en determinados eventos, pero no constituye regla universal para toda enfermedad.\n\n3. Una epidemia es ocurrencia de casos por encima de lo esperado a escala poblacional; la frontera terminológica con brote puede depender del tamaño y uso.\n\n4. Pandemia es epidemia extendida entre países o continentes con transmisión sostenida importante.\n\n5. Endemia es presencia habitual de enfermedad o agente en área geográfica determinada.\n\n6. Agrupación o clúster es proximidad temporal o espacial de casos; exige verificar si existe vínculo real o exceso respecto a expectativa.\n\n7. Confirmar diagnóstico y definición de caso antes de atribuir a una sola fuente.\n\n8. Describir evento por tiempo, lugar y persona, construir línea de casos y curva epidémica.\n\n9. Investigar exposición común, transmisión interpersonal, fuente ambiental o vector según cuadro clínico.\n\n10. Calcular tasas de ataque si hay población expuesta definida, comparando grupos.\n\n11. Implementar control temprano proporcional al riesgo, sin esperar identificación definitiva del agente.\n\n12. Notificación se rige por lista nacional de eventos e instrucciones para cada enfermedad.\n\n13. Distinguir brote de un aumento aparente por cambio en vigilancia, nueva prueba diagnóstica o crecimiento poblacional.\n\n14. La comunicación de riesgo debe equilibrar prontitud, claridad, incertidumbre y protección de datos.\n\nANÁLISIS DE ALTERNATIVAS\n\nA) Endemia es persistencia habitual, no agrupación vinculada fuera de la expectativa.\n\nB) Epidemia puede describir un exceso amplio de casos; el ítem utiliza el umbral práctico de conglomerado relacionado denominado brote.\n\nC) Pandemia implica expansión transnacional, no reportada.\n\nD) Brote corresponde al conjunto de casos relacionados en la comunidad.\n\nNORMATIVA\n\nCDC Perú: vigilancia epidemiológica, alertas y respuesta de brotes.\n\nOPS: metodología de investigación de brotes.\n\nTRAMPAS DE EXAMEN\n\nUn caso de enfermedad eliminada puede requerir investigación como evento excepcional.\n\nDos casos sin relación no demuestran fuente común.\n\nMNEMOTECNIA\n\nDOS O MÁS VINCULADOS → SOSPECHA DE BROTE (SEGÚN EVENTO).\n\nREPASO ACTIVO\n\n¿Qué pista define la respuesta?: La agrupación de dos o más casos relacionados epidemiológicamente de un mismo evento, dentro de lugar y periodo definidos, es un criterio práctico de sospecha de brote para muchas enfermedades. La definición formal depende del evento: para enfermedades eliminadas o de notificación inmediata, un único caso puede activar una alerta. La clave del ítem es brote.\n\n¿Qué detalle diferencial recordar?: Un caso de enfermedad eliminada puede requerir investigación como evento excepcional.\n\n¿Cómo memorizar?: DOS O MÁS VINCULADOS → SOSPECHA DE BROTE (SEGÚN EVENTO).\n\nDOS CASOS CON EXPLICACIÓN\n\nOcho escolares enferman tras compartir una misma comida. ¿Fenómeno a investigar?\nA) Brote\nB) Endemia\nC) Pandemia\nD) Mortalidad\nE) Enzootia\nClave: A. Hay conglomerado con exposición común.\n\nUna enfermedad permanece estable durante años en región determinada. ¿Patrón?\nA) Brote puntual\nB) Pandemia\nC) Endemia\nD) Epizootia\nE) Intoxicación aislada\nClave: C. Presencia habitual en territorio.",
+      "pearl": "DOS O MÁS VINCULADOS → SOSPECHA DE BROTE (SEGÚN EVENTO).",
+      "keywords": [],
+      "estadoDesarrollo": "completo",
+      "estadoClave": "razonada_pendiente_cotejo_oficial",
+      "lesson": {
+        "respuesta_resumida": "D. Brote",
+        "razonamiento": "La agrupación de dos o más casos relacionados epidemiológicamente de un mismo evento, dentro de lugar y periodo definidos, es un criterio práctico de sospecha de brote para muchas enfermedades. La definición formal depende del evento: para enfermedades eliminadas o de notificación inmediata, un único caso puede activar una alerta. La clave del ítem es brote.",
+        "temario": [
+          "Brote designa incremento o agrupación inusual de casos vinculados en tiempo, lugar y población, respecto de la expectativa.",
+          "Dos casos relacionados pueden ser suficientes como umbral operativo en determinados eventos, pero no constituye regla universal para toda enfermedad.",
+          "Una epidemia es ocurrencia de casos por encima de lo esperado a escala poblacional; la frontera terminológica con brote puede depender del tamaño y uso.",
+          "Pandemia es epidemia extendida entre países o continentes con transmisión sostenida importante.",
+          "Endemia es presencia habitual de enfermedad o agente en área geográfica determinada.",
+          "Agrupación o clúster es proximidad temporal o espacial de casos; exige verificar si existe vínculo real o exceso respecto a expectativa.",
+          "Confirmar diagnóstico y definición de caso antes de atribuir a una sola fuente.",
+          "Describir evento por tiempo, lugar y persona, construir línea de casos y curva epidémica.",
+          "Investigar exposición común, transmisión interpersonal, fuente ambiental o vector según cuadro clínico.",
+          "Calcular tasas de ataque si hay población expuesta definida, comparando grupos.",
+          "Implementar control temprano proporcional al riesgo, sin esperar identificación definitiva del agente.",
+          "Notificación se rige por lista nacional de eventos e instrucciones para cada enfermedad.",
+          "Distinguir brote de un aumento aparente por cambio en vigilancia, nueva prueba diagnóstica o crecimiento poblacional.",
+          "La comunicación de riesgo debe equilibrar prontitud, claridad, incertidumbre y protección de datos."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Endemia es persistencia habitual, no agrupación vinculada fuera de la expectativa.",
+          "B": "Epidemia puede describir un exceso amplio de casos; el ítem utiliza el umbral práctico de conglomerado relacionado denominado brote.",
+          "C": "Pandemia implica expansión transnacional, no reportada.",
+          "D": "Brote corresponde al conjunto de casos relacionados en la comunidad."
+        },
+        "normativa": [
+          "CDC Perú: vigilancia epidemiológica, alertas y respuesta de brotes.",
+          "OPS: metodología de investigación de brotes."
+        ],
+        "mnemotecnia": "DOS O MÁS VINCULADOS → SOSPECHA DE BROTE (SEGÚN EVENTO).",
+        "trampas": [
+          "Un caso de enfermedad eliminada puede requerir investigación como evento excepcional.",
+          "Dos casos sin relación no demuestran fuente común."
+        ],
+        "perla": "DOS O MÁS VINCULADOS → SOSPECHA DE BROTE (SEGÚN EVENTO).",
+        "repaso_activo": [
+          {
+            "pregunta": "¿Qué pista define la respuesta?",
+            "respuesta": "La agrupación de dos o más casos relacionados epidemiológicamente de un mismo evento, dentro de lugar y periodo definidos, es un criterio práctico de sospecha de brote para muchas enfermedades. La definición formal depende del evento: para enfermedades eliminadas o de notificación inmediata, un único caso puede activar una alerta. La clave del ítem es brote."
+          },
+          {
+            "pregunta": "¿Qué detalle diferencial recordar?",
+            "respuesta": "Un caso de enfermedad eliminada puede requerir investigación como evento excepcional."
+          },
+          {
+            "pregunta": "¿Cómo memorizar?",
+            "respuesta": "DOS O MÁS VINCULADOS → SOSPECHA DE BROTE (SEGÚN EVENTO)."
+          }
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Ocho escolares enferman tras compartir una misma comida. ¿Fenómeno a investigar?",
+            "alternativas": {
+              "A": "Brote",
+              "B": "Endemia",
+              "C": "Pandemia",
+              "D": "Mortalidad",
+              "E": "Enzootia"
+            },
+            "respuesta": "A",
+            "explicacion": "Hay conglomerado con exposición común."
+          },
+          {
+            "enunciado": "Una enfermedad permanece estable durante años en región determinada. ¿Patrón?",
+            "alternativas": {
+              "A": "Brote puntual",
+              "B": "Pandemia",
+              "C": "Endemia",
+              "D": "Epizootia",
+              "E": "Intoxicación aislada"
+            },
+            "respuesta": "C",
+            "explicacion": "Presencia habitual en territorio."
+          }
+        ]
+      }
+    },
+    {
+      "number": 100,
+      "code": "ENCAPS26-I P100",
+      "course": "ENCAPS Medicina 2026-I",
+      "topic": "Adolescente con relaciones sin preservativo: tamizaje de VIH, sífilis y hepatitis B, consentimiento y consejería",
+      "question": "Durante la evaluación de los cuidados integrales de un adolescente varón de 16 años, que vive solo con su hermana mayor de 20 años, identifica que ha iniciado relaciones sexuales hace 1 año, con 3 parejas sexuales de su misma edad, sin uso de preservativo, por lo que Ud. prescribe:",
+      "options": {
+        "A": "Consejería de salud sexual y reproductiva",
+        "B": "Prueba rápida de VIH, sífilis y hepatitis B",
+        "C": "Consejería en estilos de vida saludables",
+        "D": "Educación en I.E. sobre sexualidad saludable"
+      },
+      "correct": "B",
+      "comment": "RESPUESTA RAZONADA (COTEJO DE CLAVE OFICIAL PENDIENTE): B. Prueba rápida de VIH, sífilis y hepatitis B\n\nRAZONAMIENTO\n\nEl adolescente refiere exposiciones sexuales repetidas sin preservativo y múltiples parejas, por lo que debe ofrecerse evaluación individual y tamizaje de ITS, incluidas VIH, sífilis y hepatitis B según normas y disponibilidad. La opción B es la intervención más específica frente al riesgo descrito. La consejería sexual (A) también es indispensable y debe acompañar pruebas; no basta ofrecer pruebas sin educación, consentimiento, confidencialidad y seguimiento.\n\nDESARROLLO EXTENSO DEL TEMARIO\n\n1. La atención integral del adolescente incluye salud física, mental, nutricional, sexual, social y prevención de violencia.\n\n2. La entrevista debe ser confidencial, no enjuiciadora, adaptada a edad y comprensión, y explicar límites de confidencialidad por seguridad o normas.\n\n3. Explorar historia de exposiciones sexuales, uso de barreras, ITS anteriores, coerción, síntomas y vacunas sin suposiciones.\n\n4. El inicio de relaciones sexuales por sí solo no define enfermedad; se evalúan riesgos clínicos y necesidades expresadas.\n\n5. Pruebas de VIH y sífilis deben seguir algoritmo vigente y considerar periodo ventana; un resultado negativo demasiado temprano no descarta infección reciente.\n\n6. Tamizaje de hepatitis B puede incluir HBsAg y otros marcadores según indicación, vacunación previa y recursos; verificar esquema de inmunización.\n\n7. La oferta de tamizaje debe acompañarse de consentimiento informado, consejería pre/post prueba y enlace a tratamiento si corresponde.\n\n8. Orientar uso consistente y correcto de preservativo y métodos de prevención de ITS; valorar PEP ante exposición reciente que cumpla criterios y PrEP según elegibilidad.\n\n9. Ofrecer vacunas pertinentes como hepatitis B y VPH según edad y esquema nacional.\n\n10. Considerar riesgo de embarazo en parejas y educación anticonceptiva integral sin estereotipos.\n\n11. Explorar dinámicas de poder y posible violencia sexual; activar rutas de protección cuando se identifique coerción o abuso.\n\n12. La autonomía progresiva y marco peruano de derechos del adolescente orientan consentimiento, confidencialidad y participación de acompañantes.\n\n13. Vivir con hermana adulta no autoriza divulgar resultados clínicos sin razón legal ni consentimiento correspondiente.\n\n14. No realizar pruebas sin explicar qué se busca ni cómo se gestionarán hallazgos.\n\n15. La educación escolar es estrategia poblacional, pero no reemplaza atención individual al adolescente que consulta.\n\n16. Planificar seguimiento según resultados, ventana diagnóstica, necesidades psicosociales y disponibilidad comunitaria.\n\nANÁLISIS DE ALTERNATIVAS\n\nA) Consejería en salud sexual es esencial, pero frente a la exposición específica descrita el examen prioriza el tamizaje de ITS; ambas se complementan.\n\nB) Correcta como clave académica razonada: ofrecer pruebas de VIH, sífilis y hepatitis B con consejería y consentimiento.\n\nC) Consejería general en estilos de vida no responde específicamente al riesgo de ITS descrito.\n\nD) Educación escolar es actividad colectiva preventiva y no sustituye la atención individual.\n\nNORMATIVA\n\nMINSA: norma técnica de atención integral de salud del adolescente.\n\nMINSA: normativas vigentes de tamizaje de VIH, sífilis y hepatitis B y prevención combinada.\n\nOMS: servicios de salud sexual y reproductiva amigables para adolescentes.\n\nTRAMPAS DE EXAMEN\n\nLa alternativa A también es clínicamente apropiada, pero el ítem solicita respuesta específica de detección.\n\nUn resultado negativo precoz puede requerir repetición según periodo ventana.\n\nMNEMOTECNIA\n\nRELACIONES SIN BARRERA = TAMIZAR ITS + CONSEJERÍA + PREVENCIÓN + CONFIDENCIALIDAD.\n\nREPASO ACTIVO\n\n¿Qué pista define la respuesta?: El adolescente refiere exposiciones sexuales repetidas sin preservativo y múltiples parejas, por lo que debe ofrecerse evaluación individual y tamizaje de ITS, incluidas VIH, sífilis y hepatitis B según normas y disponibilidad. La opción B es la intervención más específica frente al riesgo descrito. La consejería sexual (A) también es indispensable y debe acompañar pruebas; no basta ofrecer pruebas sin educación, consentimiento, confidencialidad y seguimiento.\n\n¿Qué detalle diferencial recordar?: La alternativa A también es clínicamente apropiada, pero el ítem solicita respuesta específica de detección.\n\n¿Cómo memorizar?: RELACIONES SIN BARRERA = TAMIZAR ITS + CONSEJERÍA + PREVENCIÓN + CONFIDENCIALIDAD.\n\nDOS CASOS CON EXPLICACIÓN\n\nAdolescente de 16 años consulta tras múltiples relaciones sin preservativo. ¿Oferta integral apropiada?\nA) Solo regaño\nB) Informar resultados públicamente\nC) Pruebas de ITS, consejería y plan preventivo\nD) Ninguna intervención\nE) Esperar síntomas obligatoriamente\nClave: C. La prevención individual combina tamizaje, educación y seguimiento.\n\nUn adolescente presenta prueba VIH negativa pocos días después de una exposición. ¿Qué explicación corresponde?\nA) Nunca puede infectarse\nB) Prueba elimina toda posibilidad\nC) No hace falta seguimiento\nD) Hay periodo ventana y se evalúa repetición según prueba y exposición\nE) Se informa a todos los familiares\nClave: D. La negatividad muy temprana puede no descartar adquisición reciente.",
+      "pearl": "RELACIONES SIN BARRERA = TAMIZAR ITS + CONSEJERÍA + PREVENCIÓN + CONFIDENCIALIDAD.",
+      "keywords": [],
+      "estadoDesarrollo": "completo",
+      "estadoClave": "razonada_pendiente_cotejo_oficial",
+      "lesson": {
+        "respuesta_resumida": "B. Prueba rápida de VIH, sífilis y hepatitis B",
+        "razonamiento": "El adolescente refiere exposiciones sexuales repetidas sin preservativo y múltiples parejas, por lo que debe ofrecerse evaluación individual y tamizaje de ITS, incluidas VIH, sífilis y hepatitis B según normas y disponibilidad. La opción B es la intervención más específica frente al riesgo descrito. La consejería sexual (A) también es indispensable y debe acompañar pruebas; no basta ofrecer pruebas sin educación, consentimiento, confidencialidad y seguimiento.",
+        "temario": [
+          "La atención integral del adolescente incluye salud física, mental, nutricional, sexual, social y prevención de violencia.",
+          "La entrevista debe ser confidencial, no enjuiciadora, adaptada a edad y comprensión, y explicar límites de confidencialidad por seguridad o normas.",
+          "Explorar historia de exposiciones sexuales, uso de barreras, ITS anteriores, coerción, síntomas y vacunas sin suposiciones.",
+          "El inicio de relaciones sexuales por sí solo no define enfermedad; se evalúan riesgos clínicos y necesidades expresadas.",
+          "Pruebas de VIH y sífilis deben seguir algoritmo vigente y considerar periodo ventana; un resultado negativo demasiado temprano no descarta infección reciente.",
+          "Tamizaje de hepatitis B puede incluir HBsAg y otros marcadores según indicación, vacunación previa y recursos; verificar esquema de inmunización.",
+          "La oferta de tamizaje debe acompañarse de consentimiento informado, consejería pre/post prueba y enlace a tratamiento si corresponde.",
+          "Orientar uso consistente y correcto de preservativo y métodos de prevención de ITS; valorar PEP ante exposición reciente que cumpla criterios y PrEP según elegibilidad.",
+          "Ofrecer vacunas pertinentes como hepatitis B y VPH según edad y esquema nacional.",
+          "Considerar riesgo de embarazo en parejas y educación anticonceptiva integral sin estereotipos.",
+          "Explorar dinámicas de poder y posible violencia sexual; activar rutas de protección cuando se identifique coerción o abuso.",
+          "La autonomía progresiva y marco peruano de derechos del adolescente orientan consentimiento, confidencialidad y participación de acompañantes.",
+          "Vivir con hermana adulta no autoriza divulgar resultados clínicos sin razón legal ni consentimiento correspondiente.",
+          "No realizar pruebas sin explicar qué se busca ni cómo se gestionarán hallazgos.",
+          "La educación escolar es estrategia poblacional, pero no reemplaza atención individual al adolescente que consulta.",
+          "Planificar seguimiento según resultados, ventana diagnóstica, necesidades psicosociales y disponibilidad comunitaria."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Consejería en salud sexual es esencial, pero frente a la exposición específica descrita el examen prioriza el tamizaje de ITS; ambas se complementan.",
+          "B": "Correcta como clave académica razonada: ofrecer pruebas de VIH, sífilis y hepatitis B con consejería y consentimiento.",
+          "C": "Consejería general en estilos de vida no responde específicamente al riesgo de ITS descrito.",
+          "D": "Educación escolar es actividad colectiva preventiva y no sustituye la atención individual."
+        },
+        "normativa": [
+          "MINSA: norma técnica de atención integral de salud del adolescente.",
+          "MINSA: normativas vigentes de tamizaje de VIH, sífilis y hepatitis B y prevención combinada.",
+          "OMS: servicios de salud sexual y reproductiva amigables para adolescentes."
+        ],
+        "mnemotecnia": "RELACIONES SIN BARRERA = TAMIZAR ITS + CONSEJERÍA + PREVENCIÓN + CONFIDENCIALIDAD.",
+        "trampas": [
+          "La alternativa A también es clínicamente apropiada, pero el ítem solicita respuesta específica de detección.",
+          "Un resultado negativo precoz puede requerir repetición según periodo ventana."
+        ],
+        "perla": "RELACIONES SIN BARRERA = TAMIZAR ITS + CONSEJERÍA + PREVENCIÓN + CONFIDENCIALIDAD.",
+        "repaso_activo": [
+          {
+            "pregunta": "¿Qué pista define la respuesta?",
+            "respuesta": "El adolescente refiere exposiciones sexuales repetidas sin preservativo y múltiples parejas, por lo que debe ofrecerse evaluación individual y tamizaje de ITS, incluidas VIH, sífilis y hepatitis B según normas y disponibilidad. La opción B es la intervención más específica frente al riesgo descrito. La consejería sexual (A) también es indispensable y debe acompañar pruebas; no basta ofrecer pruebas sin educación, consentimiento, confidencialidad y seguimiento."
+          },
+          {
+            "pregunta": "¿Qué detalle diferencial recordar?",
+            "respuesta": "La alternativa A también es clínicamente apropiada, pero el ítem solicita respuesta específica de detección."
+          },
+          {
+            "pregunta": "¿Cómo memorizar?",
+            "respuesta": "RELACIONES SIN BARRERA = TAMIZAR ITS + CONSEJERÍA + PREVENCIÓN + CONFIDENCIALIDAD."
+          }
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Adolescente de 16 años consulta tras múltiples relaciones sin preservativo. ¿Oferta integral apropiada?",
+            "alternativas": {
+              "A": "Solo regaño",
+              "B": "Informar resultados públicamente",
+              "C": "Pruebas de ITS, consejería y plan preventivo",
+              "D": "Ninguna intervención",
+              "E": "Esperar síntomas obligatoriamente"
+            },
+            "respuesta": "C",
+            "explicacion": "La prevención individual combina tamizaje, educación y seguimiento."
+          },
+          {
+            "enunciado": "Un adolescente presenta prueba VIH negativa pocos días después de una exposición. ¿Qué explicación corresponde?",
+            "alternativas": {
+              "A": "Nunca puede infectarse",
+              "B": "Prueba elimina toda posibilidad",
+              "C": "No hace falta seguimiento",
+              "D": "Hay periodo ventana y se evalúa repetición según prueba y exposición",
+              "E": "Se informa a todos los familiares"
+            },
+            "respuesta": "D",
+            "explicacion": "La negatividad muy temprana puede no descartar adquisición reciente."
           }
         ]
       }
