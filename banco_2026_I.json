@@ -1,0 +1,1102 @@
+{
+  "schemaVersion": 1,
+  "bankId": "ENCAPS_2026_I",
+  "title": "ENCAPS 2026-I · Medicina Humana",
+  "source": "Examen SERUMS Medicina 19 abril 2026 · claves resaltadas en PDF del usuario",
+  "questionCount": 5,
+  "questions": [
+    {
+      "number": 1,
+      "question": "Gestante multípara a término, que acude a puesto de salud con contracciones uterinas cada 30 minutos. Al tacto vaginal se identifica dilatación de cuello uterino de 3 cm, sin signos de alarma. Ud. procede referir a:",
+      "options": {
+        "A": "Centro de salud I-3",
+        "B": "Hospital III",
+        "C": "Centro de salud I-4",
+        "D": "Hospital II"
+      },
+      "correct": "C",
+      "code": "ENCAPS26-I P001",
+      "course": "ENCAPS Medicina 2026-I · Temario desarrollado",
+      "topic": "Referencia obstétrica desde I-1: fase latente del parto y capacidad resolutiva",
+      "comment": "CLAVE HISTÓRICA SEGÚN PDF\nC. Centro de salud I-4 — clave resaltada en PDF ENCAPS Medicina 2026-I del 19 de abril de 2026; no equivale a cotejo con tabla oficial separada.\n\nRAZONAMIENTO COMPLETO\nEl dato central no es solamente que la mujer tenga 3 cm de dilatación; es una gestante multípara a término, atendida en un puesto de salud, que presenta contracciones y requiere un establecimiento preparado para atención del parto y posibles complicaciones. El cuadernillo resaltó C: centro de salud I-4. Esta es la respuesta documental. Una dilatación de 3 cm con contracciones cada 30 minutos no permite afirmar por sí sola trabajo de parto activo ni urgencia obstétrica grave; corresponde valorar contracciones, dinámica cervical, latidos fetales, membranas, signos de alarma, antecedente obstétrico y distancia de traslado. El I-4 suele reunir mayor capacidad resolutiva de atención materna que un I-3, pero la decisión real depende de la red, cartera habilitada, disponibilidad, cercanía, estabilidad y plan de referencia. No enviar a un hospital III sin necesidad demostrada, ni retener en un I-1 a una multípara que pueda evolucionar rápidamente.\n\nDESARROLLO DEL TEMARIO\n1. Fases del trabajo de parto\nLa fase latente se caracteriza por contracciones y cambios cervicales iniciales. Los umbrales de fase activa varían entre guías históricas y contemporáneas; 3 cm no equivale automáticamente a fase activa. Interpretar junto con borramiento, progresión y contracciones.\n2. Evaluación inicial obstétrica\nIdentificar edad gestacional, número de partos, cesáreas previas, hemorragia, ruptura de membranas, movimientos y frecuencia cardiaca fetal, presión arterial, temperatura, frecuencia cardiaca, dolor y dinámica uterina.\n3. Multípara y riesgo logístico\nLa evolución del trabajo de parto puede ser más rápida en multíparas; planificar transporte y comunicación con el centro receptor. No confundir la ausencia de signos de alarma con ausencia de necesidades asistenciales.\n4. Categorías de IPRESS\nI-1 e I-2 resuelven prestaciones básicas; I-3 agrega capacidad ambulatoria; I-4 generalmente cuenta con atención para parto y mayor capacidad para manejo inicial y referencia. Las funciones exactas dependen de categorización y cartera autorizadas.\n5. Referencia y contrarreferencia\nSe refiere según capacidad resolutiva, necesidad clínica y red integrada: estabilización, hoja de referencia, comunicación al receptor, traslado seguro y continuidad; documentar llegada y retorno de información.\n6. Signos de alarma\nHemorragia vaginal, convulsiones, hipertensión grave, compromiso fetal, fiebre, dolor persistente desproporcionado, alteración de conciencia y prolapso de cordón exigen respuesta urgente y destino apropiado, no rutina administrativa.\n7. Condiciones previas al traslado\nVerificar vía de comunicación, equipamiento básico, acompañamiento competente según riesgo y tiempo estimado; evaluar si hay expulsivo inminente, pues podría ser más seguro asistir inicialmente el parto que trasladar sin condiciones.\n8. Nacimiento respetado e interculturalidad\nOfrecer información comprensible, acompañamiento cuando corresponda, respeto por decisiones informadas, medidas de seguridad y preferencias culturales compatibles con la situación.\n9. Resolución de examen\nLa pregunta solicita a dónde referir desde un puesto de salud sin alarma: elegir el primer nivel con capacidad para parto, I-4, sin inferir que todas las gestantes deban derivarse indistintamente al nivel hospitalario.\n\nANÁLISIS INDIVIDUAL DE DISTRACTORES\nA) Un I-3 puede realizar evaluación ambulatoria y atención prenatal, pero no es la elección más adecuada cuando se requiere disponibilidad de atención de parto según el supuesto; las capacidades específicas deben verificarse por IPRESS.\nB) Un hospital III dispone de mayor complejidad para casos seleccionados, pero no se describe patología que haga imprescindible un nivel terciario en esta pregunta.\nC) Centro de salud I-4 es la clave resaltada: primer nivel de mayor capacidad asistencial para atención obstétrica que permite resolver o referir según evolución y cartera.\nD) Hospital II puede ser adecuado ante complicación u organización particular de la red, pero sin alarma y con opción I-4 habilitada no es la referencia escogida por el cuadernillo.\n\nNORMATIVA Y FUENTES\nNTS N.º 105-MINSA/DGSP-V.01 — RM 827-2013-MINSA | https://www.gob.pe/institucion/minsa/normas-legales/198935-827-2013-minsa | Atención integral de salud materna y criterios de atención y referencia; consultar modificatorias.\nNTS atención del parto vertical en el marco de los derechos humanos | https://cdn.www.gob.pe/uploads/document/file/322884/Norma_t%C3%A9cnica_de_salud_para_la_atenci%C3%B3n_del_parto_vertical_en_el_marco_de_los_derechos_humanos_con_pertinencia_intercultural20190621-17253-1ha8s1k.pdf | Describe evaluación de trabajo de parto y diferenciación de fases en documento nacional.\n\nTRAMPAS / DIFERENCIAS DE GUÍAS\n3 cm no confirma fase activa ni exige derivación terciaria: la pregunta es de red y capacidad resolutiva.\nEl hospital de mayor complejidad no siempre es el destino apropiado; buscar el establecimiento que resuelva con seguridad.\nUn expulsivo inminente modifica el balance traslado/asistencia; no retrasar medidas de emergencia.\n\nMNEMOTECNIA\nGESTANTE SIN ALARMA + PUESTO I-1 + PARTO POR RESOLVER → I-4; complicación → nivel con capacidad superior.\n\nREPASO ACTIVO\n¿Qué centro selecciona el PDF? — C: centro de salud I-4.\n¿Qué define la referencia? — Capacidad resolutiva, riesgo y red de atención, no solo la dilatación.\n¿Tres centímetros confirman fase activa? — No por sí solos; evaluar progresión y dinámica.\n¿Qué hallazgo exige cambiar destino o urgencia? — Hemorragia, compromiso fetal, convulsiones u otro signo grave.\n¿Qué no debe faltar en traslado? — Estabilización, comunicación, registro y traslado seguro.\n\nDOS CASOS DE REFUERZO\n1. Multípara de 39 semanas en puesto I-1, contracciones irregulares, 3 cm, signos vitales estables, sin sangrado y centro I-4 cercano con atención de parto habilitada. ¿Conducta de referencia más razonable?\nA) Derivación obligatoria al hospital III\nB) Observar en el puesto hasta dilatación completa\nC) Enviar a un I-3 sin unidad de partos\nD) Referir al I-4 con comunicación y traslado seguro\nE) Indicar reposo domiciliario sin vigilancia\nClave D. El riesgo obstétrico actual no obliga a nivel terciario, pero el puesto no tiene capacidad para seguimiento del parto. El I-4 es el destino previsto, siempre que esté habilitado.\n2. Gestante multípara llega a un I-1 con pujos intensos, presentación coronando y salida fetal inminente. ¿Qué prioridad corresponde?\nA) Dar asistencia inicial segura al parto inminente y activar apoyo según competencias\nB) Esperar autorización administrativa para cualquier maniobra\nC) Trasladar obligatoriamente durante la coronación\nD) Administrar uterotónicos antes del nacimiento sin indicación\nE) Enviar sola a buscar transporte particular\nClave A. Cuando el nacimiento es inminente, el traslado puede incrementar riesgo. Se prioriza atención inmediata según capacidad y activación de apoyo.\n\nPERLA\nGESTANTE SIN ALARMA + PUESTO I-1 + PARTO POR RESOLVER → I-4; complicación → nivel con capacidad superior. 3 cm no confirma fase activa ni exige derivación terciaria: la pregunta es de red y capacidad resolutiva.",
+      "pearl": "GESTANTE SIN ALARMA + PUESTO I-1 + PARTO POR RESOLVER → I-4; complicación → nivel con capacidad superior. 3 cm no confirma fase activa ni exige derivación terciaria: la pregunta es de red y capacidad resolutiva.",
+      "keywords": [
+        "Referencia obstétrica desde I-1: fase latente del parto y capacidad resolutiva",
+        "ENCAPS Medicina 2026-I",
+        "SERUMS MINSA"
+      ],
+      "estadoDesarrollo": "completo",
+      "estadoClave": "resaltada_en_pdf_usuario_no_cotejada_con_tabla_oficial_independiente",
+      "lesson": {
+        "respuesta_resumida": "C. Centro de salud I-4 — clave resaltada en PDF ENCAPS Medicina 2026-I del 19 de abril de 2026; no equivale a cotejo con tabla oficial separada.",
+        "razonamiento": "El dato central no es solamente que la mujer tenga 3 cm de dilatación; es una gestante multípara a término, atendida en un puesto de salud, que presenta contracciones y requiere un establecimiento preparado para atención del parto y posibles complicaciones. El cuadernillo resaltó C: centro de salud I-4. Esta es la respuesta documental. Una dilatación de 3 cm con contracciones cada 30 minutos no permite afirmar por sí sola trabajo de parto activo ni urgencia obstétrica grave; corresponde valorar contracciones, dinámica cervical, latidos fetales, membranas, signos de alarma, antecedente obstétrico y distancia de traslado. El I-4 suele reunir mayor capacidad resolutiva de atención materna que un I-3, pero la decisión real depende de la red, cartera habilitada, disponibilidad, cercanía, estabilidad y plan de referencia. No enviar a un hospital III sin necesidad demostrada, ni retener en un I-1 a una multípara que pueda evolucionar rápidamente.",
+        "temario": [
+          "Fases del trabajo de parto: La fase latente se caracteriza por contracciones y cambios cervicales iniciales. Los umbrales de fase activa varían entre guías históricas y contemporáneas; 3 cm no equivale automáticamente a fase activa. Interpretar junto con borramiento, progresión y contracciones.",
+          "Evaluación inicial obstétrica: Identificar edad gestacional, número de partos, cesáreas previas, hemorragia, ruptura de membranas, movimientos y frecuencia cardiaca fetal, presión arterial, temperatura, frecuencia cardiaca, dolor y dinámica uterina.",
+          "Multípara y riesgo logístico: La evolución del trabajo de parto puede ser más rápida en multíparas; planificar transporte y comunicación con el centro receptor. No confundir la ausencia de signos de alarma con ausencia de necesidades asistenciales.",
+          "Categorías de IPRESS: I-1 e I-2 resuelven prestaciones básicas; I-3 agrega capacidad ambulatoria; I-4 generalmente cuenta con atención para parto y mayor capacidad para manejo inicial y referencia. Las funciones exactas dependen de categorización y cartera autorizadas.",
+          "Referencia y contrarreferencia: Se refiere según capacidad resolutiva, necesidad clínica y red integrada: estabilización, hoja de referencia, comunicación al receptor, traslado seguro y continuidad; documentar llegada y retorno de información.",
+          "Signos de alarma: Hemorragia vaginal, convulsiones, hipertensión grave, compromiso fetal, fiebre, dolor persistente desproporcionado, alteración de conciencia y prolapso de cordón exigen respuesta urgente y destino apropiado, no rutina administrativa.",
+          "Condiciones previas al traslado: Verificar vía de comunicación, equipamiento básico, acompañamiento competente según riesgo y tiempo estimado; evaluar si hay expulsivo inminente, pues podría ser más seguro asistir inicialmente el parto que trasladar sin condiciones.",
+          "Nacimiento respetado e interculturalidad: Ofrecer información comprensible, acompañamiento cuando corresponda, respeto por decisiones informadas, medidas de seguridad y preferencias culturales compatibles con la situación.",
+          "Resolución de examen: La pregunta solicita a dónde referir desde un puesto de salud sin alarma: elegir el primer nivel con capacidad para parto, I-4, sin inferir que todas las gestantes deban derivarse indistintamente al nivel hospitalario."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Un I-3 puede realizar evaluación ambulatoria y atención prenatal, pero no es la elección más adecuada cuando se requiere disponibilidad de atención de parto según el supuesto; las capacidades específicas deben verificarse por IPRESS.",
+          "B": "Un hospital III dispone de mayor complejidad para casos seleccionados, pero no se describe patología que haga imprescindible un nivel terciario en esta pregunta.",
+          "C": "Centro de salud I-4 es la clave resaltada: primer nivel de mayor capacidad asistencial para atención obstétrica que permite resolver o referir según evolución y cartera.",
+          "D": "Hospital II puede ser adecuado ante complicación u organización particular de la red, pero sin alarma y con opción I-4 habilitada no es la referencia escogida por el cuadernillo."
+        },
+        "normativa": [
+          "NTS N.º 105-MINSA/DGSP-V.01 — RM 827-2013-MINSA | https://www.gob.pe/institucion/minsa/normas-legales/198935-827-2013-minsa | Atención integral de salud materna y criterios de atención y referencia; consultar modificatorias.",
+          "NTS atención del parto vertical en el marco de los derechos humanos | https://cdn.www.gob.pe/uploads/document/file/322884/Norma_t%C3%A9cnica_de_salud_para_la_atenci%C3%B3n_del_parto_vertical_en_el_marco_de_los_derechos_humanos_con_pertinencia_intercultural20190621-17253-1ha8s1k.pdf | Describe evaluación de trabajo de parto y diferenciación de fases en documento nacional."
+        ],
+        "mnemotecnia": "GESTANTE SIN ALARMA + PUESTO I-1 + PARTO POR RESOLVER → I-4; complicación → nivel con capacidad superior.",
+        "trampas": [
+          "3 cm no confirma fase activa ni exige derivación terciaria: la pregunta es de red y capacidad resolutiva.",
+          "El hospital de mayor complejidad no siempre es el destino apropiado; buscar el establecimiento que resuelva con seguridad.",
+          "Un expulsivo inminente modifica el balance traslado/asistencia; no retrasar medidas de emergencia."
+        ],
+        "perla": "GESTANTE SIN ALARMA + PUESTO I-1 + PARTO POR RESOLVER → I-4; complicación → nivel con capacidad superior. 3 cm no confirma fase activa ni exige derivación terciaria: la pregunta es de red y capacidad resolutiva.",
+        "repaso_activo": [
+          "¿Qué centro selecciona el PDF? — C: centro de salud I-4.",
+          "¿Qué define la referencia? — Capacidad resolutiva, riesgo y red de atención, no solo la dilatación.",
+          "¿Tres centímetros confirman fase activa? — No por sí solos; evaluar progresión y dinámica.",
+          "¿Qué hallazgo exige cambiar destino o urgencia? — Hemorragia, compromiso fetal, convulsiones u otro signo grave.",
+          "¿Qué no debe faltar en traslado? — Estabilización, comunicación, registro y traslado seguro."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Multípara de 39 semanas en puesto I-1, contracciones irregulares, 3 cm, signos vitales estables, sin sangrado y centro I-4 cercano con atención de parto habilitada. ¿Conducta de referencia más razonable?",
+            "alternativas": {
+              "A": "Derivación obligatoria al hospital III",
+              "B": "Observar en el puesto hasta dilatación completa",
+              "C": "Enviar a un I-3 sin unidad de partos",
+              "D": "Referir al I-4 con comunicación y traslado seguro",
+              "E": "Indicar reposo domiciliario sin vigilancia"
+            },
+            "respuesta": "D",
+            "explicacion": "El riesgo obstétrico actual no obliga a nivel terciario, pero el puesto no tiene capacidad para seguimiento del parto. El I-4 es el destino previsto, siempre que esté habilitado."
+          },
+          {
+            "enunciado": "Gestante multípara llega a un I-1 con pujos intensos, presentación coronando y salida fetal inminente. ¿Qué prioridad corresponde?",
+            "alternativas": {
+              "A": "Dar asistencia inicial segura al parto inminente y activar apoyo según competencias",
+              "B": "Esperar autorización administrativa para cualquier maniobra",
+              "C": "Trasladar obligatoriamente durante la coronación",
+              "D": "Administrar uterotónicos antes del nacimiento sin indicación",
+              "E": "Enviar sola a buscar transporte particular"
+            },
+            "respuesta": "A",
+            "explicacion": "Cuando el nacimiento es inminente, el traslado puede incrementar riesgo. Se prioriza atención inmediata según capacidad y activación de apoyo."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Referencia obstétrica desde I-1: fase latente del parto y capacidad resolutiva",
+          "eje": "ENCAPS Medicina 2026-I / Atención primaria, clínica y salud pública",
+          "confiabilidad": "clave_resaltada_pdf_usuario",
+          "respuesta_resumida": "C. Centro de salud I-4",
+          "razonamiento": [
+            "El dato central no es solamente que la mujer tenga 3 cm de dilatación; es una gestante multípara a término, atendida en un puesto de salud, que presenta contracciones y requiere un establecimiento preparado para atención del parto y posibles complicaciones.",
+            "El cuadernillo resaltó C: centro de salud I-4.",
+            "Esta es la respuesta documental.",
+            "Una dilatación de 3 cm con contracciones cada 30 minutos no permite afirmar por sí sola trabajo de parto activo ni urgencia obstétrica grave; corresponde valorar contracciones, dinámica cervical, latidos fetales, membranas, signos de alarma, antecedente obstétrico y distancia de traslado.",
+            "El I-4 suele reunir mayor capacidad resolutiva de atención materna que un I-3, pero la decisión real depende de la red, cartera habilitada, disponibilidad, cercanía, estabilidad y plan de referencia.",
+            "No enviar a un hospital III sin necesidad demostrada, ni retener en un I-1 a una multípara que pueda evolucionar rápidamente."
+          ],
+          "temario": [
+            {
+              "subtitulo": "Fases del trabajo de parto",
+              "texto": "La fase latente se caracteriza por contracciones y cambios cervicales iniciales. Los umbrales de fase activa varían entre guías históricas y contemporáneas; 3 cm no equivale automáticamente a fase activa. Interpretar junto con borramiento, progresión y contracciones."
+            },
+            {
+              "subtitulo": "Evaluación inicial obstétrica",
+              "texto": "Identificar edad gestacional, número de partos, cesáreas previas, hemorragia, ruptura de membranas, movimientos y frecuencia cardiaca fetal, presión arterial, temperatura, frecuencia cardiaca, dolor y dinámica uterina."
+            },
+            {
+              "subtitulo": "Multípara y riesgo logístico",
+              "texto": "La evolución del trabajo de parto puede ser más rápida en multíparas; planificar transporte y comunicación con el centro receptor. No confundir la ausencia de signos de alarma con ausencia de necesidades asistenciales."
+            },
+            {
+              "subtitulo": "Categorías de IPRESS",
+              "texto": "I-1 e I-2 resuelven prestaciones básicas; I-3 agrega capacidad ambulatoria; I-4 generalmente cuenta con atención para parto y mayor capacidad para manejo inicial y referencia. Las funciones exactas dependen de categorización y cartera autorizadas."
+            },
+            {
+              "subtitulo": "Referencia y contrarreferencia",
+              "texto": "Se refiere según capacidad resolutiva, necesidad clínica y red integrada: estabilización, hoja de referencia, comunicación al receptor, traslado seguro y continuidad; documentar llegada y retorno de información."
+            },
+            {
+              "subtitulo": "Signos de alarma",
+              "texto": "Hemorragia vaginal, convulsiones, hipertensión grave, compromiso fetal, fiebre, dolor persistente desproporcionado, alteración de conciencia y prolapso de cordón exigen respuesta urgente y destino apropiado, no rutina administrativa."
+            },
+            {
+              "subtitulo": "Condiciones previas al traslado",
+              "texto": "Verificar vía de comunicación, equipamiento básico, acompañamiento competente según riesgo y tiempo estimado; evaluar si hay expulsivo inminente, pues podría ser más seguro asistir inicialmente el parto que trasladar sin condiciones."
+            },
+            {
+              "subtitulo": "Nacimiento respetado e interculturalidad",
+              "texto": "Ofrecer información comprensible, acompañamiento cuando corresponda, respeto por decisiones informadas, medidas de seguridad y preferencias culturales compatibles con la situación."
+            },
+            {
+              "subtitulo": "Resolución de examen",
+              "texto": "La pregunta solicita a dónde referir desde un puesto de salud sin alarma: elegir el primer nivel con capacidad para parto, I-4, sin inferir que todas las gestantes deban derivarse indistintamente al nivel hospitalario."
+            }
+          ],
+          "distractores": {
+            "A": "Un I-3 puede realizar evaluación ambulatoria y atención prenatal, pero no es la elección más adecuada cuando se requiere disponibilidad de atención de parto según el supuesto; las capacidades específicas deben verificarse por IPRESS.",
+            "B": "Un hospital III dispone de mayor complejidad para casos seleccionados, pero no se describe patología que haga imprescindible un nivel terciario en esta pregunta.",
+            "C": "Centro de salud I-4 es la clave resaltada: primer nivel de mayor capacidad asistencial para atención obstétrica que permite resolver o referir según evolución y cartera.",
+            "D": "Hospital II puede ser adecuado ante complicación u organización particular de la red, pero sin alarma y con opción I-4 habilitada no es la referencia escogida por el cuadernillo."
+          },
+          "normativa": [
+            {
+              "nombre": "NTS N.º 105-MINSA/DGSP-V.01 — RM 827-2013-MINSA",
+              "url": "https://www.gob.pe/institucion/minsa/normas-legales/198935-827-2013-minsa",
+              "aplicacion": "Atención integral de salud materna y criterios de atención y referencia; consultar modificatorias."
+            },
+            {
+              "nombre": "NTS atención del parto vertical en el marco de los derechos humanos",
+              "url": "https://cdn.www.gob.pe/uploads/document/file/322884/Norma_t%C3%A9cnica_de_salud_para_la_atenci%C3%B3n_del_parto_vertical_en_el_marco_de_los_derechos_humanos_con_pertinencia_intercultural20190621-17253-1ha8s1k.pdf",
+              "aplicacion": "Describe evaluación de trabajo de parto y diferenciación de fases en documento nacional."
+            }
+          ],
+          "mnemotecnia": "GESTANTE SIN ALARMA + PUESTO I-1 + PARTO POR RESOLVER → I-4; complicación → nivel con capacidad superior.",
+          "trampas": [
+            "3 cm no confirma fase activa ni exige derivación terciaria: la pregunta es de red y capacidad resolutiva.",
+            "El hospital de mayor complejidad no siempre es el destino apropiado; buscar el establecimiento que resuelva con seguridad.",
+            "Un expulsivo inminente modifica el balance traslado/asistencia; no retrasar medidas de emergencia."
+          ],
+          "perla": "GESTANTE SIN ALARMA + PUESTO I-1 + PARTO POR RESOLVER → I-4; complicación → nivel con capacidad superior.",
+          "repaso_activo": [
+            {
+              "pregunta": "¿Qué centro selecciona el PDF?",
+              "respuesta": "C: centro de salud I-4."
+            },
+            {
+              "pregunta": "¿Qué define la referencia?",
+              "respuesta": "Capacidad resolutiva, riesgo y red de atención, no solo la dilatación."
+            },
+            {
+              "pregunta": "¿Tres centímetros confirman fase activa?",
+              "respuesta": "No por sí solos; evaluar progresión y dinámica."
+            },
+            {
+              "pregunta": "¿Qué hallazgo exige cambiar destino o urgencia?",
+              "respuesta": "Hemorragia, compromiso fetal, convulsiones u otro signo grave."
+            },
+            {
+              "pregunta": "¿Qué no debe faltar en traslado?",
+              "respuesta": "Estabilización, comunicación, registro y traslado seguro."
+            }
+          ],
+          "refuerzo": [
+            {
+              "enunciado": "Multípara de 39 semanas en puesto I-1, contracciones irregulares, 3 cm, signos vitales estables, sin sangrado y centro I-4 cercano con atención de parto habilitada. ¿Conducta de referencia más razonable?",
+              "alternativas": {
+                "A": "Derivación obligatoria al hospital III",
+                "B": "Observar en el puesto hasta dilatación completa",
+                "C": "Enviar a un I-3 sin unidad de partos",
+                "D": "Referir al I-4 con comunicación y traslado seguro",
+                "E": "Indicar reposo domiciliario sin vigilancia"
+              },
+              "respuesta": "D",
+              "explicacion": "El riesgo obstétrico actual no obliga a nivel terciario, pero el puesto no tiene capacidad para seguimiento del parto. El I-4 es el destino previsto, siempre que esté habilitado."
+            },
+            {
+              "enunciado": "Gestante multípara llega a un I-1 con pujos intensos, presentación coronando y salida fetal inminente. ¿Qué prioridad corresponde?",
+              "alternativas": {
+                "A": "Dar asistencia inicial segura al parto inminente y activar apoyo según competencias",
+                "B": "Esperar autorización administrativa para cualquier maniobra",
+                "C": "Trasladar obligatoriamente durante la coronación",
+                "D": "Administrar uterotónicos antes del nacimiento sin indicación",
+                "E": "Enviar sola a buscar transporte particular"
+              },
+              "respuesta": "A",
+              "explicacion": "Cuando el nacimiento es inminente, el traslado puede incrementar riesgo. Se prioriza atención inmediata según capacidad y activación de apoyo."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "number": 2,
+      "question": "Al consultorio de medicina acude María de 55 años, con 10 años de diabetes, actualmente controlada, en tratamiento con Metformina, con estilos de vida saludables, se realiza el seguimiento periódico ¿Cuál de los siguientes se considera como meta en el manejo integral del paciente con diabetes?",
+      "options": {
+        "A": "Glicemia en ayunas de 80 a 126 mg/dl",
+        "B": "Hemoglobina glucosilada < 7.5%",
+        "C": "Glicemia postprandial de 2 h <140 mg/dl",
+        "D": "Perímetro de cintura < 94 cm"
+      },
+      "correct": "C",
+      "code": "ENCAPS26-I P002",
+      "course": "ENCAPS Medicina 2026-I · Temario desarrollado",
+      "topic": "Metas de control metabólico en diabetes tipo 2: glucemia posprandial y variación de guías",
+      "comment": "CLAVE HISTÓRICA SEGÚN PDF\nC. Glicemia postprandial de 2 h <140 mg/dl — clave resaltada en PDF ENCAPS Medicina 2026-I del 19 de abril de 2026; no equivale a cotejo con tabla oficial separada.\n\nRAZONAMIENTO COMPLETO\nLa paciente presenta DM2 controlada con metformina y medidas de estilo de vida. El cuadernillo resalta C: glucemia posprandial a las dos horas menor de 140 mg/dl. La cifra coincide con la tabla de metas del manejo integral citada de ALAD en la Norma Técnica de Salud para Vigilancia Epidemiológica de Diabetes NTS 210-MINSA/CDC-2024: ayunas 70–120 mg/dl, 2 h posprandial <140 mg/dl y HbA1c <7 %. IMPORTANTE: no convertir esto en una meta universal; guías clínicas actuales pueden admitir objetivos posprandiales distintos y metas individualizadas según hipoglucemia, fragilidad, esperanza de vida, embarazo, comorbilidad y preferencia. No confundir umbrales diagnósticos de diabetes (glucemia en ayunas >=126 mg/dl, 2 h tras sobrecarga >=200 mg/dl) con objetivos de tratamiento. En examen se reconoce la tabla ALAD que cita MINSA; en clínica se acuerdan metas para la persona.\n\nDESARROLLO DEL TEMARIO\n1. Diabetes tipo 2 y evaluación\nEnfermedad crónica de hiperglucemia por resistencia a insulina y deterioro progresivo de secreción; controlar síntomas, riesgo de hipoglucemia, complicaciones macro/microvasculares y factores cardiometabólicos.\n2. Diagnóstico frente a objetivos\nAyunas ≥126 mg/dl en mediciones diagnósticas puede apoyar diagnóstico; una meta terapéutica deseable no es ese punto de corte. La prueba oral de tolerancia en 2 horas es distinta de posprandial luego de una comida habitual.\n3. Metas ALAD en NTS 210-2024\nLa tabla citada por el CDC Perú: ayunas 70–120 mg/dl, 2 h posprandial <140 mg/dl, HbA1c <7 %. Ésta fundamenta la clave C resaltada.\n4. Individualización\nUna persona mayor frágil, con episodios de hipoglucemia o múltiples enfermedades puede necesitar metas menos estrictas. Una persona joven y sin hipoglucemia puede tolerar objetivos diferentes.\n5. Hemoglobina glucosilada\nHbA1c estima exposición glucémica aproximadamente de los 2–3 meses previos; su interpretación puede alterarse por anemia, hemólisis, transfusión o alteración de vida eritrocitaria.\n6. Glucosa posprandial\nMedir según el tiempo definido por protocolo, a menudo a las dos horas desde el inicio de comida; analizar patrón alimentario, actividad, terapia y riesgo de hipoglucemia.\n7. Cuidado integral\nVigilar presión arterial, peso, tabaquismo, actividad física, lípidos, función renal, albuminuria, pie diabético, examen ocular e inmunizaciones según riesgo.\n8. Metformina\nFármaco de primera línea frecuente en contextos elegibles. Revisar función renal, tolerancia gastrointestinal y contraindicaciones; el buen control requiere seguimiento y educación.\n9. Complicaciones\nRetinopatía, nefropatía, neuropatía, enfermedad arterial periférica y enfermedad cardiovascular requieren prevención activa; glucosa normal aislada no garantiza protección.\n10. Problemas de calidad del ítem\nLa alternativa de cintura <94 cm puede ser un punto de referencia de riesgo cardiometabólico en algunos hombres, pero en una mujer de 55 años no constituye la meta glucémica elegida. HbA1c <7,5 % puede ser aceptable en perfiles individualizados, pero no la cifra de la tabla que motiva la clave.\n\nANÁLISIS INDIVIDUAL DE DISTRACTORES\nA) Ayunas 80–126 mg/dl se asemeja a un intervalo aproximado de control y al umbral diagnóstico 126, pero no corresponde exactamente a la meta ALAD 70–120 de la tabla citada.\nB) HbA1c <7,5 % podría utilizarse en circunstancias seleccionadas, pero la meta general de la tabla de vigilancia MINSA/ALAD es <7 %. No la descartar universalmente en práctica real.\nC) Correcta conforme al PDF y NTS 210-2024: posprandial de 2 horas <140 mg/dl según la tabla ALAD que la norma reproduce.\nD) Perímetro de cintura <94 cm no es una meta de control glucémico para esta mujer; los puntos de corte dependen de sexo, población y evaluación de riesgo cardiometabólico.\n\nNORMATIVA Y FUENTES\nNTS N.º 210-MINSA/CDC-2024 — RM 114-2024-MINSA, tabla 4 | https://bvs.minsa.gob.pe/local/fi-admin/RM-114-2024-MINSA.pdf | Transcribe metas de ALAD: glucemia en ayunas 70–120, 2 horas posprandial <140 y HbA1c <7 %.\nGuía de DM2 IETSI EsSalud, revisión 2025 | https://ietsi.essalud.gob.pe/wp-content/uploads/2025/12/RV-GPC-DM2.pdf | Práctica clínica actual y adaptación individual de objetivos y terapia.\n\nTRAMPAS / DIFERENCIAS DE GUÍAS\nNO mezclar criterios diagnósticos con metas terapéuticas: ayunas >=126 diagnostica, no es objetivo deseado.\nDistinguir glucemia 2 h tras ingesta usual de prueba oral con 75 g de glucosa.\nLa meta de la tabla ALAD es estricta; en clínica individualizar por hipoglucemia, edad y comorbilidades.\nUn resultado aislado no reemplaza tendencias, HbA1c ni seguimiento renal, ocular y cardiovascular.\n\nMNEMOTECNIA\nALAD EN NTS: AYUNAS 70–120 / POS 2h <140 / A1c <7.\n\nREPASO ACTIVO\n¿Qué clave registra el PDF? — C: glucemia posprandial 2 horas <140 mg/dl.\n¿Cuáles son las otras dos metas ALAD de esa tabla? — Ayunas 70–120 mg/dl y HbA1c <7 %.\n¿Por qué no usar 126 mg/dl como meta de ayunas? — Es conocido como umbral diagnóstico y no expresa la meta de control de la tabla.\n¿Qué puede falsear interpretación de HbA1c? — Alteraciones de vida eritrocitaria, anemia, hemólisis y transfusión, entre otras.\n¿Cuál es el principio de control clínico moderno? — Individualización y prevención de hipoglucemia y complicaciones.\n\nDOS CASOS DE REFUERZO\n1. Una guía sanitaria usa metas ALAD: ayunas 70–120 y HbA1c <7%. ¿Qué meta posprandial a dos horas acompaña estos valores en la tabla de vigilancia peruana?\nA) Menos de 200 mg/dl\nB) Menos de 180 mg/dl\nC) Menos de 160 mg/dl\nD) Menos de 126 mg/dl\nE) Menos de 140 mg/dl\nClave E. La NTS 210-MINSA/CDC-2024 reproduce la tabla ALAD con posprandial <140 mg/dl; no confundir con otros objetivos clínicos individualizados.\n2. Persona de 78 años con DM2 y múltiples hipoglucemias presenta HbA1c 6,3%. ¿Cuál es el principio más importante antes de intensificar tratamiento?\nA) Bajar HbA1c a menos de 5% en todos los casos\nB) Ignorar antecedentes de hipoglucemia\nC) Individualizar metas y reducir riesgo de hipoglucemia\nD) Mantener siempre la misma meta de la tabla para todos\nE) Suspender controles de función renal\nClave C. La seguridad y el beneficio individual priman sobre una meta numérica uniforme en adultos de alto riesgo.\n\nPERLA\nALAD EN NTS: AYUNAS 70–120 / POS 2h <140 / A1c <7. NO mezclar criterios diagnósticos con metas terapéuticas: ayunas >=126 diagnostica, no es objetivo deseado.",
+      "pearl": "ALAD EN NTS: AYUNAS 70–120 / POS 2h <140 / A1c <7. NO mezclar criterios diagnósticos con metas terapéuticas: ayunas >=126 diagnostica, no es objetivo deseado.",
+      "keywords": [
+        "Metas de control metabólico en diabetes tipo 2: glucemia posprandial y variación de guías",
+        "ENCAPS Medicina 2026-I",
+        "SERUMS MINSA"
+      ],
+      "estadoDesarrollo": "completo",
+      "estadoClave": "resaltada_en_pdf_usuario_no_cotejada_con_tabla_oficial_independiente",
+      "lesson": {
+        "respuesta_resumida": "C. Glicemia postprandial de 2 h <140 mg/dl — clave resaltada en PDF ENCAPS Medicina 2026-I del 19 de abril de 2026; no equivale a cotejo con tabla oficial separada.",
+        "razonamiento": "La paciente presenta DM2 controlada con metformina y medidas de estilo de vida. El cuadernillo resalta C: glucemia posprandial a las dos horas menor de 140 mg/dl. La cifra coincide con la tabla de metas del manejo integral citada de ALAD en la Norma Técnica de Salud para Vigilancia Epidemiológica de Diabetes NTS 210-MINSA/CDC-2024: ayunas 70–120 mg/dl, 2 h posprandial <140 mg/dl y HbA1c <7 %. IMPORTANTE: no convertir esto en una meta universal; guías clínicas actuales pueden admitir objetivos posprandiales distintos y metas individualizadas según hipoglucemia, fragilidad, esperanza de vida, embarazo, comorbilidad y preferencia. No confundir umbrales diagnósticos de diabetes (glucemia en ayunas >=126 mg/dl, 2 h tras sobrecarga >=200 mg/dl) con objetivos de tratamiento. En examen se reconoce la tabla ALAD que cita MINSA; en clínica se acuerdan metas para la persona.",
+        "temario": [
+          "Diabetes tipo 2 y evaluación: Enfermedad crónica de hiperglucemia por resistencia a insulina y deterioro progresivo de secreción; controlar síntomas, riesgo de hipoglucemia, complicaciones macro/microvasculares y factores cardiometabólicos.",
+          "Diagnóstico frente a objetivos: Ayunas ≥126 mg/dl en mediciones diagnósticas puede apoyar diagnóstico; una meta terapéutica deseable no es ese punto de corte. La prueba oral de tolerancia en 2 horas es distinta de posprandial luego de una comida habitual.",
+          "Metas ALAD en NTS 210-2024: La tabla citada por el CDC Perú: ayunas 70–120 mg/dl, 2 h posprandial <140 mg/dl, HbA1c <7 %. Ésta fundamenta la clave C resaltada.",
+          "Individualización: Una persona mayor frágil, con episodios de hipoglucemia o múltiples enfermedades puede necesitar metas menos estrictas. Una persona joven y sin hipoglucemia puede tolerar objetivos diferentes.",
+          "Hemoglobina glucosilada: HbA1c estima exposición glucémica aproximadamente de los 2–3 meses previos; su interpretación puede alterarse por anemia, hemólisis, transfusión o alteración de vida eritrocitaria.",
+          "Glucosa posprandial: Medir según el tiempo definido por protocolo, a menudo a las dos horas desde el inicio de comida; analizar patrón alimentario, actividad, terapia y riesgo de hipoglucemia.",
+          "Cuidado integral: Vigilar presión arterial, peso, tabaquismo, actividad física, lípidos, función renal, albuminuria, pie diabético, examen ocular e inmunizaciones según riesgo.",
+          "Metformina: Fármaco de primera línea frecuente en contextos elegibles. Revisar función renal, tolerancia gastrointestinal y contraindicaciones; el buen control requiere seguimiento y educación.",
+          "Complicaciones: Retinopatía, nefropatía, neuropatía, enfermedad arterial periférica y enfermedad cardiovascular requieren prevención activa; glucosa normal aislada no garantiza protección.",
+          "Problemas de calidad del ítem: La alternativa de cintura <94 cm puede ser un punto de referencia de riesgo cardiometabólico en algunos hombres, pero en una mujer de 55 años no constituye la meta glucémica elegida. HbA1c <7,5 % puede ser aceptable en perfiles individualizados, pero no la cifra de la tabla que motiva la clave."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Ayunas 80–126 mg/dl se asemeja a un intervalo aproximado de control y al umbral diagnóstico 126, pero no corresponde exactamente a la meta ALAD 70–120 de la tabla citada.",
+          "B": "HbA1c <7,5 % podría utilizarse en circunstancias seleccionadas, pero la meta general de la tabla de vigilancia MINSA/ALAD es <7 %. No la descartar universalmente en práctica real.",
+          "C": "Correcta conforme al PDF y NTS 210-2024: posprandial de 2 horas <140 mg/dl según la tabla ALAD que la norma reproduce.",
+          "D": "Perímetro de cintura <94 cm no es una meta de control glucémico para esta mujer; los puntos de corte dependen de sexo, población y evaluación de riesgo cardiometabólico."
+        },
+        "normativa": [
+          "NTS N.º 210-MINSA/CDC-2024 — RM 114-2024-MINSA, tabla 4 | https://bvs.minsa.gob.pe/local/fi-admin/RM-114-2024-MINSA.pdf | Transcribe metas de ALAD: glucemia en ayunas 70–120, 2 horas posprandial <140 y HbA1c <7 %.",
+          "Guía de DM2 IETSI EsSalud, revisión 2025 | https://ietsi.essalud.gob.pe/wp-content/uploads/2025/12/RV-GPC-DM2.pdf | Práctica clínica actual y adaptación individual de objetivos y terapia."
+        ],
+        "mnemotecnia": "ALAD EN NTS: AYUNAS 70–120 / POS 2h <140 / A1c <7.",
+        "trampas": [
+          "NO mezclar criterios diagnósticos con metas terapéuticas: ayunas >=126 diagnostica, no es objetivo deseado.",
+          "Distinguir glucemia 2 h tras ingesta usual de prueba oral con 75 g de glucosa.",
+          "La meta de la tabla ALAD es estricta; en clínica individualizar por hipoglucemia, edad y comorbilidades.",
+          "Un resultado aislado no reemplaza tendencias, HbA1c ni seguimiento renal, ocular y cardiovascular."
+        ],
+        "perla": "ALAD EN NTS: AYUNAS 70–120 / POS 2h <140 / A1c <7. NO mezclar criterios diagnósticos con metas terapéuticas: ayunas >=126 diagnostica, no es objetivo deseado.",
+        "repaso_activo": [
+          "¿Qué clave registra el PDF? — C: glucemia posprandial 2 horas <140 mg/dl.",
+          "¿Cuáles son las otras dos metas ALAD de esa tabla? — Ayunas 70–120 mg/dl y HbA1c <7 %.",
+          "¿Por qué no usar 126 mg/dl como meta de ayunas? — Es conocido como umbral diagnóstico y no expresa la meta de control de la tabla.",
+          "¿Qué puede falsear interpretación de HbA1c? — Alteraciones de vida eritrocitaria, anemia, hemólisis y transfusión, entre otras.",
+          "¿Cuál es el principio de control clínico moderno? — Individualización y prevención de hipoglucemia y complicaciones."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Una guía sanitaria usa metas ALAD: ayunas 70–120 y HbA1c <7%. ¿Qué meta posprandial a dos horas acompaña estos valores en la tabla de vigilancia peruana?",
+            "alternativas": {
+              "A": "Menos de 200 mg/dl",
+              "B": "Menos de 180 mg/dl",
+              "C": "Menos de 160 mg/dl",
+              "D": "Menos de 126 mg/dl",
+              "E": "Menos de 140 mg/dl"
+            },
+            "respuesta": "E",
+            "explicacion": "La NTS 210-MINSA/CDC-2024 reproduce la tabla ALAD con posprandial <140 mg/dl; no confundir con otros objetivos clínicos individualizados."
+          },
+          {
+            "enunciado": "Persona de 78 años con DM2 y múltiples hipoglucemias presenta HbA1c 6,3%. ¿Cuál es el principio más importante antes de intensificar tratamiento?",
+            "alternativas": {
+              "A": "Bajar HbA1c a menos de 5% en todos los casos",
+              "B": "Ignorar antecedentes de hipoglucemia",
+              "C": "Individualizar metas y reducir riesgo de hipoglucemia",
+              "D": "Mantener siempre la misma meta de la tabla para todos",
+              "E": "Suspender controles de función renal"
+            },
+            "respuesta": "C",
+            "explicacion": "La seguridad y el beneficio individual priman sobre una meta numérica uniforme en adultos de alto riesgo."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Metas de control metabólico en diabetes tipo 2: glucemia posprandial y variación de guías",
+          "eje": "ENCAPS Medicina 2026-I / Atención primaria, clínica y salud pública",
+          "confiabilidad": "clave_resaltada_pdf_usuario",
+          "respuesta_resumida": "C. Glicemia postprandial de 2 h <140 mg/dl",
+          "razonamiento": [
+            "La paciente presenta DM2 controlada con metformina y medidas de estilo de vida.",
+            "El cuadernillo resalta C: glucemia posprandial a las dos horas menor de 140 mg/dl.",
+            "La cifra coincide con la tabla de metas del manejo integral citada de ALAD en la Norma Técnica de Salud para Vigilancia Epidemiológica de Diabetes NTS 210-MINSA/CDC-2024: ayunas 70–120 mg/dl, 2 h posprandial <140 mg/dl y HbA1c <7 %.",
+            "IMPORTANTE: no convertir esto en una meta universal; guías clínicas actuales pueden admitir objetivos posprandiales distintos y metas individualizadas según hipoglucemia, fragilidad, esperanza de vida, embarazo, comorbilidad y preferencia.",
+            "No confundir umbrales diagnósticos de diabetes (glucemia en ayunas >=126 mg/dl, 2 h tras sobrecarga >=200 mg/dl) con objetivos de tratamiento.",
+            "En examen se reconoce la tabla ALAD que cita MINSA; en clínica se acuerdan metas para la persona."
+          ],
+          "temario": [
+            {
+              "subtitulo": "Diabetes tipo 2 y evaluación",
+              "texto": "Enfermedad crónica de hiperglucemia por resistencia a insulina y deterioro progresivo de secreción; controlar síntomas, riesgo de hipoglucemia, complicaciones macro/microvasculares y factores cardiometabólicos."
+            },
+            {
+              "subtitulo": "Diagnóstico frente a objetivos",
+              "texto": "Ayunas ≥126 mg/dl en mediciones diagnósticas puede apoyar diagnóstico; una meta terapéutica deseable no es ese punto de corte. La prueba oral de tolerancia en 2 horas es distinta de posprandial luego de una comida habitual."
+            },
+            {
+              "subtitulo": "Metas ALAD en NTS 210-2024",
+              "texto": "La tabla citada por el CDC Perú: ayunas 70–120 mg/dl, 2 h posprandial <140 mg/dl, HbA1c <7 %. Ésta fundamenta la clave C resaltada."
+            },
+            {
+              "subtitulo": "Individualización",
+              "texto": "Una persona mayor frágil, con episodios de hipoglucemia o múltiples enfermedades puede necesitar metas menos estrictas. Una persona joven y sin hipoglucemia puede tolerar objetivos diferentes."
+            },
+            {
+              "subtitulo": "Hemoglobina glucosilada",
+              "texto": "HbA1c estima exposición glucémica aproximadamente de los 2–3 meses previos; su interpretación puede alterarse por anemia, hemólisis, transfusión o alteración de vida eritrocitaria."
+            },
+            {
+              "subtitulo": "Glucosa posprandial",
+              "texto": "Medir según el tiempo definido por protocolo, a menudo a las dos horas desde el inicio de comida; analizar patrón alimentario, actividad, terapia y riesgo de hipoglucemia."
+            },
+            {
+              "subtitulo": "Cuidado integral",
+              "texto": "Vigilar presión arterial, peso, tabaquismo, actividad física, lípidos, función renal, albuminuria, pie diabético, examen ocular e inmunizaciones según riesgo."
+            },
+            {
+              "subtitulo": "Metformina",
+              "texto": "Fármaco de primera línea frecuente en contextos elegibles. Revisar función renal, tolerancia gastrointestinal y contraindicaciones; el buen control requiere seguimiento y educación."
+            },
+            {
+              "subtitulo": "Complicaciones",
+              "texto": "Retinopatía, nefropatía, neuropatía, enfermedad arterial periférica y enfermedad cardiovascular requieren prevención activa; glucosa normal aislada no garantiza protección."
+            },
+            {
+              "subtitulo": "Problemas de calidad del ítem",
+              "texto": "La alternativa de cintura <94 cm puede ser un punto de referencia de riesgo cardiometabólico en algunos hombres, pero en una mujer de 55 años no constituye la meta glucémica elegida. HbA1c <7,5 % puede ser aceptable en perfiles individualizados, pero no la cifra de la tabla que motiva la clave."
+            }
+          ],
+          "distractores": {
+            "A": "Ayunas 80–126 mg/dl se asemeja a un intervalo aproximado de control y al umbral diagnóstico 126, pero no corresponde exactamente a la meta ALAD 70–120 de la tabla citada.",
+            "B": "HbA1c <7,5 % podría utilizarse en circunstancias seleccionadas, pero la meta general de la tabla de vigilancia MINSA/ALAD es <7 %. No la descartar universalmente en práctica real.",
+            "C": "Correcta conforme al PDF y NTS 210-2024: posprandial de 2 horas <140 mg/dl según la tabla ALAD que la norma reproduce.",
+            "D": "Perímetro de cintura <94 cm no es una meta de control glucémico para esta mujer; los puntos de corte dependen de sexo, población y evaluación de riesgo cardiometabólico."
+          },
+          "normativa": [
+            {
+              "nombre": "NTS N.º 210-MINSA/CDC-2024 — RM 114-2024-MINSA, tabla 4",
+              "url": "https://bvs.minsa.gob.pe/local/fi-admin/RM-114-2024-MINSA.pdf",
+              "aplicacion": "Transcribe metas de ALAD: glucemia en ayunas 70–120, 2 horas posprandial <140 y HbA1c <7 %."
+            },
+            {
+              "nombre": "Guía de DM2 IETSI EsSalud, revisión 2025",
+              "url": "https://ietsi.essalud.gob.pe/wp-content/uploads/2025/12/RV-GPC-DM2.pdf",
+              "aplicacion": "Práctica clínica actual y adaptación individual de objetivos y terapia."
+            }
+          ],
+          "mnemotecnia": "ALAD EN NTS: AYUNAS 70–120 / POS 2h <140 / A1c <7.",
+          "trampas": [
+            "NO mezclar criterios diagnósticos con metas terapéuticas: ayunas >=126 diagnostica, no es objetivo deseado.",
+            "Distinguir glucemia 2 h tras ingesta usual de prueba oral con 75 g de glucosa.",
+            "La meta de la tabla ALAD es estricta; en clínica individualizar por hipoglucemia, edad y comorbilidades.",
+            "Un resultado aislado no reemplaza tendencias, HbA1c ni seguimiento renal, ocular y cardiovascular."
+          ],
+          "perla": "ALAD EN NTS: AYUNAS 70–120 / POS 2h <140 / A1c <7.",
+          "repaso_activo": [
+            {
+              "pregunta": "¿Qué clave registra el PDF?",
+              "respuesta": "C: glucemia posprandial 2 horas <140 mg/dl."
+            },
+            {
+              "pregunta": "¿Cuáles son las otras dos metas ALAD de esa tabla?",
+              "respuesta": "Ayunas 70–120 mg/dl y HbA1c <7 %."
+            },
+            {
+              "pregunta": "¿Por qué no usar 126 mg/dl como meta de ayunas?",
+              "respuesta": "Es conocido como umbral diagnóstico y no expresa la meta de control de la tabla."
+            },
+            {
+              "pregunta": "¿Qué puede falsear interpretación de HbA1c?",
+              "respuesta": "Alteraciones de vida eritrocitaria, anemia, hemólisis y transfusión, entre otras."
+            },
+            {
+              "pregunta": "¿Cuál es el principio de control clínico moderno?",
+              "respuesta": "Individualización y prevención de hipoglucemia y complicaciones."
+            }
+          ],
+          "refuerzo": [
+            {
+              "enunciado": "Una guía sanitaria usa metas ALAD: ayunas 70–120 y HbA1c <7%. ¿Qué meta posprandial a dos horas acompaña estos valores en la tabla de vigilancia peruana?",
+              "alternativas": {
+                "A": "Menos de 200 mg/dl",
+                "B": "Menos de 180 mg/dl",
+                "C": "Menos de 160 mg/dl",
+                "D": "Menos de 126 mg/dl",
+                "E": "Menos de 140 mg/dl"
+              },
+              "respuesta": "E",
+              "explicacion": "La NTS 210-MINSA/CDC-2024 reproduce la tabla ALAD con posprandial <140 mg/dl; no confundir con otros objetivos clínicos individualizados."
+            },
+            {
+              "enunciado": "Persona de 78 años con DM2 y múltiples hipoglucemias presenta HbA1c 6,3%. ¿Cuál es el principio más importante antes de intensificar tratamiento?",
+              "alternativas": {
+                "A": "Bajar HbA1c a menos de 5% en todos los casos",
+                "B": "Ignorar antecedentes de hipoglucemia",
+                "C": "Individualizar metas y reducir riesgo de hipoglucemia",
+                "D": "Mantener siempre la misma meta de la tabla para todos",
+                "E": "Suspender controles de función renal"
+              },
+              "respuesta": "C",
+              "explicacion": "La seguridad y el beneficio individual priman sobre una meta numérica uniforme en adultos de alto riesgo."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "number": 3,
+      "question": "En un establecimiento de salud I-4 el personal de salud recoge los datos en el escenario donde se presentó la enfermedad para su control, incluyendo a las personas que no acudieron al servicio de salud. ¿A qué tipo de vigilancia corresponde?",
+      "options": {
+        "A": "Centinela",
+        "B": "Especializada",
+        "C": "Pasiva",
+        "D": "Activa"
+      },
+      "correct": "D",
+      "code": "ENCAPS26-I P003",
+      "course": "ENCAPS Medicina 2026-I · Temario desarrollado",
+      "topic": "Vigilancia epidemiológica activa: captación comunitaria y control de brotes",
+      "comment": "CLAVE HISTÓRICA SEGÚN PDF\nD. Activa — clave resaltada en PDF ENCAPS Medicina 2026-I del 19 de abril de 2026; no equivale a cotejo con tabla oficial separada.\n\nRAZONAMIENTO COMPLETO\nEl personal sale al lugar donde ocurrió la enfermedad, busca información en personas que no consultaron y recoge datos para controlar el evento: es vigilancia activa, opción D resaltada. La distinción fundamental es búsqueda intencionada, no simplemente que el registro sea frecuente. La vigilancia pasiva recibe casos a través de consultas y notificaciones habituales, mientras la centinela se organiza en sedes seleccionadas con definiciones estandarizadas; especializada alude al seguimiento de determinados eventos y no describe este mecanismo de detección. La vigilancia activa suele incrementar sensibilidad y oportunidad frente a un brote, aunque requiere recursos y evaluación de calidad de datos.\n\nDESARROLLO DEL TEMARIO\n1. Definición de vigilancia epidemiológica\nRecopilación sistemática, análisis, interpretación y difusión de datos para orientar acciones de prevención y control, con retroalimentación a los niveles operativos.\n2. Vigilancia activa\nBúsqueda intencional en viviendas, centros educativos, registros hospitalarios o laboratorios para encontrar casos que el sistema rutinario podría omitir.\n3. Vigilancia pasiva\nCaptación de personas que acuden a los servicios y sus notificaciones; más económica, pero puede perder casos subclínicos o de difícil acceso.\n4. Vigilancia centinela\nRed seleccionada de servicios o puntos que notifican eventos específicos con protocolos; no tiene por objetivo captar universalmente cada caso.\n5. Vigilancia especializada\nProgramas o procedimientos dirigidos a una condición específica. No debe confundirse con la modalidad activa/pasiva de búsqueda.\n6. Búsqueda comunitaria\nDelimitar ámbito y periodo, definir caso, visitar sectores, entrevistar, identificar exposiciones, reconocer casos no captados y proteger confidencialidad.\n7. Investigar un brote\nCalcular línea de tiempo, distribución por persona/lugar/tiempo, hipótesis de fuente y transmisión; aplicar medidas pertinentes sin esperar certeza absoluta.\n8. Medición epidemiológica\nDistinguir tasas de ataque, incidencia, prevalencia, letalidad; usar denominadores de población apropiados para no sobreestimar impacto.\n9. Calidad y oportunidad\nRegistrar fecha de inicio, búsqueda, notificación, aislamiento o control; interpretar subnotificación, duplicados y cambios de definición.\n10. Aplicaciones\nSarampión, dengue, IAAS y otras alertas pueden requerir búsqueda activa, incluso si normalmente funcionan por notificación pasiva.\n\nANÁLISIS INDIVIDUAL DE DISTRACTORES\nA) Vigilancia centinela se desarrolla en establecimientos o áreas seleccionadas para generar datos de tendencia; el ejemplo describe búsqueda comunitaria fuera de consultas.\nB) Especializada puede describir el evento de interés, pero no identifica el método intencional de captación.\nC) Pasiva significa esperar detección en asistencia habitual o reportes espontáneos, mientras aquí el equipo sale a buscar también a quienes no consultaron.\nD) Activa es correcta: investigación y búsqueda directa de casos en la comunidad, fuera del flujo habitual de notificación.\n\nNORMATIVA Y FUENTES\nCDC Perú: Vigilancia de EDA/IRA/SGB | https://www.dge.gob.pe/portalnuevo/vigilancia-epidemiologica/vigilancia-de-eda-ira-sgb-utveis/ | Distingue sistemas pasivos y activación de búsqueda intencional en contextos de brote.\nNTS 174-MINSA/2021/CDC | https://cdn.www.gob.pe/uploads/document/file/3466851/Norma%20t%C3%A9cnica%20de%20salud%20para%20la%20vigilancia%20epidemiol%C3%B3gica%20de%20la%20morbilidad%20materna%20extrema.pdf | Define vigilancia activa como búsqueda intencional para mejorar sensibilidad.\n\nTRAMPAS / DIFERENCIAS DE GUÍAS\nNo confundir 'vigilancia activa' con 'intervención activa': aquí el criterio es la BÚSQUEDA del caso.\nCentinela indica puntos seleccionados, no necesariamente búsqueda domiciliaria.\nAusencia de consulta no equivale a ausencia de enfermedad; analizar barreras de acceso y subregistro.\nMejor sensibilidad no garantiza representatividad automática; registrar alcance de búsqueda.\n\nMNEMOTECNIA\nACTIVA = buscar; PASIVA = recibir; CENTINELA = observar sitios elegidos.\n\nREPASO ACTIVO\n¿Qué palabra define vigilancia activa? — Búsqueda intencional de casos.\n¿Qué ocurre si solo se notifican consultas espontáneas? — Predomina vigilancia pasiva.\n¿Centinela requiere visitas a todos los hogares? — No, trabaja con unidades seleccionadas.\n¿Por qué buscar no consultantes? — Para detectar subregistro y mejorar sensibilidad.\n¿Qué debe definir antes de la visita? — Definición de caso, área, periodo y registro seguro.\n\nDOS CASOS DE REFUERZO\n1. Después de brote en colegio, epidemiología revisa registros, visita viviendas y llama a contactos para identificar personas febriles que no consultaron. ¿Qué modalidad predomina?\nA) Vigilancia activa\nB) Vigilancia pasiva\nC) Vigilancia por encuesta censal sin definición\nD) Vigilancia solamente centinela\nE) Estudio de casos y controles necesariamente\nClave A. La búsqueda intencional de casos fuera del flujo habitual es vigilancia activa.\n2. Una red de hospitales reporta semanalmente los casos encontrados durante atención habitual, sin pesquisa especial. ¿Qué tipo de detección predomina?\nA) Investigación de contactos\nB) Pesquisa extramural\nC) Búsqueda activa institucional\nD) Vigilancia pasiva\nE) Control entomológico\nClave D. Se notifican casos captados por asistencia rutinaria, sin búsqueda deliberada.\n\nPERLA\nACTIVA = buscar; PASIVA = recibir; CENTINELA = observar sitios elegidos. No confundir 'vigilancia activa' con 'intervención activa': aquí el criterio es la BÚSQUEDA del caso.",
+      "pearl": "ACTIVA = buscar; PASIVA = recibir; CENTINELA = observar sitios elegidos. No confundir 'vigilancia activa' con 'intervención activa': aquí el criterio es la BÚSQUEDA del caso.",
+      "keywords": [
+        "Vigilancia epidemiológica activa: captación comunitaria y control de brotes",
+        "ENCAPS Medicina 2026-I",
+        "SERUMS MINSA"
+      ],
+      "estadoDesarrollo": "completo",
+      "estadoClave": "resaltada_en_pdf_usuario_no_cotejada_con_tabla_oficial_independiente",
+      "lesson": {
+        "respuesta_resumida": "D. Activa — clave resaltada en PDF ENCAPS Medicina 2026-I del 19 de abril de 2026; no equivale a cotejo con tabla oficial separada.",
+        "razonamiento": "El personal sale al lugar donde ocurrió la enfermedad, busca información en personas que no consultaron y recoge datos para controlar el evento: es vigilancia activa, opción D resaltada. La distinción fundamental es búsqueda intencionada, no simplemente que el registro sea frecuente. La vigilancia pasiva recibe casos a través de consultas y notificaciones habituales, mientras la centinela se organiza en sedes seleccionadas con definiciones estandarizadas; especializada alude al seguimiento de determinados eventos y no describe este mecanismo de detección. La vigilancia activa suele incrementar sensibilidad y oportunidad frente a un brote, aunque requiere recursos y evaluación de calidad de datos.",
+        "temario": [
+          "Definición de vigilancia epidemiológica: Recopilación sistemática, análisis, interpretación y difusión de datos para orientar acciones de prevención y control, con retroalimentación a los niveles operativos.",
+          "Vigilancia activa: Búsqueda intencional en viviendas, centros educativos, registros hospitalarios o laboratorios para encontrar casos que el sistema rutinario podría omitir.",
+          "Vigilancia pasiva: Captación de personas que acuden a los servicios y sus notificaciones; más económica, pero puede perder casos subclínicos o de difícil acceso.",
+          "Vigilancia centinela: Red seleccionada de servicios o puntos que notifican eventos específicos con protocolos; no tiene por objetivo captar universalmente cada caso.",
+          "Vigilancia especializada: Programas o procedimientos dirigidos a una condición específica. No debe confundirse con la modalidad activa/pasiva de búsqueda.",
+          "Búsqueda comunitaria: Delimitar ámbito y periodo, definir caso, visitar sectores, entrevistar, identificar exposiciones, reconocer casos no captados y proteger confidencialidad.",
+          "Investigar un brote: Calcular línea de tiempo, distribución por persona/lugar/tiempo, hipótesis de fuente y transmisión; aplicar medidas pertinentes sin esperar certeza absoluta.",
+          "Medición epidemiológica: Distinguir tasas de ataque, incidencia, prevalencia, letalidad; usar denominadores de población apropiados para no sobreestimar impacto.",
+          "Calidad y oportunidad: Registrar fecha de inicio, búsqueda, notificación, aislamiento o control; interpretar subnotificación, duplicados y cambios de definición.",
+          "Aplicaciones: Sarampión, dengue, IAAS y otras alertas pueden requerir búsqueda activa, incluso si normalmente funcionan por notificación pasiva."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Vigilancia centinela se desarrolla en establecimientos o áreas seleccionadas para generar datos de tendencia; el ejemplo describe búsqueda comunitaria fuera de consultas.",
+          "B": "Especializada puede describir el evento de interés, pero no identifica el método intencional de captación.",
+          "C": "Pasiva significa esperar detección en asistencia habitual o reportes espontáneos, mientras aquí el equipo sale a buscar también a quienes no consultaron.",
+          "D": "Activa es correcta: investigación y búsqueda directa de casos en la comunidad, fuera del flujo habitual de notificación."
+        },
+        "normativa": [
+          "CDC Perú: Vigilancia de EDA/IRA/SGB | https://www.dge.gob.pe/portalnuevo/vigilancia-epidemiologica/vigilancia-de-eda-ira-sgb-utveis/ | Distingue sistemas pasivos y activación de búsqueda intencional en contextos de brote.",
+          "NTS 174-MINSA/2021/CDC | https://cdn.www.gob.pe/uploads/document/file/3466851/Norma%20t%C3%A9cnica%20de%20salud%20para%20la%20vigilancia%20epidemiol%C3%B3gica%20de%20la%20morbilidad%20materna%20extrema.pdf | Define vigilancia activa como búsqueda intencional para mejorar sensibilidad."
+        ],
+        "mnemotecnia": "ACTIVA = buscar; PASIVA = recibir; CENTINELA = observar sitios elegidos.",
+        "trampas": [
+          "No confundir 'vigilancia activa' con 'intervención activa': aquí el criterio es la BÚSQUEDA del caso.",
+          "Centinela indica puntos seleccionados, no necesariamente búsqueda domiciliaria.",
+          "Ausencia de consulta no equivale a ausencia de enfermedad; analizar barreras de acceso y subregistro.",
+          "Mejor sensibilidad no garantiza representatividad automática; registrar alcance de búsqueda."
+        ],
+        "perla": "ACTIVA = buscar; PASIVA = recibir; CENTINELA = observar sitios elegidos. No confundir 'vigilancia activa' con 'intervención activa': aquí el criterio es la BÚSQUEDA del caso.",
+        "repaso_activo": [
+          "¿Qué palabra define vigilancia activa? — Búsqueda intencional de casos.",
+          "¿Qué ocurre si solo se notifican consultas espontáneas? — Predomina vigilancia pasiva.",
+          "¿Centinela requiere visitas a todos los hogares? — No, trabaja con unidades seleccionadas.",
+          "¿Por qué buscar no consultantes? — Para detectar subregistro y mejorar sensibilidad.",
+          "¿Qué debe definir antes de la visita? — Definición de caso, área, periodo y registro seguro."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Después de brote en colegio, epidemiología revisa registros, visita viviendas y llama a contactos para identificar personas febriles que no consultaron. ¿Qué modalidad predomina?",
+            "alternativas": {
+              "A": "Vigilancia activa",
+              "B": "Vigilancia pasiva",
+              "C": "Vigilancia por encuesta censal sin definición",
+              "D": "Vigilancia solamente centinela",
+              "E": "Estudio de casos y controles necesariamente"
+            },
+            "respuesta": "A",
+            "explicacion": "La búsqueda intencional de casos fuera del flujo habitual es vigilancia activa."
+          },
+          {
+            "enunciado": "Una red de hospitales reporta semanalmente los casos encontrados durante atención habitual, sin pesquisa especial. ¿Qué tipo de detección predomina?",
+            "alternativas": {
+              "A": "Investigación de contactos",
+              "B": "Pesquisa extramural",
+              "C": "Búsqueda activa institucional",
+              "D": "Vigilancia pasiva",
+              "E": "Control entomológico"
+            },
+            "respuesta": "D",
+            "explicacion": "Se notifican casos captados por asistencia rutinaria, sin búsqueda deliberada."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Vigilancia epidemiológica activa: captación comunitaria y control de brotes",
+          "eje": "ENCAPS Medicina 2026-I / Atención primaria, clínica y salud pública",
+          "confiabilidad": "clave_resaltada_pdf_usuario",
+          "respuesta_resumida": "D. Activa",
+          "razonamiento": [
+            "El personal sale al lugar donde ocurrió la enfermedad, busca información en personas que no consultaron y recoge datos para controlar el evento: es vigilancia activa, opción D resaltada.",
+            "La distinción fundamental es búsqueda intencionada, no simplemente que el registro sea frecuente.",
+            "La vigilancia pasiva recibe casos a través de consultas y notificaciones habituales, mientras la centinela se organiza en sedes seleccionadas con definiciones estandarizadas; especializada alude al seguimiento de determinados eventos y no describe este mecanismo de detección.",
+            "La vigilancia activa suele incrementar sensibilidad y oportunidad frente a un brote, aunque requiere recursos y evaluación de calidad de datos."
+          ],
+          "temario": [
+            {
+              "subtitulo": "Definición de vigilancia epidemiológica",
+              "texto": "Recopilación sistemática, análisis, interpretación y difusión de datos para orientar acciones de prevención y control, con retroalimentación a los niveles operativos."
+            },
+            {
+              "subtitulo": "Vigilancia activa",
+              "texto": "Búsqueda intencional en viviendas, centros educativos, registros hospitalarios o laboratorios para encontrar casos que el sistema rutinario podría omitir."
+            },
+            {
+              "subtitulo": "Vigilancia pasiva",
+              "texto": "Captación de personas que acuden a los servicios y sus notificaciones; más económica, pero puede perder casos subclínicos o de difícil acceso."
+            },
+            {
+              "subtitulo": "Vigilancia centinela",
+              "texto": "Red seleccionada de servicios o puntos que notifican eventos específicos con protocolos; no tiene por objetivo captar universalmente cada caso."
+            },
+            {
+              "subtitulo": "Vigilancia especializada",
+              "texto": "Programas o procedimientos dirigidos a una condición específica. No debe confundirse con la modalidad activa/pasiva de búsqueda."
+            },
+            {
+              "subtitulo": "Búsqueda comunitaria",
+              "texto": "Delimitar ámbito y periodo, definir caso, visitar sectores, entrevistar, identificar exposiciones, reconocer casos no captados y proteger confidencialidad."
+            },
+            {
+              "subtitulo": "Investigar un brote",
+              "texto": "Calcular línea de tiempo, distribución por persona/lugar/tiempo, hipótesis de fuente y transmisión; aplicar medidas pertinentes sin esperar certeza absoluta."
+            },
+            {
+              "subtitulo": "Medición epidemiológica",
+              "texto": "Distinguir tasas de ataque, incidencia, prevalencia, letalidad; usar denominadores de población apropiados para no sobreestimar impacto."
+            },
+            {
+              "subtitulo": "Calidad y oportunidad",
+              "texto": "Registrar fecha de inicio, búsqueda, notificación, aislamiento o control; interpretar subnotificación, duplicados y cambios de definición."
+            },
+            {
+              "subtitulo": "Aplicaciones",
+              "texto": "Sarampión, dengue, IAAS y otras alertas pueden requerir búsqueda activa, incluso si normalmente funcionan por notificación pasiva."
+            }
+          ],
+          "distractores": {
+            "A": "Vigilancia centinela se desarrolla en establecimientos o áreas seleccionadas para generar datos de tendencia; el ejemplo describe búsqueda comunitaria fuera de consultas.",
+            "B": "Especializada puede describir el evento de interés, pero no identifica el método intencional de captación.",
+            "C": "Pasiva significa esperar detección en asistencia habitual o reportes espontáneos, mientras aquí el equipo sale a buscar también a quienes no consultaron.",
+            "D": "Activa es correcta: investigación y búsqueda directa de casos en la comunidad, fuera del flujo habitual de notificación."
+          },
+          "normativa": [
+            {
+              "nombre": "CDC Perú: Vigilancia de EDA/IRA/SGB",
+              "url": "https://www.dge.gob.pe/portalnuevo/vigilancia-epidemiologica/vigilancia-de-eda-ira-sgb-utveis/",
+              "aplicacion": "Distingue sistemas pasivos y activación de búsqueda intencional en contextos de brote."
+            },
+            {
+              "nombre": "NTS 174-MINSA/2021/CDC",
+              "url": "https://cdn.www.gob.pe/uploads/document/file/3466851/Norma%20t%C3%A9cnica%20de%20salud%20para%20la%20vigilancia%20epidemiol%C3%B3gica%20de%20la%20morbilidad%20materna%20extrema.pdf",
+              "aplicacion": "Define vigilancia activa como búsqueda intencional para mejorar sensibilidad."
+            }
+          ],
+          "mnemotecnia": "ACTIVA = buscar; PASIVA = recibir; CENTINELA = observar sitios elegidos.",
+          "trampas": [
+            "No confundir 'vigilancia activa' con 'intervención activa': aquí el criterio es la BÚSQUEDA del caso.",
+            "Centinela indica puntos seleccionados, no necesariamente búsqueda domiciliaria.",
+            "Ausencia de consulta no equivale a ausencia de enfermedad; analizar barreras de acceso y subregistro.",
+            "Mejor sensibilidad no garantiza representatividad automática; registrar alcance de búsqueda."
+          ],
+          "perla": "ACTIVA = buscar; PASIVA = recibir; CENTINELA = observar sitios elegidos.",
+          "repaso_activo": [
+            {
+              "pregunta": "¿Qué palabra define vigilancia activa?",
+              "respuesta": "Búsqueda intencional de casos."
+            },
+            {
+              "pregunta": "¿Qué ocurre si solo se notifican consultas espontáneas?",
+              "respuesta": "Predomina vigilancia pasiva."
+            },
+            {
+              "pregunta": "¿Centinela requiere visitas a todos los hogares?",
+              "respuesta": "No, trabaja con unidades seleccionadas."
+            },
+            {
+              "pregunta": "¿Por qué buscar no consultantes?",
+              "respuesta": "Para detectar subregistro y mejorar sensibilidad."
+            },
+            {
+              "pregunta": "¿Qué debe definir antes de la visita?",
+              "respuesta": "Definición de caso, área, periodo y registro seguro."
+            }
+          ],
+          "refuerzo": [
+            {
+              "enunciado": "Después de brote en colegio, epidemiología revisa registros, visita viviendas y llama a contactos para identificar personas febriles que no consultaron. ¿Qué modalidad predomina?",
+              "alternativas": {
+                "A": "Vigilancia activa",
+                "B": "Vigilancia pasiva",
+                "C": "Vigilancia por encuesta censal sin definición",
+                "D": "Vigilancia solamente centinela",
+                "E": "Estudio de casos y controles necesariamente"
+              },
+              "respuesta": "A",
+              "explicacion": "La búsqueda intencional de casos fuera del flujo habitual es vigilancia activa."
+            },
+            {
+              "enunciado": "Una red de hospitales reporta semanalmente los casos encontrados durante atención habitual, sin pesquisa especial. ¿Qué tipo de detección predomina?",
+              "alternativas": {
+                "A": "Investigación de contactos",
+                "B": "Pesquisa extramural",
+                "C": "Búsqueda activa institucional",
+                "D": "Vigilancia pasiva",
+                "E": "Control entomológico"
+              },
+              "respuesta": "D",
+              "explicacion": "Se notifican casos captados por asistencia rutinaria, sin búsqueda deliberada."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "number": 4,
+      "question": "Mujer de 52 años, natural de región selva, trabaja en prostitución, refiere a profesional de salud que el día anterior fue dopada y sufrió agresión sexual, tiene dolor pélvico y moretones en el cuerpo. ¿Qué debe hacer el profesional de salud?",
+      "options": {
+        "A": "Aplicar kit completo de emergencia, previo consentimiento",
+        "B": "Derivar a paciente para que se le brinde atención en salud mental",
+        "C": "Aplicar kit de descarte sin consentimiento para que no se asuste",
+        "D": "Hacer denuncia a las autoridades sin autorización de paciente"
+      },
+      "correct": "A",
+      "code": "ENCAPS26-I P004",
+      "course": "ENCAPS Medicina 2026-I · Temario desarrollado",
+      "topic": "Atención inmediata e integral a sobrevivientes de violencia sexual: kit de emergencia y consentimiento",
+      "comment": "CLAVE HISTÓRICA SEGÚN PDF\nA. Aplicar kit completo de emergencia, previo consentimiento — clave resaltada en PDF ENCAPS Medicina 2026-I del 19 de abril de 2026; no equivale a cotejo con tabla oficial separada.\n\nRAZONAMIENTO COMPLETO\nLa paciente relata agresión sexual ocurrida el día anterior, posible intoxicación y signos físicos. La respuesta resaltada A indica atención inmediata y oferta del kit integral de emergencia, obteniendo consentimiento informado. El abordaje no debe depender de la ocupación sexual de la persona ni de que quiera denunciar. Se debe atender seguridad, lesiones, riesgo de embarazo e ITS/VIH, evaluar posible exposición a sustancias, ofrecer apoyo psicológico y orientación legal, registrar adecuadamente y evitar revictimización. El kit y la profilaxis tienen ventanas temporales: a ~24 horas aún es prioritario actuar; deben revisarse indicaciones y contraindicaciones, y no suministrar pruebas o intervenciones invasivas sin consentimiento salvo excepciones legales muy concretas. Una denuncia a autoridades puede tener obligaciones legales contextuales, pero no sustituye la atención ni justifica omitir información y consentimiento del paciente adulto.\n\nDESARROLLO DEL TEMARIO\n1. Primero: seguridad y urgencia\nAcoger sin juicio; descartar hemorragia, compromiso neurológico, intoxicación, traumatismos, dolor severo, riesgo suicida, lesión genital o abdominal y otras complicaciones que requieran estabilización o referencia urgente.\n2. Consentimiento y autonomía\nInformar acciones propuestas, confidencialidad y límites legales; obtener consentimiento válido para procedimientos y documentar decisiones. La persona puede aceptar algunas medidas y rechazar otras.\n3. No revictimización\nEvitar interrogatorios innecesarios repetidos, culpabilización, comentarios sobre la ocupación sexual o insinuaciones de consentimiento derivadas del oficio.\n4. Kit de emergencia\nSegún MINSA, incluye recursos de evaluación y prevención de embarazo e infecciones según exposición, con algoritmos nacionales; confirmar disponibilidad, alergias, riesgo y tiempos.\n5. Ventana temporal\nEn el primer día todavía se encuentra dentro de intervalos críticos de profilaxis postexposición VIH y otras medidas urgentes. El MINSA describe kit completo dentro de las primeras 72 horas.\n6. Profilaxis VIH e ITS\nValorar tipo de exposición y ofrecer profilaxis antirretroviral cuando esté indicada, además de profilaxis o pruebas según algoritmo; documentar información, adherencia y seguimiento.\n7. Anticoncepción de emergencia\nOfrecer cuando proceda, según circunstancias, deseos y contraindicaciones; una persona de 52 años requiere valoración individual de posibilidad de embarazo, no presuposición de infertilidad.\n8. Atención física, mental y social\nTratar lesiones, evaluar necesidad de evidencia forense con consentimiento, activar recursos de salud mental y trabajo social, orientar a protección y coordinar continuidad.\n9. Aspectos de notificación\nDiferenciar deberes institucionales de comunicación a autoridades frente a decisiones y consentimiento de una persona adulta; respetar marco legal aplicable y no retrasar cuidados.\n10. Documentación forense segura\nRegistrar relato clínico con precisión no sugestiva, hora del evento, hallazgos y acciones consentidas; proteger cadena de custodia cuando corresponda y no garantizar resultados de pruebas.\n11. Seguimiento\nProgramar control clínico y serológico conforme al riesgo, apoyo emocional, evaluación de seguridad, adherencia a profilaxis y derivación a servicios especializados según necesidad.\n\nANÁLISIS INDIVIDUAL DE DISTRACTORES\nA) Correcta y prioritaria: kit completo de emergencia con consentimiento informado, junto con atención integral inmediata y valoración clínica individual.\nB) Salud mental es un componente importante, pero derivar solamente sin atender lesiones y profilaxis urgente supone retraso evitable.\nC) Pruebas sin consentimiento lesionan derechos y alianza terapéutica; la urgencia no autoriza indiscriminadamente su realización sin información.\nD) La actuación frente a autoridades requiere valorar normas y circunstancias, pero una denuncia sin autorización no representa la medida clínica inmediata más adecuada entre estas opciones.\n\nNORMATIVA Y FUENTES\nRM 227-2019-MINSA / Directiva Sanitaria 083 | https://www.gob.pe/institucion/minsa/normas-legales/266223-227-2019-minsa | Directiva de uso del kit para atención de casos de violencia sexual.\nMINSA: atención oportuna y gratuita para víctimas de violencia sexual | https://www.gob.pe/institucion/minsa/noticias/917097-dia-internacional-de-la-mujer-minsa-garantiza-atencion-oportuna-para-victimas-de-violencia-sexual | Describe equipos multidisciplinarios, disponibilidad del kit y oportunidad en primeras 72 horas.\n\nTRAMPAS / DIFERENCIAS DE GUÍAS\nLa condición de trabajadora sexual NO modifica el derecho a atención, dignidad o consentimiento.\nDerivar a psicología sin ofrecer profilaxis o atención urgente es incompleto.\nEl tiempo desde la agresión importa: el retraso puede perder oportunidades de prevención de VIH/embarazo.\nNo interpretar la alternativa D como prohibición universal de reportar: hay obligaciones normativas específicas; la comparación es de prioridad clínica y respeto a derechos.\n\nMNEMOTECNIA\nVIOLENCIA SEXUAL: ACOGER → ESTABILIZAR → INFORMAR/CONSENTIR → KIT → APOYO → SEGUIMIENTO.\n\nREPASO ACTIVO\n¿Cuál es la primera respuesta del examen? — A: aplicar kit completo de emergencia con consentimiento.\n¿La condición de trabajadora sexual cambia deber de atender? — No; atención digna sin discriminación.\n¿Cuál es una ventana crítica para kit/profilaxis? — Las primeras 72 horas en la directiva general del MINSA.\n¿Puede forzarse tamizaje de ITS en paciente adulta orientada? — No de forma indiscriminada; respetar consentimiento y normativa.\n¿Derivación a salud mental sustituye el kit? — No, complementa la atención física y preventiva urgente.\n\nDOS CASOS DE REFUERZO\n1. Mujer adulta consulta 18 horas tras agresión sexual, con lesiones leves y temor de que la juzguen. ¿Qué acción debe priorizar la IPRESS?\nA) Exigir denuncia policial antes de atender\nB) Ofrecer atención clínica y kit de emergencia con consentimiento informado\nC) Indicar únicamente psicoterapia para la semana siguiente\nD) Tomar muestras íntimas sin explicar el procedimiento\nE) Negar profilaxis por actividad sexual previa\nClave B. El evento es reciente y la protección clínica es tiempo-dependiente; la atención respeta autonomía y no discrimina.\n2. Paciente adulta acepta profilaxis indicada pero rechaza un procedimiento de recolección de evidencia forense. ¿Qué corresponde?\nA) Suspender todas las medidas sanitarias\nB) Imponer recolección por ser víctima de agresión\nC) Dejar de documentar lesiones\nD) Aplazar profilaxis hasta aprobación policial\nE) Registrar consentimiento selectivo y mantener cuidados aceptados\nClave E. El consentimiento es específico y la negativa a un procedimiento no elimina el acceso a otros tratamientos indicados.\n\nPERLA\nVIOLENCIA SEXUAL: ACOGER → ESTABILIZAR → INFORMAR/CONSENTIR → KIT → APOYO → SEGUIMIENTO. La condición de trabajadora sexual NO modifica el derecho a atención, dignidad o consentimiento.",
+      "pearl": "VIOLENCIA SEXUAL: ACOGER → ESTABILIZAR → INFORMAR/CONSENTIR → KIT → APOYO → SEGUIMIENTO. La condición de trabajadora sexual NO modifica el derecho a atención, dignidad o consentimiento.",
+      "keywords": [
+        "Atención inmediata e integral a sobrevivientes de violencia sexual: kit de emergencia y consentimiento",
+        "ENCAPS Medicina 2026-I",
+        "SERUMS MINSA"
+      ],
+      "estadoDesarrollo": "completo",
+      "estadoClave": "resaltada_en_pdf_usuario_no_cotejada_con_tabla_oficial_independiente",
+      "lesson": {
+        "respuesta_resumida": "A. Aplicar kit completo de emergencia, previo consentimiento — clave resaltada en PDF ENCAPS Medicina 2026-I del 19 de abril de 2026; no equivale a cotejo con tabla oficial separada.",
+        "razonamiento": "La paciente relata agresión sexual ocurrida el día anterior, posible intoxicación y signos físicos. La respuesta resaltada A indica atención inmediata y oferta del kit integral de emergencia, obteniendo consentimiento informado. El abordaje no debe depender de la ocupación sexual de la persona ni de que quiera denunciar. Se debe atender seguridad, lesiones, riesgo de embarazo e ITS/VIH, evaluar posible exposición a sustancias, ofrecer apoyo psicológico y orientación legal, registrar adecuadamente y evitar revictimización. El kit y la profilaxis tienen ventanas temporales: a ~24 horas aún es prioritario actuar; deben revisarse indicaciones y contraindicaciones, y no suministrar pruebas o intervenciones invasivas sin consentimiento salvo excepciones legales muy concretas. Una denuncia a autoridades puede tener obligaciones legales contextuales, pero no sustituye la atención ni justifica omitir información y consentimiento del paciente adulto.",
+        "temario": [
+          "Primero: seguridad y urgencia: Acoger sin juicio; descartar hemorragia, compromiso neurológico, intoxicación, traumatismos, dolor severo, riesgo suicida, lesión genital o abdominal y otras complicaciones que requieran estabilización o referencia urgente.",
+          "Consentimiento y autonomía: Informar acciones propuestas, confidencialidad y límites legales; obtener consentimiento válido para procedimientos y documentar decisiones. La persona puede aceptar algunas medidas y rechazar otras.",
+          "No revictimización: Evitar interrogatorios innecesarios repetidos, culpabilización, comentarios sobre la ocupación sexual o insinuaciones de consentimiento derivadas del oficio.",
+          "Kit de emergencia: Según MINSA, incluye recursos de evaluación y prevención de embarazo e infecciones según exposición, con algoritmos nacionales; confirmar disponibilidad, alergias, riesgo y tiempos.",
+          "Ventana temporal: En el primer día todavía se encuentra dentro de intervalos críticos de profilaxis postexposición VIH y otras medidas urgentes. El MINSA describe kit completo dentro de las primeras 72 horas.",
+          "Profilaxis VIH e ITS: Valorar tipo de exposición y ofrecer profilaxis antirretroviral cuando esté indicada, además de profilaxis o pruebas según algoritmo; documentar información, adherencia y seguimiento.",
+          "Anticoncepción de emergencia: Ofrecer cuando proceda, según circunstancias, deseos y contraindicaciones; una persona de 52 años requiere valoración individual de posibilidad de embarazo, no presuposición de infertilidad.",
+          "Atención física, mental y social: Tratar lesiones, evaluar necesidad de evidencia forense con consentimiento, activar recursos de salud mental y trabajo social, orientar a protección y coordinar continuidad.",
+          "Aspectos de notificación: Diferenciar deberes institucionales de comunicación a autoridades frente a decisiones y consentimiento de una persona adulta; respetar marco legal aplicable y no retrasar cuidados.",
+          "Documentación forense segura: Registrar relato clínico con precisión no sugestiva, hora del evento, hallazgos y acciones consentidas; proteger cadena de custodia cuando corresponda y no garantizar resultados de pruebas.",
+          "Seguimiento: Programar control clínico y serológico conforme al riesgo, apoyo emocional, evaluación de seguridad, adherencia a profilaxis y derivación a servicios especializados según necesidad."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Correcta y prioritaria: kit completo de emergencia con consentimiento informado, junto con atención integral inmediata y valoración clínica individual.",
+          "B": "Salud mental es un componente importante, pero derivar solamente sin atender lesiones y profilaxis urgente supone retraso evitable.",
+          "C": "Pruebas sin consentimiento lesionan derechos y alianza terapéutica; la urgencia no autoriza indiscriminadamente su realización sin información.",
+          "D": "La actuación frente a autoridades requiere valorar normas y circunstancias, pero una denuncia sin autorización no representa la medida clínica inmediata más adecuada entre estas opciones."
+        },
+        "normativa": [
+          "RM 227-2019-MINSA / Directiva Sanitaria 083 | https://www.gob.pe/institucion/minsa/normas-legales/266223-227-2019-minsa | Directiva de uso del kit para atención de casos de violencia sexual.",
+          "MINSA: atención oportuna y gratuita para víctimas de violencia sexual | https://www.gob.pe/institucion/minsa/noticias/917097-dia-internacional-de-la-mujer-minsa-garantiza-atencion-oportuna-para-victimas-de-violencia-sexual | Describe equipos multidisciplinarios, disponibilidad del kit y oportunidad en primeras 72 horas."
+        ],
+        "mnemotecnia": "VIOLENCIA SEXUAL: ACOGER → ESTABILIZAR → INFORMAR/CONSENTIR → KIT → APOYO → SEGUIMIENTO.",
+        "trampas": [
+          "La condición de trabajadora sexual NO modifica el derecho a atención, dignidad o consentimiento.",
+          "Derivar a psicología sin ofrecer profilaxis o atención urgente es incompleto.",
+          "El tiempo desde la agresión importa: el retraso puede perder oportunidades de prevención de VIH/embarazo.",
+          "No interpretar la alternativa D como prohibición universal de reportar: hay obligaciones normativas específicas; la comparación es de prioridad clínica y respeto a derechos."
+        ],
+        "perla": "VIOLENCIA SEXUAL: ACOGER → ESTABILIZAR → INFORMAR/CONSENTIR → KIT → APOYO → SEGUIMIENTO. La condición de trabajadora sexual NO modifica el derecho a atención, dignidad o consentimiento.",
+        "repaso_activo": [
+          "¿Cuál es la primera respuesta del examen? — A: aplicar kit completo de emergencia con consentimiento.",
+          "¿La condición de trabajadora sexual cambia deber de atender? — No; atención digna sin discriminación.",
+          "¿Cuál es una ventana crítica para kit/profilaxis? — Las primeras 72 horas en la directiva general del MINSA.",
+          "¿Puede forzarse tamizaje de ITS en paciente adulta orientada? — No de forma indiscriminada; respetar consentimiento y normativa.",
+          "¿Derivación a salud mental sustituye el kit? — No, complementa la atención física y preventiva urgente."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Mujer adulta consulta 18 horas tras agresión sexual, con lesiones leves y temor de que la juzguen. ¿Qué acción debe priorizar la IPRESS?",
+            "alternativas": {
+              "A": "Exigir denuncia policial antes de atender",
+              "B": "Ofrecer atención clínica y kit de emergencia con consentimiento informado",
+              "C": "Indicar únicamente psicoterapia para la semana siguiente",
+              "D": "Tomar muestras íntimas sin explicar el procedimiento",
+              "E": "Negar profilaxis por actividad sexual previa"
+            },
+            "respuesta": "B",
+            "explicacion": "El evento es reciente y la protección clínica es tiempo-dependiente; la atención respeta autonomía y no discrimina."
+          },
+          {
+            "enunciado": "Paciente adulta acepta profilaxis indicada pero rechaza un procedimiento de recolección de evidencia forense. ¿Qué corresponde?",
+            "alternativas": {
+              "A": "Suspender todas las medidas sanitarias",
+              "B": "Imponer recolección por ser víctima de agresión",
+              "C": "Dejar de documentar lesiones",
+              "D": "Aplazar profilaxis hasta aprobación policial",
+              "E": "Registrar consentimiento selectivo y mantener cuidados aceptados"
+            },
+            "respuesta": "E",
+            "explicacion": "El consentimiento es específico y la negativa a un procedimiento no elimina el acceso a otros tratamientos indicados."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Atención inmediata e integral a sobrevivientes de violencia sexual: kit de emergencia y consentimiento",
+          "eje": "ENCAPS Medicina 2026-I / Atención primaria, clínica y salud pública",
+          "confiabilidad": "clave_resaltada_pdf_usuario",
+          "respuesta_resumida": "A. Aplicar kit completo de emergencia, previo consentimiento",
+          "razonamiento": [
+            "La paciente relata agresión sexual ocurrida el día anterior, posible intoxicación y signos físicos.",
+            "La respuesta resaltada A indica atención inmediata y oferta del kit integral de emergencia, obteniendo consentimiento informado.",
+            "El abordaje no debe depender de la ocupación sexual de la persona ni de que quiera denunciar.",
+            "Se debe atender seguridad, lesiones, riesgo de embarazo e ITS/VIH, evaluar posible exposición a sustancias, ofrecer apoyo psicológico y orientación legal, registrar adecuadamente y evitar revictimización.",
+            "El kit y la profilaxis tienen ventanas temporales: a ~24 horas aún es prioritario actuar; deben revisarse indicaciones y contraindicaciones, y no suministrar pruebas o intervenciones invasivas sin consentimiento salvo excepciones legales muy concretas.",
+            "Una denuncia a autoridades puede tener obligaciones legales contextuales, pero no sustituye la atención ni justifica omitir información y consentimiento del paciente adulto."
+          ],
+          "temario": [
+            {
+              "subtitulo": "Primero: seguridad y urgencia",
+              "texto": "Acoger sin juicio; descartar hemorragia, compromiso neurológico, intoxicación, traumatismos, dolor severo, riesgo suicida, lesión genital o abdominal y otras complicaciones que requieran estabilización o referencia urgente."
+            },
+            {
+              "subtitulo": "Consentimiento y autonomía",
+              "texto": "Informar acciones propuestas, confidencialidad y límites legales; obtener consentimiento válido para procedimientos y documentar decisiones. La persona puede aceptar algunas medidas y rechazar otras."
+            },
+            {
+              "subtitulo": "No revictimización",
+              "texto": "Evitar interrogatorios innecesarios repetidos, culpabilización, comentarios sobre la ocupación sexual o insinuaciones de consentimiento derivadas del oficio."
+            },
+            {
+              "subtitulo": "Kit de emergencia",
+              "texto": "Según MINSA, incluye recursos de evaluación y prevención de embarazo e infecciones según exposición, con algoritmos nacionales; confirmar disponibilidad, alergias, riesgo y tiempos."
+            },
+            {
+              "subtitulo": "Ventana temporal",
+              "texto": "En el primer día todavía se encuentra dentro de intervalos críticos de profilaxis postexposición VIH y otras medidas urgentes. El MINSA describe kit completo dentro de las primeras 72 horas."
+            },
+            {
+              "subtitulo": "Profilaxis VIH e ITS",
+              "texto": "Valorar tipo de exposición y ofrecer profilaxis antirretroviral cuando esté indicada, además de profilaxis o pruebas según algoritmo; documentar información, adherencia y seguimiento."
+            },
+            {
+              "subtitulo": "Anticoncepción de emergencia",
+              "texto": "Ofrecer cuando proceda, según circunstancias, deseos y contraindicaciones; una persona de 52 años requiere valoración individual de posibilidad de embarazo, no presuposición de infertilidad."
+            },
+            {
+              "subtitulo": "Atención física, mental y social",
+              "texto": "Tratar lesiones, evaluar necesidad de evidencia forense con consentimiento, activar recursos de salud mental y trabajo social, orientar a protección y coordinar continuidad."
+            },
+            {
+              "subtitulo": "Aspectos de notificación",
+              "texto": "Diferenciar deberes institucionales de comunicación a autoridades frente a decisiones y consentimiento de una persona adulta; respetar marco legal aplicable y no retrasar cuidados."
+            },
+            {
+              "subtitulo": "Documentación forense segura",
+              "texto": "Registrar relato clínico con precisión no sugestiva, hora del evento, hallazgos y acciones consentidas; proteger cadena de custodia cuando corresponda y no garantizar resultados de pruebas."
+            },
+            {
+              "subtitulo": "Seguimiento",
+              "texto": "Programar control clínico y serológico conforme al riesgo, apoyo emocional, evaluación de seguridad, adherencia a profilaxis y derivación a servicios especializados según necesidad."
+            }
+          ],
+          "distractores": {
+            "A": "Correcta y prioritaria: kit completo de emergencia con consentimiento informado, junto con atención integral inmediata y valoración clínica individual.",
+            "B": "Salud mental es un componente importante, pero derivar solamente sin atender lesiones y profilaxis urgente supone retraso evitable.",
+            "C": "Pruebas sin consentimiento lesionan derechos y alianza terapéutica; la urgencia no autoriza indiscriminadamente su realización sin información.",
+            "D": "La actuación frente a autoridades requiere valorar normas y circunstancias, pero una denuncia sin autorización no representa la medida clínica inmediata más adecuada entre estas opciones."
+          },
+          "normativa": [
+            {
+              "nombre": "RM 227-2019-MINSA / Directiva Sanitaria 083",
+              "url": "https://www.gob.pe/institucion/minsa/normas-legales/266223-227-2019-minsa",
+              "aplicacion": "Directiva de uso del kit para atención de casos de violencia sexual."
+            },
+            {
+              "nombre": "MINSA: atención oportuna y gratuita para víctimas de violencia sexual",
+              "url": "https://www.gob.pe/institucion/minsa/noticias/917097-dia-internacional-de-la-mujer-minsa-garantiza-atencion-oportuna-para-victimas-de-violencia-sexual",
+              "aplicacion": "Describe equipos multidisciplinarios, disponibilidad del kit y oportunidad en primeras 72 horas."
+            }
+          ],
+          "mnemotecnia": "VIOLENCIA SEXUAL: ACOGER → ESTABILIZAR → INFORMAR/CONSENTIR → KIT → APOYO → SEGUIMIENTO.",
+          "trampas": [
+            "La condición de trabajadora sexual NO modifica el derecho a atención, dignidad o consentimiento.",
+            "Derivar a psicología sin ofrecer profilaxis o atención urgente es incompleto.",
+            "El tiempo desde la agresión importa: el retraso puede perder oportunidades de prevención de VIH/embarazo.",
+            "No interpretar la alternativa D como prohibición universal de reportar: hay obligaciones normativas específicas; la comparación es de prioridad clínica y respeto a derechos."
+          ],
+          "perla": "VIOLENCIA SEXUAL: ACOGER → ESTABILIZAR → INFORMAR/CONSENTIR → KIT → APOYO → SEGUIMIENTO.",
+          "repaso_activo": [
+            {
+              "pregunta": "¿Cuál es la primera respuesta del examen?",
+              "respuesta": "A: aplicar kit completo de emergencia con consentimiento."
+            },
+            {
+              "pregunta": "¿La condición de trabajadora sexual cambia deber de atender?",
+              "respuesta": "No; atención digna sin discriminación."
+            },
+            {
+              "pregunta": "¿Cuál es una ventana crítica para kit/profilaxis?",
+              "respuesta": "Las primeras 72 horas en la directiva general del MINSA."
+            },
+            {
+              "pregunta": "¿Puede forzarse tamizaje de ITS en paciente adulta orientada?",
+              "respuesta": "No de forma indiscriminada; respetar consentimiento y normativa."
+            },
+            {
+              "pregunta": "¿Derivación a salud mental sustituye el kit?",
+              "respuesta": "No, complementa la atención física y preventiva urgente."
+            }
+          ],
+          "refuerzo": [
+            {
+              "enunciado": "Mujer adulta consulta 18 horas tras agresión sexual, con lesiones leves y temor de que la juzguen. ¿Qué acción debe priorizar la IPRESS?",
+              "alternativas": {
+                "A": "Exigir denuncia policial antes de atender",
+                "B": "Ofrecer atención clínica y kit de emergencia con consentimiento informado",
+                "C": "Indicar únicamente psicoterapia para la semana siguiente",
+                "D": "Tomar muestras íntimas sin explicar el procedimiento",
+                "E": "Negar profilaxis por actividad sexual previa"
+              },
+              "respuesta": "B",
+              "explicacion": "El evento es reciente y la protección clínica es tiempo-dependiente; la atención respeta autonomía y no discrimina."
+            },
+            {
+              "enunciado": "Paciente adulta acepta profilaxis indicada pero rechaza un procedimiento de recolección de evidencia forense. ¿Qué corresponde?",
+              "alternativas": {
+                "A": "Suspender todas las medidas sanitarias",
+                "B": "Imponer recolección por ser víctima de agresión",
+                "C": "Dejar de documentar lesiones",
+                "D": "Aplazar profilaxis hasta aprobación policial",
+                "E": "Registrar consentimiento selectivo y mantener cuidados aceptados"
+              },
+              "respuesta": "E",
+              "explicacion": "El consentimiento es específico y la negativa a un procedimiento no elimina el acceso a otros tratamientos indicados."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "number": 5,
+      "question": "Ud. como médico acude a una visita domiciliaria en el sector sanitario asignado, identificando a una pareja con unión de 4 meses y cursando el primer embarazo. ¿Cómo la clasificaría según su ciclo vital familiar?",
+      "options": {
+        "A": "Expansión",
+        "B": "Dispersión",
+        "C": "Contracción",
+        "D": "Formación"
+      },
+      "correct": "A",
+      "code": "ENCAPS26-I P005",
+      "course": "ENCAPS Medicina 2026-I · Temario desarrollado",
+      "topic": "Ciclo vital familiar: transición de formación a expansión desde el primer embarazo",
+      "comment": "CLAVE HISTÓRICA SEGÚN PDF\nA. Expansión — clave resaltada en PDF ENCAPS Medicina 2026-I del 19 de abril de 2026; no equivale a cotejo con tabla oficial separada.\n\nRAZONAMIENTO COMPLETO\nEl PDF resalta A: expansión para una pareja que lleva cuatro meses de unión y cursa su primer embarazo. El Modelo de Cuidado Integral de Salud por Curso de Vida para la Persona, Familia y Comunidad (MINSA) define la familia en expansión desde el primer embarazo; la formación corresponde al periodo de unión sin hijos ni embarazo según ese modelo. La definición importa más que los meses de convivencia. Una advertencia importante para estudio crítico: documentos peruanos previos han ubicado el embarazo en la etapa de formación y el inicio de expansión en el nacimiento; por eso conviene citar qué modelo usa el examen y no presentar la clasificación como universal de todos los autores. Dentro del MCI, la llegada del embarazo reorganiza roles, comunicación, recursos y corresponsabilidad, siendo un momento adecuado para cuidado prenatal, evaluación familiar y redes de apoyo.\n\nDESARROLLO DEL TEMARIO\n1. Familia como unidad de atención\nEl enfoque familiar identifica estructura, funcionamiento, cambios por ciclo vital, riesgos, recursos y vínculos con comunidad para planificar acciones integrales.\n2. Familia en formación\nConstitución de pareja, noviazgo, matrimonio o convivencia, acuerdos, roles, expectativas y ajuste con familias de origen; énfasis en apoyo, comunicación y preparación de parentalidad.\n3. Familia en expansión según MCI\nInicia con primer embarazo de la pareja; incluye nacimiento y crianza. Aumentan necesidades de cuidados, recursos, adaptación de responsabilidades y apoyo social.\n4. Familia en dispersión\nEn el modelo MCI ocurre cuando el primer hijo sale del hogar y se consolida su independencia, con cambios en la interacción parental y vínculos familiares.\n5. Familia en contracción\nSe inicia con la salida del último hijo, con ajustes por nido vacío y envejecimiento, y continúa con transiciones posteriores de la pareja.\n6. Variantes conceptuales históricas\nEl manual MAIS-BFC en algunos esquemas incluye embarazo en formación y expansión desde nacimiento; el MCI citado por el examen usa el primer embarazo para expansión. Registrar fuente y año.\n7. Evaluación familiar\nEntrevista, familiograma o genograma, ecomapa, PAIFAM u otros instrumentos según indicación, identificación de factores protectores y determinantes sociales.\n8. Primer embarazo y cuidados\nAsegurar inicio/continuidad prenatal, suplementación, esquema de vacunación, tamizajes, salud mental, señales de violencia, plan de parto y redes de protección.\n9. Contexto local\nAjustar consejería a ocupación, idioma, cultura y recursos; no asumir que una convivencia de pocos meses implica automáticamente conflicto o bajo soporte.\n10. Clave de lectura del ítem\nLa palabra decisiva es 'primer embarazo'; con modelo MCI se elige expansión y se distingue de pareja sin gestación (formación).\n\nANÁLISIS INDIVIDUAL DE DISTRACTORES\nA) Expansión es correcta según modelo MCI del MINSA, que inicia con el primer embarazo y comprende la incorporación de hijos y la crianza.\nB) Dispersión ocurre cuando los hijos comienzan a emanciparse del hogar familiar, no en el inicio de la gestación.\nC) Contracción se vincula a salida del último hijo y reorganización de la pareja, no a su primer embarazo.\nD) Formación puede describir una unión reciente, pero según el modelo específico que sustenta la clave resaltada la gestación marca inicio de expansión; reconocer variantes históricas.\n\nNORMATIVA Y FUENTES\nModelo de Cuidado Integral de Salud por Curso de Vida para la Persona, Familia y Comunidad (MINSA) | https://cdn.www.gob.pe/uploads/document/file/1865066/5261.pdf | Explicita que familia en expansión inicia con primer embarazo de la pareja.\nAportes para la operativización del MAIS-BFC (documento anterior) | https://bvs.minsa.gob.pe/local/MINSA/1880.pdf | Ilustra modelo alternativo que sitúa embarazo en formación y expansión desde nacimiento; matiz de versiones.\n\nTRAMPAS / DIFERENCIAS DE GUÍAS\nNo decidir solo por tiempo de unión: el primer embarazo es la palabra clave en el MCI usado.\nExisten clasificaciones históricas distintas; mantener la clave del PDF y explicar su referencia conceptual.\nDispersión y contracción se distinguen por salida del primero o del último hijo, respectivamente.\n\nMNEMOTECNIA\nMODELO MCI: FORMACIÓN = unión; EXPANSIÓN = 1.er EMBARAZO; DISPERSIÓN = sale 1.er hijo; CONTRACCIÓN = sale último.\n\nREPASO ACTIVO\n¿Desde cuándo inicia expansión según modelo MCI? — Desde el primer embarazo de la pareja.\n¿Qué responde el PDF ENCAPS 2026-I P005? — A: Expansión.\n¿Cuándo inicia dispersión? — Cuando el primer hijo se emancipa del hogar.\n¿Cuándo inicia contracción? — Cuando se emancipa el último hijo.\n¿Por qué puede haber discrepancia en bibliografía? — Existen modelos del ciclo vital familiar con límites temporales distintos.\n\nDOS CASOS DE REFUERZO\n1. Pareja conviviente desde hace ocho meses recibe noticia de su primer embarazo. Según el Modelo de Cuidado Integral por Curso de Vida del MINSA, ¿qué etapa familiar se inicia?\nA) Dispersión\nB) Contracción\nC) Expansión\nD) Reconstitución por emigración\nE) Nido vacío\nClave C. El MCI peruano sitúa el comienzo de expansión desde el primer embarazo.\n2. Una familia refiere que su primer hijo adulto se independiza y deja el domicilio; los demás hijos aún viven allí. En el mismo modelo ¿qué etapa comienza?\nA) Formación\nB) Contracción\nC) Expansión prenatal\nD) Desintegración familiar irreversible\nE) Dispersión\nClave E. La dispersión se inicia al emanciparse el primer hijo, mientras la contracción corresponde a la salida del último.\n\nPERLA\nMODELO MCI: FORMACIÓN = unión; EXPANSIÓN = 1.er EMBARAZO; DISPERSIÓN = sale 1.er hijo; CONTRACCIÓN = sale último. No decidir solo por tiempo de unión: el primer embarazo es la palabra clave en el MCI usado.",
+      "pearl": "MODELO MCI: FORMACIÓN = unión; EXPANSIÓN = 1.er EMBARAZO; DISPERSIÓN = sale 1.er hijo; CONTRACCIÓN = sale último. No decidir solo por tiempo de unión: el primer embarazo es la palabra clave en el MCI usado.",
+      "keywords": [
+        "Ciclo vital familiar: transición de formación a expansión desde el primer embarazo",
+        "ENCAPS Medicina 2026-I",
+        "SERUMS MINSA"
+      ],
+      "estadoDesarrollo": "completo",
+      "estadoClave": "resaltada_en_pdf_usuario_no_cotejada_con_tabla_oficial_independiente",
+      "lesson": {
+        "respuesta_resumida": "A. Expansión — clave resaltada en PDF ENCAPS Medicina 2026-I del 19 de abril de 2026; no equivale a cotejo con tabla oficial separada.",
+        "razonamiento": "El PDF resalta A: expansión para una pareja que lleva cuatro meses de unión y cursa su primer embarazo. El Modelo de Cuidado Integral de Salud por Curso de Vida para la Persona, Familia y Comunidad (MINSA) define la familia en expansión desde el primer embarazo; la formación corresponde al periodo de unión sin hijos ni embarazo según ese modelo. La definición importa más que los meses de convivencia. Una advertencia importante para estudio crítico: documentos peruanos previos han ubicado el embarazo en la etapa de formación y el inicio de expansión en el nacimiento; por eso conviene citar qué modelo usa el examen y no presentar la clasificación como universal de todos los autores. Dentro del MCI, la llegada del embarazo reorganiza roles, comunicación, recursos y corresponsabilidad, siendo un momento adecuado para cuidado prenatal, evaluación familiar y redes de apoyo.",
+        "temario": [
+          "Familia como unidad de atención: El enfoque familiar identifica estructura, funcionamiento, cambios por ciclo vital, riesgos, recursos y vínculos con comunidad para planificar acciones integrales.",
+          "Familia en formación: Constitución de pareja, noviazgo, matrimonio o convivencia, acuerdos, roles, expectativas y ajuste con familias de origen; énfasis en apoyo, comunicación y preparación de parentalidad.",
+          "Familia en expansión según MCI: Inicia con primer embarazo de la pareja; incluye nacimiento y crianza. Aumentan necesidades de cuidados, recursos, adaptación de responsabilidades y apoyo social.",
+          "Familia en dispersión: En el modelo MCI ocurre cuando el primer hijo sale del hogar y se consolida su independencia, con cambios en la interacción parental y vínculos familiares.",
+          "Familia en contracción: Se inicia con la salida del último hijo, con ajustes por nido vacío y envejecimiento, y continúa con transiciones posteriores de la pareja.",
+          "Variantes conceptuales históricas: El manual MAIS-BFC en algunos esquemas incluye embarazo en formación y expansión desde nacimiento; el MCI citado por el examen usa el primer embarazo para expansión. Registrar fuente y año.",
+          "Evaluación familiar: Entrevista, familiograma o genograma, ecomapa, PAIFAM u otros instrumentos según indicación, identificación de factores protectores y determinantes sociales.",
+          "Primer embarazo y cuidados: Asegurar inicio/continuidad prenatal, suplementación, esquema de vacunación, tamizajes, salud mental, señales de violencia, plan de parto y redes de protección.",
+          "Contexto local: Ajustar consejería a ocupación, idioma, cultura y recursos; no asumir que una convivencia de pocos meses implica automáticamente conflicto o bajo soporte.",
+          "Clave de lectura del ítem: La palabra decisiva es 'primer embarazo'; con modelo MCI se elige expansión y se distingue de pareja sin gestación (formación)."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Expansión es correcta según modelo MCI del MINSA, que inicia con el primer embarazo y comprende la incorporación de hijos y la crianza.",
+          "B": "Dispersión ocurre cuando los hijos comienzan a emanciparse del hogar familiar, no en el inicio de la gestación.",
+          "C": "Contracción se vincula a salida del último hijo y reorganización de la pareja, no a su primer embarazo.",
+          "D": "Formación puede describir una unión reciente, pero según el modelo específico que sustenta la clave resaltada la gestación marca inicio de expansión; reconocer variantes históricas."
+        },
+        "normativa": [
+          "Modelo de Cuidado Integral de Salud por Curso de Vida para la Persona, Familia y Comunidad (MINSA) | https://cdn.www.gob.pe/uploads/document/file/1865066/5261.pdf | Explicita que familia en expansión inicia con primer embarazo de la pareja.",
+          "Aportes para la operativización del MAIS-BFC (documento anterior) | https://bvs.minsa.gob.pe/local/MINSA/1880.pdf | Ilustra modelo alternativo que sitúa embarazo en formación y expansión desde nacimiento; matiz de versiones."
+        ],
+        "mnemotecnia": "MODELO MCI: FORMACIÓN = unión; EXPANSIÓN = 1.er EMBARAZO; DISPERSIÓN = sale 1.er hijo; CONTRACCIÓN = sale último.",
+        "trampas": [
+          "No decidir solo por tiempo de unión: el primer embarazo es la palabra clave en el MCI usado.",
+          "Existen clasificaciones históricas distintas; mantener la clave del PDF y explicar su referencia conceptual.",
+          "Dispersión y contracción se distinguen por salida del primero o del último hijo, respectivamente."
+        ],
+        "perla": "MODELO MCI: FORMACIÓN = unión; EXPANSIÓN = 1.er EMBARAZO; DISPERSIÓN = sale 1.er hijo; CONTRACCIÓN = sale último. No decidir solo por tiempo de unión: el primer embarazo es la palabra clave en el MCI usado.",
+        "repaso_activo": [
+          "¿Desde cuándo inicia expansión según modelo MCI? — Desde el primer embarazo de la pareja.",
+          "¿Qué responde el PDF ENCAPS 2026-I P005? — A: Expansión.",
+          "¿Cuándo inicia dispersión? — Cuando el primer hijo se emancipa del hogar.",
+          "¿Cuándo inicia contracción? — Cuando se emancipa el último hijo.",
+          "¿Por qué puede haber discrepancia en bibliografía? — Existen modelos del ciclo vital familiar con límites temporales distintos."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Pareja conviviente desde hace ocho meses recibe noticia de su primer embarazo. Según el Modelo de Cuidado Integral por Curso de Vida del MINSA, ¿qué etapa familiar se inicia?",
+            "alternativas": {
+              "A": "Dispersión",
+              "B": "Contracción",
+              "C": "Expansión",
+              "D": "Reconstitución por emigración",
+              "E": "Nido vacío"
+            },
+            "respuesta": "C",
+            "explicacion": "El MCI peruano sitúa el comienzo de expansión desde el primer embarazo."
+          },
+          {
+            "enunciado": "Una familia refiere que su primer hijo adulto se independiza y deja el domicilio; los demás hijos aún viven allí. En el mismo modelo ¿qué etapa comienza?",
+            "alternativas": {
+              "A": "Formación",
+              "B": "Contracción",
+              "C": "Expansión prenatal",
+              "D": "Desintegración familiar irreversible",
+              "E": "Dispersión"
+            },
+            "respuesta": "E",
+            "explicacion": "La dispersión se inicia al emanciparse el primer hijo, mientras la contracción corresponde a la salida del último."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Ciclo vital familiar: transición de formación a expansión desde el primer embarazo",
+          "eje": "ENCAPS Medicina 2026-I / Atención primaria, clínica y salud pública",
+          "confiabilidad": "clave_resaltada_pdf_usuario",
+          "respuesta_resumida": "A. Expansión",
+          "razonamiento": [
+            "El PDF resalta A: expansión para una pareja que lleva cuatro meses de unión y cursa su primer embarazo.",
+            "El Modelo de Cuidado Integral de Salud por Curso de Vida para la Persona, Familia y Comunidad (MINSA) define la familia en expansión desde el primer embarazo; la formación corresponde al periodo de unión sin hijos ni embarazo según ese modelo.",
+            "La definición importa más que los meses de convivencia.",
+            "Una advertencia importante para estudio crítico: documentos peruanos previos han ubicado el embarazo en la etapa de formación y el inicio de expansión en el nacimiento; por eso conviene citar qué modelo usa el examen y no presentar la clasificación como universal de todos los autores.",
+            "Dentro del MCI, la llegada del embarazo reorganiza roles, comunicación, recursos y corresponsabilidad, siendo un momento adecuado para cuidado prenatal, evaluación familiar y redes de apoyo."
+          ],
+          "temario": [
+            {
+              "subtitulo": "Familia como unidad de atención",
+              "texto": "El enfoque familiar identifica estructura, funcionamiento, cambios por ciclo vital, riesgos, recursos y vínculos con comunidad para planificar acciones integrales."
+            },
+            {
+              "subtitulo": "Familia en formación",
+              "texto": "Constitución de pareja, noviazgo, matrimonio o convivencia, acuerdos, roles, expectativas y ajuste con familias de origen; énfasis en apoyo, comunicación y preparación de parentalidad."
+            },
+            {
+              "subtitulo": "Familia en expansión según MCI",
+              "texto": "Inicia con primer embarazo de la pareja; incluye nacimiento y crianza. Aumentan necesidades de cuidados, recursos, adaptación de responsabilidades y apoyo social."
+            },
+            {
+              "subtitulo": "Familia en dispersión",
+              "texto": "En el modelo MCI ocurre cuando el primer hijo sale del hogar y se consolida su independencia, con cambios en la interacción parental y vínculos familiares."
+            },
+            {
+              "subtitulo": "Familia en contracción",
+              "texto": "Se inicia con la salida del último hijo, con ajustes por nido vacío y envejecimiento, y continúa con transiciones posteriores de la pareja."
+            },
+            {
+              "subtitulo": "Variantes conceptuales históricas",
+              "texto": "El manual MAIS-BFC en algunos esquemas incluye embarazo en formación y expansión desde nacimiento; el MCI citado por el examen usa el primer embarazo para expansión. Registrar fuente y año."
+            },
+            {
+              "subtitulo": "Evaluación familiar",
+              "texto": "Entrevista, familiograma o genograma, ecomapa, PAIFAM u otros instrumentos según indicación, identificación de factores protectores y determinantes sociales."
+            },
+            {
+              "subtitulo": "Primer embarazo y cuidados",
+              "texto": "Asegurar inicio/continuidad prenatal, suplementación, esquema de vacunación, tamizajes, salud mental, señales de violencia, plan de parto y redes de protección."
+            },
+            {
+              "subtitulo": "Contexto local",
+              "texto": "Ajustar consejería a ocupación, idioma, cultura y recursos; no asumir que una convivencia de pocos meses implica automáticamente conflicto o bajo soporte."
+            },
+            {
+              "subtitulo": "Clave de lectura del ítem",
+              "texto": "La palabra decisiva es 'primer embarazo'; con modelo MCI se elige expansión y se distingue de pareja sin gestación (formación)."
+            }
+          ],
+          "distractores": {
+            "A": "Expansión es correcta según modelo MCI del MINSA, que inicia con el primer embarazo y comprende la incorporación de hijos y la crianza.",
+            "B": "Dispersión ocurre cuando los hijos comienzan a emanciparse del hogar familiar, no en el inicio de la gestación.",
+            "C": "Contracción se vincula a salida del último hijo y reorganización de la pareja, no a su primer embarazo.",
+            "D": "Formación puede describir una unión reciente, pero según el modelo específico que sustenta la clave resaltada la gestación marca inicio de expansión; reconocer variantes históricas."
+          },
+          "normativa": [
+            {
+              "nombre": "Modelo de Cuidado Integral de Salud por Curso de Vida para la Persona, Familia y Comunidad (MINSA)",
+              "url": "https://cdn.www.gob.pe/uploads/document/file/1865066/5261.pdf",
+              "aplicacion": "Explicita que familia en expansión inicia con primer embarazo de la pareja."
+            },
+            {
+              "nombre": "Aportes para la operativización del MAIS-BFC (documento anterior)",
+              "url": "https://bvs.minsa.gob.pe/local/MINSA/1880.pdf",
+              "aplicacion": "Ilustra modelo alternativo que sitúa embarazo en formación y expansión desde nacimiento; matiz de versiones."
+            }
+          ],
+          "mnemotecnia": "MODELO MCI: FORMACIÓN = unión; EXPANSIÓN = 1.er EMBARAZO; DISPERSIÓN = sale 1.er hijo; CONTRACCIÓN = sale último.",
+          "trampas": [
+            "No decidir solo por tiempo de unión: el primer embarazo es la palabra clave en el MCI usado.",
+            "Existen clasificaciones históricas distintas; mantener la clave del PDF y explicar su referencia conceptual.",
+            "Dispersión y contracción se distinguen por salida del primero o del último hijo, respectivamente."
+          ],
+          "perla": "MODELO MCI: FORMACIÓN = unión; EXPANSIÓN = 1.er EMBARAZO; DISPERSIÓN = sale 1.er hijo; CONTRACCIÓN = sale último.",
+          "repaso_activo": [
+            {
+              "pregunta": "¿Desde cuándo inicia expansión según modelo MCI?",
+              "respuesta": "Desde el primer embarazo de la pareja."
+            },
+            {
+              "pregunta": "¿Qué responde el PDF ENCAPS 2026-I P005?",
+              "respuesta": "A: Expansión."
+            },
+            {
+              "pregunta": "¿Cuándo inicia dispersión?",
+              "respuesta": "Cuando el primer hijo se emancipa del hogar."
+            },
+            {
+              "pregunta": "¿Cuándo inicia contracción?",
+              "respuesta": "Cuando se emancipa el último hijo."
+            },
+            {
+              "pregunta": "¿Por qué puede haber discrepancia en bibliografía?",
+              "respuesta": "Existen modelos del ciclo vital familiar con límites temporales distintos."
+            }
+          ],
+          "refuerzo": [
+            {
+              "enunciado": "Pareja conviviente desde hace ocho meses recibe noticia de su primer embarazo. Según el Modelo de Cuidado Integral por Curso de Vida del MINSA, ¿qué etapa familiar se inicia?",
+              "alternativas": {
+                "A": "Dispersión",
+                "B": "Contracción",
+                "C": "Expansión",
+                "D": "Reconstitución por emigración",
+                "E": "Nido vacío"
+              },
+              "respuesta": "C",
+              "explicacion": "El MCI peruano sitúa el comienzo de expansión desde el primer embarazo."
+            },
+            {
+              "enunciado": "Una familia refiere que su primer hijo adulto se independiza y deja el domicilio; los demás hijos aún viven allí. En el mismo modelo ¿qué etapa comienza?",
+              "alternativas": {
+                "A": "Formación",
+                "B": "Contracción",
+                "C": "Expansión prenatal",
+                "D": "Desintegración familiar irreversible",
+                "E": "Dispersión"
+              },
+              "respuesta": "E",
+              "explicacion": "La dispersión se inicia al emanciparse el primer hijo, mientras la contracción corresponde a la salida del último."
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
