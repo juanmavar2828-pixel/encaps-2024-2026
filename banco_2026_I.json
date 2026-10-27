@@ -3,7 +3,7 @@
   "bankId": "ENCAPS_2026_I",
   "title": "ENCAPS 2026-I · Medicina Humana",
   "source": "Examen SERUMS Medicina 19 abril 2026 · claves resaltadas en PDF del usuario",
-  "questionCount": 60,
+  "questionCount": 65,
   "questions": [
     {
       "number": 1,
@@ -6148,6 +6148,441 @@
           "titulo": "Derechos de gestante quechuahablante y adecuación intercultural",
           "desarrollo": "RESPUESTA RAZONADA — PENDIENTE DE COTEJO INDEPENDIENTE CON CLAVE OFICIAL\nA. servicios de salud con adecuación cultural.\n\nRAZONAMIENTO\nEl derecho más integral es recibir servicios con adecuación cultural, incluyendo idioma comprensible, trato digno, preferencias y prácticas compatibles con seguridad. El acceso a intérprete o traductor puede ser una medida concreta indispensable para consentimiento informado, pero constituye parte de la adecuación cultural. La institución no debe limitar acompañamiento exclusivamente a pareja.\n\nDESARROLLO COMPLETO DEL TEMARIO\n1. Interculturalidad reconoce diversidad lingüística y cosmovisiones sin discriminación.\n2. Adecuación cultural ajusta comunicación, horarios, acompañamiento, ambiente y formas de atención.\n3. El consentimiento informado exige información en idioma comprendido por la usuaria.\n4. Interpretación profesional o mediación cultural cuando sea necesaria y disponible.\n5. La gestante puede expresar preferencias respecto a acompañamiento y parto respetado.\n6. Condición migrante no reduce derechos de acceso a salud.\n7. Evitar estereotipos y consultas sin intérprete cuando comprometan comprensión.\n8. Promoción de parto institucional seguro con pertinencia intercultural.\n9. Privacidad y toma compartida de decisiones.\n10. La seguridad clínica y los derechos culturales se armonizan mediante diálogo.\n\nALTERNATIVAS\nA) Correcta: engloba necesidades culturales, lingüísticas y de trato.\nB) Restringir exclusivamente a pareja desconoce preferencias y circunstancias.\nC) Acompañamiento familiar puede ser pertinente, pero no agota el derecho intercultural.\nD) Intérprete es una garantía concreta cuando se necesita, parte de adecuación cultural, no la categoría más amplia.\n\nNORMATIVA\nMINSA, Política Sectorial de Salud Intercultural y norma de parto vertical con pertinencia intercultural.\nNormas peruanas sobre derechos lingüísticos y atención sanitaria sin discriminación.\n\nTRAMPAS\nInterculturalidad no es solo disponer de traductor.\nLa usuaria decide preferencias de acompañamiento en el marco de condiciones clínicas.\nLa traducción no debe vulnerar confidencialidad.\n\nMNEMOTECNIA\nQUECHUAHABLANTE = SALUD CON ADECUACIÓN CULTURAL.\n\nREPASO\nClave académica: A. servicios de salud con adecuación cultural.\nQUECHUAHABLANTE = SALUD CON ADECUACIÓN CULTURAL.\nInterculturalidad no es solo disponer de traductor.\nLa usuaria decide preferencias de acompañamiento en el marco de condiciones clínicas.\nLa traducción no debe vulnerar confidencialidad.\n\nCASOS DE REFUERZO\n1. Gestante quechuahablante no comprende explicaciones en español. ¿Qué se hace?\nA) Forzar firma\nB) Continuar sin explicar\nC) Gestionar intérprete y asegurar comprensión\nD) Dar alta\nE) Delegar solo a menor de edad\nClave C. El consentimiento exige comunicación efectiva.\n\n2. Gestante solicita acompañante culturalmente significativo en parto seguro. ¿Principio?\nA) Castigo\nB) Adecuación intercultural y respeto\nC) Exclusión\nD) Imposición\nE) Negación de autonomía\nClave B. Debe considerarse su preferencia con seguridad."
         }
+      }
+    },
+    {
+      "number": 61,
+      "question": "Durante la atención integral de la gestante, los controles prenatales buscan detectar riesgos para eliminarlos o minimizarlos. ¿Qué tipo de prevención es?",
+      "options": {
+        "A": "Cuaternaria",
+        "B": "Primaria",
+        "C": "Secundaria",
+        "D": "Terciaria"
+      },
+      "correct": "C",
+      "code": "ENCAPS26-I P061",
+      "course": "ENCAPS Medicina 2026-I · Temario desarrollado",
+      "topic": "Prevención secundaria y atención prenatal: tamizaje, diagnóstico temprano y oportunidad terapéutica",
+      "comment": "RESPUESTA RAZONADA — CLAVE PROPUESTA PARA EL EXAMEN (COTEJO OFICIAL PENDIENTE)\nC. Secundaria\n\nRAZONAMIENTO CLÍNICO Y DE EXAMEN\nLa formulación decisiva es detectar riesgos durante los controles prenatales. Cuando una intervención identifica precozmente una condición o alteración para tratarla oportunamente o disminuir su progresión, corresponde prevención secundaria. El control prenatal integral también incorpora prevención primaria (vacunas, consejería, ácido fólico y otras medidas preventivas), por lo que NO todas sus acciones son exclusivamente secundarias. Se clasifica la acción enfatizada en el enunciado: detección.\n\nDESARROLLO COMPLETO DEL TEMARIO\n1. Historia natural de la enfermedad: periodo prepatogénico; fase subclínica; fase clínica; desenlaces. Los niveles de prevención se vinculan a la fase sobre la que actúa cada intervención.\n2. Prevención primordial reduce aparición de factores de riesgo en la población; primaria evita que aparezca la enfermedad mediante promoción de salud y protección específica.\n3. Prevención secundaria identifica enfermedad o condiciones patológicas en fase temprana mediante tamizaje, evaluación y tratamiento oportuno; el cribado debe conectarse con confirmación y acceso a tratamiento.\n4. Prevención terciaria reduce discapacidad, secuelas, recurrencia y consecuencias de enfermedad establecida. Incluye rehabilitación y control de complicaciones.\n5. Prevención cuaternaria evita intervenciones innecesarias y daños iatrogénicos, especialmente pruebas redundantes o tratamientos sin beneficio.\n6. Aplicación obstétrica: evaluación de presión arterial, tamizaje de anemia, sífilis y VIH, y valoración de riesgos obstétricos permiten diagnóstico y manejo temprano; cada prueba requiere interpretación y ruta clínica.\n7. No confundir riesgo con enfermedad: la identificación de factores de riesgo puede orientar consejería primaria; detectar alteraciones clínicas tempranas es el núcleo de la respuesta secundaria.\n8. Una atención prenatal efectiva además garantiza continuidad, educación, planificación del parto, signos de alarma, referencia y seguimiento.\n\nANÁLISIS DE TODAS LAS ALTERNATIVAS\nA) Cuaternaria: se aplica a prevención de daño por sobremedicalización; no es el objetivo descrito de detectar riesgos.\nB) Primaria: es evitar que aparezcan enfermedades o riesgos mediante intervención anterior a su inicio; coexiste en la atención prenatal, pero no define la detección temprana expresada.\nC) Correcta en el sentido de identificar precozmente problemas durante controles para intervenir sin esperar complicaciones.\nD) Terciaria: aborda limitación del daño, rehabilitación o secuelas después de enfermedad establecida; no es la detección temprana de la pregunta.\n\nNORMATIVA Y FUENTES\n- OMS, recomendaciones para una experiencia positiva del embarazo; componentes preventivos y detección oportuna.\n- MINSA, norma técnica vigente de atención prenatal reenfocada y cuidado materno perinatal; verificar versión aplicable en la IPRESS.\n\nTRAMPAS DEL EXAMEN\n- Control prenatal es un paquete mixto de niveles de prevención; clasificar la acción especificada.\n- Detectar riesgos no equivale automáticamente a diagnosticar enfermedad; el contexto del enunciado favorece secundaria.\n- Un tamizaje sin confirmación ni seguimiento no completa la prevención secundaria.\n\nMNEMOTECNIA\nPRIMARIA = PREVENIR APARICIÓN; SECUNDARIA = SALIR A BUSCAR TEMPRANO; TERCIARIA = TRATAR SECUELAS; CUATERNARIA = CUIDAR DE EXCESOS.\n\nREPASO ACTIVO\n1. Gestante sin enfermedad recibe consejería preventiva para reducir riesgos de una patología futura. ¿Nivel? — Primario: busca evitar aparición.\n2. Gestante con alteración detectada por tamizaje recibe confirmación y tratamiento precoz. ¿Nivel? — Secundario: detección y manejo temprano.\n\nCASOS DE REFUERZO\n1. En primera visita, gestante asintomática recibe tamizaje de sífilis para tratamiento oportuno.\nA) Terciaria\nB) Cuaternaria\nC) Secundaria\nD) Paliativa\nE) Rehabilitación\nClave: C. Se busca detectar tempranamente una condición tratable.\n2. Una gestante sin enfermedad recibe orientación para evitar exposición al humo de tabaco.\nA) Secundaria\nB) Terciaria\nC) Cuaternaria\nD) Primaria\nE) Rehabilitadora\nClave: D. La educación preventiva actúa antes de que aparezca daño.",
+      "pearl": "PRIMARIA = PREVENIR APARICIÓN; SECUNDARIA = SALIR A BUSCAR TEMPRANO; TERCIARIA = TRATAR SECUELAS; CUATERNARIA = CUIDAR DE EXCESOS.",
+      "keywords": [],
+      "estadoDesarrollo": "completo",
+      "estadoClave": "propuesta_razonada_pendiente_cotejo_clave_oficial",
+      "lesson": {
+        "respuesta_resumida": "C. Secundaria",
+        "razonamiento": "La formulación decisiva es detectar riesgos durante los controles prenatales. Cuando una intervención identifica precozmente una condición o alteración para tratarla oportunamente o disminuir su progresión, corresponde prevención secundaria. El control prenatal integral también incorpora prevención primaria (vacunas, consejería, ácido fólico y otras medidas preventivas), por lo que NO todas sus acciones son exclusivamente secundarias. Se clasifica la acción enfatizada en el enunciado: detección.",
+        "temario": [
+          "Historia natural de la enfermedad: periodo prepatogénico; fase subclínica; fase clínica; desenlaces. Los niveles de prevención se vinculan a la fase sobre la que actúa cada intervención.",
+          "Prevención primordial reduce aparición de factores de riesgo en la población; primaria evita que aparezca la enfermedad mediante promoción de salud y protección específica.",
+          "Prevención secundaria identifica enfermedad o condiciones patológicas en fase temprana mediante tamizaje, evaluación y tratamiento oportuno; el cribado debe conectarse con confirmación y acceso a tratamiento.",
+          "Prevención terciaria reduce discapacidad, secuelas, recurrencia y consecuencias de enfermedad establecida. Incluye rehabilitación y control de complicaciones.",
+          "Prevención cuaternaria evita intervenciones innecesarias y daños iatrogénicos, especialmente pruebas redundantes o tratamientos sin beneficio.",
+          "Aplicación obstétrica: evaluación de presión arterial, tamizaje de anemia, sífilis y VIH, y valoración de riesgos obstétricos permiten diagnóstico y manejo temprano; cada prueba requiere interpretación y ruta clínica.",
+          "No confundir riesgo con enfermedad: la identificación de factores de riesgo puede orientar consejería primaria; detectar alteraciones clínicas tempranas es el núcleo de la respuesta secundaria.",
+          "Una atención prenatal efectiva además garantiza continuidad, educación, planificación del parto, signos de alarma, referencia y seguimiento."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Cuaternaria: se aplica a prevención de daño por sobremedicalización; no es el objetivo descrito de detectar riesgos.",
+          "B": "Primaria: es evitar que aparezcan enfermedades o riesgos mediante intervención anterior a su inicio; coexiste en la atención prenatal, pero no define la detección temprana expresada.",
+          "C": "Correcta en el sentido de identificar precozmente problemas durante controles para intervenir sin esperar complicaciones.",
+          "D": "Terciaria: aborda limitación del daño, rehabilitación o secuelas después de enfermedad establecida; no es la detección temprana de la pregunta."
+        },
+        "normativa": [
+          "OMS, recomendaciones para una experiencia positiva del embarazo; componentes preventivos y detección oportuna.",
+          "MINSA, norma técnica vigente de atención prenatal reenfocada y cuidado materno perinatal; verificar versión aplicable en la IPRESS."
+        ],
+        "mnemotecnia": "PRIMARIA = PREVENIR APARICIÓN; SECUNDARIA = SALIR A BUSCAR TEMPRANO; TERCIARIA = TRATAR SECUELAS; CUATERNARIA = CUIDAR DE EXCESOS.",
+        "trampas": [
+          "Control prenatal es un paquete mixto de niveles de prevención; clasificar la acción especificada.",
+          "Detectar riesgos no equivale automáticamente a diagnosticar enfermedad; el contexto del enunciado favorece secundaria.",
+          "Un tamizaje sin confirmación ni seguimiento no completa la prevención secundaria."
+        ],
+        "perla": "PRIMARIA = PREVENIR APARICIÓN; SECUNDARIA = SALIR A BUSCAR TEMPRANO; TERCIARIA = TRATAR SECUELAS; CUATERNARIA = CUIDAR DE EXCESOS.",
+        "repaso_activo": [
+          {
+            "pregunta": "Gestante sin enfermedad recibe consejería preventiva para reducir riesgos de una patología futura. ¿Nivel?",
+            "respuesta": "Primario: busca evitar aparición."
+          },
+          {
+            "pregunta": "Gestante con alteración detectada por tamizaje recibe confirmación y tratamiento precoz. ¿Nivel?",
+            "respuesta": "Secundario: detección y manejo temprano."
+          }
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "En primera visita, gestante asintomática recibe tamizaje de sífilis para tratamiento oportuno.",
+            "alternativas": {
+              "A": "Terciaria",
+              "B": "Cuaternaria",
+              "C": "Secundaria",
+              "D": "Paliativa",
+              "E": "Rehabilitación"
+            },
+            "respuesta": "C",
+            "explicacion": "Se busca detectar tempranamente una condición tratable."
+          },
+          {
+            "enunciado": "Una gestante sin enfermedad recibe orientación para evitar exposición al humo de tabaco.",
+            "alternativas": {
+              "A": "Secundaria",
+              "B": "Terciaria",
+              "C": "Cuaternaria",
+              "D": "Primaria",
+              "E": "Rehabilitadora"
+            },
+            "respuesta": "D",
+            "explicacion": "La educación preventiva actúa antes de que aparezca daño."
+          }
+        ]
+      }
+    },
+    {
+      "number": 62,
+      "question": "El responsable de la RIS desea saber la cantidad de atenciones realizadas por el médico serumista en consulta externa. ¿Qué indicador de gestión debe utilizar?",
+      "options": {
+        "A": "Rendimiento",
+        "B": "Concentración",
+        "C": "Productividad",
+        "D": "Permanencia"
+      },
+      "correct": "C",
+      "code": "ENCAPS26-I P062",
+      "course": "ENCAPS Medicina 2026-I · Temario desarrollado",
+      "topic": "Indicadores de gestión sanitaria: producción, productividad hora médico, rendimiento y concentración",
+      "comment": "RESPUESTA RAZONADA — CLAVE PROPUESTA PARA EL EXAMEN (COTEJO OFICIAL PENDIENTE)\nC. Productividad\n\nRAZONAMIENTO CLÍNICO Y DE EXAMEN\nLa pregunta apunta a la cantidad de consultas que realiza el profesional. Entre las opciones, productividad es el indicador esperado para evaluar el volumen de atenciones en relación con los recursos o tiempo de trabajo. Es importante precisar que el número absoluto de atenciones es producción; el indicador técnico productividad hora médico compara consultas realizadas con horas médicas programadas. Si solo se solicita cantidad sin tiempo, el enunciado es impreciso: no se puede calcular la tasa de productividad sin denominador.\n\nDESARROLLO COMPLETO DEL TEMARIO\n1. Producción asistencial es el volumen absoluto de actividades o atenciones efectuadas en un periodo. Puede agregarse por IPRESS, servicio o profesional.\n2. Productividad hora médico = número de consultas médicas realizadas / número de horas médicas programadas en consulta externa durante el mismo periodo; unidad: consultas por hora programada.\n3. Ejemplo: si un serumista realiza 120 consultas en 40 horas programadas, su productividad es 3 consultas/hora. El resultado no indica por sí solo calidad ni complejidad clínica.\n4. Concentración de consultas expresa atenciones por persona atendida en un periodo; refleja frecuencia de uso, no rendimiento de un solo médico.\n5. Rendimiento se usa con diversos significados operativos (eficiencia o uso de tiempo/cupos) según ficha técnica; jamás inferir su fórmula sin identificar el documento normativo concreto.\n6. Permanencia indica duración de estancia o continuidad de personas y no es el indicador de producción de consulta solicitado.\n7. Interpretar productividad con carga de enfermedad, edad, ruralidad, tipo de consulta y estándares reales; elevar velocidad sin protección de calidad y seguridad no es buen desempeño.\n8. La fuente habitual es registro de atención (HIS y otros sistemas oficiales) y programación mensual de horas de consulta. Se deben validar duplicados, ausencias y cambios de horario.\n\nANÁLISIS DE TODAS LAS ALTERNATIVAS\nA) Rendimiento puede referirse a utilización de recursos en algunos manuales, pero el indicador explícito de volumen/hora médico en documentos de gestión es productividad hora médico.\nB) Concentración = consultas / personas atendidas, no el número de atenciones por el médico.\nC) Correcta como opción esperada: productividad del recurso médico; si se exige fórmula técnica, requiere horas programadas.\nD) Permanencia = duración/continuidad, concepto diferente de producción o productividad.\n\nNORMATIVA Y FUENTES\n- MINSA, Indicadores hospitalarios de gestión y evaluación, ficha Productividad hora médico: https://bvs.minsa.gob.pe/local/MINSA/2739.pdf\n- Contraloría, análisis de indicadores de desempeño de servicios de salud del Perú, anexo de productividad hora médico: https://cdn.www.gob.pe/uploads/document/file/6421786/5622700-documento-de-investigacion-analisis-de-los-indicadores-de-desempeno-de-los-servicios-de-salud-en-el-peru.pdf\n\nTRAMPAS DEL EXAMEN\n- No confundir cantidad bruta de consultas (producción) con productividad (requiere denominador).\n- Concentración tiene como denominador personas atendidas.\n- Se debe medir calidad y complejidad, no premiar únicamente el número de pacientes.\n\nMNEMOTECNIA\nPRODUCCIÓN = CUÁNTAS; PRODUCTIVIDAD = CUÁNTAS POR HORA; CONCENTRACIÓN = CUÁNTAS POR PACIENTE.\n\nREPASO ACTIVO\n1. ¿Fórmula de productividad hora médico? — Consultas médicas realizadas ÷ horas médicas programadas para consulta externa.\n2. ¿Qué significa concentración de consulta? — Atenciones realizadas ÷ personas atendidas en el periodo.\n\nCASOS DE REFUERZO\n1. Un médico efectuó 96 consultas en 32 horas programadas. ¿Productividad?\nA) 3 atenciones por hora\nB) 32 atenciones por hora\nC) 96 horas por atención\nD) 0,33 atenciones por hora\nE) 128 atenciones por hora\nClave: A. 96/32 = 3.\n2. Una IPRESS realizó 240 consultas en 120 personas distintas. ¿Concentración?\nA) 0,5\nB) 120\nC) 240\nD) 360\nE) 2 consultas por persona\nClave: E. 240/120=2.",
+      "pearl": "PRODUCCIÓN = CUÁNTAS; PRODUCTIVIDAD = CUÁNTAS POR HORA; CONCENTRACIÓN = CUÁNTAS POR PACIENTE.",
+      "keywords": [],
+      "estadoDesarrollo": "completo",
+      "estadoClave": "propuesta_razonada_pendiente_cotejo_clave_oficial",
+      "lesson": {
+        "respuesta_resumida": "C. Productividad",
+        "razonamiento": "La pregunta apunta a la cantidad de consultas que realiza el profesional. Entre las opciones, productividad es el indicador esperado para evaluar el volumen de atenciones en relación con los recursos o tiempo de trabajo. Es importante precisar que el número absoluto de atenciones es producción; el indicador técnico productividad hora médico compara consultas realizadas con horas médicas programadas. Si solo se solicita cantidad sin tiempo, el enunciado es impreciso: no se puede calcular la tasa de productividad sin denominador.",
+        "temario": [
+          "Producción asistencial es el volumen absoluto de actividades o atenciones efectuadas en un periodo. Puede agregarse por IPRESS, servicio o profesional.",
+          "Productividad hora médico = número de consultas médicas realizadas / número de horas médicas programadas en consulta externa durante el mismo periodo; unidad: consultas por hora programada.",
+          "Ejemplo: si un serumista realiza 120 consultas en 40 horas programadas, su productividad es 3 consultas/hora. El resultado no indica por sí solo calidad ni complejidad clínica.",
+          "Concentración de consultas expresa atenciones por persona atendida en un periodo; refleja frecuencia de uso, no rendimiento de un solo médico.",
+          "Rendimiento se usa con diversos significados operativos (eficiencia o uso de tiempo/cupos) según ficha técnica; jamás inferir su fórmula sin identificar el documento normativo concreto.",
+          "Permanencia indica duración de estancia o continuidad de personas y no es el indicador de producción de consulta solicitado.",
+          "Interpretar productividad con carga de enfermedad, edad, ruralidad, tipo de consulta y estándares reales; elevar velocidad sin protección de calidad y seguridad no es buen desempeño.",
+          "La fuente habitual es registro de atención (HIS y otros sistemas oficiales) y programación mensual de horas de consulta. Se deben validar duplicados, ausencias y cambios de horario."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Rendimiento puede referirse a utilización de recursos en algunos manuales, pero el indicador explícito de volumen/hora médico en documentos de gestión es productividad hora médico.",
+          "B": "Concentración = consultas / personas atendidas, no el número de atenciones por el médico.",
+          "C": "Correcta como opción esperada: productividad del recurso médico; si se exige fórmula técnica, requiere horas programadas.",
+          "D": "Permanencia = duración/continuidad, concepto diferente de producción o productividad."
+        },
+        "normativa": [
+          "MINSA, Indicadores hospitalarios de gestión y evaluación, ficha Productividad hora médico: https://bvs.minsa.gob.pe/local/MINSA/2739.pdf",
+          "Contraloría, análisis de indicadores de desempeño de servicios de salud del Perú, anexo de productividad hora médico: https://cdn.www.gob.pe/uploads/document/file/6421786/5622700-documento-de-investigacion-analisis-de-los-indicadores-de-desempeno-de-los-servicios-de-salud-en-el-peru.pdf"
+        ],
+        "mnemotecnia": "PRODUCCIÓN = CUÁNTAS; PRODUCTIVIDAD = CUÁNTAS POR HORA; CONCENTRACIÓN = CUÁNTAS POR PACIENTE.",
+        "trampas": [
+          "No confundir cantidad bruta de consultas (producción) con productividad (requiere denominador).",
+          "Concentración tiene como denominador personas atendidas.",
+          "Se debe medir calidad y complejidad, no premiar únicamente el número de pacientes."
+        ],
+        "perla": "PRODUCCIÓN = CUÁNTAS; PRODUCTIVIDAD = CUÁNTAS POR HORA; CONCENTRACIÓN = CUÁNTAS POR PACIENTE.",
+        "repaso_activo": [
+          {
+            "pregunta": "¿Fórmula de productividad hora médico?",
+            "respuesta": "Consultas médicas realizadas ÷ horas médicas programadas para consulta externa."
+          },
+          {
+            "pregunta": "¿Qué significa concentración de consulta?",
+            "respuesta": "Atenciones realizadas ÷ personas atendidas en el periodo."
+          }
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Un médico efectuó 96 consultas en 32 horas programadas. ¿Productividad?",
+            "alternativas": {
+              "A": "3 atenciones por hora",
+              "B": "32 atenciones por hora",
+              "C": "96 horas por atención",
+              "D": "0,33 atenciones por hora",
+              "E": "128 atenciones por hora"
+            },
+            "respuesta": "A",
+            "explicacion": "96/32 = 3."
+          },
+          {
+            "enunciado": "Una IPRESS realizó 240 consultas en 120 personas distintas. ¿Concentración?",
+            "alternativas": {
+              "A": "0,5",
+              "B": "120",
+              "C": "240",
+              "D": "360",
+              "E": "2 consultas por persona"
+            },
+            "respuesta": "E",
+            "explicacion": "240/120=2."
+          }
+        ]
+      }
+    },
+    {
+      "number": 63,
+      "question": "Varón de 35 años acude al establecimiento de salud para evaluación médica. Durante la consulta refiere que presenta tos y flema desde hace 15 días. Según la Norma Técnica de Salud para la prevención y control de tuberculosis. ¿Cómo se denomina a un paciente con este cuadro clínico?",
+      "options": {
+        "A": "Sintomático respiratorio examinado",
+        "B": "Paciente con infección latente",
+        "C": "Sintomático respiratorio",
+        "D": "Paciente con tuberculosis sensible"
+      },
+      "correct": "C",
+      "code": "ENCAPS26-I P063",
+      "course": "ENCAPS Medicina 2026-I · Temario desarrollado",
+      "topic": "Tuberculosis: sintomático respiratorio, caso presuntivo, pruebas diagnósticas y manejo inicial",
+      "comment": "RESPUESTA RAZONADA — CLAVE PROPUESTA PARA EL EXAMEN (COTEJO OFICIAL PENDIENTE)\nC. Sintomático respiratorio\n\nRAZONAMIENTO CLÍNICO Y DE EXAMEN\nLa tos con flema por 15 días satisface el criterio clásico operativo de sintomático respiratorio que usa el examen; aún no existe prueba diagnóstica, por lo que no cabe decir sintomático respiratorio examinado ni confirmar tuberculosis. Importante: la NTS 221-2024 organiza también la detección de caso presuntivo de TB mediante evaluación de síntomas y pruebas; no debe retrasarse estudio esperando cumplir días si hay sospecha clínica o epidemiológica.\n\nDESARROLLO COMPLETO DEL TEMARIO\n1. Sintomático respiratorio (SR) es denominación operacional clásica para quien presenta tos con expectoración por 15 días o más. En el examen, ese es el dato discriminante.\n2. El hallazgo SR exige evaluación, medidas de prevención de transmisión y obtención de muestras según la ruta local, no equivale al diagnóstico confirmado.\n3. Sintomático respiratorio examinado (SRE) requiere que la persona haya sido efectivamente evaluada con pruebas diagnósticas indicadas; la historia solo dice que refiere síntomas.\n4. Caso presuntivo de TB puede considerarse a partir de síntomas sugestivos como tos con flema, hemoptisis, fiebre, sudoración nocturna y pérdida de peso, complementados por examen clínico y pruebas.\n5. Las pruebas rápidas moleculares, cuando están disponibles e indicadas, permiten detectar complejo M. tuberculosis y resistencia a rifampicina; la baciloscopía tiene limitaciones de sensibilidad.\n6. TB sensible se establece luego de diagnóstico bacteriológico/clínico apropiado y evaluación de sensibilidad farmacológica; no se infiere por tos aislada.\n7. Infección tuberculosa latente significa respuesta inmunitaria a M. tuberculosis sin evidencia de enfermedad activa: suele ser asintomática y no se diagnostica por expectoración.\n8. En consulta: preguntar contacto TB, duración, pérdida de peso, fiebre, sudoración, VIH, diabetes y antecedentes; implementar control ambiental, mascarilla según protocolos y seguimiento del resultado.\n9. La prioridad es acceso temprano a diagnóstico y continuidad terapéutica para evitar transmisión, secuelas y resistencia.\n\nANÁLISIS DE TODAS LAS ALTERNATIVAS\nA) No hay evidencia de que se le hayan realizado las pruebas requeridas; no es SRE por simple anamnesis.\nB) La infección latente no causa típicamente tos productiva y debe descartarse TB activa antes de tratamiento preventivo.\nC) Correcta: tos con flema durante 15 días corresponde a la categoría clásica de sintomático respiratorio.\nD) TB sensible supone enfermedad establecida y valoración de susceptibilidad; no puede concluirse solo por síntomas.\n\nNORMATIVA Y FUENTES\n- NTS N.° 221-MINSA/DGIESP-2024, prevención y control de tuberculosis; RM N.° 894-2024-MINSA: https://bvs.minsa.gob.pe/local/MINSA/7667.pdf\n- RM N.° 339-2023-MINSA, NTS 200: marco previo de cuidado integral, considerar actualización normativa: https://www.gob.pe/institucion/minsa/normas-legales/4034345-339-2023-minsa\n\nTRAMPAS DEL EXAMEN\n- Nunca llamar 'TB sensible' al paciente sin evidencia microbiológica y de sensibilidad.\n- 15 días sirve a definición clásica de SR, no es permiso para retrasar estudio de síntomas sospechosos.\n- SR no es igual a SRE ni infección latente.\n\nMNEMOTECNIA\nTOS + FLEMA ≥ 15 DÍAS = SR; PRUEBA REALIZADA = SRE; TB CONFIRMADA REQUIERE EVIDENCIA.\n\nREPASO ACTIVO\n1. ¿Qué separa al SR del SR examinado? — La realización efectiva de evaluación/prueba diagnóstica correspondiente.\n2. ¿Tos con flema confirma TB activa? — No; requiere evaluación clínica y pruebas apropiadas.\n\nCASOS DE REFUERZO\n1. Persona con tos productiva 3 semanas aún no ha entregado muestra. ¿Categoría?\nA) TB sensible confirmada\nB) Sintomático respiratorio\nC) TB latente\nD) TB resistente\nE) SRE confirmado\nClave: B. Cumple descripción de SR, sin estudio documentado.\n2. Contacto asintomático con prueba de infección positiva y TB activa descartada. ¿Diagnóstico probable?\nA) Neumonía\nB) TB pulmonar activa\nC) TB multirresistente\nD) Infección tuberculosa latente\nE) SR examinado\nClave: D. Infección sin signos de enfermedad activa.",
+      "pearl": "TOS + FLEMA ≥ 15 DÍAS = SR; PRUEBA REALIZADA = SRE; TB CONFIRMADA REQUIERE EVIDENCIA.",
+      "keywords": [],
+      "estadoDesarrollo": "completo",
+      "estadoClave": "propuesta_razonada_pendiente_cotejo_clave_oficial",
+      "lesson": {
+        "respuesta_resumida": "C. Sintomático respiratorio",
+        "razonamiento": "La tos con flema por 15 días satisface el criterio clásico operativo de sintomático respiratorio que usa el examen; aún no existe prueba diagnóstica, por lo que no cabe decir sintomático respiratorio examinado ni confirmar tuberculosis. Importante: la NTS 221-2024 organiza también la detección de caso presuntivo de TB mediante evaluación de síntomas y pruebas; no debe retrasarse estudio esperando cumplir días si hay sospecha clínica o epidemiológica.",
+        "temario": [
+          "Sintomático respiratorio (SR) es denominación operacional clásica para quien presenta tos con expectoración por 15 días o más. En el examen, ese es el dato discriminante.",
+          "El hallazgo SR exige evaluación, medidas de prevención de transmisión y obtención de muestras según la ruta local, no equivale al diagnóstico confirmado.",
+          "Sintomático respiratorio examinado (SRE) requiere que la persona haya sido efectivamente evaluada con pruebas diagnósticas indicadas; la historia solo dice que refiere síntomas.",
+          "Caso presuntivo de TB puede considerarse a partir de síntomas sugestivos como tos con flema, hemoptisis, fiebre, sudoración nocturna y pérdida de peso, complementados por examen clínico y pruebas.",
+          "Las pruebas rápidas moleculares, cuando están disponibles e indicadas, permiten detectar complejo M. tuberculosis y resistencia a rifampicina; la baciloscopía tiene limitaciones de sensibilidad.",
+          "TB sensible se establece luego de diagnóstico bacteriológico/clínico apropiado y evaluación de sensibilidad farmacológica; no se infiere por tos aislada.",
+          "Infección tuberculosa latente significa respuesta inmunitaria a M. tuberculosis sin evidencia de enfermedad activa: suele ser asintomática y no se diagnostica por expectoración.",
+          "En consulta: preguntar contacto TB, duración, pérdida de peso, fiebre, sudoración, VIH, diabetes y antecedentes; implementar control ambiental, mascarilla según protocolos y seguimiento del resultado.",
+          "La prioridad es acceso temprano a diagnóstico y continuidad terapéutica para evitar transmisión, secuelas y resistencia."
+        ],
+        "por_que_no_las_otras": {
+          "A": "No hay evidencia de que se le hayan realizado las pruebas requeridas; no es SRE por simple anamnesis.",
+          "B": "La infección latente no causa típicamente tos productiva y debe descartarse TB activa antes de tratamiento preventivo.",
+          "C": "Correcta: tos con flema durante 15 días corresponde a la categoría clásica de sintomático respiratorio.",
+          "D": "TB sensible supone enfermedad establecida y valoración de susceptibilidad; no puede concluirse solo por síntomas."
+        },
+        "normativa": [
+          "NTS N.° 221-MINSA/DGIESP-2024, prevención y control de tuberculosis; RM N.° 894-2024-MINSA: https://bvs.minsa.gob.pe/local/MINSA/7667.pdf",
+          "RM N.° 339-2023-MINSA, NTS 200: marco previo de cuidado integral, considerar actualización normativa: https://www.gob.pe/institucion/minsa/normas-legales/4034345-339-2023-minsa"
+        ],
+        "mnemotecnia": "TOS + FLEMA ≥ 15 DÍAS = SR; PRUEBA REALIZADA = SRE; TB CONFIRMADA REQUIERE EVIDENCIA.",
+        "trampas": [
+          "Nunca llamar 'TB sensible' al paciente sin evidencia microbiológica y de sensibilidad.",
+          "15 días sirve a definición clásica de SR, no es permiso para retrasar estudio de síntomas sospechosos.",
+          "SR no es igual a SRE ni infección latente."
+        ],
+        "perla": "TOS + FLEMA ≥ 15 DÍAS = SR; PRUEBA REALIZADA = SRE; TB CONFIRMADA REQUIERE EVIDENCIA.",
+        "repaso_activo": [
+          {
+            "pregunta": "¿Qué separa al SR del SR examinado?",
+            "respuesta": "La realización efectiva de evaluación/prueba diagnóstica correspondiente."
+          },
+          {
+            "pregunta": "¿Tos con flema confirma TB activa?",
+            "respuesta": "No; requiere evaluación clínica y pruebas apropiadas."
+          }
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Persona con tos productiva 3 semanas aún no ha entregado muestra. ¿Categoría?",
+            "alternativas": {
+              "A": "TB sensible confirmada",
+              "B": "Sintomático respiratorio",
+              "C": "TB latente",
+              "D": "TB resistente",
+              "E": "SRE confirmado"
+            },
+            "respuesta": "B",
+            "explicacion": "Cumple descripción de SR, sin estudio documentado."
+          },
+          {
+            "enunciado": "Contacto asintomático con prueba de infección positiva y TB activa descartada. ¿Diagnóstico probable?",
+            "alternativas": {
+              "A": "Neumonía",
+              "B": "TB pulmonar activa",
+              "C": "TB multirresistente",
+              "D": "Infección tuberculosa latente",
+              "E": "SR examinado"
+            },
+            "respuesta": "D",
+            "explicacion": "Infección sin signos de enfermedad activa."
+          }
+        ]
+      }
+    },
+    {
+      "number": 64,
+      "question": "En un establecimiento de salud I-4 el médico jefe debe elaborar el ...... que es una herramienta de gestión que considera las actividades para la implementación del plan operativo institucional.",
+      "options": {
+        "A": "cuadro multianual de necesidades",
+        "B": "plan de abastecimiento e inversiones",
+        "C": "plan estratégico institucional",
+        "D": "plan de salud local"
+      },
+      "correct": "A",
+      "code": "ENCAPS26-I P064",
+      "course": "ENCAPS Medicina 2026-I · Temario desarrollado",
+      "topic": "Cuadro Multianual de Necesidades (CMN), POI y PEI: articulación de planeamiento y abastecimiento",
+      "comment": "RESPUESTA RAZONADA — CLAVE PROPUESTA PARA EL EXAMEN (COTEJO OFICIAL PENDIENTE)\nA. cuadro multianual de necesidades\n\nRAZONAMIENTO CLÍNICO Y DE EXAMEN\nEl Cuadro Multianual de Necesidades programa bienes, servicios y obras requeridos para ejecutar actividades operativas e inversiones de la entidad; de las cuatro respuestas es el instrumento que articula los requerimientos de abastecimiento con la implementación del POI. Ojo: 'considera actividades' no significa que el CMN sustituya al POI: el POI programa actividades y metas, mientras el CMN consolida las necesidades de insumos y contrataciones para hacerlas posibles.\n\nDESARROLLO COMPLETO DEL TEMARIO\n1. PEI (Plan Estratégico Institucional) establece objetivos y acciones estratégicas a mediano plazo; da marco a los resultados institucionales.\n2. POI (Plan Operativo Institucional) programa actividades operativas e inversiones, metas físicas, recursos y responsables para concretar acciones estratégicas.\n3. CMN (Cuadro Multianual de Necesidades) identifica y consolida necesidades de bienes, servicios y obras por periodo multianual, vinculadas con funcionamiento y objetivos de la entidad.\n4. El jefe de una IPRESS formula y sustenta requerimientos de medicamentos, material médico, equipamiento, servicios de mantenimiento, limpieza, cadena de frío y otros conforme a competencias y planificación de la unidad ejecutora.\n5. Para estimar necesidades se utilizan datos de producción sanitaria, población objetivo, consumo histórico, stock disponible, vencimientos, estacionalidad y metas operativas; no basta repetir compras del año previo.\n6. La programación debe coordinar áreas usuarias, logística/abastecimiento, planeamiento, presupuesto y equipos técnicos; observando responsabilidades y marco vigente del sistema de abastecimiento.\n7. El CMN no reemplaza presupuesto aprobado, procesos de contratación, almacenamiento ni control patrimonial. Los requerimientos deben priorizar calidad y continuidad asistencial.\n8. Ejemplo: el POI establece 2 000 controles prenatales; el CMN identifica necesidades de pruebas, insumos y servicios para sostener esa meta, sujeto a programación y presupuesto.\n9. Diferenciar plan local de salud (prioridades sanitarias territoriales) del documento específico de necesidades de abastecimiento institucional.\n\nANÁLISIS DE TODAS LAS ALTERNATIVAS\nA) Correcta: programación y consolidación multianual de necesidades de bienes, servicios y obras relacionadas con el POI.\nB) La expresión es genérica y no corresponde al instrumento formal reconocido como CMN.\nC) PEI define objetivos y acciones estratégicas; no detalla requerimientos operativos de suministro.\nD) Plan de salud local aborda prioridades de salud territorial; no es la herramienta de programación multianual de necesidades del POI.\n\nNORMATIVA Y FUENTES\n- MINSA, Cuadro Multianual de Necesidades 2026–2028: https://www.gob.pe/institucion/minsa/informes-publicaciones/7913367-cuadro-multianual-de-necesidades-correspondiente-a-la-fase-de-consolidacion-y-aprobacion-2026-2028\n- MINSA, Plan Operativo Institucional 2026: https://www.gob.pe/institucion/minsa/colecciones/97074-plan-operativo-institucional-poi-2026\n- CEPLAN, Guía para el Planeamiento Institucional; verificar modificaciones aplicables.\n\nTRAMPAS DEL EXAMEN\n- No confundir programación de actividades (POI) con programación de requerimientos (CMN).\n- CMN no autoriza por sí solo una compra.\n- Establecimiento propone requerimientos pero aprobación y consolidación dependen de organización y unidad ejecutora.\n\nMNEMOTECNIA\nPEI = HACIA DÓNDE; POI = QUÉ HAREMOS; CMN = QUÉ NECESITAMOS PARA HACERLO.\n\nREPASO ACTIVO\n1. ¿Qué instrumento traduce estrategia a actividades con metas operativas? — POI.\n2. ¿Qué instrumento identifica bienes, servicios y obras necesarios para ejecutar actividades? — CMN.\n\nCASOS DE REFUERZO\n1. Una IPRESS calcula guantes, jeringas y servicios que necesitará para sus metas del POI. ¿Instrumento?\nA) Historia clínica\nB) PEI\nC) CMN\nD) Reglamento interno\nE) Padrón nominal\nClave: C. Se planifican necesidades de abastecimiento.\n2. Una dirección establece objetivos estratégicos de mediano plazo. ¿Instrumento?\nA) CMN\nB) Kardex\nC) HIS\nD) PEI\nE) Orden de compra\nClave: D. Los objetivos y acciones estratégicas pertenecen al PEI.",
+      "pearl": "PEI = HACIA DÓNDE; POI = QUÉ HAREMOS; CMN = QUÉ NECESITAMOS PARA HACERLO.",
+      "keywords": [],
+      "estadoDesarrollo": "completo",
+      "estadoClave": "propuesta_razonada_pendiente_cotejo_clave_oficial",
+      "lesson": {
+        "respuesta_resumida": "A. cuadro multianual de necesidades",
+        "razonamiento": "El Cuadro Multianual de Necesidades programa bienes, servicios y obras requeridos para ejecutar actividades operativas e inversiones de la entidad; de las cuatro respuestas es el instrumento que articula los requerimientos de abastecimiento con la implementación del POI. Ojo: 'considera actividades' no significa que el CMN sustituya al POI: el POI programa actividades y metas, mientras el CMN consolida las necesidades de insumos y contrataciones para hacerlas posibles.",
+        "temario": [
+          "PEI (Plan Estratégico Institucional) establece objetivos y acciones estratégicas a mediano plazo; da marco a los resultados institucionales.",
+          "POI (Plan Operativo Institucional) programa actividades operativas e inversiones, metas físicas, recursos y responsables para concretar acciones estratégicas.",
+          "CMN (Cuadro Multianual de Necesidades) identifica y consolida necesidades de bienes, servicios y obras por periodo multianual, vinculadas con funcionamiento y objetivos de la entidad.",
+          "El jefe de una IPRESS formula y sustenta requerimientos de medicamentos, material médico, equipamiento, servicios de mantenimiento, limpieza, cadena de frío y otros conforme a competencias y planificación de la unidad ejecutora.",
+          "Para estimar necesidades se utilizan datos de producción sanitaria, población objetivo, consumo histórico, stock disponible, vencimientos, estacionalidad y metas operativas; no basta repetir compras del año previo.",
+          "La programación debe coordinar áreas usuarias, logística/abastecimiento, planeamiento, presupuesto y equipos técnicos; observando responsabilidades y marco vigente del sistema de abastecimiento.",
+          "El CMN no reemplaza presupuesto aprobado, procesos de contratación, almacenamiento ni control patrimonial. Los requerimientos deben priorizar calidad y continuidad asistencial.",
+          "Ejemplo: el POI establece 2 000 controles prenatales; el CMN identifica necesidades de pruebas, insumos y servicios para sostener esa meta, sujeto a programación y presupuesto.",
+          "Diferenciar plan local de salud (prioridades sanitarias territoriales) del documento específico de necesidades de abastecimiento institucional."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Correcta: programación y consolidación multianual de necesidades de bienes, servicios y obras relacionadas con el POI.",
+          "B": "La expresión es genérica y no corresponde al instrumento formal reconocido como CMN.",
+          "C": "PEI define objetivos y acciones estratégicas; no detalla requerimientos operativos de suministro.",
+          "D": "Plan de salud local aborda prioridades de salud territorial; no es la herramienta de programación multianual de necesidades del POI."
+        },
+        "normativa": [
+          "MINSA, Cuadro Multianual de Necesidades 2026–2028: https://www.gob.pe/institucion/minsa/informes-publicaciones/7913367-cuadro-multianual-de-necesidades-correspondiente-a-la-fase-de-consolidacion-y-aprobacion-2026-2028",
+          "MINSA, Plan Operativo Institucional 2026: https://www.gob.pe/institucion/minsa/colecciones/97074-plan-operativo-institucional-poi-2026",
+          "CEPLAN, Guía para el Planeamiento Institucional; verificar modificaciones aplicables."
+        ],
+        "mnemotecnia": "PEI = HACIA DÓNDE; POI = QUÉ HAREMOS; CMN = QUÉ NECESITAMOS PARA HACERLO.",
+        "trampas": [
+          "No confundir programación de actividades (POI) con programación de requerimientos (CMN).",
+          "CMN no autoriza por sí solo una compra.",
+          "Establecimiento propone requerimientos pero aprobación y consolidación dependen de organización y unidad ejecutora."
+        ],
+        "perla": "PEI = HACIA DÓNDE; POI = QUÉ HAREMOS; CMN = QUÉ NECESITAMOS PARA HACERLO.",
+        "repaso_activo": [
+          {
+            "pregunta": "¿Qué instrumento traduce estrategia a actividades con metas operativas?",
+            "respuesta": "POI."
+          },
+          {
+            "pregunta": "¿Qué instrumento identifica bienes, servicios y obras necesarios para ejecutar actividades?",
+            "respuesta": "CMN."
+          }
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Una IPRESS calcula guantes, jeringas y servicios que necesitará para sus metas del POI. ¿Instrumento?",
+            "alternativas": {
+              "A": "Historia clínica",
+              "B": "PEI",
+              "C": "CMN",
+              "D": "Reglamento interno",
+              "E": "Padrón nominal"
+            },
+            "respuesta": "C",
+            "explicacion": "Se planifican necesidades de abastecimiento."
+          },
+          {
+            "enunciado": "Una dirección establece objetivos estratégicos de mediano plazo. ¿Instrumento?",
+            "alternativas": {
+              "A": "CMN",
+              "B": "Kardex",
+              "C": "HIS",
+              "D": "PEI",
+              "E": "Orden de compra"
+            },
+            "respuesta": "D",
+            "explicacion": "Los objetivos y acciones estratégicas pertenecen al PEI."
+          }
+        ]
+      }
+    },
+    {
+      "number": 65,
+      "question": "El enfoque intercultural implica que el Estado valore e incorpore las diferentes visiones de los grupos étnicos y culturales para la generación de los servicios con pertinencia cultural, promoviendo el reconocimiento de la ciudadanía intercultural basada en el diálogo y la atención diferenciada. Este enfoque debería ser diferenciado de manera especial en la población:",
+      "options": {
+        "A": "Aymara e indígena",
+        "B": "Latina y europea",
+        "C": "En general",
+        "D": "Indígena y afroperuana"
+      },
+      "correct": "D",
+      "code": "ENCAPS26-I P065",
+      "course": "ENCAPS Medicina 2026-I · Temario desarrollado",
+      "topic": "Enfoque intercultural en salud, pueblos indígenas u originarios y población afroperuana",
+      "comment": "RESPUESTA RAZONADA — CLAVE PROPUESTA PARA EL EXAMEN (COTEJO OFICIAL PENDIENTE)\nD. Indígena y afroperuana\n\nRAZONAMIENTO CLÍNICO Y DE EXAMEN\nEl enunciado pide población en la que debe ponerse especial énfasis para adaptar servicios a diferencias culturales y enfrentar barreras históricas. La opción que reúne de forma más completa dos colectivos reconocidos en las políticas públicas peruanas es población indígena y afroperuana. El enfoque intercultural también beneficia a toda la población: la prioridad diferencial busca equidad, no exclusión.\n\nDESARROLLO COMPLETO DEL TEMARIO\n1. Interculturalidad en salud es relación respetuosa entre sistemas de conocimiento, lenguas y prácticas, con diálogo, participación y garantía de derechos.\n2. Pertenencia cultural no se determina únicamente por apariencia, apellido ni idioma; respetar autoidentificación y preferencias individuales.\n3. Pueblos indígenas u originarios pueden enfrentar barreras geográficas, lingüísticas, económicas, históricas y discriminación institucional.\n4. La población afroperuana también experimenta desigualdades y discriminación que justifican pertinencia cultural y trato diferenciado cuando sea necesario.\n5. Pertinencia cultural comprende señalética y materiales adecuados, intérpretes cuando se requieran, comprensión del consentimiento, adaptación organizativa compatible con seguridad y respeto de prácticas personales.\n6. La atención bilingüe e intercultural es especialmente relevante en comunidades quechuas y aimaras, pueblos amazónicos y en personas con barreras lingüísticas.\n7. No suponer que toda práctica ancestral es inocua ni descartarla automáticamente; evaluar riesgos, interacciones con medicamentos y preferencias mediante comunicación respetuosa.\n8. Distinguir igualdad formal (dar lo mismo) de equidad (superar barreras para garantizar resultados y acceso comparables).\n9. Aplicar confidencialidad, trato no discriminatorio, consentimiento informado y participación de la persona en decisiones clínicas.\n10. Incluir mediadores culturales comunitarios sin reemplazar autonomía, privacidad ni juicio profesional; reconocer instituciones y contextos locales.\n\nANÁLISIS DE TODAS LAS ALTERNATIVAS\nA) Población aimara forma parte de pueblos indígenas u originarios; esta alternativa resulta redundante y no incluye explícitamente población afroperuana.\nB) No representa el énfasis diferencial histórico buscado por la política de pertinencia cultural del enunciado.\nC) El enfoque aplica universalmente, pero la pregunta destaca poblaciones que requieren especial diferenciación para superar barreras históricas.\nD) Correcta como respuesta esperada: identifica población indígena y afroperuana, sin excluir a otras personas de la protección intercultural.\n\nNORMATIVA Y FUENTES\n- Ministerio de Cultura, Política Nacional para la Transversalización del Enfoque Intercultural y normativa vigente de derechos de pueblos indígenas y población afroperuana.\n- MINSA, Política Sectorial de Salud Intercultural; revisar lineamientos y normas de adecuación cultural de los servicios.\n\nTRAMPAS DEL EXAMEN\n- Universalidad de derechos no niega necesidad de acciones diferenciadas.\n- No confundir 'aimara' (pueblo concreto) con el conjunto de todos los pueblos indígenas.\n- Intérprete es recurso importante pero no define por sí solo la totalidad de la interculturalidad.\n\nMNEMOTECNIA\nINTERCULTURAL = IDIOMA + IDENTIDAD + DIÁLOGO + DERECHOS; PRIORIDAD DIFERENCIAL: INDÍGENA Y AFROPERUANA.\n\nREPASO ACTIVO\n1. ¿Qué diferencia la equidad de la igualdad idéntica de trato? — La equidad reconoce barreras distintas y adapta apoyos para garantizar acceso efectivo.\n2. ¿Quién decide la aceptación de una práctica cultural compatible con atención segura? — La persona informada, respetando autonomía y derechos.\n\nCASOS DE REFUERZO\n1. Una paciente aimarahablante no comprende una indicación de riesgo obstétrico. ¿Respuesta más pertinente?\nA) Pedir que firme sin explicar\nB) Negar atención\nC) Hablar más rápido\nD) Solicitar intérprete y comprobar comprensión\nE) Dar alta sin evaluar\nClave: D. La comprensión real es parte del consentimiento y la pertinencia cultural.\n2. Una red detecta barreras históricas en población afroperuana. ¿Enfoque recomendado?\nA) Atención sin registros\nB) Equidad y pertinencia cultural con participación\nC) Segregar servicios\nD) Eliminar consentimiento\nE) Prohibir participación comunitaria\nClave: B. Equidad requiere identificar barreras y codiseñar soluciones.",
+      "pearl": "INTERCULTURAL = IDIOMA + IDENTIDAD + DIÁLOGO + DERECHOS; PRIORIDAD DIFERENCIAL: INDÍGENA Y AFROPERUANA.",
+      "keywords": [],
+      "estadoDesarrollo": "completo",
+      "estadoClave": "propuesta_razonada_pendiente_cotejo_clave_oficial",
+      "lesson": {
+        "respuesta_resumida": "D. Indígena y afroperuana",
+        "razonamiento": "El enunciado pide población en la que debe ponerse especial énfasis para adaptar servicios a diferencias culturales y enfrentar barreras históricas. La opción que reúne de forma más completa dos colectivos reconocidos en las políticas públicas peruanas es población indígena y afroperuana. El enfoque intercultural también beneficia a toda la población: la prioridad diferencial busca equidad, no exclusión.",
+        "temario": [
+          "Interculturalidad en salud es relación respetuosa entre sistemas de conocimiento, lenguas y prácticas, con diálogo, participación y garantía de derechos.",
+          "Pertenencia cultural no se determina únicamente por apariencia, apellido ni idioma; respetar autoidentificación y preferencias individuales.",
+          "Pueblos indígenas u originarios pueden enfrentar barreras geográficas, lingüísticas, económicas, históricas y discriminación institucional.",
+          "La población afroperuana también experimenta desigualdades y discriminación que justifican pertinencia cultural y trato diferenciado cuando sea necesario.",
+          "Pertinencia cultural comprende señalética y materiales adecuados, intérpretes cuando se requieran, comprensión del consentimiento, adaptación organizativa compatible con seguridad y respeto de prácticas personales.",
+          "La atención bilingüe e intercultural es especialmente relevante en comunidades quechuas y aimaras, pueblos amazónicos y en personas con barreras lingüísticas.",
+          "No suponer que toda práctica ancestral es inocua ni descartarla automáticamente; evaluar riesgos, interacciones con medicamentos y preferencias mediante comunicación respetuosa.",
+          "Distinguir igualdad formal (dar lo mismo) de equidad (superar barreras para garantizar resultados y acceso comparables).",
+          "Aplicar confidencialidad, trato no discriminatorio, consentimiento informado y participación de la persona en decisiones clínicas.",
+          "Incluir mediadores culturales comunitarios sin reemplazar autonomía, privacidad ni juicio profesional; reconocer instituciones y contextos locales."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Población aimara forma parte de pueblos indígenas u originarios; esta alternativa resulta redundante y no incluye explícitamente población afroperuana.",
+          "B": "No representa el énfasis diferencial histórico buscado por la política de pertinencia cultural del enunciado.",
+          "C": "El enfoque aplica universalmente, pero la pregunta destaca poblaciones que requieren especial diferenciación para superar barreras históricas.",
+          "D": "Correcta como respuesta esperada: identifica población indígena y afroperuana, sin excluir a otras personas de la protección intercultural."
+        },
+        "normativa": [
+          "Ministerio de Cultura, Política Nacional para la Transversalización del Enfoque Intercultural y normativa vigente de derechos de pueblos indígenas y población afroperuana.",
+          "MINSA, Política Sectorial de Salud Intercultural; revisar lineamientos y normas de adecuación cultural de los servicios."
+        ],
+        "mnemotecnia": "INTERCULTURAL = IDIOMA + IDENTIDAD + DIÁLOGO + DERECHOS; PRIORIDAD DIFERENCIAL: INDÍGENA Y AFROPERUANA.",
+        "trampas": [
+          "Universalidad de derechos no niega necesidad de acciones diferenciadas.",
+          "No confundir 'aimara' (pueblo concreto) con el conjunto de todos los pueblos indígenas.",
+          "Intérprete es recurso importante pero no define por sí solo la totalidad de la interculturalidad."
+        ],
+        "perla": "INTERCULTURAL = IDIOMA + IDENTIDAD + DIÁLOGO + DERECHOS; PRIORIDAD DIFERENCIAL: INDÍGENA Y AFROPERUANA.",
+        "repaso_activo": [
+          {
+            "pregunta": "¿Qué diferencia la equidad de la igualdad idéntica de trato?",
+            "respuesta": "La equidad reconoce barreras distintas y adapta apoyos para garantizar acceso efectivo."
+          },
+          {
+            "pregunta": "¿Quién decide la aceptación de una práctica cultural compatible con atención segura?",
+            "respuesta": "La persona informada, respetando autonomía y derechos."
+          }
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Una paciente aimarahablante no comprende una indicación de riesgo obstétrico. ¿Respuesta más pertinente?",
+            "alternativas": {
+              "A": "Pedir que firme sin explicar",
+              "B": "Negar atención",
+              "C": "Hablar más rápido",
+              "D": "Solicitar intérprete y comprobar comprensión",
+              "E": "Dar alta sin evaluar"
+            },
+            "respuesta": "D",
+            "explicacion": "La comprensión real es parte del consentimiento y la pertinencia cultural."
+          },
+          {
+            "enunciado": "Una red detecta barreras históricas en población afroperuana. ¿Enfoque recomendado?",
+            "alternativas": {
+              "A": "Atención sin registros",
+              "B": "Equidad y pertinencia cultural con participación",
+              "C": "Segregar servicios",
+              "D": "Eliminar consentimiento",
+              "E": "Prohibir participación comunitaria"
+            },
+            "respuesta": "B",
+            "explicacion": "Equidad requiere identificar barreras y codiseñar soluciones."
+          }
+        ]
       }
     }
   ]
