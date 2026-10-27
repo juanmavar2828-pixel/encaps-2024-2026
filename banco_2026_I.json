@@ -3,7 +3,7 @@
   "bankId": "ENCAPS_2026_I",
   "title": "ENCAPS 2026-I · Medicina Humana",
   "source": "Examen SERUMS Medicina 19 abril 2026 · claves resaltadas en PDF del usuario",
-  "questionCount": 5,
+  "questionCount": 10,
   "questions": [
     {
       "number": 1,
@@ -1094,6 +1094,502 @@
               "respuesta": "E",
               "explicacion": "La dispersión se inicia al emanciparse el primer hijo, mientras la contracción corresponde a la salida del último."
             }
+          ]
+        }
+      }
+    },
+    {
+      "number": 6,
+      "question": "Gestante de 23 años, migrante, con primaria incompleta, control prenatal esporádico de su tercer embarazo, manifiesta a un profesional que le quiere regalar a su hijo porque tiene problemas económicos, y su pareja la ha abandonado. Esta persona se encuentra sola y no tiene testigos. ¿Cuál es la conducta a seguir?",
+      "options": {
+        "A": "Comunicar a la policía, la intención de la gestante",
+        "B": "Aceptar por el bienestar y bien superior del recién nacido",
+        "C": "Referir a paciente a salud mental o servicio social",
+        "D": "Rechazar porque es un acto en contra de la ética profesional"
+      },
+      "correct": "C",
+      "code": "ENCAPS26-I P006",
+      "course": "ENCAPS Medicina 2026-I · Temario desarrollado",
+      "topic": "Gestante vulnerable: protección maternoinfantil, trabajo social y salud mental",
+      "comment": "CLAVE HISTÓRICA DEL CUADERNILLO\nC. Referir a paciente a salud mental o servicio social\n\nRAZONAMIENTO COMPLETO\nLa expresión de querer entregar a su hijo, en contexto de pobreza y abandono, requiere evaluación biopsicosocial, escucha sin juicio, valoración de violencia, coerción y riesgo suicida, y articulación inmediata con trabajo social y salud mental. No autoriza transferencia informal del niño ni constituye por sí sola un delito. Debe mantenerse el control prenatal y planear protección y seguimiento durante el parto y puerperio. Si hay peligro inminente se activa la ruta de protección correspondiente.\n\nDESARROLLO DEL TEMARIO\n1. Enfoque de derechos: madre y futuro niño son titulares de derechos; el interés superior del niño guía protección individualizada, no una transacción privada.\n2. Riesgo psicosocial: pobreza, migración, aislamiento y controles insuficientes exigen apoyo específico, sin presumir incapacidad parental.\n3. Entrevista: privacidad, consentimiento, escucha activa, identificación de necesidades materiales y red de familiares seguros.\n4. Salud mental perinatal: explorar depresión, ansiedad, violencia de pareja, ideación suicida y situación de coerción; distinguir urgencias.\n5. Trabajo social: acceso a prestaciones, acompañamiento, redes comunitarias y programas elegibles según evaluación.\n6. Adopción y protección: procedimientos formales ante autoridad competente; ningún profesional puede aceptar al bebé como regalo.\n7. Continuidad: plan de parto, citas prenatales y puerperales, coordinación del equipo y documentación clínica objetiva.\n8. Seguridad y confidencialidad: reservar datos y cumplir notificación/protección cuando existan circunstancias exigidas por ley.\n\nANÁLISIS INDIVIDUAL DE ALTERNATIVAS\nA) No corresponde denuncia policial automática por verbalizar dificultades económicas; se considera si aparece situación de riesgo o hecho legalmente notificable.\nB) Aceptar al niño informalmente vulnera las garantías y los procedimientos de protección.\nC) Correcta: evaluación y articulación de salud mental/trabajo social, sin dejar de atender riesgos inmediatos.\nD) Una negativa moralizante no resuelve vulnerabilidad ni ofrece protección efectiva.\n\nNORMATIVA Y FUENTES DE ESTUDIO\nLey 27337, Código de los Niños y Adolescentes: protección integral e interés superior del niño.\nDecreto Legislativo 1297 y reglamento: protección de niñas, niños y adolescentes sin cuidados parentales o en riesgo de perderlos.\nNormativa MINSA de salud mental comunitaria y atención prenatal: intervención interdisciplinaria y referencia según riesgo.\n\nTRAMPAS Y MATICES\nVulnerabilidad económica no equivale automáticamente a negligencia.\nUna expresión de intención no valida una entrega o adopción.\nLa referencia no reemplaza evaluar violencia y peligro inmediato.\n\nMNEMOTECNIA\nESCUCHAR → EVALUAR → APOYAR → REFERIR → SEGUIR.\n\nREPASO ACTIVO\n¿Clave? C: salud mental o servicio social.\n¿Puede aceptarse al bebé como regalo? No.\n¿Qué riesgos pesquisar hoy? Violencia, coerción, depresión y suicidio.\n¿Qué continúa? Seguimiento prenatal, social y posnatal.\n\nCASOS DE REFUERZO\n1. Gestante desea entregar a su hijo por falta de recursos, sin peligro inmediato. ¿Qué conducta es mejor?\nA) Difundir sus datos\nB) Articular trabajo social y salud mental\nC) Recibir al bebé\nD) Culparla\nE) Cerrar su atención\nClave B. La respuesta institucional es apoyo, valoración y continuidad.\n\n2. Gestante revela amenazas de su pareja para forzar entrega del recién nacido. ¿Cuál es la prioridad?\nA) Ignorar\nB) Pedir acuerdo privado\nC) Esperar al puerperio\nD) Evaluar seguridad y activar protección\nE) Informar al agresor\nClave D. La amenaza modifica el riesgo y exige intervención de seguridad.",
+      "pearl": "ESCUCHAR → EVALUAR → APOYAR → REFERIR → SEGUIR.",
+      "keywords": [
+        "Gestante vulnerable: protección maternoinfantil, trabajo social y salud mental",
+        "ENCAPS Medicina 2026-I",
+        "SERUMS MINSA"
+      ],
+      "estadoDesarrollo": "completo",
+      "estadoClave": "interpretacion_examen_pendiente_cotejo_clave_oficial_independiente",
+      "lesson": {
+        "respuesta_resumida": "C. Referir a paciente a salud mental o servicio social",
+        "razonamiento": "La expresión de querer entregar a su hijo, en contexto de pobreza y abandono, requiere evaluación biopsicosocial, escucha sin juicio, valoración de violencia, coerción y riesgo suicida, y articulación inmediata con trabajo social y salud mental. No autoriza transferencia informal del niño ni constituye por sí sola un delito. Debe mantenerse el control prenatal y planear protección y seguimiento durante el parto y puerperio. Si hay peligro inminente se activa la ruta de protección correspondiente.",
+        "temario": [
+          "Enfoque de derechos: madre y futuro niño son titulares de derechos; el interés superior del niño guía protección individualizada, no una transacción privada.",
+          "Riesgo psicosocial: pobreza, migración, aislamiento y controles insuficientes exigen apoyo específico, sin presumir incapacidad parental.",
+          "Entrevista: privacidad, consentimiento, escucha activa, identificación de necesidades materiales y red de familiares seguros.",
+          "Salud mental perinatal: explorar depresión, ansiedad, violencia de pareja, ideación suicida y situación de coerción; distinguir urgencias.",
+          "Trabajo social: acceso a prestaciones, acompañamiento, redes comunitarias y programas elegibles según evaluación.",
+          "Adopción y protección: procedimientos formales ante autoridad competente; ningún profesional puede aceptar al bebé como regalo.",
+          "Continuidad: plan de parto, citas prenatales y puerperales, coordinación del equipo y documentación clínica objetiva.",
+          "Seguridad y confidencialidad: reservar datos y cumplir notificación/protección cuando existan circunstancias exigidas por ley."
+        ],
+        "por_que_no_las_otras": {
+          "A": "No corresponde denuncia policial automática por verbalizar dificultades económicas; se considera si aparece situación de riesgo o hecho legalmente notificable.",
+          "B": "Aceptar al niño informalmente vulnera las garantías y los procedimientos de protección.",
+          "C": "Correcta: evaluación y articulación de salud mental/trabajo social, sin dejar de atender riesgos inmediatos.",
+          "D": "Una negativa moralizante no resuelve vulnerabilidad ni ofrece protección efectiva."
+        },
+        "normativa": [
+          "Ley 27337, Código de los Niños y Adolescentes: protección integral e interés superior del niño.",
+          "Decreto Legislativo 1297 y reglamento: protección de niñas, niños y adolescentes sin cuidados parentales o en riesgo de perderlos.",
+          "Normativa MINSA de salud mental comunitaria y atención prenatal: intervención interdisciplinaria y referencia según riesgo."
+        ],
+        "mnemotecnia": "ESCUCHAR → EVALUAR → APOYAR → REFERIR → SEGUIR.",
+        "trampas": [
+          "Vulnerabilidad económica no equivale automáticamente a negligencia.",
+          "Una expresión de intención no valida una entrega o adopción.",
+          "La referencia no reemplaza evaluar violencia y peligro inmediato."
+        ],
+        "perla": "ESCUCHAR → EVALUAR → APOYAR → REFERIR → SEGUIR.",
+        "repaso_activo": [
+          "¿Clave? C: salud mental o servicio social.",
+          "¿Puede aceptarse al bebé como regalo? No.",
+          "¿Qué riesgos pesquisar hoy? Violencia, coerción, depresión y suicidio.",
+          "¿Qué continúa? Seguimiento prenatal, social y posnatal."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Gestante desea entregar a su hijo por falta de recursos, sin peligro inmediato. ¿Qué conducta es mejor?",
+            "alternativas": {
+              "A": "Difundir sus datos",
+              "B": "Articular trabajo social y salud mental",
+              "C": "Recibir al bebé",
+              "D": "Culparla",
+              "E": "Cerrar su atención"
+            },
+            "respuesta": "B",
+            "explicacion": "La respuesta institucional es apoyo, valoración y continuidad."
+          },
+          {
+            "enunciado": "Gestante revela amenazas de su pareja para forzar entrega del recién nacido. ¿Cuál es la prioridad?",
+            "alternativas": {
+              "A": "Ignorar",
+              "B": "Pedir acuerdo privado",
+              "C": "Esperar al puerperio",
+              "D": "Evaluar seguridad y activar protección",
+              "E": "Informar al agresor"
+            },
+            "respuesta": "D",
+            "explicacion": "La amenaza modifica el riesgo y exige intervención de seguridad."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Gestante vulnerable: protección maternoinfantil, trabajo social y salud mental",
+          "apartados": [
+            "CLAVE HISTÓRICA DEL CUADERNILLO\nC. Referir a paciente a salud mental o servicio social\n\nRAZONAMIENTO COMPLETO\nLa expresión de querer entregar a su hijo, en contexto de pobreza y abandono, requiere evaluación biopsicosocial, escucha sin juicio, valoración de violencia, coerción y riesgo suicida, y articulación inmediata con trabajo social y salud mental. No autoriza transferencia informal del niño ni constituye por sí sola un delito. Debe mantenerse el control prenatal y planear protección y seguimiento durante el parto y puerperio. Si hay peligro inminente se activa la ruta de protección correspondiente.",
+            "DESARROLLO DEL TEMARIO\n1. Enfoque de derechos: madre y futuro niño son titulares de derechos; el interés superior del niño guía protección individualizada, no una transacción privada.\n2. Riesgo psicosocial: pobreza, migración, aislamiento y controles insuficientes exigen apoyo específico, sin presumir incapacidad parental.\n3. Entrevista: privacidad, consentimiento, escucha activa, identificación de necesidades materiales y red de familiares seguros.\n4. Salud mental perinatal: explorar depresión, ansiedad, violencia de pareja, ideación suicida y situación de coerción; distinguir urgencias.\n5. Trabajo social: acceso a prestaciones, acompañamiento, redes comunitarias y programas elegibles según evaluación.\n6. Adopción y protección: procedimientos formales ante autoridad competente; ningún profesional puede aceptar al bebé como regalo.\n7. Continuidad: plan de parto, citas prenatales y puerperales, coordinación del equipo y documentación clínica objetiva.\n8. Seguridad y confidencialidad: reservar datos y cumplir notificación/protección cuando existan circunstancias exigidas por ley.",
+            "ANÁLISIS INDIVIDUAL DE ALTERNATIVAS\nA) No corresponde denuncia policial automática por verbalizar dificultades económicas; se considera si aparece situación de riesgo o hecho legalmente notificable.\nB) Aceptar al niño informalmente vulnera las garantías y los procedimientos de protección.\nC) Correcta: evaluación y articulación de salud mental/trabajo social, sin dejar de atender riesgos inmediatos.\nD) Una negativa moralizante no resuelve vulnerabilidad ni ofrece protección efectiva.",
+            "NORMATIVA Y FUENTES DE ESTUDIO\nLey 27337, Código de los Niños y Adolescentes: protección integral e interés superior del niño.\nDecreto Legislativo 1297 y reglamento: protección de niñas, niños y adolescentes sin cuidados parentales o en riesgo de perderlos.\nNormativa MINSA de salud mental comunitaria y atención prenatal: intervención interdisciplinaria y referencia según riesgo.",
+            "TRAMPAS Y MATICES\nVulnerabilidad económica no equivale automáticamente a negligencia.\nUna expresión de intención no valida una entrega o adopción.\nLa referencia no reemplaza evaluar violencia y peligro inmediato.",
+            "MNEMOTECNIA\nESCUCHAR → EVALUAR → APOYAR → REFERIR → SEGUIR.",
+            "REPASO ACTIVO\n¿Clave? C: salud mental o servicio social.\n¿Puede aceptarse al bebé como regalo? No.\n¿Qué riesgos pesquisar hoy? Violencia, coerción, depresión y suicidio.\n¿Qué continúa? Seguimiento prenatal, social y posnatal.",
+            "CASOS DE REFUERZO\n1. Gestante desea entregar a su hijo por falta de recursos, sin peligro inmediato. ¿Qué conducta es mejor?\nA) Difundir sus datos\nB) Articular trabajo social y salud mental\nC) Recibir al bebé\nD) Culparla\nE) Cerrar su atención\nClave B. La respuesta institucional es apoyo, valoración y continuidad.\n\n2. Gestante revela amenazas de su pareja para forzar entrega del recién nacido. ¿Cuál es la prioridad?\nA) Ignorar\nB) Pedir acuerdo privado\nC) Esperar al puerperio\nD) Evaluar seguridad y activar protección\nE) Informar al agresor\nClave D. La amenaza modifica el riesgo y exige intervención de seguridad."
+          ]
+        }
+      }
+    },
+    {
+      "number": 7,
+      "question": "¿Cuál es el rango de T° en °C, necesario para la conservación de las vacunas?",
+      "options": {
+        "A": "1 a 8",
+        "B": "4 a 10",
+        "C": "2 a 8",
+        "D": "-1 a -8"
+      },
+      "correct": "C",
+      "code": "ENCAPS26-I P007",
+      "course": "ENCAPS Medicina 2026-I · Temario desarrollado",
+      "topic": "Cadena de frío: conservación de vacunas entre +2 y +8 °C",
+      "comment": "CLAVE HISTÓRICA DEL CUADERNILLO\nC. 2 a 8\n\nRAZONAMIENTO COMPLETO\nEl intervalo clásico para conservar vacunas refrigeradas en los establecimientos de vacunación es entre +2 °C y +8 °C. Por debajo de ese rango existe riesgo de congelación de productos sensibles; por encima, riesgo de daño térmico. El control exige mediciones continuas o sistemáticas, registro, transporte adecuado y contingencias, con consideración de requisitos particulares de cada producto.\n\nDESARROLLO DEL TEMARIO\n1. Temperatura estándar de vacunas refrigeradas: +2 a +8 °C; excepciones dependen de formulación y fabricante.\n2. Equipo: refrigeradores específicos, termómetros de máxima-mínima o registradores, alarmas y mantenimiento.\n3. Vigilancia: documentar temperaturas, reconocer y comunicar excursiones, verificar sensores.\n4. Excursión térmica: inmovilizar e identificar los lotes, conservar correctamente, valorar estabilidad antes de liberarlos.\n5. Congelación accidental: algunas vacunas adsorbidas pierden potencia de manera irreversible.\n6. Transporte: contenedores validados y acumuladores acondicionados para evitar contacto directo con hielo.\n7. Luz y calor: determinados biológicos son fotosensibles, además de sensibles a temperatura.\n8. Gestión: lotes, fecha de vencimiento, rotación y plan ante cortes de electricidad.\n\nANÁLISIS INDIVIDUAL DE ALTERNATIVAS\nA) Incluye +1 °C, fuera de refrigeración estándar.\nB) Permite +9 a +10 °C, superiores al límite.\nC) Correcta: intervalo +2 a +8 °C.\nD) Temperaturas negativas no son el estándar de las vacunas refrigeradas y pueden dañarlas.\n\nNORMATIVA Y FUENTES DE ESTUDIO\nNorma Técnica de Salud del Esquema Nacional de Vacunación del MINSA y disposiciones técnicas nacionales sobre cadena de frío, con sus actualizaciones.\nOPS/OMS, gestión efectiva de vacunas: control térmico y actuación ante excursiones.\n\nTRAMPAS Y MATICES\nNo todas las vacunas pueden congelarse.\nExcursión térmica no obliga a desechar inmediatamente sin evaluación técnica.\nLa lectura instantánea no sustituye el registro de la trayectoria térmica.\n\nMNEMOTECNIA\nDOS a OCHO: refrigeración del biológico.\n\nREPASO ACTIVO\n¿Rango habitual? +2 a +8 °C.\n¿Qué hacer ante +10 °C mantenidos? Inmovilizar y evaluar.\n¿Se permite congelar cualquier vacuna? No.\n¿Por qué registrar lotes? Para trazabilidad y seguridad.\n\nCASOS DE REFUERZO\n1. Vacunas permanecieron a +10 °C cuatro horas. ¿Conducta inicial correcta?\nA) Usarlas rápido\nB) Destruirlas sin registro\nC) Tapar el registro\nD) Mezclarlas\nE) Separarlas y solicitar evaluación técnica\nClave E. No se liberan ni descartan sin valoración del incidente.\n\n2. Frascos de vacunas sensibles se apoyan directamente contra hielo sin acondicionar. ¿Qué riesgo aparece?\nA) Congelación accidental\nB) Mayor eficacia\nC) Pérdida de etiqueta exclusivamente\nD) Contaminación estadística\nE) Cambio de vía\nClave A. El contacto directo puede producir congelación dañina.",
+      "pearl": "DOS a OCHO: refrigeración del biológico.",
+      "keywords": [
+        "Cadena de frío: conservación de vacunas entre +2 y +8 °C",
+        "ENCAPS Medicina 2026-I",
+        "SERUMS MINSA"
+      ],
+      "estadoDesarrollo": "completo",
+      "estadoClave": "interpretacion_examen_pendiente_cotejo_clave_oficial_independiente",
+      "lesson": {
+        "respuesta_resumida": "C. 2 a 8",
+        "razonamiento": "El intervalo clásico para conservar vacunas refrigeradas en los establecimientos de vacunación es entre +2 °C y +8 °C. Por debajo de ese rango existe riesgo de congelación de productos sensibles; por encima, riesgo de daño térmico. El control exige mediciones continuas o sistemáticas, registro, transporte adecuado y contingencias, con consideración de requisitos particulares de cada producto.",
+        "temario": [
+          "Temperatura estándar de vacunas refrigeradas: +2 a +8 °C; excepciones dependen de formulación y fabricante.",
+          "Equipo: refrigeradores específicos, termómetros de máxima-mínima o registradores, alarmas y mantenimiento.",
+          "Vigilancia: documentar temperaturas, reconocer y comunicar excursiones, verificar sensores.",
+          "Excursión térmica: inmovilizar e identificar los lotes, conservar correctamente, valorar estabilidad antes de liberarlos.",
+          "Congelación accidental: algunas vacunas adsorbidas pierden potencia de manera irreversible.",
+          "Transporte: contenedores validados y acumuladores acondicionados para evitar contacto directo con hielo.",
+          "Luz y calor: determinados biológicos son fotosensibles, además de sensibles a temperatura.",
+          "Gestión: lotes, fecha de vencimiento, rotación y plan ante cortes de electricidad."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Incluye +1 °C, fuera de refrigeración estándar.",
+          "B": "Permite +9 a +10 °C, superiores al límite.",
+          "C": "Correcta: intervalo +2 a +8 °C.",
+          "D": "Temperaturas negativas no son el estándar de las vacunas refrigeradas y pueden dañarlas."
+        },
+        "normativa": [
+          "Norma Técnica de Salud del Esquema Nacional de Vacunación del MINSA y disposiciones técnicas nacionales sobre cadena de frío, con sus actualizaciones.",
+          "OPS/OMS, gestión efectiva de vacunas: control térmico y actuación ante excursiones."
+        ],
+        "mnemotecnia": "DOS a OCHO: refrigeración del biológico.",
+        "trampas": [
+          "No todas las vacunas pueden congelarse.",
+          "Excursión térmica no obliga a desechar inmediatamente sin evaluación técnica.",
+          "La lectura instantánea no sustituye el registro de la trayectoria térmica."
+        ],
+        "perla": "DOS a OCHO: refrigeración del biológico.",
+        "repaso_activo": [
+          "¿Rango habitual? +2 a +8 °C.",
+          "¿Qué hacer ante +10 °C mantenidos? Inmovilizar y evaluar.",
+          "¿Se permite congelar cualquier vacuna? No.",
+          "¿Por qué registrar lotes? Para trazabilidad y seguridad."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Vacunas permanecieron a +10 °C cuatro horas. ¿Conducta inicial correcta?",
+            "alternativas": {
+              "A": "Usarlas rápido",
+              "B": "Destruirlas sin registro",
+              "C": "Tapar el registro",
+              "D": "Mezclarlas",
+              "E": "Separarlas y solicitar evaluación técnica"
+            },
+            "respuesta": "E",
+            "explicacion": "No se liberan ni descartan sin valoración del incidente."
+          },
+          {
+            "enunciado": "Frascos de vacunas sensibles se apoyan directamente contra hielo sin acondicionar. ¿Qué riesgo aparece?",
+            "alternativas": {
+              "A": "Congelación accidental",
+              "B": "Mayor eficacia",
+              "C": "Pérdida de etiqueta exclusivamente",
+              "D": "Contaminación estadística",
+              "E": "Cambio de vía"
+            },
+            "respuesta": "A",
+            "explicacion": "El contacto directo puede producir congelación dañina."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Cadena de frío: conservación de vacunas entre +2 y +8 °C",
+          "apartados": [
+            "CLAVE HISTÓRICA DEL CUADERNILLO\nC. 2 a 8\n\nRAZONAMIENTO COMPLETO\nEl intervalo clásico para conservar vacunas refrigeradas en los establecimientos de vacunación es entre +2 °C y +8 °C. Por debajo de ese rango existe riesgo de congelación de productos sensibles; por encima, riesgo de daño térmico. El control exige mediciones continuas o sistemáticas, registro, transporte adecuado y contingencias, con consideración de requisitos particulares de cada producto.",
+            "DESARROLLO DEL TEMARIO\n1. Temperatura estándar de vacunas refrigeradas: +2 a +8 °C; excepciones dependen de formulación y fabricante.\n2. Equipo: refrigeradores específicos, termómetros de máxima-mínima o registradores, alarmas y mantenimiento.\n3. Vigilancia: documentar temperaturas, reconocer y comunicar excursiones, verificar sensores.\n4. Excursión térmica: inmovilizar e identificar los lotes, conservar correctamente, valorar estabilidad antes de liberarlos.\n5. Congelación accidental: algunas vacunas adsorbidas pierden potencia de manera irreversible.\n6. Transporte: contenedores validados y acumuladores acondicionados para evitar contacto directo con hielo.\n7. Luz y calor: determinados biológicos son fotosensibles, además de sensibles a temperatura.\n8. Gestión: lotes, fecha de vencimiento, rotación y plan ante cortes de electricidad.",
+            "ANÁLISIS INDIVIDUAL DE ALTERNATIVAS\nA) Incluye +1 °C, fuera de refrigeración estándar.\nB) Permite +9 a +10 °C, superiores al límite.\nC) Correcta: intervalo +2 a +8 °C.\nD) Temperaturas negativas no son el estándar de las vacunas refrigeradas y pueden dañarlas.",
+            "NORMATIVA Y FUENTES DE ESTUDIO\nNorma Técnica de Salud del Esquema Nacional de Vacunación del MINSA y disposiciones técnicas nacionales sobre cadena de frío, con sus actualizaciones.\nOPS/OMS, gestión efectiva de vacunas: control térmico y actuación ante excursiones.",
+            "TRAMPAS Y MATICES\nNo todas las vacunas pueden congelarse.\nExcursión térmica no obliga a desechar inmediatamente sin evaluación técnica.\nLa lectura instantánea no sustituye el registro de la trayectoria térmica.",
+            "MNEMOTECNIA\nDOS a OCHO: refrigeración del biológico.",
+            "REPASO ACTIVO\n¿Rango habitual? +2 a +8 °C.\n¿Qué hacer ante +10 °C mantenidos? Inmovilizar y evaluar.\n¿Se permite congelar cualquier vacuna? No.\n¿Por qué registrar lotes? Para trazabilidad y seguridad.",
+            "CASOS DE REFUERZO\n1. Vacunas permanecieron a +10 °C cuatro horas. ¿Conducta inicial correcta?\nA) Usarlas rápido\nB) Destruirlas sin registro\nC) Tapar el registro\nD) Mezclarlas\nE) Separarlas y solicitar evaluación técnica\nClave E. No se liberan ni descartan sin valoración del incidente.\n\n2. Frascos de vacunas sensibles se apoyan directamente contra hielo sin acondicionar. ¿Qué riesgo aparece?\nA) Congelación accidental\nB) Mayor eficacia\nC) Pérdida de etiqueta exclusivamente\nD) Contaminación estadística\nE) Cambio de vía\nClave A. El contacto directo puede producir congelación dañina."
+          ]
+        }
+      }
+    },
+    {
+      "number": 8,
+      "question": "En un pueblo amazónico se está implementando una RIS de manera ordenada, siguiendo la normativa del MINSA, considerando su realidad local. ¿Qué característica del proceso se está cumpliendo?",
+      "options": {
+        "A": "Sistemático",
+        "B": "Sostenible",
+        "C": "Progresivo",
+        "D": "Planificado"
+      },
+      "correct": "D",
+      "code": "ENCAPS26-I P008",
+      "course": "ENCAPS Medicina 2026-I · Temario desarrollado",
+      "topic": "Redes Integradas de Salud: implementación planificada con pertinencia territorial",
+      "comment": "CLAVE HISTÓRICA DEL CUADERNILLO\nD. Planificado\n\nRAZONAMIENTO COMPLETO\nLa implementación ordenada, ajustada a lineamientos y a la realidad local, corresponde a planificación. Implica valorar territorio, brechas, recursos, responsabilidades y secuencia operativa. El vocablo 'ordenada' puede sugerir 'sistemático', pero el conjunto de diseño normativo y adecuación al contexto favorece 'planificado'.\n\nDESARROLLO DEL TEMARIO\n1. RIS: servicios y equipos coordinados para ofrecer cuidado integral continuo a una población definida.\n2. Territorio: dispersión poblacional, acceso, lenguas, factores culturales, enfermedades prevalentes y vías de transporte.\n3. Planificar: diagnosticar, establecer objetivos, metas, recursos, responsables, fechas e indicadores.\n4. Gobernanza: definir coordinación institucional, liderazgo, financiación y responsabilidades.\n5. Referencias: asegurar flujos entre niveles asistenciales, contrarreferencia y continuidad.\n6. Interculturalidad amazónica: considerar comunidades originarias, transporte fluvial y estacionalidad.\n7. Distinguir: sistemático=metódico; progresivo=por etapas; sostenible=perdurable; planificado=diseñado previamente.\n8. Evaluación: oportunidad de atención, cobertura, continuidad, resolutividad y equidad.\n\nANÁLISIS INDIVIDUAL DE ALTERNATIVAS\nA) Sistemático enfatiza método repetible; no expresa por completo la adecuación planificada del territorio.\nB) Sostenible es la capacidad de mantenerse en el tiempo, no probada en el escenario.\nC) Progresivo implica fases sucesivas, no descritas.\nD) Correcta en el enfoque del caso: planificación ajustada a normas y realidad local.\n\nNORMATIVA Y FUENTES DE ESTUDIO\nLey 30885: conformación y funcionamiento de Redes Integradas de Salud.\nReglamento y documentos técnicos MINSA de implementación RIS; revisar versión vigente aplicable.\n\nTRAMPAS Y MATICES\nNo inferir sostenibilidad solo porque existe normativa.\nUn diseño planificado puede ejecutarse progresivamente, pero son conceptos distintos.\nUna RIS no es solo la agrupación administrativa de establecimientos.\n\nMNEMOTECNIA\nPLAN: Población, Lineamientos, Actividades, Necesidades.\n\nREPASO ACTIVO\n¿Característica examinada? Planificado.\n¿Progresivo? Por etapas.\n¿Sostenible? Viable en el tiempo.\n¿Qué se adapta? Organización a la población y su territorio.\n\nCASOS DE REFUERZO\n1. Una RIS elabora diagnóstico territorial, metas y cronograma. ¿Qué atributo predomina?\nA) Improvisación\nB) Fragmentación\nC) Planificación\nD) Duplicación\nE) Aislamiento\nClave C. El diseño organizado previo corresponde a planificación.\n\n2. Una región despliega RIS primero en 2 provincias, luego en 5. ¿Qué rasgo se evidencia?\nA) Progresividad\nB) Desarticulación\nC) Centralismo\nD) Parálisis\nE) Exclusión\nClave A. La implementación escalonada expresa progresividad.",
+      "pearl": "PLAN: Población, Lineamientos, Actividades, Necesidades.",
+      "keywords": [
+        "Redes Integradas de Salud: implementación planificada con pertinencia territorial",
+        "ENCAPS Medicina 2026-I",
+        "SERUMS MINSA"
+      ],
+      "estadoDesarrollo": "completo",
+      "estadoClave": "interpretacion_examen_pendiente_cotejo_clave_oficial_independiente",
+      "lesson": {
+        "respuesta_resumida": "D. Planificado",
+        "razonamiento": "La implementación ordenada, ajustada a lineamientos y a la realidad local, corresponde a planificación. Implica valorar territorio, brechas, recursos, responsabilidades y secuencia operativa. El vocablo 'ordenada' puede sugerir 'sistemático', pero el conjunto de diseño normativo y adecuación al contexto favorece 'planificado'.",
+        "temario": [
+          "RIS: servicios y equipos coordinados para ofrecer cuidado integral continuo a una población definida.",
+          "Territorio: dispersión poblacional, acceso, lenguas, factores culturales, enfermedades prevalentes y vías de transporte.",
+          "Planificar: diagnosticar, establecer objetivos, metas, recursos, responsables, fechas e indicadores.",
+          "Gobernanza: definir coordinación institucional, liderazgo, financiación y responsabilidades.",
+          "Referencias: asegurar flujos entre niveles asistenciales, contrarreferencia y continuidad.",
+          "Interculturalidad amazónica: considerar comunidades originarias, transporte fluvial y estacionalidad.",
+          "Distinguir: sistemático=metódico; progresivo=por etapas; sostenible=perdurable; planificado=diseñado previamente.",
+          "Evaluación: oportunidad de atención, cobertura, continuidad, resolutividad y equidad."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Sistemático enfatiza método repetible; no expresa por completo la adecuación planificada del territorio.",
+          "B": "Sostenible es la capacidad de mantenerse en el tiempo, no probada en el escenario.",
+          "C": "Progresivo implica fases sucesivas, no descritas.",
+          "D": "Correcta en el enfoque del caso: planificación ajustada a normas y realidad local."
+        },
+        "normativa": [
+          "Ley 30885: conformación y funcionamiento de Redes Integradas de Salud.",
+          "Reglamento y documentos técnicos MINSA de implementación RIS; revisar versión vigente aplicable."
+        ],
+        "mnemotecnia": "PLAN: Población, Lineamientos, Actividades, Necesidades.",
+        "trampas": [
+          "No inferir sostenibilidad solo porque existe normativa.",
+          "Un diseño planificado puede ejecutarse progresivamente, pero son conceptos distintos.",
+          "Una RIS no es solo la agrupación administrativa de establecimientos."
+        ],
+        "perla": "PLAN: Población, Lineamientos, Actividades, Necesidades.",
+        "repaso_activo": [
+          "¿Característica examinada? Planificado.",
+          "¿Progresivo? Por etapas.",
+          "¿Sostenible? Viable en el tiempo.",
+          "¿Qué se adapta? Organización a la población y su territorio."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Una RIS elabora diagnóstico territorial, metas y cronograma. ¿Qué atributo predomina?",
+            "alternativas": {
+              "A": "Improvisación",
+              "B": "Fragmentación",
+              "C": "Planificación",
+              "D": "Duplicación",
+              "E": "Aislamiento"
+            },
+            "respuesta": "C",
+            "explicacion": "El diseño organizado previo corresponde a planificación."
+          },
+          {
+            "enunciado": "Una región despliega RIS primero en 2 provincias, luego en 5. ¿Qué rasgo se evidencia?",
+            "alternativas": {
+              "A": "Progresividad",
+              "B": "Desarticulación",
+              "C": "Centralismo",
+              "D": "Parálisis",
+              "E": "Exclusión"
+            },
+            "respuesta": "A",
+            "explicacion": "La implementación escalonada expresa progresividad."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Redes Integradas de Salud: implementación planificada con pertinencia territorial",
+          "apartados": [
+            "CLAVE HISTÓRICA DEL CUADERNILLO\nD. Planificado\n\nRAZONAMIENTO COMPLETO\nLa implementación ordenada, ajustada a lineamientos y a la realidad local, corresponde a planificación. Implica valorar territorio, brechas, recursos, responsabilidades y secuencia operativa. El vocablo 'ordenada' puede sugerir 'sistemático', pero el conjunto de diseño normativo y adecuación al contexto favorece 'planificado'.",
+            "DESARROLLO DEL TEMARIO\n1. RIS: servicios y equipos coordinados para ofrecer cuidado integral continuo a una población definida.\n2. Territorio: dispersión poblacional, acceso, lenguas, factores culturales, enfermedades prevalentes y vías de transporte.\n3. Planificar: diagnosticar, establecer objetivos, metas, recursos, responsables, fechas e indicadores.\n4. Gobernanza: definir coordinación institucional, liderazgo, financiación y responsabilidades.\n5. Referencias: asegurar flujos entre niveles asistenciales, contrarreferencia y continuidad.\n6. Interculturalidad amazónica: considerar comunidades originarias, transporte fluvial y estacionalidad.\n7. Distinguir: sistemático=metódico; progresivo=por etapas; sostenible=perdurable; planificado=diseñado previamente.\n8. Evaluación: oportunidad de atención, cobertura, continuidad, resolutividad y equidad.",
+            "ANÁLISIS INDIVIDUAL DE ALTERNATIVAS\nA) Sistemático enfatiza método repetible; no expresa por completo la adecuación planificada del territorio.\nB) Sostenible es la capacidad de mantenerse en el tiempo, no probada en el escenario.\nC) Progresivo implica fases sucesivas, no descritas.\nD) Correcta en el enfoque del caso: planificación ajustada a normas y realidad local.",
+            "NORMATIVA Y FUENTES DE ESTUDIO\nLey 30885: conformación y funcionamiento de Redes Integradas de Salud.\nReglamento y documentos técnicos MINSA de implementación RIS; revisar versión vigente aplicable.",
+            "TRAMPAS Y MATICES\nNo inferir sostenibilidad solo porque existe normativa.\nUn diseño planificado puede ejecutarse progresivamente, pero son conceptos distintos.\nUna RIS no es solo la agrupación administrativa de establecimientos.",
+            "MNEMOTECNIA\nPLAN: Población, Lineamientos, Actividades, Necesidades.",
+            "REPASO ACTIVO\n¿Característica examinada? Planificado.\n¿Progresivo? Por etapas.\n¿Sostenible? Viable en el tiempo.\n¿Qué se adapta? Organización a la población y su territorio.",
+            "CASOS DE REFUERZO\n1. Una RIS elabora diagnóstico territorial, metas y cronograma. ¿Qué atributo predomina?\nA) Improvisación\nB) Fragmentación\nC) Planificación\nD) Duplicación\nE) Aislamiento\nClave C. El diseño organizado previo corresponde a planificación.\n\n2. Una región despliega RIS primero en 2 provincias, luego en 5. ¿Qué rasgo se evidencia?\nA) Progresividad\nB) Desarticulación\nC) Centralismo\nD) Parálisis\nE) Exclusión\nClave A. La implementación escalonada expresa progresividad."
+          ]
+        }
+      }
+    },
+    {
+      "number": 9,
+      "question": "La evaluación continua del recién nacido hospitalizado cuya madre tuvo ITU o ITS antes del parto, corresponde a una vigilancia epidemiológica de las IAAS de tipo ...",
+      "options": {
+        "A": "pasiva.",
+        "B": "focalizada.",
+        "C": "activa.",
+        "D": "selectiva."
+      },
+      "correct": "C",
+      "code": "ENCAPS26-I P009",
+      "course": "ENCAPS Medicina 2026-I · Temario desarrollado",
+      "topic": "Vigilancia activa de infecciones asociadas a la atención de salud (IAAS)",
+      "comment": "CLAVE HISTÓRICA DEL CUADERNILLO\nC. activa.\n\nRAZONAMIENTO COMPLETO\nEvaluar intencionalmente y de forma continua al paciente hospitalizado para identificar eventos cumple el criterio de búsqueda activa. La vigilancia pasiva, por contraste, recibe reportes ordinarios de terceros. Hay que separar el mecanismo de detección del criterio de infección: una ITU o ITS materna puede relacionarse con infección neonatal vertical, pero no confirma por sí misma una IAAS adquirida durante la atención.\n\nDESARROLLO DEL TEMARIO\n1. Activa: búsqueda deliberada mediante visitas, expedientes, registros microbiológicos y evaluación clínica.\n2. Pasiva: recepción de notificaciones enviadas por profesionales o servicios.\n3. Selectiva/focalizada: definición de población, sala, procedimiento o evento priorizado; puede combinarse con activa.\n4. IAAS: evento infeccioso asociado a atención sanitaria que cumple definición de caso y período de vigilancia.\n5. Neonatología: diferenciar infección congénita, sepsis precoz, colonización e infección intrahospitalaria.\n6. Riesgos: catéteres, ventilación, procedimientos invasivos, estancia y cumplimiento de higiene de manos.\n7. Indicadores: casos según definición, denominadores adecuados, tendencias y retroalimentación al servicio.\n8. Prevención: bundles, asepsia, protocolos de catéter y medidas de control de infecciones.\n\nANÁLISIS INDIVIDUAL DE ALTERNATIVAS\nA) Pasiva depende principalmente de la notificación recibida; no hay búsqueda continua.\nB) Focalizada identifica un conjunto prioritario, pero no define el método de búsqueda.\nC) Correcta: vigilancia activa por identificación deliberada y continua.\nD) Selectiva indica delimitación del objetivo y no el modo de captación de casos.\n\nNORMATIVA Y FUENTES DE ESTUDIO\nDocumentos CDC Perú/MINSA de vigilancia epidemiológica de IAAS y definiciones de caso según evento.\nRecomendaciones OMS de vigilancia, prevención y control de infecciones.\n\nTRAMPAS Y MATICES\nAntecedente infeccioso materno no hace automáticamente IAAS cualquier infección neonatal.\nActiva/pasiva es eje distinto de selectiva/focalizada.\nColonización no equivale necesariamente a infección clínica.\n\nMNEMOTECNIA\nACTIVA = buscar; PASIVA = recibir.\n\nREPASO ACTIVO\n¿Clave? C: activa.\n¿Qué la define? Búsqueda intencionada.\n¿ITS materna prueba IAAS? No.\n¿Qué se vigila? Casos conforme a definición epidemiológica.\n\nCASOS DE REFUERZO\n1. Epidemiólogo revisa cada día cultivos de UCI neonatal. ¿Vigilancia?\nA) Activa\nB) Pasiva\nC) Ninguna\nD) Exclusivamente comunitaria\nE) Aleatoria\nClave A. Busca intencionalmente eventos.\n\n2. Hospital registra únicamente notificaciones espontáneas desde salas. ¿Vigilancia?\nA) Activa\nB) Experimental\nC) Genómica\nD) Pasiva\nE) Domiciliaria\nClave D. Depende de reportes enviados.",
+      "pearl": "ACTIVA = buscar; PASIVA = recibir.",
+      "keywords": [
+        "Vigilancia activa de infecciones asociadas a la atención de salud (IAAS)",
+        "ENCAPS Medicina 2026-I",
+        "SERUMS MINSA"
+      ],
+      "estadoDesarrollo": "completo",
+      "estadoClave": "interpretacion_examen_pendiente_cotejo_clave_oficial_independiente",
+      "lesson": {
+        "respuesta_resumida": "C. activa.",
+        "razonamiento": "Evaluar intencionalmente y de forma continua al paciente hospitalizado para identificar eventos cumple el criterio de búsqueda activa. La vigilancia pasiva, por contraste, recibe reportes ordinarios de terceros. Hay que separar el mecanismo de detección del criterio de infección: una ITU o ITS materna puede relacionarse con infección neonatal vertical, pero no confirma por sí misma una IAAS adquirida durante la atención.",
+        "temario": [
+          "Activa: búsqueda deliberada mediante visitas, expedientes, registros microbiológicos y evaluación clínica.",
+          "Pasiva: recepción de notificaciones enviadas por profesionales o servicios.",
+          "Selectiva/focalizada: definición de población, sala, procedimiento o evento priorizado; puede combinarse con activa.",
+          "IAAS: evento infeccioso asociado a atención sanitaria que cumple definición de caso y período de vigilancia.",
+          "Neonatología: diferenciar infección congénita, sepsis precoz, colonización e infección intrahospitalaria.",
+          "Riesgos: catéteres, ventilación, procedimientos invasivos, estancia y cumplimiento de higiene de manos.",
+          "Indicadores: casos según definición, denominadores adecuados, tendencias y retroalimentación al servicio.",
+          "Prevención: bundles, asepsia, protocolos de catéter y medidas de control de infecciones."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Pasiva depende principalmente de la notificación recibida; no hay búsqueda continua.",
+          "B": "Focalizada identifica un conjunto prioritario, pero no define el método de búsqueda.",
+          "C": "Correcta: vigilancia activa por identificación deliberada y continua.",
+          "D": "Selectiva indica delimitación del objetivo y no el modo de captación de casos."
+        },
+        "normativa": [
+          "Documentos CDC Perú/MINSA de vigilancia epidemiológica de IAAS y definiciones de caso según evento.",
+          "Recomendaciones OMS de vigilancia, prevención y control de infecciones."
+        ],
+        "mnemotecnia": "ACTIVA = buscar; PASIVA = recibir.",
+        "trampas": [
+          "Antecedente infeccioso materno no hace automáticamente IAAS cualquier infección neonatal.",
+          "Activa/pasiva es eje distinto de selectiva/focalizada.",
+          "Colonización no equivale necesariamente a infección clínica."
+        ],
+        "perla": "ACTIVA = buscar; PASIVA = recibir.",
+        "repaso_activo": [
+          "¿Clave? C: activa.",
+          "¿Qué la define? Búsqueda intencionada.",
+          "¿ITS materna prueba IAAS? No.",
+          "¿Qué se vigila? Casos conforme a definición epidemiológica."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Epidemiólogo revisa cada día cultivos de UCI neonatal. ¿Vigilancia?",
+            "alternativas": {
+              "A": "Activa",
+              "B": "Pasiva",
+              "C": "Ninguna",
+              "D": "Exclusivamente comunitaria",
+              "E": "Aleatoria"
+            },
+            "respuesta": "A",
+            "explicacion": "Busca intencionalmente eventos."
+          },
+          {
+            "enunciado": "Hospital registra únicamente notificaciones espontáneas desde salas. ¿Vigilancia?",
+            "alternativas": {
+              "A": "Activa",
+              "B": "Experimental",
+              "C": "Genómica",
+              "D": "Pasiva",
+              "E": "Domiciliaria"
+            },
+            "respuesta": "D",
+            "explicacion": "Depende de reportes enviados."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Vigilancia activa de infecciones asociadas a la atención de salud (IAAS)",
+          "apartados": [
+            "CLAVE HISTÓRICA DEL CUADERNILLO\nC. activa.\n\nRAZONAMIENTO COMPLETO\nEvaluar intencionalmente y de forma continua al paciente hospitalizado para identificar eventos cumple el criterio de búsqueda activa. La vigilancia pasiva, por contraste, recibe reportes ordinarios de terceros. Hay que separar el mecanismo de detección del criterio de infección: una ITU o ITS materna puede relacionarse con infección neonatal vertical, pero no confirma por sí misma una IAAS adquirida durante la atención.",
+            "DESARROLLO DEL TEMARIO\n1. Activa: búsqueda deliberada mediante visitas, expedientes, registros microbiológicos y evaluación clínica.\n2. Pasiva: recepción de notificaciones enviadas por profesionales o servicios.\n3. Selectiva/focalizada: definición de población, sala, procedimiento o evento priorizado; puede combinarse con activa.\n4. IAAS: evento infeccioso asociado a atención sanitaria que cumple definición de caso y período de vigilancia.\n5. Neonatología: diferenciar infección congénita, sepsis precoz, colonización e infección intrahospitalaria.\n6. Riesgos: catéteres, ventilación, procedimientos invasivos, estancia y cumplimiento de higiene de manos.\n7. Indicadores: casos según definición, denominadores adecuados, tendencias y retroalimentación al servicio.\n8. Prevención: bundles, asepsia, protocolos de catéter y medidas de control de infecciones.",
+            "ANÁLISIS INDIVIDUAL DE ALTERNATIVAS\nA) Pasiva depende principalmente de la notificación recibida; no hay búsqueda continua.\nB) Focalizada identifica un conjunto prioritario, pero no define el método de búsqueda.\nC) Correcta: vigilancia activa por identificación deliberada y continua.\nD) Selectiva indica delimitación del objetivo y no el modo de captación de casos.",
+            "NORMATIVA Y FUENTES DE ESTUDIO\nDocumentos CDC Perú/MINSA de vigilancia epidemiológica de IAAS y definiciones de caso según evento.\nRecomendaciones OMS de vigilancia, prevención y control de infecciones.",
+            "TRAMPAS Y MATICES\nAntecedente infeccioso materno no hace automáticamente IAAS cualquier infección neonatal.\nActiva/pasiva es eje distinto de selectiva/focalizada.\nColonización no equivale necesariamente a infección clínica.",
+            "MNEMOTECNIA\nACTIVA = buscar; PASIVA = recibir.",
+            "REPASO ACTIVO\n¿Clave? C: activa.\n¿Qué la define? Búsqueda intencionada.\n¿ITS materna prueba IAAS? No.\n¿Qué se vigila? Casos conforme a definición epidemiológica.",
+            "CASOS DE REFUERZO\n1. Epidemiólogo revisa cada día cultivos de UCI neonatal. ¿Vigilancia?\nA) Activa\nB) Pasiva\nC) Ninguna\nD) Exclusivamente comunitaria\nE) Aleatoria\nClave A. Busca intencionalmente eventos.\n\n2. Hospital registra únicamente notificaciones espontáneas desde salas. ¿Vigilancia?\nA) Activa\nB) Experimental\nC) Genómica\nD) Pasiva\nE) Domiciliaria\nClave D. Depende de reportes enviados."
+          ]
+        }
+      }
+    },
+    {
+      "number": 10,
+      "question": "En un establecimiento de salud I-4, mujer de 25 años, recibió esquema de tratamiento para TB, pero indica que los síntomas continúan, y que su hija menor de 5 años, también fue diagnosticada de lo mismo. ¿Qué principio del uso de medicamentos antimicrobianos NO se aplicó?",
+      "options": {
+        "A": "Calidad",
+        "B": "Concentración",
+        "C": "Resistencia",
+        "D": "Biodisponibilidad"
+      },
+      "correct": "C",
+      "code": "ENCAPS26-I P010",
+      "course": "ENCAPS Medicina 2026-I · Temario desarrollado",
+      "topic": "Tuberculosis persistente: sospecha de farmacorresistencia y estudio de contactos",
+      "comment": "CLAVE HISTÓRICA DEL CUADERNILLO\nC. Resistencia\n\nRAZONAMIENTO COMPLETO\nLa alternativa esperada en el cuestionario es 'resistencia': persistencia de síntomas pese a tratamiento invita a investigar posibilidad de bacilos resistentes y errores en selección terapéutica. Sin embargo, los síntomas por sí solos no prueban resistencia ni demuestran qué principio fue omitido. Debe comprobarse diagnóstico, adherencia, dosis, resultados bacteriológicos, calidad de fármacos, malabsorción e interacciones, y solicitar pruebas de sensibilidad y moleculares cuando correspondan. La niña menor de 5 años exige evaluación prioritaria como caso y contacto.\n\nDESARROLLO DEL TEMARIO\n1. Respuesta al tratamiento TB: evolución clínica y bacteriológica conforme a esquema y tipo de enfermedad.\n2. Resistencia: distinguir TB sensible, resistencia a rifampicina y multirresistencia según pruebas y definiciones vigentes.\n3. Pruebas: ensayo molecular rápido, cultivo y sensibilidad según indicación, disponibilidad y algoritmo nacional.\n4. Adherencia: verificar tomas, efectos adversos, barreras sociales, acompañamiento y abastecimiento.\n5. Farmacocinética: dosis, concentraciones, biodisponibilidad, absorción e interacciones modifican exposición al antibiótico.\n6. Control de contactos: evaluar exposición y descartar TB activa antes de terapia preventiva en quienes corresponda.\n7. Niños pequeños: riesgo aumentado de progresión y formas graves; evaluación clínica y diagnóstica acorde con edad.\n8. Medidas comunitarias: ventilación, control de transmisión, continuidad y evitar estigmatización.\n\nANÁLISIS INDIVIDUAL DE ALTERNATIVAS\nA) Calidad puede afectar eficacia, pero no hay dato de lote defectuoso.\nB) Concentración adecuada es importante, mas el caso carece de medición o prueba de exposición insuficiente.\nC) Respuesta de examen: la posibilidad de resistencia debe investigarse ante persistencia; no declararla confirmada sin pruebas.\nD) Biodisponibilidad puede alterarse por malabsorción/interacciones; el caso no demuestra esa causa.\n\nNORMATIVA Y FUENTES DE ESTUDIO\nNorma Técnica de Salud MINSA para la atención integral de personas afectadas por tuberculosis, con modificatorias vigentes.\nOMS: recomendaciones de diagnóstico rápido y estudio de resistencia de Mycobacterium tuberculosis.\n\nTRAMPAS Y MATICES\nPersistencia de síntomas no prueba farmacorresistencia.\nNo cambiar esquemas empíricamente sin evaluación y protocolo.\nContacto menor de cinco años requiere abordaje oportuno y diferenciado.\n\nMNEMOTECNIA\nTB persistente: ADRe = Adherencia, Diagnóstico, Resistencia.\n\nREPASO ACTIVO\n¿Opción del examen? C: resistencia.\n¿La tos residual confirma resistencia? No.\n¿Cómo investigarla? Pruebas moleculares y sensibilidad según algoritmo.\n¿Qué hacer con la niña? Evaluar enfermedad activa y manejo de contactos.\n\nCASOS DE REFUERZO\n1. Paciente TB con cultivo positivo al seguimiento pese a esquema indicado. ¿Qué prueba orienta la conducta?\nA) Solo perímetro abdominal\nB) Prueba de resistencia molecular y/o sensibilidad\nC) Solo glucosa en ayunas\nD) ECG como único estudio\nE) Ninguna prueba\nClave B. Es necesario comprobar sensibilidad junto con adherencia y diagnóstico.\n\n2. Menor de cuatro años convive con caso bacilífero de TB. ¿Qué conducta inicial corresponde?\nA) Esperar un año\nB) Indicar antibióticos inespecíficos\nC) Descartar evaluación por edad\nD) Evaluar prontamente TB activa y definir prevención/tratamiento\nE) Separar permanentemente a la familia\nClave D. En niños pequeños son prioritarios evaluación y manejo diferenciado de contactos.",
+      "pearl": "TB persistente: ADRe = Adherencia, Diagnóstico, Resistencia.",
+      "keywords": [
+        "Tuberculosis persistente: sospecha de farmacorresistencia y estudio de contactos",
+        "ENCAPS Medicina 2026-I",
+        "SERUMS MINSA"
+      ],
+      "estadoDesarrollo": "completo",
+      "estadoClave": "interpretacion_examen_pendiente_cotejo_clave_oficial_independiente",
+      "lesson": {
+        "respuesta_resumida": "C. Resistencia",
+        "razonamiento": "La alternativa esperada en el cuestionario es 'resistencia': persistencia de síntomas pese a tratamiento invita a investigar posibilidad de bacilos resistentes y errores en selección terapéutica. Sin embargo, los síntomas por sí solos no prueban resistencia ni demuestran qué principio fue omitido. Debe comprobarse diagnóstico, adherencia, dosis, resultados bacteriológicos, calidad de fármacos, malabsorción e interacciones, y solicitar pruebas de sensibilidad y moleculares cuando correspondan. La niña menor de 5 años exige evaluación prioritaria como caso y contacto.",
+        "temario": [
+          "Respuesta al tratamiento TB: evolución clínica y bacteriológica conforme a esquema y tipo de enfermedad.",
+          "Resistencia: distinguir TB sensible, resistencia a rifampicina y multirresistencia según pruebas y definiciones vigentes.",
+          "Pruebas: ensayo molecular rápido, cultivo y sensibilidad según indicación, disponibilidad y algoritmo nacional.",
+          "Adherencia: verificar tomas, efectos adversos, barreras sociales, acompañamiento y abastecimiento.",
+          "Farmacocinética: dosis, concentraciones, biodisponibilidad, absorción e interacciones modifican exposición al antibiótico.",
+          "Control de contactos: evaluar exposición y descartar TB activa antes de terapia preventiva en quienes corresponda.",
+          "Niños pequeños: riesgo aumentado de progresión y formas graves; evaluación clínica y diagnóstica acorde con edad.",
+          "Medidas comunitarias: ventilación, control de transmisión, continuidad y evitar estigmatización."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Calidad puede afectar eficacia, pero no hay dato de lote defectuoso.",
+          "B": "Concentración adecuada es importante, mas el caso carece de medición o prueba de exposición insuficiente.",
+          "C": "Respuesta de examen: la posibilidad de resistencia debe investigarse ante persistencia; no declararla confirmada sin pruebas.",
+          "D": "Biodisponibilidad puede alterarse por malabsorción/interacciones; el caso no demuestra esa causa."
+        },
+        "normativa": [
+          "Norma Técnica de Salud MINSA para la atención integral de personas afectadas por tuberculosis, con modificatorias vigentes.",
+          "OMS: recomendaciones de diagnóstico rápido y estudio de resistencia de Mycobacterium tuberculosis."
+        ],
+        "mnemotecnia": "TB persistente: ADRe = Adherencia, Diagnóstico, Resistencia.",
+        "trampas": [
+          "Persistencia de síntomas no prueba farmacorresistencia.",
+          "No cambiar esquemas empíricamente sin evaluación y protocolo.",
+          "Contacto menor de cinco años requiere abordaje oportuno y diferenciado."
+        ],
+        "perla": "TB persistente: ADRe = Adherencia, Diagnóstico, Resistencia.",
+        "repaso_activo": [
+          "¿Opción del examen? C: resistencia.",
+          "¿La tos residual confirma resistencia? No.",
+          "¿Cómo investigarla? Pruebas moleculares y sensibilidad según algoritmo.",
+          "¿Qué hacer con la niña? Evaluar enfermedad activa y manejo de contactos."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Paciente TB con cultivo positivo al seguimiento pese a esquema indicado. ¿Qué prueba orienta la conducta?",
+            "alternativas": {
+              "A": "Solo perímetro abdominal",
+              "B": "Prueba de resistencia molecular y/o sensibilidad",
+              "C": "Solo glucosa en ayunas",
+              "D": "ECG como único estudio",
+              "E": "Ninguna prueba"
+            },
+            "respuesta": "B",
+            "explicacion": "Es necesario comprobar sensibilidad junto con adherencia y diagnóstico."
+          },
+          {
+            "enunciado": "Menor de cuatro años convive con caso bacilífero de TB. ¿Qué conducta inicial corresponde?",
+            "alternativas": {
+              "A": "Esperar un año",
+              "B": "Indicar antibióticos inespecíficos",
+              "C": "Descartar evaluación por edad",
+              "D": "Evaluar prontamente TB activa y definir prevención/tratamiento",
+              "E": "Separar permanentemente a la familia"
+            },
+            "respuesta": "D",
+            "explicacion": "En niños pequeños son prioritarios evaluación y manejo diferenciado de contactos."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Tuberculosis persistente: sospecha de farmacorresistencia y estudio de contactos",
+          "apartados": [
+            "CLAVE HISTÓRICA DEL CUADERNILLO\nC. Resistencia\n\nRAZONAMIENTO COMPLETO\nLa alternativa esperada en el cuestionario es 'resistencia': persistencia de síntomas pese a tratamiento invita a investigar posibilidad de bacilos resistentes y errores en selección terapéutica. Sin embargo, los síntomas por sí solos no prueban resistencia ni demuestran qué principio fue omitido. Debe comprobarse diagnóstico, adherencia, dosis, resultados bacteriológicos, calidad de fármacos, malabsorción e interacciones, y solicitar pruebas de sensibilidad y moleculares cuando correspondan. La niña menor de 5 años exige evaluación prioritaria como caso y contacto.",
+            "DESARROLLO DEL TEMARIO\n1. Respuesta al tratamiento TB: evolución clínica y bacteriológica conforme a esquema y tipo de enfermedad.\n2. Resistencia: distinguir TB sensible, resistencia a rifampicina y multirresistencia según pruebas y definiciones vigentes.\n3. Pruebas: ensayo molecular rápido, cultivo y sensibilidad según indicación, disponibilidad y algoritmo nacional.\n4. Adherencia: verificar tomas, efectos adversos, barreras sociales, acompañamiento y abastecimiento.\n5. Farmacocinética: dosis, concentraciones, biodisponibilidad, absorción e interacciones modifican exposición al antibiótico.\n6. Control de contactos: evaluar exposición y descartar TB activa antes de terapia preventiva en quienes corresponda.\n7. Niños pequeños: riesgo aumentado de progresión y formas graves; evaluación clínica y diagnóstica acorde con edad.\n8. Medidas comunitarias: ventilación, control de transmisión, continuidad y evitar estigmatización.",
+            "ANÁLISIS INDIVIDUAL DE ALTERNATIVAS\nA) Calidad puede afectar eficacia, pero no hay dato de lote defectuoso.\nB) Concentración adecuada es importante, mas el caso carece de medición o prueba de exposición insuficiente.\nC) Respuesta de examen: la posibilidad de resistencia debe investigarse ante persistencia; no declararla confirmada sin pruebas.\nD) Biodisponibilidad puede alterarse por malabsorción/interacciones; el caso no demuestra esa causa.",
+            "NORMATIVA Y FUENTES DE ESTUDIO\nNorma Técnica de Salud MINSA para la atención integral de personas afectadas por tuberculosis, con modificatorias vigentes.\nOMS: recomendaciones de diagnóstico rápido y estudio de resistencia de Mycobacterium tuberculosis.",
+            "TRAMPAS Y MATICES\nPersistencia de síntomas no prueba farmacorresistencia.\nNo cambiar esquemas empíricamente sin evaluación y protocolo.\nContacto menor de cinco años requiere abordaje oportuno y diferenciado.",
+            "MNEMOTECNIA\nTB persistente: ADRe = Adherencia, Diagnóstico, Resistencia.",
+            "REPASO ACTIVO\n¿Opción del examen? C: resistencia.\n¿La tos residual confirma resistencia? No.\n¿Cómo investigarla? Pruebas moleculares y sensibilidad según algoritmo.\n¿Qué hacer con la niña? Evaluar enfermedad activa y manejo de contactos.",
+            "CASOS DE REFUERZO\n1. Paciente TB con cultivo positivo al seguimiento pese a esquema indicado. ¿Qué prueba orienta la conducta?\nA) Solo perímetro abdominal\nB) Prueba de resistencia molecular y/o sensibilidad\nC) Solo glucosa en ayunas\nD) ECG como único estudio\nE) Ninguna prueba\nClave B. Es necesario comprobar sensibilidad junto con adherencia y diagnóstico.\n\n2. Menor de cuatro años convive con caso bacilífero de TB. ¿Qué conducta inicial corresponde?\nA) Esperar un año\nB) Indicar antibióticos inespecíficos\nC) Descartar evaluación por edad\nD) Evaluar prontamente TB activa y definir prevención/tratamiento\nE) Separar permanentemente a la familia\nClave D. En niños pequeños son prioritarios evaluación y manejo diferenciado de contactos."
           ]
         }
       }
