@@ -1,0 +1,824 @@
+{
+  "schemaVersion": 1,
+  "bankId": "ENCAPS_2026_II",
+  "source": "Cuadernillo SERUMS 2026-II aportado por el usuario y guías oficiales MINSA, SUNAFIL, SERVIR (revisadas en octubre de 2026)",
+  "note": "Se conserva clave resaltada sin certificación oficial independiente. P55 = 32 semanas en PDF, pero el manual HIS establece primera consejería 25–32 semanas; no posponer inicio. No se alteran claves A–D ni historial de respuestas.",
+  "questions": [
+    {
+      "number": 51,
+      "code": "ENCAPS26-II P051",
+      "course": "Dengue · escenarios epidemiológicos",
+      "topic": "Escenario II del dengue: vector presente sin casos autóctonos",
+      "comment": "Respuesta marcada en el PDF del usuario, NO cotejada independientemente con la tabla oficial de claves: C. Escenario II. Hay Aedes aegypti y puede haber casos importados, pero no se han registrado casos autóctonos en el territorio.\n\nRAZONAMIENTO\nEl criterio decisivo no es la llegada de un viajero con dengue, sino la presencia de transmisión autóctona en un área donde el vector existe. La NTS 211-MINSA/DGIESP-2024 utiliza los escenarios I, II y III. I: sin presencia del vector (puede haber condiciones favorables y casos importados). II: hay vector con o sin importados, sin casos autóctonos. III: hay vector y casos autóctonos; se caracteriza por brote, epidemia o endemia según tiempo y distribución. San José presenta Aedes y casos importados, sin autóctonos: escenario II. Requiere vigilancia activa del riesgo, control del vector, búsqueda y evaluación de febriles, información comunitaria y prevención para evitar el establecimiento de transmisión local.\n\nTEMARIO\nEscenario I: sin vector registrado en el ámbito, independientemente de condiciones favorables para su establecimiento; importados no implican transmisión local.\n\nEscenario II: vector detectado, con o sin casos importados, pero NO hay casos autóctonos; existe riesgo de transmisión local y debe reforzarse prevención.\n\nEscenario III: presencia del vector y transmisión autóctona; se categoriza en brote, epidémico o endémico, según patrón temporal y espacial de los casos autóctonos.\n\nImportado: infección adquirida fuera de la jurisdicción evaluada. Autóctono: infección contraída localmente según investigación epidemiológica.\n\nUn paciente con dengue importado no convierte automáticamente el área en escenario III: hay que documentar el origen de la infección.\n\nEn escenario II importan vigilancia entomológica y de febriles, eliminación de criaderos, manejo seguro del agua, coordinación con servicios y preparación del diagnóstico y referencia.\n\nFumigación no reemplaza eliminación de criaderos; su indicación depende de situación epidemiológica y protocolos de respuesta.\n\nEn ámbito altoandino el riesgo se define según presencia real del vector y condiciones locales, no simplemente por temperatura media o altitud de la ciudad.\n\nANÁLISIS DE ALTERNATIVAS\nA — Brote en III supone casos autóctonos concentrados en tiempo y área; el enunciado los niega.\nB — Endemia en III supone circulación autóctona sostenida; no existe en San José.\nC — Correcta: Aedes aegypti presente, posibles casos importados, sin transmisión autóctona.\nD — Escenario I corresponde a ausencia del vector; aquí se ha detectado Aedes.\n\nFUENTES Y NORMATIVA\nNTS N.° 211-MINSA/DGIESP-2024, RM N.° 175-2024-MINSA | https://www.gob.pe/institucion/minsa/normas-legales/5323501-175-2024-minsa | Norma de dengue y estratificación de escenarios epidemiológicos\nCDC Perú / Sala Situacional Dengue SE 09-2025 | https://cdn.www.gob.pe/uploads/document/file/7809837/6591250-sala-situacional-de-dengue-semana-09_-2025-revisada.pdf?v=1742569668 | Escenario II: presencia del vector con o sin casos importados pero sin autóctonos\nMINSA, norma integral dengue 2024 | https://repositorio.minsa.gob.pe/handle/MINSA/81762 | Acciones intersectoriales, vigilancia y eliminación de criaderos\n\nMNEMOTECNIA\nDENGUE: I = SIN VECTOR; II = VECTOR SIN AUTÓCTONOS; III = VECTOR + AUTÓCTONOS.\n\nTRAMPAS\nUn caso importado, incluso confirmado, no significa por sí mismo transmisión autóctona.\nDistingue brote, epidémico y endémico únicamente cuando hay escenario III.\nLa detección del vector es suficiente para pasar de I a II si no existen autóctonos.\nEl nombre del distrito no indica riesgo: evaluar hallazgos entomológicos y epidemiológicos.\n\nPERLA\nAedes (+) + dengue importado (+) + dengue autóctono (−) = ESCENARIO II.",
+      "pearl": "Aedes (+) + dengue importado (+) + dengue autóctono (−) = ESCENARIO II.",
+      "keywords": [
+        "Dengue · escenarios epidemiológicos",
+        "Escenario II del dengue: vector presente sin casos autóctonos",
+        "ENCAPS 2026-II",
+        "MINSA 276"
+      ],
+      "estadoDesarrollo": "completo",
+      "lesson": {
+        "respuesta_resumida": "C. Escenario II. Hay Aedes aegypti y puede haber casos importados, pero no se han registrado casos autóctonos en el territorio.",
+        "razonamiento": "El criterio decisivo no es la llegada de un viajero con dengue, sino la presencia de transmisión autóctona en un área donde el vector existe. La NTS 211-MINSA/DGIESP-2024 utiliza los escenarios I, II y III. I: sin presencia del vector (puede haber condiciones favorables y casos importados). II: hay vector con o sin importados, sin casos autóctonos. III: hay vector y casos autóctonos; se caracteriza por brote, epidemia o endemia según tiempo y distribución. San José presenta Aedes y casos importados, sin autóctonos: escenario II. Requiere vigilancia activa del riesgo, control del vector, búsqueda y evaluación de febriles, información comunitaria y prevención para evitar el establecimiento de transmisión local.",
+        "temario": [
+          "Escenario I: sin vector registrado en el ámbito, independientemente de condiciones favorables para su establecimiento; importados no implican transmisión local.",
+          "Escenario II: vector detectado, con o sin casos importados, pero NO hay casos autóctonos; existe riesgo de transmisión local y debe reforzarse prevención.",
+          "Escenario III: presencia del vector y transmisión autóctona; se categoriza en brote, epidémico o endémico, según patrón temporal y espacial de los casos autóctonos.",
+          "Importado: infección adquirida fuera de la jurisdicción evaluada. Autóctono: infección contraída localmente según investigación epidemiológica.",
+          "Un paciente con dengue importado no convierte automáticamente el área en escenario III: hay que documentar el origen de la infección.",
+          "En escenario II importan vigilancia entomológica y de febriles, eliminación de criaderos, manejo seguro del agua, coordinación con servicios y preparación del diagnóstico y referencia.",
+          "Fumigación no reemplaza eliminación de criaderos; su indicación depende de situación epidemiológica y protocolos de respuesta.",
+          "En ámbito altoandino el riesgo se define según presencia real del vector y condiciones locales, no simplemente por temperatura media o altitud de la ciudad."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Brote en III supone casos autóctonos concentrados en tiempo y área; el enunciado los niega.",
+          "B": "Endemia en III supone circulación autóctona sostenida; no existe en San José.",
+          "C": "Correcta: Aedes aegypti presente, posibles casos importados, sin transmisión autóctona.",
+          "D": "Escenario I corresponde a ausencia del vector; aquí se ha detectado Aedes."
+        },
+        "normativa": [
+          "NTS N.° 211-MINSA/DGIESP-2024, RM N.° 175-2024-MINSA | https://www.gob.pe/institucion/minsa/normas-legales/5323501-175-2024-minsa | Norma de dengue y estratificación de escenarios epidemiológicos",
+          "CDC Perú / Sala Situacional Dengue SE 09-2025 | https://cdn.www.gob.pe/uploads/document/file/7809837/6591250-sala-situacional-de-dengue-semana-09_-2025-revisada.pdf?v=1742569668 | Escenario II: presencia del vector con o sin casos importados pero sin autóctonos",
+          "MINSA, norma integral dengue 2024 | https://repositorio.minsa.gob.pe/handle/MINSA/81762 | Acciones intersectoriales, vigilancia y eliminación de criaderos"
+        ],
+        "mnemotecnia": "DENGUE: I = SIN VECTOR; II = VECTOR SIN AUTÓCTONOS; III = VECTOR + AUTÓCTONOS.",
+        "trampas": [
+          "Un caso importado, incluso confirmado, no significa por sí mismo transmisión autóctona.",
+          "Distingue brote, epidémico y endémico únicamente cuando hay escenario III.",
+          "La detección del vector es suficiente para pasar de I a II si no existen autóctonos.",
+          "El nombre del distrito no indica riesgo: evaluar hallazgos entomológicos y epidemiológicos."
+        ],
+        "perla": "Aedes (+) + dengue importado (+) + dengue autóctono (−) = ESCENARIO II.",
+        "repaso_activo": [
+          "¿Qué distingue II de I? — Presencia del vector.",
+          "¿Qué distingue III de II? — Presencia de casos autóctonos.",
+          "¿Un caso importado convierte al escenario en III? — No.",
+          "¿Qué intervención comunitaria es básica? — Control de criaderos y vigilancia."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "En una localidad se detecta Aedes aegypti, pero todos los casos confirmados fueron contraídos en otra región. No hay transmisión local comprobada. ¿Qué escenario corresponde?",
+            "alternativas": {
+              "A": "Escenario III endémico",
+              "B": "Escenario I",
+              "C": "Escenario II",
+              "D": "Escenario III epidémico",
+              "E": "Escenario III brote"
+            },
+            "respuesta": "C",
+            "explicacion": "La presencia del vector sin casos autóctonos define el escenario II."
+          },
+          {
+            "enunciado": "En otro distrito hay Aedes aegypti y se confirma el primer grupo de contagios adquiridos localmente en una sola zona durante dos semanas. ¿Qué cambio epidemiológico se identifica?",
+            "alternativas": {
+              "A": "Escenario I con importación aislada",
+              "B": "Escenario II por circulación del vector",
+              "C": "Escenario I por ausencia de endemia",
+              "D": "Escenario II sin riesgo de transmisión",
+              "E": "Escenario III con brote localizado"
+            },
+            "respuesta": "E",
+            "explicacion": "Aparecen casos autóctonos en una unidad geográfica y un periodo; eso corresponde a III con patrón de brote."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Escenario II del dengue: vector presente sin casos autóctonos",
+          "eje": "Dengue · escenarios epidemiológicos",
+          "confiabilidad": "clave_resaltada_fundamento_concordante",
+          "respuesta_resumida": "C. Escenario II. Hay Aedes aegypti y puede haber casos importados, pero no se han registrado casos autóctonos en el territorio.",
+          "razonamiento": [
+            "El criterio decisivo no es la llegada de un viajero con dengue, sino la presencia de transmisión autóctona en un área donde el vector existe. La NTS 211-MINSA/DGIESP-2024 utiliza los escenarios I, II y III. I: sin presencia del vector (puede haber condiciones favorables y casos importados). II: hay vector con o sin importados, sin casos autóctonos. III: hay vector y casos autóctonos; se caracteriza por brote, epidemia o endemia según tiempo y distribución. San José presenta Aedes y casos importados, sin autóctonos: escenario II. Requiere vigilancia activa del riesgo, control del vector, búsqueda y evaluación de febriles, información comunitaria y prevención para evitar el establecimiento de transmisión local."
+          ],
+          "temario": [
+            "Escenario I: sin vector registrado en el ámbito, independientemente de condiciones favorables para su establecimiento; importados no implican transmisión local.",
+            "Escenario II: vector detectado, con o sin casos importados, pero NO hay casos autóctonos; existe riesgo de transmisión local y debe reforzarse prevención.",
+            "Escenario III: presencia del vector y transmisión autóctona; se categoriza en brote, epidémico o endémico, según patrón temporal y espacial de los casos autóctonos.",
+            "Importado: infección adquirida fuera de la jurisdicción evaluada. Autóctono: infección contraída localmente según investigación epidemiológica.",
+            "Un paciente con dengue importado no convierte automáticamente el área en escenario III: hay que documentar el origen de la infección.",
+            "En escenario II importan vigilancia entomológica y de febriles, eliminación de criaderos, manejo seguro del agua, coordinación con servicios y preparación del diagnóstico y referencia.",
+            "Fumigación no reemplaza eliminación de criaderos; su indicación depende de situación epidemiológica y protocolos de respuesta.",
+            "En ámbito altoandino el riesgo se define según presencia real del vector y condiciones locales, no simplemente por temperatura media o altitud de la ciudad."
+          ],
+          "distractores": {
+            "A": "Brote en III supone casos autóctonos concentrados en tiempo y área; el enunciado los niega.",
+            "B": "Endemia en III supone circulación autóctona sostenida; no existe en San José.",
+            "C": "Correcta: Aedes aegypti presente, posibles casos importados, sin transmisión autóctona.",
+            "D": "Escenario I corresponde a ausencia del vector; aquí se ha detectado Aedes."
+          },
+          "normativa": [
+            {
+              "nombre": "NTS N.° 211-MINSA/DGIESP-2024, RM N.° 175-2024-MINSA",
+              "url": "https://www.gob.pe/institucion/minsa/normas-legales/5323501-175-2024-minsa",
+              "aplicacion": "Norma de dengue y estratificación de escenarios epidemiológicos"
+            },
+            {
+              "nombre": "CDC Perú / Sala Situacional Dengue SE 09-2025",
+              "url": "https://cdn.www.gob.pe/uploads/document/file/7809837/6591250-sala-situacional-de-dengue-semana-09_-2025-revisada.pdf?v=1742569668",
+              "aplicacion": "Escenario II: presencia del vector con o sin casos importados pero sin autóctonos"
+            },
+            {
+              "nombre": "MINSA, norma integral dengue 2024",
+              "url": "https://repositorio.minsa.gob.pe/handle/MINSA/81762",
+              "aplicacion": "Acciones intersectoriales, vigilancia y eliminación de criaderos"
+            }
+          ],
+          "mnemotecnia": "DENGUE: I = SIN VECTOR; II = VECTOR SIN AUTÓCTONOS; III = VECTOR + AUTÓCTONOS.",
+          "trampas": [
+            "Un caso importado, incluso confirmado, no significa por sí mismo transmisión autóctona.",
+            "Distingue brote, epidémico y endémico únicamente cuando hay escenario III.",
+            "La detección del vector es suficiente para pasar de I a II si no existen autóctonos.",
+            "El nombre del distrito no indica riesgo: evaluar hallazgos entomológicos y epidemiológicos."
+          ],
+          "perla": "Aedes (+) + dengue importado (+) + dengue autóctono (−) = ESCENARIO II.",
+          "repaso_activo": [
+            "¿Qué distingue II de I? — Presencia del vector.",
+            "¿Qué distingue III de II? — Presencia de casos autóctonos.",
+            "¿Un caso importado convierte al escenario en III? — No.",
+            "¿Qué intervención comunitaria es básica? — Control de criaderos y vigilancia."
+          ],
+          "refuerzo": [
+            {
+              "enunciado": "En una localidad se detecta Aedes aegypti, pero todos los casos confirmados fueron contraídos en otra región. No hay transmisión local comprobada. ¿Qué escenario corresponde?",
+              "alternativas": {
+                "A": "Escenario III endémico",
+                "B": "Escenario I",
+                "C": "Escenario II",
+                "D": "Escenario III epidémico",
+                "E": "Escenario III brote"
+              },
+              "respuesta": "C",
+              "explicacion": "La presencia del vector sin casos autóctonos define el escenario II."
+            },
+            {
+              "enunciado": "En otro distrito hay Aedes aegypti y se confirma el primer grupo de contagios adquiridos localmente en una sola zona durante dos semanas. ¿Qué cambio epidemiológico se identifica?",
+              "alternativas": {
+                "A": "Escenario I con importación aislada",
+                "B": "Escenario II por circulación del vector",
+                "C": "Escenario I por ausencia de endemia",
+                "D": "Escenario II sin riesgo de transmisión",
+                "E": "Escenario III con brote localizado"
+              },
+              "respuesta": "E",
+              "explicacion": "Aparecen casos autóctonos en una unidad geográfica y un periodo; eso corresponde a III con patrón de brote."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "number": 52,
+      "code": "ENCAPS26-II P052",
+      "course": "Anemia · suplementación preventiva",
+      "topic": "60 mg de hierro elemental más 400 µg de ácido fólico: adolescentes y mujeres en edad fértil",
+      "comment": "Respuesta marcada en el PDF del usuario, NO cotejada independientemente con la tabla oficial de claves: D. 60 mg de hierro elemental + 400 µg de ácido fólico, en tableta dos veces por semana durante tres meses al año, como suplementación preventiva según NTS 213.\n\nRAZONAMIENTO\nEl enunciado presenta expresamente Hb ≥ 12 g/dL, adolescente mujer o mujer en edad fértil y administración intermitente dos veces por semana durante tres meses cada año. Es la Tabla 10 de NTS 213-MINSA/DGIESP-2024: 60 mg de hierro ELEMENTAL y 400 microgramos de ácido fólico por toma. No confundir hierro elemental con el peso total de sulfato ferroso ni suplementación preventiva con tratamiento de anemia. El esquema de gestación se rige por condiciones diferentes, e incluye administración diaria desde la etapa prenatal pertinente. La RM 429-2024 modificó la NTS en aspectos de procedimiento y seguimiento, por lo que hay que citar la versión vigente.\n\nTEMARIO\nDiferencia prevención/tratamiento: con hemoglobina normal en el grupo descrito se busca prevenir ferropenia; una persona con anemia requiere evaluación etiológica y esquema terapéutico.\n\nGrupo descrito: adolescente mujer y mujer en edad fértil bajo criterios de la NTS 213; confirmar Hb y condiciones individuales conforme a procedimientos.\n\nTabla 10: 60 mg de hierro elemental + 400 µg ácido fólico por toma, 2 tomas/semana, 3 meses/año. Entrega mensual y evaluación de adherencia.\n\nHierro elemental no es igual a masa de sal: una tableta con sulfato ferroso puede contener más miligramos de sal y 60 mg de hierro elemental.\n\nÁcido fólico: 400 µg equivalen a 0,4 mg, no a 400 mg; precaución con errores de unidades.\n\nGestación: no aplicar automáticamente este esquema de 2 veces/semana; la NTS establece suplemento diario y cambios según semana de ingreso al control prenatal.\n\nOrientación: pautas de adherencia, posibles efectos digestivos y recomendaciones alimentarias contextualizadas; vigilar contraindicaciones e interacciones según paciente.\n\nSeguimiento: medición de hemoglobina conforme a grupo etario y circunstancias, registro de suministro y retorno para revisión del cumplimiento.\n\nNo usar la dosis preventiva indicada para tratar anemia diagnosticada sin valorar gravedad, causa y respuesta.\n\nANÁLISIS DE ALTERNATIVAS\nA — 300 mg no es hierro elemental apropiado para esta prevención y 100 µg de folato no coincide con Tabla 10.\nB — 120 mg de hierro con 400 µg de folato no corresponde a la dosis por toma de prevención intermitente descrita.\nC — 30 mg de hierro y 100 µg de folato no son las cantidades establecidas para el grupo y esquema.\nD — Correcta: 60 mg de hierro elemental más 400 µg de ácido fólico por dosis.\n\nFUENTES Y NORMATIVA\nNTS N.° 213-MINSA/DGIESP-2024, RM N.° 251-2024-MINSA | https://www.gob.pe/institucion/minsa/normas-legales/5440166-251-2024-minsa | Tabla 10: 60 mg de hierro elemental + 400 µg de ácido fólico, 2 veces/semana durante 3 meses/año\nRM N.° 429-2024-MINSA | https://www.gob.pe/institucion/minsa/normas-legales/5670414-429-2024-minsa | Modificatoria de la NTS 213; revisar esquemas y medición de hemoglobina\nMINSA, guía pública anemia (2025) | https://www.gob.pe/23343-que-es-la-anemia-alimentacion | Recomendación de suplementación preventiva intermitente en adolescentes mujeres\n\nMNEMOTECNIA\nMUJER NO GESTANTE, PREVENCIÓN: 60–400 / 2–3 = 60 mg Fe + 400 µg folato, 2 veces/semana, 3 meses/año.\n\nTRAMPAS\nNo confundir µg con mg: 400 µg = 0,4 mg.\nNo confundir hierro elemental con cantidad de sulfato ferroso.\nNo aplicar esquema preventivo de no gestante al embarazo ni a anemia diagnosticada.\nRecordar el número de tabla y la modificatoria: NTS 213, Tabla 10; RM 429-2024.\n\nPERLA\nHb ≥12 g/dL + prevención adolescente/MEF + 2 veces/semana = 60 mg Fe elemental + 400 µg folato × 3 meses/año.",
+      "pearl": "Hb ≥12 g/dL + prevención adolescente/MEF + 2 veces/semana = 60 mg Fe elemental + 400 µg folato × 3 meses/año.",
+      "keywords": [
+        "Anemia · suplementación preventiva",
+        "60 mg de hierro elemental más 400 µg de ácido fólico: adolescentes y mujeres en edad fértil",
+        "ENCAPS 2026-II",
+        "MINSA 276"
+      ],
+      "estadoDesarrollo": "completo",
+      "lesson": {
+        "respuesta_resumida": "D. 60 mg de hierro elemental + 400 µg de ácido fólico, en tableta dos veces por semana durante tres meses al año, como suplementación preventiva según NTS 213.",
+        "razonamiento": "El enunciado presenta expresamente Hb ≥ 12 g/dL, adolescente mujer o mujer en edad fértil y administración intermitente dos veces por semana durante tres meses cada año. Es la Tabla 10 de NTS 213-MINSA/DGIESP-2024: 60 mg de hierro ELEMENTAL y 400 microgramos de ácido fólico por toma. No confundir hierro elemental con el peso total de sulfato ferroso ni suplementación preventiva con tratamiento de anemia. El esquema de gestación se rige por condiciones diferentes, e incluye administración diaria desde la etapa prenatal pertinente. La RM 429-2024 modificó la NTS en aspectos de procedimiento y seguimiento, por lo que hay que citar la versión vigente.",
+        "temario": [
+          "Diferencia prevención/tratamiento: con hemoglobina normal en el grupo descrito se busca prevenir ferropenia; una persona con anemia requiere evaluación etiológica y esquema terapéutico.",
+          "Grupo descrito: adolescente mujer y mujer en edad fértil bajo criterios de la NTS 213; confirmar Hb y condiciones individuales conforme a procedimientos.",
+          "Tabla 10: 60 mg de hierro elemental + 400 µg ácido fólico por toma, 2 tomas/semana, 3 meses/año. Entrega mensual y evaluación de adherencia.",
+          "Hierro elemental no es igual a masa de sal: una tableta con sulfato ferroso puede contener más miligramos de sal y 60 mg de hierro elemental.",
+          "Ácido fólico: 400 µg equivalen a 0,4 mg, no a 400 mg; precaución con errores de unidades.",
+          "Gestación: no aplicar automáticamente este esquema de 2 veces/semana; la NTS establece suplemento diario y cambios según semana de ingreso al control prenatal.",
+          "Orientación: pautas de adherencia, posibles efectos digestivos y recomendaciones alimentarias contextualizadas; vigilar contraindicaciones e interacciones según paciente.",
+          "Seguimiento: medición de hemoglobina conforme a grupo etario y circunstancias, registro de suministro y retorno para revisión del cumplimiento.",
+          "No usar la dosis preventiva indicada para tratar anemia diagnosticada sin valorar gravedad, causa y respuesta."
+        ],
+        "por_que_no_las_otras": {
+          "A": "300 mg no es hierro elemental apropiado para esta prevención y 100 µg de folato no coincide con Tabla 10.",
+          "B": "120 mg de hierro con 400 µg de folato no corresponde a la dosis por toma de prevención intermitente descrita.",
+          "C": "30 mg de hierro y 100 µg de folato no son las cantidades establecidas para el grupo y esquema.",
+          "D": "Correcta: 60 mg de hierro elemental más 400 µg de ácido fólico por dosis."
+        },
+        "normativa": [
+          "NTS N.° 213-MINSA/DGIESP-2024, RM N.° 251-2024-MINSA | https://www.gob.pe/institucion/minsa/normas-legales/5440166-251-2024-minsa | Tabla 10: 60 mg de hierro elemental + 400 µg de ácido fólico, 2 veces/semana durante 3 meses/año",
+          "RM N.° 429-2024-MINSA | https://www.gob.pe/institucion/minsa/normas-legales/5670414-429-2024-minsa | Modificatoria de la NTS 213; revisar esquemas y medición de hemoglobina",
+          "MINSA, guía pública anemia (2025) | https://www.gob.pe/23343-que-es-la-anemia-alimentacion | Recomendación de suplementación preventiva intermitente en adolescentes mujeres"
+        ],
+        "mnemotecnia": "MUJER NO GESTANTE, PREVENCIÓN: 60–400 / 2–3 = 60 mg Fe + 400 µg folato, 2 veces/semana, 3 meses/año.",
+        "trampas": [
+          "No confundir µg con mg: 400 µg = 0,4 mg.",
+          "No confundir hierro elemental con cantidad de sulfato ferroso.",
+          "No aplicar esquema preventivo de no gestante al embarazo ni a anemia diagnosticada.",
+          "Recordar el número de tabla y la modificatoria: NTS 213, Tabla 10; RM 429-2024."
+        ],
+        "perla": "Hb ≥12 g/dL + prevención adolescente/MEF + 2 veces/semana = 60 mg Fe elemental + 400 µg folato × 3 meses/año.",
+        "repaso_activo": [
+          "¿Cuál es el esquema preventivo de la Tabla 10? — 60 mg hierro elemental + 400 µg folato 2/semana x 3 meses/año.",
+          "¿Cuántos miligramos son 400 microgramos? — 0,4 mg.",
+          "¿Se maneja igual a una gestante? — No; esquema específico diario de gestación.",
+          "¿Se usa como tratamiento de anemia ya diagnosticada? — No: valorar un esquema terapéutico."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Adolescente de 16 años, no gestante, Hb normal y sin contraindicaciones, inicia prevención de anemia conforme a NTS 213. ¿Cuál es el esquema intermitente descrito para su grupo?",
+            "alternativas": {
+              "A": "120 mg Fe + 800 µg folato todos los días",
+              "B": "30 mg Fe + 200 µg folato una vez al mes",
+              "C": "60 mg Fe sin folato cada quince días",
+              "D": "60 mg Fe + 400 µg folato dos veces por semana",
+              "E": "200 mg Fe elemental diarios durante seis meses"
+            },
+            "respuesta": "D",
+            "explicacion": "Es la dosis y frecuencia del cuadro preventivo de adolescente mujer y mujer en edad fértil."
+          },
+          {
+            "enunciado": "Un estudiante lee la indicación «400 µg de ácido fólico» y registra 400 mg. ¿Cuál es la conversión correcta?",
+            "alternativas": {
+              "A": "0,04 mg",
+              "B": "4 mg",
+              "C": "40 mg",
+              "D": "0,004 mg",
+              "E": "0,4 mg"
+            },
+            "respuesta": "E",
+            "explicacion": "1 mg = 1.000 µg; 400 µg = 0,4 mg."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "60 mg de hierro elemental más 400 µg de ácido fólico: adolescentes y mujeres en edad fértil",
+          "eje": "Anemia · suplementación preventiva",
+          "confiabilidad": "clave_resaltada_fundamento_concordante",
+          "respuesta_resumida": "D. 60 mg de hierro elemental + 400 µg de ácido fólico, en tableta dos veces por semana durante tres meses al año, como suplementación preventiva según NTS 213.",
+          "razonamiento": [
+            "El enunciado presenta expresamente Hb ≥ 12 g/dL, adolescente mujer o mujer en edad fértil y administración intermitente dos veces por semana durante tres meses cada año. Es la Tabla 10 de NTS 213-MINSA/DGIESP-2024: 60 mg de hierro ELEMENTAL y 400 microgramos de ácido fólico por toma. No confundir hierro elemental con el peso total de sulfato ferroso ni suplementación preventiva con tratamiento de anemia. El esquema de gestación se rige por condiciones diferentes, e incluye administración diaria desde la etapa prenatal pertinente. La RM 429-2024 modificó la NTS en aspectos de procedimiento y seguimiento, por lo que hay que citar la versión vigente."
+          ],
+          "temario": [
+            "Diferencia prevención/tratamiento: con hemoglobina normal en el grupo descrito se busca prevenir ferropenia; una persona con anemia requiere evaluación etiológica y esquema terapéutico.",
+            "Grupo descrito: adolescente mujer y mujer en edad fértil bajo criterios de la NTS 213; confirmar Hb y condiciones individuales conforme a procedimientos.",
+            "Tabla 10: 60 mg de hierro elemental + 400 µg ácido fólico por toma, 2 tomas/semana, 3 meses/año. Entrega mensual y evaluación de adherencia.",
+            "Hierro elemental no es igual a masa de sal: una tableta con sulfato ferroso puede contener más miligramos de sal y 60 mg de hierro elemental.",
+            "Ácido fólico: 400 µg equivalen a 0,4 mg, no a 400 mg; precaución con errores de unidades.",
+            "Gestación: no aplicar automáticamente este esquema de 2 veces/semana; la NTS establece suplemento diario y cambios según semana de ingreso al control prenatal.",
+            "Orientación: pautas de adherencia, posibles efectos digestivos y recomendaciones alimentarias contextualizadas; vigilar contraindicaciones e interacciones según paciente.",
+            "Seguimiento: medición de hemoglobina conforme a grupo etario y circunstancias, registro de suministro y retorno para revisión del cumplimiento.",
+            "No usar la dosis preventiva indicada para tratar anemia diagnosticada sin valorar gravedad, causa y respuesta."
+          ],
+          "distractores": {
+            "A": "300 mg no es hierro elemental apropiado para esta prevención y 100 µg de folato no coincide con Tabla 10.",
+            "B": "120 mg de hierro con 400 µg de folato no corresponde a la dosis por toma de prevención intermitente descrita.",
+            "C": "30 mg de hierro y 100 µg de folato no son las cantidades establecidas para el grupo y esquema.",
+            "D": "Correcta: 60 mg de hierro elemental más 400 µg de ácido fólico por dosis."
+          },
+          "normativa": [
+            {
+              "nombre": "NTS N.° 213-MINSA/DGIESP-2024, RM N.° 251-2024-MINSA",
+              "url": "https://www.gob.pe/institucion/minsa/normas-legales/5440166-251-2024-minsa",
+              "aplicacion": "Tabla 10: 60 mg de hierro elemental + 400 µg de ácido fólico, 2 veces/semana durante 3 meses/año"
+            },
+            {
+              "nombre": "RM N.° 429-2024-MINSA",
+              "url": "https://www.gob.pe/institucion/minsa/normas-legales/5670414-429-2024-minsa",
+              "aplicacion": "Modificatoria de la NTS 213; revisar esquemas y medición de hemoglobina"
+            },
+            {
+              "nombre": "MINSA, guía pública anemia (2025)",
+              "url": "https://www.gob.pe/23343-que-es-la-anemia-alimentacion",
+              "aplicacion": "Recomendación de suplementación preventiva intermitente en adolescentes mujeres"
+            }
+          ],
+          "mnemotecnia": "MUJER NO GESTANTE, PREVENCIÓN: 60–400 / 2–3 = 60 mg Fe + 400 µg folato, 2 veces/semana, 3 meses/año.",
+          "trampas": [
+            "No confundir µg con mg: 400 µg = 0,4 mg.",
+            "No confundir hierro elemental con cantidad de sulfato ferroso.",
+            "No aplicar esquema preventivo de no gestante al embarazo ni a anemia diagnosticada.",
+            "Recordar el número de tabla y la modificatoria: NTS 213, Tabla 10; RM 429-2024."
+          ],
+          "perla": "Hb ≥12 g/dL + prevención adolescente/MEF + 2 veces/semana = 60 mg Fe elemental + 400 µg folato × 3 meses/año.",
+          "repaso_activo": [
+            "¿Cuál es el esquema preventivo de la Tabla 10? — 60 mg hierro elemental + 400 µg folato 2/semana x 3 meses/año.",
+            "¿Cuántos miligramos son 400 microgramos? — 0,4 mg.",
+            "¿Se maneja igual a una gestante? — No; esquema específico diario de gestación.",
+            "¿Se usa como tratamiento de anemia ya diagnosticada? — No: valorar un esquema terapéutico."
+          ],
+          "refuerzo": [
+            {
+              "enunciado": "Adolescente de 16 años, no gestante, Hb normal y sin contraindicaciones, inicia prevención de anemia conforme a NTS 213. ¿Cuál es el esquema intermitente descrito para su grupo?",
+              "alternativas": {
+                "A": "120 mg Fe + 800 µg folato todos los días",
+                "B": "30 mg Fe + 200 µg folato una vez al mes",
+                "C": "60 mg Fe sin folato cada quince días",
+                "D": "60 mg Fe + 400 µg folato dos veces por semana",
+                "E": "200 mg Fe elemental diarios durante seis meses"
+              },
+              "respuesta": "D",
+              "explicacion": "Es la dosis y frecuencia del cuadro preventivo de adolescente mujer y mujer en edad fértil."
+            },
+            {
+              "enunciado": "Un estudiante lee la indicación «400 µg de ácido fólico» y registra 400 mg. ¿Cuál es la conversión correcta?",
+              "alternativas": {
+                "A": "0,04 mg",
+                "B": "4 mg",
+                "C": "40 mg",
+                "D": "0,004 mg",
+                "E": "0,4 mg"
+              },
+              "respuesta": "E",
+              "explicacion": "1 mg = 1.000 µg; 400 µg = 0,4 mg."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "number": 53,
+      "code": "ENCAPS26-II P053",
+      "course": "Prevención combinada VIH · PrEP",
+      "topic": "Profilaxis preexposición al VIH: elegibilidad, diferencia con PPE y seguimiento",
+      "comment": "Respuesta marcada en el PDF del usuario, NO cotejada independientemente con la tabla oficial de claves: C. Profilaxis preexposición (PrEP). Prevención mediante antirretrovirales para personas sin VIH con riesgo de adquirirlo, antes de una exposición futura.\n\nRAZONAMIENTO\nSe describen exactamente los requisitos publicados por MINSA para ofrecer PrEP: persona de 18 años o más, mayor riesgo de infección, sin VIH, sin exposición de riesgo en las 72 horas previas, evaluación de contraindicaciones y aceptación voluntaria. Las poblaciones pueden incluir hombres que tienen sexo con hombres, mujeres trans, trabajadoras sexuales y parejas serodiscordantes, según riesgo. PrEP es parte de la prevención combinada, que también incorpora tamizajes, consejería y preservativos. No equivale a profilaxis posexposición (PPE/PEP); si hubo exposición relevante reciente, debe evaluarse urgentemente PPE y no sustituirla por inicio rutinario de PrEP.\n\nTEMARIO\nPrEP = profilaxis ANTES de exposición de riesgo futura en persona VIH negativa y elegible, para disminuir probabilidad de infección.\n\nPPE/PEP = profilaxis DESPUÉS de una exposición relevante; su inicio es urgente y la ventana usual máxima es 72 horas, ideal cuanto antes.\n\nMINSA: voluntariedad, información y consentimiento, evaluación de riesgo y pruebas pertinentes para confirmar ausencia de infección por VIH antes del inicio.\n\nGrupos priorizados por estrategia: HSH, mujeres trans, trabajadores sexuales, parejas serodiscordantes y personas con riesgo elevado según protocolos, sin asociar automáticamente identidad con conducta de riesgo.\n\nEvaluación basal y periódica: prueba VIH, síntomas de infección aguda, valoración clínica, comorbilidades, función renal y hepatitis B/ITS según régimen y normativas; garantizar acompañamiento.\n\nPrevención combinada: consejería, preservativos y lubricantes, vacunación aplicable, pruebas ITS, tratamiento de otras ITS, PrEP y PPE.\n\nPrEP no previene todas las ITS ni embarazo y no reemplaza preservativos ni atención sexual integral.\n\nAdherencia y controles: seguir pauta aprobada y reevaluar riesgo, pruebas y efectos adversos sin interrumpir inadecuadamente la protección.\n\nEl criterio «sin exposición en últimas 72 horas» es clave del examen: si exposición reciente, considerar PPE según riesgo y protocolos.\n\nANÁLISIS DE ALTERNATIVAS\nA — El tamizaje VIH integra evaluación basal, pero la actividad preventiva de antirretrovirales antes de exposición se llama PrEP.\nB — Preservativos y lubricantes son complementos de prevención combinada, no la definición de PrEP.\nC — Correcta: profilaxis preexposición al VIH en persona elegible sin infección.\nD — Pruebas de sífilis y hepatitis son componentes del paquete, pero no denominan la actividad descrita.\n\nFUENTES Y NORMATIVA\nNTS N.° 204-MINSA/DGIESP-2023, prevención combinada VIH | https://www.gob.pe/institucion/minsa/noticias/882551-mas-de-60-establecimientos-de-salud-ya-entregan-la-pastilla-que-reduce-el-riesgo-de-contraer-el-vih | Criterios de acceso PrEP y contenidos del paquete de prevención combinada\nMINSA, ¿Qué es la PrEP? | https://www.gob.pe/58108 | Criterios: 18 años o más, alto riesgo, sin VIH, sin exposición últimas 72 horas, sin contraindicaciones, elección voluntaria\nMINSA, prevención combinada del VIH | https://www.gob.pe/58112 | Diferencia PrEP y PPE, consejería, tamizaje, condones, lubricantes y manejo de ITS\n\nMNEMOTECNIA\nPrEP = PREVIA al riesgo; PEP/PPE = POSTERIOR a una exposición (urgencia <72 h).\n\nTRAMPAS\nNo iniciar PrEP como sustituto de la PPE tras exposición reciente de alto riesgo.\nLa indicación es voluntaria y requiere descartar VIH, no basta pertenecer a una población clave.\nPrEP previene VIH; no elimina necesidad de prevención y cribado de otras ITS.\nLa cifra 72 horas en la pregunta ayuda a diferenciar evaluación para PrEP de eventual PPE.\n\nPERLA\nSIN VIH + ALTO RIESGO FUTURO + 18+ + SIN EXPOSICIÓN RECIENTE + VOLUNTARIO = PrEP.",
+      "pearl": "SIN VIH + ALTO RIESGO FUTURO + 18+ + SIN EXPOSICIÓN RECIENTE + VOLUNTARIO = PrEP.",
+      "keywords": [
+        "Prevención combinada VIH · PrEP",
+        "Profilaxis preexposición al VIH: elegibilidad, diferencia con PPE y seguimiento",
+        "ENCAPS 2026-II",
+        "MINSA 276"
+      ],
+      "estadoDesarrollo": "completo",
+      "lesson": {
+        "respuesta_resumida": "C. Profilaxis preexposición (PrEP). Prevención mediante antirretrovirales para personas sin VIH con riesgo de adquirirlo, antes de una exposición futura.",
+        "razonamiento": "Se describen exactamente los requisitos publicados por MINSA para ofrecer PrEP: persona de 18 años o más, mayor riesgo de infección, sin VIH, sin exposición de riesgo en las 72 horas previas, evaluación de contraindicaciones y aceptación voluntaria. Las poblaciones pueden incluir hombres que tienen sexo con hombres, mujeres trans, trabajadoras sexuales y parejas serodiscordantes, según riesgo. PrEP es parte de la prevención combinada, que también incorpora tamizajes, consejería y preservativos. No equivale a profilaxis posexposición (PPE/PEP); si hubo exposición relevante reciente, debe evaluarse urgentemente PPE y no sustituirla por inicio rutinario de PrEP.",
+        "temario": [
+          "PrEP = profilaxis ANTES de exposición de riesgo futura en persona VIH negativa y elegible, para disminuir probabilidad de infección.",
+          "PPE/PEP = profilaxis DESPUÉS de una exposición relevante; su inicio es urgente y la ventana usual máxima es 72 horas, ideal cuanto antes.",
+          "MINSA: voluntariedad, información y consentimiento, evaluación de riesgo y pruebas pertinentes para confirmar ausencia de infección por VIH antes del inicio.",
+          "Grupos priorizados por estrategia: HSH, mujeres trans, trabajadores sexuales, parejas serodiscordantes y personas con riesgo elevado según protocolos, sin asociar automáticamente identidad con conducta de riesgo.",
+          "Evaluación basal y periódica: prueba VIH, síntomas de infección aguda, valoración clínica, comorbilidades, función renal y hepatitis B/ITS según régimen y normativas; garantizar acompañamiento.",
+          "Prevención combinada: consejería, preservativos y lubricantes, vacunación aplicable, pruebas ITS, tratamiento de otras ITS, PrEP y PPE.",
+          "PrEP no previene todas las ITS ni embarazo y no reemplaza preservativos ni atención sexual integral.",
+          "Adherencia y controles: seguir pauta aprobada y reevaluar riesgo, pruebas y efectos adversos sin interrumpir inadecuadamente la protección.",
+          "El criterio «sin exposición en últimas 72 horas» es clave del examen: si exposición reciente, considerar PPE según riesgo y protocolos."
+        ],
+        "por_que_no_las_otras": {
+          "A": "El tamizaje VIH integra evaluación basal, pero la actividad preventiva de antirretrovirales antes de exposición se llama PrEP.",
+          "B": "Preservativos y lubricantes son complementos de prevención combinada, no la definición de PrEP.",
+          "C": "Correcta: profilaxis preexposición al VIH en persona elegible sin infección.",
+          "D": "Pruebas de sífilis y hepatitis son componentes del paquete, pero no denominan la actividad descrita."
+        },
+        "normativa": [
+          "NTS N.° 204-MINSA/DGIESP-2023, prevención combinada VIH | https://www.gob.pe/institucion/minsa/noticias/882551-mas-de-60-establecimientos-de-salud-ya-entregan-la-pastilla-que-reduce-el-riesgo-de-contraer-el-vih | Criterios de acceso PrEP y contenidos del paquete de prevención combinada",
+          "MINSA, ¿Qué es la PrEP? | https://www.gob.pe/58108 | Criterios: 18 años o más, alto riesgo, sin VIH, sin exposición últimas 72 horas, sin contraindicaciones, elección voluntaria",
+          "MINSA, prevención combinada del VIH | https://www.gob.pe/58112 | Diferencia PrEP y PPE, consejería, tamizaje, condones, lubricantes y manejo de ITS"
+        ],
+        "mnemotecnia": "PrEP = PREVIA al riesgo; PEP/PPE = POSTERIOR a una exposición (urgencia <72 h).",
+        "trampas": [
+          "No iniciar PrEP como sustituto de la PPE tras exposición reciente de alto riesgo.",
+          "La indicación es voluntaria y requiere descartar VIH, no basta pertenecer a una población clave.",
+          "PrEP previene VIH; no elimina necesidad de prevención y cribado de otras ITS.",
+          "La cifra 72 horas en la pregunta ayuda a diferenciar evaluación para PrEP de eventual PPE."
+        ],
+        "perla": "SIN VIH + ALTO RIESGO FUTURO + 18+ + SIN EXPOSICIÓN RECIENTE + VOLUNTARIO = PrEP.",
+        "repaso_activo": [
+          "¿Qué significa PrEP? — Profilaxis preexposición al VIH.",
+          "¿Y PPE/PEP? — Profilaxis posexposición, evaluada con urgencia tras exposición.",
+          "¿PrEP reemplaza preservativos o cribado de ITS? — No.",
+          "¿Qué se debe excluir antes de iniciar PrEP? — Infección por VIH y contraindicaciones según protocolo."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Una persona VIH negativa con exposiciones sexuales frecuentes pide un método antirretroviral preventivo de uso programado. No refiere exposición de riesgo reciente. ¿Qué intervención corresponde evaluar?",
+            "alternativas": {
+              "A": "Profilaxis posexposición como rutina a largo plazo",
+              "B": "Tratamiento antirretroviral para infección confirmada",
+              "C": "Profilaxis preexposición con evaluación de elegibilidad",
+              "D": "Vacunación específica contra VIH",
+              "E": "Terapia antibiótica mensual para VIH"
+            },
+            "respuesta": "C",
+            "explicacion": "La PrEP es preventiva antes de nuevas exposiciones, con evaluación de VIH, seguridad y adherencia."
+          },
+          {
+            "enunciado": "Una persona sin diagnóstico de VIH consulta seis horas después de ruptura del preservativo con exposición de riesgo relevante. ¿Qué respuesta inicial es adecuada?",
+            "alternativas": {
+              "A": "Esperar tres días antes de cualquier medida",
+              "B": "Evaluar inmediatamente indicación de PPE/PEP",
+              "C": "Administrar antibiótico como profilaxis anti-VIH",
+              "D": "Iniciar PrEP habitual ignorando la exposición",
+              "E": "Indicar que no existe medida preventiva posterior"
+            },
+            "respuesta": "B",
+            "explicacion": "Exposición reciente requiere evaluación urgente de PPE/PEP, ideal tan pronto como sea posible y dentro de 72 horas."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Profilaxis preexposición al VIH: elegibilidad, diferencia con PPE y seguimiento",
+          "eje": "Prevención combinada VIH · PrEP",
+          "confiabilidad": "clave_resaltada_fundamento_concordante",
+          "respuesta_resumida": "C. Profilaxis preexposición (PrEP). Prevención mediante antirretrovirales para personas sin VIH con riesgo de adquirirlo, antes de una exposición futura.",
+          "razonamiento": [
+            "Se describen exactamente los requisitos publicados por MINSA para ofrecer PrEP: persona de 18 años o más, mayor riesgo de infección, sin VIH, sin exposición de riesgo en las 72 horas previas, evaluación de contraindicaciones y aceptación voluntaria. Las poblaciones pueden incluir hombres que tienen sexo con hombres, mujeres trans, trabajadoras sexuales y parejas serodiscordantes, según riesgo. PrEP es parte de la prevención combinada, que también incorpora tamizajes, consejería y preservativos. No equivale a profilaxis posexposición (PPE/PEP); si hubo exposición relevante reciente, debe evaluarse urgentemente PPE y no sustituirla por inicio rutinario de PrEP."
+          ],
+          "temario": [
+            "PrEP = profilaxis ANTES de exposición de riesgo futura en persona VIH negativa y elegible, para disminuir probabilidad de infección.",
+            "PPE/PEP = profilaxis DESPUÉS de una exposición relevante; su inicio es urgente y la ventana usual máxima es 72 horas, ideal cuanto antes.",
+            "MINSA: voluntariedad, información y consentimiento, evaluación de riesgo y pruebas pertinentes para confirmar ausencia de infección por VIH antes del inicio.",
+            "Grupos priorizados por estrategia: HSH, mujeres trans, trabajadores sexuales, parejas serodiscordantes y personas con riesgo elevado según protocolos, sin asociar automáticamente identidad con conducta de riesgo.",
+            "Evaluación basal y periódica: prueba VIH, síntomas de infección aguda, valoración clínica, comorbilidades, función renal y hepatitis B/ITS según régimen y normativas; garantizar acompañamiento.",
+            "Prevención combinada: consejería, preservativos y lubricantes, vacunación aplicable, pruebas ITS, tratamiento de otras ITS, PrEP y PPE.",
+            "PrEP no previene todas las ITS ni embarazo y no reemplaza preservativos ni atención sexual integral.",
+            "Adherencia y controles: seguir pauta aprobada y reevaluar riesgo, pruebas y efectos adversos sin interrumpir inadecuadamente la protección.",
+            "El criterio «sin exposición en últimas 72 horas» es clave del examen: si exposición reciente, considerar PPE según riesgo y protocolos."
+          ],
+          "distractores": {
+            "A": "El tamizaje VIH integra evaluación basal, pero la actividad preventiva de antirretrovirales antes de exposición se llama PrEP.",
+            "B": "Preservativos y lubricantes son complementos de prevención combinada, no la definición de PrEP.",
+            "C": "Correcta: profilaxis preexposición al VIH en persona elegible sin infección.",
+            "D": "Pruebas de sífilis y hepatitis son componentes del paquete, pero no denominan la actividad descrita."
+          },
+          "normativa": [
+            {
+              "nombre": "NTS N.° 204-MINSA/DGIESP-2023, prevención combinada VIH",
+              "url": "https://www.gob.pe/institucion/minsa/noticias/882551-mas-de-60-establecimientos-de-salud-ya-entregan-la-pastilla-que-reduce-el-riesgo-de-contraer-el-vih",
+              "aplicacion": "Criterios de acceso PrEP y contenidos del paquete de prevención combinada"
+            },
+            {
+              "nombre": "MINSA, ¿Qué es la PrEP?",
+              "url": "https://www.gob.pe/58108",
+              "aplicacion": "Criterios: 18 años o más, alto riesgo, sin VIH, sin exposición últimas 72 horas, sin contraindicaciones, elección voluntaria"
+            },
+            {
+              "nombre": "MINSA, prevención combinada del VIH",
+              "url": "https://www.gob.pe/58112",
+              "aplicacion": "Diferencia PrEP y PPE, consejería, tamizaje, condones, lubricantes y manejo de ITS"
+            }
+          ],
+          "mnemotecnia": "PrEP = PREVIA al riesgo; PEP/PPE = POSTERIOR a una exposición (urgencia <72 h).",
+          "trampas": [
+            "No iniciar PrEP como sustituto de la PPE tras exposición reciente de alto riesgo.",
+            "La indicación es voluntaria y requiere descartar VIH, no basta pertenecer a una población clave.",
+            "PrEP previene VIH; no elimina necesidad de prevención y cribado de otras ITS.",
+            "La cifra 72 horas en la pregunta ayuda a diferenciar evaluación para PrEP de eventual PPE."
+          ],
+          "perla": "SIN VIH + ALTO RIESGO FUTURO + 18+ + SIN EXPOSICIÓN RECIENTE + VOLUNTARIO = PrEP.",
+          "repaso_activo": [
+            "¿Qué significa PrEP? — Profilaxis preexposición al VIH.",
+            "¿Y PPE/PEP? — Profilaxis posexposición, evaluada con urgencia tras exposición.",
+            "¿PrEP reemplaza preservativos o cribado de ITS? — No.",
+            "¿Qué se debe excluir antes de iniciar PrEP? — Infección por VIH y contraindicaciones según protocolo."
+          ],
+          "refuerzo": [
+            {
+              "enunciado": "Una persona VIH negativa con exposiciones sexuales frecuentes pide un método antirretroviral preventivo de uso programado. No refiere exposición de riesgo reciente. ¿Qué intervención corresponde evaluar?",
+              "alternativas": {
+                "A": "Profilaxis posexposición como rutina a largo plazo",
+                "B": "Tratamiento antirretroviral para infección confirmada",
+                "C": "Profilaxis preexposición con evaluación de elegibilidad",
+                "D": "Vacunación específica contra VIH",
+                "E": "Terapia antibiótica mensual para VIH"
+              },
+              "respuesta": "C",
+              "explicacion": "La PrEP es preventiva antes de nuevas exposiciones, con evaluación de VIH, seguridad y adherencia."
+            },
+            {
+              "enunciado": "Una persona sin diagnóstico de VIH consulta seis horas después de ruptura del preservativo con exposición de riesgo relevante. ¿Qué respuesta inicial es adecuada?",
+              "alternativas": {
+                "A": "Esperar tres días antes de cualquier medida",
+                "B": "Evaluar inmediatamente indicación de PPE/PEP",
+                "C": "Administrar antibiótico como profilaxis anti-VIH",
+                "D": "Iniciar PrEP habitual ignorando la exposición",
+                "E": "Indicar que no existe medida preventiva posterior"
+              },
+              "respuesta": "B",
+              "explicacion": "Exposición reciente requiere evaluación urgente de PPE/PEP, ideal tan pronto como sea posible y dentro de 72 horas."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "number": 54,
+      "code": "ENCAPS26-II P054",
+      "course": "Seguridad y salud en el trabajo · psicosocial",
+      "topic": "Riesgos psicosociales por sobrecarga, comunicación inadecuada y turnos inequitativos",
+      "comment": "Respuesta marcada en el PDF del usuario, NO cotejada independientemente con la tabla oficial de claves: D. Psicosocial. La sobrecarga laboral, la mala comunicación y la organización desigual de turnos son factores psicosociales del trabajo.\n\nRAZONAMIENTO\nEl enunciado se centra en aspectos de ORGANIZACIÓN y relaciones laborales: carga excesiva, fallas comunicativas, turnos injustos, estrés. SUNAFIL y SERVIR consideran riesgo psicosocial factores como intensidad de tareas, demandas emocionales, conflictos, falta de control, apoyo insuficiente y problemas organizativos. Puede repercutir en ansiedad, insomnio, burnout y desempeño; el equipo de SST debe valorar la exposición y actuar sobre condiciones de trabajo. No confundir riesgo ergonómico (posturas, manipulación de cargas, diseño del puesto) con estrés psicosocial, aunque puedan coexistir.\n\nTEMARIO\nFactores de riesgo psicosocial: condiciones de contenido, organización, relaciones y entorno del trabajo que pueden afectar bienestar mental y físico.\n\nSobrecarga y ritmo: desproporción entre demandas, tiempo y recursos; incluye turnos prolongados, interrupciones y exigencias emocionales.\n\nFallas de comunicación: instrucciones poco claras, ausencia de apoyo de jefaturas, conflictos entre áreas y ambigüedad de responsabilidades.\n\nTurnos injustos o imprevisibles: reducen control, afectan conciliación trabajo-familia, sueño y percepción de justicia organizacional.\n\nManifestaciones potenciales: estrés, insomnio, agotamiento, irritabilidad, dificultades de concentración, ansiedad; no todo malestar equivale a diagnóstico clínico.\n\nControl de riesgo: evaluación periódica, participación de trabajadores, balance de carga, programación transparente de turnos, liderazgo, apoyo y prevención de violencia.\n\nResponsabilidad institucional: prevenir riesgos conforme al SG-SST y protocolos; no resolver todo con técnicas individuales de relajación.\n\nDiferenciar peligros físicos (ruido, radiaciones), biológicos (agentes infecciosos), ergonómicos (postura y manipulación) y psicosociales (organización y relaciones).\n\nANÁLISIS DE ALTERNATIVAS\nA — Físico se refiere típicamente a ruido, temperatura, radiaciones o vibraciones, no al problema central de organización descrito.\nB — Biológico es exposición a microorganismos y material contaminado; no aparece en el caso.\nC — Ergonómico implica condiciones biomecánicas o de diseño del puesto, como postura o esfuerzos; aquí predominan demandas laborales y relaciones.\nD — Correcta: carga de trabajo, comunicación deficiente e inequidad organizativa son riesgos psicosociales.\n\nFUENTES Y NORMATIVA\nSUNAFIL (09/10/2024), salud mental en el trabajo | https://www.gob.pe/institucion/sunafil/noticias/1034216-sunafil-recomienda-medidas-para-el-cuidado-de-la-salud-mental-en-el-trabajo | Sobrecarga y ritmo de trabajo, conflictos, inestabilidad y falta de apoyo como riesgos psicosociales\nSERVIR (2026), gestión de salud mental en sector público | https://www.gob.pe/113972-autoridad-nacional-del-servicio-civil-gestion-de-la-salud-mental-en-el-trabajo-en-el-sector-publico-en-el-marco-de-la-seguridad-y-salud-en-el-trabajo | Factores psicosociales y prevención en SST\nLey N.° 29783, Seguridad y Salud en el Trabajo | https://www.gob.pe/institucion/congreso-de-la-republica/normas-legales/462576-29783 | Obligación de prevención y gestión de riesgos en el trabajo\n\nMNEMOTECNIA\nPSICOSOCIAL = PRESIÓN + SISTEMA de turnos + COMUNICACIÓN + ORGANIZACIÓN.\n\nTRAMPAS\nEl estrés es una posible consecuencia, mientras las condiciones de sobrecarga y turnos son factores de riesgo.\nNo confundir ergonomía con cualquier problema del trabajo; exige componente biomecánico u organización física de la tarea.\nLos riesgos psicosociales se previenen también con cambios institucionales, no solo autocuidado individual.\nUn único síntoma no confirma burnout; requiere evaluación contextual y clínica según caso.\n\nPERLA\nSobrecarga + turnos injustos + comunicación deficiente = RIESGO PSICOSOCIAL.",
+      "pearl": "Sobrecarga + turnos injustos + comunicación deficiente = RIESGO PSICOSOCIAL.",
+      "keywords": [
+        "Seguridad y salud en el trabajo · psicosocial",
+        "Riesgos psicosociales por sobrecarga, comunicación inadecuada y turnos inequitativos",
+        "ENCAPS 2026-II",
+        "MINSA 276"
+      ],
+      "estadoDesarrollo": "completo",
+      "lesson": {
+        "respuesta_resumida": "D. Psicosocial. La sobrecarga laboral, la mala comunicación y la organización desigual de turnos son factores psicosociales del trabajo.",
+        "razonamiento": "El enunciado se centra en aspectos de ORGANIZACIÓN y relaciones laborales: carga excesiva, fallas comunicativas, turnos injustos, estrés. SUNAFIL y SERVIR consideran riesgo psicosocial factores como intensidad de tareas, demandas emocionales, conflictos, falta de control, apoyo insuficiente y problemas organizativos. Puede repercutir en ansiedad, insomnio, burnout y desempeño; el equipo de SST debe valorar la exposición y actuar sobre condiciones de trabajo. No confundir riesgo ergonómico (posturas, manipulación de cargas, diseño del puesto) con estrés psicosocial, aunque puedan coexistir.",
+        "temario": [
+          "Factores de riesgo psicosocial: condiciones de contenido, organización, relaciones y entorno del trabajo que pueden afectar bienestar mental y físico.",
+          "Sobrecarga y ritmo: desproporción entre demandas, tiempo y recursos; incluye turnos prolongados, interrupciones y exigencias emocionales.",
+          "Fallas de comunicación: instrucciones poco claras, ausencia de apoyo de jefaturas, conflictos entre áreas y ambigüedad de responsabilidades.",
+          "Turnos injustos o imprevisibles: reducen control, afectan conciliación trabajo-familia, sueño y percepción de justicia organizacional.",
+          "Manifestaciones potenciales: estrés, insomnio, agotamiento, irritabilidad, dificultades de concentración, ansiedad; no todo malestar equivale a diagnóstico clínico.",
+          "Control de riesgo: evaluación periódica, participación de trabajadores, balance de carga, programación transparente de turnos, liderazgo, apoyo y prevención de violencia.",
+          "Responsabilidad institucional: prevenir riesgos conforme al SG-SST y protocolos; no resolver todo con técnicas individuales de relajación.",
+          "Diferenciar peligros físicos (ruido, radiaciones), biológicos (agentes infecciosos), ergonómicos (postura y manipulación) y psicosociales (organización y relaciones)."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Físico se refiere típicamente a ruido, temperatura, radiaciones o vibraciones, no al problema central de organización descrito.",
+          "B": "Biológico es exposición a microorganismos y material contaminado; no aparece en el caso.",
+          "C": "Ergonómico implica condiciones biomecánicas o de diseño del puesto, como postura o esfuerzos; aquí predominan demandas laborales y relaciones.",
+          "D": "Correcta: carga de trabajo, comunicación deficiente e inequidad organizativa son riesgos psicosociales."
+        },
+        "normativa": [
+          "SUNAFIL (09/10/2024), salud mental en el trabajo | https://www.gob.pe/institucion/sunafil/noticias/1034216-sunafil-recomienda-medidas-para-el-cuidado-de-la-salud-mental-en-el-trabajo | Sobrecarga y ritmo de trabajo, conflictos, inestabilidad y falta de apoyo como riesgos psicosociales",
+          "SERVIR (2026), gestión de salud mental en sector público | https://www.gob.pe/113972-autoridad-nacional-del-servicio-civil-gestion-de-la-salud-mental-en-el-trabajo-en-el-sector-publico-en-el-marco-de-la-seguridad-y-salud-en-el-trabajo | Factores psicosociales y prevención en SST",
+          "Ley N.° 29783, Seguridad y Salud en el Trabajo | https://www.gob.pe/institucion/congreso-de-la-republica/normas-legales/462576-29783 | Obligación de prevención y gestión de riesgos en el trabajo"
+        ],
+        "mnemotecnia": "PSICOSOCIAL = PRESIÓN + SISTEMA de turnos + COMUNICACIÓN + ORGANIZACIÓN.",
+        "trampas": [
+          "El estrés es una posible consecuencia, mientras las condiciones de sobrecarga y turnos son factores de riesgo.",
+          "No confundir ergonomía con cualquier problema del trabajo; exige componente biomecánico u organización física de la tarea.",
+          "Los riesgos psicosociales se previenen también con cambios institucionales, no solo autocuidado individual.",
+          "Un único síntoma no confirma burnout; requiere evaluación contextual y clínica según caso."
+        ],
+        "perla": "Sobrecarga + turnos injustos + comunicación deficiente = RIESGO PSICOSOCIAL.",
+        "repaso_activo": [
+          "¿Qué distingue riesgo psicosocial? — Organización, contenido y relaciones del trabajo.",
+          "¿Es ergonómico el turno poco equitativo? — No principalmente; es psicosocial.",
+          "¿Qué debe hacer el empleador? — Evaluar y controlar el riesgo organizativo.",
+          "¿Estrés es factor o consecuencia? — Puede ser respuesta; el factor es la exposición laboral adversa."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "En un servicio hospitalario el personal reporta exigencias simultáneas, jefatura hostil y turnos cambiantes sin aviso. ¿Cuál es el peligro predominante?",
+            "alternativas": {
+              "A": "Exposición a radiación ionizante",
+              "B": "Carga térmica ambiental",
+              "C": "Agentes biológicos respiratorios",
+              "D": "Manipulación manual de pacientes",
+              "E": "Organización laboral con riesgo psicosocial"
+            },
+            "respuesta": "E",
+            "explicacion": "La configuración de tareas, conflictos y turnos genera exposición psicosocial."
+          },
+          {
+            "enunciado": "Una trabajadora refiere dolor lumbar por movilizar pacientes sin ayuda ni equipos de transferencia. ¿Qué riesgo predomina en ese caso?",
+            "alternativas": {
+              "A": "Biológico por gotículas",
+              "B": "Ergonómico por carga biomecánica",
+              "C": "Psicosocial por inequidad de turnos",
+              "D": "Físico por radiaciones",
+              "E": "Químico por vapores tóxicos"
+            },
+            "respuesta": "B",
+            "explicacion": "La manipulación manual y posturas de esfuerzo pertenecen principalmente al riesgo ergonómico."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Riesgos psicosociales por sobrecarga, comunicación inadecuada y turnos inequitativos",
+          "eje": "Seguridad y salud en el trabajo · psicosocial",
+          "confiabilidad": "clave_resaltada_fundamento_concordante",
+          "respuesta_resumida": "D. Psicosocial. La sobrecarga laboral, la mala comunicación y la organización desigual de turnos son factores psicosociales del trabajo.",
+          "razonamiento": [
+            "El enunciado se centra en aspectos de ORGANIZACIÓN y relaciones laborales: carga excesiva, fallas comunicativas, turnos injustos, estrés. SUNAFIL y SERVIR consideran riesgo psicosocial factores como intensidad de tareas, demandas emocionales, conflictos, falta de control, apoyo insuficiente y problemas organizativos. Puede repercutir en ansiedad, insomnio, burnout y desempeño; el equipo de SST debe valorar la exposición y actuar sobre condiciones de trabajo. No confundir riesgo ergonómico (posturas, manipulación de cargas, diseño del puesto) con estrés psicosocial, aunque puedan coexistir."
+          ],
+          "temario": [
+            "Factores de riesgo psicosocial: condiciones de contenido, organización, relaciones y entorno del trabajo que pueden afectar bienestar mental y físico.",
+            "Sobrecarga y ritmo: desproporción entre demandas, tiempo y recursos; incluye turnos prolongados, interrupciones y exigencias emocionales.",
+            "Fallas de comunicación: instrucciones poco claras, ausencia de apoyo de jefaturas, conflictos entre áreas y ambigüedad de responsabilidades.",
+            "Turnos injustos o imprevisibles: reducen control, afectan conciliación trabajo-familia, sueño y percepción de justicia organizacional.",
+            "Manifestaciones potenciales: estrés, insomnio, agotamiento, irritabilidad, dificultades de concentración, ansiedad; no todo malestar equivale a diagnóstico clínico.",
+            "Control de riesgo: evaluación periódica, participación de trabajadores, balance de carga, programación transparente de turnos, liderazgo, apoyo y prevención de violencia.",
+            "Responsabilidad institucional: prevenir riesgos conforme al SG-SST y protocolos; no resolver todo con técnicas individuales de relajación.",
+            "Diferenciar peligros físicos (ruido, radiaciones), biológicos (agentes infecciosos), ergonómicos (postura y manipulación) y psicosociales (organización y relaciones)."
+          ],
+          "distractores": {
+            "A": "Físico se refiere típicamente a ruido, temperatura, radiaciones o vibraciones, no al problema central de organización descrito.",
+            "B": "Biológico es exposición a microorganismos y material contaminado; no aparece en el caso.",
+            "C": "Ergonómico implica condiciones biomecánicas o de diseño del puesto, como postura o esfuerzos; aquí predominan demandas laborales y relaciones.",
+            "D": "Correcta: carga de trabajo, comunicación deficiente e inequidad organizativa son riesgos psicosociales."
+          },
+          "normativa": [
+            {
+              "nombre": "SUNAFIL (09/10/2024), salud mental en el trabajo",
+              "url": "https://www.gob.pe/institucion/sunafil/noticias/1034216-sunafil-recomienda-medidas-para-el-cuidado-de-la-salud-mental-en-el-trabajo",
+              "aplicacion": "Sobrecarga y ritmo de trabajo, conflictos, inestabilidad y falta de apoyo como riesgos psicosociales"
+            },
+            {
+              "nombre": "SERVIR (2026), gestión de salud mental en sector público",
+              "url": "https://www.gob.pe/113972-autoridad-nacional-del-servicio-civil-gestion-de-la-salud-mental-en-el-trabajo-en-el-sector-publico-en-el-marco-de-la-seguridad-y-salud-en-el-trabajo",
+              "aplicacion": "Factores psicosociales y prevención en SST"
+            },
+            {
+              "nombre": "Ley N.° 29783, Seguridad y Salud en el Trabajo",
+              "url": "https://www.gob.pe/institucion/congreso-de-la-republica/normas-legales/462576-29783",
+              "aplicacion": "Obligación de prevención y gestión de riesgos en el trabajo"
+            }
+          ],
+          "mnemotecnia": "PSICOSOCIAL = PRESIÓN + SISTEMA de turnos + COMUNICACIÓN + ORGANIZACIÓN.",
+          "trampas": [
+            "El estrés es una posible consecuencia, mientras las condiciones de sobrecarga y turnos son factores de riesgo.",
+            "No confundir ergonomía con cualquier problema del trabajo; exige componente biomecánico u organización física de la tarea.",
+            "Los riesgos psicosociales se previenen también con cambios institucionales, no solo autocuidado individual.",
+            "Un único síntoma no confirma burnout; requiere evaluación contextual y clínica según caso."
+          ],
+          "perla": "Sobrecarga + turnos injustos + comunicación deficiente = RIESGO PSICOSOCIAL.",
+          "repaso_activo": [
+            "¿Qué distingue riesgo psicosocial? — Organización, contenido y relaciones del trabajo.",
+            "¿Es ergonómico el turno poco equitativo? — No principalmente; es psicosocial.",
+            "¿Qué debe hacer el empleador? — Evaluar y controlar el riesgo organizativo.",
+            "¿Estrés es factor o consecuencia? — Puede ser respuesta; el factor es la exposición laboral adversa."
+          ],
+          "refuerzo": [
+            {
+              "enunciado": "En un servicio hospitalario el personal reporta exigencias simultáneas, jefatura hostil y turnos cambiantes sin aviso. ¿Cuál es el peligro predominante?",
+              "alternativas": {
+                "A": "Exposición a radiación ionizante",
+                "B": "Carga térmica ambiental",
+                "C": "Agentes biológicos respiratorios",
+                "D": "Manipulación manual de pacientes",
+                "E": "Organización laboral con riesgo psicosocial"
+              },
+              "respuesta": "E",
+              "explicacion": "La configuración de tareas, conflictos y turnos genera exposición psicosocial."
+            },
+            {
+              "enunciado": "Una trabajadora refiere dolor lumbar por movilizar pacientes sin ayuda ni equipos de transferencia. ¿Qué riesgo predomina en ese caso?",
+              "alternativas": {
+                "A": "Biológico por gotículas",
+                "B": "Ergonómico por carga biomecánica",
+                "C": "Psicosocial por inequidad de turnos",
+                "D": "Físico por radiaciones",
+                "E": "Químico por vapores tóxicos"
+              },
+              "respuesta": "B",
+              "explicacion": "La manipulación manual y posturas de esfuerzo pertenecen principalmente al riesgo ergonómico."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "number": 55,
+      "code": "ENCAPS26-II P055",
+      "course": "Salud materna · lactancia",
+      "topic": "Consejería prenatal en lactancia: respuesta del PDF 32 semanas y programación real más temprana",
+      "comment": "Respuesta marcada en el PDF del usuario, NO cotejada independientemente con la tabla oficial de claves: D. 32 semanas (clave histórica resaltada). Matiz: la consejería no debe posponerse hasta esa semana; el manual MINSA HIS de atención materna propone la primera entre semanas 25–32 y sesiones siguientes entre 33–36 y 37–40.\n\nRAZONAMIENTO\nEl examen solicita completar «gestantes a partir de las … semanas conocen la importancia y manejo de la lactancia materna» y el PDF señala D (32). Sin embargo, no es correcto enseñarlo como el primer momento clínico permisible: la Guía Técnica para la Consejería en Lactancia Materna (RM 462-2015-MINSA) impulsa orientación desde el embarazo y un manual MINSA de registro de atención materna describe 3 consejerías prenatales: primera de las semanas 25 a 32, segunda 33 a 36 y tercera 37 a 40, además de dos en el puerperio. Así, la respuesta D es histórica, pero el comienzo puede preceder las 32 semanas. El objetivo es ganar confianza, identificar mitos, preparar el inicio precoz posparto, afianzar lactancia exclusiva seis meses y mantenerla con alimentación complementaria hasta dos años o más.\n\nTEMARIO\nConsejería prenatal: diálogo empático y adaptado a creencias, preferencias, idioma y experiencias previas de la gestante; promover decisión informada sin coerción.\n\nEn el cuadernillo la clave resaltada es 32 semanas; no confundirla con un límite mínimo de inicio de consejería clínica.\n\nManual HIS de atención materna: primera consejería 25–32 semanas; segunda 33–36; tercera 37–40; seguimiento en puerperio inmediato y consulta posterior.\n\nGuía Técnica para la Consejería en Lactancia Materna aprobada con RM 462-2015-MINSA: criterios conceptuales, metodológicos e instrumentales para asesoramiento pertinente.\n\nContenidos de consejería: beneficios y confianza, agarre, posición, libre demanda, reconocimiento de hambre y saciedad, prevención de grietas y manejo temprano de dificultades.\n\nInicio de lactancia: favorecer contacto piel a piel cuando sea posible, apoyo en la primera hora de vida, alojamiento conjunto y no introducir suplementos sin indicación.\n\nRecomendación general: lactancia materna exclusiva los primeros 6 meses; luego alimentación complementaria adecuada manteniendo lactancia hasta 2 años o más.\n\nPreparación antes del parto: detectar barreras laborales, familiares y de soporte; enseñar expresión manual y medidas básicas de conservación cuando corresponda.\n\nSeguimiento posparto: observar técnica y deglución, control de peso y pañales, red de apoyo y resolución oportuna de problemas de alimentación.\n\nANÁLISIS DE ALTERNATIVAS\nA — 20 semanas puede ser buen momento para comenzar educación antenatal, pero no es la cifra resaltada en el cuadernillo; el enunciado no demuestra imposibilidad de orientar desde entonces.\nB — 24 semanas no es la respuesta marcada; el manual HIS citado ubica el primer bloque sistemático 25–32 semanas.\nC — 28 semanas está dentro del periodo 25–32 del primer bloque de consejería, de modo que también sería admisible como oportunidad clínica; el ítem es ambiguo si exige fecha mínima única.\nD — Es la clave del PDF, pero 32 semanas no debe memorizarse como umbral clínico exclusivo ni retrasar una consejería indicada antes.\n\nFUENTES Y NORMATIVA\nRM N.° 462-2015-MINSA | https://www.gob.pe/institucion/minsa/normas-legales/306121-462-2015-minsa | Aprueba Guía Técnica para Consejería en Lactancia Materna\nMINSA, Guía Técnica para la Consejería en Lactancia Materna | https://www.gob.pe/institucion/minsa/informes-publicaciones/284795-guia-tecnica-para-la-consejeria-en-lactancia-materna | Orientación prenatal y posnatal, técnicas de comunicación y apoyo a la madre\nMINSA, manual HIS atención materna | https://cdn.www.gob.pe/uploads/document/file/7500916/6380803-atencion-materna.pdf?v=1737063217 | Primera consejería de lactancia entre 25–32 semanas, segunda 33–36, tercera 37–40 según documento de registro; no exigir esperar 32\n\nMNEMOTECNIA\nHIS: LACTANCIA 25–32 / 33–36 / 37–40, luego POSPARTO x2. PDF 55 = 32 (ojo: NO iniciar recién allí por norma universal).\n\nTRAMPAS\nLa pregunta confunde inicio clínico de consejería con una semana de un cronograma; es potencialmente ambigua.\nLactancia puede enseñarse desde los controles prenatales; no esperar a 32 semanas si ya se identifica necesidad.\nNo confundir 32 semanas del examen con 14 semanas de suplementación preventiva de hierro en gestación.\nApoyo empático no debe reemplazarse por repetir datos sin evaluar agarre, dificultades y decisiones maternas.\n\nPERLA\nP55 en PDF: D (32 semanas). Práctica MINSA: consejería prenatal programada desde el intervalo 25–32 semanas o antes según necesidad; no retrasar el apoyo.",
+      "pearl": "P55 en PDF: D (32 semanas). Práctica MINSA: consejería prenatal programada desde el intervalo 25–32 semanas o antes según necesidad; no retrasar el apoyo.",
+      "keywords": [
+        "Salud materna · lactancia",
+        "Consejería prenatal en lactancia: respuesta del PDF 32 semanas y programación real más temprana",
+        "ENCAPS 2026-II",
+        "MINSA 276"
+      ],
+      "estadoDesarrollo": "completo",
+      "lesson": {
+        "respuesta_resumida": "D. 32 semanas (clave histórica resaltada). Matiz: la consejería no debe posponerse hasta esa semana; el manual MINSA HIS de atención materna propone la primera entre semanas 25–32 y sesiones siguientes entre 33–36 y 37–40.",
+        "razonamiento": "El examen solicita completar «gestantes a partir de las … semanas conocen la importancia y manejo de la lactancia materna» y el PDF señala D (32). Sin embargo, no es correcto enseñarlo como el primer momento clínico permisible: la Guía Técnica para la Consejería en Lactancia Materna (RM 462-2015-MINSA) impulsa orientación desde el embarazo y un manual MINSA de registro de atención materna describe 3 consejerías prenatales: primera de las semanas 25 a 32, segunda 33 a 36 y tercera 37 a 40, además de dos en el puerperio. Así, la respuesta D es histórica, pero el comienzo puede preceder las 32 semanas. El objetivo es ganar confianza, identificar mitos, preparar el inicio precoz posparto, afianzar lactancia exclusiva seis meses y mantenerla con alimentación complementaria hasta dos años o más.",
+        "temario": [
+          "Consejería prenatal: diálogo empático y adaptado a creencias, preferencias, idioma y experiencias previas de la gestante; promover decisión informada sin coerción.",
+          "En el cuadernillo la clave resaltada es 32 semanas; no confundirla con un límite mínimo de inicio de consejería clínica.",
+          "Manual HIS de atención materna: primera consejería 25–32 semanas; segunda 33–36; tercera 37–40; seguimiento en puerperio inmediato y consulta posterior.",
+          "Guía Técnica para la Consejería en Lactancia Materna aprobada con RM 462-2015-MINSA: criterios conceptuales, metodológicos e instrumentales para asesoramiento pertinente.",
+          "Contenidos de consejería: beneficios y confianza, agarre, posición, libre demanda, reconocimiento de hambre y saciedad, prevención de grietas y manejo temprano de dificultades.",
+          "Inicio de lactancia: favorecer contacto piel a piel cuando sea posible, apoyo en la primera hora de vida, alojamiento conjunto y no introducir suplementos sin indicación.",
+          "Recomendación general: lactancia materna exclusiva los primeros 6 meses; luego alimentación complementaria adecuada manteniendo lactancia hasta 2 años o más.",
+          "Preparación antes del parto: detectar barreras laborales, familiares y de soporte; enseñar expresión manual y medidas básicas de conservación cuando corresponda.",
+          "Seguimiento posparto: observar técnica y deglución, control de peso y pañales, red de apoyo y resolución oportuna de problemas de alimentación."
+        ],
+        "por_que_no_las_otras": {
+          "A": "20 semanas puede ser buen momento para comenzar educación antenatal, pero no es la cifra resaltada en el cuadernillo; el enunciado no demuestra imposibilidad de orientar desde entonces.",
+          "B": "24 semanas no es la respuesta marcada; el manual HIS citado ubica el primer bloque sistemático 25–32 semanas.",
+          "C": "28 semanas está dentro del periodo 25–32 del primer bloque de consejería, de modo que también sería admisible como oportunidad clínica; el ítem es ambiguo si exige fecha mínima única.",
+          "D": "Es la clave del PDF, pero 32 semanas no debe memorizarse como umbral clínico exclusivo ni retrasar una consejería indicada antes."
+        },
+        "normativa": [
+          "RM N.° 462-2015-MINSA | https://www.gob.pe/institucion/minsa/normas-legales/306121-462-2015-minsa | Aprueba Guía Técnica para Consejería en Lactancia Materna",
+          "MINSA, Guía Técnica para la Consejería en Lactancia Materna | https://www.gob.pe/institucion/minsa/informes-publicaciones/284795-guia-tecnica-para-la-consejeria-en-lactancia-materna | Orientación prenatal y posnatal, técnicas de comunicación y apoyo a la madre",
+          "MINSA, manual HIS atención materna | https://cdn.www.gob.pe/uploads/document/file/7500916/6380803-atencion-materna.pdf?v=1737063217 | Primera consejería de lactancia entre 25–32 semanas, segunda 33–36, tercera 37–40 según documento de registro; no exigir esperar 32"
+        ],
+        "mnemotecnia": "HIS: LACTANCIA 25–32 / 33–36 / 37–40, luego POSPARTO x2. PDF 55 = 32 (ojo: NO iniciar recién allí por norma universal).",
+        "trampas": [
+          "La pregunta confunde inicio clínico de consejería con una semana de un cronograma; es potencialmente ambigua.",
+          "Lactancia puede enseñarse desde los controles prenatales; no esperar a 32 semanas si ya se identifica necesidad.",
+          "No confundir 32 semanas del examen con 14 semanas de suplementación preventiva de hierro en gestación.",
+          "Apoyo empático no debe reemplazarse por repetir datos sin evaluar agarre, dificultades y decisiones maternas."
+        ],
+        "perla": "P55 en PDF: D (32 semanas). Práctica MINSA: consejería prenatal programada desde el intervalo 25–32 semanas o antes según necesidad; no retrasar el apoyo.",
+        "repaso_activo": [
+          "¿Qué clave tiene la P55? — D, 32 semanas; reconocer la ambigüedad.",
+          "¿Cuándo está programada la primera consejería del manual HIS? — Entre 25 y 32 semanas.",
+          "¿Qué duración se recomienda para lactancia exclusiva? — Seis meses.",
+          "¿Qué reforzar antes del parto? — Confianza, agarre, señales del bebé y apoyo familiar."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Gestante de 27 semanas solicita orientación sobre lactancia y teme no producir leche. ¿Qué conducta es la más adecuada?",
+            "alternativas": {
+              "A": "Indicar que vuelva cuando cumpla exactamente 32 semanas",
+              "B": "Postergar toda información hasta el primer control posparto",
+              "C": "Evitar la conversación porque no ha nacido el bebé",
+              "D": "Brindar consejería empática prenatal desde esta visita",
+              "E": "Prescribir fórmula como medida de prevención de dificultades"
+            },
+            "respuesta": "D",
+            "explicacion": "La educación puede brindarse ya; 27 semanas cae en el intervalo del primer bloque descrito en el manual HIS."
+          },
+          {
+            "enunciado": "En el seguimiento del puerperio, una madre pregunta hasta qué edad debe mantenerse exclusivamente la leche materna, sin otros líquidos ni alimentos salvo indicación médica. ¿Qué respuesta es correcta?",
+            "alternativas": {
+              "A": "Hasta completar los 6 meses de vida",
+              "B": "Solo durante las primeras cuatro semanas",
+              "C": "Hasta las dos primeras semanas del posparto",
+              "D": "Hasta iniciar el primer control de crecimiento",
+              "E": "Hasta los dos años como alimentación exclusiva"
+            },
+            "respuesta": "A",
+            "explicacion": "La recomendación general es lactancia materna exclusiva seis meses; después complementación adecuada y mantenimiento de lactancia."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Consejería prenatal en lactancia: respuesta del PDF 32 semanas y programación real más temprana",
+          "eje": "Salud materna · lactancia",
+          "confiabilidad": "clave_resaltada_con_matiz_normativo_y_ambiguedad",
+          "respuesta_resumida": "D. 32 semanas (clave histórica resaltada). Matiz: la consejería no debe posponerse hasta esa semana; el manual MINSA HIS de atención materna propone la primera entre semanas 25–32 y sesiones siguientes entre 33–36 y 37–40.",
+          "razonamiento": [
+            "El examen solicita completar «gestantes a partir de las … semanas conocen la importancia y manejo de la lactancia materna» y el PDF señala D (32). Sin embargo, no es correcto enseñarlo como el primer momento clínico permisible: la Guía Técnica para la Consejería en Lactancia Materna (RM 462-2015-MINSA) impulsa orientación desde el embarazo y un manual MINSA de registro de atención materna describe 3 consejerías prenatales: primera de las semanas 25 a 32, segunda 33 a 36 y tercera 37 a 40, además de dos en el puerperio. Así, la respuesta D es histórica, pero el comienzo puede preceder las 32 semanas. El objetivo es ganar confianza, identificar mitos, preparar el inicio precoz posparto, afianzar lactancia exclusiva seis meses y mantenerla con alimentación complementaria hasta dos años o más."
+          ],
+          "temario": [
+            "Consejería prenatal: diálogo empático y adaptado a creencias, preferencias, idioma y experiencias previas de la gestante; promover decisión informada sin coerción.",
+            "En el cuadernillo la clave resaltada es 32 semanas; no confundirla con un límite mínimo de inicio de consejería clínica.",
+            "Manual HIS de atención materna: primera consejería 25–32 semanas; segunda 33–36; tercera 37–40; seguimiento en puerperio inmediato y consulta posterior.",
+            "Guía Técnica para la Consejería en Lactancia Materna aprobada con RM 462-2015-MINSA: criterios conceptuales, metodológicos e instrumentales para asesoramiento pertinente.",
+            "Contenidos de consejería: beneficios y confianza, agarre, posición, libre demanda, reconocimiento de hambre y saciedad, prevención de grietas y manejo temprano de dificultades.",
+            "Inicio de lactancia: favorecer contacto piel a piel cuando sea posible, apoyo en la primera hora de vida, alojamiento conjunto y no introducir suplementos sin indicación.",
+            "Recomendación general: lactancia materna exclusiva los primeros 6 meses; luego alimentación complementaria adecuada manteniendo lactancia hasta 2 años o más.",
+            "Preparación antes del parto: detectar barreras laborales, familiares y de soporte; enseñar expresión manual y medidas básicas de conservación cuando corresponda.",
+            "Seguimiento posparto: observar técnica y deglución, control de peso y pañales, red de apoyo y resolución oportuna de problemas de alimentación."
+          ],
+          "distractores": {
+            "A": "20 semanas puede ser buen momento para comenzar educación antenatal, pero no es la cifra resaltada en el cuadernillo; el enunciado no demuestra imposibilidad de orientar desde entonces.",
+            "B": "24 semanas no es la respuesta marcada; el manual HIS citado ubica el primer bloque sistemático 25–32 semanas.",
+            "C": "28 semanas está dentro del periodo 25–32 del primer bloque de consejería, de modo que también sería admisible como oportunidad clínica; el ítem es ambiguo si exige fecha mínima única.",
+            "D": "Es la clave del PDF, pero 32 semanas no debe memorizarse como umbral clínico exclusivo ni retrasar una consejería indicada antes."
+          },
+          "normativa": [
+            {
+              "nombre": "RM N.° 462-2015-MINSA",
+              "url": "https://www.gob.pe/institucion/minsa/normas-legales/306121-462-2015-minsa",
+              "aplicacion": "Aprueba Guía Técnica para Consejería en Lactancia Materna"
+            },
+            {
+              "nombre": "MINSA, Guía Técnica para la Consejería en Lactancia Materna",
+              "url": "https://www.gob.pe/institucion/minsa/informes-publicaciones/284795-guia-tecnica-para-la-consejeria-en-lactancia-materna",
+              "aplicacion": "Orientación prenatal y posnatal, técnicas de comunicación y apoyo a la madre"
+            },
+            {
+              "nombre": "MINSA, manual HIS atención materna",
+              "url": "https://cdn.www.gob.pe/uploads/document/file/7500916/6380803-atencion-materna.pdf?v=1737063217",
+              "aplicacion": "Primera consejería de lactancia entre 25–32 semanas, segunda 33–36, tercera 37–40 según documento de registro; no exigir esperar 32"
+            }
+          ],
+          "mnemotecnia": "HIS: LACTANCIA 25–32 / 33–36 / 37–40, luego POSPARTO x2. PDF 55 = 32 (ojo: NO iniciar recién allí por norma universal).",
+          "trampas": [
+            "La pregunta confunde inicio clínico de consejería con una semana de un cronograma; es potencialmente ambigua.",
+            "Lactancia puede enseñarse desde los controles prenatales; no esperar a 32 semanas si ya se identifica necesidad.",
+            "No confundir 32 semanas del examen con 14 semanas de suplementación preventiva de hierro en gestación.",
+            "Apoyo empático no debe reemplazarse por repetir datos sin evaluar agarre, dificultades y decisiones maternas."
+          ],
+          "perla": "P55 en PDF: D (32 semanas). Práctica MINSA: consejería prenatal programada desde el intervalo 25–32 semanas o antes según necesidad; no retrasar el apoyo.",
+          "repaso_activo": [
+            "¿Qué clave tiene la P55? — D, 32 semanas; reconocer la ambigüedad.",
+            "¿Cuándo está programada la primera consejería del manual HIS? — Entre 25 y 32 semanas.",
+            "¿Qué duración se recomienda para lactancia exclusiva? — Seis meses.",
+            "¿Qué reforzar antes del parto? — Confianza, agarre, señales del bebé y apoyo familiar."
+          ],
+          "refuerzo": [
+            {
+              "enunciado": "Gestante de 27 semanas solicita orientación sobre lactancia y teme no producir leche. ¿Qué conducta es la más adecuada?",
+              "alternativas": {
+                "A": "Indicar que vuelva cuando cumpla exactamente 32 semanas",
+                "B": "Postergar toda información hasta el primer control posparto",
+                "C": "Evitar la conversación porque no ha nacido el bebé",
+                "D": "Brindar consejería empática prenatal desde esta visita",
+                "E": "Prescribir fórmula como medida de prevención de dificultades"
+              },
+              "respuesta": "D",
+              "explicacion": "La educación puede brindarse ya; 27 semanas cae en el intervalo del primer bloque descrito en el manual HIS."
+            },
+            {
+              "enunciado": "En el seguimiento del puerperio, una madre pregunta hasta qué edad debe mantenerse exclusivamente la leche materna, sin otros líquidos ni alimentos salvo indicación médica. ¿Qué respuesta es correcta?",
+              "alternativas": {
+                "A": "Hasta completar los 6 meses de vida",
+                "B": "Solo durante las primeras cuatro semanas",
+                "C": "Hasta las dos primeras semanas del posparto",
+                "D": "Hasta iniciar el primer control de crecimiento",
+                "E": "Hasta los dos años como alimentación exclusiva"
+              },
+              "respuesta": "A",
+              "explicacion": "La recomendación general es lactancia materna exclusiva seis meses; después complementación adecuada y mantenimiento de lactancia."
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
