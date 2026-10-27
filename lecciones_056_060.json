@@ -1,0 +1,868 @@
+{
+  "schemaVersion": 1,
+  "bankId": "ENCAPS_2026_II",
+  "source": "Cuadernillo ENCAPS/SERUMS Medicina 2026-II de usuario y MINSA, OPS, INEI; revisión técnica 27/10/2026",
+  "note": "Códigos/claves históricos mantenidos. P57: C Ministerio Público es clave del PDF, no retrasar urgencia por autorización fiscal. P59: D prioridad III, interpretar según estado clínico y RM 625-2026. Preguntas 11–35 recuperadas del banco histórico anterior.",
+  "questions": [
+    {
+      "number": 56,
+      "code": "ENCAPS26-II P056",
+      "course": "Investigación científica · metodología",
+      "topic": "El método científico como pensamiento reflexivo ordenado",
+      "options": {
+        "A": "Sistematización metodológica",
+        "B": "Método científico",
+        "C": "Investigación científica",
+        "D": "Identificación del área problema"
+      },
+      "comment": "CLAVE MARCADA PDF, aún no cotejada independientemente con clave oficial: B. Método científico. Es el conjunto de procedimientos sistemáticos para formular preguntas, contrastar explicaciones con evidencia y comunicar resultados verificables.\n\nRAZONAMIENTO\nLa frase «manera ordenada de desarrollar el pensamiento reflexivo y de investigación» describe al método científico. Investigar requiere observación, delimitación del problema, objetivos o hipótesis según el tipo de estudio, selección de diseño, recolección y análisis de evidencia y comunicación de conclusiones. El método no se identifica con la simple elaboración de una lista ni con una disciplina particular; la investigación científica es el proceso amplio que utiliza dichos métodos para producir nuevo conocimiento. No todas las investigaciones exigen experimento ni hipótesis estadística; se elige el enfoque en función de la pregunta. La clave B coincide con el cuadernillo.\n\nDESARROLLO DEL TEMARIO\nObservación y pregunta: reconocer un problema de salud, delimitando población, contexto, variable o fenómeno y conocimiento disponible.\n\nMarco conceptual y revisión bibliográfica: identificar lo sabido y la brecha de evidencia; evitar formular preguntas imposibles de medir.\n\nHipótesis y objetivos: pueden ser explicativos y comprobables en estudios analíticos; en investigación exploratoria o cualitativa las preguntas abiertas también son válidas.\n\nDiseño congruente: descriptivo, observacional analítico, experimental, cualitativo, mixto o de implementación; no existe un único diseño para todas las preguntas.\n\nOperacionalización: definir variables, instrumentos y criterios de medición; control de sesgo y calidad del dato.\n\nAnálisis: describir e interpretar resultados utilizando estadística o análisis cualitativo según la fuente, sin asumir causalidad cuando el diseño no permite inferirla.\n\nÉtica de la investigación: balance beneficio-riesgo, protección de datos, consentimiento y revisión ética según corresponda.\n\nComunicación crítica: reportar métodos, resultados, incertidumbre, limitaciones, reproducibilidad e implicancias sanitarias.\n\nDiferenciar método de metodología: método son pasos y procedimientos; metodología examina y justifica elección de métodos y su adecuación.\n\nANÁLISIS DE ALTERNATIVAS\nA. Sistematización metodológica alude a ordenar procedimientos o experiencias, pero no es el nombre general de la vía científica para desarrollar pensamiento y contrastar conocimiento.\nB. Correcta: el método científico organiza el pensamiento reflexivo y la obtención y contraste de evidencia.\nC. Investigación científica es la actividad general para producir conocimiento utilizando métodos; el ítem pide el procedimiento ordenado en sí.\nD. Identificar el área problema es una fase inicial del proceso, no todo el método.\n\nNORMATIVA Y FUENTES\nOPS/OMS, Investigación para la salud | https://www.paho.org/es/temas/investigacion | Investigación sistemática genera evidencia para comprender y afrontar problemas sanitarios\nOMS, Health Research Methodology: guide for training in research methods | https://iris.who.int/handle/10665/206929 | Planteamiento de problemas, diseños, recolección de datos y evaluación crítica\nOPS, enfoque sistemático para prioridades de investigación (2021) | https://www.paho.org/es/documentos/enfoque-sistematico-para-realizar-ejercicio-establecimiento-prioridades-investigacion | Transparencia, ética, evidencia y aplicación ordenada\n\nMNEMOTECNIA\nMÉTODO = PREGUNTAR → PLANEAR → MEDIR → ANALIZAR → COMUNICAR.\n\nTRAMPAS\nConfundir el proceso amplio de investigación con el método utilizado para llevarlo a cabo.\nCreer que método científico siempre significa experimentación: admite estudios observacionales y cualitativos.\nUna hipótesis no comprobada no autoriza convertir asociación en causalidad.\nEl análisis estadístico es una herramienta, no toda la metodología.\n\nPERLA\n«Pensamiento reflexivo ORDENADO + investigación» = MÉTODO CIENTÍFICO (B).",
+      "pearl": "«Pensamiento reflexivo ORDENADO + investigación» = MÉTODO CIENTÍFICO (B).",
+      "keywords": [
+        "Investigación científica · metodología",
+        "El método científico como pensamiento reflexivo ordenado",
+        "ENCAPS 2026-II",
+        "MINSA 276"
+      ],
+      "estadoDesarrollo": "completo",
+      "lesson": {
+        "respuesta_resumida": "B. Método científico. Es el conjunto de procedimientos sistemáticos para formular preguntas, contrastar explicaciones con evidencia y comunicar resultados verificables.",
+        "razonamiento": "La frase «manera ordenada de desarrollar el pensamiento reflexivo y de investigación» describe al método científico. Investigar requiere observación, delimitación del problema, objetivos o hipótesis según el tipo de estudio, selección de diseño, recolección y análisis de evidencia y comunicación de conclusiones. El método no se identifica con la simple elaboración de una lista ni con una disciplina particular; la investigación científica es el proceso amplio que utiliza dichos métodos para producir nuevo conocimiento. No todas las investigaciones exigen experimento ni hipótesis estadística; se elige el enfoque en función de la pregunta. La clave B coincide con el cuadernillo.",
+        "temario": [
+          "Observación y pregunta: reconocer un problema de salud, delimitando población, contexto, variable o fenómeno y conocimiento disponible.",
+          "Marco conceptual y revisión bibliográfica: identificar lo sabido y la brecha de evidencia; evitar formular preguntas imposibles de medir.",
+          "Hipótesis y objetivos: pueden ser explicativos y comprobables en estudios analíticos; en investigación exploratoria o cualitativa las preguntas abiertas también son válidas.",
+          "Diseño congruente: descriptivo, observacional analítico, experimental, cualitativo, mixto o de implementación; no existe un único diseño para todas las preguntas.",
+          "Operacionalización: definir variables, instrumentos y criterios de medición; control de sesgo y calidad del dato.",
+          "Análisis: describir e interpretar resultados utilizando estadística o análisis cualitativo según la fuente, sin asumir causalidad cuando el diseño no permite inferirla.",
+          "Ética de la investigación: balance beneficio-riesgo, protección de datos, consentimiento y revisión ética según corresponda.",
+          "Comunicación crítica: reportar métodos, resultados, incertidumbre, limitaciones, reproducibilidad e implicancias sanitarias.",
+          "Diferenciar método de metodología: método son pasos y procedimientos; metodología examina y justifica elección de métodos y su adecuación."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Sistematización metodológica alude a ordenar procedimientos o experiencias, pero no es el nombre general de la vía científica para desarrollar pensamiento y contrastar conocimiento.",
+          "B": "Correcta: el método científico organiza el pensamiento reflexivo y la obtención y contraste de evidencia.",
+          "C": "Investigación científica es la actividad general para producir conocimiento utilizando métodos; el ítem pide el procedimiento ordenado en sí.",
+          "D": "Identificar el área problema es una fase inicial del proceso, no todo el método."
+        },
+        "normativa": [
+          "OPS/OMS, Investigación para la salud | https://www.paho.org/es/temas/investigacion | Investigación sistemática genera evidencia para comprender y afrontar problemas sanitarios",
+          "OMS, Health Research Methodology: guide for training in research methods | https://iris.who.int/handle/10665/206929 | Planteamiento de problemas, diseños, recolección de datos y evaluación crítica",
+          "OPS, enfoque sistemático para prioridades de investigación (2021) | https://www.paho.org/es/documentos/enfoque-sistematico-para-realizar-ejercicio-establecimiento-prioridades-investigacion | Transparencia, ética, evidencia y aplicación ordenada"
+        ],
+        "mnemotecnia": "MÉTODO = PREGUNTAR → PLANEAR → MEDIR → ANALIZAR → COMUNICAR.",
+        "trampas": [
+          "Confundir el proceso amplio de investigación con el método utilizado para llevarlo a cabo.",
+          "Creer que método científico siempre significa experimentación: admite estudios observacionales y cualitativos.",
+          "Una hipótesis no comprobada no autoriza convertir asociación en causalidad.",
+          "El análisis estadístico es una herramienta, no toda la metodología."
+        ],
+        "perla": "«Pensamiento reflexivo ORDENADO + investigación» = MÉTODO CIENTÍFICO (B).",
+        "repaso_activo": [
+          "¿Qué alternativa corresponde al proceso ordenado? — Método científico.",
+          "¿Puede el método aplicarse a investigación cualitativa? — Sí.",
+          "¿Qué diferencia hay con identificar el problema? — La identificación es una fase del método.",
+          "¿Un estudio descriptivo prueba causalidad? — No; genera caracterización e hipótesis."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Un centro de salud desea evaluar si una nueva estrategia reduce el abandono de tratamiento. Define pregunta, indicadores, grupo comparador, método de análisis y plan ético. ¿Qué proceso está aplicando?",
+            "alternativas": {
+              "A": "Sistematización documental sin contraste",
+              "B": "Método científico con diseño apropiado",
+              "C": "Registro administrativo sin evaluación",
+              "D": "Únicamente una auditoría presupuestal",
+              "E": "Clasificación de una variable nominal"
+            },
+            "respuesta": "B",
+            "explicacion": "La secuencia pregunta-diseño-medición-análisis evidencia un método de investigación."
+          },
+          {
+            "enunciado": "Un investigador entrevista a familias para comprender por qué rechazan la vacunación. ¿Qué afirmación es correcta?",
+            "alternativas": {
+              "A": "La ausencia de un experimento impide generar conocimiento",
+              "B": "Solo son válidas las muestras de tamaño nacional",
+              "C": "La estadística paramétrica es obligatoria en todo estudio",
+              "D": "Los datos cualitativos pueden analizarse sistemáticamente",
+              "E": "El consentimiento es irrelevante por ser entrevistas"
+            },
+            "respuesta": "D",
+            "explicacion": "El método científico también contempla investigación cualitativa rigurosa."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "El método científico como pensamiento reflexivo ordenado",
+          "eje": "Investigación científica · metodología",
+          "confiabilidad": "clave_resaltada_fundamento_concordante",
+          "respuesta_resumida": "B. Método científico. Es el conjunto de procedimientos sistemáticos para formular preguntas, contrastar explicaciones con evidencia y comunicar resultados verificables.",
+          "razonamiento": [
+            "La frase «manera ordenada de desarrollar el pensamiento reflexivo y de investigación» describe al método científico. Investigar requiere observación, delimitación del problema, objetivos o hipótesis según el tipo de estudio, selección de diseño, recolección y análisis de evidencia y comunicación de conclusiones. El método no se identifica con la simple elaboración de una lista ni con una disciplina particular; la investigación científica es el proceso amplio que utiliza dichos métodos para producir nuevo conocimiento. No todas las investigaciones exigen experimento ni hipótesis estadística; se elige el enfoque en función de la pregunta. La clave B coincide con el cuadernillo."
+          ],
+          "temario": [
+            "Observación y pregunta: reconocer un problema de salud, delimitando población, contexto, variable o fenómeno y conocimiento disponible.",
+            "Marco conceptual y revisión bibliográfica: identificar lo sabido y la brecha de evidencia; evitar formular preguntas imposibles de medir.",
+            "Hipótesis y objetivos: pueden ser explicativos y comprobables en estudios analíticos; en investigación exploratoria o cualitativa las preguntas abiertas también son válidas.",
+            "Diseño congruente: descriptivo, observacional analítico, experimental, cualitativo, mixto o de implementación; no existe un único diseño para todas las preguntas.",
+            "Operacionalización: definir variables, instrumentos y criterios de medición; control de sesgo y calidad del dato.",
+            "Análisis: describir e interpretar resultados utilizando estadística o análisis cualitativo según la fuente, sin asumir causalidad cuando el diseño no permite inferirla.",
+            "Ética de la investigación: balance beneficio-riesgo, protección de datos, consentimiento y revisión ética según corresponda.",
+            "Comunicación crítica: reportar métodos, resultados, incertidumbre, limitaciones, reproducibilidad e implicancias sanitarias.",
+            "Diferenciar método de metodología: método son pasos y procedimientos; metodología examina y justifica elección de métodos y su adecuación."
+          ],
+          "distractores": {
+            "A": "Sistematización metodológica alude a ordenar procedimientos o experiencias, pero no es el nombre general de la vía científica para desarrollar pensamiento y contrastar conocimiento.",
+            "B": "Correcta: el método científico organiza el pensamiento reflexivo y la obtención y contraste de evidencia.",
+            "C": "Investigación científica es la actividad general para producir conocimiento utilizando métodos; el ítem pide el procedimiento ordenado en sí.",
+            "D": "Identificar el área problema es una fase inicial del proceso, no todo el método."
+          },
+          "normativa": [
+            {
+              "nombre": "OPS/OMS, Investigación para la salud",
+              "url": "https://www.paho.org/es/temas/investigacion",
+              "aplicacion": "Investigación sistemática genera evidencia para comprender y afrontar problemas sanitarios"
+            },
+            {
+              "nombre": "OMS, Health Research Methodology: guide for training in research methods",
+              "url": "https://iris.who.int/handle/10665/206929",
+              "aplicacion": "Planteamiento de problemas, diseños, recolección de datos y evaluación crítica"
+            },
+            {
+              "nombre": "OPS, enfoque sistemático para prioridades de investigación (2021)",
+              "url": "https://www.paho.org/es/documentos/enfoque-sistematico-para-realizar-ejercicio-establecimiento-prioridades-investigacion",
+              "aplicacion": "Transparencia, ética, evidencia y aplicación ordenada"
+            }
+          ],
+          "mnemotecnia": "MÉTODO = PREGUNTAR → PLANEAR → MEDIR → ANALIZAR → COMUNICAR.",
+          "trampas": [
+            "Confundir el proceso amplio de investigación con el método utilizado para llevarlo a cabo.",
+            "Creer que método científico siempre significa experimentación: admite estudios observacionales y cualitativos.",
+            "Una hipótesis no comprobada no autoriza convertir asociación en causalidad.",
+            "El análisis estadístico es una herramienta, no toda la metodología."
+          ],
+          "perla": "«Pensamiento reflexivo ORDENADO + investigación» = MÉTODO CIENTÍFICO (B).",
+          "repaso_activo": [
+            "¿Qué alternativa corresponde al proceso ordenado? — Método científico.",
+            "¿Puede el método aplicarse a investigación cualitativa? — Sí.",
+            "¿Qué diferencia hay con identificar el problema? — La identificación es una fase del método.",
+            "¿Un estudio descriptivo prueba causalidad? — No; genera caracterización e hipótesis."
+          ],
+          "refuerzo": [
+            {
+              "enunciado": "Un centro de salud desea evaluar si una nueva estrategia reduce el abandono de tratamiento. Define pregunta, indicadores, grupo comparador, método de análisis y plan ético. ¿Qué proceso está aplicando?",
+              "alternativas": {
+                "A": "Sistematización documental sin contraste",
+                "B": "Método científico con diseño apropiado",
+                "C": "Registro administrativo sin evaluación",
+                "D": "Únicamente una auditoría presupuestal",
+                "E": "Clasificación de una variable nominal"
+              },
+              "respuesta": "B",
+              "explicacion": "La secuencia pregunta-diseño-medición-análisis evidencia un método de investigación."
+            },
+            {
+              "enunciado": "Un investigador entrevista a familias para comprender por qué rechazan la vacunación. ¿Qué afirmación es correcta?",
+              "alternativas": {
+                "A": "La ausencia de un experimento impide generar conocimiento",
+                "B": "Solo son válidas las muestras de tamaño nacional",
+                "C": "La estadística paramétrica es obligatoria en todo estudio",
+                "D": "Los datos cualitativos pueden analizarse sistemáticamente",
+                "E": "El consentimiento es irrelevante por ser entrevistas"
+              },
+              "respuesta": "D",
+              "explicacion": "El método científico también contempla investigación cualitativa rigurosa."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "number": 57,
+      "code": "ENCAPS26-II P057",
+      "course": "Emergencias neurológicas · ética clínica",
+      "topic": "ACV agudo con negativa de familiar: capacidad y referencia inmediata",
+      "options": {
+        "A": "Citarlo para el día siguiente",
+        "B": "Explicar que no perderá su derecho de atención",
+        "C": "Solicitar la intervención del ministerio público",
+        "D": "Obligar a que acepte la referencia"
+      },
+      "comment": "CLAVE MARCADA PDF, aún no cotejada independientemente con clave oficial: C. Solicitar intervención del Ministerio Público (clave histórica). Advertencia: ante un ACV, no se debe demorar la estabilización ni la transferencia necesaria esperando una autorización fiscal; la intervención fiscal no es un requisito universal.\n\nRAZONAMIENTO\nLa paciente de 66 años tiene signos FAST de ACV: asimetría facial, debilidad unilateral y dificultad del lenguaje de inicio súbito. Es emergencia con tiempo crítico. El enunciado afirma que un familiar rechaza la referencia, pero no aclara si la propia paciente tiene capacidad de decisión, si puede expresar voluntad o si el familiar es su representante legal. El PDF marca «solicitar intervención del Ministerio Público», opción C; podría entenderse como búsqueda de salvaguardias legales cuando un representante impide atención vital. Sin embargo, la regla general del DS 027-2015-SA es respetar la decisión informada de un adulto capaz, y las emergencias justifican atención inmediata bajo excepciones legales cuando no puede obtenerse consentimiento válido. El médico debe evaluar capacidad, explicar riesgos y alternativas, documentar, estabilizar y coordinar referencia con el equipo receptor. No debe forzar mecánicamente una transferencia ni retrasarla por esperar a Fiscalía. Dado que el caso no precisa capacidad y representación, es un ítem ambiguo como guía de conducta.\n\nDESARROLLO DEL TEMARIO\nDiagnóstico sindrómico: déficit neurológico focal súbito = sospecha ACV hasta demostrar lo contrario; FAST/CARA: cara desviada, brazo débil, habla alterada, tiempo crítico.\n\nPrimer contacto: ABC, glucemia capilar (hipoglucemia puede simular ACV), signos vitales, hora exacta del último momento sano, evaluación neurológica y prevención de aspiración.\n\nTiempo-dependencia: activar ruta de ictus, comunicación con centro resolutivo y traslado seguro; neuroimagen descarta hemorragia antes de terapia específica.\n\nAdulto con capacidad: informar de riesgo de muerte y discapacidad, alternativas y urgencia, solicitar consentimiento de la paciente directamente; un familiar no puede sustituir su voluntad porque discrepe.\n\nCapacidad de decisión: valorar comprensión, apreciación de consecuencias, razonamiento y expresión de elección en la decisión concreta. Afasia no significa automáticamente falta de capacidad; adaptar comunicación.\n\nSi existe incapacidad transitoria para decidir y urgencia vital: aplicar excepciones legalmente pertinentes al consentimiento, brindar medidas inmediatas y coordinar traslado según normas del establecimiento y situación.\n\nNegativa de representante que perjudica a paciente incapaz: documentar y usar mecanismos de protección/autoridades cuando sean pertinentes, SIN obstaculizar intervenciones urgentes legalmente permitidas.\n\nComunicación y registro: explicar riesgo de secuelas, dejar hora, examen, decisiones, interlocutores y justificación de actuación en historia clínica.\n\nOpciones del examen: A posterga una emergencia; B no resuelve oposición; D «obligar» indiscriminadamente no es ético/legal. C es el resaltado, pero no una obligación automática ni condición previa para referir.\n\nANÁLISIS DE ALTERNATIVAS\nA. Citar al día siguiente desperdicia tiempo terapéutico y expone a secuelas irreversibles; contraindicado en sospecha de ACV.\nB. Informar sobre derechos es importante, pero la frase propuesta no aborda capacidad, rechazo de referencia ni intervención de emergencia.\nC. Es la clave del cuadernillo. Puede considerarse contacto de protección legal ante rechazo del representante si existe conflicto grave, pero no reemplaza el criterio de urgencia ni debe retrasar traslado.\nD. La imposición indiscriminada de una referencia vulneraría autonomía; deben aplicarse criterios de capacidad, representación y excepción de emergencia.\n\nNORMATIVA Y FUENTES\nMINSA, señales clave del ACV (30/04/2026) | https://www.gob.pe/institucion/minsa/noticias/1386284-minsa-reconocer-tres-senales-clave-del-acv-puede-salvar-vidas | Asimetría facial, debilidad y dificultad del habla: emergencia inmediata\nDS N.° 027-2015-SA, Reglamento de Ley N.° 29414 | https://busquedas.elperuano.pe/dispositivo/NL/1273843-3 | Consentimiento, representación, traslado y excepción de emergencia\nLey N.° 26842, General de Salud, artículos 3 y 4 | https://lpderecho.pe/ley-general-salud-ley-26842/ | Atención de emergencias y excepciones de consentimiento\nDefensoría del Pueblo, consentimiento informado | https://www.defensoria.gob.pe/blog/consentimiento-informado-comparte-tus-derechos/ | En emergencias con riesgo vital se puede prescindir del consentimiento en circunstancias legales\nMINSA, orientación ACV 2026 | https://www.gob.pe/48976 | Reconocimiento y derivación urgente a atención resolutiva\n\nMNEMOTECNIA\nACV = CARA + BRAZO + HABLA → TIEMPO. RECHAZO: CAPACIDAD → INFORMAR → DOCUMENTAR → ACCIÓN URGENTE.\n\nTRAMPAS\nUn familiar no puede negar por sí mismo la atención de una paciente adulta que conserva capacidad de decisión.\nAlteración del habla no es idéntica a incompetencia; valorar comprensión y comunicación asistida.\nEl examen marca Ministerio Público, pero no existe necesidad universal de intervención fiscal previa al traslado de emergencia.\nNo confundir consentimiento informado con autorización judicial o fiscal obligatoria.\nNo retrasar neuroimagen ni ruta de ictus por conflictos administrativos; seguir normativa vigente.\n\nPERLA\nP57: PDF C, pero PRIORIDAD CLÍNICA = ACV → EMERGENCIA. Determinar capacidad de la paciente y no esperar trámite fiscal para actuar ante riesgo vital.",
+      "pearl": "P57: PDF C, pero PRIORIDAD CLÍNICA = ACV → EMERGENCIA. Determinar capacidad de la paciente y no esperar trámite fiscal para actuar ante riesgo vital.",
+      "keywords": [
+        "Emergencias neurológicas · ética clínica",
+        "ACV agudo con negativa de familiar: capacidad y referencia inmediata",
+        "ENCAPS 2026-II",
+        "MINSA 276"
+      ],
+      "estadoDesarrollo": "completo",
+      "lesson": {
+        "respuesta_resumida": "C. Solicitar intervención del Ministerio Público (clave histórica). Advertencia: ante un ACV, no se debe demorar la estabilización ni la transferencia necesaria esperando una autorización fiscal; la intervención fiscal no es un requisito universal.",
+        "razonamiento": "La paciente de 66 años tiene signos FAST de ACV: asimetría facial, debilidad unilateral y dificultad del lenguaje de inicio súbito. Es emergencia con tiempo crítico. El enunciado afirma que un familiar rechaza la referencia, pero no aclara si la propia paciente tiene capacidad de decisión, si puede expresar voluntad o si el familiar es su representante legal. El PDF marca «solicitar intervención del Ministerio Público», opción C; podría entenderse como búsqueda de salvaguardias legales cuando un representante impide atención vital. Sin embargo, la regla general del DS 027-2015-SA es respetar la decisión informada de un adulto capaz, y las emergencias justifican atención inmediata bajo excepciones legales cuando no puede obtenerse consentimiento válido. El médico debe evaluar capacidad, explicar riesgos y alternativas, documentar, estabilizar y coordinar referencia con el equipo receptor. No debe forzar mecánicamente una transferencia ni retrasarla por esperar a Fiscalía. Dado que el caso no precisa capacidad y representación, es un ítem ambiguo como guía de conducta.",
+        "temario": [
+          "Diagnóstico sindrómico: déficit neurológico focal súbito = sospecha ACV hasta demostrar lo contrario; FAST/CARA: cara desviada, brazo débil, habla alterada, tiempo crítico.",
+          "Primer contacto: ABC, glucemia capilar (hipoglucemia puede simular ACV), signos vitales, hora exacta del último momento sano, evaluación neurológica y prevención de aspiración.",
+          "Tiempo-dependencia: activar ruta de ictus, comunicación con centro resolutivo y traslado seguro; neuroimagen descarta hemorragia antes de terapia específica.",
+          "Adulto con capacidad: informar de riesgo de muerte y discapacidad, alternativas y urgencia, solicitar consentimiento de la paciente directamente; un familiar no puede sustituir su voluntad porque discrepe.",
+          "Capacidad de decisión: valorar comprensión, apreciación de consecuencias, razonamiento y expresión de elección en la decisión concreta. Afasia no significa automáticamente falta de capacidad; adaptar comunicación.",
+          "Si existe incapacidad transitoria para decidir y urgencia vital: aplicar excepciones legalmente pertinentes al consentimiento, brindar medidas inmediatas y coordinar traslado según normas del establecimiento y situación.",
+          "Negativa de representante que perjudica a paciente incapaz: documentar y usar mecanismos de protección/autoridades cuando sean pertinentes, SIN obstaculizar intervenciones urgentes legalmente permitidas.",
+          "Comunicación y registro: explicar riesgo de secuelas, dejar hora, examen, decisiones, interlocutores y justificación de actuación en historia clínica.",
+          "Opciones del examen: A posterga una emergencia; B no resuelve oposición; D «obligar» indiscriminadamente no es ético/legal. C es el resaltado, pero no una obligación automática ni condición previa para referir."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Citar al día siguiente desperdicia tiempo terapéutico y expone a secuelas irreversibles; contraindicado en sospecha de ACV.",
+          "B": "Informar sobre derechos es importante, pero la frase propuesta no aborda capacidad, rechazo de referencia ni intervención de emergencia.",
+          "C": "Es la clave del cuadernillo. Puede considerarse contacto de protección legal ante rechazo del representante si existe conflicto grave, pero no reemplaza el criterio de urgencia ni debe retrasar traslado.",
+          "D": "La imposición indiscriminada de una referencia vulneraría autonomía; deben aplicarse criterios de capacidad, representación y excepción de emergencia."
+        },
+        "normativa": [
+          "MINSA, señales clave del ACV (30/04/2026) | https://www.gob.pe/institucion/minsa/noticias/1386284-minsa-reconocer-tres-senales-clave-del-acv-puede-salvar-vidas | Asimetría facial, debilidad y dificultad del habla: emergencia inmediata",
+          "DS N.° 027-2015-SA, Reglamento de Ley N.° 29414 | https://busquedas.elperuano.pe/dispositivo/NL/1273843-3 | Consentimiento, representación, traslado y excepción de emergencia",
+          "Ley N.° 26842, General de Salud, artículos 3 y 4 | https://lpderecho.pe/ley-general-salud-ley-26842/ | Atención de emergencias y excepciones de consentimiento",
+          "Defensoría del Pueblo, consentimiento informado | https://www.defensoria.gob.pe/blog/consentimiento-informado-comparte-tus-derechos/ | En emergencias con riesgo vital se puede prescindir del consentimiento en circunstancias legales",
+          "MINSA, orientación ACV 2026 | https://www.gob.pe/48976 | Reconocimiento y derivación urgente a atención resolutiva"
+        ],
+        "mnemotecnia": "ACV = CARA + BRAZO + HABLA → TIEMPO. RECHAZO: CAPACIDAD → INFORMAR → DOCUMENTAR → ACCIÓN URGENTE.",
+        "trampas": [
+          "Un familiar no puede negar por sí mismo la atención de una paciente adulta que conserva capacidad de decisión.",
+          "Alteración del habla no es idéntica a incompetencia; valorar comprensión y comunicación asistida.",
+          "El examen marca Ministerio Público, pero no existe necesidad universal de intervención fiscal previa al traslado de emergencia.",
+          "No confundir consentimiento informado con autorización judicial o fiscal obligatoria.",
+          "No retrasar neuroimagen ni ruta de ictus por conflictos administrativos; seguir normativa vigente."
+        ],
+        "perla": "P57: PDF C, pero PRIORIDAD CLÍNICA = ACV → EMERGENCIA. Determinar capacidad de la paciente y no esperar trámite fiscal para actuar ante riesgo vital.",
+        "repaso_activo": [
+          "¿Cuáles son los tres signos FAST? — Cara caída, debilidad de brazo, alteración del habla.",
+          "¿Puede el familiar sustituir automáticamente una decisión válida del paciente? — No.",
+          "¿Debe esperar una Fiscalía antes de iniciar soporte vital? — No.",
+          "¿Qué dato temporal es crucial? — Última vez que estuvo asintomático/normal."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Paciente de 72 años orientado, comprende beneficios y riesgos y rechaza un traslado tras información suficiente. Su hija insiste en autorizarlo en su lugar. ¿Cuál es el principio correcto?",
+            "alternativas": {
+              "A": "La hija decide por parentesco aunque él conserve capacidad",
+              "B": "La edad avanzada elimina automáticamente autonomía",
+              "C": "Debe administrarse sedación para ejecutar el traslado",
+              "D": "La negativa del paciente solo importa si firma ante fiscal",
+              "E": "Respetar su decisión informada, documentando capacidad y riesgos"
+            },
+            "respuesta": "E",
+            "explicacion": "Una persona capaz conserva autonomía; la voluntad de un familiar no la anula."
+          },
+          {
+            "enunciado": "Mujer afásica e incapaz de expresar voluntad presenta signos de ACV grave y riesgo vital; ningún representante está localizable. ¿Qué conducta inicial es más adecuada?",
+            "alternativas": {
+              "A": "Iniciar manejo de emergencia y gestionar referencia según excepciones legales",
+              "B": "Esperar al representante sin intervenciones",
+              "C": "Programar reevaluación por consulta externa mañana",
+              "D": "Suspender evaluación porque no existe firma",
+              "E": "Dar alimentación oral para comprobar deglución"
+            },
+            "respuesta": "A",
+            "explicacion": "La urgencia permite actuación clínica indicada bajo excepciones de emergencia al consentimiento; registrar el fundamento."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "ACV agudo con negativa de familiar: capacidad y referencia inmediata",
+          "eje": "Emergencias neurológicas · ética clínica",
+          "confiabilidad": "clave_resaltada_con_matiz_etico_legal",
+          "respuesta_resumida": "C. Solicitar intervención del Ministerio Público (clave histórica). Advertencia: ante un ACV, no se debe demorar la estabilización ni la transferencia necesaria esperando una autorización fiscal; la intervención fiscal no es un requisito universal.",
+          "razonamiento": [
+            "La paciente de 66 años tiene signos FAST de ACV: asimetría facial, debilidad unilateral y dificultad del lenguaje de inicio súbito. Es emergencia con tiempo crítico. El enunciado afirma que un familiar rechaza la referencia, pero no aclara si la propia paciente tiene capacidad de decisión, si puede expresar voluntad o si el familiar es su representante legal. El PDF marca «solicitar intervención del Ministerio Público», opción C; podría entenderse como búsqueda de salvaguardias legales cuando un representante impide atención vital. Sin embargo, la regla general del DS 027-2015-SA es respetar la decisión informada de un adulto capaz, y las emergencias justifican atención inmediata bajo excepciones legales cuando no puede obtenerse consentimiento válido. El médico debe evaluar capacidad, explicar riesgos y alternativas, documentar, estabilizar y coordinar referencia con el equipo receptor. No debe forzar mecánicamente una transferencia ni retrasarla por esperar a Fiscalía. Dado que el caso no precisa capacidad y representación, es un ítem ambiguo como guía de conducta."
+          ],
+          "temario": [
+            "Diagnóstico sindrómico: déficit neurológico focal súbito = sospecha ACV hasta demostrar lo contrario; FAST/CARA: cara desviada, brazo débil, habla alterada, tiempo crítico.",
+            "Primer contacto: ABC, glucemia capilar (hipoglucemia puede simular ACV), signos vitales, hora exacta del último momento sano, evaluación neurológica y prevención de aspiración.",
+            "Tiempo-dependencia: activar ruta de ictus, comunicación con centro resolutivo y traslado seguro; neuroimagen descarta hemorragia antes de terapia específica.",
+            "Adulto con capacidad: informar de riesgo de muerte y discapacidad, alternativas y urgencia, solicitar consentimiento de la paciente directamente; un familiar no puede sustituir su voluntad porque discrepe.",
+            "Capacidad de decisión: valorar comprensión, apreciación de consecuencias, razonamiento y expresión de elección en la decisión concreta. Afasia no significa automáticamente falta de capacidad; adaptar comunicación.",
+            "Si existe incapacidad transitoria para decidir y urgencia vital: aplicar excepciones legalmente pertinentes al consentimiento, brindar medidas inmediatas y coordinar traslado según normas del establecimiento y situación.",
+            "Negativa de representante que perjudica a paciente incapaz: documentar y usar mecanismos de protección/autoridades cuando sean pertinentes, SIN obstaculizar intervenciones urgentes legalmente permitidas.",
+            "Comunicación y registro: explicar riesgo de secuelas, dejar hora, examen, decisiones, interlocutores y justificación de actuación en historia clínica.",
+            "Opciones del examen: A posterga una emergencia; B no resuelve oposición; D «obligar» indiscriminadamente no es ético/legal. C es el resaltado, pero no una obligación automática ni condición previa para referir."
+          ],
+          "distractores": {
+            "A": "Citar al día siguiente desperdicia tiempo terapéutico y expone a secuelas irreversibles; contraindicado en sospecha de ACV.",
+            "B": "Informar sobre derechos es importante, pero la frase propuesta no aborda capacidad, rechazo de referencia ni intervención de emergencia.",
+            "C": "Es la clave del cuadernillo. Puede considerarse contacto de protección legal ante rechazo del representante si existe conflicto grave, pero no reemplaza el criterio de urgencia ni debe retrasar traslado.",
+            "D": "La imposición indiscriminada de una referencia vulneraría autonomía; deben aplicarse criterios de capacidad, representación y excepción de emergencia."
+          },
+          "normativa": [
+            {
+              "nombre": "MINSA, señales clave del ACV (30/04/2026)",
+              "url": "https://www.gob.pe/institucion/minsa/noticias/1386284-minsa-reconocer-tres-senales-clave-del-acv-puede-salvar-vidas",
+              "aplicacion": "Asimetría facial, debilidad y dificultad del habla: emergencia inmediata"
+            },
+            {
+              "nombre": "DS N.° 027-2015-SA, Reglamento de Ley N.° 29414",
+              "url": "https://busquedas.elperuano.pe/dispositivo/NL/1273843-3",
+              "aplicacion": "Consentimiento, representación, traslado y excepción de emergencia"
+            },
+            {
+              "nombre": "Ley N.° 26842, General de Salud, artículos 3 y 4",
+              "url": "https://lpderecho.pe/ley-general-salud-ley-26842/",
+              "aplicacion": "Atención de emergencias y excepciones de consentimiento"
+            },
+            {
+              "nombre": "Defensoría del Pueblo, consentimiento informado",
+              "url": "https://www.defensoria.gob.pe/blog/consentimiento-informado-comparte-tus-derechos/",
+              "aplicacion": "En emergencias con riesgo vital se puede prescindir del consentimiento en circunstancias legales"
+            },
+            {
+              "nombre": "MINSA, orientación ACV 2026",
+              "url": "https://www.gob.pe/48976",
+              "aplicacion": "Reconocimiento y derivación urgente a atención resolutiva"
+            }
+          ],
+          "mnemotecnia": "ACV = CARA + BRAZO + HABLA → TIEMPO. RECHAZO: CAPACIDAD → INFORMAR → DOCUMENTAR → ACCIÓN URGENTE.",
+          "trampas": [
+            "Un familiar no puede negar por sí mismo la atención de una paciente adulta que conserva capacidad de decisión.",
+            "Alteración del habla no es idéntica a incompetencia; valorar comprensión y comunicación asistida.",
+            "El examen marca Ministerio Público, pero no existe necesidad universal de intervención fiscal previa al traslado de emergencia.",
+            "No confundir consentimiento informado con autorización judicial o fiscal obligatoria.",
+            "No retrasar neuroimagen ni ruta de ictus por conflictos administrativos; seguir normativa vigente."
+          ],
+          "perla": "P57: PDF C, pero PRIORIDAD CLÍNICA = ACV → EMERGENCIA. Determinar capacidad de la paciente y no esperar trámite fiscal para actuar ante riesgo vital.",
+          "repaso_activo": [
+            "¿Cuáles son los tres signos FAST? — Cara caída, debilidad de brazo, alteración del habla.",
+            "¿Puede el familiar sustituir automáticamente una decisión válida del paciente? — No.",
+            "¿Debe esperar una Fiscalía antes de iniciar soporte vital? — No.",
+            "¿Qué dato temporal es crucial? — Última vez que estuvo asintomático/normal."
+          ],
+          "refuerzo": [
+            {
+              "enunciado": "Paciente de 72 años orientado, comprende beneficios y riesgos y rechaza un traslado tras información suficiente. Su hija insiste en autorizarlo en su lugar. ¿Cuál es el principio correcto?",
+              "alternativas": {
+                "A": "La hija decide por parentesco aunque él conserve capacidad",
+                "B": "La edad avanzada elimina automáticamente autonomía",
+                "C": "Debe administrarse sedación para ejecutar el traslado",
+                "D": "La negativa del paciente solo importa si firma ante fiscal",
+                "E": "Respetar su decisión informada, documentando capacidad y riesgos"
+              },
+              "respuesta": "E",
+              "explicacion": "Una persona capaz conserva autonomía; la voluntad de un familiar no la anula."
+            },
+            {
+              "enunciado": "Mujer afásica e incapaz de expresar voluntad presenta signos de ACV grave y riesgo vital; ningún representante está localizable. ¿Qué conducta inicial es más adecuada?",
+              "alternativas": {
+                "A": "Iniciar manejo de emergencia y gestionar referencia según excepciones legales",
+                "B": "Esperar al representante sin intervenciones",
+                "C": "Programar reevaluación por consulta externa mañana",
+                "D": "Suspender evaluación porque no existe firma",
+                "E": "Dar alimentación oral para comprobar deglución"
+              },
+              "respuesta": "A",
+              "explicacion": "La urgencia permite actuación clínica indicada bajo excepciones de emergencia al consentimiento; registrar el fundamento."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "number": 58,
+      "code": "ENCAPS26-II P058",
+      "course": "Gestión pública · recursos humanos en salud",
+      "topic": "Gestión de recursos humanos orientada a eficacia, productividad y relaciones",
+      "options": {
+        "A": "Gestión de compensación",
+        "B": "Cultura organizacional",
+        "C": "Clima organizacional saludable",
+        "D": "Gestión de recursos humanos"
+      },
+      "comment": "CLAVE MARCADA PDF, aún no cotejada independientemente con clave oficial: D. Gestión de recursos humanos. Organiza y desarrolla el trabajo de personas y equipos para cumplir objetivos de forma productiva, eficiente y eficaz.\n\nRAZONAMIENTO\nLa pregunta define la capacidad de la organización para mantener productividad, eficiencia y eficacia mediante uso adecuado del talento humano y manejo de relaciones interpersonales. Esto corresponde a gestión de recursos humanos (GRH): planeamiento de dotación, selección, inducción, capacitación, evaluación, desarrollo, bienestar, seguridad y desempeño. El clima saludable y la cultura influyen en resultados pero no abarcan toda la gestión del personal. La compensación es un subsistema, no el concepto completo. En el ámbito sanitario, el equilibrio de cargas, distribución de guardias, competencias y retención afectan resultados de atención y continuidad.\n\nDESARROLLO DEL TEMARIO\nGRH: conjunto de políticas y procedimientos para planificar, atraer, incorporar, formar, evaluar, proteger y desarrollar personas, orientado a objetivos institucionales.\n\nEficacia: grado en que se alcanzan metas; eficiencia: uso de recursos para conseguirlas; productividad: relación entre productos/servicios obtenidos e insumos empleados.\n\nPlanificación: análisis de brechas de personal, perfil y competencias, dotación, reemplazos, distribución territorial, turnos y proyección de necesidades.\n\nSelección e inducción: ingreso según perfiles y reglas del régimen laboral, integración institucional y responsabilidades claras.\n\nCapacitación y desempeño: formación continua, supervisión, evaluación justa, retroalimentación y desarrollo de habilidades.\n\nBienestar y SST: prevención de riesgos biológicos, físicos, ergonómicos y psicosociales, condiciones de trabajo y apoyo del liderazgo.\n\nCompensación: remuneraciones e incentivos como componente de gestión; no equivale a toda la GRH.\n\nCultura organizacional: valores y normas compartidos; clima organizacional: percepciones de trabajadores sobre el entorno de trabajo.\n\nGestión en EESS: cobertura de guardias, coordinación interprofesional, continuidad de servicio y calidad asistencial; evitar evaluar solo volumen, sin resultados y seguridad.\n\nANÁLISIS DE ALTERNATIVAS\nA. La gestión de compensaciones se ocupa de remuneración, beneficios e incentivos; no abarca planeamiento y desarrollo de todas las relaciones de trabajo.\nB. Cultura organizacional designa valores y prácticas compartidas, no la función administrativa integral del personal.\nC. Clima organizacional saludable describe percepciones y relaciones laborales favorables, un resultado o componente relevante, no el proceso total de gestión.\nD. Correcta: gestionar recursos humanos organiza y desarrolla el trabajo de personas con el propósito de lograr metas institucionales.\n\nNORMATIVA Y FUENTES\nMINSA, Gestión de recursos humanos, 2012 | https://www.gob.pe/institucion/minsa/informes-publicaciones/320975-gestion-de-recursos-humanos | Gestión pública eficiente y de calidad, responsabilidad y ética\nMINSA, organización institucional | https://www.gob.pe/institucion/minsa/organizacion | Competencias en desarrollo y gestión de recursos humanos en salud\nMINSA, lineamientos de recursos humanos 2018–2030, RM N.° 1357-2018-MINSA | https://cdn.www.gob.pe/uploads/document/file/264146/RM_N__1357-2018-MINSA.PDF | Orientaciones de política de gestión y desarrollo del talento sanitario\n\nMNEMOTECNIA\nRRHH = PLANEA + SELECCIONA + CAPACITA + EVALÚA + CUIDA al EQUIPO.\n\nTRAMPAS\nClima es percepción del ambiente; cultura son valores y normas; GRH es función directiva integral.\nMás productividad sin calidad o seguridad puede ser un mal resultado sanitario.\nNo confundir eficiencia (recursos) con eficacia (logro de objetivos).\nRemuneración es solo una dimensión de GRH.\n\nPERLA\nPersonas + relaciones + productividad + eficiencia + eficacia = GESTIÓN DE RECURSOS HUMANOS.",
+      "pearl": "Personas + relaciones + productividad + eficiencia + eficacia = GESTIÓN DE RECURSOS HUMANOS.",
+      "keywords": [
+        "Gestión pública · recursos humanos en salud",
+        "Gestión de recursos humanos orientada a eficacia, productividad y relaciones",
+        "ENCAPS 2026-II",
+        "MINSA 276"
+      ],
+      "estadoDesarrollo": "completo",
+      "lesson": {
+        "respuesta_resumida": "D. Gestión de recursos humanos. Organiza y desarrolla el trabajo de personas y equipos para cumplir objetivos de forma productiva, eficiente y eficaz.",
+        "razonamiento": "La pregunta define la capacidad de la organización para mantener productividad, eficiencia y eficacia mediante uso adecuado del talento humano y manejo de relaciones interpersonales. Esto corresponde a gestión de recursos humanos (GRH): planeamiento de dotación, selección, inducción, capacitación, evaluación, desarrollo, bienestar, seguridad y desempeño. El clima saludable y la cultura influyen en resultados pero no abarcan toda la gestión del personal. La compensación es un subsistema, no el concepto completo. En el ámbito sanitario, el equilibrio de cargas, distribución de guardias, competencias y retención afectan resultados de atención y continuidad.",
+        "temario": [
+          "GRH: conjunto de políticas y procedimientos para planificar, atraer, incorporar, formar, evaluar, proteger y desarrollar personas, orientado a objetivos institucionales.",
+          "Eficacia: grado en que se alcanzan metas; eficiencia: uso de recursos para conseguirlas; productividad: relación entre productos/servicios obtenidos e insumos empleados.",
+          "Planificación: análisis de brechas de personal, perfil y competencias, dotación, reemplazos, distribución territorial, turnos y proyección de necesidades.",
+          "Selección e inducción: ingreso según perfiles y reglas del régimen laboral, integración institucional y responsabilidades claras.",
+          "Capacitación y desempeño: formación continua, supervisión, evaluación justa, retroalimentación y desarrollo de habilidades.",
+          "Bienestar y SST: prevención de riesgos biológicos, físicos, ergonómicos y psicosociales, condiciones de trabajo y apoyo del liderazgo.",
+          "Compensación: remuneraciones e incentivos como componente de gestión; no equivale a toda la GRH.",
+          "Cultura organizacional: valores y normas compartidos; clima organizacional: percepciones de trabajadores sobre el entorno de trabajo.",
+          "Gestión en EESS: cobertura de guardias, coordinación interprofesional, continuidad de servicio y calidad asistencial; evitar evaluar solo volumen, sin resultados y seguridad."
+        ],
+        "por_que_no_las_otras": {
+          "A": "La gestión de compensaciones se ocupa de remuneración, beneficios e incentivos; no abarca planeamiento y desarrollo de todas las relaciones de trabajo.",
+          "B": "Cultura organizacional designa valores y prácticas compartidas, no la función administrativa integral del personal.",
+          "C": "Clima organizacional saludable describe percepciones y relaciones laborales favorables, un resultado o componente relevante, no el proceso total de gestión.",
+          "D": "Correcta: gestionar recursos humanos organiza y desarrolla el trabajo de personas con el propósito de lograr metas institucionales."
+        },
+        "normativa": [
+          "MINSA, Gestión de recursos humanos, 2012 | https://www.gob.pe/institucion/minsa/informes-publicaciones/320975-gestion-de-recursos-humanos | Gestión pública eficiente y de calidad, responsabilidad y ética",
+          "MINSA, organización institucional | https://www.gob.pe/institucion/minsa/organizacion | Competencias en desarrollo y gestión de recursos humanos en salud",
+          "MINSA, lineamientos de recursos humanos 2018–2030, RM N.° 1357-2018-MINSA | https://cdn.www.gob.pe/uploads/document/file/264146/RM_N__1357-2018-MINSA.PDF | Orientaciones de política de gestión y desarrollo del talento sanitario"
+        ],
+        "mnemotecnia": "RRHH = PLANEA + SELECCIONA + CAPACITA + EVALÚA + CUIDA al EQUIPO.",
+        "trampas": [
+          "Clima es percepción del ambiente; cultura son valores y normas; GRH es función directiva integral.",
+          "Más productividad sin calidad o seguridad puede ser un mal resultado sanitario.",
+          "No confundir eficiencia (recursos) con eficacia (logro de objetivos).",
+          "Remuneración es solo una dimensión de GRH."
+        ],
+        "perla": "Personas + relaciones + productividad + eficiencia + eficacia = GESTIÓN DE RECURSOS HUMANOS.",
+        "repaso_activo": [
+          "¿Qué distingue eficacia de eficiencia? — Lograr la meta frente a utilizar bien los recursos.",
+          "¿Qué abarca GRH además de remuneración? — Planificación, desarrollo, desempeño, bienestar y SST.",
+          "¿Qué significa clima laboral? — Percepciones compartidas del ambiente de trabajo.",
+          "¿Por qué es clave en la red sanitaria? — Garantiza capacidades, dotación adecuada y calidad de atención."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Una red planifica dotación por demanda, organiza turnos, capacita equipos y evalúa desempeño. ¿Qué subsistema de gestión se reconoce?",
+            "alternativas": {
+              "A": "Compensación económica exclusivamente",
+              "B": "Gestión de recursos humanos",
+              "C": "Investigación de mercado farmacológico",
+              "D": "Gestión exclusiva de infraestructura",
+              "E": "Identidad cultural de los usuarios"
+            },
+            "respuesta": "B",
+            "explicacion": "La planificación, organización y desarrollo de personas constituyen GRH."
+          },
+          {
+            "enunciado": "Un centro alcanza la meta de consultas mensuales pero utiliza horas extraordinarias excesivas. ¿Qué interpretación diferencia eficacia de eficiencia?",
+            "alternativas": {
+              "A": "No fue eficaz porque sí cumplió metas",
+              "B": "Fue necesariamente eficiente por alcanzar producción",
+              "C": "Eficiencia y eficacia siempre significan lo mismo",
+              "D": "El clima y la cultura equivalen al número de consultas",
+              "E": "Hubo eficacia, pero debe evaluarse eficiencia en uso de recursos"
+            },
+            "respuesta": "E",
+            "explicacion": "Alcanzar objetivos refleja eficacia; eficiencia exige valorar el costo de recursos utilizados."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Gestión de recursos humanos orientada a eficacia, productividad y relaciones",
+          "eje": "Gestión pública · recursos humanos en salud",
+          "confiabilidad": "clave_resaltada_fundamento_concordante",
+          "respuesta_resumida": "D. Gestión de recursos humanos. Organiza y desarrolla el trabajo de personas y equipos para cumplir objetivos de forma productiva, eficiente y eficaz.",
+          "razonamiento": [
+            "La pregunta define la capacidad de la organización para mantener productividad, eficiencia y eficacia mediante uso adecuado del talento humano y manejo de relaciones interpersonales. Esto corresponde a gestión de recursos humanos (GRH): planeamiento de dotación, selección, inducción, capacitación, evaluación, desarrollo, bienestar, seguridad y desempeño. El clima saludable y la cultura influyen en resultados pero no abarcan toda la gestión del personal. La compensación es un subsistema, no el concepto completo. En el ámbito sanitario, el equilibrio de cargas, distribución de guardias, competencias y retención afectan resultados de atención y continuidad."
+          ],
+          "temario": [
+            "GRH: conjunto de políticas y procedimientos para planificar, atraer, incorporar, formar, evaluar, proteger y desarrollar personas, orientado a objetivos institucionales.",
+            "Eficacia: grado en que se alcanzan metas; eficiencia: uso de recursos para conseguirlas; productividad: relación entre productos/servicios obtenidos e insumos empleados.",
+            "Planificación: análisis de brechas de personal, perfil y competencias, dotación, reemplazos, distribución territorial, turnos y proyección de necesidades.",
+            "Selección e inducción: ingreso según perfiles y reglas del régimen laboral, integración institucional y responsabilidades claras.",
+            "Capacitación y desempeño: formación continua, supervisión, evaluación justa, retroalimentación y desarrollo de habilidades.",
+            "Bienestar y SST: prevención de riesgos biológicos, físicos, ergonómicos y psicosociales, condiciones de trabajo y apoyo del liderazgo.",
+            "Compensación: remuneraciones e incentivos como componente de gestión; no equivale a toda la GRH.",
+            "Cultura organizacional: valores y normas compartidos; clima organizacional: percepciones de trabajadores sobre el entorno de trabajo.",
+            "Gestión en EESS: cobertura de guardias, coordinación interprofesional, continuidad de servicio y calidad asistencial; evitar evaluar solo volumen, sin resultados y seguridad."
+          ],
+          "distractores": {
+            "A": "La gestión de compensaciones se ocupa de remuneración, beneficios e incentivos; no abarca planeamiento y desarrollo de todas las relaciones de trabajo.",
+            "B": "Cultura organizacional designa valores y prácticas compartidas, no la función administrativa integral del personal.",
+            "C": "Clima organizacional saludable describe percepciones y relaciones laborales favorables, un resultado o componente relevante, no el proceso total de gestión.",
+            "D": "Correcta: gestionar recursos humanos organiza y desarrolla el trabajo de personas con el propósito de lograr metas institucionales."
+          },
+          "normativa": [
+            {
+              "nombre": "MINSA, Gestión de recursos humanos, 2012",
+              "url": "https://www.gob.pe/institucion/minsa/informes-publicaciones/320975-gestion-de-recursos-humanos",
+              "aplicacion": "Gestión pública eficiente y de calidad, responsabilidad y ética"
+            },
+            {
+              "nombre": "MINSA, organización institucional",
+              "url": "https://www.gob.pe/institucion/minsa/organizacion",
+              "aplicacion": "Competencias en desarrollo y gestión de recursos humanos en salud"
+            },
+            {
+              "nombre": "MINSA, lineamientos de recursos humanos 2018–2030, RM N.° 1357-2018-MINSA",
+              "url": "https://cdn.www.gob.pe/uploads/document/file/264146/RM_N__1357-2018-MINSA.PDF",
+              "aplicacion": "Orientaciones de política de gestión y desarrollo del talento sanitario"
+            }
+          ],
+          "mnemotecnia": "RRHH = PLANEA + SELECCIONA + CAPACITA + EVALÚA + CUIDA al EQUIPO.",
+          "trampas": [
+            "Clima es percepción del ambiente; cultura son valores y normas; GRH es función directiva integral.",
+            "Más productividad sin calidad o seguridad puede ser un mal resultado sanitario.",
+            "No confundir eficiencia (recursos) con eficacia (logro de objetivos).",
+            "Remuneración es solo una dimensión de GRH."
+          ],
+          "perla": "Personas + relaciones + productividad + eficiencia + eficacia = GESTIÓN DE RECURSOS HUMANOS.",
+          "repaso_activo": [
+            "¿Qué distingue eficacia de eficiencia? — Lograr la meta frente a utilizar bien los recursos.",
+            "¿Qué abarca GRH además de remuneración? — Planificación, desarrollo, desempeño, bienestar y SST.",
+            "¿Qué significa clima laboral? — Percepciones compartidas del ambiente de trabajo.",
+            "¿Por qué es clave en la red sanitaria? — Garantiza capacidades, dotación adecuada y calidad de atención."
+          ],
+          "refuerzo": [
+            {
+              "enunciado": "Una red planifica dotación por demanda, organiza turnos, capacita equipos y evalúa desempeño. ¿Qué subsistema de gestión se reconoce?",
+              "alternativas": {
+                "A": "Compensación económica exclusivamente",
+                "B": "Gestión de recursos humanos",
+                "C": "Investigación de mercado farmacológico",
+                "D": "Gestión exclusiva de infraestructura",
+                "E": "Identidad cultural de los usuarios"
+              },
+              "respuesta": "B",
+              "explicacion": "La planificación, organización y desarrollo de personas constituyen GRH."
+            },
+            {
+              "enunciado": "Un centro alcanza la meta de consultas mensuales pero utiliza horas extraordinarias excesivas. ¿Qué interpretación diferencia eficacia de eficiencia?",
+              "alternativas": {
+                "A": "No fue eficaz porque sí cumplió metas",
+                "B": "Fue necesariamente eficiente por alcanzar producción",
+                "C": "Eficiencia y eficacia siempre significan lo mismo",
+                "D": "El clima y la cultura equivalen al número de consultas",
+                "E": "Hubo eficacia, pero debe evaluarse eficiencia en uso de recursos"
+              },
+              "respuesta": "E",
+              "explicacion": "Alcanzar objetivos refleja eficacia; eficiencia exige valorar el costo de recursos utilizados."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "number": 59,
+      "code": "ENCAPS26-II P059",
+      "course": "Urgencias pediátricas · clasificación de triaje",
+      "topic": "Prioridad III: urgencia con valoración dentro de 30 minutos",
+      "options": {
+        "A": "Prioridad II: emergencia que debe ser atendido en un tiempo no mayor a 10 minutos desde su evaluación por triaje",
+        "B": "Prioridad I: gravedad súbita extrema debe atenderse de inmediato",
+        "C": "Prioridad V: no urgencia, debe sacar cita para ser atendido por consultorio externo",
+        "D": "Prioridad III: urgencia que debe ser atendido en un tiempo no mayor a 30 minutos desde su evaluación por triaje"
+      },
+      "comment": "CLAVE MARCADA PDF, aún no cotejada independientemente con clave oficial: D. Prioridad III, con inicio de atención hasta 30 minutos (clave del PDF). La categorización exacta del lactante debe basarse en evaluación integral y no solo en 'diarrea sin deshidratación'.\n\nRAZONAMIENTO\nLa pregunta describe un lactante de 11 meses con vómitos y diarrea, sin signos de deshidratación según triaje, y ofrece las categorías I, II, III y V, omitiendo IV. El PDF resalta III (urgencia con atención ≤30 minutos); el marco actualizado por RM 625-2026/MINSA define esta prioridad y sus tiempos. Sin embargo, una antigua lista de NTS 042 clasificaba EDA sin deshidratación o vómitos como prioridad IV, y el cambio de julio de 2026 sustituyó el anexo de daños. La gravedad real en menores de un año depende de tolerancia oral, número de vómitos, perfusión, diuresis, fiebre, estado neurológico y factores de vulnerabilidad. Por ello, la opción D debe recordarse para la clave histórica, pero no tratar toda diarrea sin deshidratación como prioridad III automáticamente. Ante signos de alarma el triaje puede subir a II o I.\n\nDESARROLLO DEL TEMARIO\nTriaje clasifica por gravedad y urgencia, no por orden de llegada ni solo por nombre de enfermedad.\n\nRM 625-2026-MINSA actualiza NTS 042: Prioridad I emergencia de gravedad súbita extrema, atención inmediata.\n\nPrioridad II: emergencia potencialmente vital o dolor intenso con inestabilidad, inicio de atención ≤10 minutos.\n\nPrioridad III: urgencia sin riesgo potencial de muerte ni secuelas invalidantes, inicio de atención ≤30 minutos.\n\nPrioridad IV: urgencia menor, sin compromiso general ni riesgo evidente vital/funcional, inicio ≤60 minutos.\n\nPrioridad V: no urgencia, derivable a consulta externa según sistema, inicio de atención ≤120 minutos.\n\nEvaluar lactante: frecuencia cardiaca y respiratoria, temperatura, llenado capilar, estado de alerta, mucosas, lágrimas, ojos, fontanela, diuresis y tolerancia a SRO.\n\nPlan A si no hay deshidratación ni gravedad: solución de rehidratación oral, alimentación apropiada, educación cuidador y signos de alarma, conforme a guía local.\n\nAlarma y referencia: vómitos incoercibles, incapacidad para rehidratar, letargo, sangre en heces, choque o deshidratación severa, según evaluación.\n\nMatiz del examen: antes de 2026, NTS 042 enumeraba «EDA sin deshidratación o vómitos» en prioridad IV; el examen no ofrece esa alternativa y tiene clave D/III. Conocer la norma actual y el juicio clínico.\n\nANÁLISIS DE ALTERNATIVAS\nA. Prioridad II ≤10 min corresponde a amenaza mayor o inestabilidad; el caso no describe signos que obliguen a ella.\nB. Prioridad I exige riesgo vital inmediato, no evidenciado en la descripción.\nC. Prioridad V es no urgencia; un lactante con vómitos y diarrea requiere valoración y riesgo de deshidratación, no simple postergación como consulta rutinaria.\nD. Es la clave del cuadernillo y define correctamente la prioridad III como urgencia en ≤30 min, aunque faltan datos para afirmar que todos los casos semejantes sean III.\n\nNORMATIVA Y FUENTES\nRM N.° 625-2026/MINSA, 15 julio 2026, modifica NTS N.° 042-MINSA/DGSP-V.01 | https://busquedas.elperuano.pe/api/visor_html/2535379-1 | Cinco niveles de prioridad: I inmediata, II ≤10 min, III ≤30 min, IV ≤60 min, V ≤120 min\nRM N.° 386-2006/MINSA, norma técnica de los servicios de emergencia | https://www.gob.pe/institucion/minsa/informes-publicaciones/353462-norma-tecnica-de-salud-de-los-servicios-de-emergencia-nt-n-042-minsa-dgsp-v-01 | Listado histórico que incluía EDA sin deshidratación o vómitos en prioridad IV; revisión actualizada por RM 625-2026\nMINSA, directiva de EDA, 2024 | https://cdn.www.gob.pe/uploads/document/file/7390817/6302670-1254_2024.pdf | Criterios de referencia: vómitos persistentes, imposibilidad de TRO, deshidratación grave y signos de alarma\n\nMNEMOTECNIA\nTRIAJE: I AHORA; II 10; III 30; IV 60; V 120 (minutos).\n\nTRAMPAS\n«Sin deshidratación» no significa «sin riesgo» si hay vómitos persistentes o mala tolerancia oral.\nLas prioridades incluyen IV, aunque el ítem solo presenta I, II, III y V.\nLa norma fue actualizada por RM 625-2026; no mezclar listas de 2006 con tiempos de 2026.\nLa priorización debe basarse en signos vitales y estado general; no es una etiqueta automática de EDA.\n\nPERLA\nEn P59 clave D = prioridad III, ≤30 min. Aprende toda la escala I inmediato, II 10, III 30, IV 60, V 120.",
+      "pearl": "En P59 clave D = prioridad III, ≤30 min. Aprende toda la escala I inmediato, II 10, III 30, IV 60, V 120.",
+      "keywords": [
+        "Urgencias pediátricas · clasificación de triaje",
+        "Prioridad III: urgencia con valoración dentro de 30 minutos",
+        "ENCAPS 2026-II",
+        "MINSA 276"
+      ],
+      "estadoDesarrollo": "completo",
+      "lesson": {
+        "respuesta_resumida": "D. Prioridad III, con inicio de atención hasta 30 minutos (clave del PDF). La categorización exacta del lactante debe basarse en evaluación integral y no solo en 'diarrea sin deshidratación'.",
+        "razonamiento": "La pregunta describe un lactante de 11 meses con vómitos y diarrea, sin signos de deshidratación según triaje, y ofrece las categorías I, II, III y V, omitiendo IV. El PDF resalta III (urgencia con atención ≤30 minutos); el marco actualizado por RM 625-2026/MINSA define esta prioridad y sus tiempos. Sin embargo, una antigua lista de NTS 042 clasificaba EDA sin deshidratación o vómitos como prioridad IV, y el cambio de julio de 2026 sustituyó el anexo de daños. La gravedad real en menores de un año depende de tolerancia oral, número de vómitos, perfusión, diuresis, fiebre, estado neurológico y factores de vulnerabilidad. Por ello, la opción D debe recordarse para la clave histórica, pero no tratar toda diarrea sin deshidratación como prioridad III automáticamente. Ante signos de alarma el triaje puede subir a II o I.",
+        "temario": [
+          "Triaje clasifica por gravedad y urgencia, no por orden de llegada ni solo por nombre de enfermedad.",
+          "RM 625-2026-MINSA actualiza NTS 042: Prioridad I emergencia de gravedad súbita extrema, atención inmediata.",
+          "Prioridad II: emergencia potencialmente vital o dolor intenso con inestabilidad, inicio de atención ≤10 minutos.",
+          "Prioridad III: urgencia sin riesgo potencial de muerte ni secuelas invalidantes, inicio de atención ≤30 minutos.",
+          "Prioridad IV: urgencia menor, sin compromiso general ni riesgo evidente vital/funcional, inicio ≤60 minutos.",
+          "Prioridad V: no urgencia, derivable a consulta externa según sistema, inicio de atención ≤120 minutos.",
+          "Evaluar lactante: frecuencia cardiaca y respiratoria, temperatura, llenado capilar, estado de alerta, mucosas, lágrimas, ojos, fontanela, diuresis y tolerancia a SRO.",
+          "Plan A si no hay deshidratación ni gravedad: solución de rehidratación oral, alimentación apropiada, educación cuidador y signos de alarma, conforme a guía local.",
+          "Alarma y referencia: vómitos incoercibles, incapacidad para rehidratar, letargo, sangre en heces, choque o deshidratación severa, según evaluación.",
+          "Matiz del examen: antes de 2026, NTS 042 enumeraba «EDA sin deshidratación o vómitos» en prioridad IV; el examen no ofrece esa alternativa y tiene clave D/III. Conocer la norma actual y el juicio clínico."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Prioridad II ≤10 min corresponde a amenaza mayor o inestabilidad; el caso no describe signos que obliguen a ella.",
+          "B": "Prioridad I exige riesgo vital inmediato, no evidenciado en la descripción.",
+          "C": "Prioridad V es no urgencia; un lactante con vómitos y diarrea requiere valoración y riesgo de deshidratación, no simple postergación como consulta rutinaria.",
+          "D": "Es la clave del cuadernillo y define correctamente la prioridad III como urgencia en ≤30 min, aunque faltan datos para afirmar que todos los casos semejantes sean III."
+        },
+        "normativa": [
+          "RM N.° 625-2026/MINSA, 15 julio 2026, modifica NTS N.° 042-MINSA/DGSP-V.01 | https://busquedas.elperuano.pe/api/visor_html/2535379-1 | Cinco niveles de prioridad: I inmediata, II ≤10 min, III ≤30 min, IV ≤60 min, V ≤120 min",
+          "RM N.° 386-2006/MINSA, norma técnica de los servicios de emergencia | https://www.gob.pe/institucion/minsa/informes-publicaciones/353462-norma-tecnica-de-salud-de-los-servicios-de-emergencia-nt-n-042-minsa-dgsp-v-01 | Listado histórico que incluía EDA sin deshidratación o vómitos en prioridad IV; revisión actualizada por RM 625-2026",
+          "MINSA, directiva de EDA, 2024 | https://cdn.www.gob.pe/uploads/document/file/7390817/6302670-1254_2024.pdf | Criterios de referencia: vómitos persistentes, imposibilidad de TRO, deshidratación grave y signos de alarma"
+        ],
+        "mnemotecnia": "TRIAJE: I AHORA; II 10; III 30; IV 60; V 120 (minutos).",
+        "trampas": [
+          "«Sin deshidratación» no significa «sin riesgo» si hay vómitos persistentes o mala tolerancia oral.",
+          "Las prioridades incluyen IV, aunque el ítem solo presenta I, II, III y V.",
+          "La norma fue actualizada por RM 625-2026; no mezclar listas de 2006 con tiempos de 2026.",
+          "La priorización debe basarse en signos vitales y estado general; no es una etiqueta automática de EDA."
+        ],
+        "perla": "En P59 clave D = prioridad III, ≤30 min. Aprende toda la escala I inmediato, II 10, III 30, IV 60, V 120.",
+        "repaso_activo": [
+          "¿Cuál es el tiempo de prioridad III? — Inicio de atención ≤30 minutos.",
+          "¿Cuál es el de prioridad IV? — ≤60 minutos.",
+          "¿Qué da prioridad mayor al lactante con diarrea? — Inestabilidad, deshidratación grave o imposibilidad de rehidratar.",
+          "¿Qué norma actualizó los cinco niveles en 2026? — RM 625-2026/MINSA."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Un adulto presenta problema de salud urgente, pero sin amenaza vital ni riesgo de secuela invalidante. Según la escala 2026, ¿qué prioridad y tiempo máximo de inicio de atención le corresponde?",
+            "alternativas": {
+              "A": "Prioridad I, atención inmediata",
+              "B": "Prioridad V, hasta 120 minutos",
+              "C": "Prioridad III, hasta 30 minutos",
+              "D": "Prioridad II, hasta 10 minutos",
+              "E": "Prioridad IV, hasta 60 minutos"
+            },
+            "respuesta": "C",
+            "explicacion": "La definición normativa de prioridad III es urgencia sin riesgo vital ni secuela invalidante y plazo de 30 minutos."
+          },
+          {
+            "enunciado": "Lactante con diarrea está letárgico, tiene pulsos débiles y llenado capilar prolongado. ¿Cuál es la conducta de triaje?",
+            "alternativas": {
+              "A": "Clasificar como compromiso grave e iniciar atención inmediata",
+              "B": "Mantener prioridad III por diagnóstico de EDA",
+              "C": "Programar cita ambulatoria en 48 horas",
+              "D": "Dar alta por ausencia de sangre en heces",
+              "E": "Esperar 120 minutos para valorar hidratación"
+            },
+            "respuesta": "A",
+            "explicacion": "Hay signos de hipoperfusión/choque, requieren máxima prioridad e intervención inmediata."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Prioridad III: urgencia con valoración dentro de 30 minutos",
+          "eje": "Urgencias pediátricas · clasificación de triaje",
+          "confiabilidad": "clave_resaltada_con_matiz_de_gravedad",
+          "respuesta_resumida": "D. Prioridad III, con inicio de atención hasta 30 minutos (clave del PDF). La categorización exacta del lactante debe basarse en evaluación integral y no solo en 'diarrea sin deshidratación'.",
+          "razonamiento": [
+            "La pregunta describe un lactante de 11 meses con vómitos y diarrea, sin signos de deshidratación según triaje, y ofrece las categorías I, II, III y V, omitiendo IV. El PDF resalta III (urgencia con atención ≤30 minutos); el marco actualizado por RM 625-2026/MINSA define esta prioridad y sus tiempos. Sin embargo, una antigua lista de NTS 042 clasificaba EDA sin deshidratación o vómitos como prioridad IV, y el cambio de julio de 2026 sustituyó el anexo de daños. La gravedad real en menores de un año depende de tolerancia oral, número de vómitos, perfusión, diuresis, fiebre, estado neurológico y factores de vulnerabilidad. Por ello, la opción D debe recordarse para la clave histórica, pero no tratar toda diarrea sin deshidratación como prioridad III automáticamente. Ante signos de alarma el triaje puede subir a II o I."
+          ],
+          "temario": [
+            "Triaje clasifica por gravedad y urgencia, no por orden de llegada ni solo por nombre de enfermedad.",
+            "RM 625-2026-MINSA actualiza NTS 042: Prioridad I emergencia de gravedad súbita extrema, atención inmediata.",
+            "Prioridad II: emergencia potencialmente vital o dolor intenso con inestabilidad, inicio de atención ≤10 minutos.",
+            "Prioridad III: urgencia sin riesgo potencial de muerte ni secuelas invalidantes, inicio de atención ≤30 minutos.",
+            "Prioridad IV: urgencia menor, sin compromiso general ni riesgo evidente vital/funcional, inicio ≤60 minutos.",
+            "Prioridad V: no urgencia, derivable a consulta externa según sistema, inicio de atención ≤120 minutos.",
+            "Evaluar lactante: frecuencia cardiaca y respiratoria, temperatura, llenado capilar, estado de alerta, mucosas, lágrimas, ojos, fontanela, diuresis y tolerancia a SRO.",
+            "Plan A si no hay deshidratación ni gravedad: solución de rehidratación oral, alimentación apropiada, educación cuidador y signos de alarma, conforme a guía local.",
+            "Alarma y referencia: vómitos incoercibles, incapacidad para rehidratar, letargo, sangre en heces, choque o deshidratación severa, según evaluación.",
+            "Matiz del examen: antes de 2026, NTS 042 enumeraba «EDA sin deshidratación o vómitos» en prioridad IV; el examen no ofrece esa alternativa y tiene clave D/III. Conocer la norma actual y el juicio clínico."
+          ],
+          "distractores": {
+            "A": "Prioridad II ≤10 min corresponde a amenaza mayor o inestabilidad; el caso no describe signos que obliguen a ella.",
+            "B": "Prioridad I exige riesgo vital inmediato, no evidenciado en la descripción.",
+            "C": "Prioridad V es no urgencia; un lactante con vómitos y diarrea requiere valoración y riesgo de deshidratación, no simple postergación como consulta rutinaria.",
+            "D": "Es la clave del cuadernillo y define correctamente la prioridad III como urgencia en ≤30 min, aunque faltan datos para afirmar que todos los casos semejantes sean III."
+          },
+          "normativa": [
+            {
+              "nombre": "RM N.° 625-2026/MINSA, 15 julio 2026, modifica NTS N.° 042-MINSA/DGSP-V.01",
+              "url": "https://busquedas.elperuano.pe/api/visor_html/2535379-1",
+              "aplicacion": "Cinco niveles de prioridad: I inmediata, II ≤10 min, III ≤30 min, IV ≤60 min, V ≤120 min"
+            },
+            {
+              "nombre": "RM N.° 386-2006/MINSA, norma técnica de los servicios de emergencia",
+              "url": "https://www.gob.pe/institucion/minsa/informes-publicaciones/353462-norma-tecnica-de-salud-de-los-servicios-de-emergencia-nt-n-042-minsa-dgsp-v-01",
+              "aplicacion": "Listado histórico que incluía EDA sin deshidratación o vómitos en prioridad IV; revisión actualizada por RM 625-2026"
+            },
+            {
+              "nombre": "MINSA, directiva de EDA, 2024",
+              "url": "https://cdn.www.gob.pe/uploads/document/file/7390817/6302670-1254_2024.pdf",
+              "aplicacion": "Criterios de referencia: vómitos persistentes, imposibilidad de TRO, deshidratación grave y signos de alarma"
+            }
+          ],
+          "mnemotecnia": "TRIAJE: I AHORA; II 10; III 30; IV 60; V 120 (minutos).",
+          "trampas": [
+            "«Sin deshidratación» no significa «sin riesgo» si hay vómitos persistentes o mala tolerancia oral.",
+            "Las prioridades incluyen IV, aunque el ítem solo presenta I, II, III y V.",
+            "La norma fue actualizada por RM 625-2026; no mezclar listas de 2006 con tiempos de 2026.",
+            "La priorización debe basarse en signos vitales y estado general; no es una etiqueta automática de EDA."
+          ],
+          "perla": "En P59 clave D = prioridad III, ≤30 min. Aprende toda la escala I inmediato, II 10, III 30, IV 60, V 120.",
+          "repaso_activo": [
+            "¿Cuál es el tiempo de prioridad III? — Inicio de atención ≤30 minutos.",
+            "¿Cuál es el de prioridad IV? — ≤60 minutos.",
+            "¿Qué da prioridad mayor al lactante con diarrea? — Inestabilidad, deshidratación grave o imposibilidad de rehidratar.",
+            "¿Qué norma actualizó los cinco niveles en 2026? — RM 625-2026/MINSA."
+          ],
+          "refuerzo": [
+            {
+              "enunciado": "Un adulto presenta problema de salud urgente, pero sin amenaza vital ni riesgo de secuela invalidante. Según la escala 2026, ¿qué prioridad y tiempo máximo de inicio de atención le corresponde?",
+              "alternativas": {
+                "A": "Prioridad I, atención inmediata",
+                "B": "Prioridad V, hasta 120 minutos",
+                "C": "Prioridad III, hasta 30 minutos",
+                "D": "Prioridad II, hasta 10 minutos",
+                "E": "Prioridad IV, hasta 60 minutos"
+              },
+              "respuesta": "C",
+              "explicacion": "La definición normativa de prioridad III es urgencia sin riesgo vital ni secuela invalidante y plazo de 30 minutos."
+            },
+            {
+              "enunciado": "Lactante con diarrea está letárgico, tiene pulsos débiles y llenado capilar prolongado. ¿Cuál es la conducta de triaje?",
+              "alternativas": {
+                "A": "Clasificar como compromiso grave e iniciar atención inmediata",
+                "B": "Mantener prioridad III por diagnóstico de EDA",
+                "C": "Programar cita ambulatoria en 48 horas",
+                "D": "Dar alta por ausencia de sangre en heces",
+                "E": "Esperar 120 minutos para valorar hidratación"
+              },
+              "respuesta": "A",
+              "explicacion": "Hay signos de hipoperfusión/choque, requieren máxima prioridad e intervención inmediata."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "number": 60,
+      "code": "ENCAPS26-II P060",
+      "course": "Bioestadística · medidas de tendencia central",
+      "topic": "Moda: valor o categoría de máxima frecuencia absoluta",
+      "options": {
+        "A": "varianza",
+        "B": "moda",
+        "C": "mediana",
+        "D": "media"
+      },
+      "comment": "CLAVE MARCADA PDF, aún no cotejada independientemente con clave oficial: B. Moda. Es el valor de la variable que se repite más veces, es decir, alcanza la frecuencia absoluta máxima.\n\nRAZONAMIENTO\nEl enunciado da literalmente la definición de moda recogida por INEI: el valor más frecuente de la muestra. Es medida de tendencia central aplicable también a variables categóricas, a diferencia de la media y mediana que requieren datos numéricos u ordinales adecuados según operación. Si más de un valor tiene igual frecuencia máxima puede haber dos modas (bimodal) o varias (multimodal). La moda no necesariamente se encuentra en el centro numérico y no es lo mismo que el valor promedio. La varianza cuantifica dispersión, no centralidad. Ejemplo: 3, 4, 4, 4, 7, 9 → moda 4; mediana 4, media 31/6 ≈ 5,17.\n\nDESARROLLO DEL TEMARIO\nModa: valor o categoría más frecuente. Se obtiene identificando la máxima frecuencia absoluta o relativa.\n\nUnimodal: hay una sola moda; bimodal: dos valores empatan con mayor frecuencia; multimodal: tres o más empatan.\n\nAplicación a cualitativas nominales: grupo sanguíneo o categoría de respuesta más habitual; no es necesario poder sumarlas.\n\nMedia aritmética: suma de valores / número de observaciones; muy sensible a valores extremos.\n\nMediana: punto central de datos ordenados; con tamaño par es promedio de los dos centrales cuando los datos son cuantitativos.\n\nVarianza: mide dispersión promedio cuadrática respecto de la media (con divisor según población o muestra), no tendencia central.\n\nEjemplo: 1,2,2,3,10 → moda 2, mediana 2, media 3,6; evidencia sensibilidad de media a extremo.\n\nFrecuencias de servicios: si los motivos de consulta son URI, EDA y lumbalgia, la categoría más frecuente es modal.\n\nUna distribución puede no tener moda única; la expresión «valor más representativo» depende del contexto y distribución.\n\nANÁLISIS DE ALTERNATIVAS\nA. Varianza mide variabilidad/dispersión, no qué valor aparece más veces.\nB. Correcta: moda = valor de frecuencia máxima.\nC. Mediana deja 50 % de observaciones a cada lado después de ordenar los datos; no requiere ser el valor más frecuente.\nD. Media es promedio aritmético, susceptible a valores extremos; no coincide necesariamente con el valor repetido.\n\nNORMATIVA Y FUENTES\nINEI, Glosario básico de términos estadísticos | https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib0900/Libro.pdf | Moda es el valor de máxima frecuencia absoluta y puede haber varias modas\nUNAM, Estadística, probabilidad e inferencia | https://prometeo.matem.unam.mx/recursos/VariosNiveles/iCartesiLibri/recursos/Estadistica_Probabilidad_e_Inferencia/ | Comparación entre moda, mediana y media; moda aplicable a variables nominales\n\nMNEMOTECNIA\nMODA = MÁS SE REPITE; MEDIA = PROMEDIO; MEDIANA = MITAD; VARIANZA = VARÍA.\n\nTRAMPAS\nModa sirve también para categorías nominales; media no puede calcularse de forma sensata para grupos sanguíneos.\nPuede haber dos modas o más; no obligatoriamente una.\nLa moda y la mediana pueden coincidir en un conjunto, pero tienen definiciones distintas.\nVarianza nunca es medida de tendencia central.\n\nPERLA\n«Se repite con mayor frecuencia» = MODA. Afirmación idéntica al glosario del INEI.",
+      "pearl": "«Se repite con mayor frecuencia» = MODA. Afirmación idéntica al glosario del INEI.",
+      "keywords": [
+        "Bioestadística · medidas de tendencia central",
+        "Moda: valor o categoría de máxima frecuencia absoluta",
+        "ENCAPS 2026-II",
+        "MINSA 276"
+      ],
+      "estadoDesarrollo": "completo",
+      "lesson": {
+        "respuesta_resumida": "B. Moda. Es el valor de la variable que se repite más veces, es decir, alcanza la frecuencia absoluta máxima.",
+        "razonamiento": "El enunciado da literalmente la definición de moda recogida por INEI: el valor más frecuente de la muestra. Es medida de tendencia central aplicable también a variables categóricas, a diferencia de la media y mediana que requieren datos numéricos u ordinales adecuados según operación. Si más de un valor tiene igual frecuencia máxima puede haber dos modas (bimodal) o varias (multimodal). La moda no necesariamente se encuentra en el centro numérico y no es lo mismo que el valor promedio. La varianza cuantifica dispersión, no centralidad. Ejemplo: 3, 4, 4, 4, 7, 9 → moda 4; mediana 4, media 31/6 ≈ 5,17.",
+        "temario": [
+          "Moda: valor o categoría más frecuente. Se obtiene identificando la máxima frecuencia absoluta o relativa.",
+          "Unimodal: hay una sola moda; bimodal: dos valores empatan con mayor frecuencia; multimodal: tres o más empatan.",
+          "Aplicación a cualitativas nominales: grupo sanguíneo o categoría de respuesta más habitual; no es necesario poder sumarlas.",
+          "Media aritmética: suma de valores / número de observaciones; muy sensible a valores extremos.",
+          "Mediana: punto central de datos ordenados; con tamaño par es promedio de los dos centrales cuando los datos son cuantitativos.",
+          "Varianza: mide dispersión promedio cuadrática respecto de la media (con divisor según población o muestra), no tendencia central.",
+          "Ejemplo: 1,2,2,3,10 → moda 2, mediana 2, media 3,6; evidencia sensibilidad de media a extremo.",
+          "Frecuencias de servicios: si los motivos de consulta son URI, EDA y lumbalgia, la categoría más frecuente es modal.",
+          "Una distribución puede no tener moda única; la expresión «valor más representativo» depende del contexto y distribución."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Varianza mide variabilidad/dispersión, no qué valor aparece más veces.",
+          "B": "Correcta: moda = valor de frecuencia máxima.",
+          "C": "Mediana deja 50 % de observaciones a cada lado después de ordenar los datos; no requiere ser el valor más frecuente.",
+          "D": "Media es promedio aritmético, susceptible a valores extremos; no coincide necesariamente con el valor repetido."
+        },
+        "normativa": [
+          "INEI, Glosario básico de términos estadísticos | https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib0900/Libro.pdf | Moda es el valor de máxima frecuencia absoluta y puede haber varias modas",
+          "UNAM, Estadística, probabilidad e inferencia | https://prometeo.matem.unam.mx/recursos/VariosNiveles/iCartesiLibri/recursos/Estadistica_Probabilidad_e_Inferencia/ | Comparación entre moda, mediana y media; moda aplicable a variables nominales"
+        ],
+        "mnemotecnia": "MODA = MÁS SE REPITE; MEDIA = PROMEDIO; MEDIANA = MITAD; VARIANZA = VARÍA.",
+        "trampas": [
+          "Moda sirve también para categorías nominales; media no puede calcularse de forma sensata para grupos sanguíneos.",
+          "Puede haber dos modas o más; no obligatoriamente una.",
+          "La moda y la mediana pueden coincidir en un conjunto, pero tienen definiciones distintas.",
+          "Varianza nunca es medida de tendencia central."
+        ],
+        "perla": "«Se repite con mayor frecuencia» = MODA. Afirmación idéntica al glosario del INEI.",
+        "repaso_activo": [
+          "¿Cómo se define moda? — Valor/categoría con máxima frecuencia.",
+          "¿Qué diferencia hay entre moda y mediana? — Frecuencia mayor frente a posición central ordenada.",
+          "¿Qué medida sirve para cualitativas nominales? — Moda.",
+          "¿Dos valores con máxima frecuencia implican qué distribución? — Bimodal."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "En un grupo se registran los valores 2, 2, 3, 5, 5, 5, 9. ¿Cuál es la moda?",
+            "alternativas": {
+              "A": "2",
+              "B": "3",
+              "C": "4",
+              "D": "5",
+              "E": "9"
+            },
+            "respuesta": "D",
+            "explicacion": "El número 5 aparece tres veces, con frecuencia máxima."
+          },
+          {
+            "enunciado": "Los grupos sanguíneos observados son O, A, O, B, A, O, AB. ¿Qué medida de centralidad puede utilizarse directamente para describir la categoría más frecuente?",
+            "alternativas": {
+              "A": "Media aritmética",
+              "B": "Varianza muestral",
+              "C": "Desviación estándar",
+              "D": "Mediana cuantitativa",
+              "E": "Moda"
+            },
+            "respuesta": "E",
+            "explicacion": "La moda es aplicable a categorías nominales: O aparece con mayor frecuencia."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Moda: valor o categoría de máxima frecuencia absoluta",
+          "eje": "Bioestadística · medidas de tendencia central",
+          "confiabilidad": "clave_resaltada_fundamento_concordante",
+          "respuesta_resumida": "B. Moda. Es el valor de la variable que se repite más veces, es decir, alcanza la frecuencia absoluta máxima.",
+          "razonamiento": [
+            "El enunciado da literalmente la definición de moda recogida por INEI: el valor más frecuente de la muestra. Es medida de tendencia central aplicable también a variables categóricas, a diferencia de la media y mediana que requieren datos numéricos u ordinales adecuados según operación. Si más de un valor tiene igual frecuencia máxima puede haber dos modas (bimodal) o varias (multimodal). La moda no necesariamente se encuentra en el centro numérico y no es lo mismo que el valor promedio. La varianza cuantifica dispersión, no centralidad. Ejemplo: 3, 4, 4, 4, 7, 9 → moda 4; mediana 4, media 31/6 ≈ 5,17."
+          ],
+          "temario": [
+            "Moda: valor o categoría más frecuente. Se obtiene identificando la máxima frecuencia absoluta o relativa.",
+            "Unimodal: hay una sola moda; bimodal: dos valores empatan con mayor frecuencia; multimodal: tres o más empatan.",
+            "Aplicación a cualitativas nominales: grupo sanguíneo o categoría de respuesta más habitual; no es necesario poder sumarlas.",
+            "Media aritmética: suma de valores / número de observaciones; muy sensible a valores extremos.",
+            "Mediana: punto central de datos ordenados; con tamaño par es promedio de los dos centrales cuando los datos son cuantitativos.",
+            "Varianza: mide dispersión promedio cuadrática respecto de la media (con divisor según población o muestra), no tendencia central.",
+            "Ejemplo: 1,2,2,3,10 → moda 2, mediana 2, media 3,6; evidencia sensibilidad de media a extremo.",
+            "Frecuencias de servicios: si los motivos de consulta son URI, EDA y lumbalgia, la categoría más frecuente es modal.",
+            "Una distribución puede no tener moda única; la expresión «valor más representativo» depende del contexto y distribución."
+          ],
+          "distractores": {
+            "A": "Varianza mide variabilidad/dispersión, no qué valor aparece más veces.",
+            "B": "Correcta: moda = valor de frecuencia máxima.",
+            "C": "Mediana deja 50 % de observaciones a cada lado después de ordenar los datos; no requiere ser el valor más frecuente.",
+            "D": "Media es promedio aritmético, susceptible a valores extremos; no coincide necesariamente con el valor repetido."
+          },
+          "normativa": [
+            {
+              "nombre": "INEI, Glosario básico de términos estadísticos",
+              "url": "https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib0900/Libro.pdf",
+              "aplicacion": "Moda es el valor de máxima frecuencia absoluta y puede haber varias modas"
+            },
+            {
+              "nombre": "UNAM, Estadística, probabilidad e inferencia",
+              "url": "https://prometeo.matem.unam.mx/recursos/VariosNiveles/iCartesiLibri/recursos/Estadistica_Probabilidad_e_Inferencia/",
+              "aplicacion": "Comparación entre moda, mediana y media; moda aplicable a variables nominales"
+            }
+          ],
+          "mnemotecnia": "MODA = MÁS SE REPITE; MEDIA = PROMEDIO; MEDIANA = MITAD; VARIANZA = VARÍA.",
+          "trampas": [
+            "Moda sirve también para categorías nominales; media no puede calcularse de forma sensata para grupos sanguíneos.",
+            "Puede haber dos modas o más; no obligatoriamente una.",
+            "La moda y la mediana pueden coincidir en un conjunto, pero tienen definiciones distintas.",
+            "Varianza nunca es medida de tendencia central."
+          ],
+          "perla": "«Se repite con mayor frecuencia» = MODA. Afirmación idéntica al glosario del INEI.",
+          "repaso_activo": [
+            "¿Cómo se define moda? — Valor/categoría con máxima frecuencia.",
+            "¿Qué diferencia hay entre moda y mediana? — Frecuencia mayor frente a posición central ordenada.",
+            "¿Qué medida sirve para cualitativas nominales? — Moda.",
+            "¿Dos valores con máxima frecuencia implican qué distribución? — Bimodal."
+          ],
+          "refuerzo": [
+            {
+              "enunciado": "En un grupo se registran los valores 2, 2, 3, 5, 5, 5, 9. ¿Cuál es la moda?",
+              "alternativas": {
+                "A": "2",
+                "B": "3",
+                "C": "4",
+                "D": "5",
+                "E": "9"
+              },
+              "respuesta": "D",
+              "explicacion": "El número 5 aparece tres veces, con frecuencia máxima."
+            },
+            {
+              "enunciado": "Los grupos sanguíneos observados son O, A, O, B, A, O, AB. ¿Qué medida de centralidad puede utilizarse directamente para describir la categoría más frecuente?",
+              "alternativas": {
+                "A": "Media aritmética",
+                "B": "Varianza muestral",
+                "C": "Desviación estándar",
+                "D": "Mediana cuantitativa",
+                "E": "Moda"
+              },
+              "respuesta": "E",
+              "explicacion": "La moda es aplicable a categorías nominales: O aparece con mayor frecuencia."
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
