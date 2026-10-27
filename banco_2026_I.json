@@ -3,7 +3,7 @@
   "bankId": "ENCAPS_2026_I",
   "title": "ENCAPS 2026-I · Medicina Humana",
   "source": "Examen SERUMS Medicina 19 abril 2026 · claves resaltadas en PDF del usuario",
-  "questionCount": 40,
+  "questionCount": 45,
   "questions": [
     {
       "number": 1,
@@ -4303,6 +4303,466 @@
         "leccion_extendida": {
           "titulo": "Referencia y contrarreferencia: continuidad y capacidad resolutiva",
           "desarrollo": "CLAVE INTERPRETADA — PENDIENTE DE COTEJO OFICIAL INDEPENDIENTE\nA. Referencia\n\nRAZONAMIENTO COMPLETO\nLa referencia traslada coordinadamente al usuario de un establecimiento a otro de mayor o diferente capacidad resolutiva cuando la necesidad supera los recursos disponibles, asegurando continuidad. La contrarreferencia devuelve información y seguimiento al establecimiento de origen tras atención del receptor.\n\nDESARROLLO DEL TEMARIO\n1. Referencia como procedimiento asistencial-administrativo de transferencia para prestaciones necesarias.\n2. Capacidad resolutiva considera profesionales, equipamiento, cartera, horario y transporte.\n3. Motivos: necesidad diagnóstica, tratamiento especializado, hospitalización o emergencia.\n4. Previo al traslado: evaluación, estabilización y comunicación con receptor.\n5. Documentación: motivo, hallazgos, tratamientos, estado y prioridad.\n6. Contra-referencia: comunicación de diagnóstico, conducta, recomendaciones y controles al origen.\n7. Evitar referencias innecesarias, duplicaciones, pérdidas de información y barreras económicas.\n8. Emergencia: prima seguridad y acceso sobre trámites de rutina.\n9. Continuidad longitudinal y coordinación en redes integradas de salud.\n\nTODAS LAS ALTERNATIVAS\nA) Correcta: transferencia del origen al destino con mayor capacidad resolutiva.\nB) Contrarreferencia es retorno de información/seguimiento desde receptor hacia origen.\nC) APS es un enfoque amplio de organización y cuidado, no el procedimiento específico.\nD) Atención compartida implica coordinación simultánea, no define el traslado descrito.\n\nREFERENCIAS\nMINSA, norma técnica de los servicios de referencia y contrarreferencia de los establecimientos de salud.\nMINSA, modelo de cuidado integral y Redes Integradas de Salud.\n\nTRAMPAS\nReferencia no es abandono del paciente.\nLa contrarreferencia no equivale necesariamente a transporte físico de regreso.\nUna derivación debe documentarse y coordinarse.\n\nMNEMOTECNIA\nREFERENCIA = SUBE; CONTRARREFERENCIA = REGRESA CON PLAN.\n\nREPASO ACTIVO\nRespuesta interpretada: A. Referencia\nRegla: REFERENCIA = SUBE; CONTRARREFERENCIA = REGRESA CON PLAN.\nReferencia no es abandono del paciente.\nLa contrarreferencia no equivale necesariamente a transporte físico de regreso.\nUna derivación debe documentarse y coordinarse.\n\nDOS CASOS DE REFUERZO\n1. IPRESS I-2 envía paciente a hospital para evaluación quirúrgica. ¿Proceso?\nA) Contrarreferencia\nB) Dispensación\nC) Alta voluntaria\nD) Referencia\nE) Notificación de RAM\nClave D. Se transfiere a mayor capacidad.\n\n2. Hospital devuelve informe y plan de seguimiento al establecimiento de origen. ¿Proceso?\nA) Tamizaje\nB) Contrarreferencia\nC) Referencia inicial\nD) Farmacovigilancia\nE) Triage\nClave B. Asegura continuidad de la atención."
+        }
+      }
+    },
+    {
+      "number": 41,
+      "question": "En la evaluación de una gestante se evidencia úlcera indurada e indolora (chancro) localizada en mucosa genital. ¿En qué fase de la historia natural de la enfermedad se encuentra?",
+      "options": {
+        "A": "Clínica",
+        "B": "Subclínica",
+        "C": "Inducción",
+        "D": "Resolutiva"
+      },
+      "correct": "A",
+      "code": "ENCAPS26-I P041",
+      "course": "ENCAPS Medicina 2026-I · Temario desarrollado",
+      "topic": "Sífilis primaria y fase clínica de la historia natural",
+      "comment": "RESPUESTA RAZONADA — PENDIENTE DE COTEJO INDEPENDIENTE CON CLAVE OFICIAL\nA. Clínica\n\nRAZONAMIENTO CLÍNICO / EPIDEMIOLÓGICO\nEl chancro sifilítico es una manifestación objetiva de sífilis primaria, por lo que la enfermedad está en período patogénico clínico. La infección ya superó la fase de incubación subclínica. En una gestante, el hallazgo demanda pruebas, tratamiento oportuno y valoración de pareja y recién nacido, según protocolo.\n\nDESARROLLO DEL TEMARIO\n1. Historia natural: período prepatogénico, incubación subclínica, etapa clínica y desenlace.\n2. Sífilis primaria: chancro usualmente único, indurado e indoloro, con posibles adenopatías.\n3. Treponema pallidum es una espiroqueta transmisible sexualmente y verticalmente.\n4. La incubación precede al chancro; durante ella puede no haber síntomas.\n5. Sífilis secundaria: exantema palmoplantar, condilomas planos y manifestaciones sistémicas.\n6. Latencia: serología reactiva sin manifestaciones clínicas evidentes.\n7. Pruebas treponémicas y no treponémicas tienen funciones diferentes.\n8. Gestación: diagnóstico y penicilina según estadio, prevención de sífilis congénita y seguimiento de títulos.\n9. Se deben evaluar otras etiologías de úlcera genital; un chancro típico no elimina necesidad de pruebas.\n\nANÁLISIS DE LAS CUATRO ALTERNATIVAS\nA) Correcta: lesión genital visible es signo clínico.\nB) La fase subclínica carece de manifestaciones detectables como chancro.\nC) Inducción no es la fase representada por manifestación sifilítica establecida.\nD) Resolutiva implica desenlace, no manifestación activa primaria.\n\nNORMATIVA Y REFERENCIAS\nMINSA, NTS de prevención de transmisión maternoinfantil de VIH y sífilis, con actualizaciones.\nOMS: guías de tratamiento de Treponema pallidum en gestantes.\n\nTRAMPAS FRECUENTES\nNo confundir ausencia de dolor con ausencia de enfermedad.\nLas pruebas pueden no ser uniformemente sensibles en fase muy precoz.\nEl tratamiento durante gestación debe ajustarse al estadio.\n\nMNEMOTECNIA\nCHANCRO = CLÍNICA.\n\nREPASO ACTIVO\nRespuesta: A. Clínica\nRegla: CHANCRO = CLÍNICA.\nNo confundir ausencia de dolor con ausencia de enfermedad.\nLas pruebas pueden no ser uniformemente sensibles en fase muy precoz.\nEl tratamiento durante gestación debe ajustarse al estadio.\n\nCASOS DE REFUERZO\n1. Gestante presenta chancro genital indoloro. ¿Período?\nA) Prepatogénico\nB) Subclínico\nC) Clínico\nD) Incubación\nE) Convalecencia\nClave C. La manifestación observable marca etapa clínica.\n\n2. Paciente tiene prueba serológica positiva y ninguna lesión ni síntoma. ¿Fase de sífilis posible?\nA) Latente\nB) Primaria con chancro visible\nC) Choque séptico\nD) Resolución obligatoria\nE) Neurosífilis confirmada\nClave A. La sífilis latente carece de síntomas clínicos evidentes.",
+      "pearl": "CHANCRO = CLÍNICA.",
+      "keywords": [
+        "Sífilis primaria y fase clínica de la historia natural",
+        "ENCAPS Medicina 2026-I",
+        "SERUMS MINSA"
+      ],
+      "estadoDesarrollo": "completo",
+      "estadoClave": "interpretacion_pendiente_cotejo_clave_oficial",
+      "lesson": {
+        "respuesta_resumida": "A. Clínica",
+        "razonamiento": "El chancro sifilítico es una manifestación objetiva de sífilis primaria, por lo que la enfermedad está en período patogénico clínico. La infección ya superó la fase de incubación subclínica. En una gestante, el hallazgo demanda pruebas, tratamiento oportuno y valoración de pareja y recién nacido, según protocolo.",
+        "temario": [
+          "Historia natural: período prepatogénico, incubación subclínica, etapa clínica y desenlace.",
+          "Sífilis primaria: chancro usualmente único, indurado e indoloro, con posibles adenopatías.",
+          "Treponema pallidum es una espiroqueta transmisible sexualmente y verticalmente.",
+          "La incubación precede al chancro; durante ella puede no haber síntomas.",
+          "Sífilis secundaria: exantema palmoplantar, condilomas planos y manifestaciones sistémicas.",
+          "Latencia: serología reactiva sin manifestaciones clínicas evidentes.",
+          "Pruebas treponémicas y no treponémicas tienen funciones diferentes.",
+          "Gestación: diagnóstico y penicilina según estadio, prevención de sífilis congénita y seguimiento de títulos.",
+          "Se deben evaluar otras etiologías de úlcera genital; un chancro típico no elimina necesidad de pruebas."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Correcta: lesión genital visible es signo clínico.",
+          "B": "La fase subclínica carece de manifestaciones detectables como chancro.",
+          "C": "Inducción no es la fase representada por manifestación sifilítica establecida.",
+          "D": "Resolutiva implica desenlace, no manifestación activa primaria."
+        },
+        "normativa": [
+          "MINSA, NTS de prevención de transmisión maternoinfantil de VIH y sífilis, con actualizaciones.",
+          "OMS: guías de tratamiento de Treponema pallidum en gestantes."
+        ],
+        "mnemotecnia": "CHANCRO = CLÍNICA.",
+        "trampas": [
+          "No confundir ausencia de dolor con ausencia de enfermedad.",
+          "Las pruebas pueden no ser uniformemente sensibles en fase muy precoz.",
+          "El tratamiento durante gestación debe ajustarse al estadio."
+        ],
+        "perla": "CHANCRO = CLÍNICA.",
+        "repaso_activo": [
+          "Respuesta: A. Clínica",
+          "Regla: CHANCRO = CLÍNICA.",
+          "No confundir ausencia de dolor con ausencia de enfermedad.",
+          "Las pruebas pueden no ser uniformemente sensibles en fase muy precoz.",
+          "El tratamiento durante gestación debe ajustarse al estadio."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Gestante presenta chancro genital indoloro. ¿Período?",
+            "alternativas": {
+              "A": "Prepatogénico",
+              "B": "Subclínico",
+              "C": "Clínico",
+              "D": "Incubación",
+              "E": "Convalecencia"
+            },
+            "respuesta": "C",
+            "explicacion": "La manifestación observable marca etapa clínica."
+          },
+          {
+            "enunciado": "Paciente tiene prueba serológica positiva y ninguna lesión ni síntoma. ¿Fase de sífilis posible?",
+            "alternativas": {
+              "A": "Latente",
+              "B": "Primaria con chancro visible",
+              "C": "Choque séptico",
+              "D": "Resolución obligatoria",
+              "E": "Neurosífilis confirmada"
+            },
+            "respuesta": "A",
+            "explicacion": "La sífilis latente carece de síntomas clínicos evidentes."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Sífilis primaria y fase clínica de la historia natural",
+          "desarrollo": "RESPUESTA RAZONADA — PENDIENTE DE COTEJO INDEPENDIENTE CON CLAVE OFICIAL\nA. Clínica\n\nRAZONAMIENTO CLÍNICO / EPIDEMIOLÓGICO\nEl chancro sifilítico es una manifestación objetiva de sífilis primaria, por lo que la enfermedad está en período patogénico clínico. La infección ya superó la fase de incubación subclínica. En una gestante, el hallazgo demanda pruebas, tratamiento oportuno y valoración de pareja y recién nacido, según protocolo.\n\nDESARROLLO DEL TEMARIO\n1. Historia natural: período prepatogénico, incubación subclínica, etapa clínica y desenlace.\n2. Sífilis primaria: chancro usualmente único, indurado e indoloro, con posibles adenopatías.\n3. Treponema pallidum es una espiroqueta transmisible sexualmente y verticalmente.\n4. La incubación precede al chancro; durante ella puede no haber síntomas.\n5. Sífilis secundaria: exantema palmoplantar, condilomas planos y manifestaciones sistémicas.\n6. Latencia: serología reactiva sin manifestaciones clínicas evidentes.\n7. Pruebas treponémicas y no treponémicas tienen funciones diferentes.\n8. Gestación: diagnóstico y penicilina según estadio, prevención de sífilis congénita y seguimiento de títulos.\n9. Se deben evaluar otras etiologías de úlcera genital; un chancro típico no elimina necesidad de pruebas.\n\nANÁLISIS DE LAS CUATRO ALTERNATIVAS\nA) Correcta: lesión genital visible es signo clínico.\nB) La fase subclínica carece de manifestaciones detectables como chancro.\nC) Inducción no es la fase representada por manifestación sifilítica establecida.\nD) Resolutiva implica desenlace, no manifestación activa primaria.\n\nNORMATIVA Y REFERENCIAS\nMINSA, NTS de prevención de transmisión maternoinfantil de VIH y sífilis, con actualizaciones.\nOMS: guías de tratamiento de Treponema pallidum en gestantes.\n\nTRAMPAS FRECUENTES\nNo confundir ausencia de dolor con ausencia de enfermedad.\nLas pruebas pueden no ser uniformemente sensibles en fase muy precoz.\nEl tratamiento durante gestación debe ajustarse al estadio.\n\nMNEMOTECNIA\nCHANCRO = CLÍNICA.\n\nREPASO ACTIVO\nRespuesta: A. Clínica\nRegla: CHANCRO = CLÍNICA.\nNo confundir ausencia de dolor con ausencia de enfermedad.\nLas pruebas pueden no ser uniformemente sensibles en fase muy precoz.\nEl tratamiento durante gestación debe ajustarse al estadio.\n\nCASOS DE REFUERZO\n1. Gestante presenta chancro genital indoloro. ¿Período?\nA) Prepatogénico\nB) Subclínico\nC) Clínico\nD) Incubación\nE) Convalecencia\nClave C. La manifestación observable marca etapa clínica.\n\n2. Paciente tiene prueba serológica positiva y ninguna lesión ni síntoma. ¿Fase de sífilis posible?\nA) Latente\nB) Primaria con chancro visible\nC) Choque séptico\nD) Resolución obligatoria\nE) Neurosífilis confirmada\nClave A. La sífilis latente carece de síntomas clínicos evidentes."
+        }
+      }
+    },
+    {
+      "number": 42,
+      "question": "En una comunidad con escenario de intervención III para Aedes aegypti se realizaron actividades de vigilancia mediante ovitrampas, obteniendo un índice IPO/IDH de 70. ¿Qué medidas se debe adoptar, considerando la estratificación del riesgo entomológico?",
+      "options": {
+        "A": "Aplicar larvicidas y adulticidas",
+        "B": "Realizar inspecciones adicionales",
+        "C": "Identificar criaderos para eliminar",
+        "D": "Seguir con el monitoreo"
+      },
+      "correct": "A",
+      "code": "ENCAPS26-I P042",
+      "course": "ENCAPS Medicina 2026-I · Temario desarrollado",
+      "topic": "Ovitrampas Aedes aegypti: IPO/IDH, riesgo nivel 4 y control vectorial",
+      "comment": "RESPUESTA RAZONADA — PENDIENTE DE COTEJO INDEPENDIENTE CON CLAVE OFICIAL\nA. Aplicar larvicidas y adulticidas\n\nRAZONAMIENTO CLÍNICO / EPIDEMIOLÓGICO\nEn el protocolo MINSA de ovitrampas, IPO/IDH superior a 40 corresponde a nivel 4; el valor 70 requiere otras medidas de control mediante larvicidas o adulticidas. La eliminación de criaderos y vigilancia continúan, pero resultan insuficientes como única respuesta ante esa estratificación y escenario III.\n\nDESARROLLO DEL TEMARIO\n1. Aedes aegypti transmite dengue, chikungunya, Zika y fiebre amarilla urbana en contextos adecuados.\n2. Ovitrampas permiten vigilar oviposición y distribución del vector.\n3. IPO representa porcentaje de ovitrampas positivas; IDH, densidad de huevos según protocolo.\n4. Niveles de riesgo normativos: nivel 1 hasta 5; nivel 2 por encima de 5 hasta 20; nivel 3 por encima de 20 hasta 40; nivel 4 por encima de 40.\n5. IPO/IDH de 70 supera umbral de nivel 4.\n6. Escenario III implica transmisión autóctona/brote y necesidad de respuesta más intensiva.\n7. Nivel 4: medidas mediante larvicidas o adulticidas según evaluación y norma.\n8. Control integrado incluye eliminación de criaderos, vigilancia, participación comunitaria y evaluación postintervención.\n9. Uso de insecticidas exige capacitación, seguridad y considerar resistencia del vector.\n\nANÁLISIS DE LAS CUATRO ALTERNATIVAS\nA) Correcta: nivel 4 demanda considerar larvicidas o adulticidas.\nB) Inspecciones adicionales corresponden a nivel de riesgo menor, no respuesta suficiente en nivel 4.\nC) Eliminar criaderos es fundamental, pero no distingue el umbral de 70 del protocolo.\nD) Solo monitorear está indicado en riesgo mínimo, no ante IPO/IDH 70.\n\nNORMATIVA Y REFERENCIAS\nMINSA Protocolo Sanitario de Urgencia para vigilancia entomológica de Aedes aegypti mediante ovitrampas: https://bvs.minsa.gob.pe/local/MINSA/3817.pdf\n\nTRAMPAS FRECUENTES\nNo confundir número de huevos por ovitrampa con IPO/IDH.\nLas medidas químicas complementan, no sustituyen, control de criaderos.\nEl nivel 4 se define por índice mayor que 40.\n\nMNEMOTECNIA\nIPO >40 → NIVEL 4 → LARVICIDA/ADULTICIDA.\n\nREPASO ACTIVO\nRespuesta: A. Aplicar larvicidas y adulticidas\nRegla: IPO >40 → NIVEL 4 → LARVICIDA/ADULTICIDA.\nNo confundir número de huevos por ovitrampa con IPO/IDH.\nLas medidas químicas complementan, no sustituyen, control de criaderos.\nEl nivel 4 se define por índice mayor que 40.\n\nCASOS DE REFUERZO\n1. Índice IPO alcanza 55. ¿Clasificación?\nA) Nivel 1\nB) Nivel 2\nC) Nivel 3\nD) Nivel 4\nE) No medible\nClave D. Supera 40 y corresponde a nivel 4.\n\n2. Índice IPO es 10. ¿Qué medida caracteriza ese nivel según protocolo?\nA) Solo fumigación masiva automática\nB) Inspección semanal y eliminación de criaderos\nC) No vigilar\nD) Cerrar establecimiento\nE) Descartar agua potable\nClave B. El nivel 2 enfatiza inspección de criaderos.",
+      "pearl": "IPO >40 → NIVEL 4 → LARVICIDA/ADULTICIDA.",
+      "keywords": [
+        "Ovitrampas Aedes aegypti: IPO/IDH, riesgo nivel 4 y control vectorial",
+        "ENCAPS Medicina 2026-I",
+        "SERUMS MINSA"
+      ],
+      "estadoDesarrollo": "completo",
+      "estadoClave": "interpretacion_pendiente_cotejo_clave_oficial",
+      "lesson": {
+        "respuesta_resumida": "A. Aplicar larvicidas y adulticidas",
+        "razonamiento": "En el protocolo MINSA de ovitrampas, IPO/IDH superior a 40 corresponde a nivel 4; el valor 70 requiere otras medidas de control mediante larvicidas o adulticidas. La eliminación de criaderos y vigilancia continúan, pero resultan insuficientes como única respuesta ante esa estratificación y escenario III.",
+        "temario": [
+          "Aedes aegypti transmite dengue, chikungunya, Zika y fiebre amarilla urbana en contextos adecuados.",
+          "Ovitrampas permiten vigilar oviposición y distribución del vector.",
+          "IPO representa porcentaje de ovitrampas positivas; IDH, densidad de huevos según protocolo.",
+          "Niveles de riesgo normativos: nivel 1 hasta 5; nivel 2 por encima de 5 hasta 20; nivel 3 por encima de 20 hasta 40; nivel 4 por encima de 40.",
+          "IPO/IDH de 70 supera umbral de nivel 4.",
+          "Escenario III implica transmisión autóctona/brote y necesidad de respuesta más intensiva.",
+          "Nivel 4: medidas mediante larvicidas o adulticidas según evaluación y norma.",
+          "Control integrado incluye eliminación de criaderos, vigilancia, participación comunitaria y evaluación postintervención.",
+          "Uso de insecticidas exige capacitación, seguridad y considerar resistencia del vector."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Correcta: nivel 4 demanda considerar larvicidas o adulticidas.",
+          "B": "Inspecciones adicionales corresponden a nivel de riesgo menor, no respuesta suficiente en nivel 4.",
+          "C": "Eliminar criaderos es fundamental, pero no distingue el umbral de 70 del protocolo.",
+          "D": "Solo monitorear está indicado en riesgo mínimo, no ante IPO/IDH 70."
+        },
+        "normativa": [
+          "MINSA Protocolo Sanitario de Urgencia para vigilancia entomológica de Aedes aegypti mediante ovitrampas: https://bvs.minsa.gob.pe/local/MINSA/3817.pdf"
+        ],
+        "mnemotecnia": "IPO >40 → NIVEL 4 → LARVICIDA/ADULTICIDA.",
+        "trampas": [
+          "No confundir número de huevos por ovitrampa con IPO/IDH.",
+          "Las medidas químicas complementan, no sustituyen, control de criaderos.",
+          "El nivel 4 se define por índice mayor que 40."
+        ],
+        "perla": "IPO >40 → NIVEL 4 → LARVICIDA/ADULTICIDA.",
+        "repaso_activo": [
+          "Respuesta: A. Aplicar larvicidas y adulticidas",
+          "Regla: IPO >40 → NIVEL 4 → LARVICIDA/ADULTICIDA.",
+          "No confundir número de huevos por ovitrampa con IPO/IDH.",
+          "Las medidas químicas complementan, no sustituyen, control de criaderos.",
+          "El nivel 4 se define por índice mayor que 40."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Índice IPO alcanza 55. ¿Clasificación?",
+            "alternativas": {
+              "A": "Nivel 1",
+              "B": "Nivel 2",
+              "C": "Nivel 3",
+              "D": "Nivel 4",
+              "E": "No medible"
+            },
+            "respuesta": "D",
+            "explicacion": "Supera 40 y corresponde a nivel 4."
+          },
+          {
+            "enunciado": "Índice IPO es 10. ¿Qué medida caracteriza ese nivel según protocolo?",
+            "alternativas": {
+              "A": "Solo fumigación masiva automática",
+              "B": "Inspección semanal y eliminación de criaderos",
+              "C": "No vigilar",
+              "D": "Cerrar establecimiento",
+              "E": "Descartar agua potable"
+            },
+            "respuesta": "B",
+            "explicacion": "El nivel 2 enfatiza inspección de criaderos."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Ovitrampas Aedes aegypti: IPO/IDH, riesgo nivel 4 y control vectorial",
+          "desarrollo": "RESPUESTA RAZONADA — PENDIENTE DE COTEJO INDEPENDIENTE CON CLAVE OFICIAL\nA. Aplicar larvicidas y adulticidas\n\nRAZONAMIENTO CLÍNICO / EPIDEMIOLÓGICO\nEn el protocolo MINSA de ovitrampas, IPO/IDH superior a 40 corresponde a nivel 4; el valor 70 requiere otras medidas de control mediante larvicidas o adulticidas. La eliminación de criaderos y vigilancia continúan, pero resultan insuficientes como única respuesta ante esa estratificación y escenario III.\n\nDESARROLLO DEL TEMARIO\n1. Aedes aegypti transmite dengue, chikungunya, Zika y fiebre amarilla urbana en contextos adecuados.\n2. Ovitrampas permiten vigilar oviposición y distribución del vector.\n3. IPO representa porcentaje de ovitrampas positivas; IDH, densidad de huevos según protocolo.\n4. Niveles de riesgo normativos: nivel 1 hasta 5; nivel 2 por encima de 5 hasta 20; nivel 3 por encima de 20 hasta 40; nivel 4 por encima de 40.\n5. IPO/IDH de 70 supera umbral de nivel 4.\n6. Escenario III implica transmisión autóctona/brote y necesidad de respuesta más intensiva.\n7. Nivel 4: medidas mediante larvicidas o adulticidas según evaluación y norma.\n8. Control integrado incluye eliminación de criaderos, vigilancia, participación comunitaria y evaluación postintervención.\n9. Uso de insecticidas exige capacitación, seguridad y considerar resistencia del vector.\n\nANÁLISIS DE LAS CUATRO ALTERNATIVAS\nA) Correcta: nivel 4 demanda considerar larvicidas o adulticidas.\nB) Inspecciones adicionales corresponden a nivel de riesgo menor, no respuesta suficiente en nivel 4.\nC) Eliminar criaderos es fundamental, pero no distingue el umbral de 70 del protocolo.\nD) Solo monitorear está indicado en riesgo mínimo, no ante IPO/IDH 70.\n\nNORMATIVA Y REFERENCIAS\nMINSA Protocolo Sanitario de Urgencia para vigilancia entomológica de Aedes aegypti mediante ovitrampas: https://bvs.minsa.gob.pe/local/MINSA/3817.pdf\n\nTRAMPAS FRECUENTES\nNo confundir número de huevos por ovitrampa con IPO/IDH.\nLas medidas químicas complementan, no sustituyen, control de criaderos.\nEl nivel 4 se define por índice mayor que 40.\n\nMNEMOTECNIA\nIPO >40 → NIVEL 4 → LARVICIDA/ADULTICIDA.\n\nREPASO ACTIVO\nRespuesta: A. Aplicar larvicidas y adulticidas\nRegla: IPO >40 → NIVEL 4 → LARVICIDA/ADULTICIDA.\nNo confundir número de huevos por ovitrampa con IPO/IDH.\nLas medidas químicas complementan, no sustituyen, control de criaderos.\nEl nivel 4 se define por índice mayor que 40.\n\nCASOS DE REFUERZO\n1. Índice IPO alcanza 55. ¿Clasificación?\nA) Nivel 1\nB) Nivel 2\nC) Nivel 3\nD) Nivel 4\nE) No medible\nClave D. Supera 40 y corresponde a nivel 4.\n\n2. Índice IPO es 10. ¿Qué medida caracteriza ese nivel según protocolo?\nA) Solo fumigación masiva automática\nB) Inspección semanal y eliminación de criaderos\nC) No vigilar\nD) Cerrar establecimiento\nE) Descartar agua potable\nClave B. El nivel 2 enfatiza inspección de criaderos."
+        }
+      }
+    },
+    {
+      "number": 43,
+      "question": "Un centro de salud I-3 que no genera más de 10 litros al día de residuos sólidos biocontaminados y cuenta con autoclave para el tratamiento. ¿Cuál es el tiempo máximo que puede almacenarlos antes de su disposición final?",
+      "options": {
+        "A": "Un mes",
+        "B": "Tres días",
+        "C": "48 horas",
+        "D": "Siete días"
+      },
+      "correct": "D",
+      "code": "ENCAPS26-I P043",
+      "course": "ENCAPS Medicina 2026-I · Temario desarrollado",
+      "topic": "Residuos biocontaminados: excepción de siete días con autoclave",
+      "comment": "RESPUESTA RAZONADA — PENDIENTE DE COTEJO INDEPENDIENTE CON CLAVE OFICIAL\nD. Siete días\n\nRAZONAMIENTO CLÍNICO / EPIDEMIOLÓGICO\nDIGESA especifica que establecimientos I-1, I-2 e I-3 que generan hasta 10 litros diarios de residuos biocontaminados pueden almacenarlos hasta siete días calendario, únicamente previo tratamiento por esterilización en autoclave, sustentado en el plan de manejo. La regla general de 48 horas para residuos no tratados no sustituye esta excepción.\n\nDESARROLLO DEL TEMARIO\n1. Clasificación: residuos comunes, biocontaminados y especiales; segregación en punto de generación.\n2. Los biocontaminados requieren contención, identificación y manejo seguro.\n3. El almacenamiento final general suele limitarse a 48 horas, con variantes normativas.\n4. Excepción para establecimientos I-1 a I-3 con hasta 10 litros/día y autoclave: hasta siete días calendario después de esterilización.\n5. Requisito: sustentar en Plan de Minimización y Manejo de Residuos Sólidos.\n6. La esterilización debe ser efectiva, validada y trazable.\n7. Residuos punzocortantes tienen condición y excepción distinta, no mezclar sus plazos.\n8. Riesgos: lesiones por agujas, infecciones, contaminación ambiental.\n9. Transporte interno y almacenamiento requieren recipientes y áreas seguras.\n\nANÁLISIS DE LAS CUATRO ALTERNATIVAS\nA) Un mes puede corresponder a excepción específica de ciertos punzocortantes de bajo volumen, no al supuesto biocontaminado.\nB) Tres días no es el límite excepcional solicitado.\nC) 48 horas se utiliza como límite general, pero no considera autoclave y bajo volumen.\nD) Correcta: siete días calendario bajo condiciones especificadas.\n\nNORMATIVA Y REFERENCIAS\nDIGESA, respuesta oficial sobre almacenamiento de residuos: https://www.digesa.minsa.gob.pe/orientacion/preguntas-frecuentes/preguntas_residuos.asp\nNTS 144-MINSA/2018/DIGESA: https://www.digesa.minsa.gob.pe/Orientacion/NTS-144-MINSA-2018-DIGESA.pdf\n\nTRAMPAS FRECUENTES\nLa excepción exige tratamiento previo, no solo disponibilidad física de autoclave.\nNo confundir residuos biocontaminados con punzocortantes.\nSin validación del proceso no asumir que el residuo dejó de ser peligroso.\n\nMNEMOTECNIA\n10 L + AUTOCLAVE + I-3 → 7 DÍAS.\n\nREPASO ACTIVO\nRespuesta: D. Siete días\nRegla: 10 L + AUTOCLAVE + I-3 → 7 DÍAS.\nLa excepción exige tratamiento previo, no solo disponibilidad física de autoclave.\nNo confundir residuos biocontaminados con punzocortantes.\nSin validación del proceso no asumir que el residuo dejó de ser peligroso.\n\nCASOS DE REFUERZO\n1. I-2 genera 8 litros/día, esteriliza en autoclave y cumple plan. ¿Límite excepcional?\nA) Siete días\nB) Un año\nC) Treinta días\nD) Noventa días\nE) Sin límite\nClave A. Aplica excepción regulada.\n\n2. IPRESS acumula residuos sin esterilizarlos por siete días. ¿Es válida la excepción?\nA) Sí siempre\nB) Sí por bajo volumen\nC) No: requiere tratamiento previo y condiciones\nD) Solo si son punzocortantes\nE) No requiere registro\nClave C. La excepción no aplica a desechos sin tratamiento.",
+      "pearl": "10 L + AUTOCLAVE + I-3 → 7 DÍAS.",
+      "keywords": [
+        "Residuos biocontaminados: excepción de siete días con autoclave",
+        "ENCAPS Medicina 2026-I",
+        "SERUMS MINSA"
+      ],
+      "estadoDesarrollo": "completo",
+      "estadoClave": "interpretacion_pendiente_cotejo_clave_oficial",
+      "lesson": {
+        "respuesta_resumida": "D. Siete días",
+        "razonamiento": "DIGESA especifica que establecimientos I-1, I-2 e I-3 que generan hasta 10 litros diarios de residuos biocontaminados pueden almacenarlos hasta siete días calendario, únicamente previo tratamiento por esterilización en autoclave, sustentado en el plan de manejo. La regla general de 48 horas para residuos no tratados no sustituye esta excepción.",
+        "temario": [
+          "Clasificación: residuos comunes, biocontaminados y especiales; segregación en punto de generación.",
+          "Los biocontaminados requieren contención, identificación y manejo seguro.",
+          "El almacenamiento final general suele limitarse a 48 horas, con variantes normativas.",
+          "Excepción para establecimientos I-1 a I-3 con hasta 10 litros/día y autoclave: hasta siete días calendario después de esterilización.",
+          "Requisito: sustentar en Plan de Minimización y Manejo de Residuos Sólidos.",
+          "La esterilización debe ser efectiva, validada y trazable.",
+          "Residuos punzocortantes tienen condición y excepción distinta, no mezclar sus plazos.",
+          "Riesgos: lesiones por agujas, infecciones, contaminación ambiental.",
+          "Transporte interno y almacenamiento requieren recipientes y áreas seguras."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Un mes puede corresponder a excepción específica de ciertos punzocortantes de bajo volumen, no al supuesto biocontaminado.",
+          "B": "Tres días no es el límite excepcional solicitado.",
+          "C": "48 horas se utiliza como límite general, pero no considera autoclave y bajo volumen.",
+          "D": "Correcta: siete días calendario bajo condiciones especificadas."
+        },
+        "normativa": [
+          "DIGESA, respuesta oficial sobre almacenamiento de residuos: https://www.digesa.minsa.gob.pe/orientacion/preguntas-frecuentes/preguntas_residuos.asp",
+          "NTS 144-MINSA/2018/DIGESA: https://www.digesa.minsa.gob.pe/Orientacion/NTS-144-MINSA-2018-DIGESA.pdf"
+        ],
+        "mnemotecnia": "10 L + AUTOCLAVE + I-3 → 7 DÍAS.",
+        "trampas": [
+          "La excepción exige tratamiento previo, no solo disponibilidad física de autoclave.",
+          "No confundir residuos biocontaminados con punzocortantes.",
+          "Sin validación del proceso no asumir que el residuo dejó de ser peligroso."
+        ],
+        "perla": "10 L + AUTOCLAVE + I-3 → 7 DÍAS.",
+        "repaso_activo": [
+          "Respuesta: D. Siete días",
+          "Regla: 10 L + AUTOCLAVE + I-3 → 7 DÍAS.",
+          "La excepción exige tratamiento previo, no solo disponibilidad física de autoclave.",
+          "No confundir residuos biocontaminados con punzocortantes.",
+          "Sin validación del proceso no asumir que el residuo dejó de ser peligroso."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "I-2 genera 8 litros/día, esteriliza en autoclave y cumple plan. ¿Límite excepcional?",
+            "alternativas": {
+              "A": "Siete días",
+              "B": "Un año",
+              "C": "Treinta días",
+              "D": "Noventa días",
+              "E": "Sin límite"
+            },
+            "respuesta": "A",
+            "explicacion": "Aplica excepción regulada."
+          },
+          {
+            "enunciado": "IPRESS acumula residuos sin esterilizarlos por siete días. ¿Es válida la excepción?",
+            "alternativas": {
+              "A": "Sí siempre",
+              "B": "Sí por bajo volumen",
+              "C": "No: requiere tratamiento previo y condiciones",
+              "D": "Solo si son punzocortantes",
+              "E": "No requiere registro"
+            },
+            "respuesta": "C",
+            "explicacion": "La excepción no aplica a desechos sin tratamiento."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Residuos biocontaminados: excepción de siete días con autoclave",
+          "desarrollo": "RESPUESTA RAZONADA — PENDIENTE DE COTEJO INDEPENDIENTE CON CLAVE OFICIAL\nD. Siete días\n\nRAZONAMIENTO CLÍNICO / EPIDEMIOLÓGICO\nDIGESA especifica que establecimientos I-1, I-2 e I-3 que generan hasta 10 litros diarios de residuos biocontaminados pueden almacenarlos hasta siete días calendario, únicamente previo tratamiento por esterilización en autoclave, sustentado en el plan de manejo. La regla general de 48 horas para residuos no tratados no sustituye esta excepción.\n\nDESARROLLO DEL TEMARIO\n1. Clasificación: residuos comunes, biocontaminados y especiales; segregación en punto de generación.\n2. Los biocontaminados requieren contención, identificación y manejo seguro.\n3. El almacenamiento final general suele limitarse a 48 horas, con variantes normativas.\n4. Excepción para establecimientos I-1 a I-3 con hasta 10 litros/día y autoclave: hasta siete días calendario después de esterilización.\n5. Requisito: sustentar en Plan de Minimización y Manejo de Residuos Sólidos.\n6. La esterilización debe ser efectiva, validada y trazable.\n7. Residuos punzocortantes tienen condición y excepción distinta, no mezclar sus plazos.\n8. Riesgos: lesiones por agujas, infecciones, contaminación ambiental.\n9. Transporte interno y almacenamiento requieren recipientes y áreas seguras.\n\nANÁLISIS DE LAS CUATRO ALTERNATIVAS\nA) Un mes puede corresponder a excepción específica de ciertos punzocortantes de bajo volumen, no al supuesto biocontaminado.\nB) Tres días no es el límite excepcional solicitado.\nC) 48 horas se utiliza como límite general, pero no considera autoclave y bajo volumen.\nD) Correcta: siete días calendario bajo condiciones especificadas.\n\nNORMATIVA Y REFERENCIAS\nDIGESA, respuesta oficial sobre almacenamiento de residuos: https://www.digesa.minsa.gob.pe/orientacion/preguntas-frecuentes/preguntas_residuos.asp\nNTS 144-MINSA/2018/DIGESA: https://www.digesa.minsa.gob.pe/Orientacion/NTS-144-MINSA-2018-DIGESA.pdf\n\nTRAMPAS FRECUENTES\nLa excepción exige tratamiento previo, no solo disponibilidad física de autoclave.\nNo confundir residuos biocontaminados con punzocortantes.\nSin validación del proceso no asumir que el residuo dejó de ser peligroso.\n\nMNEMOTECNIA\n10 L + AUTOCLAVE + I-3 → 7 DÍAS.\n\nREPASO ACTIVO\nRespuesta: D. Siete días\nRegla: 10 L + AUTOCLAVE + I-3 → 7 DÍAS.\nLa excepción exige tratamiento previo, no solo disponibilidad física de autoclave.\nNo confundir residuos biocontaminados con punzocortantes.\nSin validación del proceso no asumir que el residuo dejó de ser peligroso.\n\nCASOS DE REFUERZO\n1. I-2 genera 8 litros/día, esteriliza en autoclave y cumple plan. ¿Límite excepcional?\nA) Siete días\nB) Un año\nC) Treinta días\nD) Noventa días\nE) Sin límite\nClave A. Aplica excepción regulada.\n\n2. IPRESS acumula residuos sin esterilizarlos por siete días. ¿Es válida la excepción?\nA) Sí siempre\nB) Sí por bajo volumen\nC) No: requiere tratamiento previo y condiciones\nD) Solo si son punzocortantes\nE) No requiere registro\nClave C. La excepción no aplica a desechos sin tratamiento."
+        }
+      }
+    },
+    {
+      "number": 44,
+      "question": "En un caserío de Pasco, se presentan 5 casos de la enfermedad de pertussis durante los meses de enero y febrero. Como jefe de establecimiento, ¿Qué actividades dispone realizar?",
+      "options": {
+        "A": "Complementarias de vacunación",
+        "B": "Desinfección en comunidad",
+        "C": "Regulares de vacunación",
+        "D": "Control de vectores"
+      },
+      "correct": "A",
+      "code": "ENCAPS26-I P044",
+      "course": "ENCAPS Medicina 2026-I · Temario desarrollado",
+      "topic": "Coqueluche (pertussis): brotes e inmunización complementaria",
+      "comment": "RESPUESTA RAZONADA — PENDIENTE DE COTEJO INDEPENDIENTE CON CLAVE OFICIAL\nA. Complementarias de vacunación\n\nRAZONAMIENTO CLÍNICO / EPIDEMIOLÓGICO\nLa aparición agrupada de varios casos de tos ferina en una comunidad requiere investigar posible brote, notificar, identificar contactos y ejecutar medidas de control, incluidas actividades complementarias de vacunación de susceptibles según indicación epidemiológica. Las campañas complementan al esquema rutinario, no lo reemplazan.\n\nDESARROLLO DEL TEMARIO\n1. Bordetella pertussis causa infección respiratoria muy contagiosa, especialmente peligrosa en lactantes.\n2. Curso típico: fase catarral, fase paroxística con accesos de tos y convalecencia.\n3. En lactantes puede haber apnea sin tos típica.\n4. Notificación e investigación de casos y conglomerados requieren respuesta oportuna.\n5. Vacunas con componente pertussis se aplican según esquema nacional de edades.\n6. Actividades complementarias buscan cerrar brechas y proteger susceptibles durante brotes.\n7. Identificar contactos estrechos, evaluar profilaxis antibiótica según normas.\n8. Aislamiento respiratorio y tratamiento antibiótico reducen transmisión cuando se inician oportunamente.\n9. La enfermedad se transmite por vía respiratoria, no por vectores.\n\nANÁLISIS DE LAS CUATRO ALTERNATIVAS\nA) Correcta: actividades complementarias para cerrar brechas en contexto de brote.\nB) Desinfección ambiental general no es la medida principal frente a contagio respiratorio.\nC) La vacunación regular es esencial de fondo, pero ante conglomerado deben intensificarse acciones.\nD) No existe vector artrópodo transmisor de pertussis.\n\nNORMATIVA Y REFERENCIAS\nMINSA/CDC Perú: vigilancia y control de brotes de tos ferina y esquema de inmunizaciones vigente.\nOMS/OPS: prevención de pertussis y vacunación de contactos.\n\nTRAMPAS FRECUENTES\nLa vacuna no sustituye investigación ni manejo de casos.\nLa profilaxis depende del tipo de contacto y oportunidad.\nEl brote requiere verificar la relación temporal y epidemiológica de casos.\n\nMNEMOTECNIA\nPERTUSSIS EN BROTE → VACUNACIÓN COMPLEMENTARIA.\n\nREPASO ACTIVO\nRespuesta: A. Complementarias de vacunación\nRegla: PERTUSSIS EN BROTE → VACUNACIÓN COMPLEMENTARIA.\nLa vacuna no sustituye investigación ni manejo de casos.\nLa profilaxis depende del tipo de contacto y oportunidad.\nEl brote requiere verificar la relación temporal y epidemiológica de casos.\n\nCASOS DE REFUERZO\n1. Se detecta conglomerado de tos ferina en comunidad con baja cobertura. ¿Medida programática?\nA) Control de mosquitos\nB) Solo desinfección de suelo\nC) Esperar al año siguiente\nD) Suspender vacunas\nE) Vacunación complementaria según riesgo\nClave E. Se refuerza protección de susceptibles.\n\n2. ¿Vía principal de transmisión de pertussis?\nA) Picadura de Aedes\nB) Respiratoria\nC) Agua estancada\nD) Transfusión obligatoria\nE) Alimentos crudos\nClave B. La transmisión ocurre fundamentalmente por secreciones respiratorias.",
+      "pearl": "PERTUSSIS EN BROTE → VACUNACIÓN COMPLEMENTARIA.",
+      "keywords": [
+        "Coqueluche (pertussis): brotes e inmunización complementaria",
+        "ENCAPS Medicina 2026-I",
+        "SERUMS MINSA"
+      ],
+      "estadoDesarrollo": "completo",
+      "estadoClave": "interpretacion_pendiente_cotejo_clave_oficial",
+      "lesson": {
+        "respuesta_resumida": "A. Complementarias de vacunación",
+        "razonamiento": "La aparición agrupada de varios casos de tos ferina en una comunidad requiere investigar posible brote, notificar, identificar contactos y ejecutar medidas de control, incluidas actividades complementarias de vacunación de susceptibles según indicación epidemiológica. Las campañas complementan al esquema rutinario, no lo reemplazan.",
+        "temario": [
+          "Bordetella pertussis causa infección respiratoria muy contagiosa, especialmente peligrosa en lactantes.",
+          "Curso típico: fase catarral, fase paroxística con accesos de tos y convalecencia.",
+          "En lactantes puede haber apnea sin tos típica.",
+          "Notificación e investigación de casos y conglomerados requieren respuesta oportuna.",
+          "Vacunas con componente pertussis se aplican según esquema nacional de edades.",
+          "Actividades complementarias buscan cerrar brechas y proteger susceptibles durante brotes.",
+          "Identificar contactos estrechos, evaluar profilaxis antibiótica según normas.",
+          "Aislamiento respiratorio y tratamiento antibiótico reducen transmisión cuando se inician oportunamente.",
+          "La enfermedad se transmite por vía respiratoria, no por vectores."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Correcta: actividades complementarias para cerrar brechas en contexto de brote.",
+          "B": "Desinfección ambiental general no es la medida principal frente a contagio respiratorio.",
+          "C": "La vacunación regular es esencial de fondo, pero ante conglomerado deben intensificarse acciones.",
+          "D": "No existe vector artrópodo transmisor de pertussis."
+        },
+        "normativa": [
+          "MINSA/CDC Perú: vigilancia y control de brotes de tos ferina y esquema de inmunizaciones vigente.",
+          "OMS/OPS: prevención de pertussis y vacunación de contactos."
+        ],
+        "mnemotecnia": "PERTUSSIS EN BROTE → VACUNACIÓN COMPLEMENTARIA.",
+        "trampas": [
+          "La vacuna no sustituye investigación ni manejo de casos.",
+          "La profilaxis depende del tipo de contacto y oportunidad.",
+          "El brote requiere verificar la relación temporal y epidemiológica de casos."
+        ],
+        "perla": "PERTUSSIS EN BROTE → VACUNACIÓN COMPLEMENTARIA.",
+        "repaso_activo": [
+          "Respuesta: A. Complementarias de vacunación",
+          "Regla: PERTUSSIS EN BROTE → VACUNACIÓN COMPLEMENTARIA.",
+          "La vacuna no sustituye investigación ni manejo de casos.",
+          "La profilaxis depende del tipo de contacto y oportunidad.",
+          "El brote requiere verificar la relación temporal y epidemiológica de casos."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Se detecta conglomerado de tos ferina en comunidad con baja cobertura. ¿Medida programática?",
+            "alternativas": {
+              "A": "Control de mosquitos",
+              "B": "Solo desinfección de suelo",
+              "C": "Esperar al año siguiente",
+              "D": "Suspender vacunas",
+              "E": "Vacunación complementaria según riesgo"
+            },
+            "respuesta": "E",
+            "explicacion": "Se refuerza protección de susceptibles."
+          },
+          {
+            "enunciado": "¿Vía principal de transmisión de pertussis?",
+            "alternativas": {
+              "A": "Picadura de Aedes",
+              "B": "Respiratoria",
+              "C": "Agua estancada",
+              "D": "Transfusión obligatoria",
+              "E": "Alimentos crudos"
+            },
+            "respuesta": "B",
+            "explicacion": "La transmisión ocurre fundamentalmente por secreciones respiratorias."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Coqueluche (pertussis): brotes e inmunización complementaria",
+          "desarrollo": "RESPUESTA RAZONADA — PENDIENTE DE COTEJO INDEPENDIENTE CON CLAVE OFICIAL\nA. Complementarias de vacunación\n\nRAZONAMIENTO CLÍNICO / EPIDEMIOLÓGICO\nLa aparición agrupada de varios casos de tos ferina en una comunidad requiere investigar posible brote, notificar, identificar contactos y ejecutar medidas de control, incluidas actividades complementarias de vacunación de susceptibles según indicación epidemiológica. Las campañas complementan al esquema rutinario, no lo reemplazan.\n\nDESARROLLO DEL TEMARIO\n1. Bordetella pertussis causa infección respiratoria muy contagiosa, especialmente peligrosa en lactantes.\n2. Curso típico: fase catarral, fase paroxística con accesos de tos y convalecencia.\n3. En lactantes puede haber apnea sin tos típica.\n4. Notificación e investigación de casos y conglomerados requieren respuesta oportuna.\n5. Vacunas con componente pertussis se aplican según esquema nacional de edades.\n6. Actividades complementarias buscan cerrar brechas y proteger susceptibles durante brotes.\n7. Identificar contactos estrechos, evaluar profilaxis antibiótica según normas.\n8. Aislamiento respiratorio y tratamiento antibiótico reducen transmisión cuando se inician oportunamente.\n9. La enfermedad se transmite por vía respiratoria, no por vectores.\n\nANÁLISIS DE LAS CUATRO ALTERNATIVAS\nA) Correcta: actividades complementarias para cerrar brechas en contexto de brote.\nB) Desinfección ambiental general no es la medida principal frente a contagio respiratorio.\nC) La vacunación regular es esencial de fondo, pero ante conglomerado deben intensificarse acciones.\nD) No existe vector artrópodo transmisor de pertussis.\n\nNORMATIVA Y REFERENCIAS\nMINSA/CDC Perú: vigilancia y control de brotes de tos ferina y esquema de inmunizaciones vigente.\nOMS/OPS: prevención de pertussis y vacunación de contactos.\n\nTRAMPAS FRECUENTES\nLa vacuna no sustituye investigación ni manejo de casos.\nLa profilaxis depende del tipo de contacto y oportunidad.\nEl brote requiere verificar la relación temporal y epidemiológica de casos.\n\nMNEMOTECNIA\nPERTUSSIS EN BROTE → VACUNACIÓN COMPLEMENTARIA.\n\nREPASO ACTIVO\nRespuesta: A. Complementarias de vacunación\nRegla: PERTUSSIS EN BROTE → VACUNACIÓN COMPLEMENTARIA.\nLa vacuna no sustituye investigación ni manejo de casos.\nLa profilaxis depende del tipo de contacto y oportunidad.\nEl brote requiere verificar la relación temporal y epidemiológica de casos.\n\nCASOS DE REFUERZO\n1. Se detecta conglomerado de tos ferina en comunidad con baja cobertura. ¿Medida programática?\nA) Control de mosquitos\nB) Solo desinfección de suelo\nC) Esperar al año siguiente\nD) Suspender vacunas\nE) Vacunación complementaria según riesgo\nClave E. Se refuerza protección de susceptibles.\n\n2. ¿Vía principal de transmisión de pertussis?\nA) Picadura de Aedes\nB) Respiratoria\nC) Agua estancada\nD) Transfusión obligatoria\nE) Alimentos crudos\nClave B. La transmisión ocurre fundamentalmente por secreciones respiratorias."
+        }
+      }
+    },
+    {
+      "number": 45,
+      "question": "Un establecimiento de salud con población asignada que cuenta con médico cirujano, profesionales de enfermería y obstetricia, y personal técnico de enfermería; si recibe una gestante en periodo expulsivo. ¿Cuál es la conducta a seguir?",
+      "options": {
+        "A": "Referirlo a un hospital",
+        "B": "Atender el parto",
+        "C": "Referirlo a un EESS I-3",
+        "D": "Referirlo a un EESS I-4"
+      },
+      "correct": "B",
+      "code": "ENCAPS26-I P045",
+      "course": "ENCAPS Medicina 2026-I · Temario desarrollado",
+      "topic": "Parto expulsivo inminente: asistencia inmediata y seguridad de madre y neonato",
+      "comment": "RESPUESTA RAZONADA — PENDIENTE DE COTEJO INDEPENDIENTE CON CLAVE OFICIAL\nB. Atender el parto\n\nRAZONAMIENTO CLÍNICO / EPIDEMIOLÓGICO\nEl período expulsivo implica nacimiento próximo; trasladar innecesariamente expone a riesgos durante el tránsito. Si existe personal sanitario competente y un parto inminente, corresponde asistir el nacimiento, activar el plan de emergencia y posteriormente referir cuando las complicaciones o capacidad resolutiva lo requieran. La actuación se ajusta a competencia y equipamiento, y nunca debe retrasar medidas para salvar vidas.\n\nDESARROLLO DEL TEMARIO\n1. El trabajo de parto comprende dilatación, expulsivo y alumbramiento.\n2. Signos de expulsivo: dilatación completa, pujo involuntario y descenso de presentación.\n3. Traslado con cabeza coronando puede ser más riesgoso que atención inmediata.\n4. Valorar condiciones maternas, bienestar fetal, presentación y signos de complicación.\n5. Preparar técnica aséptica, equipamiento neonatal y asistencia obstétrica.\n6. Evitar tracción de presentación fetal y maniobras no indicadas.\n7. Manejo activo del tercer período para prevenir hemorragia posparto según protocolo.\n8. Atención neonatal inmediata: secado, calor, respiración, contacto piel a piel si está estable.\n9. Reevaluar y referir si hemorragia, trauma, retención placentaria o complicaciones.\n10. Documentar parto, comunicar a red, garantizar seguimiento puerperal y neonatal.\n\nANÁLISIS DE LAS CUATRO ALTERNATIVAS\nA) Referir al hospital con expulsivo inminente puede producir nacimiento inseguro en tránsito.\nB) Correcta: atender el parto inminente según competencia y activar apoyo.\nC) Un I-3 no es destino útil cuando el nacimiento ya es inminente.\nD) I-4 es destino de parto planificado en muchos casos, pero el expulsivo cambia la prioridad.\n\nNORMATIVA Y REFERENCIAS\nMINSA, NTS para atención integral de salud materna y atención del parto.\nOMS, recomendaciones para cuidados intraparto y atención esencial del recién nacido.\n\nTRAMPAS FRECUENTES\nNo equiparar atención del expulsivo con retener a toda gestante en un establecimiento de baja complejidad.\nSi hay urgencia vital, requerir apoyo y estabilizar según protocolos.\nLa seguridad de traslado depende del estadio y condiciones de parto.\n\nMNEMOTECNIA\nEXPULSIVO = ASISTIR, NO TRASLADAR POR RUTINA.\n\nREPASO ACTIVO\nRespuesta: B. Atender el parto\nRegla: EXPULSIVO = ASISTIR, NO TRASLADAR POR RUTINA.\nNo equiparar atención del expulsivo con retener a toda gestante en un establecimiento de baja complejidad.\nSi hay urgencia vital, requerir apoyo y estabilizar según protocolos.\nLa seguridad de traslado depende del estadio y condiciones de parto.\n\nCASOS DE REFUERZO\n1. Gestante tiene presentación coronando en puesto de salud. ¿Prioridad?\nA) Esperar transporte\nB) Asistir parto inminente y activar apoyo\nC) Enviar a caminar\nD) Posponer cuidados\nE) Dar alta\nClave B. La inminencia del parto requiere asistencia segura.\n\n2. Tras parto aparece hemorragia abundante y taquicardia. ¿Qué hacer?\nA) Solo observación\nB) Retirar vigilancia\nC) Dejar sola\nD) Tratar de urgencia y activar referencia\nE) Esperar doce horas\nClave D. La hemorragia posparto exige respuesta inmediata.",
+      "pearl": "EXPULSIVO = ASISTIR, NO TRASLADAR POR RUTINA.",
+      "keywords": [
+        "Parto expulsivo inminente: asistencia inmediata y seguridad de madre y neonato",
+        "ENCAPS Medicina 2026-I",
+        "SERUMS MINSA"
+      ],
+      "estadoDesarrollo": "completo",
+      "estadoClave": "interpretacion_pendiente_cotejo_clave_oficial",
+      "lesson": {
+        "respuesta_resumida": "B. Atender el parto",
+        "razonamiento": "El período expulsivo implica nacimiento próximo; trasladar innecesariamente expone a riesgos durante el tránsito. Si existe personal sanitario competente y un parto inminente, corresponde asistir el nacimiento, activar el plan de emergencia y posteriormente referir cuando las complicaciones o capacidad resolutiva lo requieran. La actuación se ajusta a competencia y equipamiento, y nunca debe retrasar medidas para salvar vidas.",
+        "temario": [
+          "El trabajo de parto comprende dilatación, expulsivo y alumbramiento.",
+          "Signos de expulsivo: dilatación completa, pujo involuntario y descenso de presentación.",
+          "Traslado con cabeza coronando puede ser más riesgoso que atención inmediata.",
+          "Valorar condiciones maternas, bienestar fetal, presentación y signos de complicación.",
+          "Preparar técnica aséptica, equipamiento neonatal y asistencia obstétrica.",
+          "Evitar tracción de presentación fetal y maniobras no indicadas.",
+          "Manejo activo del tercer período para prevenir hemorragia posparto según protocolo.",
+          "Atención neonatal inmediata: secado, calor, respiración, contacto piel a piel si está estable.",
+          "Reevaluar y referir si hemorragia, trauma, retención placentaria o complicaciones.",
+          "Documentar parto, comunicar a red, garantizar seguimiento puerperal y neonatal."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Referir al hospital con expulsivo inminente puede producir nacimiento inseguro en tránsito.",
+          "B": "Correcta: atender el parto inminente según competencia y activar apoyo.",
+          "C": "Un I-3 no es destino útil cuando el nacimiento ya es inminente.",
+          "D": "I-4 es destino de parto planificado en muchos casos, pero el expulsivo cambia la prioridad."
+        },
+        "normativa": [
+          "MINSA, NTS para atención integral de salud materna y atención del parto.",
+          "OMS, recomendaciones para cuidados intraparto y atención esencial del recién nacido."
+        ],
+        "mnemotecnia": "EXPULSIVO = ASISTIR, NO TRASLADAR POR RUTINA.",
+        "trampas": [
+          "No equiparar atención del expulsivo con retener a toda gestante en un establecimiento de baja complejidad.",
+          "Si hay urgencia vital, requerir apoyo y estabilizar según protocolos.",
+          "La seguridad de traslado depende del estadio y condiciones de parto."
+        ],
+        "perla": "EXPULSIVO = ASISTIR, NO TRASLADAR POR RUTINA.",
+        "repaso_activo": [
+          "Respuesta: B. Atender el parto",
+          "Regla: EXPULSIVO = ASISTIR, NO TRASLADAR POR RUTINA.",
+          "No equiparar atención del expulsivo con retener a toda gestante en un establecimiento de baja complejidad.",
+          "Si hay urgencia vital, requerir apoyo y estabilizar según protocolos.",
+          "La seguridad de traslado depende del estadio y condiciones de parto."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Gestante tiene presentación coronando en puesto de salud. ¿Prioridad?",
+            "alternativas": {
+              "A": "Esperar transporte",
+              "B": "Asistir parto inminente y activar apoyo",
+              "C": "Enviar a caminar",
+              "D": "Posponer cuidados",
+              "E": "Dar alta"
+            },
+            "respuesta": "B",
+            "explicacion": "La inminencia del parto requiere asistencia segura."
+          },
+          {
+            "enunciado": "Tras parto aparece hemorragia abundante y taquicardia. ¿Qué hacer?",
+            "alternativas": {
+              "A": "Solo observación",
+              "B": "Retirar vigilancia",
+              "C": "Dejar sola",
+              "D": "Tratar de urgencia y activar referencia",
+              "E": "Esperar doce horas"
+            },
+            "respuesta": "D",
+            "explicacion": "La hemorragia posparto exige respuesta inmediata."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Parto expulsivo inminente: asistencia inmediata y seguridad de madre y neonato",
+          "desarrollo": "RESPUESTA RAZONADA — PENDIENTE DE COTEJO INDEPENDIENTE CON CLAVE OFICIAL\nB. Atender el parto\n\nRAZONAMIENTO CLÍNICO / EPIDEMIOLÓGICO\nEl período expulsivo implica nacimiento próximo; trasladar innecesariamente expone a riesgos durante el tránsito. Si existe personal sanitario competente y un parto inminente, corresponde asistir el nacimiento, activar el plan de emergencia y posteriormente referir cuando las complicaciones o capacidad resolutiva lo requieran. La actuación se ajusta a competencia y equipamiento, y nunca debe retrasar medidas para salvar vidas.\n\nDESARROLLO DEL TEMARIO\n1. El trabajo de parto comprende dilatación, expulsivo y alumbramiento.\n2. Signos de expulsivo: dilatación completa, pujo involuntario y descenso de presentación.\n3. Traslado con cabeza coronando puede ser más riesgoso que atención inmediata.\n4. Valorar condiciones maternas, bienestar fetal, presentación y signos de complicación.\n5. Preparar técnica aséptica, equipamiento neonatal y asistencia obstétrica.\n6. Evitar tracción de presentación fetal y maniobras no indicadas.\n7. Manejo activo del tercer período para prevenir hemorragia posparto según protocolo.\n8. Atención neonatal inmediata: secado, calor, respiración, contacto piel a piel si está estable.\n9. Reevaluar y referir si hemorragia, trauma, retención placentaria o complicaciones.\n10. Documentar parto, comunicar a red, garantizar seguimiento puerperal y neonatal.\n\nANÁLISIS DE LAS CUATRO ALTERNATIVAS\nA) Referir al hospital con expulsivo inminente puede producir nacimiento inseguro en tránsito.\nB) Correcta: atender el parto inminente según competencia y activar apoyo.\nC) Un I-3 no es destino útil cuando el nacimiento ya es inminente.\nD) I-4 es destino de parto planificado en muchos casos, pero el expulsivo cambia la prioridad.\n\nNORMATIVA Y REFERENCIAS\nMINSA, NTS para atención integral de salud materna y atención del parto.\nOMS, recomendaciones para cuidados intraparto y atención esencial del recién nacido.\n\nTRAMPAS FRECUENTES\nNo equiparar atención del expulsivo con retener a toda gestante en un establecimiento de baja complejidad.\nSi hay urgencia vital, requerir apoyo y estabilizar según protocolos.\nLa seguridad de traslado depende del estadio y condiciones de parto.\n\nMNEMOTECNIA\nEXPULSIVO = ASISTIR, NO TRASLADAR POR RUTINA.\n\nREPASO ACTIVO\nRespuesta: B. Atender el parto\nRegla: EXPULSIVO = ASISTIR, NO TRASLADAR POR RUTINA.\nNo equiparar atención del expulsivo con retener a toda gestante en un establecimiento de baja complejidad.\nSi hay urgencia vital, requerir apoyo y estabilizar según protocolos.\nLa seguridad de traslado depende del estadio y condiciones de parto.\n\nCASOS DE REFUERZO\n1. Gestante tiene presentación coronando en puesto de salud. ¿Prioridad?\nA) Esperar transporte\nB) Asistir parto inminente y activar apoyo\nC) Enviar a caminar\nD) Posponer cuidados\nE) Dar alta\nClave B. La inminencia del parto requiere asistencia segura.\n\n2. Tras parto aparece hemorragia abundante y taquicardia. ¿Qué hacer?\nA) Solo observación\nB) Retirar vigilancia\nC) Dejar sola\nD) Tratar de urgencia y activar referencia\nE) Esperar doce horas\nClave D. La hemorragia posparto exige respuesta inmediata."
         }
       }
     }
