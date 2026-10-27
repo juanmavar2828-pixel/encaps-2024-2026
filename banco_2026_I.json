@@ -3,7 +3,7 @@
   "bankId": "ENCAPS_2026_I",
   "title": "ENCAPS 2026-I · Medicina Humana",
   "source": "Examen SERUMS Medicina 19 abril 2026 · claves resaltadas en PDF del usuario",
-  "questionCount": 10,
+  "questionCount": 15,
   "questions": [
     {
       "number": 1,
@@ -1591,6 +1591,454 @@
             "REPASO ACTIVO\n¿Opción del examen? C: resistencia.\n¿La tos residual confirma resistencia? No.\n¿Cómo investigarla? Pruebas moleculares y sensibilidad según algoritmo.\n¿Qué hacer con la niña? Evaluar enfermedad activa y manejo de contactos.",
             "CASOS DE REFUERZO\n1. Paciente TB con cultivo positivo al seguimiento pese a esquema indicado. ¿Qué prueba orienta la conducta?\nA) Solo perímetro abdominal\nB) Prueba de resistencia molecular y/o sensibilidad\nC) Solo glucosa en ayunas\nD) ECG como único estudio\nE) Ninguna prueba\nClave B. Es necesario comprobar sensibilidad junto con adherencia y diagnóstico.\n\n2. Menor de cuatro años convive con caso bacilífero de TB. ¿Qué conducta inicial corresponde?\nA) Esperar un año\nB) Indicar antibióticos inespecíficos\nC) Descartar evaluación por edad\nD) Evaluar prontamente TB activa y definir prevención/tratamiento\nE) Separar permanentemente a la familia\nClave D. En niños pequeños son prioritarios evaluación y manejo diferenciado de contactos."
           ]
+        }
+      }
+    },
+    {
+      "number": 11,
+      "question": "El fortalecimiento de capacidades del personal de salud para mejorar la calidad en un servicio específico de atención primaria de salud, es una actividad acorde al objetivo de planeamiento estratégico relacionado a …",
+      "options": {
+        "A": "fortalecer el ejercicio de la rectoría de la autoridad nacional de salud.",
+        "B": "incrementar el acceso a atención integral de salud.",
+        "C": "mejorar asignación de presupuesto para atención integral.",
+        "D": "difundir la importancia de la salud como derecho."
+      },
+      "correct": "B",
+      "code": "ENCAPS26-I P011",
+      "course": "ENCAPS Medicina 2026-I · Temario desarrollado",
+      "topic": "Planeamiento estratégico en salud y acceso efectivo a la atención integral",
+      "comment": "RESPUESTA DEL BLOQUE (INTERPRETACIÓN ACADÉMICA, NO COTEJO INDEPENDIENTE CON CLAVE OFICIAL)\nB. incrementar el acceso a atención integral de salud.\n\nRAZONAMIENTO EXTENSO\nLa capacitación del personal aumenta competencias para brindar prestaciones oportunas, seguras y resolutivas. En el contexto de atención primaria, contribuye a incrementar el acceso efectivo a la atención integral. La actividad es un medio de fortalecimiento de oferta, no una atribución regulatoria de rectoría ni una asignación presupuestal en sí misma. Atención: los objetivos estratégicos pueden tener formulaciones institucionales específicas; verificar el PEI aplicable antes de atribuir una frase a un documento concreto.\n\nDESARROLLO DEL TEMARIO\n1. Planeamiento estratégico: análisis situacional, objetivos estratégicos, acciones estratégicas e indicadores medibles.\n2. Diferenciar PEI (horizonte estratégico institucional) y POI (actividades operativas anualizadas), articulados al planeamiento nacional.\n3. Acceso efectivo: disponibilidad, accesibilidad territorial, aceptabilidad cultural, calidad y continuidad; no equivale solo al número de atenciones.\n4. Capacidades del recurso humano: competencia técnica, ética, comunicación, seguridad del paciente, habilidades interculturales y trabajo en equipo.\n5. Atención primaria: primer contacto, longitudinalidad, integralidad y coordinación entre niveles.\n6. Calidad de atención: estructura, proceso y resultados; seguridad, oportunidad, experiencia de usuario y resolutividad.\n7. Evaluación: indicadores de cobertura, brechas, satisfacción, resolución en primer nivel, referencias y resultados clínicos.\n8. Diferenciar acciones de rectoría, financiamiento, promoción del derecho y provisión efectiva de cuidados.\n\nALTERNATIVAS\nA. Rectoría supone regulación, dirección y vigilancia del sistema; capacitación de un servicio no es por sí sola ejercicio de autoridad rectora.\nB. Mejor opción: mejora la capacidad de ofrecer atención integral y favorece acceso real a prestaciones de calidad.\nC. No se describe una actividad de programación o redistribución presupuestal.\nD. Se fortalece el desempeño del servicio, no una campaña de información sobre el derecho a la salud.\n\nNORMATIVA / FUENTES DE ESTUDIO\nCEPLAN: guías institucionales de planeamiento estratégico (PEI y POI), según versión vigente.\nDocumentos MINSA de planificación institucional y modelo de cuidado integral por curso de vida.\nOPS: atributos de atención primaria y acceso universal.\n\nTRAMPAS\nAcceso no es sinónimo de cobertura administrativa: exige calidad y oportunidad.\nCapacitación es una actividad; su vinculación a un objetivo debe demostrarse en matriz de planeamiento.\nRectoría y prestación de servicios son funciones distintas.\n\nMNEMOTECNIA\nCAPACITAR → MEJOR PRESTACIÓN → ACCESO EFECTIVO.\n\nREPASO ACTIVO\n¿Objetivo sugerido por el caso? Incrementar acceso a atención integral.\n¿Qué desarrolla un POI? Actividades y metas operativas.\n¿Qué diferencia rectoría de oferta? Dirección regulatoria frente a provisión de cuidados.\n\nDOS CASOS DE REFUERZO\n1. Centro de salud capacita a equipos en manejo de hipertensión y mide el aumento de controlados. ¿Qué resultado busca?\nA. Solo difundir afiches\nB. Reducir registro clínico\nC. Mejorar acceso y resolutividad\nD. Eliminar seguimiento\nE. Sustituir normativa\nClave C: La calidad y resolutividad mejoran la atención efectiva.\n\n2. Director programa cursos trimestrales, responsables y presupuesto en el siguiente año. ¿Instrumento operativo?\nA. POI\nB. Únicamente mapa de riesgos\nC. Historia clínica\nD. Carné de vacunas\nE. Libro de reclamaciones\nClave A: El POI concreta actividades, recursos y metas.",
+      "pearl": "CAPACITAR → MEJOR PRESTACIÓN → ACCESO EFECTIVO.",
+      "keywords": [
+        "Planeamiento estratégico en salud y acceso efectivo a la atención integral",
+        "ENCAPS Medicina 2026-I",
+        "SERUMS MINSA"
+      ],
+      "estadoDesarrollo": "completo",
+      "estadoClave": "interpretacion_pendiente_cotejo_independiente_con_clave_oficial",
+      "lesson": {
+        "respuesta_resumida": "B. incrementar el acceso a atención integral de salud.",
+        "razonamiento": "La capacitación del personal aumenta competencias para brindar prestaciones oportunas, seguras y resolutivas. En el contexto de atención primaria, contribuye a incrementar el acceso efectivo a la atención integral. La actividad es un medio de fortalecimiento de oferta, no una atribución regulatoria de rectoría ni una asignación presupuestal en sí misma. Atención: los objetivos estratégicos pueden tener formulaciones institucionales específicas; verificar el PEI aplicable antes de atribuir una frase a un documento concreto.",
+        "temario": [
+          "Planeamiento estratégico: análisis situacional, objetivos estratégicos, acciones estratégicas e indicadores medibles.",
+          "Diferenciar PEI (horizonte estratégico institucional) y POI (actividades operativas anualizadas), articulados al planeamiento nacional.",
+          "Acceso efectivo: disponibilidad, accesibilidad territorial, aceptabilidad cultural, calidad y continuidad; no equivale solo al número de atenciones.",
+          "Capacidades del recurso humano: competencia técnica, ética, comunicación, seguridad del paciente, habilidades interculturales y trabajo en equipo.",
+          "Atención primaria: primer contacto, longitudinalidad, integralidad y coordinación entre niveles.",
+          "Calidad de atención: estructura, proceso y resultados; seguridad, oportunidad, experiencia de usuario y resolutividad.",
+          "Evaluación: indicadores de cobertura, brechas, satisfacción, resolución en primer nivel, referencias y resultados clínicos.",
+          "Diferenciar acciones de rectoría, financiamiento, promoción del derecho y provisión efectiva de cuidados."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Rectoría supone regulación, dirección y vigilancia del sistema; capacitación de un servicio no es por sí sola ejercicio de autoridad rectora.",
+          "B": "Mejor opción: mejora la capacidad de ofrecer atención integral y favorece acceso real a prestaciones de calidad.",
+          "C": "No se describe una actividad de programación o redistribución presupuestal.",
+          "D": "Se fortalece el desempeño del servicio, no una campaña de información sobre el derecho a la salud."
+        },
+        "normativa": [
+          "CEPLAN: guías institucionales de planeamiento estratégico (PEI y POI), según versión vigente.",
+          "Documentos MINSA de planificación institucional y modelo de cuidado integral por curso de vida.",
+          "OPS: atributos de atención primaria y acceso universal."
+        ],
+        "mnemotecnia": "CAPACITAR → MEJOR PRESTACIÓN → ACCESO EFECTIVO.",
+        "trampas": [
+          "Acceso no es sinónimo de cobertura administrativa: exige calidad y oportunidad.",
+          "Capacitación es una actividad; su vinculación a un objetivo debe demostrarse en matriz de planeamiento.",
+          "Rectoría y prestación de servicios son funciones distintas."
+        ],
+        "perla": "CAPACITAR → MEJOR PRESTACIÓN → ACCESO EFECTIVO.",
+        "repaso_activo": [
+          "¿Objetivo sugerido por el caso? Incrementar acceso a atención integral.",
+          "¿Qué desarrolla un POI? Actividades y metas operativas.",
+          "¿Qué diferencia rectoría de oferta? Dirección regulatoria frente a provisión de cuidados."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Centro de salud capacita a equipos en manejo de hipertensión y mide el aumento de controlados. ¿Qué resultado busca?",
+            "alternativas": {
+              "A": "Solo difundir afiches",
+              "B": "Reducir registro clínico",
+              "C": "Mejorar acceso y resolutividad",
+              "D": "Eliminar seguimiento",
+              "E": "Sustituir normativa"
+            },
+            "respuesta": "C",
+            "explicacion": "La calidad y resolutividad mejoran la atención efectiva."
+          },
+          {
+            "enunciado": "Director programa cursos trimestrales, responsables y presupuesto en el siguiente año. ¿Instrumento operativo?",
+            "alternativas": {
+              "A": "POI",
+              "B": "Únicamente mapa de riesgos",
+              "C": "Historia clínica",
+              "D": "Carné de vacunas",
+              "E": "Libro de reclamaciones"
+            },
+            "respuesta": "A",
+            "explicacion": "El POI concreta actividades, recursos y metas."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Planeamiento estratégico en salud y acceso efectivo a la atención integral",
+          "desarrollo": "RESPUESTA DEL BLOQUE (INTERPRETACIÓN ACADÉMICA, NO COTEJO INDEPENDIENTE CON CLAVE OFICIAL)\nB. incrementar el acceso a atención integral de salud.\n\nRAZONAMIENTO EXTENSO\nLa capacitación del personal aumenta competencias para brindar prestaciones oportunas, seguras y resolutivas. En el contexto de atención primaria, contribuye a incrementar el acceso efectivo a la atención integral. La actividad es un medio de fortalecimiento de oferta, no una atribución regulatoria de rectoría ni una asignación presupuestal en sí misma. Atención: los objetivos estratégicos pueden tener formulaciones institucionales específicas; verificar el PEI aplicable antes de atribuir una frase a un documento concreto.\n\nDESARROLLO DEL TEMARIO\n1. Planeamiento estratégico: análisis situacional, objetivos estratégicos, acciones estratégicas e indicadores medibles.\n2. Diferenciar PEI (horizonte estratégico institucional) y POI (actividades operativas anualizadas), articulados al planeamiento nacional.\n3. Acceso efectivo: disponibilidad, accesibilidad territorial, aceptabilidad cultural, calidad y continuidad; no equivale solo al número de atenciones.\n4. Capacidades del recurso humano: competencia técnica, ética, comunicación, seguridad del paciente, habilidades interculturales y trabajo en equipo.\n5. Atención primaria: primer contacto, longitudinalidad, integralidad y coordinación entre niveles.\n6. Calidad de atención: estructura, proceso y resultados; seguridad, oportunidad, experiencia de usuario y resolutividad.\n7. Evaluación: indicadores de cobertura, brechas, satisfacción, resolución en primer nivel, referencias y resultados clínicos.\n8. Diferenciar acciones de rectoría, financiamiento, promoción del derecho y provisión efectiva de cuidados.\n\nALTERNATIVAS\nA. Rectoría supone regulación, dirección y vigilancia del sistema; capacitación de un servicio no es por sí sola ejercicio de autoridad rectora.\nB. Mejor opción: mejora la capacidad de ofrecer atención integral y favorece acceso real a prestaciones de calidad.\nC. No se describe una actividad de programación o redistribución presupuestal.\nD. Se fortalece el desempeño del servicio, no una campaña de información sobre el derecho a la salud.\n\nNORMATIVA / FUENTES DE ESTUDIO\nCEPLAN: guías institucionales de planeamiento estratégico (PEI y POI), según versión vigente.\nDocumentos MINSA de planificación institucional y modelo de cuidado integral por curso de vida.\nOPS: atributos de atención primaria y acceso universal.\n\nTRAMPAS\nAcceso no es sinónimo de cobertura administrativa: exige calidad y oportunidad.\nCapacitación es una actividad; su vinculación a un objetivo debe demostrarse en matriz de planeamiento.\nRectoría y prestación de servicios son funciones distintas.\n\nMNEMOTECNIA\nCAPACITAR → MEJOR PRESTACIÓN → ACCESO EFECTIVO.\n\nREPASO ACTIVO\n¿Objetivo sugerido por el caso? Incrementar acceso a atención integral.\n¿Qué desarrolla un POI? Actividades y metas operativas.\n¿Qué diferencia rectoría de oferta? Dirección regulatoria frente a provisión de cuidados.\n\nDOS CASOS DE REFUERZO\n1. Centro de salud capacita a equipos en manejo de hipertensión y mide el aumento de controlados. ¿Qué resultado busca?\nA. Solo difundir afiches\nB. Reducir registro clínico\nC. Mejorar acceso y resolutividad\nD. Eliminar seguimiento\nE. Sustituir normativa\nClave C: La calidad y resolutividad mejoran la atención efectiva.\n\n2. Director programa cursos trimestrales, responsables y presupuesto en el siguiente año. ¿Instrumento operativo?\nA. POI\nB. Únicamente mapa de riesgos\nC. Historia clínica\nD. Carné de vacunas\nE. Libro de reclamaciones\nClave A: El POI concreta actividades, recursos y metas."
+        }
+      }
+    },
+    {
+      "number": 12,
+      "question": "En un establecimiento de salud I-4, ingresa paciente con parto inminente, no controlada. ¿ Cuál de las siguientes pruebas de tamizaje rápido se utiliza para detectar anticuerpos contra VIH y treponema pallidum o anticuerpos treponémicos totales?",
+      "options": {
+        "A": "FTA-Abs",
+        "B": "PM (pruebas moleculares)",
+        "C": "PRT (pruebas rápidas triples)",
+        "D": "PRD (pruebas rápidas duales)"
+      },
+      "correct": "D",
+      "code": "ENCAPS26-I P012",
+      "course": "ENCAPS Medicina 2026-I · Temario desarrollado",
+      "topic": "Tamizaje dual VIH-sífilis en gestante sin control prenatal y parto inminente",
+      "comment": "RESPUESTA DEL BLOQUE (INTERPRETACIÓN ACADÉMICA, NO COTEJO INDEPENDIENTE CON CLAVE OFICIAL)\nD. PRD (pruebas rápidas duales)\n\nRAZONAMIENTO EXTENSO\nLa prueba rápida dual permite pesquisar en una misma prueba anticuerpos frente a VIH y Treponema pallidum. Resultados reactivos obligan a seguir algoritmo de confirmación/diagnóstico y a actuar durante la atención obstétrica conforme a protocolos para prevenir transmisión maternoinfantil. La urgencia del parto exige no retrasar medidas clínicas relevantes por trámites de laboratorio.\n\nDESARROLLO DEL TEMARIO\n1. Prueba rápida dual VIH/sífilis: dos blancos serológicos en un dispositivo; resultado de tamizaje, no estadificación por sí solo.\n2. Sífilis: los anticuerpos treponémicos pueden persistir tras tratamiento; correlacionar historia terapéutica y pruebas no treponémicas cuantitativas.\n3. VIH: un reactivo exige algoritmo diagnóstico nacional; distinguir tamizaje inicial y confirmación.\n4. Parto sin controles: evaluar VIH, sífilis y hepatitis B según protocolos y disponibilidad; iniciar medidas preventivas oportunas.\n5. Prevención de sífilis congénita: evaluación materna, penicilina cuando esté indicada, estudio y manejo del neonato.\n6. Prevención de transmisión vertical de VIH: coordinar tratamiento antirretroviral, vía de parto y profilaxis neonatal según escenario y protocolo.\n7. Consentimiento informado, confidencialidad, consejería breve y registro de resultados.\n8. FTA-ABS es ensayo treponémico de laboratorio; no representa test dual de tamizaje inmediato.\n\nALTERNATIVAS\nA. FTA-ABS detecta anticuerpos treponémicos; no integra la búsqueda rápida de VIH.\nB. Pruebas moleculares detectan material genético de un agente específico; no son la categoría descrita de anticuerpos duales.\nC. La prueba triple incorpora otro marcador; no corresponde a la descripción de exactamente dos blancos.\nD. Correcta: PRD, prueba rápida dual VIH/sífilis.\n\nNORMATIVA / FUENTES DE ESTUDIO\nNormas técnicas MINSA para prevención de transmisión maternoinfantil del VIH, sífilis y hepatitis B: revisar modificaciones vigentes.\nOMS/OPS: recomendaciones sobre pruebas duales VIH/sífilis para gestantes.\n\nTRAMPAS\nTreponémica reactiva no diferencia necesariamente infección pasada y activa.\nPrueba dual reactiva de VIH no equivale por sí sola a diagnóstico definitivo.\nNunca diferir medidas maternoinfantiles urgentes esperando el resultado de una prueba complementaria innecesariamente.\n\nMNEMOTECNIA\nDUAL = DOS: VIH + SÍFILIS.\n\nREPASO ACTIVO\n¿Clave? D: PRD.\n¿Qué mide test treponémico? Anticuerpos anti-T. pallidum.\n¿Qué hacer con reactivo? Continuar algoritmo y prevención oportuna.\n\nDOS CASOS DE REFUERZO\n1. Gestante en expulsivo carece de pruebas antenatales. ¿Qué test permite búsqueda simultánea de VIH y sífilis?\nA. Urocultivo\nB. Prueba rápida dual\nC. Hemoglobina aislada\nD. FTA-ABS exclusivamente\nE. Prueba de embarazo\nClave B: El test dual aborda ambos agentes en la atención inmediata.\n\n2. Paciente con sífilis tratada tiene prueba treponémica reactiva años después. ¿Qué interpretación es correcta?\nA. Siempre reinfección\nB. Siempre sífilis congénita\nC. Error técnico obligatorio\nD. No requiere historia clínica\nE. Puede reflejar anticuerpos persistentes; correlacionar con títulos e historia\nClave E: La serorreactividad treponémica puede persistir.",
+      "pearl": "DUAL = DOS: VIH + SÍFILIS.",
+      "keywords": [
+        "Tamizaje dual VIH-sífilis en gestante sin control prenatal y parto inminente",
+        "ENCAPS Medicina 2026-I",
+        "SERUMS MINSA"
+      ],
+      "estadoDesarrollo": "completo",
+      "estadoClave": "interpretacion_pendiente_cotejo_independiente_con_clave_oficial",
+      "lesson": {
+        "respuesta_resumida": "D. PRD (pruebas rápidas duales)",
+        "razonamiento": "La prueba rápida dual permite pesquisar en una misma prueba anticuerpos frente a VIH y Treponema pallidum. Resultados reactivos obligan a seguir algoritmo de confirmación/diagnóstico y a actuar durante la atención obstétrica conforme a protocolos para prevenir transmisión maternoinfantil. La urgencia del parto exige no retrasar medidas clínicas relevantes por trámites de laboratorio.",
+        "temario": [
+          "Prueba rápida dual VIH/sífilis: dos blancos serológicos en un dispositivo; resultado de tamizaje, no estadificación por sí solo.",
+          "Sífilis: los anticuerpos treponémicos pueden persistir tras tratamiento; correlacionar historia terapéutica y pruebas no treponémicas cuantitativas.",
+          "VIH: un reactivo exige algoritmo diagnóstico nacional; distinguir tamizaje inicial y confirmación.",
+          "Parto sin controles: evaluar VIH, sífilis y hepatitis B según protocolos y disponibilidad; iniciar medidas preventivas oportunas.",
+          "Prevención de sífilis congénita: evaluación materna, penicilina cuando esté indicada, estudio y manejo del neonato.",
+          "Prevención de transmisión vertical de VIH: coordinar tratamiento antirretroviral, vía de parto y profilaxis neonatal según escenario y protocolo.",
+          "Consentimiento informado, confidencialidad, consejería breve y registro de resultados.",
+          "FTA-ABS es ensayo treponémico de laboratorio; no representa test dual de tamizaje inmediato."
+        ],
+        "por_que_no_las_otras": {
+          "A": "FTA-ABS detecta anticuerpos treponémicos; no integra la búsqueda rápida de VIH.",
+          "B": "Pruebas moleculares detectan material genético de un agente específico; no son la categoría descrita de anticuerpos duales.",
+          "C": "La prueba triple incorpora otro marcador; no corresponde a la descripción de exactamente dos blancos.",
+          "D": "Correcta: PRD, prueba rápida dual VIH/sífilis."
+        },
+        "normativa": [
+          "Normas técnicas MINSA para prevención de transmisión maternoinfantil del VIH, sífilis y hepatitis B: revisar modificaciones vigentes.",
+          "OMS/OPS: recomendaciones sobre pruebas duales VIH/sífilis para gestantes."
+        ],
+        "mnemotecnia": "DUAL = DOS: VIH + SÍFILIS.",
+        "trampas": [
+          "Treponémica reactiva no diferencia necesariamente infección pasada y activa.",
+          "Prueba dual reactiva de VIH no equivale por sí sola a diagnóstico definitivo.",
+          "Nunca diferir medidas maternoinfantiles urgentes esperando el resultado de una prueba complementaria innecesariamente."
+        ],
+        "perla": "DUAL = DOS: VIH + SÍFILIS.",
+        "repaso_activo": [
+          "¿Clave? D: PRD.",
+          "¿Qué mide test treponémico? Anticuerpos anti-T. pallidum.",
+          "¿Qué hacer con reactivo? Continuar algoritmo y prevención oportuna."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Gestante en expulsivo carece de pruebas antenatales. ¿Qué test permite búsqueda simultánea de VIH y sífilis?",
+            "alternativas": {
+              "A": "Urocultivo",
+              "B": "Prueba rápida dual",
+              "C": "Hemoglobina aislada",
+              "D": "FTA-ABS exclusivamente",
+              "E": "Prueba de embarazo"
+            },
+            "respuesta": "B",
+            "explicacion": "El test dual aborda ambos agentes en la atención inmediata."
+          },
+          {
+            "enunciado": "Paciente con sífilis tratada tiene prueba treponémica reactiva años después. ¿Qué interpretación es correcta?",
+            "alternativas": {
+              "A": "Siempre reinfección",
+              "B": "Siempre sífilis congénita",
+              "C": "Error técnico obligatorio",
+              "D": "No requiere historia clínica",
+              "E": "Puede reflejar anticuerpos persistentes; correlacionar con títulos e historia"
+            },
+            "respuesta": "E",
+            "explicacion": "La serorreactividad treponémica puede persistir."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Tamizaje dual VIH-sífilis en gestante sin control prenatal y parto inminente",
+          "desarrollo": "RESPUESTA DEL BLOQUE (INTERPRETACIÓN ACADÉMICA, NO COTEJO INDEPENDIENTE CON CLAVE OFICIAL)\nD. PRD (pruebas rápidas duales)\n\nRAZONAMIENTO EXTENSO\nLa prueba rápida dual permite pesquisar en una misma prueba anticuerpos frente a VIH y Treponema pallidum. Resultados reactivos obligan a seguir algoritmo de confirmación/diagnóstico y a actuar durante la atención obstétrica conforme a protocolos para prevenir transmisión maternoinfantil. La urgencia del parto exige no retrasar medidas clínicas relevantes por trámites de laboratorio.\n\nDESARROLLO DEL TEMARIO\n1. Prueba rápida dual VIH/sífilis: dos blancos serológicos en un dispositivo; resultado de tamizaje, no estadificación por sí solo.\n2. Sífilis: los anticuerpos treponémicos pueden persistir tras tratamiento; correlacionar historia terapéutica y pruebas no treponémicas cuantitativas.\n3. VIH: un reactivo exige algoritmo diagnóstico nacional; distinguir tamizaje inicial y confirmación.\n4. Parto sin controles: evaluar VIH, sífilis y hepatitis B según protocolos y disponibilidad; iniciar medidas preventivas oportunas.\n5. Prevención de sífilis congénita: evaluación materna, penicilina cuando esté indicada, estudio y manejo del neonato.\n6. Prevención de transmisión vertical de VIH: coordinar tratamiento antirretroviral, vía de parto y profilaxis neonatal según escenario y protocolo.\n7. Consentimiento informado, confidencialidad, consejería breve y registro de resultados.\n8. FTA-ABS es ensayo treponémico de laboratorio; no representa test dual de tamizaje inmediato.\n\nALTERNATIVAS\nA. FTA-ABS detecta anticuerpos treponémicos; no integra la búsqueda rápida de VIH.\nB. Pruebas moleculares detectan material genético de un agente específico; no son la categoría descrita de anticuerpos duales.\nC. La prueba triple incorpora otro marcador; no corresponde a la descripción de exactamente dos blancos.\nD. Correcta: PRD, prueba rápida dual VIH/sífilis.\n\nNORMATIVA / FUENTES DE ESTUDIO\nNormas técnicas MINSA para prevención de transmisión maternoinfantil del VIH, sífilis y hepatitis B: revisar modificaciones vigentes.\nOMS/OPS: recomendaciones sobre pruebas duales VIH/sífilis para gestantes.\n\nTRAMPAS\nTreponémica reactiva no diferencia necesariamente infección pasada y activa.\nPrueba dual reactiva de VIH no equivale por sí sola a diagnóstico definitivo.\nNunca diferir medidas maternoinfantiles urgentes esperando el resultado de una prueba complementaria innecesariamente.\n\nMNEMOTECNIA\nDUAL = DOS: VIH + SÍFILIS.\n\nREPASO ACTIVO\n¿Clave? D: PRD.\n¿Qué mide test treponémico? Anticuerpos anti-T. pallidum.\n¿Qué hacer con reactivo? Continuar algoritmo y prevención oportuna.\n\nDOS CASOS DE REFUERZO\n1. Gestante en expulsivo carece de pruebas antenatales. ¿Qué test permite búsqueda simultánea de VIH y sífilis?\nA. Urocultivo\nB. Prueba rápida dual\nC. Hemoglobina aislada\nD. FTA-ABS exclusivamente\nE. Prueba de embarazo\nClave B: El test dual aborda ambos agentes en la atención inmediata.\n\n2. Paciente con sífilis tratada tiene prueba treponémica reactiva años después. ¿Qué interpretación es correcta?\nA. Siempre reinfección\nB. Siempre sífilis congénita\nC. Error técnico obligatorio\nD. No requiere historia clínica\nE. Puede reflejar anticuerpos persistentes; correlacionar con títulos e historia\nClave E: La serorreactividad treponémica puede persistir."
+        }
+      }
+    },
+    {
+      "number": 13,
+      "question": "Durante la visita a un niño con anemia, se le orienta a la madre darle alimentos ricos en hierro como la sangrecita, sin embargo, la madre señal que su religión no se lo permite. ¿Cuál es la conducta más adecuada para mejorar el estado de salud del menor?",
+      "options": {
+        "A": "Llamarle la atención por negligencia y desidia",
+        "B": "Obligar a que la madre lo alimente con la sangrecita",
+        "C": "Respetar la decisión y creencia de la familia",
+        "D": "Fortalecer el consumo de hierro intradomiciliario"
+      },
+      "correct": "C",
+      "code": "ENCAPS26-I P013",
+      "course": "ENCAPS Medicina 2026-I · Temario desarrollado",
+      "topic": "Anemia infantil, consejería alimentaria e interculturalidad religiosa",
+      "comment": "RESPUESTA DEL BLOQUE (INTERPRETACIÓN ACADÉMICA, NO COTEJO INDEPENDIENTE CON CLAVE OFICIAL)\nC. Respetar la decisión y creencia de la familia\n\nRAZONAMIENTO EXTENSO\nCorresponde respetar creencias de la familia, evitar coacción y acordar fuentes alternativas de hierro aceptables, además de tratar y controlar la anemia según su gravedad. La opción C es la mejor en clave ética intercultural; no significa limitarse a aceptar la prohibición sin ofrecer un plan terapéutico. La expresión 'fortalecer el consumo de hierro intradomiciliario' resulta inespecífica y puede ser parte del plan después del diálogo.\n\nDESARROLLO DEL TEMARIO\n1. Anemia infantil: identificar edad, hemoglobina ajustada por altitud cuando corresponda, gravedad, causa y riesgo nutricional.\n2. Hierro hemínico: carnes rojas, pescado y otras fuentes animales permitidas por la familia; biodisponibilidad superior a gran parte del hierro no hemínico.\n3. Hierro no hemínico: menestras y vegetales; combinar con vitamina C y reducir inhibidores durante comidas cuando sea pertinente.\n4. Tratamiento farmacológico de anemia: dosis de hierro elemental según edad, estado clínico y norma vigente, diferenciada de dosis preventiva.\n5. Adherencia: identificar barreras culturales, efectos gastrointestinales y acceso a insumos.\n6. Consejería respetuosa: negociación de alternativas viables, no culpabilización ni imposición.\n7. Monitoreo: control de hemoglobina, respuesta, signos de alarma y evaluación de causas si no mejora.\n8. Contexto altoandino: interpretar hemoglobina con el procedimiento oficial de ajuste por altura aplicable.\n\nALTERNATIVAS\nA. Reproche y estigmatización deterioran vínculo y no mejoran adherencia.\nB. Forzar un alimento específico vulnera convicciones y desconoce equivalentes nutritivos.\nC. Correcta en el enfoque de derechos: respetar creencias y adaptar plan efectivo.\nD. Es posible mejorar la ingesta de hierro mediante alternativas aceptables, pero esta formulación no explicita respeto ni decisión compartida; constituye complemento de C.\n\nNORMATIVA / FUENTES DE ESTUDIO\nNTS MINSA vigente para prevención y control de anemia por deficiencia de hierro en niños y gestantes: verificar versión, dosis y ajustes por altitud.\nModelo de Cuidado Integral de Salud por Curso de Vida con enfoque familiar, comunitario e intercultural.\n\nTRAMPAS\nRespetar religión no equivale a abandonar el tratamiento.\nLas fuentes de hierro no tienen biodisponibilidad idéntica.\nNo usar una única cifra de Hb sin considerar edad y altitud en poblaciones altoandinas.\n\nMNEMOTECNIA\nRESPETA + ADAPTA + TRATA + CONTROL.\n\nREPASO ACTIVO\n¿Conducta ética inicial? Respetar las creencias.\n¿Se puede ofertar otra fuente de hierro? Sí.\n¿Se mantiene seguimiento? Sí.\n¿Altitud influye en diagnóstico? Sí, según norma aplicable.\n\nDOS CASOS DE REFUERZO\n1. Familia rechaza sangrecita por convicción religiosa. ¿Mejor consejería?\nA. Amenazar con denuncia\nB. Suspender controles\nC. Imponer el alimento\nD. Explorar fuentes alternativas y pactar plan\nE. Ocultar el ingrediente\nClave D: Se respeta la convicción sin renunciar al manejo.\n\n2. Niño con anemia persiste sin mejoría pese a suplemento referido como tomado. ¿Qué corresponde?\nA. Verificar adherencia, dosis, causa y respuesta\nB. Culpar a madre\nC. No evaluar\nD. Reemplazar hierro por azúcar\nE. Esperar indefinidamente\nClave A: Una respuesta inadecuada exige evaluación sistemática.",
+      "pearl": "RESPETA + ADAPTA + TRATA + CONTROL.",
+      "keywords": [
+        "Anemia infantil, consejería alimentaria e interculturalidad religiosa",
+        "ENCAPS Medicina 2026-I",
+        "SERUMS MINSA"
+      ],
+      "estadoDesarrollo": "completo",
+      "estadoClave": "interpretacion_pendiente_cotejo_independiente_con_clave_oficial",
+      "lesson": {
+        "respuesta_resumida": "C. Respetar la decisión y creencia de la familia",
+        "razonamiento": "Corresponde respetar creencias de la familia, evitar coacción y acordar fuentes alternativas de hierro aceptables, además de tratar y controlar la anemia según su gravedad. La opción C es la mejor en clave ética intercultural; no significa limitarse a aceptar la prohibición sin ofrecer un plan terapéutico. La expresión 'fortalecer el consumo de hierro intradomiciliario' resulta inespecífica y puede ser parte del plan después del diálogo.",
+        "temario": [
+          "Anemia infantil: identificar edad, hemoglobina ajustada por altitud cuando corresponda, gravedad, causa y riesgo nutricional.",
+          "Hierro hemínico: carnes rojas, pescado y otras fuentes animales permitidas por la familia; biodisponibilidad superior a gran parte del hierro no hemínico.",
+          "Hierro no hemínico: menestras y vegetales; combinar con vitamina C y reducir inhibidores durante comidas cuando sea pertinente.",
+          "Tratamiento farmacológico de anemia: dosis de hierro elemental según edad, estado clínico y norma vigente, diferenciada de dosis preventiva.",
+          "Adherencia: identificar barreras culturales, efectos gastrointestinales y acceso a insumos.",
+          "Consejería respetuosa: negociación de alternativas viables, no culpabilización ni imposición.",
+          "Monitoreo: control de hemoglobina, respuesta, signos de alarma y evaluación de causas si no mejora.",
+          "Contexto altoandino: interpretar hemoglobina con el procedimiento oficial de ajuste por altura aplicable."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Reproche y estigmatización deterioran vínculo y no mejoran adherencia.",
+          "B": "Forzar un alimento específico vulnera convicciones y desconoce equivalentes nutritivos.",
+          "C": "Correcta en el enfoque de derechos: respetar creencias y adaptar plan efectivo.",
+          "D": "Es posible mejorar la ingesta de hierro mediante alternativas aceptables, pero esta formulación no explicita respeto ni decisión compartida; constituye complemento de C."
+        },
+        "normativa": [
+          "NTS MINSA vigente para prevención y control de anemia por deficiencia de hierro en niños y gestantes: verificar versión, dosis y ajustes por altitud.",
+          "Modelo de Cuidado Integral de Salud por Curso de Vida con enfoque familiar, comunitario e intercultural."
+        ],
+        "mnemotecnia": "RESPETA + ADAPTA + TRATA + CONTROL.",
+        "trampas": [
+          "Respetar religión no equivale a abandonar el tratamiento.",
+          "Las fuentes de hierro no tienen biodisponibilidad idéntica.",
+          "No usar una única cifra de Hb sin considerar edad y altitud en poblaciones altoandinas."
+        ],
+        "perla": "RESPETA + ADAPTA + TRATA + CONTROL.",
+        "repaso_activo": [
+          "¿Conducta ética inicial? Respetar las creencias.",
+          "¿Se puede ofertar otra fuente de hierro? Sí.",
+          "¿Se mantiene seguimiento? Sí.",
+          "¿Altitud influye en diagnóstico? Sí, según norma aplicable."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Familia rechaza sangrecita por convicción religiosa. ¿Mejor consejería?",
+            "alternativas": {
+              "A": "Amenazar con denuncia",
+              "B": "Suspender controles",
+              "C": "Imponer el alimento",
+              "D": "Explorar fuentes alternativas y pactar plan",
+              "E": "Ocultar el ingrediente"
+            },
+            "respuesta": "D",
+            "explicacion": "Se respeta la convicción sin renunciar al manejo."
+          },
+          {
+            "enunciado": "Niño con anemia persiste sin mejoría pese a suplemento referido como tomado. ¿Qué corresponde?",
+            "alternativas": {
+              "A": "Verificar adherencia, dosis, causa y respuesta",
+              "B": "Culpar a madre",
+              "C": "No evaluar",
+              "D": "Reemplazar hierro por azúcar",
+              "E": "Esperar indefinidamente"
+            },
+            "respuesta": "A",
+            "explicacion": "Una respuesta inadecuada exige evaluación sistemática."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Anemia infantil, consejería alimentaria e interculturalidad religiosa",
+          "desarrollo": "RESPUESTA DEL BLOQUE (INTERPRETACIÓN ACADÉMICA, NO COTEJO INDEPENDIENTE CON CLAVE OFICIAL)\nC. Respetar la decisión y creencia de la familia\n\nRAZONAMIENTO EXTENSO\nCorresponde respetar creencias de la familia, evitar coacción y acordar fuentes alternativas de hierro aceptables, además de tratar y controlar la anemia según su gravedad. La opción C es la mejor en clave ética intercultural; no significa limitarse a aceptar la prohibición sin ofrecer un plan terapéutico. La expresión 'fortalecer el consumo de hierro intradomiciliario' resulta inespecífica y puede ser parte del plan después del diálogo.\n\nDESARROLLO DEL TEMARIO\n1. Anemia infantil: identificar edad, hemoglobina ajustada por altitud cuando corresponda, gravedad, causa y riesgo nutricional.\n2. Hierro hemínico: carnes rojas, pescado y otras fuentes animales permitidas por la familia; biodisponibilidad superior a gran parte del hierro no hemínico.\n3. Hierro no hemínico: menestras y vegetales; combinar con vitamina C y reducir inhibidores durante comidas cuando sea pertinente.\n4. Tratamiento farmacológico de anemia: dosis de hierro elemental según edad, estado clínico y norma vigente, diferenciada de dosis preventiva.\n5. Adherencia: identificar barreras culturales, efectos gastrointestinales y acceso a insumos.\n6. Consejería respetuosa: negociación de alternativas viables, no culpabilización ni imposición.\n7. Monitoreo: control de hemoglobina, respuesta, signos de alarma y evaluación de causas si no mejora.\n8. Contexto altoandino: interpretar hemoglobina con el procedimiento oficial de ajuste por altura aplicable.\n\nALTERNATIVAS\nA. Reproche y estigmatización deterioran vínculo y no mejoran adherencia.\nB. Forzar un alimento específico vulnera convicciones y desconoce equivalentes nutritivos.\nC. Correcta en el enfoque de derechos: respetar creencias y adaptar plan efectivo.\nD. Es posible mejorar la ingesta de hierro mediante alternativas aceptables, pero esta formulación no explicita respeto ni decisión compartida; constituye complemento de C.\n\nNORMATIVA / FUENTES DE ESTUDIO\nNTS MINSA vigente para prevención y control de anemia por deficiencia de hierro en niños y gestantes: verificar versión, dosis y ajustes por altitud.\nModelo de Cuidado Integral de Salud por Curso de Vida con enfoque familiar, comunitario e intercultural.\n\nTRAMPAS\nRespetar religión no equivale a abandonar el tratamiento.\nLas fuentes de hierro no tienen biodisponibilidad idéntica.\nNo usar una única cifra de Hb sin considerar edad y altitud en poblaciones altoandinas.\n\nMNEMOTECNIA\nRESPETA + ADAPTA + TRATA + CONTROL.\n\nREPASO ACTIVO\n¿Conducta ética inicial? Respetar las creencias.\n¿Se puede ofertar otra fuente de hierro? Sí.\n¿Se mantiene seguimiento? Sí.\n¿Altitud influye en diagnóstico? Sí, según norma aplicable.\n\nDOS CASOS DE REFUERZO\n1. Familia rechaza sangrecita por convicción religiosa. ¿Mejor consejería?\nA. Amenazar con denuncia\nB. Suspender controles\nC. Imponer el alimento\nD. Explorar fuentes alternativas y pactar plan\nE. Ocultar el ingrediente\nClave D: Se respeta la convicción sin renunciar al manejo.\n\n2. Niño con anemia persiste sin mejoría pese a suplemento referido como tomado. ¿Qué corresponde?\nA. Verificar adherencia, dosis, causa y respuesta\nB. Culpar a madre\nC. No evaluar\nD. Reemplazar hierro por azúcar\nE. Esperar indefinidamente\nClave A: Una respuesta inadecuada exige evaluación sistemática."
+        }
+      }
+    },
+    {
+      "number": 14,
+      "question": "El tabaco es un factor de riesgo para cáncer pulmonar y EPOC, una intervención efectiva para disminuir la exposición es la implementación de medidas correctivas que favorezcan espacios libres de humo, siendo una función de salud...",
+      "options": {
+        "A": "individual.",
+        "B": "pública.",
+        "C": "familiar.",
+        "D": "participativa."
+      },
+      "correct": "B",
+      "code": "ENCAPS26-I P014",
+      "course": "ENCAPS Medicina 2026-I · Temario desarrollado",
+      "topic": "Salud pública, control de tabaco y ambientes 100% libres de humo",
+      "comment": "RESPUESTA DEL BLOQUE (INTERPRETACIÓN ACADÉMICA, NO COTEJO INDEPENDIENTE CON CLAVE OFICIAL)\nB. pública.\n\nRAZONAMIENTO EXTENSO\nLas restricciones de exposición al humo en espacios compartidos protegen colectivamente mediante regulación, fiscalización, prevención y entornos saludables: son funciones de salud pública. Se distinguen de intervenciones individuales, como consejería para dejar de fumar, y familiares, como apoyo domiciliario. Las medidas poblacionales requieren participación comunitaria pero no se clasifican por ello como 'función participativa'.\n\nDESARROLLO DEL TEMARIO\n1. Tabaco y humo ajeno: riesgos para neoplasias, EPOC, enfermedad cardiovascular y exacerbaciones respiratorias.\n2. Prevención primaria poblacional: espacios libres de humo, educación, protección de menores y políticas regulatorias.\n3. Diferenciar prevención individual, comunitaria y medidas estructurales.\n4. Funciones esenciales de salud pública: promoción, protección, regulación, vigilancia y políticas según marcos de referencia.\n5. Exposición involuntaria al humo: incluso no fumadores resultan afectados.\n6. Cesación: intervención breve, apoyo conductual, manejo de dependencia y acceso a tratamiento cuando indicado.\n7. Evaluación de política: cumplimiento, reducción de exposición, equidad y vigilancia de resultados.\n8. Enfoque intersectorial: instituciones educativas, municipios, fiscalización y centros laborales.\n\nALTERNATIVAS\nA. La atención individual aborda un paciente, no la regulación general de espacios.\nB. Correcta: protección colectiva frente al humo ambiental.\nC. El apoyo familiar importa, pero la creación de entornos públicos libres de humo trasciende el hogar.\nD. La participación social favorece implementación, pero no describe mejor el campo funcional solicitado.\n\nNORMATIVA / FUENTES DE ESTUDIO\nLey 28705, Ley General para la Prevención y Control de los Riesgos del Consumo del Tabaco, sus modificaciones y reglamentación vigentes.\nConvenio Marco OMS para el Control del Tabaco: medidas para proteger de la exposición al humo.\n\nTRAMPAS\nNo existe un nivel de exposición al humo de segunda mano considerado seguro.\nEducar a un paciente no sustituye políticas de entornos.\nControl de tabaco combina medidas clínicas, regulatorias y comunitarias.\n\nMNEMOTECNIA\nHUMO EN ESPACIOS → SALUD PÚBLICA.\n\nREPASO ACTIVO\n¿Clave? B: pública.\n¿Qué se protege? Salud de fumadores y no fumadores.\n¿Cesación individual y política pública son lo mismo? No.\n\nDOS CASOS DE REFUERZO\n1. Municipio fiscaliza ambientes libres de humo. ¿Nivel principal de intervención?\nA. Solo rehabilitación\nB. Solo atención hospitalaria\nC. Salud pública poblacional\nD. Farmacología exclusiva\nE. Cirugía\nClave C: Se modifica exposición ambiental colectiva.\n\n2. Médico ofrece consejería breve para dejar tabaco a un paciente. ¿Qué modalidad representa?\nA. Solo fiscalización\nB. Acción judicial\nC. Monitoreo de industria\nD. Control fronterizo\nE. Intervención clínica individual\nClave E: Apoya cesación en un sujeto concreto.",
+      "pearl": "HUMO EN ESPACIOS → SALUD PÚBLICA.",
+      "keywords": [
+        "Salud pública, control de tabaco y ambientes 100% libres de humo",
+        "ENCAPS Medicina 2026-I",
+        "SERUMS MINSA"
+      ],
+      "estadoDesarrollo": "completo",
+      "estadoClave": "interpretacion_pendiente_cotejo_independiente_con_clave_oficial",
+      "lesson": {
+        "respuesta_resumida": "B. pública.",
+        "razonamiento": "Las restricciones de exposición al humo en espacios compartidos protegen colectivamente mediante regulación, fiscalización, prevención y entornos saludables: son funciones de salud pública. Se distinguen de intervenciones individuales, como consejería para dejar de fumar, y familiares, como apoyo domiciliario. Las medidas poblacionales requieren participación comunitaria pero no se clasifican por ello como 'función participativa'.",
+        "temario": [
+          "Tabaco y humo ajeno: riesgos para neoplasias, EPOC, enfermedad cardiovascular y exacerbaciones respiratorias.",
+          "Prevención primaria poblacional: espacios libres de humo, educación, protección de menores y políticas regulatorias.",
+          "Diferenciar prevención individual, comunitaria y medidas estructurales.",
+          "Funciones esenciales de salud pública: promoción, protección, regulación, vigilancia y políticas según marcos de referencia.",
+          "Exposición involuntaria al humo: incluso no fumadores resultan afectados.",
+          "Cesación: intervención breve, apoyo conductual, manejo de dependencia y acceso a tratamiento cuando indicado.",
+          "Evaluación de política: cumplimiento, reducción de exposición, equidad y vigilancia de resultados.",
+          "Enfoque intersectorial: instituciones educativas, municipios, fiscalización y centros laborales."
+        ],
+        "por_que_no_las_otras": {
+          "A": "La atención individual aborda un paciente, no la regulación general de espacios.",
+          "B": "Correcta: protección colectiva frente al humo ambiental.",
+          "C": "El apoyo familiar importa, pero la creación de entornos públicos libres de humo trasciende el hogar.",
+          "D": "La participación social favorece implementación, pero no describe mejor el campo funcional solicitado."
+        },
+        "normativa": [
+          "Ley 28705, Ley General para la Prevención y Control de los Riesgos del Consumo del Tabaco, sus modificaciones y reglamentación vigentes.",
+          "Convenio Marco OMS para el Control del Tabaco: medidas para proteger de la exposición al humo."
+        ],
+        "mnemotecnia": "HUMO EN ESPACIOS → SALUD PÚBLICA.",
+        "trampas": [
+          "No existe un nivel de exposición al humo de segunda mano considerado seguro.",
+          "Educar a un paciente no sustituye políticas de entornos.",
+          "Control de tabaco combina medidas clínicas, regulatorias y comunitarias."
+        ],
+        "perla": "HUMO EN ESPACIOS → SALUD PÚBLICA.",
+        "repaso_activo": [
+          "¿Clave? B: pública.",
+          "¿Qué se protege? Salud de fumadores y no fumadores.",
+          "¿Cesación individual y política pública son lo mismo? No."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Municipio fiscaliza ambientes libres de humo. ¿Nivel principal de intervención?",
+            "alternativas": {
+              "A": "Solo rehabilitación",
+              "B": "Solo atención hospitalaria",
+              "C": "Salud pública poblacional",
+              "D": "Farmacología exclusiva",
+              "E": "Cirugía"
+            },
+            "respuesta": "C",
+            "explicacion": "Se modifica exposición ambiental colectiva."
+          },
+          {
+            "enunciado": "Médico ofrece consejería breve para dejar tabaco a un paciente. ¿Qué modalidad representa?",
+            "alternativas": {
+              "A": "Solo fiscalización",
+              "B": "Acción judicial",
+              "C": "Monitoreo de industria",
+              "D": "Control fronterizo",
+              "E": "Intervención clínica individual"
+            },
+            "respuesta": "E",
+            "explicacion": "Apoya cesación en un sujeto concreto."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Salud pública, control de tabaco y ambientes 100% libres de humo",
+          "desarrollo": "RESPUESTA DEL BLOQUE (INTERPRETACIÓN ACADÉMICA, NO COTEJO INDEPENDIENTE CON CLAVE OFICIAL)\nB. pública.\n\nRAZONAMIENTO EXTENSO\nLas restricciones de exposición al humo en espacios compartidos protegen colectivamente mediante regulación, fiscalización, prevención y entornos saludables: son funciones de salud pública. Se distinguen de intervenciones individuales, como consejería para dejar de fumar, y familiares, como apoyo domiciliario. Las medidas poblacionales requieren participación comunitaria pero no se clasifican por ello como 'función participativa'.\n\nDESARROLLO DEL TEMARIO\n1. Tabaco y humo ajeno: riesgos para neoplasias, EPOC, enfermedad cardiovascular y exacerbaciones respiratorias.\n2. Prevención primaria poblacional: espacios libres de humo, educación, protección de menores y políticas regulatorias.\n3. Diferenciar prevención individual, comunitaria y medidas estructurales.\n4. Funciones esenciales de salud pública: promoción, protección, regulación, vigilancia y políticas según marcos de referencia.\n5. Exposición involuntaria al humo: incluso no fumadores resultan afectados.\n6. Cesación: intervención breve, apoyo conductual, manejo de dependencia y acceso a tratamiento cuando indicado.\n7. Evaluación de política: cumplimiento, reducción de exposición, equidad y vigilancia de resultados.\n8. Enfoque intersectorial: instituciones educativas, municipios, fiscalización y centros laborales.\n\nALTERNATIVAS\nA. La atención individual aborda un paciente, no la regulación general de espacios.\nB. Correcta: protección colectiva frente al humo ambiental.\nC. El apoyo familiar importa, pero la creación de entornos públicos libres de humo trasciende el hogar.\nD. La participación social favorece implementación, pero no describe mejor el campo funcional solicitado.\n\nNORMATIVA / FUENTES DE ESTUDIO\nLey 28705, Ley General para la Prevención y Control de los Riesgos del Consumo del Tabaco, sus modificaciones y reglamentación vigentes.\nConvenio Marco OMS para el Control del Tabaco: medidas para proteger de la exposición al humo.\n\nTRAMPAS\nNo existe un nivel de exposición al humo de segunda mano considerado seguro.\nEducar a un paciente no sustituye políticas de entornos.\nControl de tabaco combina medidas clínicas, regulatorias y comunitarias.\n\nMNEMOTECNIA\nHUMO EN ESPACIOS → SALUD PÚBLICA.\n\nREPASO ACTIVO\n¿Clave? B: pública.\n¿Qué se protege? Salud de fumadores y no fumadores.\n¿Cesación individual y política pública son lo mismo? No.\n\nDOS CASOS DE REFUERZO\n1. Municipio fiscaliza ambientes libres de humo. ¿Nivel principal de intervención?\nA. Solo rehabilitación\nB. Solo atención hospitalaria\nC. Salud pública poblacional\nD. Farmacología exclusiva\nE. Cirugía\nClave C: Se modifica exposición ambiental colectiva.\n\n2. Médico ofrece consejería breve para dejar tabaco a un paciente. ¿Qué modalidad representa?\nA. Solo fiscalización\nB. Acción judicial\nC. Monitoreo de industria\nD. Control fronterizo\nE. Intervención clínica individual\nClave E: Apoya cesación en un sujeto concreto."
+        }
+      }
+    },
+    {
+      "number": 15,
+      "question": "Durante la consulta de curso de vida de un adulto mayor, identifica que hace varios años no se ha aplicado vacunas, por lo que lo sensibiliza informándole sobre los beneficios. De acuerdo al curso de vida, le corresponde:",
+      "options": {
+        "A": "Hepatitis B y antiamarílica",
+        "B": "Antiamarílica e influenza adulto",
+        "C": "Influenza adulto y neumococo",
+        "D": "VPH, SPR y neumococo"
+      },
+      "correct": "C",
+      "code": "ENCAPS26-I P015",
+      "course": "ENCAPS Medicina 2026-I · Temario desarrollado",
+      "topic": "Inmunizaciones en adulto mayor: influenza y neumococo",
+      "comment": "RESPUESTA DEL BLOQUE (INTERPRETACIÓN ACADÉMICA, NO COTEJO INDEPENDIENTE CON CLAVE OFICIAL)\nC. Influenza adulto y neumococo\n\nRAZONAMIENTO EXTENSO\nLas estrategias de inmunización de personas mayores priorizan vacunación antigripal e inmunización antineumocócica conforme a edad, riesgo, antecedente y esquema nacional vigente. Ambas previenen complicaciones respiratorias de impacto elevado. No se debe interpretar que las demás vacunas estén prohibidas: ciertas indicaciones dependen de riesgos, territorio y antecedentes.\n\nDESARROLLO DEL TEMARIO\n1. Inmunosenescencia: reducción de respuesta inmunológica y aumento de riesgo de influenza complicada y neumonía neumocócica.\n2. Vacuna influenza: actualización de formulación y campañas según recomendaciones nacionales y situación epidemiológica.\n3. Vacunación neumocócica: tipo de vacuna y necesidad de dosis previas dependen del esquema nacional vigente y comorbilidades.\n4. Anamnesis vacunal: registrar carné, historia previa, comorbilidades, inmunosupresión y reacciones adversas.\n5. Evaluación de contraindicaciones reales frente a falsas contraindicaciones.\n6. Hepatitis B: indicación según antecedentes, susceptibilidad y riesgo, no sustituto de las prioridades preguntadas.\n7. Fiebre amarilla: contexto de exposición territorial y recomendaciones específicas, no vacunación indiscriminada a toda persona mayor.\n8. Vacunas adicionales: COVID-19, tétanos/difteria y otras según lineamientos y disponibilidad.\n9. Consejería: explicar protección, eventos adversos esperables, consentimiento y continuidad.\n\nALTERNATIVAS\nA. Ambas pueden tener indicación selectiva; no forman el par característico esperado de vacunación rutinaria del adulto mayor.\nB. Fiebre amarilla depende del riesgo y de precauciones por edad; no reemplaza neumococo como respuesta general.\nC. Correcta: influenza del adulto y neumococo como prioridades del curso de vida mayor.\nD. VPH y SPR no representan el paquete general prioritario de un adulto mayor; SPR puede indicarse en contextos específicos.\n\nNORMATIVA / FUENTES DE ESTUDIO\nNorma Técnica de Salud del Esquema Nacional de Vacunación de MINSA vigente y actualizaciones de inmunización de personas adultas mayores.\nOPS/OMS: prevención de influenza estacional y enfermedad neumocócica en grupos de riesgo.\n\nTRAMPAS\nNo confundir inmunización rutinaria con vacunas indicadas por viaje.\nVacunas de neumococo no se consideran equivalentes sin atender al producto y pauta.\nRevisar esquemas vigentes antes de memorizar dosis e intervalos exactos.\n\nMNEMOTECNIA\nMAYOR: INFLUENZA + NEUMOCOCO.\n\nREPASO ACTIVO\n¿Clave? C: influenza y neumococo.\n¿Fiebre amarilla universal en mayores? No.\n¿Qué evaluar antes de vacunar? Antecedentes, riesgos y lineamientos.\n\nDOS CASOS DE REFUERZO\n1. Adulto mayor sin inmunizaciones documentadas llega a APS. ¿Qué dos inmunizaciones prioriza la pregunta clásica?\nA. BCG y rotavirus\nB. Influenza y neumococo\nC. VPH y BCG\nD. Fiebre amarilla y rotavirus\nE. Triple viral y rotavirus\nClave B: Par prioritario según curso de vida mayor.\n\n2. Adulto mayor viajará a región con riesgo de fiebre amarilla. ¿Conducta?\nA. Aplicar sin valorar edad\nB. Descartar automáticamente todo viaje\nC. Reemplazar vacuna neumocócica\nD. Evaluar indicación, edad y precauciones específicas\nE. Indicar antibiótico como sustituto\nClave D: La decisión exige balance individual de riesgo-beneficio.",
+      "pearl": "MAYOR: INFLUENZA + NEUMOCOCO.",
+      "keywords": [
+        "Inmunizaciones en adulto mayor: influenza y neumococo",
+        "ENCAPS Medicina 2026-I",
+        "SERUMS MINSA"
+      ],
+      "estadoDesarrollo": "completo",
+      "estadoClave": "interpretacion_pendiente_cotejo_independiente_con_clave_oficial",
+      "lesson": {
+        "respuesta_resumida": "C. Influenza adulto y neumococo",
+        "razonamiento": "Las estrategias de inmunización de personas mayores priorizan vacunación antigripal e inmunización antineumocócica conforme a edad, riesgo, antecedente y esquema nacional vigente. Ambas previenen complicaciones respiratorias de impacto elevado. No se debe interpretar que las demás vacunas estén prohibidas: ciertas indicaciones dependen de riesgos, territorio y antecedentes.",
+        "temario": [
+          "Inmunosenescencia: reducción de respuesta inmunológica y aumento de riesgo de influenza complicada y neumonía neumocócica.",
+          "Vacuna influenza: actualización de formulación y campañas según recomendaciones nacionales y situación epidemiológica.",
+          "Vacunación neumocócica: tipo de vacuna y necesidad de dosis previas dependen del esquema nacional vigente y comorbilidades.",
+          "Anamnesis vacunal: registrar carné, historia previa, comorbilidades, inmunosupresión y reacciones adversas.",
+          "Evaluación de contraindicaciones reales frente a falsas contraindicaciones.",
+          "Hepatitis B: indicación según antecedentes, susceptibilidad y riesgo, no sustituto de las prioridades preguntadas.",
+          "Fiebre amarilla: contexto de exposición territorial y recomendaciones específicas, no vacunación indiscriminada a toda persona mayor.",
+          "Vacunas adicionales: COVID-19, tétanos/difteria y otras según lineamientos y disponibilidad.",
+          "Consejería: explicar protección, eventos adversos esperables, consentimiento y continuidad."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Ambas pueden tener indicación selectiva; no forman el par característico esperado de vacunación rutinaria del adulto mayor.",
+          "B": "Fiebre amarilla depende del riesgo y de precauciones por edad; no reemplaza neumococo como respuesta general.",
+          "C": "Correcta: influenza del adulto y neumococo como prioridades del curso de vida mayor.",
+          "D": "VPH y SPR no representan el paquete general prioritario de un adulto mayor; SPR puede indicarse en contextos específicos."
+        },
+        "normativa": [
+          "Norma Técnica de Salud del Esquema Nacional de Vacunación de MINSA vigente y actualizaciones de inmunización de personas adultas mayores.",
+          "OPS/OMS: prevención de influenza estacional y enfermedad neumocócica en grupos de riesgo."
+        ],
+        "mnemotecnia": "MAYOR: INFLUENZA + NEUMOCOCO.",
+        "trampas": [
+          "No confundir inmunización rutinaria con vacunas indicadas por viaje.",
+          "Vacunas de neumococo no se consideran equivalentes sin atender al producto y pauta.",
+          "Revisar esquemas vigentes antes de memorizar dosis e intervalos exactos."
+        ],
+        "perla": "MAYOR: INFLUENZA + NEUMOCOCO.",
+        "repaso_activo": [
+          "¿Clave? C: influenza y neumococo.",
+          "¿Fiebre amarilla universal en mayores? No.",
+          "¿Qué evaluar antes de vacunar? Antecedentes, riesgos y lineamientos."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Adulto mayor sin inmunizaciones documentadas llega a APS. ¿Qué dos inmunizaciones prioriza la pregunta clásica?",
+            "alternativas": {
+              "A": "BCG y rotavirus",
+              "B": "Influenza y neumococo",
+              "C": "VPH y BCG",
+              "D": "Fiebre amarilla y rotavirus",
+              "E": "Triple viral y rotavirus"
+            },
+            "respuesta": "B",
+            "explicacion": "Par prioritario según curso de vida mayor."
+          },
+          {
+            "enunciado": "Adulto mayor viajará a región con riesgo de fiebre amarilla. ¿Conducta?",
+            "alternativas": {
+              "A": "Aplicar sin valorar edad",
+              "B": "Descartar automáticamente todo viaje",
+              "C": "Reemplazar vacuna neumocócica",
+              "D": "Evaluar indicación, edad y precauciones específicas",
+              "E": "Indicar antibiótico como sustituto"
+            },
+            "respuesta": "D",
+            "explicacion": "La decisión exige balance individual de riesgo-beneficio."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Inmunizaciones en adulto mayor: influenza y neumococo",
+          "desarrollo": "RESPUESTA DEL BLOQUE (INTERPRETACIÓN ACADÉMICA, NO COTEJO INDEPENDIENTE CON CLAVE OFICIAL)\nC. Influenza adulto y neumococo\n\nRAZONAMIENTO EXTENSO\nLas estrategias de inmunización de personas mayores priorizan vacunación antigripal e inmunización antineumocócica conforme a edad, riesgo, antecedente y esquema nacional vigente. Ambas previenen complicaciones respiratorias de impacto elevado. No se debe interpretar que las demás vacunas estén prohibidas: ciertas indicaciones dependen de riesgos, territorio y antecedentes.\n\nDESARROLLO DEL TEMARIO\n1. Inmunosenescencia: reducción de respuesta inmunológica y aumento de riesgo de influenza complicada y neumonía neumocócica.\n2. Vacuna influenza: actualización de formulación y campañas según recomendaciones nacionales y situación epidemiológica.\n3. Vacunación neumocócica: tipo de vacuna y necesidad de dosis previas dependen del esquema nacional vigente y comorbilidades.\n4. Anamnesis vacunal: registrar carné, historia previa, comorbilidades, inmunosupresión y reacciones adversas.\n5. Evaluación de contraindicaciones reales frente a falsas contraindicaciones.\n6. Hepatitis B: indicación según antecedentes, susceptibilidad y riesgo, no sustituto de las prioridades preguntadas.\n7. Fiebre amarilla: contexto de exposición territorial y recomendaciones específicas, no vacunación indiscriminada a toda persona mayor.\n8. Vacunas adicionales: COVID-19, tétanos/difteria y otras según lineamientos y disponibilidad.\n9. Consejería: explicar protección, eventos adversos esperables, consentimiento y continuidad.\n\nALTERNATIVAS\nA. Ambas pueden tener indicación selectiva; no forman el par característico esperado de vacunación rutinaria del adulto mayor.\nB. Fiebre amarilla depende del riesgo y de precauciones por edad; no reemplaza neumococo como respuesta general.\nC. Correcta: influenza del adulto y neumococo como prioridades del curso de vida mayor.\nD. VPH y SPR no representan el paquete general prioritario de un adulto mayor; SPR puede indicarse en contextos específicos.\n\nNORMATIVA / FUENTES DE ESTUDIO\nNorma Técnica de Salud del Esquema Nacional de Vacunación de MINSA vigente y actualizaciones de inmunización de personas adultas mayores.\nOPS/OMS: prevención de influenza estacional y enfermedad neumocócica en grupos de riesgo.\n\nTRAMPAS\nNo confundir inmunización rutinaria con vacunas indicadas por viaje.\nVacunas de neumococo no se consideran equivalentes sin atender al producto y pauta.\nRevisar esquemas vigentes antes de memorizar dosis e intervalos exactos.\n\nMNEMOTECNIA\nMAYOR: INFLUENZA + NEUMOCOCO.\n\nREPASO ACTIVO\n¿Clave? C: influenza y neumococo.\n¿Fiebre amarilla universal en mayores? No.\n¿Qué evaluar antes de vacunar? Antecedentes, riesgos y lineamientos.\n\nDOS CASOS DE REFUERZO\n1. Adulto mayor sin inmunizaciones documentadas llega a APS. ¿Qué dos inmunizaciones prioriza la pregunta clásica?\nA. BCG y rotavirus\nB. Influenza y neumococo\nC. VPH y BCG\nD. Fiebre amarilla y rotavirus\nE. Triple viral y rotavirus\nClave B: Par prioritario según curso de vida mayor.\n\n2. Adulto mayor viajará a región con riesgo de fiebre amarilla. ¿Conducta?\nA. Aplicar sin valorar edad\nB. Descartar automáticamente todo viaje\nC. Reemplazar vacuna neumocócica\nD. Evaluar indicación, edad y precauciones específicas\nE. Indicar antibiótico como sustituto\nClave D: La decisión exige balance individual de riesgo-beneficio."
         }
       }
     }
