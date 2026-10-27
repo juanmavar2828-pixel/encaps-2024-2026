@@ -1,0 +1,54 @@
+{
+  "bankId": "ENCAPS_2026_I",
+  "status": "borrador_razonado_requiere_ampliacion_e_integracion",
+  "questions": [
+    {
+      "number": 67,
+      "question": "Acude a su consulta una paciente mujer de 60 años con resultado de RPR positivo 8 dils, asintomática, cuya única pareja sexual es su esposo. ¿Cuál sería el esquema a seguir?",
+      "options": {
+        "A": "Penicilina benzatínica 2 400 000 UI 1 ampolla IM c/semana por 3 semanas",
+        "B": "Bencilpenicilina sódica 1 000 000 UI 4 ampollas EV c/4 horas por 2 semanas",
+        "C": "Doxiciclina 100 mg 1 tableta VO c/12 horas por 2 semanas",
+        "D": "Penicilina benzatínica 2 400 000 UI 1 ampolla IM dosis única"
+      },
+      "correct": "A",
+      "razonamiento": "Sífilis latente de duración desconocida: requiere confirmar infección y antecedentes; si no hay evidencia de infección reciente ni terapia previa adecuada, aplicar penicilina G benzatínica 2,4 millones UI intramuscular cada semana durante tres semanas. El RPR 1:8 no define fecha de adquisición."
+    },
+    {
+      "number": 68,
+      "question": "¿Con qué se determina el número de la historia clínica de una persona de nacionalidad peruana?",
+      "options": {
+        "A": "Carnet de extranjería",
+        "B": "Documento Nacional de Identidad",
+        "C": "Pasaporte",
+        "D": "Según número de ingreso"
+      },
+      "correct": "B",
+      "razonamiento": "El DNI identifica al paciente peruano para el expediente longitudinal. Evitar duplicados y verificar datos. La atención urgente no debe retrasarse por ausencia de documento físico."
+    },
+    {
+      "number": 69,
+      "question": "El equipo multidisciplinario de salud acude a una visita domiciliaria para aplicar el test de PAIFAM. La familia refiere que Roberto, padre de familia de 48 años, está consumiendo alcohol algunos días a la semana, por no conseguir trabajo, por lo que, Ud. como médico aplica el cuestionario de:",
+      "options": {
+        "A": "Hamilton",
+        "B": "Zung",
+        "C": "AUDIT C",
+        "D": "SRQ"
+      },
+      "correct": "C",
+      "razonamiento": "AUDIT-C pregunta frecuencia de ingesta, cantidad habitual y episodios de consumo intenso; es instrumento de tamizaje, no diagnóstico definitivo de dependencia. Hamilton, Zung y SRQ exploran otros aspectos de salud mental."
+    },
+    {
+      "number": 70,
+      "question": "En la comunidad de un PS I-2 se identifica que existe un número elevado de adolescentes entre 13 y 15 años que se encuentran laborando pasteando ganado y pernoctando en el campo y que no han sido matriculados en la escuela. ¿A qué determinantes corresponde esta situación?",
+      "options": {
+        "A": "Estilo de vida",
+        "B": "Ambientales",
+        "C": "Intermedios",
+        "D": "Estructurales"
+      },
+      "correct": "D",
+      "razonamiento": "La exclusión escolar y la necesidad colectiva de trabajo adolescente reflejan desigualdad socioeconómica, acceso a educación y oportunidades: determinantes estructurales. El trabajo a la intemperie es exposición intermedia adicional."
+    }
+  ]
+}
