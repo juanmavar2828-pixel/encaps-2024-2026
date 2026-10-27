@@ -1,0 +1,882 @@
+{
+  "schemaVersion": 1,
+  "bankId": "ENCAPS_2026_II",
+  "source": "Cuadernillo ENCAPS Medicina SERUMS 2026-II del usuario, cotejo técnico y normativo MINSA/OMS/OPS/OECE/SIS",
+  "note": "Respuestas A–D del PDF resaltado, sin certificación mediante tabla oficial externa. Aclaraciones: P66 cuestionario no diagnostica anemia; P68 EIS orienta pero no garantiza por sí sola políticas; P69 comprar bienes se describe con EETT, no TDR.",
+  "questions": [
+    {
+      "number": 66,
+      "code": "ENCAPS26-II P066",
+      "options": {
+        "A": "Métodos de confiabilidad",
+        "B": "Prueba de normalidad",
+        "C": "Propiedades psicométricas",
+        "D": "Instrumento de recolección de datos"
+      },
+      "course": "Metodología de investigación · recolección de datos",
+      "topic": "Cuestionario estructurado: instrumento de recolección de datos",
+      "comment": "Clave del PDF proporcionado, aún pendiente de cotejo con tabla oficial MINSA: D. Instrumento de recolección de datos. Un cuestionario estructurado recoge respuestas mediante preguntas y opciones previamente definidas.\n\nRAZONAMIENTO\nEl término clave es «cuestionario estructurado», un conjunto organizado de preguntas, secuencia e instrucciones que se aplica de modo uniforme a participantes. Es un INSTRUMENTO para recoger datos; la técnica puede ser una encuesta o entrevista estructurada. Validez y confiabilidad son criterios de calidad que se examinan mediante revisión técnica, pilotaje y análisis, no sinónimos de cuestionario. La prueba de normalidad es un procedimiento estadístico para evaluar supuestos distribucionales. En el contexto de anemia, el cuestionario puede documentar antecedentes, dieta y síntomas, pero no determina por sí solo el número de casos diagnosticados ni los tipos de anemia; requiere hemoglobina, edad, parámetros hematológicos y estudios pertinentes según situación. La pregunta pide la categoría metodológica del cuestionario, no el diagnóstico.\n\nDESARROLLO DEL TEMA\nInstrumento: soporte operativo de recolección de información con instrucciones, preguntas, formatos de respuesta y reglas de registro; debe corresponder a objetivos y variables.\n\nTécnica versus instrumento: encuesta/entrevista es una técnica; cuestionario y ficha son instrumentos. Una misma técnica puede emplear instrumentos diferentes.\n\nCuestionario estructurado: mismas preguntas y secuencia, respuestas cerradas o categorías estandarizadas para todos; facilita comparación y tabulación.\n\nCuestionario semiestructurado: combina preguntas núcleo fijas con exploración flexible; útil para profundizar motivos y experiencias.\n\nValidez de contenido: expertos y evidencia revisan pertinencia y cobertura del constructo; validez de criterio/constructo aportan otras evidencias según uso.\n\nConfiabilidad: estabilidad, consistencia entre ítems u observadores cuando sea aplicable; alta consistencia no garantiza medir el constructo correcto.\n\nPrueba piloto: comprobar lenguaje comprensible, duración, saltos, sesgos de respuesta y funcionamiento; ajustar antes de campo.\n\nDefinición de variables: incluir unidades, periodos de recuerdo, categorías exhaustivas y mutuamente excluyentes cuando corresponda, protección de datos.\n\nAnemia: cuestionario recoge síntomas y factores, pero hemoglobina y parámetros clínico-laboratoriales definen anemia y orientan etiología; no diagnosticar por opinión del encuestado.\n\nANÁLISIS DE ALTERNATIVAS\nA. Métodos de confiabilidad son procedimientos para estudiar consistencia o estabilidad de un instrumento; no son el instrumento en sí.\nB. Una prueba de normalidad estudia distribución de datos numéricos y no define la naturaleza de un cuestionario.\nC. Propiedades psicométricas incluyen evidencia de validez y confiabilidad; se evalúan para ciertos instrumentos, pero no los sustituyen.\nD. Correcta. El cuestionario estructurado es un instrumento con preguntas y reglas de aplicación predefinidas.\n\nFUENTES Y NORMATIVA\nMINSA — Guía para el entrenamiento de encuestadores en investigación para la comunicación en salud | https://www.gob.pe/institucion/minsa/informes-publicaciones/322013-guia-para-el-entrenamiento-de-encuestadores-en-investigacion-para-la-comunicacion-en-salud | Diferencia técnica de encuesta e instrumento y describe pretest del cuestionario\nInstituto Nacional de Salud Mental — Confiabilidad y validez de los cuestionarios epidemiológicos | https://www.insm.gob.pe/investigacion/archivos/estudios/2009-ASM-CVCEESMLSP/files/res/downloads/book.pdf | Validez y confiabilidad se evalúan para instrumentos\nOMS — Guideline on haemoglobin cutoffs to define anaemia in individuals and populations | https://www.who.int/publications/i/item/9789240088542 | El diagnóstico de anemia depende de hemoglobina y contexto, no solo de un cuestionario\n\nMNEMOTECNIA\nTÉCNICA = CÓMO RECOJO (encuesta). INSTRUMENTO = CON QUÉ (cuestionario). CALIDAD = VALIDEZ + CONFIABILIDAD.\n\nTRAMPAS\nEncuesta es técnica; cuestionario es instrumento.\nNormalidad es propiedad de una distribución, no el nombre del cuestionario.\nConfiable no siempre significa válido.\nNo identificar tipo de anemia únicamente con preguntas de alimentación: se necesita valoración clínica y hematológica.\nNo inducir respuestas con preguntas tendenciosas; pilotear instrumentos.\n\nPERLA\nP66: cuestionario estructurado = INSTRUMENTO. «Encuesta» es técnica; confiabilidad y validez son propiedades que se evalúan.",
+      "pearl": "P66: cuestionario estructurado = INSTRUMENTO. «Encuesta» es técnica; confiabilidad y validez son propiedades que se evalúan.",
+      "keywords": [
+        "Metodología de investigación · recolección de datos",
+        "Cuestionario estructurado: instrumento de recolección de datos",
+        "ENCAPS 2026-II",
+        "MINSA régimen 276"
+      ],
+      "estadoDesarrollo": "completo",
+      "lesson": {
+        "respuesta_resumida": "D. Instrumento de recolección de datos. Un cuestionario estructurado recoge respuestas mediante preguntas y opciones previamente definidas.",
+        "razonamiento": "El término clave es «cuestionario estructurado», un conjunto organizado de preguntas, secuencia e instrucciones que se aplica de modo uniforme a participantes. Es un INSTRUMENTO para recoger datos; la técnica puede ser una encuesta o entrevista estructurada. Validez y confiabilidad son criterios de calidad que se examinan mediante revisión técnica, pilotaje y análisis, no sinónimos de cuestionario. La prueba de normalidad es un procedimiento estadístico para evaluar supuestos distribucionales. En el contexto de anemia, el cuestionario puede documentar antecedentes, dieta y síntomas, pero no determina por sí solo el número de casos diagnosticados ni los tipos de anemia; requiere hemoglobina, edad, parámetros hematológicos y estudios pertinentes según situación. La pregunta pide la categoría metodológica del cuestionario, no el diagnóstico.",
+        "temario": [
+          "Instrumento: soporte operativo de recolección de información con instrucciones, preguntas, formatos de respuesta y reglas de registro; debe corresponder a objetivos y variables.",
+          "Técnica versus instrumento: encuesta/entrevista es una técnica; cuestionario y ficha son instrumentos. Una misma técnica puede emplear instrumentos diferentes.",
+          "Cuestionario estructurado: mismas preguntas y secuencia, respuestas cerradas o categorías estandarizadas para todos; facilita comparación y tabulación.",
+          "Cuestionario semiestructurado: combina preguntas núcleo fijas con exploración flexible; útil para profundizar motivos y experiencias.",
+          "Validez de contenido: expertos y evidencia revisan pertinencia y cobertura del constructo; validez de criterio/constructo aportan otras evidencias según uso.",
+          "Confiabilidad: estabilidad, consistencia entre ítems u observadores cuando sea aplicable; alta consistencia no garantiza medir el constructo correcto.",
+          "Prueba piloto: comprobar lenguaje comprensible, duración, saltos, sesgos de respuesta y funcionamiento; ajustar antes de campo.",
+          "Definición de variables: incluir unidades, periodos de recuerdo, categorías exhaustivas y mutuamente excluyentes cuando corresponda, protección de datos.",
+          "Anemia: cuestionario recoge síntomas y factores, pero hemoglobina y parámetros clínico-laboratoriales definen anemia y orientan etiología; no diagnosticar por opinión del encuestado."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Métodos de confiabilidad son procedimientos para estudiar consistencia o estabilidad de un instrumento; no son el instrumento en sí.",
+          "B": "Una prueba de normalidad estudia distribución de datos numéricos y no define la naturaleza de un cuestionario.",
+          "C": "Propiedades psicométricas incluyen evidencia de validez y confiabilidad; se evalúan para ciertos instrumentos, pero no los sustituyen.",
+          "D": "Correcta. El cuestionario estructurado es un instrumento con preguntas y reglas de aplicación predefinidas."
+        },
+        "normativa": [
+          "MINSA — Guía para el entrenamiento de encuestadores en investigación para la comunicación en salud | https://www.gob.pe/institucion/minsa/informes-publicaciones/322013-guia-para-el-entrenamiento-de-encuestadores-en-investigacion-para-la-comunicacion-en-salud | Diferencia técnica de encuesta e instrumento y describe pretest del cuestionario",
+          "Instituto Nacional de Salud Mental — Confiabilidad y validez de los cuestionarios epidemiológicos | https://www.insm.gob.pe/investigacion/archivos/estudios/2009-ASM-CVCEESMLSP/files/res/downloads/book.pdf | Validez y confiabilidad se evalúan para instrumentos",
+          "OMS — Guideline on haemoglobin cutoffs to define anaemia in individuals and populations | https://www.who.int/publications/i/item/9789240088542 | El diagnóstico de anemia depende de hemoglobina y contexto, no solo de un cuestionario"
+        ],
+        "mnemotecnia": "TÉCNICA = CÓMO RECOJO (encuesta). INSTRUMENTO = CON QUÉ (cuestionario). CALIDAD = VALIDEZ + CONFIABILIDAD.",
+        "trampas": [
+          "Encuesta es técnica; cuestionario es instrumento.",
+          "Normalidad es propiedad de una distribución, no el nombre del cuestionario.",
+          "Confiable no siempre significa válido.",
+          "No identificar tipo de anemia únicamente con preguntas de alimentación: se necesita valoración clínica y hematológica.",
+          "No inducir respuestas con preguntas tendenciosas; pilotear instrumentos."
+        ],
+        "perla": "P66: cuestionario estructurado = INSTRUMENTO. «Encuesta» es técnica; confiabilidad y validez son propiedades que se evalúan.",
+        "repaso_activo": [
+          "¿Qué es un cuestionario estructurado? — Un instrumento de recolección con preguntas y opciones estandarizadas.",
+          "¿Qué diferencia encuesta de cuestionario? — Técnica frente a instrumento.",
+          "¿La validez equivale a confiabilidad? — No; medir lo deseado versus hacerlo de manera consistente.",
+          "¿Se diagnostica anemia mediante cuestionario únicamente? — No; requiere evaluación y pruebas pertinentes."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Un equipo investiga adherencia al tratamiento y aplica una encuesta domiciliaria con formulario de 25 preguntas cerradas. ¿Cuál es el instrumento?",
+            "alternativas": {
+              "A": "La técnica de encuesta domiciliaria",
+              "B": "El muestreo estratificado de viviendas",
+              "C": "La evaluación estadística de normalidad",
+              "D": "El cuestionario estructurado aplicado",
+              "E": "La hipótesis principal de la investigación"
+            },
+            "respuesta": "D",
+            "explicacion": "El cuestionario es el instrumento; la encuesta es la técnica."
+          },
+          {
+            "enunciado": "Un formulario arroja resultados similares en mediciones repetidas, pero sus ítems no evalúan realmente adherencia terapéutica. ¿Qué problema predomina?",
+            "alternativas": {
+              "A": "Deficiencia de validez pese a posible confiabilidad",
+              "B": "Ausencia de muestreo aleatorio simple únicamente",
+              "C": "Falta de normalidad como requisito del instrumento",
+              "D": "Exceso de prevalencia estadística del desenlace",
+              "E": "Validez demostrada porque repite los resultados"
+            },
+            "respuesta": "A",
+            "explicacion": "La repetibilidad no asegura que mida el constructo pretendido."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Cuestionario estructurado: instrumento de recolección de datos",
+          "eje": "Metodología de investigación · recolección de datos",
+          "confiabilidad": "clave_resaltada_fundamento_concordante_con_limite_diagnostico",
+          "respuesta_resumida": "D. Instrumento de recolección de datos. Un cuestionario estructurado recoge respuestas mediante preguntas y opciones previamente definidas.",
+          "razonamiento": [
+            "El término clave es «cuestionario estructurado», un conjunto organizado de preguntas, secuencia e instrucciones que se aplica de modo uniforme a participantes. Es un INSTRUMENTO para recoger datos; la técnica puede ser una encuesta o entrevista estructurada. Validez y confiabilidad son criterios de calidad que se examinan mediante revisión técnica, pilotaje y análisis, no sinónimos de cuestionario. La prueba de normalidad es un procedimiento estadístico para evaluar supuestos distribucionales. En el contexto de anemia, el cuestionario puede documentar antecedentes, dieta y síntomas, pero no determina por sí solo el número de casos diagnosticados ni los tipos de anemia; requiere hemoglobina, edad, parámetros hematológicos y estudios pertinentes según situación. La pregunta pide la categoría metodológica del cuestionario, no el diagnóstico."
+          ],
+          "temario": [
+            "Instrumento: soporte operativo de recolección de información con instrucciones, preguntas, formatos de respuesta y reglas de registro; debe corresponder a objetivos y variables.",
+            "Técnica versus instrumento: encuesta/entrevista es una técnica; cuestionario y ficha son instrumentos. Una misma técnica puede emplear instrumentos diferentes.",
+            "Cuestionario estructurado: mismas preguntas y secuencia, respuestas cerradas o categorías estandarizadas para todos; facilita comparación y tabulación.",
+            "Cuestionario semiestructurado: combina preguntas núcleo fijas con exploración flexible; útil para profundizar motivos y experiencias.",
+            "Validez de contenido: expertos y evidencia revisan pertinencia y cobertura del constructo; validez de criterio/constructo aportan otras evidencias según uso.",
+            "Confiabilidad: estabilidad, consistencia entre ítems u observadores cuando sea aplicable; alta consistencia no garantiza medir el constructo correcto.",
+            "Prueba piloto: comprobar lenguaje comprensible, duración, saltos, sesgos de respuesta y funcionamiento; ajustar antes de campo.",
+            "Definición de variables: incluir unidades, periodos de recuerdo, categorías exhaustivas y mutuamente excluyentes cuando corresponda, protección de datos.",
+            "Anemia: cuestionario recoge síntomas y factores, pero hemoglobina y parámetros clínico-laboratoriales definen anemia y orientan etiología; no diagnosticar por opinión del encuestado."
+          ],
+          "distractores": {
+            "A": "Métodos de confiabilidad son procedimientos para estudiar consistencia o estabilidad de un instrumento; no son el instrumento en sí.",
+            "B": "Una prueba de normalidad estudia distribución de datos numéricos y no define la naturaleza de un cuestionario.",
+            "C": "Propiedades psicométricas incluyen evidencia de validez y confiabilidad; se evalúan para ciertos instrumentos, pero no los sustituyen.",
+            "D": "Correcta. El cuestionario estructurado es un instrumento con preguntas y reglas de aplicación predefinidas."
+          },
+          "normativa": [
+            {
+              "nombre": "MINSA — Guía para el entrenamiento de encuestadores en investigación para la comunicación en salud",
+              "url": "https://www.gob.pe/institucion/minsa/informes-publicaciones/322013-guia-para-el-entrenamiento-de-encuestadores-en-investigacion-para-la-comunicacion-en-salud",
+              "aplicacion": "Diferencia técnica de encuesta e instrumento y describe pretest del cuestionario"
+            },
+            {
+              "nombre": "Instituto Nacional de Salud Mental — Confiabilidad y validez de los cuestionarios epidemiológicos",
+              "url": "https://www.insm.gob.pe/investigacion/archivos/estudios/2009-ASM-CVCEESMLSP/files/res/downloads/book.pdf",
+              "aplicacion": "Validez y confiabilidad se evalúan para instrumentos"
+            },
+            {
+              "nombre": "OMS — Guideline on haemoglobin cutoffs to define anaemia in individuals and populations",
+              "url": "https://www.who.int/publications/i/item/9789240088542",
+              "aplicacion": "El diagnóstico de anemia depende de hemoglobina y contexto, no solo de un cuestionario"
+            }
+          ],
+          "mnemotecnia": "TÉCNICA = CÓMO RECOJO (encuesta). INSTRUMENTO = CON QUÉ (cuestionario). CALIDAD = VALIDEZ + CONFIABILIDAD.",
+          "trampas": [
+            "Encuesta es técnica; cuestionario es instrumento.",
+            "Normalidad es propiedad de una distribución, no el nombre del cuestionario.",
+            "Confiable no siempre significa válido.",
+            "No identificar tipo de anemia únicamente con preguntas de alimentación: se necesita valoración clínica y hematológica.",
+            "No inducir respuestas con preguntas tendenciosas; pilotear instrumentos."
+          ],
+          "perla": "P66: cuestionario estructurado = INSTRUMENTO. «Encuesta» es técnica; confiabilidad y validez son propiedades que se evalúan.",
+          "repaso_activo": [
+            "¿Qué es un cuestionario estructurado? — Un instrumento de recolección con preguntas y opciones estandarizadas.",
+            "¿Qué diferencia encuesta de cuestionario? — Técnica frente a instrumento.",
+            "¿La validez equivale a confiabilidad? — No; medir lo deseado versus hacerlo de manera consistente.",
+            "¿Se diagnostica anemia mediante cuestionario únicamente? — No; requiere evaluación y pruebas pertinentes."
+          ],
+          "refuerzo": [
+            {
+              "enunciado": "Un equipo investiga adherencia al tratamiento y aplica una encuesta domiciliaria con formulario de 25 preguntas cerradas. ¿Cuál es el instrumento?",
+              "alternativas": {
+                "A": "La técnica de encuesta domiciliaria",
+                "B": "El muestreo estratificado de viviendas",
+                "C": "La evaluación estadística de normalidad",
+                "D": "El cuestionario estructurado aplicado",
+                "E": "La hipótesis principal de la investigación"
+              },
+              "respuesta": "D",
+              "explicacion": "El cuestionario es el instrumento; la encuesta es la técnica."
+            },
+            {
+              "enunciado": "Un formulario arroja resultados similares en mediciones repetidas, pero sus ítems no evalúan realmente adherencia terapéutica. ¿Qué problema predomina?",
+              "alternativas": {
+                "A": "Deficiencia de validez pese a posible confiabilidad",
+                "B": "Ausencia de muestreo aleatorio simple únicamente",
+                "C": "Falta de normalidad como requisito del instrumento",
+                "D": "Exceso de prevalencia estadística del desenlace",
+                "E": "Validez demostrada porque repite los resultados"
+              },
+              "respuesta": "A",
+              "explicacion": "La repetibilidad no asegura que mida el constructo pretendido."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "number": 67,
+      "code": "ENCAPS26-II P067",
+      "options": {
+        "A": "de TB pulmonar.",
+        "B": "probable de TB.",
+        "C": "índice.",
+        "D": "compatible de TB."
+      },
+      "course": "Tuberculosis · definiciones normativas",
+      "topic": "Caso de TB pulmonar según NTS 221-MINSA/DGIESP-2024",
+      "comment": "Clave del PDF proporcionado, aún pendiente de cotejo con tabla oficial MINSA: A. Caso de TB pulmonar. Se define por diagnóstico de tuberculosis con compromiso del parénquima pulmonar, exista o no confirmación bacteriológica.\n\nRAZONAMIENTO\nLa pregunta reproduce el numeral 5.2.9 de la NTS 221-MINSA/DGIESP-2024 aprobada por RM 894-2024-MINSA. El elemento definitorio es la LOCALIZACIÓN pulmonar, no la prueba microbiológica. Un caso puede ser bacteriológicamente confirmado o clínicamente diagnosticado con sustento suficiente conforme a norma. Si hay compromiso pulmonar y extrapulmonar simultáneos, se clasifica como pulmonar; la TB miliar también se define como TB pulmonar en esa NTS. «Índice» designa al caso a partir del cual se investiga a contactos, y no determina por sí mismo la localización. Caso probable o compatible son conceptos distintos y no sustituyen la definición formal empleada en el ítem. No convertir un síntoma respiratorio sin evaluación en diagnóstico confirmado.\n\nDESARROLLO DEL TEMA\nNTS N.° 221-MINSA/DGIESP-2024, RM N.° 894-2024-MINSA, numeral 5.2.9: caso TB pulmonar = persona diagnosticada con TB que compromete parénquima pulmonar con o sin confirmación bacteriológica.\n\nTB con confirmación bacteriológica: baciloscopía, cultivo o prueba de diagnóstico rápido válida positiva en muestra pertinente.\n\nTB sin confirmación bacteriológica: diagnóstico clínico apoyado en evaluación clínica y pruebas disponibles según norma, aun sin microbiología positiva; no significa diagnosticar sin sustento.\n\nTB extrapulmonar: localización principal distinta del parénquima pulmonar (ganglios, pleura, meninges, hueso u otros) si no hay compromiso pulmonar que reclasifique.\n\nCompromiso mixto pulmonar y extrapulmonar se registra como caso de TB pulmonar en la clasificación de localización de la NTS.\n\nTB miliar se clasifica como pulmonar en la NTS 221, incluso con afectación sistémica; verificar el criterio de notificación.\n\nCaso índice: persona con diagnóstico de TB en quien se centra investigación de contactos, independientemente de localización.\n\nDistinción clínica: infección tuberculosa latente o asintomática no es TB activa, y prueba inmunológica sola no prueba enfermedad activa.\n\nDiagnóstico inicial: identificar síntomas, antecedentes, contactos, historia de tratamiento y pruebas recomendadas; evaluar resistencia y derivación según capacidad resolutiva.\n\nRegistro y continuidad: codificación, seguimiento del esquema terapéutico, adherencia y estudio de contactos conforme al programa de TB.\n\nANÁLISIS DE ALTERNATIVAS\nA. Correcta: corresponde literalmente a caso de TB pulmonar por parénquima comprometido, confirmada o no bacteriológicamente.\nB. «Probable» no es la categoría específica de localización definida en la pregunta; la NTS clasifica el caso pulmonar por afectación del parénquima.\nC. Caso índice es el punto de partida para investigar contactos, no una definición anatómica.\nD. «Compatible» describe una impresión clínica inespecífica, sin equivaler a la definición NTS de TB pulmonar.\n\nFUENTES Y NORMATIVA\nMINSA — RM N.° 894-2024-MINSA, NTS N.° 221-MINSA/DGIESP-2024 | https://www.gob.pe/institucion/minsa/normas-legales/6313958-894-2024-minsa | Definición de caso TB pulmonar y clasificación de casos\nMINSA — Norma técnica de salud para la prevención y control de tuberculosis, numeral 5.2.9 | https://bvs.minsa.gob.pe/local/MINSA/7667.pdf | TB pulmonar = compromiso del parénquima pulmonar con o sin confirmación bacteriológica; afectación mixta se clasifica pulmonar\nOMS — Definiciones de tuberculosis pulmonar | https://tbksp.who.int/es/node/1740 | Clasificación de tuberculosis según localización y criterios diagnósticos\n\nMNEMOTECNIA\nTB PULMONAR = PARÉNQUIMA PULMONAR (± confirmación bacteriológica). MIXTA y MILIAR → PULMONAR.\n\nTRAMPAS\nLocalización y estado bacteriológico son ejes diferentes de clasificación.\nLa baciloscopía negativa no descarta TB si evaluación y pruebas diagnósticas adicionales sustentan enfermedad.\nNo confundir TB pulmonar con caso índice; el segundo es referente para investigar contactos.\nSi es pulmonar + extrapulmonar simultánea, registrar localización como pulmonar.\nTB latente no es igual a enfermedad tuberculosa activa.\n\nPERLA\nNTS 221 (5.2.9): TB con compromiso del parénquima pulmonar, ± bacteriología → CASO DE TB PULMONAR.",
+      "pearl": "NTS 221 (5.2.9): TB con compromiso del parénquima pulmonar, ± bacteriología → CASO DE TB PULMONAR.",
+      "keywords": [
+        "Tuberculosis · definiciones normativas",
+        "Caso de TB pulmonar según NTS 221-MINSA/DGIESP-2024",
+        "ENCAPS 2026-II",
+        "MINSA régimen 276"
+      ],
+      "estadoDesarrollo": "completo",
+      "lesson": {
+        "respuesta_resumida": "A. Caso de TB pulmonar. Se define por diagnóstico de tuberculosis con compromiso del parénquima pulmonar, exista o no confirmación bacteriológica.",
+        "razonamiento": "La pregunta reproduce el numeral 5.2.9 de la NTS 221-MINSA/DGIESP-2024 aprobada por RM 894-2024-MINSA. El elemento definitorio es la LOCALIZACIÓN pulmonar, no la prueba microbiológica. Un caso puede ser bacteriológicamente confirmado o clínicamente diagnosticado con sustento suficiente conforme a norma. Si hay compromiso pulmonar y extrapulmonar simultáneos, se clasifica como pulmonar; la TB miliar también se define como TB pulmonar en esa NTS. «Índice» designa al caso a partir del cual se investiga a contactos, y no determina por sí mismo la localización. Caso probable o compatible son conceptos distintos y no sustituyen la definición formal empleada en el ítem. No convertir un síntoma respiratorio sin evaluación en diagnóstico confirmado.",
+        "temario": [
+          "NTS N.° 221-MINSA/DGIESP-2024, RM N.° 894-2024-MINSA, numeral 5.2.9: caso TB pulmonar = persona diagnosticada con TB que compromete parénquima pulmonar con o sin confirmación bacteriológica.",
+          "TB con confirmación bacteriológica: baciloscopía, cultivo o prueba de diagnóstico rápido válida positiva en muestra pertinente.",
+          "TB sin confirmación bacteriológica: diagnóstico clínico apoyado en evaluación clínica y pruebas disponibles según norma, aun sin microbiología positiva; no significa diagnosticar sin sustento.",
+          "TB extrapulmonar: localización principal distinta del parénquima pulmonar (ganglios, pleura, meninges, hueso u otros) si no hay compromiso pulmonar que reclasifique.",
+          "Compromiso mixto pulmonar y extrapulmonar se registra como caso de TB pulmonar en la clasificación de localización de la NTS.",
+          "TB miliar se clasifica como pulmonar en la NTS 221, incluso con afectación sistémica; verificar el criterio de notificación.",
+          "Caso índice: persona con diagnóstico de TB en quien se centra investigación de contactos, independientemente de localización.",
+          "Distinción clínica: infección tuberculosa latente o asintomática no es TB activa, y prueba inmunológica sola no prueba enfermedad activa.",
+          "Diagnóstico inicial: identificar síntomas, antecedentes, contactos, historia de tratamiento y pruebas recomendadas; evaluar resistencia y derivación según capacidad resolutiva.",
+          "Registro y continuidad: codificación, seguimiento del esquema terapéutico, adherencia y estudio de contactos conforme al programa de TB."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Correcta: corresponde literalmente a caso de TB pulmonar por parénquima comprometido, confirmada o no bacteriológicamente.",
+          "B": "«Probable» no es la categoría específica de localización definida en la pregunta; la NTS clasifica el caso pulmonar por afectación del parénquima.",
+          "C": "Caso índice es el punto de partida para investigar contactos, no una definición anatómica.",
+          "D": "«Compatible» describe una impresión clínica inespecífica, sin equivaler a la definición NTS de TB pulmonar."
+        },
+        "normativa": [
+          "MINSA — RM N.° 894-2024-MINSA, NTS N.° 221-MINSA/DGIESP-2024 | https://www.gob.pe/institucion/minsa/normas-legales/6313958-894-2024-minsa | Definición de caso TB pulmonar y clasificación de casos",
+          "MINSA — Norma técnica de salud para la prevención y control de tuberculosis, numeral 5.2.9 | https://bvs.minsa.gob.pe/local/MINSA/7667.pdf | TB pulmonar = compromiso del parénquima pulmonar con o sin confirmación bacteriológica; afectación mixta se clasifica pulmonar",
+          "OMS — Definiciones de tuberculosis pulmonar | https://tbksp.who.int/es/node/1740 | Clasificación de tuberculosis según localización y criterios diagnósticos"
+        ],
+        "mnemotecnia": "TB PULMONAR = PARÉNQUIMA PULMONAR (± confirmación bacteriológica). MIXTA y MILIAR → PULMONAR.",
+        "trampas": [
+          "Localización y estado bacteriológico son ejes diferentes de clasificación.",
+          "La baciloscopía negativa no descarta TB si evaluación y pruebas diagnósticas adicionales sustentan enfermedad.",
+          "No confundir TB pulmonar con caso índice; el segundo es referente para investigar contactos.",
+          "Si es pulmonar + extrapulmonar simultánea, registrar localización como pulmonar.",
+          "TB latente no es igual a enfermedad tuberculosa activa."
+        ],
+        "perla": "NTS 221 (5.2.9): TB con compromiso del parénquima pulmonar, ± bacteriología → CASO DE TB PULMONAR.",
+        "repaso_activo": [
+          "¿Qué define la TB pulmonar? — Compromiso del parénquima pulmonar con diagnóstico de TB.",
+          "¿Exige confirmación bacteriológica positiva en todos los casos? — No.",
+          "¿Cómo se clasifica TB pulmonar y extrapulmonar concomitante? — Pulmonar según NTS 221.",
+          "¿Qué es caso índice? — Caso sobre el que se centra investigación de contactos."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Paciente tiene diagnóstico sustentado de TB que afecta pulmón y ganglios cervicales. ¿Cómo se clasifica la localización de la enfermedad según NTS 221?",
+            "alternativas": {
+              "A": "Caso exclusivamente extrapulmonar",
+              "B": "Caso índice sin clasificación anatómica",
+              "C": "Caso de TB pulmonar",
+              "D": "Infección tuberculosa latente",
+              "E": "Caso de contacto expuesto sin enfermedad"
+            },
+            "respuesta": "C",
+            "explicacion": "Si existen compromisos pulmonar y extrapulmonar, el caso se clasifica como TB pulmonar."
+          },
+          {
+            "enunciado": "Mujer con diagnóstico clínico sustentado de TB pulmonar presenta baciloscopía negativa y está pendiente de prueba molecular. ¿Qué afirmación es correcta?",
+            "alternativas": {
+              "A": "Toda TB pulmonar exige baciloscopía positiva",
+              "B": "Puede clasificarse TB pulmonar sin confirmación bacteriológica si cumple criterios diagnósticos",
+              "C": "Debe reclasificarse automáticamente como TB extrapulmonar",
+              "D": "La negatividad elimina la necesidad de investigar contactos",
+              "E": "La sospecha de TB se convierte en infección latente por defecto"
+            },
+            "respuesta": "B",
+            "explicacion": "La NTS distingue localización de la confirmación bacteriológica."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Caso de TB pulmonar según NTS 221-MINSA/DGIESP-2024",
+          "eje": "Tuberculosis · definiciones normativas",
+          "confiabilidad": "clave_resaltada_coincide_textualmente_norma",
+          "respuesta_resumida": "A. Caso de TB pulmonar. Se define por diagnóstico de tuberculosis con compromiso del parénquima pulmonar, exista o no confirmación bacteriológica.",
+          "razonamiento": [
+            "La pregunta reproduce el numeral 5.2.9 de la NTS 221-MINSA/DGIESP-2024 aprobada por RM 894-2024-MINSA. El elemento definitorio es la LOCALIZACIÓN pulmonar, no la prueba microbiológica. Un caso puede ser bacteriológicamente confirmado o clínicamente diagnosticado con sustento suficiente conforme a norma. Si hay compromiso pulmonar y extrapulmonar simultáneos, se clasifica como pulmonar; la TB miliar también se define como TB pulmonar en esa NTS. «Índice» designa al caso a partir del cual se investiga a contactos, y no determina por sí mismo la localización. Caso probable o compatible son conceptos distintos y no sustituyen la definición formal empleada en el ítem. No convertir un síntoma respiratorio sin evaluación en diagnóstico confirmado."
+          ],
+          "temario": [
+            "NTS N.° 221-MINSA/DGIESP-2024, RM N.° 894-2024-MINSA, numeral 5.2.9: caso TB pulmonar = persona diagnosticada con TB que compromete parénquima pulmonar con o sin confirmación bacteriológica.",
+            "TB con confirmación bacteriológica: baciloscopía, cultivo o prueba de diagnóstico rápido válida positiva en muestra pertinente.",
+            "TB sin confirmación bacteriológica: diagnóstico clínico apoyado en evaluación clínica y pruebas disponibles según norma, aun sin microbiología positiva; no significa diagnosticar sin sustento.",
+            "TB extrapulmonar: localización principal distinta del parénquima pulmonar (ganglios, pleura, meninges, hueso u otros) si no hay compromiso pulmonar que reclasifique.",
+            "Compromiso mixto pulmonar y extrapulmonar se registra como caso de TB pulmonar en la clasificación de localización de la NTS.",
+            "TB miliar se clasifica como pulmonar en la NTS 221, incluso con afectación sistémica; verificar el criterio de notificación.",
+            "Caso índice: persona con diagnóstico de TB en quien se centra investigación de contactos, independientemente de localización.",
+            "Distinción clínica: infección tuberculosa latente o asintomática no es TB activa, y prueba inmunológica sola no prueba enfermedad activa.",
+            "Diagnóstico inicial: identificar síntomas, antecedentes, contactos, historia de tratamiento y pruebas recomendadas; evaluar resistencia y derivación según capacidad resolutiva.",
+            "Registro y continuidad: codificación, seguimiento del esquema terapéutico, adherencia y estudio de contactos conforme al programa de TB."
+          ],
+          "distractores": {
+            "A": "Correcta: corresponde literalmente a caso de TB pulmonar por parénquima comprometido, confirmada o no bacteriológicamente.",
+            "B": "«Probable» no es la categoría específica de localización definida en la pregunta; la NTS clasifica el caso pulmonar por afectación del parénquima.",
+            "C": "Caso índice es el punto de partida para investigar contactos, no una definición anatómica.",
+            "D": "«Compatible» describe una impresión clínica inespecífica, sin equivaler a la definición NTS de TB pulmonar."
+          },
+          "normativa": [
+            {
+              "nombre": "MINSA — RM N.° 894-2024-MINSA, NTS N.° 221-MINSA/DGIESP-2024",
+              "url": "https://www.gob.pe/institucion/minsa/normas-legales/6313958-894-2024-minsa",
+              "aplicacion": "Definición de caso TB pulmonar y clasificación de casos"
+            },
+            {
+              "nombre": "MINSA — Norma técnica de salud para la prevención y control de tuberculosis, numeral 5.2.9",
+              "url": "https://bvs.minsa.gob.pe/local/MINSA/7667.pdf",
+              "aplicacion": "TB pulmonar = compromiso del parénquima pulmonar con o sin confirmación bacteriológica; afectación mixta se clasifica pulmonar"
+            },
+            {
+              "nombre": "OMS — Definiciones de tuberculosis pulmonar",
+              "url": "https://tbksp.who.int/es/node/1740",
+              "aplicacion": "Clasificación de tuberculosis según localización y criterios diagnósticos"
+            }
+          ],
+          "mnemotecnia": "TB PULMONAR = PARÉNQUIMA PULMONAR (± confirmación bacteriológica). MIXTA y MILIAR → PULMONAR.",
+          "trampas": [
+            "Localización y estado bacteriológico son ejes diferentes de clasificación.",
+            "La baciloscopía negativa no descarta TB si evaluación y pruebas diagnósticas adicionales sustentan enfermedad.",
+            "No confundir TB pulmonar con caso índice; el segundo es referente para investigar contactos.",
+            "Si es pulmonar + extrapulmonar simultánea, registrar localización como pulmonar.",
+            "TB latente no es igual a enfermedad tuberculosa activa."
+          ],
+          "perla": "NTS 221 (5.2.9): TB con compromiso del parénquima pulmonar, ± bacteriología → CASO DE TB PULMONAR.",
+          "repaso_activo": [
+            "¿Qué define la TB pulmonar? — Compromiso del parénquima pulmonar con diagnóstico de TB.",
+            "¿Exige confirmación bacteriológica positiva en todos los casos? — No.",
+            "¿Cómo se clasifica TB pulmonar y extrapulmonar concomitante? — Pulmonar según NTS 221.",
+            "¿Qué es caso índice? — Caso sobre el que se centra investigación de contactos."
+          ],
+          "refuerzo": [
+            {
+              "enunciado": "Paciente tiene diagnóstico sustentado de TB que afecta pulmón y ganglios cervicales. ¿Cómo se clasifica la localización de la enfermedad según NTS 221?",
+              "alternativas": {
+                "A": "Caso exclusivamente extrapulmonar",
+                "B": "Caso índice sin clasificación anatómica",
+                "C": "Caso de TB pulmonar",
+                "D": "Infección tuberculosa latente",
+                "E": "Caso de contacto expuesto sin enfermedad"
+              },
+              "respuesta": "C",
+              "explicacion": "Si existen compromisos pulmonar y extrapulmonar, el caso se clasifica como TB pulmonar."
+            },
+            {
+              "enunciado": "Mujer con diagnóstico clínico sustentado de TB pulmonar presenta baciloscopía negativa y está pendiente de prueba molecular. ¿Qué afirmación es correcta?",
+              "alternativas": {
+                "A": "Toda TB pulmonar exige baciloscopía positiva",
+                "B": "Puede clasificarse TB pulmonar sin confirmación bacteriológica si cumple criterios diagnósticos",
+                "C": "Debe reclasificarse automáticamente como TB extrapulmonar",
+                "D": "La negatividad elimina la necesidad de investigar contactos",
+                "E": "La sospecha de TB se convierte en infección latente por defecto"
+              },
+              "respuesta": "B",
+              "explicacion": "La NTS distingue localización de la confirmación bacteriológica."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "number": 68,
+      "code": "ENCAPS26-II P068",
+      "options": {
+        "A": "Sensibilizar y ejecutar propuestas políticas del MINSA",
+        "B": "Promover y garantizar políticas públicas saludables",
+        "C": "Decidir y aplicar las propuestas del personal de salud",
+        "D": "Planificar y ejecutar propuestas del personal de salud"
+      },
+      "course": "Promoción de salud · Evaluación de Impacto en Salud",
+      "topic": "EIS: evidencia para políticas públicas saludables",
+      "comment": "Clave del PDF proporcionado, aún pendiente de cotejo con tabla oficial MINSA: B. Promover y garantizar políticas públicas saludables (clave del PDF). La EIS aporta evidencia para incorporar efectos sanitarios y equidad en decisiones públicas intersectoriales.\n\nRAZONAMIENTO\nUna sala situacional resume incidencia, distribución, tendencia y factores de riesgo del dengue. Al presentarse a un comité multisectorial puede informar decisiones municipales sobre residuos, agua, infraestructura y entornos, apoyando políticas saludables. La Evaluación de Impacto en Salud (EIS o HIA) analiza prospectivamente o en el proceso de decisión posibles efectos de políticas, proyectos o programas y su distribución por grupos poblacionales. La opción B expresa el propósito amplio de orientar políticas públicas saludables, pero «garantizar» no equivale a asegurar por sí sola mejores resultados: la EIS informa y recomienda, mientras autoridades y actores implementan y evalúan. Una sala situacional sola no constituye automáticamente una EIS formal; requiere evaluar alternativas, impacto y equidad. Esta distinción mejora la respuesta técnica.\n\nDESARROLLO DEL TEMA\nEIS (Evaluación de Impacto en Salud): conjunto de métodos para estimar consecuencias potenciales de políticas, programas y proyectos en salud de la población y distribución de efectos.\n\nSalud en Todas las Políticas (OPS): evaluar sistemáticamente implicancias sanitarias de decisiones de transporte, vivienda, educación, agricultura y otros sectores.\n\nSala situacional de dengue: reúne datos epidemiológicos, entomológicos, servicios, determinantes y territorio para describir estado y tendencias y orientar decisiones.\n\nRelación entre EIS y sala: la sala ofrece insumos descriptivos; la EIS agrega análisis de impactos esperados, alternativas y recomendaciones de mitigación o mejora.\n\nParticipación intersectorial: municipalidad, agua/saneamiento, escuelas, residuos, equipos sanitarios y comunidad coordinan medidas fuera del consultorio.\n\nEtapas generales: cribado de necesidad de EIS, delimitación de alcance, evaluación, recomendaciones, comunicación, seguimiento y evaluación; adaptar según institución.\n\nEquidad: estudiar efectos diferenciados en población vulnerable, barrios sin agua segura, hogares con depósitos y personas con barreras de acceso.\n\nPolítica pública saludable: decisión y estrategia con consecuencias sanitarias positivas o reducción de daños, no solo campañas de educación individual.\n\nEjemplo: normas para almacenaje seguro de agua y manejo de residuos que disminuyan criaderos y se acompañen de control y seguimiento.\n\nPrecisión del examen: B frente a opciones centradas en orden aislada del personal; no atribuir facultad exclusiva de decisión al EESS.\n\nANÁLISIS DE ALTERNATIVAS\nA. Sensibilizar puede integrar difusión, pero «ejecutar propuestas políticas del MINSA» no resume la evaluación intersectorial orientada a políticas saludables.\nB. Correcta como finalidad de promoción: orientar políticas públicas saludables mediante evaluación y análisis multisectorial.\nC. La decisión pública no se limita a aplicar propuestas del personal sanitario; requiere actores y competencias multisectoriales.\nD. Planificar acciones del establecimiento puede ser importante, pero no aborda todo el enfoque EIS de impactos de decisiones públicas.\n\nFUENTES Y NORMATIVA\nOPS — Acción intersectorial y Salud en Todas las Políticas | https://www.paho.org/es/temas/accion-intersectorial-salud-todas-politicas | Evaluar implicancias en salud y equidad de decisiones de otros sectores\nOPS — Marco renovado de funciones esenciales de salud pública en las Américas | https://journal.paho.org/es/articulos/marco-renovado-para-funciones-esenciales-salud-publica-americas | Evaluación y elaboración de políticas intersectoriales como ciclo de salud pública\nOPS/OMS Perú — Promoción de salud y políticas públicas | https://www.paho.org/es/peru/promocion-salud-bienestar-peru/promocion-salud | Promoción mediante decisiones intersectoriales y entornos saludables\n\nMNEMOTECNIA\nEIS = EVALUAR IMPACTOS sobre SALUD → POLÍTICAS SALUDABLES + EQUIDAD.\n\nTRAMPAS\nSala situacional describe indicadores; una EIS formal agrega análisis de decisiones e impactos previstos.\nNo confundir EIS de salud pública con EIA ambiental, aunque puedan articularse.\n«Garantizar» es expresión de la alternativa del examen, no promesa de que el análisis por sí solo asegure resultados.\nLa política pública saludable es intersectorial y no depende exclusivamente del MINSA.\nUna buena decisión requiere evaluación posterior de implementación y efectos.\n\nPERLA\nP68: Sala situacional + comité multisectorial + EIS = POLÍTICAS PÚBLICAS SALUDABLES; analizar impactos y equidad.",
+      "pearl": "P68: Sala situacional + comité multisectorial + EIS = POLÍTICAS PÚBLICAS SALUDABLES; analizar impactos y equidad.",
+      "keywords": [
+        "Promoción de salud · Evaluación de Impacto en Salud",
+        "EIS: evidencia para políticas públicas saludables",
+        "ENCAPS 2026-II",
+        "MINSA régimen 276"
+      ],
+      "estadoDesarrollo": "completo",
+      "lesson": {
+        "respuesta_resumida": "B. Promover y garantizar políticas públicas saludables (clave del PDF). La EIS aporta evidencia para incorporar efectos sanitarios y equidad en decisiones públicas intersectoriales.",
+        "razonamiento": "Una sala situacional resume incidencia, distribución, tendencia y factores de riesgo del dengue. Al presentarse a un comité multisectorial puede informar decisiones municipales sobre residuos, agua, infraestructura y entornos, apoyando políticas saludables. La Evaluación de Impacto en Salud (EIS o HIA) analiza prospectivamente o en el proceso de decisión posibles efectos de políticas, proyectos o programas y su distribución por grupos poblacionales. La opción B expresa el propósito amplio de orientar políticas públicas saludables, pero «garantizar» no equivale a asegurar por sí sola mejores resultados: la EIS informa y recomienda, mientras autoridades y actores implementan y evalúan. Una sala situacional sola no constituye automáticamente una EIS formal; requiere evaluar alternativas, impacto y equidad. Esta distinción mejora la respuesta técnica.",
+        "temario": [
+          "EIS (Evaluación de Impacto en Salud): conjunto de métodos para estimar consecuencias potenciales de políticas, programas y proyectos en salud de la población y distribución de efectos.",
+          "Salud en Todas las Políticas (OPS): evaluar sistemáticamente implicancias sanitarias de decisiones de transporte, vivienda, educación, agricultura y otros sectores.",
+          "Sala situacional de dengue: reúne datos epidemiológicos, entomológicos, servicios, determinantes y territorio para describir estado y tendencias y orientar decisiones.",
+          "Relación entre EIS y sala: la sala ofrece insumos descriptivos; la EIS agrega análisis de impactos esperados, alternativas y recomendaciones de mitigación o mejora.",
+          "Participación intersectorial: municipalidad, agua/saneamiento, escuelas, residuos, equipos sanitarios y comunidad coordinan medidas fuera del consultorio.",
+          "Etapas generales: cribado de necesidad de EIS, delimitación de alcance, evaluación, recomendaciones, comunicación, seguimiento y evaluación; adaptar según institución.",
+          "Equidad: estudiar efectos diferenciados en población vulnerable, barrios sin agua segura, hogares con depósitos y personas con barreras de acceso.",
+          "Política pública saludable: decisión y estrategia con consecuencias sanitarias positivas o reducción de daños, no solo campañas de educación individual.",
+          "Ejemplo: normas para almacenaje seguro de agua y manejo de residuos que disminuyan criaderos y se acompañen de control y seguimiento.",
+          "Precisión del examen: B frente a opciones centradas en orden aislada del personal; no atribuir facultad exclusiva de decisión al EESS."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Sensibilizar puede integrar difusión, pero «ejecutar propuestas políticas del MINSA» no resume la evaluación intersectorial orientada a políticas saludables.",
+          "B": "Correcta como finalidad de promoción: orientar políticas públicas saludables mediante evaluación y análisis multisectorial.",
+          "C": "La decisión pública no se limita a aplicar propuestas del personal sanitario; requiere actores y competencias multisectoriales.",
+          "D": "Planificar acciones del establecimiento puede ser importante, pero no aborda todo el enfoque EIS de impactos de decisiones públicas."
+        },
+        "normativa": [
+          "OPS — Acción intersectorial y Salud en Todas las Políticas | https://www.paho.org/es/temas/accion-intersectorial-salud-todas-politicas | Evaluar implicancias en salud y equidad de decisiones de otros sectores",
+          "OPS — Marco renovado de funciones esenciales de salud pública en las Américas | https://journal.paho.org/es/articulos/marco-renovado-para-funciones-esenciales-salud-publica-americas | Evaluación y elaboración de políticas intersectoriales como ciclo de salud pública",
+          "OPS/OMS Perú — Promoción de salud y políticas públicas | https://www.paho.org/es/peru/promocion-salud-bienestar-peru/promocion-salud | Promoción mediante decisiones intersectoriales y entornos saludables"
+        ],
+        "mnemotecnia": "EIS = EVALUAR IMPACTOS sobre SALUD → POLÍTICAS SALUDABLES + EQUIDAD.",
+        "trampas": [
+          "Sala situacional describe indicadores; una EIS formal agrega análisis de decisiones e impactos previstos.",
+          "No confundir EIS de salud pública con EIA ambiental, aunque puedan articularse.",
+          "«Garantizar» es expresión de la alternativa del examen, no promesa de que el análisis por sí solo asegure resultados.",
+          "La política pública saludable es intersectorial y no depende exclusivamente del MINSA.",
+          "Una buena decisión requiere evaluación posterior de implementación y efectos."
+        ],
+        "perla": "P68: Sala situacional + comité multisectorial + EIS = POLÍTICAS PÚBLICAS SALUDABLES; analizar impactos y equidad.",
+        "repaso_activo": [
+          "¿Qué significa EIS? — Evaluación de Impacto en Salud.",
+          "¿Qué orienta principalmente? — Decisiones, programas y políticas saludables.",
+          "¿Qué aporta la sala situacional? — Información descriptiva de problema, tendencias y factores.",
+          "¿Qué añade EIS? — Análisis de impactos posibles y su distribución entre grupos."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Una municipalidad considera cambiar la distribución de depósitos de agua y solicita estimar el impacto sobre criaderos, dengue y hogares vulnerables antes de aprobar la medida. ¿Qué herramienta es pertinente?",
+            "alternativas": {
+              "A": "Evaluación de Impacto en Salud",
+              "B": "Únicamente una auditoría contable",
+              "C": "Prueba de normalidad de un cuestionario",
+              "D": "Registro de historias clínicas aisladas",
+              "E": "Comparación de temperaturas sin análisis de decisiones"
+            },
+            "respuesta": "A",
+            "explicacion": "La EIS examina consecuencias sanitarias y equidad de una medida antes de su aplicación."
+          },
+          {
+            "enunciado": "Una sala situacional muestra dengue en barrios con almacenamiento inseguro de agua. ¿Qué acción refleja mejor Salud en Todas las Políticas?",
+            "alternativas": {
+              "A": "Restringir decisiones únicamente al laboratorio",
+              "B": "Limitarse a contar casos sin acciones externas",
+              "C": "Transferir toda competencia a una sola empresa",
+              "D": "Coordinar salud, vivienda y municipio para mejorar agua y criaderos",
+              "E": "Esperar que la comunidad sustituya los servicios públicos"
+            },
+            "respuesta": "D",
+            "explicacion": "La coordinación entre sectores actúa sobre determinantes que condicionan riesgo sanitario."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "EIS: evidencia para políticas públicas saludables",
+          "eje": "Promoción de salud · Evaluación de Impacto en Salud",
+          "confiabilidad": "clave_resaltada_con_matiz_de_alcance",
+          "respuesta_resumida": "B. Promover y garantizar políticas públicas saludables (clave del PDF). La EIS aporta evidencia para incorporar efectos sanitarios y equidad en decisiones públicas intersectoriales.",
+          "razonamiento": [
+            "Una sala situacional resume incidencia, distribución, tendencia y factores de riesgo del dengue. Al presentarse a un comité multisectorial puede informar decisiones municipales sobre residuos, agua, infraestructura y entornos, apoyando políticas saludables. La Evaluación de Impacto en Salud (EIS o HIA) analiza prospectivamente o en el proceso de decisión posibles efectos de políticas, proyectos o programas y su distribución por grupos poblacionales. La opción B expresa el propósito amplio de orientar políticas públicas saludables, pero «garantizar» no equivale a asegurar por sí sola mejores resultados: la EIS informa y recomienda, mientras autoridades y actores implementan y evalúan. Una sala situacional sola no constituye automáticamente una EIS formal; requiere evaluar alternativas, impacto y equidad. Esta distinción mejora la respuesta técnica."
+          ],
+          "temario": [
+            "EIS (Evaluación de Impacto en Salud): conjunto de métodos para estimar consecuencias potenciales de políticas, programas y proyectos en salud de la población y distribución de efectos.",
+            "Salud en Todas las Políticas (OPS): evaluar sistemáticamente implicancias sanitarias de decisiones de transporte, vivienda, educación, agricultura y otros sectores.",
+            "Sala situacional de dengue: reúne datos epidemiológicos, entomológicos, servicios, determinantes y territorio para describir estado y tendencias y orientar decisiones.",
+            "Relación entre EIS y sala: la sala ofrece insumos descriptivos; la EIS agrega análisis de impactos esperados, alternativas y recomendaciones de mitigación o mejora.",
+            "Participación intersectorial: municipalidad, agua/saneamiento, escuelas, residuos, equipos sanitarios y comunidad coordinan medidas fuera del consultorio.",
+            "Etapas generales: cribado de necesidad de EIS, delimitación de alcance, evaluación, recomendaciones, comunicación, seguimiento y evaluación; adaptar según institución.",
+            "Equidad: estudiar efectos diferenciados en población vulnerable, barrios sin agua segura, hogares con depósitos y personas con barreras de acceso.",
+            "Política pública saludable: decisión y estrategia con consecuencias sanitarias positivas o reducción de daños, no solo campañas de educación individual.",
+            "Ejemplo: normas para almacenaje seguro de agua y manejo de residuos que disminuyan criaderos y se acompañen de control y seguimiento.",
+            "Precisión del examen: B frente a opciones centradas en orden aislada del personal; no atribuir facultad exclusiva de decisión al EESS."
+          ],
+          "distractores": {
+            "A": "Sensibilizar puede integrar difusión, pero «ejecutar propuestas políticas del MINSA» no resume la evaluación intersectorial orientada a políticas saludables.",
+            "B": "Correcta como finalidad de promoción: orientar políticas públicas saludables mediante evaluación y análisis multisectorial.",
+            "C": "La decisión pública no se limita a aplicar propuestas del personal sanitario; requiere actores y competencias multisectoriales.",
+            "D": "Planificar acciones del establecimiento puede ser importante, pero no aborda todo el enfoque EIS de impactos de decisiones públicas."
+          },
+          "normativa": [
+            {
+              "nombre": "OPS — Acción intersectorial y Salud en Todas las Políticas",
+              "url": "https://www.paho.org/es/temas/accion-intersectorial-salud-todas-politicas",
+              "aplicacion": "Evaluar implicancias en salud y equidad de decisiones de otros sectores"
+            },
+            {
+              "nombre": "OPS — Marco renovado de funciones esenciales de salud pública en las Américas",
+              "url": "https://journal.paho.org/es/articulos/marco-renovado-para-funciones-esenciales-salud-publica-americas",
+              "aplicacion": "Evaluación y elaboración de políticas intersectoriales como ciclo de salud pública"
+            },
+            {
+              "nombre": "OPS/OMS Perú — Promoción de salud y políticas públicas",
+              "url": "https://www.paho.org/es/peru/promocion-salud-bienestar-peru/promocion-salud",
+              "aplicacion": "Promoción mediante decisiones intersectoriales y entornos saludables"
+            }
+          ],
+          "mnemotecnia": "EIS = EVALUAR IMPACTOS sobre SALUD → POLÍTICAS SALUDABLES + EQUIDAD.",
+          "trampas": [
+            "Sala situacional describe indicadores; una EIS formal agrega análisis de decisiones e impactos previstos.",
+            "No confundir EIS de salud pública con EIA ambiental, aunque puedan articularse.",
+            "«Garantizar» es expresión de la alternativa del examen, no promesa de que el análisis por sí solo asegure resultados.",
+            "La política pública saludable es intersectorial y no depende exclusivamente del MINSA.",
+            "Una buena decisión requiere evaluación posterior de implementación y efectos."
+          ],
+          "perla": "P68: Sala situacional + comité multisectorial + EIS = POLÍTICAS PÚBLICAS SALUDABLES; analizar impactos y equidad.",
+          "repaso_activo": [
+            "¿Qué significa EIS? — Evaluación de Impacto en Salud.",
+            "¿Qué orienta principalmente? — Decisiones, programas y políticas saludables.",
+            "¿Qué aporta la sala situacional? — Información descriptiva de problema, tendencias y factores.",
+            "¿Qué añade EIS? — Análisis de impactos posibles y su distribución entre grupos."
+          ],
+          "refuerzo": [
+            {
+              "enunciado": "Una municipalidad considera cambiar la distribución de depósitos de agua y solicita estimar el impacto sobre criaderos, dengue y hogares vulnerables antes de aprobar la medida. ¿Qué herramienta es pertinente?",
+              "alternativas": {
+                "A": "Evaluación de Impacto en Salud",
+                "B": "Únicamente una auditoría contable",
+                "C": "Prueba de normalidad de un cuestionario",
+                "D": "Registro de historias clínicas aisladas",
+                "E": "Comparación de temperaturas sin análisis de decisiones"
+              },
+              "respuesta": "A",
+              "explicacion": "La EIS examina consecuencias sanitarias y equidad de una medida antes de su aplicación."
+            },
+            {
+              "enunciado": "Una sala situacional muestra dengue en barrios con almacenamiento inseguro de agua. ¿Qué acción refleja mejor Salud en Todas las Políticas?",
+              "alternativas": {
+                "A": "Restringir decisiones únicamente al laboratorio",
+                "B": "Limitarse a contar casos sin acciones externas",
+                "C": "Transferir toda competencia a una sola empresa",
+                "D": "Coordinar salud, vivienda y municipio para mejorar agua y criaderos",
+                "E": "Esperar que la comunidad sustituya los servicios públicos"
+              },
+              "respuesta": "D",
+              "explicacion": "La coordinación entre sectores actúa sobre determinantes que condicionan riesgo sanitario."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "number": 69,
+      "code": "ENCAPS26-II P069",
+      "options": {
+        "A": "Área técnica",
+        "B": "Órgano encargado de contrataciones",
+        "C": "Área usuaria",
+        "D": "Titular de la entidad"
+      },
+      "course": "Contrataciones públicas · Ley 32069",
+      "topic": "Área usuaria y requerimiento: bienes versus servicios",
+      "comment": "Clave del PDF proporcionado, aún pendiente de cotejo con tabla oficial MINSA: C. Área usuaria. Identifica la necesidad y formula el requerimiento para que la entidad contrate bienes o servicios necesarios a sus funciones.\n\nRAZONAMIENTO\nEl consultorio de psicología solicita pruebas psicológicas para mejorar sus prestaciones; quien identifica esa necesidad funcional actúa como área usuaria, aunque la persona que firma o remite el documento sea la jefatura del establecimiento. La Ley N.° 32069 y el Reglamento DS N.° 009-2025-EF (con modificaciones vigentes) establecen que el área usuaria formula requerimiento en coordinación con la dependencia encargada de contrataciones (DEC). La pregunta presenta un error técnico: si se compran pruebas psicológicas como productos o kits, deben precisarse mediante ESPECIFICACIONES TÉCNICAS; los TÉRMINOS DE REFERENCIA corresponden a servicios (por ejemplo, contratar servicio externo de evaluación psicológica). «Órgano encargado de contrataciones» gestiona procedimiento, pero no es titular de la necesidad. «Titular de la entidad» es autoridad máxima de la entidad contratante y no se identifica automáticamente con jefe del EESS.\n\nDESARROLLO DEL TEMA\nÁrea usuaria: unidad que identifica la necesidad y requiere bienes, servicios u obras para cumplir funciones y metas; responsable de formulación adecuada del requerimiento según normativa.\n\nLey N.° 32069: Ley General de Contrataciones Públicas, vigente para el marco de 2026 junto con reglamento DS 009-2025-EF y modificatorias.\n\nReglamento artículo 20: el área usuaria formula requerimiento con la DEC, participa en conformidad contractual y verifica obligaciones según sus competencias.\n\nReglamento artículo 126: BIENES → especificaciones técnicas; SERVICIOS → términos de referencia. Obra → expediente técnico o documentos según régimen.\n\nEjemplo del caso: comprar cuestionarios impresos, kits o materiales físicos = bienes. Encargar un servicio de evaluación por un profesional = servicios.\n\nDependencia Encargada de las Contrataciones (DEC): apoya y conduce actividades del proceso de contratación según organización, verifica planificación y actuaciones legales; no inventa necesidad del consultorio.\n\nÁrea técnica estratégica: bajo designación prevista en reglamento puede realizar funciones del área usuaria para necesidades que demandan especialidad técnica, sin que cualquier jefe sea automáticamente ATE.\n\nTitular de la entidad: máxima autoridad con competencias de gestión y aprobación según ley; no sinónimo de responsable de cada servicio.\n\nRequerimiento no debe direccionarse a marcas o proveedores sin sustento legal; especificar desempeño, calidad, cantidad, compatibilidad y justificación objetiva.\n\nPlanificación: necesidad debe articularse con cuadro multianual de necesidades, presupuesto y plan de contratación conforme al régimen aplicable.\n\nResponsabilidad de conformidad: el área usuaria verifica que bienes/servicios entregados satisfagan el objeto contratado, documentando evidencias.\n\nANÁLISIS DE ALTERNATIVAS\nA. «Área técnica» es ambiguo; existe figura de área técnica estratégica con designación formal, pero no es la categoría automática del consultorio que requiere el bien.\nB. El órgano o dependencia encargada de contrataciones tramita el procedimiento, pero no reemplaza a la unidad que necesita las pruebas.\nC. Correcta: área usuaria es quien identifica y formula la necesidad del consultorio.\nD. Titular de la entidad es máxima autoridad de la entidad contratante, no equivalente a la jefatura del EESS que formula requerimiento.\n\nFUENTES Y NORMATIVA\nOECE — Ley N.° 32069 y Reglamento actualizados al 09/01/2026 | https://www.gob.pe/institucion/oece/informes-publicaciones/6444155-ley-n-32069-ley-general-de-contrataciones-publicas-y-modificatorias | Responsabilidad del área usuaria en el requerimiento\nOECE — Tablero normativo de contrataciones públicas, julio 2026 | https://www.gob.pe/institucion/oece/informes-publicaciones/6782940-tablero-normativo-de-contrataciones-publicas | Ley 32069 y DS 009-2025-EF con modificaciones complementarias\nReglamento DS N.° 009-2025-EF, artículos 20 y 126 | https://lpderecho.pe/reglamento-de-la-ley-32069-ley-general-de-contrataciones-publicas/ | Área usuaria formula requerimiento; bienes usan especificaciones técnicas, servicios términos de referencia\nOECE — Anexos guía de requerimiento | https://www.gob.pe/institucion/oece/informes-publicaciones/5722404-anexos-de-la-guia-practica-como-se-formula-el-requerimiento-v-02 | Diferenciar especificaciones técnicas para bienes y términos de referencia para servicios\n\nMNEMOTECNIA\nNECESITO → ÁREA USUARIA. TRAMITO → DEC. BIEN → EETT. SERVICIO → TDR.\n\nTRAMPAS\nLa clave C es correcta, pero la frase «términos de referencia» para adquirir PRUEBAS como bienes está técnicamente mal empleada.\nJefe de establecimiento no equivale automáticamente a titular de entidad contratante.\nUn servicio de psicometría contratado a tercero sí requiere términos de referencia.\nÁrea técnica estratégica necesita designación; no asumirla sin dato.\nPara concurso 2026 estudiar Ley 32069 y DS 009-2025-EF con modificaciones, no solo antiguo régimen 30225.\n\nPERLA\nP69 C: ÁREA USUARIA formula requerimiento. BIEN = EETT; SERVICIO = TDR; contrataciones lo gestiona DEC.",
+      "pearl": "P69 C: ÁREA USUARIA formula requerimiento. BIEN = EETT; SERVICIO = TDR; contrataciones lo gestiona DEC.",
+      "keywords": [
+        "Contrataciones públicas · Ley 32069",
+        "Área usuaria y requerimiento: bienes versus servicios",
+        "ENCAPS 2026-II",
+        "MINSA régimen 276"
+      ],
+      "estadoDesarrollo": "completo",
+      "lesson": {
+        "respuesta_resumida": "C. Área usuaria. Identifica la necesidad y formula el requerimiento para que la entidad contrate bienes o servicios necesarios a sus funciones.",
+        "razonamiento": "El consultorio de psicología solicita pruebas psicológicas para mejorar sus prestaciones; quien identifica esa necesidad funcional actúa como área usuaria, aunque la persona que firma o remite el documento sea la jefatura del establecimiento. La Ley N.° 32069 y el Reglamento DS N.° 009-2025-EF (con modificaciones vigentes) establecen que el área usuaria formula requerimiento en coordinación con la dependencia encargada de contrataciones (DEC). La pregunta presenta un error técnico: si se compran pruebas psicológicas como productos o kits, deben precisarse mediante ESPECIFICACIONES TÉCNICAS; los TÉRMINOS DE REFERENCIA corresponden a servicios (por ejemplo, contratar servicio externo de evaluación psicológica). «Órgano encargado de contrataciones» gestiona procedimiento, pero no es titular de la necesidad. «Titular de la entidad» es autoridad máxima de la entidad contratante y no se identifica automáticamente con jefe del EESS.",
+        "temario": [
+          "Área usuaria: unidad que identifica la necesidad y requiere bienes, servicios u obras para cumplir funciones y metas; responsable de formulación adecuada del requerimiento según normativa.",
+          "Ley N.° 32069: Ley General de Contrataciones Públicas, vigente para el marco de 2026 junto con reglamento DS 009-2025-EF y modificatorias.",
+          "Reglamento artículo 20: el área usuaria formula requerimiento con la DEC, participa en conformidad contractual y verifica obligaciones según sus competencias.",
+          "Reglamento artículo 126: BIENES → especificaciones técnicas; SERVICIOS → términos de referencia. Obra → expediente técnico o documentos según régimen.",
+          "Ejemplo del caso: comprar cuestionarios impresos, kits o materiales físicos = bienes. Encargar un servicio de evaluación por un profesional = servicios.",
+          "Dependencia Encargada de las Contrataciones (DEC): apoya y conduce actividades del proceso de contratación según organización, verifica planificación y actuaciones legales; no inventa necesidad del consultorio.",
+          "Área técnica estratégica: bajo designación prevista en reglamento puede realizar funciones del área usuaria para necesidades que demandan especialidad técnica, sin que cualquier jefe sea automáticamente ATE.",
+          "Titular de la entidad: máxima autoridad con competencias de gestión y aprobación según ley; no sinónimo de responsable de cada servicio.",
+          "Requerimiento no debe direccionarse a marcas o proveedores sin sustento legal; especificar desempeño, calidad, cantidad, compatibilidad y justificación objetiva.",
+          "Planificación: necesidad debe articularse con cuadro multianual de necesidades, presupuesto y plan de contratación conforme al régimen aplicable.",
+          "Responsabilidad de conformidad: el área usuaria verifica que bienes/servicios entregados satisfagan el objeto contratado, documentando evidencias."
+        ],
+        "por_que_no_las_otras": {
+          "A": "«Área técnica» es ambiguo; existe figura de área técnica estratégica con designación formal, pero no es la categoría automática del consultorio que requiere el bien.",
+          "B": "El órgano o dependencia encargada de contrataciones tramita el procedimiento, pero no reemplaza a la unidad que necesita las pruebas.",
+          "C": "Correcta: área usuaria es quien identifica y formula la necesidad del consultorio.",
+          "D": "Titular de la entidad es máxima autoridad de la entidad contratante, no equivalente a la jefatura del EESS que formula requerimiento."
+        },
+        "normativa": [
+          "OECE — Ley N.° 32069 y Reglamento actualizados al 09/01/2026 | https://www.gob.pe/institucion/oece/informes-publicaciones/6444155-ley-n-32069-ley-general-de-contrataciones-publicas-y-modificatorias | Responsabilidad del área usuaria en el requerimiento",
+          "OECE — Tablero normativo de contrataciones públicas, julio 2026 | https://www.gob.pe/institucion/oece/informes-publicaciones/6782940-tablero-normativo-de-contrataciones-publicas | Ley 32069 y DS 009-2025-EF con modificaciones complementarias",
+          "Reglamento DS N.° 009-2025-EF, artículos 20 y 126 | https://lpderecho.pe/reglamento-de-la-ley-32069-ley-general-de-contrataciones-publicas/ | Área usuaria formula requerimiento; bienes usan especificaciones técnicas, servicios términos de referencia",
+          "OECE — Anexos guía de requerimiento | https://www.gob.pe/institucion/oece/informes-publicaciones/5722404-anexos-de-la-guia-practica-como-se-formula-el-requerimiento-v-02 | Diferenciar especificaciones técnicas para bienes y términos de referencia para servicios"
+        ],
+        "mnemotecnia": "NECESITO → ÁREA USUARIA. TRAMITO → DEC. BIEN → EETT. SERVICIO → TDR.",
+        "trampas": [
+          "La clave C es correcta, pero la frase «términos de referencia» para adquirir PRUEBAS como bienes está técnicamente mal empleada.",
+          "Jefe de establecimiento no equivale automáticamente a titular de entidad contratante.",
+          "Un servicio de psicometría contratado a tercero sí requiere términos de referencia.",
+          "Área técnica estratégica necesita designación; no asumirla sin dato.",
+          "Para concurso 2026 estudiar Ley 32069 y DS 009-2025-EF con modificaciones, no solo antiguo régimen 30225."
+        ],
+        "perla": "P69 C: ÁREA USUARIA formula requerimiento. BIEN = EETT; SERVICIO = TDR; contrataciones lo gestiona DEC.",
+        "repaso_activo": [
+          "¿Quién formula requerimiento por necesidad de consultorio? — Área usuaria.",
+          "¿Documento típico al adquirir bienes? — Especificaciones técnicas.",
+          "¿Documento al contratar servicios? — Términos de referencia.",
+          "¿Cuál es el marco base de contrataciones 2026? — Ley 32069, DS 009-2025-EF con modificatorias."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "El laboratorio del EESS solicita comprar 200 pruebas diagnósticas rápidas. ¿Qué documento describe las características del suministro?",
+            "alternativas": {
+              "A": "Términos de referencia para servicio de auditoría",
+              "B": "Especificaciones técnicas de bienes",
+              "C": "Informe de conformidad antes de recibir el bien",
+              "D": "Expediente técnico de una obra",
+              "E": "Declaración jurada de consentimiento del paciente"
+            },
+            "respuesta": "B",
+            "explicacion": "Los bienes se describen con especificaciones técnicas."
+          },
+          {
+            "enunciado": "Un establecimiento contrata a una empresa para brindar talleres especializados de salud mental durante tres meses. ¿Qué instrumento define el servicio requerido?",
+            "alternativas": {
+              "A": "Clasificación diagnóstica de los participantes",
+              "B": "Únicamente ficha de almacén patrimonial",
+              "C": "Especificaciones de una compra de medicamentos",
+              "D": "Planilla de trabajadores nombrados",
+              "E": "Términos de referencia del servicio"
+            },
+            "respuesta": "E",
+            "explicacion": "Los servicios se describen mediante términos de referencia."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Área usuaria y requerimiento: bienes versus servicios",
+          "eje": "Contrataciones públicas · Ley 32069",
+          "confiabilidad": "clave_resaltada_con_error_tecnico_en_documento",
+          "respuesta_resumida": "C. Área usuaria. Identifica la necesidad y formula el requerimiento para que la entidad contrate bienes o servicios necesarios a sus funciones.",
+          "razonamiento": [
+            "El consultorio de psicología solicita pruebas psicológicas para mejorar sus prestaciones; quien identifica esa necesidad funcional actúa como área usuaria, aunque la persona que firma o remite el documento sea la jefatura del establecimiento. La Ley N.° 32069 y el Reglamento DS N.° 009-2025-EF (con modificaciones vigentes) establecen que el área usuaria formula requerimiento en coordinación con la dependencia encargada de contrataciones (DEC). La pregunta presenta un error técnico: si se compran pruebas psicológicas como productos o kits, deben precisarse mediante ESPECIFICACIONES TÉCNICAS; los TÉRMINOS DE REFERENCIA corresponden a servicios (por ejemplo, contratar servicio externo de evaluación psicológica). «Órgano encargado de contrataciones» gestiona procedimiento, pero no es titular de la necesidad. «Titular de la entidad» es autoridad máxima de la entidad contratante y no se identifica automáticamente con jefe del EESS."
+          ],
+          "temario": [
+            "Área usuaria: unidad que identifica la necesidad y requiere bienes, servicios u obras para cumplir funciones y metas; responsable de formulación adecuada del requerimiento según normativa.",
+            "Ley N.° 32069: Ley General de Contrataciones Públicas, vigente para el marco de 2026 junto con reglamento DS 009-2025-EF y modificatorias.",
+            "Reglamento artículo 20: el área usuaria formula requerimiento con la DEC, participa en conformidad contractual y verifica obligaciones según sus competencias.",
+            "Reglamento artículo 126: BIENES → especificaciones técnicas; SERVICIOS → términos de referencia. Obra → expediente técnico o documentos según régimen.",
+            "Ejemplo del caso: comprar cuestionarios impresos, kits o materiales físicos = bienes. Encargar un servicio de evaluación por un profesional = servicios.",
+            "Dependencia Encargada de las Contrataciones (DEC): apoya y conduce actividades del proceso de contratación según organización, verifica planificación y actuaciones legales; no inventa necesidad del consultorio.",
+            "Área técnica estratégica: bajo designación prevista en reglamento puede realizar funciones del área usuaria para necesidades que demandan especialidad técnica, sin que cualquier jefe sea automáticamente ATE.",
+            "Titular de la entidad: máxima autoridad con competencias de gestión y aprobación según ley; no sinónimo de responsable de cada servicio.",
+            "Requerimiento no debe direccionarse a marcas o proveedores sin sustento legal; especificar desempeño, calidad, cantidad, compatibilidad y justificación objetiva.",
+            "Planificación: necesidad debe articularse con cuadro multianual de necesidades, presupuesto y plan de contratación conforme al régimen aplicable.",
+            "Responsabilidad de conformidad: el área usuaria verifica que bienes/servicios entregados satisfagan el objeto contratado, documentando evidencias."
+          ],
+          "distractores": {
+            "A": "«Área técnica» es ambiguo; existe figura de área técnica estratégica con designación formal, pero no es la categoría automática del consultorio que requiere el bien.",
+            "B": "El órgano o dependencia encargada de contrataciones tramita el procedimiento, pero no reemplaza a la unidad que necesita las pruebas.",
+            "C": "Correcta: área usuaria es quien identifica y formula la necesidad del consultorio.",
+            "D": "Titular de la entidad es máxima autoridad de la entidad contratante, no equivalente a la jefatura del EESS que formula requerimiento."
+          },
+          "normativa": [
+            {
+              "nombre": "OECE — Ley N.° 32069 y Reglamento actualizados al 09/01/2026",
+              "url": "https://www.gob.pe/institucion/oece/informes-publicaciones/6444155-ley-n-32069-ley-general-de-contrataciones-publicas-y-modificatorias",
+              "aplicacion": "Responsabilidad del área usuaria en el requerimiento"
+            },
+            {
+              "nombre": "OECE — Tablero normativo de contrataciones públicas, julio 2026",
+              "url": "https://www.gob.pe/institucion/oece/informes-publicaciones/6782940-tablero-normativo-de-contrataciones-publicas",
+              "aplicacion": "Ley 32069 y DS 009-2025-EF con modificaciones complementarias"
+            },
+            {
+              "nombre": "Reglamento DS N.° 009-2025-EF, artículos 20 y 126",
+              "url": "https://lpderecho.pe/reglamento-de-la-ley-32069-ley-general-de-contrataciones-publicas/",
+              "aplicacion": "Área usuaria formula requerimiento; bienes usan especificaciones técnicas, servicios términos de referencia"
+            },
+            {
+              "nombre": "OECE — Anexos guía de requerimiento",
+              "url": "https://www.gob.pe/institucion/oece/informes-publicaciones/5722404-anexos-de-la-guia-practica-como-se-formula-el-requerimiento-v-02",
+              "aplicacion": "Diferenciar especificaciones técnicas para bienes y términos de referencia para servicios"
+            }
+          ],
+          "mnemotecnia": "NECESITO → ÁREA USUARIA. TRAMITO → DEC. BIEN → EETT. SERVICIO → TDR.",
+          "trampas": [
+            "La clave C es correcta, pero la frase «términos de referencia» para adquirir PRUEBAS como bienes está técnicamente mal empleada.",
+            "Jefe de establecimiento no equivale automáticamente a titular de entidad contratante.",
+            "Un servicio de psicometría contratado a tercero sí requiere términos de referencia.",
+            "Área técnica estratégica necesita designación; no asumirla sin dato.",
+            "Para concurso 2026 estudiar Ley 32069 y DS 009-2025-EF con modificaciones, no solo antiguo régimen 30225."
+          ],
+          "perla": "P69 C: ÁREA USUARIA formula requerimiento. BIEN = EETT; SERVICIO = TDR; contrataciones lo gestiona DEC.",
+          "repaso_activo": [
+            "¿Quién formula requerimiento por necesidad de consultorio? — Área usuaria.",
+            "¿Documento típico al adquirir bienes? — Especificaciones técnicas.",
+            "¿Documento al contratar servicios? — Términos de referencia.",
+            "¿Cuál es el marco base de contrataciones 2026? — Ley 32069, DS 009-2025-EF con modificatorias."
+          ],
+          "refuerzo": [
+            {
+              "enunciado": "El laboratorio del EESS solicita comprar 200 pruebas diagnósticas rápidas. ¿Qué documento describe las características del suministro?",
+              "alternativas": {
+                "A": "Términos de referencia para servicio de auditoría",
+                "B": "Especificaciones técnicas de bienes",
+                "C": "Informe de conformidad antes de recibir el bien",
+                "D": "Expediente técnico de una obra",
+                "E": "Declaración jurada de consentimiento del paciente"
+              },
+              "respuesta": "B",
+              "explicacion": "Los bienes se describen con especificaciones técnicas."
+            },
+            {
+              "enunciado": "Un establecimiento contrata a una empresa para brindar talleres especializados de salud mental durante tres meses. ¿Qué instrumento define el servicio requerido?",
+              "alternativas": {
+                "A": "Clasificación diagnóstica de los participantes",
+                "B": "Únicamente ficha de almacén patrimonial",
+                "C": "Especificaciones de una compra de medicamentos",
+                "D": "Planilla de trabajadores nombrados",
+                "E": "Términos de referencia del servicio"
+              },
+              "respuesta": "E",
+              "explicacion": "Los servicios se describen mediante términos de referencia."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "number": 70,
+      "code": "ENCAPS26-II P070",
+      "options": {
+        "A": "Atención y recuperación en salud",
+        "B": "Acceso a servicios de salud",
+        "C": "Consentimiento informado",
+        "D": "Acceso de información"
+      },
+      "course": "Derechos de usuarios · Ley 29414",
+      "topic": "Segunda opinión médica: derecho de acceso a servicios de salud",
+      "comment": "Clave del PDF proporcionado, aún pendiente de cotejo con tabla oficial MINSA: B. Acceso a servicios de salud. El derecho a una segunda opinión médica se ubica en esta categoría del régimen de derechos de usuarios.\n\nRAZONAMIENTO\nLa Ley 29414 y el DS 027-2015-SA organizan los derechos de personas usuarias de servicios de salud en grupos. Dentro del derecho de acceso a servicios de salud se incluye expresamente obtener una segunda opinión médica, junto con atención de emergencia, libre elección de profesional o establecimiento y acceso a prestaciones apropiadas. La segunda opinión ayuda a revisar una interpretación diagnóstica o propuesta de tratamiento y favorece decisiones informadas, pero su clasificación legal es ACCESO, no «acceso a información» ni «consentimiento informado». El derecho a información se refiere a recibir información comprensible y pertinente; el consentimiento informado es decisión libre sobre intervenciones con requisitos específicos. La segunda opinión no equivale a exigir cualquier intervención por preferencia y se organiza dentro de condiciones técnicas y de acceso aplicables.\n\nDESARROLLO DEL TEMA\nLey N.° 29414 y DS N.° 027-2015-SA: marco de derechos de personas usuarias de servicios de salud en Perú.\n\nCinco ámbitos: acceso a servicios; información; atención y recuperación; consentimiento informado; protección de derechos.\n\nAcceso a servicios: atención de emergencia, libre elección de profesional o IPRESS, libertad de juicio clínico, segunda opinión y acceso a prestaciones adecuadas.\n\nSegunda opinión: evaluación independiente por otro profesional de salud para revisar diagnóstico, opciones terapéuticas, pronóstico o riesgos; no necesariamente descarta la primera.\n\nInformación: derecho a diagnóstico explicado, alternativas y riesgos, identidad de quienes atienden, condiciones de servicio y datos clínicos, según regulación.\n\nConsentimiento informado: autorización voluntaria para intervención en supuestos exigidos, luego de recibir información suficiente; excepcionalidades en emergencias.\n\nAtención y recuperación: trato digno, personal autorizado, seguridad, intervenciones respaldadas y respeto a intimidad y condiciones clínicas.\n\nProtección de derechos: canales de quejas, reclamos, mecanismos de garantía de confidencialidad, acceso a historia clínica y respuesta institucional.\n\nEn clínica: facilitar información necesaria para segunda opinión y orientar procedimiento, evitando hostilidad o represalias por ejercer derecho.\n\nEn examen: «segunda opinión» es componente textual de acceso a servicios, aunque también contribuya al ejercicio informado de derechos.\n\nANÁLISIS DE ALTERNATIVAS\nA. Atención y recuperación protege calidad asistencial, dignidad y tratamiento; la segunda opinión aparece legalmente en el grupo de acceso.\nB. Correcta: la segunda opinión está enumerada como derecho al acceso a servicios de salud.\nC. Consentimiento informado corresponde a decidir intervenciones con información adecuada, no a la clasificación de segunda opinión.\nD. Acceso a información abarca información clínica y administrativa, pero una segunda valoración médica está clasificada en acceso a servicios.\n\nFUENTES Y NORMATIVA\nDS N.° 027-2015-SA — Reglamento de la Ley N.° 29414 | https://www.gob.pe/institucion/minsa/normas-legales/997327 | Derechos de usuarios de servicios de salud\nSIS — Conoce tus derechos en salud | https://www.gob.pe/institucion/sis/campa%C3%B1as/4114-conoce-tus-derechos-en-salud | La segunda opinión médica pertenece al derecho de acceso a servicios de salud\nHospital Santa Rosa — Derechos de las personas usuarias (2026) | https://www.gob.pe/institucion/hsantarosa/noticias/1338487-derechos-de-las-personas-usuarias-de-los-servicios-de-salud | Clasificación oficial por cinco grupos de derechos\n\nMNEMOTECNIA\nACCESO = EMERGENCIA + ELEGIR + JUICIO CLÍNICO + SEGUNDA OPINIÓN + SERVICIOS.\n\nTRAMPAS\nNo dejarse engañar porque una segunda opinión entregue información: el grupo jurídico es ACCESO.\nNo confundir segunda opinión con consentimiento para cirugía u otra intervención.\nLa libre elección y segunda opinión son derechos vinculados, pero categorías legales independientes dentro del grupo acceso.\nEl médico tratante no debe castigar ni descalificar al paciente por solicitar nueva valoración.\n\nPERLA\nLey 29414: SEGUNDA OPINIÓN MÉDICA → DERECHO DE ACCESO A SERVICIOS DE SALUD (B).",
+      "pearl": "Ley 29414: SEGUNDA OPINIÓN MÉDICA → DERECHO DE ACCESO A SERVICIOS DE SALUD (B).",
+      "keywords": [
+        "Derechos de usuarios · Ley 29414",
+        "Segunda opinión médica: derecho de acceso a servicios de salud",
+        "ENCAPS 2026-II",
+        "MINSA régimen 276"
+      ],
+      "estadoDesarrollo": "completo",
+      "lesson": {
+        "respuesta_resumida": "B. Acceso a servicios de salud. El derecho a una segunda opinión médica se ubica en esta categoría del régimen de derechos de usuarios.",
+        "razonamiento": "La Ley 29414 y el DS 027-2015-SA organizan los derechos de personas usuarias de servicios de salud en grupos. Dentro del derecho de acceso a servicios de salud se incluye expresamente obtener una segunda opinión médica, junto con atención de emergencia, libre elección de profesional o establecimiento y acceso a prestaciones apropiadas. La segunda opinión ayuda a revisar una interpretación diagnóstica o propuesta de tratamiento y favorece decisiones informadas, pero su clasificación legal es ACCESO, no «acceso a información» ni «consentimiento informado». El derecho a información se refiere a recibir información comprensible y pertinente; el consentimiento informado es decisión libre sobre intervenciones con requisitos específicos. La segunda opinión no equivale a exigir cualquier intervención por preferencia y se organiza dentro de condiciones técnicas y de acceso aplicables.",
+        "temario": [
+          "Ley N.° 29414 y DS N.° 027-2015-SA: marco de derechos de personas usuarias de servicios de salud en Perú.",
+          "Cinco ámbitos: acceso a servicios; información; atención y recuperación; consentimiento informado; protección de derechos.",
+          "Acceso a servicios: atención de emergencia, libre elección de profesional o IPRESS, libertad de juicio clínico, segunda opinión y acceso a prestaciones adecuadas.",
+          "Segunda opinión: evaluación independiente por otro profesional de salud para revisar diagnóstico, opciones terapéuticas, pronóstico o riesgos; no necesariamente descarta la primera.",
+          "Información: derecho a diagnóstico explicado, alternativas y riesgos, identidad de quienes atienden, condiciones de servicio y datos clínicos, según regulación.",
+          "Consentimiento informado: autorización voluntaria para intervención en supuestos exigidos, luego de recibir información suficiente; excepcionalidades en emergencias.",
+          "Atención y recuperación: trato digno, personal autorizado, seguridad, intervenciones respaldadas y respeto a intimidad y condiciones clínicas.",
+          "Protección de derechos: canales de quejas, reclamos, mecanismos de garantía de confidencialidad, acceso a historia clínica y respuesta institucional.",
+          "En clínica: facilitar información necesaria para segunda opinión y orientar procedimiento, evitando hostilidad o represalias por ejercer derecho.",
+          "En examen: «segunda opinión» es componente textual de acceso a servicios, aunque también contribuya al ejercicio informado de derechos."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Atención y recuperación protege calidad asistencial, dignidad y tratamiento; la segunda opinión aparece legalmente en el grupo de acceso.",
+          "B": "Correcta: la segunda opinión está enumerada como derecho al acceso a servicios de salud.",
+          "C": "Consentimiento informado corresponde a decidir intervenciones con información adecuada, no a la clasificación de segunda opinión.",
+          "D": "Acceso a información abarca información clínica y administrativa, pero una segunda valoración médica está clasificada en acceso a servicios."
+        },
+        "normativa": [
+          "DS N.° 027-2015-SA — Reglamento de la Ley N.° 29414 | https://www.gob.pe/institucion/minsa/normas-legales/997327 | Derechos de usuarios de servicios de salud",
+          "SIS — Conoce tus derechos en salud | https://www.gob.pe/institucion/sis/campa%C3%B1as/4114-conoce-tus-derechos-en-salud | La segunda opinión médica pertenece al derecho de acceso a servicios de salud",
+          "Hospital Santa Rosa — Derechos de las personas usuarias (2026) | https://www.gob.pe/institucion/hsantarosa/noticias/1338487-derechos-de-las-personas-usuarias-de-los-servicios-de-salud | Clasificación oficial por cinco grupos de derechos"
+        ],
+        "mnemotecnia": "ACCESO = EMERGENCIA + ELEGIR + JUICIO CLÍNICO + SEGUNDA OPINIÓN + SERVICIOS.",
+        "trampas": [
+          "No dejarse engañar porque una segunda opinión entregue información: el grupo jurídico es ACCESO.",
+          "No confundir segunda opinión con consentimiento para cirugía u otra intervención.",
+          "La libre elección y segunda opinión son derechos vinculados, pero categorías legales independientes dentro del grupo acceso.",
+          "El médico tratante no debe castigar ni descalificar al paciente por solicitar nueva valoración."
+        ],
+        "perla": "Ley 29414: SEGUNDA OPINIÓN MÉDICA → DERECHO DE ACCESO A SERVICIOS DE SALUD (B).",
+        "repaso_activo": [
+          "¿A qué grupo pertenece segunda opinión médica? — Acceso a servicios de salud.",
+          "¿Qué norma reglamenta Ley 29414? — DS 027-2015-SA.",
+          "¿Cuáles son los cinco grupos de derechos? — Acceso, información, atención y recuperación, consentimiento, protección.",
+          "¿La segunda opinión es igual al consentimiento informado? — No."
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Un paciente solicita valoración de otro especialista antes de decidir sobre un tratamiento. ¿Qué derecho ejerce específicamente según Ley 29414?",
+            "alternativas": {
+              "A": "Únicamente confidencialidad de la historia clínica",
+              "B": "Consentimiento escrito ya otorgado",
+              "C": "Acceso a servicios de salud mediante segunda opinión",
+              "D": "Reclamación por daño causado en IPRESS",
+              "E": "Atención del proceso natural de muerte"
+            },
+            "respuesta": "C",
+            "explicacion": "La ley clasifica segunda opinión médica dentro del grupo acceso a servicios."
+          },
+          {
+            "enunciado": "Una usuaria solicita explicación de riesgos, beneficios y alternativas de una cirugía antes de autorizarla. ¿Qué derecho distinto de la segunda opinión está implicado principalmente?",
+            "alternativas": {
+              "A": "Consentimiento informado",
+              "B": "Protección de datos estadísticos del distrito",
+              "C": "Contrataciones administrativas del establecimiento",
+              "D": "Investigación de contactos de tuberculosis",
+              "E": "Notificación epidemiológica obligatoria"
+            },
+            "respuesta": "A",
+            "explicacion": "Aquí se requiere información para autorizar o rechazar la intervención: consentimiento informado."
+          }
+        ],
+        "leccion_extendida": {
+          "titulo": "Segunda opinión médica: derecho de acceso a servicios de salud",
+          "eje": "Derechos de usuarios · Ley 29414",
+          "confiabilidad": "clave_resaltada_fundamento_concordante",
+          "respuesta_resumida": "B. Acceso a servicios de salud. El derecho a una segunda opinión médica se ubica en esta categoría del régimen de derechos de usuarios.",
+          "razonamiento": [
+            "La Ley 29414 y el DS 027-2015-SA organizan los derechos de personas usuarias de servicios de salud en grupos. Dentro del derecho de acceso a servicios de salud se incluye expresamente obtener una segunda opinión médica, junto con atención de emergencia, libre elección de profesional o establecimiento y acceso a prestaciones apropiadas. La segunda opinión ayuda a revisar una interpretación diagnóstica o propuesta de tratamiento y favorece decisiones informadas, pero su clasificación legal es ACCESO, no «acceso a información» ni «consentimiento informado». El derecho a información se refiere a recibir información comprensible y pertinente; el consentimiento informado es decisión libre sobre intervenciones con requisitos específicos. La segunda opinión no equivale a exigir cualquier intervención por preferencia y se organiza dentro de condiciones técnicas y de acceso aplicables."
+          ],
+          "temario": [
+            "Ley N.° 29414 y DS N.° 027-2015-SA: marco de derechos de personas usuarias de servicios de salud en Perú.",
+            "Cinco ámbitos: acceso a servicios; información; atención y recuperación; consentimiento informado; protección de derechos.",
+            "Acceso a servicios: atención de emergencia, libre elección de profesional o IPRESS, libertad de juicio clínico, segunda opinión y acceso a prestaciones adecuadas.",
+            "Segunda opinión: evaluación independiente por otro profesional de salud para revisar diagnóstico, opciones terapéuticas, pronóstico o riesgos; no necesariamente descarta la primera.",
+            "Información: derecho a diagnóstico explicado, alternativas y riesgos, identidad de quienes atienden, condiciones de servicio y datos clínicos, según regulación.",
+            "Consentimiento informado: autorización voluntaria para intervención en supuestos exigidos, luego de recibir información suficiente; excepcionalidades en emergencias.",
+            "Atención y recuperación: trato digno, personal autorizado, seguridad, intervenciones respaldadas y respeto a intimidad y condiciones clínicas.",
+            "Protección de derechos: canales de quejas, reclamos, mecanismos de garantía de confidencialidad, acceso a historia clínica y respuesta institucional.",
+            "En clínica: facilitar información necesaria para segunda opinión y orientar procedimiento, evitando hostilidad o represalias por ejercer derecho.",
+            "En examen: «segunda opinión» es componente textual de acceso a servicios, aunque también contribuya al ejercicio informado de derechos."
+          ],
+          "distractores": {
+            "A": "Atención y recuperación protege calidad asistencial, dignidad y tratamiento; la segunda opinión aparece legalmente en el grupo de acceso.",
+            "B": "Correcta: la segunda opinión está enumerada como derecho al acceso a servicios de salud.",
+            "C": "Consentimiento informado corresponde a decidir intervenciones con información adecuada, no a la clasificación de segunda opinión.",
+            "D": "Acceso a información abarca información clínica y administrativa, pero una segunda valoración médica está clasificada en acceso a servicios."
+          },
+          "normativa": [
+            {
+              "nombre": "DS N.° 027-2015-SA — Reglamento de la Ley N.° 29414",
+              "url": "https://www.gob.pe/institucion/minsa/normas-legales/997327",
+              "aplicacion": "Derechos de usuarios de servicios de salud"
+            },
+            {
+              "nombre": "SIS — Conoce tus derechos en salud",
+              "url": "https://www.gob.pe/institucion/sis/campa%C3%B1as/4114-conoce-tus-derechos-en-salud",
+              "aplicacion": "La segunda opinión médica pertenece al derecho de acceso a servicios de salud"
+            },
+            {
+              "nombre": "Hospital Santa Rosa — Derechos de las personas usuarias (2026)",
+              "url": "https://www.gob.pe/institucion/hsantarosa/noticias/1338487-derechos-de-las-personas-usuarias-de-los-servicios-de-salud",
+              "aplicacion": "Clasificación oficial por cinco grupos de derechos"
+            }
+          ],
+          "mnemotecnia": "ACCESO = EMERGENCIA + ELEGIR + JUICIO CLÍNICO + SEGUNDA OPINIÓN + SERVICIOS.",
+          "trampas": [
+            "No dejarse engañar porque una segunda opinión entregue información: el grupo jurídico es ACCESO.",
+            "No confundir segunda opinión con consentimiento para cirugía u otra intervención.",
+            "La libre elección y segunda opinión son derechos vinculados, pero categorías legales independientes dentro del grupo acceso.",
+            "El médico tratante no debe castigar ni descalificar al paciente por solicitar nueva valoración."
+          ],
+          "perla": "Ley 29414: SEGUNDA OPINIÓN MÉDICA → DERECHO DE ACCESO A SERVICIOS DE SALUD (B).",
+          "repaso_activo": [
+            "¿A qué grupo pertenece segunda opinión médica? — Acceso a servicios de salud.",
+            "¿Qué norma reglamenta Ley 29414? — DS 027-2015-SA.",
+            "¿Cuáles son los cinco grupos de derechos? — Acceso, información, atención y recuperación, consentimiento, protección.",
+            "¿La segunda opinión es igual al consentimiento informado? — No."
+          ],
+          "refuerzo": [
+            {
+              "enunciado": "Un paciente solicita valoración de otro especialista antes de decidir sobre un tratamiento. ¿Qué derecho ejerce específicamente según Ley 29414?",
+              "alternativas": {
+                "A": "Únicamente confidencialidad de la historia clínica",
+                "B": "Consentimiento escrito ya otorgado",
+                "C": "Acceso a servicios de salud mediante segunda opinión",
+                "D": "Reclamación por daño causado en IPRESS",
+                "E": "Atención del proceso natural de muerte"
+              },
+              "respuesta": "C",
+              "explicacion": "La ley clasifica segunda opinión médica dentro del grupo acceso a servicios."
+            },
+            {
+              "enunciado": "Una usuaria solicita explicación de riesgos, beneficios y alternativas de una cirugía antes de autorizarla. ¿Qué derecho distinto de la segunda opinión está implicado principalmente?",
+              "alternativas": {
+                "A": "Consentimiento informado",
+                "B": "Protección de datos estadísticos del distrito",
+                "C": "Contrataciones administrativas del establecimiento",
+                "D": "Investigación de contactos de tuberculosis",
+                "E": "Notificación epidemiológica obligatoria"
+              },
+              "respuesta": "A",
+              "explicacion": "Aquí se requiere información para autorizar o rechazar la intervención: consentimiento informado."
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
