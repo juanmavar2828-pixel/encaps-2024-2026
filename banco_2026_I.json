@@ -3,7 +3,7 @@
   "bankId": "ENCAPS_2026_I",
   "title": "ENCAPS 2026-I · Medicina Humana",
   "source": "Examen SERUMS Medicina 19 abril 2026 · claves resaltadas en PDF del usuario",
-  "questionCount": 65,
+  "questionCount": 70,
   "questions": [
     {
       "number": 1,
@@ -6584,6 +6584,159 @@
           }
         ]
       }
+    },
+    {
+      "number": 66,
+      "question": "Una persona después de haberse vacunado contra el dengue. ¿Cuánto tiempo debe permanecer en el área de reposo?",
+      "options": {
+        "A": "Una hora",
+        "B": "45 minutos",
+        "C": "30 minutos",
+        "D": "2 horas"
+      },
+      "correct": "C",
+      "status": "temario_desarrollado_requiere_integracion",
+      "topic": "Vacunación contra dengue y vigilancia inmediata de eventos adversos",
+      "lesson": {
+        "respuesta_resumida": "C. 30 minutos",
+        "razonamiento": "Tras la vacunación contra dengue corresponde observación inmediata durante 30 minutos para identificar reacciones alérgicas y anafilaxia temprana. El tiempo se refiere a la permanencia en área de reposo, no al seguimiento posterior de efectos secundarios.",
+        "temario": [
+          "TAK-003 (Qdenga) es una vacuna tetravalente viva atenuada y su administración debe sujetarse al programa peruano vigente y criterios de elegibilidad.",
+          "Antes de vacunar: verificar edad, antecedentes, embarazo, situación inmunológica, consentimiento y posibles contraindicaciones.",
+          "Documentar lote, dosis, fecha, sitio de administración y profesional responsable; dar información clara.",
+          "Se indica permanecer bajo observación 30 minutos para identificar y tratar reacciones de hipersensibilidad inmediatas.",
+          "La anafilaxia se reconoce por posible compromiso cutáneo, respiratorio, cardiovascular o gastrointestinal tras la exposición.",
+          "Si hay anafilaxia, administrar adrenalina intramuscular de inmediato y activar protocolos de emergencia; no esperar a completar observación.",
+          "Preparación: contar con adrenalina, equipo de emergencia, personal capacitado y sistema para referencia.",
+          "Un ESAVI grave requiere evaluación y notificación según el sistema nacional de vigilancia.",
+          "Diferenciar sincope vasovagal de anafilaxia: analizar tiempo de inicio, manifestaciones respiratorias, pulso, presión y lesiones cutáneas.",
+          "La observación de 30 minutos no garantiza ausencia de reacciones tardías; explicar signos de alarma y canales de atención."
+        ],
+        "por_que_no_las_otras": {
+          "A": "Una hora no es el periodo ordinario planteado.",
+          "B": "45 minutos no es el intervalo normativo habitual de este ítem.",
+          "C": "Treinta minutos es la respuesta de la vigilancia inmediata postvacunal.",
+          "D": "Dos horas sería una observación mayor por indicación individual, no rutina."
+        },
+        "normativa": [
+          "Material operativo MINSA/DIRESA sobre vacunación contra dengue con vigilancia posvacunación.",
+          "Seguridad de vacunas: manejo y notificación de eventos supuestamente atribuibles a vacunación o inmunización."
+        ],
+        "mnemotecnia": "VACUNA DENGUE → 30 MIN OBSERVACIÓN; ANAFILAXIA → ADRENALINA IM YA.",
+        "trampas": [
+          "El tiempo de reposo no equivale al tiempo de protección inmunitaria.",
+          "Ante anafilaxia no esperar 30 minutos."
+        ],
+        "repaso_activo": [
+          {
+            "pregunta": "¿Cuál es el tiempo estándar de reposo postvacuna dengue?",
+            "respuesta": "30 minutos."
+          },
+          {
+            "pregunta": "¿Cuál es el fármaco de primera línea para anafilaxia?",
+            "respuesta": "Adrenalina intramuscular de inmediato."
+          }
+        ],
+        "refuerzo": [
+          {
+            "enunciado": "Niño recibe vacuna contra dengue y está asintomático. ¿Qué observación corresponde?",
+            "alternativas": {
+              "A": "10 minutos",
+              "B": "20 minutos",
+              "C": "30 minutos",
+              "D": "60 minutos",
+              "E": "Dos horas"
+            },
+            "respuesta": "C",
+            "explicacion": "El protocolo de observación inmediata utiliza 30 minutos."
+          },
+          {
+            "enunciado": "Tras vacunación aparecen sibilancias, urticaria generalizada e hipotensión. ¿Prioridad?",
+            "alternativas": {
+              "A": "Esperar que complete reposo",
+              "B": "Ofrecer agua",
+              "C": "Mandar a domicilio",
+              "D": "Iniciar antibióticos",
+              "E": "Adrenalina IM y respuesta de emergencia"
+            },
+            "respuesta": "E",
+            "explicacion": "Se sospecha anafilaxia, una emergencia tratable con adrenalina IM inmediata."
+          }
+        ]
+      },
+      "comment": "RESPUESTA RAZONADA: C. 30 minutos\n\nTras la vacunación contra dengue corresponde observación inmediata durante 30 minutos para identificar reacciones alérgicas y anafilaxia temprana. El tiempo se refiere a la permanencia en área de reposo, no al seguimiento posterior de efectos secundarios.\n\nDESARROLLO DEL TEMARIO\n\nTAK-003 (Qdenga) es una vacuna tetravalente viva atenuada y su administración debe sujetarse al programa peruano vigente y criterios de elegibilidad.\n\nAntes de vacunar: verificar edad, antecedentes, embarazo, situación inmunológica, consentimiento y posibles contraindicaciones.\n\nDocumentar lote, dosis, fecha, sitio de administración y profesional responsable; dar información clara.\n\nSe indica permanecer bajo observación 30 minutos para identificar y tratar reacciones de hipersensibilidad inmediatas.\n\nLa anafilaxia se reconoce por posible compromiso cutáneo, respiratorio, cardiovascular o gastrointestinal tras la exposición.\n\nSi hay anafilaxia, administrar adrenalina intramuscular de inmediato y activar protocolos de emergencia; no esperar a completar observación.\n\nPreparación: contar con adrenalina, equipo de emergencia, personal capacitado y sistema para referencia.\n\nUn ESAVI grave requiere evaluación y notificación según el sistema nacional de vigilancia.\n\nDiferenciar sincope vasovagal de anafilaxia: analizar tiempo de inicio, manifestaciones respiratorias, pulso, presión y lesiones cutáneas.\n\nLa observación de 30 minutos no garantiza ausencia de reacciones tardías; explicar signos de alarma y canales de atención.\n\nANÁLISIS DE ALTERNATIVAS\n\nA) Una hora no es el periodo ordinario planteado.\n\nB) 45 minutos no es el intervalo normativo habitual de este ítem.\n\nC) Treinta minutos es la respuesta de la vigilancia inmediata postvacunal.\n\nD) Dos horas sería una observación mayor por indicación individual, no rutina.\n\nTRAMPAS\n\nEl tiempo de reposo no equivale al tiempo de protección inmunitaria.\n\nAnte anafilaxia no esperar 30 minutos.\n\nREPASO ACTIVO\n\n¿Cuál es el tiempo estándar de reposo postvacuna dengue? — 30 minutos.\n\n¿Cuál es el fármaco de primera línea para anafilaxia? — Adrenalina intramuscular de inmediato.\n\nCASOS ADICIONALES\n\nNiño recibe vacuna contra dengue y está asintomático. ¿Qué observación corresponde?\nA) 10 minutos\nB) 20 minutos\nC) 30 minutos\nD) 60 minutos\nE) Dos horas\nClave C: El protocolo de observación inmediata utiliza 30 minutos.\n\nTras vacunación aparecen sibilancias, urticaria generalizada e hipotensión. ¿Prioridad?\nA) Esperar que complete reposo\nB) Ofrecer agua\nC) Mandar a domicilio\nD) Iniciar antibióticos\nE) Adrenalina IM y respuesta de emergencia\nClave E: Se sospecha anafilaxia, una emergencia tratable con adrenalina IM inmediata.",
+      "code": "ENCAPS26-I P66",
+      "course": "ENCAPS Medicina 2026-I",
+      "estadoDesarrollo": "pendiente_de_ampliacion",
+      "estadoClave": "razonada_pendiente_cotejo_oficial"
+    },
+    {
+      "number": 67,
+      "question": "Acude a su consulta una paciente mujer de 60 años con resultado de RPR positivo 8 dils, asintomática, cuya única pareja sexual es su esposo. ¿Cuál sería el esquema a seguir?",
+      "options": {
+        "A": "Penicilina benzatínica 2 400 000 UI 1 ampolla IM c/semana por 3 semanas",
+        "B": "Bencilpenicilina sódica 1 000 000 UI 4 ampollas EV c/4 horas por 2 semanas",
+        "C": "Doxiciclina 100 mg 1 tableta VO c/12 horas por 2 semanas",
+        "D": "Penicilina benzatínica 2 400 000 UI 1 ampolla IM dosis única"
+      },
+      "correct": "A",
+      "razonamiento": "Sífilis latente de duración desconocida: requiere confirmar infección y antecedentes; si no hay evidencia de infección reciente ni terapia previa adecuada, aplicar penicilina G benzatínica 2,4 millones UI intramuscular cada semana durante tres semanas. El RPR 1:8 no define fecha de adquisición.",
+      "code": "ENCAPS26-I P67",
+      "course": "ENCAPS Medicina 2026-I",
+      "comment": "CLAVE RAZONADA: A\n\nSífilis latente de duración desconocida: requiere confirmar infección y antecedentes; si no hay evidencia de infección reciente ni terapia previa adecuada, aplicar penicilina G benzatínica 2,4 millones UI intramuscular cada semana durante tres semanas. El RPR 1:8 no define fecha de adquisición.",
+      "estadoDesarrollo": "pendiente_de_ampliacion",
+      "estadoClave": "razonada_pendiente_cotejo_oficial"
+    },
+    {
+      "number": 68,
+      "question": "¿Con qué se determina el número de la historia clínica de una persona de nacionalidad peruana?",
+      "options": {
+        "A": "Carnet de extranjería",
+        "B": "Documento Nacional de Identidad",
+        "C": "Pasaporte",
+        "D": "Según número de ingreso"
+      },
+      "correct": "B",
+      "razonamiento": "El DNI identifica al paciente peruano para el expediente longitudinal. Evitar duplicados y verificar datos. La atención urgente no debe retrasarse por ausencia de documento físico.",
+      "code": "ENCAPS26-I P68",
+      "course": "ENCAPS Medicina 2026-I",
+      "comment": "CLAVE RAZONADA: B\n\nEl DNI identifica al paciente peruano para el expediente longitudinal. Evitar duplicados y verificar datos. La atención urgente no debe retrasarse por ausencia de documento físico.",
+      "estadoDesarrollo": "pendiente_de_ampliacion",
+      "estadoClave": "razonada_pendiente_cotejo_oficial"
+    },
+    {
+      "number": 69,
+      "question": "El equipo multidisciplinario de salud acude a una visita domiciliaria para aplicar el test de PAIFAM. La familia refiere que Roberto, padre de familia de 48 años, está consumiendo alcohol algunos días a la semana, por no conseguir trabajo, por lo que, Ud. como médico aplica el cuestionario de:",
+      "options": {
+        "A": "Hamilton",
+        "B": "Zung",
+        "C": "AUDIT C",
+        "D": "SRQ"
+      },
+      "correct": "C",
+      "razonamiento": "AUDIT-C pregunta frecuencia de ingesta, cantidad habitual y episodios de consumo intenso; es instrumento de tamizaje, no diagnóstico definitivo de dependencia. Hamilton, Zung y SRQ exploran otros aspectos de salud mental.",
+      "code": "ENCAPS26-I P69",
+      "course": "ENCAPS Medicina 2026-I",
+      "comment": "CLAVE RAZONADA: C\n\nAUDIT-C pregunta frecuencia de ingesta, cantidad habitual y episodios de consumo intenso; es instrumento de tamizaje, no diagnóstico definitivo de dependencia. Hamilton, Zung y SRQ exploran otros aspectos de salud mental.",
+      "estadoDesarrollo": "pendiente_de_ampliacion",
+      "estadoClave": "razonada_pendiente_cotejo_oficial"
+    },
+    {
+      "number": 70,
+      "question": "En la comunidad de un PS I-2 se identifica que existe un número elevado de adolescentes entre 13 y 15 años que se encuentran laborando pasteando ganado y pernoctando en el campo y que no han sido matriculados en la escuela. ¿A qué determinantes corresponde esta situación?",
+      "options": {
+        "A": "Estilo de vida",
+        "B": "Ambientales",
+        "C": "Intermedios",
+        "D": "Estructurales"
+      },
+      "correct": "D",
+      "razonamiento": "La exclusión escolar y la necesidad colectiva de trabajo adolescente reflejan desigualdad socioeconómica, acceso a educación y oportunidades: determinantes estructurales. El trabajo a la intemperie es exposición intermedia adicional.",
+      "code": "ENCAPS26-I P70",
+      "course": "ENCAPS Medicina 2026-I",
+      "comment": "CLAVE RAZONADA: D\n\nLa exclusión escolar y la necesidad colectiva de trabajo adolescente reflejan desigualdad socioeconómica, acceso a educación y oportunidades: determinantes estructurales. El trabajo a la intemperie es exposición intermedia adicional.",
+      "estadoDesarrollo": "pendiente_de_ampliacion",
+      "estadoClave": "razonada_pendiente_cotejo_oficial"
     }
   ]
 }
