@@ -313,6 +313,21 @@ async function init(){
   }
 
   if(!retiredBanks.has(BUILTIN_BANK.bankId)&&!bs.some(b=>b.bankId===BUILTIN_BANK.bankId)){await put('banks',BUILTIN_BANK);bs=await getAll('banks')}
+  // Segundo banco publicado: ENCAPS Medicina 2026-I (independiente del 2026-II).
+  // Al actualizarlo se preserva el historial/progreso local de ambos bancos.
+  if(!retiredBanks.has('ENCAPS_2026_I') && (location.protocol==='http:'||location.protocol==='https:')){
+    try{
+      const responseI=await fetch('./banco_2026_I.json',{cache:'no-store'});
+      if(responseI.ok){
+        const bankI=await responseI.json();
+        if(bankI.bankId==='ENCAPS_2026_I' && Array.isArray(bankI.questions) && bankI.questions.length>=1 && bankI.questions.length<=100){
+          validateBank(bankI);
+          await put('banks',bankI);
+          bs=await getAll('banks');
+        }
+      }
+    }catch(err){console.warn('Banco ENCAPS 2026-I no disponible: se conserva la copia local anterior',err)}
+  }
   bs.forEach(b=>banks.set(b.bankId,b));
   const rawProgress=await getAll('progress');
   for(const p of rawProgress){
