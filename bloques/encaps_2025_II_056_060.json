@@ -1,0 +1,199 @@
+{
+  "bankId": "ENCAPS_2025_II",
+  "source": "PDF del usuario SERUMS MINSA Medicina I 24 agosto 2025, preguntas 56-60",
+  "range": "056-060",
+  "status": "desarrollo_razonado_pendiente_cotejo_claves_oficiales_e_integracion_en_banco",
+  "questions": [
+    {
+      "number": 56,
+      "topic": "Rectoría sanitaria del MINSA y función normativa",
+      "question": "Según el ROF del Ministerio de Salud, ¿cuál de las siguientes constituye una función rectora?",
+      "options": {
+        "A": "Fortalecer las capacidades y competencias de los recursos humanos en salud",
+        "B": "Dictar normas y lineamientos técnicos para la adecuada ejecución y supervisión de las políticas nacionales",
+        "C": "Coordinar con organismos multilaterales y bilaterales de la cooperación internacional",
+        "D": "Regular la organización y prestación de servicios de salud"
+      },
+      "correct": null,
+      "temario": "La rectoría en salud comprende conducción de políticas, regulación, desarrollo de normas técnicas, supervisión y articulación del sistema. El MINSA define lineamientos nacionales y establece regulaciones en el marco de sus competencias. Es crucial distinguir la función normativa —emitir normas y lineamientos técnicos— de la reguladora —regular organización y prestación de servicios—: ambas pueden considerarse rectoras en marcos normativos generales. La pregunta, al pedir una única opción sin citar inciso o versión precisa del ROF, contiene potencial superposición entre B y D.",
+      "fundamento": "B describe explícitamente emisión de normas y lineamientos, y D la regulación de servicios; ambas tienen contenido rector. No asignar una letra definitiva hasta contrastar el inciso exacto y la clave del examen.",
+      "analisis": {
+        "A": "Fortalecimiento de capacidades puede ser parte de funciones sectoriales, pero no identifica con tanta precisión rectoría normativa.",
+        "B": "Expresa la función normativa del ente rector; alternativa plausible.",
+        "C": "Cooperación internacional es una función de articulación, no la formulación más directa de rectoría sanitaria.",
+        "D": "Expresa facultad reguladora sobre organización y prestación; también es plausible."
+      },
+      "alerta": "Ítem normativo con posibles respuestas B y D; clave oficial y artículo del ROF pendientes.",
+      "perlas": [
+        "Rectoría: conducir, normar, regular, supervisar.",
+        "La actualización normativa puede cambiar la denominación exacta de competencias."
+      ],
+      "refuerzo": [
+        {
+          "caso": "MINSA aprueba una norma técnica nacional de inmunizaciones.",
+          "clave": "Función normativa."
+        },
+        {
+          "caso": "Autoridad establece requisitos de prestación de servicios.",
+          "clave": "Función reguladora."
+        },
+        {
+          "caso": "Red forma a equipos para aplicar una directiva.",
+          "clave": "Fortalecimiento de capacidades."
+        }
+      ]
+    },
+    {
+      "number": 57,
+      "topic": "Atención integral del adolescente: evaluación inicial preventiva",
+      "question": "Adolescente de 16 años, pálida, usa anteojos por miopía, asiste al colegio y desconoce su estado de vacunación. ¿Qué intervenciones y cuidados deben realizarse inicialmente?",
+      "options": {
+        "A": "Evaluación del desarrollo sexual, salud bucal y consejería salud sexual",
+        "B": "Tamizaje de anemia, parásitos y enfermedades transmisibles y suplemento de hierro y ácido fólico",
+        "C": "Evaluación antropométrica, de agudeza visual e inmunizaciones y tamizaje de anemia, parásitos y enfermedades transmisibles",
+        "D": "Solo evaluación de la agudeza visual"
+      },
+      "correct": "C",
+      "temario": "La atención integral del adolescente considera evaluación nutricional (peso, talla, IMC/edad), salud visual, salud bucal, salud sexual y reproductiva, salud mental, consumo de sustancias, violencia, vacunación y tamizajes conforme riesgo/guía. La palidez exige evaluar anemia; miopía, verificar corrección y agudeza visual; desconocimiento de inmunizaciones, revisar carné/registros y completar esquema indicado. El tamizaje de parasitosis o infecciones debe ajustarse a riesgo y normativa, no realizarse indiscriminadamente. Preservar privacidad, confidencialidad y enfoque de derechos.",
+      "fundamento": "C es la opción más integral y atiende simultáneamente palidez, miopía y estado vacunal desconocido.",
+      "analisis": {
+        "A": "Abarca áreas importantes, pero omite hallazgos y antecedentes inmediatos.",
+        "B": "Considera anemia, pero omite visión y vacunas y presupone suplementación.",
+        "C": "Incluye evaluación multidimensional inicialmente pertinente.",
+        "D": "Limita indebidamente la atención a un solo problema."
+      },
+      "perlas": [
+        "Hallazgos del caso guían prioridades sin perder enfoque integral.",
+        "Tamizar anemia; confirmar antes de atribuir toda palidez a ferropenia."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Adolescente con palidez y fatiga.",
+          "clave": "Evaluación clínica y hemoglobina según protocolo."
+        },
+        {
+          "caso": "Adolescente sin comprobante vacunal.",
+          "clave": "Verificar registro y recuperar esquema correspondiente."
+        },
+        {
+          "caso": "Joven con dificultad para leer pizarrón aun con lentes.",
+          "clave": "Evaluar agudeza visual y corrección."
+        }
+      ]
+    },
+    {
+      "number": 58,
+      "topic": "Cultura organizacional frente a clima organizacional",
+      "question": "¿Cuál es el criterio más importante para diferenciar cultura organizacional de clima organizacional?",
+      "options": {
+        "A": "Conflicto y cooperación",
+        "B": "Comunicación organizacional",
+        "C": "Tiene carácter duradero",
+        "D": "Las normas y los patrones de comportamiento"
+      },
+      "correct": "C",
+      "temario": "La cultura organizacional engloba valores, creencias, supuestos, reglas informales y patrones compartidos que se consolidan a largo plazo; suele ser relativamente estable. El clima organizacional es la percepción colectiva del ambiente laboral presente —liderazgo, comunicación, reconocimiento, conflictos, condiciones— y puede cambiar más rápidamente. Normas y patrones de conducta describen contenido cultural, pero el carácter duradero contrasta específicamente con clima. El clima se estudia mediante encuestas de percepción y planes de mejora de relaciones y condiciones de trabajo.",
+      "fundamento": "La estabilidad temporal de la cultura es el criterio comparativo más claro entre las opciones.",
+      "analisis": {
+        "A": "Conflicto y cooperación son dimensiones observables del clima.",
+        "B": "Comunicación es dimensión del clima y práctica cultural; no discrimina de modo suficiente.",
+        "C": "La cultura es más duradera que percepciones de clima.",
+        "D": "Define componentes de cultura, pero no señala tan claramente su diferencia temporal."
+      },
+      "perlas": [
+        "Cultura = valores y supuestos profundos; clima = percepciones actuales.",
+        "Clima puede mejorar con cambios de liderazgo; cultura demanda transformación sostenida."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Profesionales perciben hoy sobrecarga laboral y liderazgo distante.",
+          "clave": "Clima organizacional."
+        },
+        {
+          "caso": "Hospital mantiene tradición histórica de trabajo jerárquico.",
+          "clave": "Cultura organizacional."
+        },
+        {
+          "caso": "Encuesta registra satisfacción con comunicación interna.",
+          "clave": "Medición del clima."
+        }
+      ]
+    },
+    {
+      "number": 59,
+      "topic": "Validez de contenido por juicio de expertos",
+      "question": "Se elabora cuestionario sobre conocimientos de alimentación saludable; recibe opinión favorable de expertos en nutrición y metodología. ¿Qué propiedad es más probable que tenga?",
+      "options": {
+        "A": "Predictibilidad",
+        "B": "Precisión",
+        "C": "Confiabilidad",
+        "D": "Validez"
+      },
+      "correct": "D",
+      "temario": "La validez refleja qué tan adecuadamente las interpretaciones de puntuaciones representan el constructo que se pretende medir. El juicio de expertos aporta evidencia de validez de contenido: pertinencia, claridad, relevancia y representatividad de los ítems. La confiabilidad es consistencia de las mediciones y requiere pruebas como test-retest, consistencia interna o acuerdo entre observadores, según instrumento. Ni una evaluación favorable de expertos ni un coeficiente aislado garantizan validez total; también se considera estructura interna, procesos de respuesta y relación con variables externas.",
+      "fundamento": "El juicio de expertos sustenta evidencia de validez de contenido, no demuestra por sí solo confiabilidad o capacidad predictiva.",
+      "analisis": {
+        "A": "Requiere contrastar con un criterio futuro o externo.",
+        "B": "Término amplio, no es la propiedad metodológica específica evaluada.",
+        "C": "Exige evidencias de consistencia/reproducibilidad.",
+        "D": "Corresponde a revisión de relevancia y cobertura del contenido por especialistas."
+      },
+      "perlas": [
+        "Expertos → evidencia de validez de contenido.",
+        "Alfa de Cronbach/test-retest → evidencia de confiabilidad, con limitaciones."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Cinco expertos valoran pertinencia de preguntas de nutrición.",
+          "clave": "Validez de contenido."
+        },
+        {
+          "caso": "Cuestionario produce resultados similares en dos aplicaciones estables.",
+          "clave": "Confiabilidad test-retest."
+        },
+        {
+          "caso": "Escala se compara con diagnóstico clínico establecido.",
+          "clave": "Evidencia de validez relacionada con criterio."
+        }
+      ]
+    },
+    {
+      "number": 60,
+      "topic": "Telesalud: telemonitoreo y seguimiento longitudinal",
+      "question": "Paciente de 80 años con fragilidad sale de hospital por neumonía; se programa seguimiento telefónico por su médico dentro de turno de telemedicina. ¿Cómo se denomina?",
+      "options": {
+        "A": "Telecapacitación",
+        "B": "Telemonitoreo",
+        "C": "Teleorientación",
+        "D": "Telegestión"
+      },
+      "correct": "B",
+      "temario": "En telesalud se distinguen teleorientación (información y consejería sin sustituir necesariamente acto clínico), teleconsulta (atención clínica remota), telemonitoreo (seguimiento a distancia de evolución, signos/síntomas o parámetros) y telecapacitación (formación de personal). En adulto mayor frágil tras neumonía se debe verificar temperatura, disnea, saturación si disponible, adherencia y efectos adversos, ingesta, estado funcional y signos de alarma; documentar y definir escalamiento presencial si hay deterioro. La denominación exacta depende del servicio registrado y alcance del acto remoto; el enunciado enfatiza seguimiento, por lo que corresponde telemonitoreo.",
+      "fundamento": "Es un control remoto de evolución posalta a cargo de médico, característico de telemonitoreo.",
+      "analisis": {
+        "A": "Formación a distancia para trabajadores o usuarios según modalidad, no seguimiento clínico.",
+        "B": "Seguimiento longitudinal remoto de paciente identificado.",
+        "C": "Información o consejería general, distinta al monitoreo clínico de evolución.",
+        "D": "Gestión administrativa remota, no seguimiento sanitario individual."
+      },
+      "perlas": [
+        "Telemonitoreo = seguimiento a distancia; teleorientación = consejería/información.",
+        "Postalta frágil: pesquisar señales de insuficiencia respiratoria y deterioro."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Enfermera registra diariamente por teléfono glucemias de paciente.",
+          "clave": "Telemonitoreo."
+        },
+        {
+          "caso": "Usuario pregunta orientación general para prevención de resfríos.",
+          "clave": "Teleorientación."
+        },
+        {
+          "caso": "Médicos reciben curso remoto sobre manejo de EPOC.",
+          "clave": "Telecapacitación."
+        }
+      ]
+    }
+  ]
+}
