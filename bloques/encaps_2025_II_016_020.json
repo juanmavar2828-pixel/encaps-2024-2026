@@ -1,0 +1,199 @@
+{
+  "bankId": "ENCAPS_2025_II",
+  "source": "Examen SERUMS MINSA Medicina I 24-08-2025, preguntas 16-20, PDF facilitado; claves razonadas no verificadas contra solucionario oficial",
+  "range": "016-020",
+  "status": "desarrollo_razonado_pendiente_cotejo_claves_oficiales_e_integracion_en_banco",
+  "questions": [
+    {
+      "number": 16,
+      "topic": "Insuficiencia respiratoria hipoxémica grave y referencia",
+      "question": "Varón de 70 años con disnea y fiebre desde hace dos días, hospitalizado previamente por IRA hace siete días. FC 110, FR 30, T 38,5 °C, SatO2 80%; crepitantes en base derecha. Con cánula nasal a 4 L/min SatO2 llega a 84% y aparece tiraje. ¿Conducta?",
+      "options": {
+        "A": "Observación y monitoreo cercano",
+        "B": "Referir al paciente a un centro de mayor nivel",
+        "C": "Tomar exámenes de laboratorio",
+        "D": "Colocar una máscara de Venturi"
+      },
+      "correct": "B",
+      "temario": "Hipoxemia grave refractaria a oxígeno de bajo flujo con trabajo respiratorio aumentado implica riesgo de fracaso respiratorio. Evaluar ABCDE, conciencia, frecuencia respiratoria, hemodinamia y posible sepsis/neumonía; titular oxígeno y escalar soporte según disponibilidad, monitorizar estrechamente y coordinar traslado medicalizado a centro con capacidad para alto flujo, ventilación no invasiva o intubación. En riesgo conocido de retención crónica de CO2 por EPOC, ajustar objetivo de saturación de manera individual (usualmente 88–92%); no aceptar SatO2 de 84% como suficiente. Los exámenes no deben retrasar estabilización y referencia.",
+      "fundamento": "La saturación de 84% pese a oxígeno y el tiraje definen gravedad; requiere estabilizar y referir urgentemente, no observación ni solo cambio de dispositivo.",
+      "analisis": {
+        "A": "Riesgo de deterioro si solo se observa.",
+        "B": "Es la conducta decisiva por falla de oxigenación y capacidad resolutiva.",
+        "C": "No debe retrasar soporte respiratorio ni traslado.",
+        "D": "Puede ser una medida transitoria si se necesita FiO2 controlada, pero no sustituye referencia."
+      },
+      "perlas": [
+        "SatO2 80% al ingreso más tiraje: emergencia.",
+        "Optimizar oxígeno y soporte durante coordinación de traslado."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Neumonía con SpO2 82% y confusión.",
+          "clave": "Emergencia respiratoria: estabilizar y referir."
+        },
+        {
+          "caso": "EPOC con hipercapnia conocida, SpO2 84% con oxígeno.",
+          "clave": "Titular oxígeno, monitorizar y valorar soporte ventilatorio."
+        },
+        {
+          "caso": "Disnea con hipoxemia persistente pese a oxígeno convencional.",
+          "clave": "Escalar soporte, buscar causa y trasladar según capacidad."
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "topic": "Episodio depresivo: reconocimiento y diferenciales",
+      "question": "Mujer de 40 años presenta durante un mes anhedonia, fatigabilidad, insomnio, baja autoestima y deterioro laboral; refiere un cuadro similar en la adolescencia. ¿Diagnóstico más probable?",
+      "options": {
+        "A": "Trastorno bipolar",
+        "B": "Trastorno de somatización",
+        "C": "Episodio depresivo",
+        "D": "Trastorno adaptativo"
+      },
+      "correct": "C",
+      "temario": "El episodio depresivo se caracteriza por ánimo deprimido y/o pérdida del interés, acompañado de alteraciones del sueño, energía, cognición, autoestima o apetito y deterioro funcional durante al menos dos semanas. Evaluar ideación suicida, síntomas psicóticos, uso de sustancias, enfermedad médica e historia de manía/hipomanía antes de plantear tratamiento antidepresivo. Un antecedente de episodio depresivo no confirma bipolaridad. El trastorno adaptativo exige un factor estresante identificable y un patrón clínico no mejor explicado por episodio depresivo.",
+      "fundamento": "Un mes de anhedonia y síntomas asociados con deterioro funcional apunta a episodio depresivo. Confirmar criterios y descartar manía.",
+      "analisis": {
+        "A": "No hay antecedentes de manía o hipomanía.",
+        "B": "No predomina un patrón de síntomas somáticos persistentes.",
+        "C": "Coincide mejor con duración y conjunto de síntomas.",
+        "D": "No se documenta estresor precipitante y el cuadro sugiere síndrome depresivo."
+      },
+      "perlas": [
+        "Tamizaje PHQ-9 orienta gravedad; no sustituye entrevista.",
+        "Preguntar directamente por suicidio y antecedentes de hipomanía."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Paciente con anhedonia tres semanas, insomnio y fatiga.",
+          "clave": "Evaluar episodio depresivo."
+        },
+        {
+          "caso": "Persona deprimida con episodios previos de euforia, menor necesidad de sueño y grandiosidad.",
+          "clave": "Investigar trastorno bipolar."
+        },
+        {
+          "caso": "Tristeza leve tras cambio laboral, con síntomas por debajo de criterios depresivos.",
+          "clave": "Considerar trastorno adaptativo según evaluación."
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "topic": "Interculturalidad: idioma, equidad e inclusión",
+      "question": "En comunidad aymara, médico serumista tiene dificultades para comunicarse y busca traductor para facilitar atención. ¿Qué principio intercultural se cumple?",
+      "options": {
+        "A": "Diversidad cultural",
+        "B": "Equidad",
+        "C": "Promoción de la inclusión",
+        "D": "Creatividad cultural"
+      },
+      "correct": "B",
+      "temario": "Interculturalidad en salud significa trato respetuoso entre sistemas de conocimiento y eliminación de barreras lingüísticas y culturales. Equidad exige adaptar los medios de atención según necesidades para lograr oportunidades reales de acceso; disponer de intérprete constituye ajuste para pacientes que no dominan español. Inclusión es resultado relacionado, pero la corrección de una desventaja comunicativa se interpreta principalmente como equidad. Mantener consentimiento informado comprensible, confidencialidad de intérpretes y respeto a decisiones del paciente.",
+      "fundamento": "Ofrecer traducción remueve barrera desigual de acceso a la información y a los servicios, por lo cual equidad es opción razonada más específica; según marco conceptual también podría describirse como inclusión, por eso requiere cotejo oficial.",
+      "analisis": {
+        "A": "Reconoce existencia de culturas distintas, no describe por sí sola la adaptación del servicio.",
+        "B": "Equipara oportunidades mediante apoyo lingüístico según necesidad.",
+        "C": "Consecuencia de la acción, pero menos específica si se evalúa reducción de barreras.",
+        "D": "No es principio aplicable al caso."
+      },
+      "alerta": "Clave razonada provisional: la norma/guía específica utilizada por el examen podría clasificar la acción como promoción de inclusión.",
+      "perlas": [
+        "Igualdad da lo mismo; equidad da apoyos diferenciados para lograr acceso real.",
+        "El intérprete facilita autonomía y consentimiento informado."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Entrega de información en quechua a paciente que no entiende español.",
+          "clave": "Equidad y pertinencia cultural."
+        },
+        {
+          "caso": "El equipo reconoce prácticas tradicionales sin ridiculizarlas.",
+          "clave": "Respeto a diversidad cultural."
+        },
+        {
+          "caso": "Consentimiento traducido y verificación de comprensión.",
+          "clave": "Comunicación intercultural y autonomía."
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "topic": "Ficha familiar en atención integral por curso de vida",
+      "question": "En establecimiento I-1 se programa visita de salud familiar multidisciplinaria para promoción y prevención en familia de gestante de 42 años, G5P4004, 36 semanas, identificando riesgos. ¿Instrumento adecuado?",
+      "options": {
+        "A": "Historia clínica",
+        "B": "ECOMAPA",
+        "C": "Familiograma",
+        "D": "Ficha familiar"
+      },
+      "correct": "D",
+      "temario": "La ficha familiar permite registro longitudinal de composición del hogar, características de vivienda, riesgos individuales/familiares y plan de cuidados integrales. El familiograma dibuja estructura y relaciones familiares; el ecomapa identifica vínculos con redes e instituciones; la historia clínica registra información clínica de una persona. En gestante añosa y gran multípara se evalúan además riesgo obstétrico, signos de alarma, plan de parto y referencia según nivel de complejidad.",
+      "fundamento": "Para identificar riesgos familiares e intervenir en promoción y prevención de forma estructurada, el instrumento general es la ficha familiar.",
+      "analisis": {
+        "A": "Aporta antecedentes clínicos individuales, pero no sustituye evaluación integral familiar.",
+        "B": "Identifica red de apoyo externa, complementa la ficha.",
+        "C": "Representa estructura y relaciones, no toda la evaluación de riesgos.",
+        "D": "Instrumento de registro familiar integral y planificación de intervenciones."
+      },
+      "perlas": [
+        "Ficha familiar = riesgos y plan integral.",
+        "Familiograma = estructura; ecomapa = redes."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Equipo identifica hacinamiento, apoyo social y riesgos del hogar.",
+          "clave": "Ficha familiar."
+        },
+        {
+          "caso": "Se necesita representar tres generaciones y parentescos.",
+          "clave": "Familiograma."
+        },
+        {
+          "caso": "Se evalúa relación de una familia con escuela, municipio y centro de salud.",
+          "clave": "Ecomapa."
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "topic": "Gestión pública: Plan Operativo Institucional",
+      "question": "Instrumento que programa actividades operativas e inversiones de dependencias del Ministerio, con metas físicas y financieras anuales alineadas al PEI. ¿Cuál?",
+      "options": {
+        "A": "ROF",
+        "B": "MOP",
+        "C": "ASIS",
+        "D": "POI"
+      },
+      "correct": "D",
+      "temario": "El Plan Operativo Institucional (POI) traduce los objetivos y acciones estratégicas del Plan Estratégico Institucional (PEI) en actividades operativas e inversiones, con programación física y financiera y seguimiento. El ROF define estructura orgánica y funciones; el MOP organiza procesos/operación de órganos en los casos que corresponda; el ASIS describe problemas, determinantes y prioridades de salud. Diferenciar planificación estratégica plurianual de programación operativa anual.",
+      "fundamento": "La descripción contiene actividades, inversiones y metas físicas y financieras del año fiscal: POI.",
+      "analisis": {
+        "A": "ROF regula organización y funciones, no programación anual de metas.",
+        "B": "MOP es documento de organización, no presupuesto de acciones operativas.",
+        "C": "ASIS aporta diagnóstico situacional de salud, no programa todas las inversiones.",
+        "D": "POI concreta acciones estratégicas en actividades operativas y metas del periodo."
+      },
+      "perlas": [
+        "PEI = objetivos estratégicos; POI = actividades y metas operativas.",
+        "ASIS diagnostica; POI programa."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Red de salud fija número trimestral de visitas domiciliarias y recursos necesarios.",
+          "clave": "Programación operativa del POI."
+        },
+        {
+          "caso": "Ministerio define órganos y funciones de direcciones.",
+          "clave": "ROF."
+        },
+        {
+          "caso": "Equipo analiza tasas de anemia y mapas de riesgo.",
+          "clave": "ASIS."
+        }
+      ]
+    }
+  ]
+}
