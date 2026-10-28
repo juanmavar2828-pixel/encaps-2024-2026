@@ -1,0 +1,206 @@
+{
+  "bankId": "ENCAPS_2025_II",
+  "source": "Archivo del usuario: Evaluación SERUMS–MINSA Medicina I, 24 agosto 2025, preguntas 46–50",
+  "range": "046-050",
+  "status": "desarrollo_razonado_pendiente_cotejo_claves_oficiales_e_integracion_en_banco",
+  "questions": [
+    {
+      "number": 46,
+      "topic": "Desastres: prioridades de intervención inicial",
+      "question": "¿Qué acción es una prioridad de la intervención inicial durante la ocurrencia de un desastre?",
+      "options": {
+        "A": "Rescate de heridos",
+        "B": "Atención médica a los afectados",
+        "C": "Suministro de agua",
+        "D": "Suministro de alimentos"
+      },
+      "correct": "A",
+      "temario": "Respuesta ante desastres: autoprotección, reconocimiento de riesgos, búsqueda y rescate de atrapados/heridos, evacuación y triaje; paralelamente, estabilización y atención sanitaria. En manuales de Defensa Civil, búsqueda y rescate integran las prioridades de intervención inicial; agua, alimentos y saneamiento son líneas prioritarias de asistencia y salud ambiental en la respuesta posterior o simultánea. La atención de víctimas ocurre según seguridad y capacidad operativa, y las tareas pueden solaparse.",
+      "fundamento": "La opción A reproduce la prioridad de búsqueda y rescate de víctimas en la intervención inicial. No implica retrasar atención vital de heridos ya accesibles.",
+      "analisis": {
+        "A": "Corresponde a rescate durante la intervención inicial.",
+        "B": "Es esencial, habitualmente tras acceso seguro a las víctimas y durante la primera respuesta.",
+        "C": "Intervención humanitaria y sanitaria importante, pero no es el concepto pedido.",
+        "D": "Necesidad crítica de apoyo humanitario, sin primacía sobre rescate inmediato."
+      },
+      "perlas": [
+        "Primero seguridad del rescatista; no producir nuevas víctimas.",
+        "Triaje permite priorizar asistencia cuando recursos son limitados."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Sismo con personas atrapadas en vivienda inestable.",
+          "clave": "Rescate especializado y seguridad de escena."
+        },
+        {
+          "caso": "Víctima accesible con hemorragia masiva.",
+          "clave": "Control urgente de hemorragia y coordinación de evacuación."
+        },
+        {
+          "caso": "Familias desplazadas sin agua segura.",
+          "clave": "Suministro de agua y saneamiento en respuesta humanitaria."
+        }
+      ],
+      "fuentes": [
+        "https://bvpad.indeci.gob.pe/doc/pdf/esp/doc324/doc324-contenido.pdf"
+      ]
+    },
+    {
+      "number": 47,
+      "topic": "Interculturalidad y parto vertical",
+      "question": "En una comunidad aymara, ¿qué práctica es ejemplo de atención con pertinencia cultural?",
+      "options": {
+        "A": "Entrega de material escrito en español",
+        "B": "Atención del parto vertical",
+        "C": "Atender al paciente sin traductor",
+        "D": "Difusión de material audiovisual nacional"
+      },
+      "correct": "B",
+      "temario": "Atención culturalmente pertinente adapta prestación a idioma, costumbres y preferencias: información en lengua comprendida, acompañamiento, decisiones informadas y modalidades de parto culturalmente aceptadas. El parto vertical es una opción de atención obstétrica si la gestante lo desea, el equipo está preparado y no existen contraindicaciones ni riesgos que demanden otra conducta. Respeto cultural no reemplaza detección de complicaciones ni capacidad de referencia. Los materiales deben ajustarse a comprensión local y no imponerse en español.",
+      "fundamento": "Entre las alternativas, el parto vertical es una práctica concreta de adecuación intercultural.",
+      "analisis": {
+        "A": "Puede excluir a quienes no hablan español.",
+        "B": "Reconoce preferencias culturales en una modalidad de parto segura cuando indicada.",
+        "C": "La ausencia de intérprete es barrera de atención y consentimiento.",
+        "D": "No garantiza pertinencia a idioma y necesidades culturales locales."
+      },
+      "perlas": [
+        "Parto vertical = opción informada, no obligación cultural.",
+        "Interculturalidad incluye idioma, consentimiento y respeto."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Gestante aymarahablante solicita comunicación en su lengua.",
+          "clave": "Intérprete capacitado y consentimiento comprensible."
+        },
+        {
+          "caso": "Parturienta de bajo riesgo elige posición vertical.",
+          "clave": "Facilitar si hay condiciones seguras."
+        },
+        {
+          "caso": "Parto con hemorragia masiva.",
+          "clave": "Priorizar estabilización y manejo obstétrico de emergencia."
+        }
+      ]
+    },
+    {
+      "number": 48,
+      "topic": "Epidemiología de malaria en Loreto: Plasmodium vivax",
+      "question": "Mujer de 45 años de Loreto con fiebre 39 °C, escalofríos, ictericia, orina rojiza y gota gruesa positiva a Plasmodium. ¿Especie más frecuente en la zona?",
+      "options": {
+        "A": "P. ovale",
+        "B": "P. malariae",
+        "C": "P. vivax",
+        "D": "P. falciparum"
+      },
+      "correct": "C",
+      "temario": "En la Amazonía peruana P. vivax ha constituido históricamente la mayor proporción de casos de malaria, con presencia también de P. falciparum. La gota gruesa detecta parasitemia y la lámina delgada u otras técnicas permiten identificación de especie; la clínica sola no la define. P. vivax forma hipnozoítos hepáticos y puede causar recaídas; tratamiento radical exige considerar prueba de G6PD antes de medicamentos oxidantes según protocolos. Ictericia y orina rojiza pueden sugerir hemólisis o malaria complicada: evaluar gravedad urgentemente y no suponer especie ni benignidad por frecuencia poblacional.",
+      "fundamento": "Se pregunta frecuencia epidemiológica regional: P. vivax es opción esperada, pero el diagnóstico de especie individual debe comprobarse.",
+      "analisis": {
+        "A": "Es rara y no representa principal especie en Loreto.",
+        "B": "Menos frecuente en la zona.",
+        "C": "Ha sido la especie predominante en malaria amazónica peruana.",
+        "D": "Puede producir formas graves, pero es menos frecuente que P. vivax en la distribución general."
+      },
+      "perlas": [
+        "Frecuencia epidemiológica ≠ identificación del caso.",
+        "P. vivax: hipnozoítos; tratamiento radical sujeto a evaluación de G6PD."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Paciente amazónico con gota gruesa positiva, sin especiación.",
+          "clave": "Identificar especie y gravedad; no inferirla solo por región."
+        },
+        {
+          "caso": "Malaria P. vivax con recurrencia meses después.",
+          "clave": "Evaluar recaída por hipnozoítos."
+        },
+        {
+          "caso": "Malaria con alteración de conciencia, ictericia y hemoglobinuria.",
+          "clave": "Evaluar malaria grave y referir urgentemente."
+        }
+      ]
+    },
+    {
+      "number": 49,
+      "topic": "Auditoría de calidad: planeamiento de la auditoría",
+      "question": "Una etapa de auditoría de calidad define los objetivos y la auditoría. ¿Qué etapa es?",
+      "options": {
+        "A": "Implementación de las recomendaciones final",
+        "B": "Ejecución",
+        "C": "Elaboración de informe",
+        "D": "Planeamiento"
+      },
+      "correct": "D",
+      "temario": "La auditoría de calidad comprende planeamiento (objetivo, alcance, criterios, equipo, métodos, cronograma y recursos), ejecución (recolección y evaluación de evidencias), informe (hallazgos, conclusiones y recomendaciones) y seguimiento/implementación de mejoras. Los hallazgos deben basarse en evidencia objetiva y criterios previamente establecidos, no en opiniones personales. Auditoría no es lo mismo que sanción o proceso disciplinario.",
+      "fundamento": "Definir objetivos, alcance y programa de trabajo corresponde a la fase de planeamiento.",
+      "analisis": {
+        "A": "Corresponde a aplicación posterior de recomendaciones.",
+        "B": "Verifica registros y reúne evidencia durante trabajo de campo.",
+        "C": "Formaliza resultados, conclusiones y recomendaciones.",
+        "D": "Diseña objetivos y metodología antes de ejecutar."
+      },
+      "perlas": [
+        "Planear → ejecutar → informar → seguimiento.",
+        "Auditoría busca mejorar calidad con evidencia."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Se seleccionan historias clínicas y estándares a auditar.",
+          "clave": "Planeamiento."
+        },
+        {
+          "caso": "Equipo revisa expedientes y contrasta criterios.",
+          "clave": "Ejecución."
+        },
+        {
+          "caso": "Se consignan hallazgos y acciones correctivas.",
+          "clave": "Informe y seguimiento."
+        }
+      ]
+    },
+    {
+      "number": 50,
+      "topic": "Episiotomía mediolateral: técnica, indicaciones y prevención de trauma obstétrico",
+      "question": "Sobre episiotomía mediolateral, ¿cuál es una característica?",
+      "options": {
+        "A": "Aumentan los niveles de desgarros",
+        "B": "Reduce el nivel de dolor posparto",
+        "C": "Reduce el sangrado y complicaciones",
+        "D": "Incisión de menos de 45 grados desde la línea media"
+      },
+      "correct": null,
+      "temario": "La episiotomía no debe realizarse rutinariamente en el parto vaginal espontáneo; se reserva para indicaciones clínicas seleccionadas. Cuando se realiza una incisión mediolateral, guías describen orientación entre 45 y 60 grados respecto al eje vertical en el momento del corte; suele orientarse alrededor de 60 grados para disminuir riesgo de lesión del esfínter anal tras la distensión. Una incisión menor de 45 grados desde la línea media puede quedar demasiado cercana al esfínter; no es la definición de técnica segura. La episiotomía puede causar dolor, sangrado y trauma, por lo que no se puede afirmar que de manera general disminuye estas complicaciones. La incidencia de desgarros depende de comparador, técnica y contexto; la técnica mediolateral puede reducir lesiones obstétricas graves del esfínter frente a la incisión media en ciertas situaciones, no necesariamente todos los desgarros.",
+      "fundamento": "Ninguna alternativa resulta inequívocamente correcta en el estado actual de la evidencia: A generaliza riesgo de desgarros, B y C prometen beneficios no demostrados de forma general, D ofrece un ángulo que contradice la recomendación usual. Mantener sin clave hasta cotejar solucionario y fuente original.",
+      "analisis": {
+        "A": "Puede existir trauma quirúrgico adicional, pero decir que siempre aumentan los desgarros no es una característica técnica precisa.",
+        "B": "No hay reducción general del dolor posparto por episiotomía.",
+        "C": "La incisión puede aumentar sangrado; no es beneficio universal.",
+        "D": "Un ángulo menor de 45° se aproxima al esfínter anal; no es la recomendación usual."
+      },
+      "alerta": "Ítem problemático: ninguna alternativa es científicamente sólida; no forzar clave oficial desconocida. NICE recomienda 45–60° y la OMS desaconseja uso rutinario.",
+      "perlas": [
+        "No episiotomía rutinaria.",
+        "Mediolateral: ángulo habitualmente ~60° al corte, no <45°."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Parto vaginal espontáneo no complicado.",
+          "clave": "Evitar episiotomía rutinaria."
+        },
+        {
+          "caso": "Parto instrumentado que requiere episiotomía.",
+          "clave": "Valorar indicación, analgesia y técnica mediolateral apropiada."
+        },
+        {
+          "caso": "Episiotomía dirigida cerca de línea media (<45°).",
+          "clave": "Mayor preocupación por extensión hacia esfínter anal."
+        }
+      ],
+      "fuentes": [
+        "https://www.nice.org.uk/guidance/ng235/chapter/recommendations",
+        "https://www.ncbi.nlm.nih.gov/books/NBK619233/"
+      ]
+    }
+  ]
+}
