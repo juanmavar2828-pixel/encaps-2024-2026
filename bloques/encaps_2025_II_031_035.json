@@ -1,0 +1,203 @@
+{
+  "bankId": "ENCAPS_2025_II",
+  "source": "PDF adjunto: SERUMS MINSA Medicina I, 24 agosto 2025, preguntas 31-35",
+  "range": "031-035",
+  "status": "desarrollo_razonado_pendiente_cotejo_claves_oficiales_e_integracion_en_banco",
+  "questions": [
+    {
+      "number": 31,
+      "topic": "Prevención cardiovascular en adultos con sobrepeso, hipertensión y obesidad abdominal",
+      "question": "Mujer de 45 años sedentaria, malos hábitos dietéticos, IMC 26,2, PA 130/95 mmHg, perímetro abdominal 108 cm. ¿Qué medidas de prevención tomar?",
+      "options": {
+        "A": "Tratamiento con antihipertensivos",
+        "B": "Charlas educativas sobre modo, condiciones, estilo de vida y trabajo con factores de riesgo modificables",
+        "C": "Trabajar con factores de riesgo no modificables",
+        "D": "Consulta a cardiología para consejería nutricional"
+      },
+      "correct": "B",
+      "temario": "La prevención cardiovascular en el primer nivel aborda factores modificables: alimentación con menor sodio, actividad física progresiva, reducción de peso, cese de tabaco y limitación de alcohol. Un perímetro de 108 cm implica riesgo cardiometabólico muy alto en mujeres; PA diastólica de 95 mmHg requiere repetir medición adecuada y confirmar hipertensión, considerar riesgo global y decidir tratamiento. Consejería individual estructurada, seguimiento y manejo clínico pueden coexistir: el ítem pregunta por medidas preventivas, no por descartar farmacoterapia. Puntos de corte de cintura en mujeres usados en guías MINSA: alto desde 80 cm, muy alto desde 88 cm.",
+      "fundamento": "La educación y el cambio de factores modificables son el centro de la prevención, aunque la paciente requiere además evaluación y confirmación de hipertensión.",
+      "analisis": {
+        "A": "Puede indicarse según confirmación de HTA y riesgo, pero no sintetiza las medidas preventivas solicitadas.",
+        "B": "Aborda sedentarismo, dieta y hábitos modificables en el primer nivel.",
+        "C": "Edad y genética no se pueden modificar.",
+        "D": "La orientación nutricional puede brindarse en atención primaria; la derivación no es el primer paso rutinario."
+      },
+      "perlas": [
+        "Obesidad central aumenta riesgo de DM2, HTA y ECV incluso con IMC cercano a normal.",
+        "Una PA aislada de 130/95 requiere nueva evaluación, no ignorar la diastólica elevada."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Adulto sedentario con cintura alta y presión normal.",
+          "clave": "Intervención preventiva sobre hábitos y riesgo global."
+        },
+        {
+          "caso": "Paciente con PA repetida ≥140/90 y daño de órgano blanco.",
+          "clave": "Evaluación y tratamiento de HTA, además de hábitos."
+        },
+        {
+          "caso": "Paciente con sobrepeso y consumo alto de bebidas azucaradas.",
+          "clave": "Consejería nutricional y seguimiento."
+        }
+      ]
+    },
+    {
+      "number": 32,
+      "topic": "Categorización de establecimientos de salud según complejidad y capacidad resolutiva",
+      "question": "El proceso que conduce a la clasificación de establecimientos de salud según sus niveles de complejidad y características funcionales se denomina:",
+      "options": {
+        "A": "Categoría",
+        "B": "Acreditación",
+        "C": "Habilitación",
+        "D": "Categorización"
+      },
+      "correct": "D",
+      "temario": "La categorización es el proceso técnico de clasificación de IPRESS por complejidad, capacidad resolutiva, funciones y unidades productoras de servicios de salud. Categoría es el resultado asignado; acreditación evalúa estándares de calidad; habilitación o autorización sanitaria examina requisitos para funcionamiento según normativa aplicable. Categorías frecuentes del primer nivel: I-1, I-2, I-3, I-4. No confundir la resolución administrativa que formaliza una categoría con el procedimiento de evaluación.",
+      "fundamento": "El enunciado pide nombre del proceso, no su resultado: categorización.",
+      "analisis": {
+        "A": "Es la clasificación resultante, no el proceso.",
+        "B": "Comprueba cumplimiento de estándares de calidad.",
+        "C": "Se refiere a condiciones/requisitos para operación, según régimen aplicable.",
+        "D": "Es la clasificación técnico-funcional de IPRESS."
+      },
+      "perlas": [
+        "Categorización = proceso; categoría = resultado.",
+        "Acreditación ≠ categorización."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Equipo revisa UPSS y capacidad resolutiva para clasificar un centro.",
+          "clave": "Categorización."
+        },
+        {
+          "caso": "Se determina que la IPRESS corresponde a I-3.",
+          "clave": "Categoría asignada."
+        },
+        {
+          "caso": "Se evalúan estándares de mejora de calidad institucional.",
+          "clave": "Acreditación."
+        }
+      ]
+    },
+    {
+      "number": 33,
+      "topic": "Perímetro de cintura en hombres con diabetes: interpretación del umbral",
+      "question": "En varón de 50 años con DM2 se pregunta por valor límite en cm de perímetro de cintura, como indicador de obesidad abdominal y riesgo cardiovascular.",
+      "options": {
+        "A": "78",
+        "B": "87",
+        "C": "99",
+        "D": "93"
+      },
+      "correct": "D",
+      "temario": "El perímetro abdominal es marcador práctico de tejido adiposo visceral y de riesgo cardiometabólico. En guías antropométricas MINSA basadas en criterios OMS, en varones el riesgo elevado comienza en ≥94 cm y el muy alto en ≥102 cm; en mujeres en ≥80 cm y ≥88 cm, respectivamente. El enunciado utiliza «límite», por lo que 93 cm puede interpretarse como el último valor entero por debajo del umbral de 94 cm, no el umbral mismo. La pregunta carece de la opción 94 cm y es ambigua; se deja la alternativa D como aproximación al límite inferior, no como cifra clínica exacta.",
+      "fundamento": "La cifra científica es 94 cm para inicio de riesgo elevado en varones bajo este criterio; entre las opciones, 93 cm es el valor inmediatamente anterior. No memorizar 93 como umbral.",
+      "analisis": {
+        "A": "No corresponde al valor masculino de referencia.",
+        "B": "No corresponde al límite estándar en varón.",
+        "C": "Se ubica en la categoría elevada pero no es el valor limítrofe.",
+        "D": "Valor entero inmediatamente inferior al punto de corte ≥94 cm; respuesta razonada condicionada."
+      },
+      "alerta": "Ítem mal calibrado: ninguna alternativa expresa el umbral exacto de ≥94 cm. Verificar clave original; NO sustituir el criterio clínico por 93 cm.",
+      "sources": [
+        "https://cdn.www.gob.pe/uploads/document/file/390192/consulta-nutricional-para-la-prevencion-y-control-de-la-diabetes-mellitus-tipo-2-de-la-persona-joven-adulta-y-adulta-mayor-documento-tecnico.pdf?v=1571240760",
+        "https://proyectos.inei.gob.pe/iinei/srienaho/Descarga/DocumentosMetodologicos/2024-5/ManualAntropometrista.pdf"
+      ],
+      "perlas": [
+        "Varón: ≥94 cm riesgo alto, ≥102 cm muy alto.",
+        "Mujer: ≥80 cm riesgo alto, ≥88 cm muy alto."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Varón con cintura de 96 cm.",
+          "clave": "Riesgo elevado por criterio MINSA/OMS."
+        },
+        {
+          "caso": "Varón con cintura de 103 cm.",
+          "clave": "Riesgo muy alto."
+        },
+        {
+          "caso": "Mujer con cintura de 89 cm.",
+          "clave": "Riesgo muy alto."
+        }
+      ]
+    },
+    {
+      "number": 34,
+      "topic": "Enfoques transversales en promoción de la salud: equidad de género",
+      "question": "Se realizan actividades de promoción de conductas sexuales saludables entre jóvenes, con amplia participación tanto de hombres como de mujeres. ¿Qué enfoque transversal se ha logrado?",
+      "options": {
+        "A": "Equidad de género",
+        "B": "Interculturalidad",
+        "C": "Accesibilidad",
+        "D": "Derecho a la salud"
+      },
+      "correct": "A",
+      "temario": "El enfoque de equidad de género identifica y busca reducir desigualdades de acceso, información, recursos y toma de decisiones relacionadas con género. En salud sexual impulsa participación de mujeres y hombres, prevención de ITS, decisiones informadas y responsabilidad compartida. Diferenciar igualdad numérica de participación de equidad real: la sola asistencia de ambos sexos no demuestra eliminación de barreras ni igualdad de poder; el examen usa esa participación como indicador orientador. Interculturalidad atiende diversidad cultural, accesibilidad elimina barreras de acceso y el enfoque de derechos exige disponibilidad, aceptabilidad, calidad y no discriminación.",
+      "fundamento": "El caso destaca participación de hombres y mujeres en acciones de salud sexual: enfoque de equidad de género.",
+      "analisis": {
+        "A": "Promueve participación y oportunidades sin discriminación por género.",
+        "B": "No se describen diferencias culturales o lingüísticas.",
+        "C": "No se indica barrera geográfica, física o económica como eje.",
+        "D": "Es marco amplio que no identifica la dimensión de género destacada."
+      },
+      "perlas": [
+        "Equidad requiere detectar y corregir barreras, no contar asistentes solamente.",
+        "Salud sexual: autonomía y responsabilidad compartida."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Centro adapta horarios para que hombres y mujeres accedan a consejería.",
+          "clave": "Equidad de género y accesibilidad."
+        },
+        {
+          "caso": "Se atiende en quechua a población quechuahablante.",
+          "clave": "Interculturalidad."
+        },
+        {
+          "caso": "Se impide negar atención por situación migratoria.",
+          "clave": "Derecho a la salud y no discriminación."
+        }
+      ]
+    },
+    {
+      "number": 35,
+      "topic": "Cadena epidemiológica y triada ecológica de la malaria",
+      "question": "En una comunidad de selva aparecen casos de malaria por Plasmodium vivax. La aparición de un caso depende de características biológicas del ......, del ...... y del ambiente que facilitan aparición de Anopheles.",
+      "options": {
+        "A": "vector / agente",
+        "B": "equilibrio ecológico / huésped",
+        "C": "agente / vector",
+        "D": "parásito / huésped"
+      },
+      "correct": "D",
+      "temario": "La tríada epidemiológica clásica comprende agente, huésped y ambiente. En malaria, el agente etiológico es Plasmodium (P. vivax), el huésped humano susceptible y el vector el mosquito hembra Anopheles, que interviene en transmisión. El ambiente favorece criaderos, supervivencia y contacto vector-humano. La susceptibilidad del huésped depende de inmunidad, exposición y condiciones de salud; la biología del parásito influye en parasitemia y recaídas (hipnozoítos hepáticos de P. vivax). Diferenciar agente causal y vector transmisor: ambos son indispensables en el ciclo natural, pero la tríada es agente–huésped–ambiente.",
+      "fundamento": "La frase con '... y ambiente' corresponde a parásito/agente y huésped, mientras Anopheles se menciona como vector. D es la opción compatible con tríada clásica.",
+      "analisis": {
+        "A": "Omite huésped y altera el esquema clásico.",
+        "B": "Equilibrio ecológico no sustituye agente etiológico.",
+        "C": "Menciona agente y vector, pero no huésped como componente de la tríada solicitada.",
+        "D": "Parásito = agente, seguido de huésped y ambiente."
+      },
+      "perlas": [
+        "Agente: Plasmodium; vector: Anopheles; huésped: humano.",
+        "P. vivax puede recaer por hipnozoítos hepáticos."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Charcas estancadas elevan población de Anopheles.",
+          "clave": "Componente ambiental y vectorial."
+        },
+        {
+          "caso": "Persona con malaria por P. vivax.",
+          "clave": "Agente etiológico: Plasmodium vivax."
+        },
+        {
+          "caso": "Migrante sin inmunidad se expone a picaduras.",
+          "clave": "Susceptibilidad del huésped y exposición al vector."
+        }
+      ]
+    }
+  ]
+}
