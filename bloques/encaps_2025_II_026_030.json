@@ -1,0 +1,200 @@
+{
+  "bankId": "ENCAPS_2025_II",
+  "source": "PDF del usuario: Evaluación SERUMS MINSA Medicina I 24 agosto 2025, preguntas 26-30",
+  "range": "026-030",
+  "status": "desarrollo_razonado_pendiente_cotejo_claves_oficiales_e_integracion_en_banco",
+  "questions": [
+    {
+      "number": 26,
+      "topic": "Salud intercultural y revaloración de medicina tradicional",
+      "question": "Se le encarga implementar servicios de salud con pertinencia cultural. ¿Qué línea de acción debe considerar?",
+      "options": {
+        "A": "Infraestructura adecuada",
+        "B": "Recursos humanos especializados",
+        "C": "Inclusión social",
+        "D": "Revaloración del sistema de salud tradicional"
+      },
+      "correct": "D",
+      "temario": "La pertinencia cultural adapta la atención a los valores, prácticas, idioma y expectativas de la población, con enfoque de derechos y seguridad clínica. Incluye diálogo horizontal con agentes de medicina tradicional, reconocimiento de prácticas no nocivas, comunicación en lengua originaria, adecuación de atención y participación comunitaria. La revaloración del sistema tradicional es una línea específicamente intercultural; no sustituye la evaluación científica de seguridad y eficacia de tratamientos.",
+      "fundamento": "Entre las opciones, la revaloración de saberes y sistemas tradicionales es la acción más específica de pertinencia cultural.",
+      "analisis": {
+        "A": "Es requisito operativo general, no identifica por sí mismo adecuación intercultural.",
+        "B": "Puede ayudar, pero la especialización aislada no garantiza diálogo cultural.",
+        "C": "Es un objetivo transversal amplio.",
+        "D": "Reconoce conocimientos y prácticas tradicionales e impulsa articulación respetuosa."
+      },
+      "perlas": [
+        "Interculturalidad implica diálogo, no imposición ni aceptación acrítica.",
+        "Respetar prácticas seguras y el consentimiento informado."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Gestante quechua solicita acompañante y posición culturalmente aceptada.",
+          "clave": "Adecuar atención segura con pertinencia cultural."
+        },
+        {
+          "caso": "Centro coordina con agentes tradicionales de la comunidad.",
+          "clave": "Articulación y revaloración de saberes."
+        },
+        {
+          "caso": "Paciente no comprende indicaciones en español.",
+          "clave": "Intérprete y materiales en lengua originaria."
+        }
+      ]
+    },
+    {
+      "number": 27,
+      "topic": "Metodología de investigación: enfoque cualitativo",
+      "question": "Médico serumista visita hogares de afectados por violencia familiar, entrevista a personas y familiares, analiza información y plantea explicaciones. ¿Qué enfoque usa?",
+      "options": {
+        "A": "Cuantitativo",
+        "B": "Cualitativo",
+        "C": "Científico",
+        "D": "Mixto"
+      },
+      "correct": "B",
+      "temario": "La investigación cualitativa interpreta experiencias, significados, dinámicas y contextos mediante entrevistas, observación o grupos focales; utiliza codificación, categorías, análisis temático y triangulación. No requiere representatividad estadística para describir vivencias en profundidad. El enfoque cuantitativo mide variables y relaciones numéricas; el mixto integra rigurosamente ambos componentes. Investigar violencia exige confidencialidad, consentimiento y evaluación de riesgos para no revictimizar.",
+      "fundamento": "Las visitas con entrevistas e interpretación contextual enfatizan datos narrativos, propios de enfoque cualitativo.",
+      "analisis": {
+        "A": "Mediría frecuencias, asociaciones y variables numéricas.",
+        "B": "Explora testimonios y construye explicaciones desde experiencias.",
+        "C": "Es una característica general de cualquier investigación rigurosa.",
+        "D": "No se describe componente cuantitativo integrado."
+      },
+      "perlas": [
+        "Entrevistas y categorías interpretativas → cualitativo.",
+        "Cuestionario numérico y pruebas estadísticas → cuantitativo."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Se entrevista a 20 madres para comprender barreras a vacunación.",
+          "clave": "Cualitativo."
+        },
+        {
+          "caso": "Se estima prevalencia de violencia en 600 hogares.",
+          "clave": "Cuantitativo."
+        },
+        {
+          "caso": "Encuesta estadística más entrevistas integradas.",
+          "clave": "Mixto."
+        }
+      ]
+    },
+    {
+      "number": 28,
+      "topic": "Intersectorialidad y prevención del dengue",
+      "question": "Ante riesgo de brote de dengue, establecimiento de salud se reúne con alcalde y presidente de comunidad, evalúan factores, toman decisiones y acuerdan reducirlos. ¿Tipo de acción?",
+      "options": {
+        "A": "Multidisciplinaria",
+        "B": "Transdisciplinaria",
+        "C": "Intersectorial",
+        "D": "Promocional"
+      },
+      "correct": "C",
+      "temario": "La intersectorialidad articula instituciones y sectores diferentes (salud, gobiernos locales, educación, saneamiento y organizaciones sociales) para actuar sobre determinantes compartidos. En dengue incluye gestión de recipientes, abastecimiento y almacenamiento seguro de agua, residuos sólidos, comunicación de riesgo y vigilancia. Multidisciplinariedad reúne profesiones distintas, generalmente dentro de un problema; intersectorialidad une competencias institucionales y decisiones coordinadas.",
+      "fundamento": "La participación conjunta del establecimiento sanitario, municipalidad y liderazgo comunitario para cambiar condiciones ambientales corresponde a acción intersectorial.",
+      "analisis": {
+        "A": "Describe interacción de disciplinas, no necesariamente sectores institucionales.",
+        "B": "Supone integración de saberes más allá de disciplinas, menos específica.",
+        "C": "Coordina distintos sectores para resolver riesgo comunitario.",
+        "D": "La promoción puede estar presente, pero la pregunta distingue coordinación intersectorial."
+      },
+      "perlas": [
+        "Salud + municipalidad + comunidad = acción intersectorial.",
+        "Dengue requiere abordar ambiente, comportamiento y vigilancia."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Salud y municipalidad planifican eliminación de criaderos.",
+          "clave": "Intersectorialidad."
+        },
+        {
+          "caso": "Médico, obstetra y enfermera elaboran un plan clínico.",
+          "clave": "Trabajo multidisciplinario."
+        },
+        {
+          "caso": "Municipio mejora recojo de residuos para disminuir vectores.",
+          "clave": "Actuar sobre determinantes ambientales."
+        }
+      ]
+    },
+    {
+      "number": 29,
+      "topic": "Ciclo de planeamiento estratégico CEPLAN",
+      "question": "En el marco del ciclo de planeamiento estratégico, ¿qué fase diseña objetivos y acciones estratégicas sectoriales en consistencia, alineamiento y coherencia con la definición de objetivos?",
+      "options": {
+        "A": "2",
+        "B": "4",
+        "C": "3",
+        "D": "1"
+      },
+      "correct": "C",
+      "temario": "En el ciclo de planeamiento estratégico citado habitualmente por CEPLAN se distinguen: fase 1, conocimiento integral de la realidad; fase 2, futuro deseado; fase 3, políticas y planes coordinados; y fase 4, seguimiento y evaluación. Pero hay versiones de guías y esquemas de fases que describen la formulación de objetivos y acciones estratégicas en la fase de políticas y planes coordinados (fase 3). Es indispensable asociar la pregunta al manual/version de CEPLAN aplicable y al nivel sectorial; el PDF no señala versión.",
+      "fundamento": "La formulación de objetivos y acciones estratégicas se vincula conceptualmente con la fase 3 (políticas y planes coordinados) en el ciclo de cuatro fases CEPLAN. Se mantiene respuesta razonada C, no A, hasta cotejar fuente normativa específica.",
+      "analisis": {
+        "A": "Fase 2 corresponde típicamente a futuro deseado, no formulación definitiva de objetivos sectoriales.",
+        "B": "Fase 4 corresponde a seguimiento y evaluación.",
+        "C": "Fase 3 desarrolla políticas y planes articulados; respuesta razonada.",
+        "D": "Fase 1 explora situación y conocimiento integral de la realidad."
+      },
+      "alerta": "Respuesta normativa provisional por cambios de nomenclatura entre versiones de CEPLAN; no presentar como clave oficial.",
+      "perlas": [
+        "1 realidad; 2 futuro deseado; 3 políticas/planes; 4 seguimiento.",
+        "Distinguir diagnóstico, formulación y seguimiento."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Se caracteriza situación actual y brechas territoriales.",
+          "clave": "Fase 1: conocimiento de la realidad."
+        },
+        {
+          "caso": "Se construye futuro deseado participativo.",
+          "clave": "Fase 2."
+        },
+        {
+          "caso": "Se articulan objetivos, acciones y planes institucionales/sectoriales.",
+          "clave": "Fase 3 en esquema CEPLAN de cuatro fases."
+        }
+      ]
+    },
+    {
+      "number": 30,
+      "topic": "Bioseguridad: guantes y precauciones estándar",
+      "question": "Paciente con lesiones cutáneas y secreción verde grisácea tras hospitalización prolongada. Se usan lentes, mascarilla, bata y guantes para disminuir contaminación de paciente y operador. ¿Qué tipo de guantes usar?",
+      "options": {
+        "A": "Amianto",
+        "B": "Caucho natural",
+        "C": "Algodón",
+        "D": "Látex"
+      },
+      "correct": "D",
+      "temario": "Las precauciones estándar se aplican a todos los pacientes y ajustan EPP a riesgo de exposición a sangre, secreciones y mucosas. Para examen y contacto potencial con fluidos se usan guantes médicos de examen, de nitrilo o látex, según riesgo de alergia y disponibilidad; en procedimientos estériles, guantes estériles. Higiene de manos antes y después; guantes no sustituyen limpieza de manos. Secreción verdosa puede orientar a patógenos como Pseudomonas, pero el color por sí solo no confirma etiología. Las precauciones de contacto se consideran si hay microorganismo multirresistente o secreciones no contenidas.",
+      "fundamento": "Entre las opciones, 'látex' identifica el material clásico de guante médico de examen. Nitrilo suele ser opción válida y preferible ante riesgo de alergia, aunque no figura.",
+      "analisis": {
+        "A": "El amianto es material industrial peligroso, no guante sanitario.",
+        "B": "Caucho natural es denominación amplia y el látex se deriva de él; opción parcialmente solapada.",
+        "C": "El algodón no proporciona barrera adecuada a secreciones.",
+        "D": "Guante médico de látex es respuesta más específica entre las ofrecidas."
+      },
+      "alerta": "Opciones B y D se superponen materialmente: látex natural proviene del caucho natural. Ítem con distractores defectuosos; conservar respuesta razonada como provisional.",
+      "perlas": [
+        "Para contacto con fluidos: guantes médicos apropiados más higiene de manos.",
+        "Nitrilo puede ser alternativa a látex; verificar alergia."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Curación de herida con exudado abundante.",
+          "clave": "Precauciones estándar, guantes de examen y otros EPP según salpicaduras."
+        },
+        {
+          "caso": "Profesional con alergia inmediata al látex.",
+          "clave": "Preferir guantes médicos sin látex, como nitrilo."
+        },
+        {
+          "caso": "Tras retirar los guantes se procede a otra atención.",
+          "clave": "Higiene de manos obligatoria."
+        }
+      ]
+    }
+  ]
+}
