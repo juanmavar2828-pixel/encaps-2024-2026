@@ -1,0 +1,202 @@
+{
+  "bankId": "ENCAPS_2025_II",
+  "source": "PDF aportado: Evaluación SERUMS MINSA Medicina I 24 de agosto 2025, preguntas 21-25",
+  "range": "021-025",
+  "status": "desarrollo_razonado_pendiente_cotejo_claves_oficiales_e_integracion_en_banco",
+  "questions": [
+    {
+      "number": 21,
+      "topic": "Sala de situación de salud y vigilancia integrada",
+      "question": "¿Cuál es el ámbito donde se desarrollan procesos de integración de la información de vigilancia de las situaciones de salud en periodos normales y de emergencia para la toma decisiones en salud pública?",
+      "options": {
+        "A": "Sala de situación de salud",
+        "B": "Comité de inteligencia sanitaria",
+        "C": "Análisis de situación de salud",
+        "D": "Vigilancia epidemiológica"
+      },
+      "correct": "A",
+      "temario": "La sala de situación de salud organiza y analiza continuamente información epidemiológica, sanitaria, demográfica y de determinantes para apoyar decisiones. Integra tendencias temporales, distribución geográfica, disponibilidad de recursos y alertas, y se adapta a emergencias. El ASIS es un proceso/documento de análisis y priorización; la vigilancia epidemiológica es el sistema de recolección, análisis, interpretación y comunicación de datos; la sala articula y visualiza esa información.",
+      "fundamento": "El núcleo del enunciado es el ámbito de integración de fuentes para decidir en normalidad y crisis: sala de situación.",
+      "analisis": {
+        "A": "Integra información y facilita decisiones oportunas.",
+        "B": "Puede asesorar, pero no es el espacio definido en el enunciado.",
+        "C": "Es un proceso analítico diagnóstico de la situación de salud.",
+        "D": "Es fuente y proceso de generación de datos, no el ámbito integrador solicitado."
+      },
+      "perlas": [
+        "Sala = información integrada para decisión.",
+        "Vigilancia = detección y seguimiento de eventos."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Tras lluvias se integran casos de diarrea, agua segura y hospitales disponibles.",
+          "clave": "Sala de situación."
+        },
+        {
+          "caso": "Se notifica semanalmente número de casos de dengue.",
+          "clave": "Vigilancia epidemiológica."
+        },
+        {
+          "caso": "Se priorizan problemas sanitarios de un distrito en un informe amplio.",
+          "clave": "ASIS."
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "topic": "Investigación de brotes: secuencia y verificación inicial",
+      "question": "Varón de 45 años con fiebre e ictericia, HBsAg reactivo hace un año; otros vecinos presentan ictericia. Ante sospecha de brote, ¿cuál es la primera etapa de investigación epidemiológica?",
+      "options": {
+        "A": "Identificación de los casos",
+        "B": "Hacer vigilancia epidemiológica",
+        "C": "Intervención del brote",
+        "D": "Investigación preliminar"
+      },
+      "correct": "D",
+      "temario": "Ante una señal de posible brote se verifica la información inicial y se establece si existe aumento inusual respecto de lo esperado. Se confirma orientación diagnóstica, se define caso y se hace búsqueda activa; luego se caracterizan casos en tiempo, lugar y persona, se generan hipótesis, aplican medidas de control y comunican resultados. La respuesta sanitaria no siempre debe esperar a completar todas las fases. HBsAg reactivo por un año en un individuo no prueba por sí solo que el brote comunitario sea hepatitis B; valorar hepatitis A, E, otras causas de ictericia, confirmación y vías de transmisión.",
+      "fundamento": "'Investigación preliminar' describe mejor el primer acercamiento para verificar señal de brote y organizar investigación. La identificación de casos forma parte de etapas tempranas siguientes y puede comenzar en paralelo.",
+      "analisis": {
+        "A": "Es esencial, pero requiere una definición de caso y evaluación inicial.",
+        "B": "Es actividad continua, no etapa inicial delimitada.",
+        "C": "Las intervenciones pueden ser precoces, pero no nombran primera etapa investigativa.",
+        "D": "Corresponde a verificación y preparación inicial."
+      },
+      "alerta": "La denominación exacta de etapas varía entre manuales; clave razonada pendiente de cotejo.",
+      "perlas": [
+        "No atribuir etiología de brote solo por serología histórica de un caso.",
+        "Definir caso y comparar frecuencia observada con esperada."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Aparecen diez casos de ictericia en una semana en comunidad pequeña.",
+          "clave": "Verificar aumento y confirmar sospecha de brote."
+        },
+        {
+          "caso": "Tras definir caso se buscan pacientes casa por casa.",
+          "clave": "Búsqueda activa de casos."
+        },
+        {
+          "caso": "Epidemia alimentaria con fuente sospechosa en operación.",
+          "clave": "Control inmediato en paralelo con investigación."
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "topic": "Vigilancia entomológica de Aedes en áreas receptivas sin infestación documentada",
+      "question": "¿Qué actividades de vigilancia entomológica realizarías en comunidad donde no existe vector ni casos, pero hay condiciones ambientales para la infestación?",
+      "options": {
+        "A": "A través de inspecciones de viviendas según muestreo aleatorio sistemático",
+        "B": "Post control por muestreo aleatorio sistemático dependiendo del tipo de larvicida en uso",
+        "C": "Semanales en un punto crítico con ovitrampas",
+        "D": "Quincenales con ovitrampa en localidades seleccionadas con bajos niveles de infestación"
+      },
+      "correct": "C",
+      "temario": "En zonas receptivas sin infestación confirmada el objetivo entomológico es detectar precozmente la introducción del vector mediante vigilancia en puntos estratégicos o críticos y, según lineamientos locales, ovitrampas y búsqueda de criaderos. Las ovitrampas captan huevos de mosquitos que ovipositan en recipientes y requieren lectura y mantenimiento periódicos. Las inspecciones domiciliarias sistemáticas permiten estimar índices de infestación donde corresponde; el postcontrol se emplea tras intervenciones larvicidas y no en ausencia de vector.",
+      "fundamento": "La vigilancia semanal mediante ovitrampas en puntos críticos es compatible con detección temprana donde existe riesgo de ingreso del vector.",
+      "analisis": {
+        "A": "Inspección domiciliaria puede complementar la vigilancia, pero se orienta especialmente a muestreo e índices.",
+        "B": "No hubo control larvicida previo.",
+        "C": "Prioriza vigilancia sensible en puntos de riesgo, respuesta razonada provisional.",
+        "D": "Menciona bajos niveles de infestación, no ausencia documentada."
+      },
+      "alerta": "Periodicidad, selección de puntos y técnica dependen de directiva entomológica aplicable; cotejar clave oficial/norma vigente.",
+      "perlas": [
+        "Área receptiva ≠ área infestada.",
+        "Sin vector, enfoque = detección temprana; con vector, medir infestación y control."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Terminal de transporte en zona sin Aedes pero con ingreso desde áreas endémicas.",
+          "clave": "Vigilancia de puntos estratégicos."
+        },
+        {
+          "caso": "Tras aplicación de larvicida se requiere evaluar eficacia.",
+          "clave": "Vigilancia postcontrol."
+        },
+        {
+          "caso": "Se encuentran huevos compatibles con Aedes en ovitrampa.",
+          "clave": "Confirmar identificación y activar investigación entomológica."
+        }
+      ]
+    },
+    {
+      "number": 24,
+      "topic": "Entrega de historia clínica al Ministerio Público: confidencialidad y plazos",
+      "question": "Jefe de establecimiento de primer nivel recibe solicitud formal del Ministerio Público de copia de historia clínica. ¿Cuál es el plazo máximo de entrega?",
+      "options": {
+        "A": "3 días",
+        "B": "10 días",
+        "C": "7 días",
+        "D": "5 días"
+      },
+      "correct": null,
+      "temario": "La historia clínica contiene datos personales sensibles y exige reserva y custodia. Ante requerimiento fiscal, verificar legitimidad y sustento jurídico, registrar ingreso y atender conforme a la norma especial aplicable y plazo consignado en el requerimiento, garantizando cadena de custodia documental y entrega de copias auténticas cuando corresponda. No confundir los plazos de entrega de copia al paciente, los plazos de respuesta de transparencia y los plazos de colaboración con el Ministerio Público: pueden diferir. El PDF no adjunta clave ni artículo normativo para elegir entre 3, 5, 7 o 10 días.",
+      "fundamento": "No es responsable fijar un número sin identificar la disposición peruana específica y su versión aplicable. Pendiente cotejo contra norma/claves oficiales.",
+      "analisis": {
+        "A": "No verificable solo con el enunciado.",
+        "B": "No verificable solo con el enunciado.",
+        "C": "No verificable solo con el enunciado.",
+        "D": "No verificable solo con el enunciado."
+      },
+      "alerta": "Clave deliberadamente sin definir para evitar memorizar un plazo normativo inventado.",
+      "perlas": [
+        "Historia clínica = confidencialidad y custodia.",
+        "El requerimiento fiscal no equivale a solicitud ordinaria del titular."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Fiscal solicita copia de historia con identificación del caso.",
+          "clave": "Verificar base legal, registrar y atender dentro del plazo aplicable."
+        },
+        {
+          "caso": "Familiar pide copia de historia sin autorización.",
+          "clave": "Verificar legitimación; no entregar automáticamente."
+        },
+        {
+          "caso": "Se solicita copia certificada.",
+          "clave": "Preservar original y documentar autenticidad."
+        }
+      ]
+    },
+    {
+      "number": 25,
+      "topic": "Atención domiciliaria del adulto mayor dependiente y signos de infección",
+      "question": "Mujer de 80 años con demencia avanzada y dismovilidad crónica severa, tos y mayor somnolencia durante una semana. Como jefe de establecimiento I-2, ¿medida dentro del paquete integral del adulto mayor?",
+      "options": {
+        "A": "Referir a un nivel superior para evaluación",
+        "B": "Ordenar ingreso hospitalario por emergencia",
+        "C": "Programar con equipo de salud una atención domiciliaria",
+        "D": "Brindar evaluación integral inmediata en establecimiento"
+      },
+      "correct": "C",
+      "temario": "En persona mayor con dependencia grave, la atención domiciliaria permite valorar situación funcional, soporte cuidador, riesgo de aspiración, úlceras por presión, hidratación, nutrición, medicamentos y metas de cuidado. Sin embargo, tos y nueva somnolencia constituyen signos de alarma: posibles neumonía, hipoxemia, deshidratación, sepsis o delirium. Requiere valoración clínica el mismo día o inmediata y referencia urgente si hay compromiso de conciencia, inestabilidad o insuficiencia respiratoria. Una programación domiciliaria rutinaria no debe retrasar la atención de urgencia.",
+      "fundamento": "Dentro del enfoque de cuidados del adulto mayor inmovilizado, C es la modalidad de atención más adecuada, pero la somnolencia nueva impone evaluación inmediata y posible traslado urgente.",
+      "analisis": {
+        "A": "Puede ser necesario si hay signos graves o capacidad insuficiente.",
+        "B": "No es obligatoria en todo caso sin evaluación inicial, pero puede requerirse.",
+        "C": "Es el dispositivo apropiado para dependencia severa, siempre con prioridad urgente por el cambio agudo.",
+        "D": "La movilización a establecimiento puede ser difícil e insegura sin valoración."
+      },
+      "alerta": "No interpretar C como visita diferible: somnolencia aguda puede ser emergencia.",
+      "perlas": [
+        "Atención domiciliaria ≠ atención no urgente.",
+        "Cambio agudo de conciencia en anciano: pensar en delirium y causas reversibles."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Mayor postrado requiere evaluación de piel y capacitación a cuidador.",
+          "clave": "Atención domiciliaria interdisciplinaria."
+        },
+        {
+          "caso": "Anciano con tos, SpO2 86% y somnolencia.",
+          "clave": "Estabilización y referencia urgente."
+        },
+        {
+          "caso": "Paciente con demencia presenta deterioro agudo del comportamiento.",
+          "clave": "Descartar delirium por enfermedad intercurrente."
+        }
+      ]
+    }
+  ]
+}
