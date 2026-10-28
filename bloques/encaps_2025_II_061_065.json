@@ -1,0 +1,200 @@
+{
+  "bankId": "ENCAPS_2025_II",
+  "source": "PDF aportado por el usuario: SERUMS MINSA Medicina I 24 agosto 2025, preguntas 61–65",
+  "range": "061-065",
+  "status": "desarrollo_razonado_pendiente_cotejo_claves_oficiales_e_integracion_en_banco",
+  "questions": [
+    {
+      "number": 61,
+      "topic": "Precauciones estándar y equipos de protección personal ante infección respiratoria",
+      "question": "Paciente de 30 años con fiebre, escalofríos, secreción nasal abundante y tos de cuatro días; varios casos similares y sospecha de neumonía en comunidad. ¿Qué medidas de protección implementar para trabajadores?",
+      "options": {
+        "A": "Llamar a la DIRIS",
+        "B": "Aislamiento de cohorte de personas de la comunidad y llamar a DIRIS",
+        "C": "Evitar exposición de personas susceptibles y usar batas de protección",
+        "D": "Uso de EPP"
+      },
+      "correct": "D",
+      "temario": "La prevención de infecciones respiratorias combina precauciones estándar con precauciones basadas en mecanismo de transmisión. Higiene de manos, etiqueta respiratoria, mascarilla y protección ocular según riesgo de salpicaduras o aerosoles, guantes/bata cuando exista contacto con secreciones y ventilación adecuada. Ante sospecha de patógeno de transmisión aérea, aplicar respirador apropiado y medidas de aislamiento; el EPP depende del agente sospechado y del procedimiento, no existe una combinación universal. Además realizar triaje de sintomáticos, notificar eventos inusuales según vigilancia y disponer evaluación clínica.",
+      "fundamento": "El enunciado pregunta directamente por protección del personal, por lo que la opción más general y directa es uso adecuado de EPP; las medidas adicionales se individualizan.",
+      "analisis": {
+        "A": "La comunicación institucional no sustituye protección física del trabajador.",
+        "B": "El aislamiento de cohorte requiere criterio epidemiológico y no es EPP del personal.",
+        "C": "Reducir exposición es útil, pero usar solo bata es insuficiente.",
+        "D": "La protección personal apropiada al riesgo es la respuesta entre opciones."
+      },
+      "perlas": [
+        "EPP complementa y no reemplaza higiene de manos ni ventilación.",
+        "Elegir protección de acuerdo con vía de transmisión y procedimiento."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Se atiende tos febril con sospecha de infección respiratoria transmisible.",
+          "clave": "Triaje, mascarilla y EPP según transmisión."
+        },
+        {
+          "caso": "Procedimiento generador de aerosoles en infección aérea sospechada.",
+          "clave": "Respirador de protección respiratoria, protección ocular y otras barreras correspondientes."
+        },
+        {
+          "caso": "Trabajador retira guantes después del contacto con secreciones.",
+          "clave": "Higiene de manos inmediata."
+        }
+      ]
+    },
+    {
+      "number": 62,
+      "topic": "Sala de situación en desastres y decisiones sanitarias",
+      "question": "Tras un terremoto se requiere establecer una sala de situación de desastres. ¿Cuál es su finalidad más importante?",
+      "options": {
+        "A": "Conformar equipos técnicos en desastres",
+        "B": "Informar sobre la nueva situación de salud",
+        "C": "Permitir la toma de decisiones en desastres",
+        "D": "Actualizar la información oficial sobre los daños"
+      },
+      "correct": "C",
+      "temario": "Una sala de situación integra daños y necesidades, morbilidad, mortalidad, riesgos ambientales, capacidad de establecimientos, recursos y vulnerabilidad territorial. Facilita priorizar áreas, decidir asignación de equipos, agua segura, medicamentos, evacuaciones y vigilancia de brotes. La información debe actualizarse continuamente y comunicarse a responsables para traducirse en medidas concretas. No confundir sala de situación con un comité operativo ni con un simple boletín.",
+      "fundamento": "El propósito superior del análisis integrado es sustentar decisiones oportunas durante respuesta y recuperación.",
+      "analisis": {
+        "A": "La conformación de equipos es un medio organizativo.",
+        "B": "Informar es función necesaria pero instrumental.",
+        "C": "Es finalidad principal de la sala.",
+        "D": "Actualizar daños es actividad de alimentación del sistema."
+      },
+      "perlas": [
+        "Sala = información analizada para decisiones, no solo panel de datos.",
+        "Priorizar recursos según necesidad y riesgo."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Se cruzan daños de postas con población desplazada para definir brigadas.",
+          "clave": "Decisión apoyada por sala de situación."
+        },
+        {
+          "caso": "Se publica boletín sin decidir intervenciones.",
+          "clave": "Comunicación parcial, no se agota la finalidad."
+        },
+        {
+          "caso": "Aumentan diarreas tras inundación y se activa cloración.",
+          "clave": "Uso de vigilancia para respuesta sanitaria."
+        }
+      ]
+    },
+    {
+      "number": 63,
+      "topic": "Bioseguridad: concepto, objetivos y medidas",
+      "question": "Durante procedimiento a paciente con VIH, objetivo de evitar accidentes, proteger personal y paciente. ¿A qué definición corresponde?",
+      "options": {
+        "A": "Desinfección",
+        "B": "Bioseguridad",
+        "C": "Contaminación",
+        "D": "Medidas de bioseguridad"
+      },
+      "correct": "B",
+      "temario": "Bioseguridad es el conjunto de principios, normas y prácticas que previenen o minimizan riesgos biológicos, químicos y físicos en la atención. Incluye universalidad de precauciones, uso de barreras según exposición y eliminación segura de cortopunzantes. Las medidas de bioseguridad son acciones específicas (higiene de manos, EPP, manejo de residuos, inmunización del trabajador, prevención de pinchazos). El VIH no se transmite por contacto casual; se siguen precauciones estándar con todos los pacientes sin estigmatización. Tras exposición percutánea, lavado, reporte, evaluación urgente de riesgo y consideración de profilaxis pos exposición cuando corresponda.",
+      "fundamento": "La definición general de protección y prevención de accidentes corresponde a bioseguridad; la opción D refiere sus acciones concretas.",
+      "analisis": {
+        "A": "Desinfección reduce microorganismos en superficies/objetos, es una medida parcial.",
+        "B": "Concepto general de prevención de riesgos en atención.",
+        "C": "Es presencia no deseada de agentes, no prevención.",
+        "D": "Conjunto de procedimientos operativos dentro de bioseguridad; distractor cercano."
+      },
+      "perlas": [
+        "Precauciones estándar se aplican a todos los pacientes.",
+        "No recapsular agujas; eliminar en contenedores rígidos."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Personal coloca guantes y protección ocular para riesgo de salpicadura.",
+          "clave": "Medidas de bioseguridad."
+        },
+        {
+          "caso": "Se implementa programa de prevención de riesgos ocupacionales.",
+          "clave": "Bioseguridad institucional."
+        },
+        {
+          "caso": "Pinchazo con aguja usada en paciente con VIH.",
+          "clave": "Primeros auxilios, reporte y evaluación urgente de PEP."
+        }
+      ]
+    },
+    {
+      "number": 64,
+      "topic": "Atención humanizada e integral de la persona enferma",
+      "question": "«El paciente es algo más que órganos y tejidos, es un ser humano, con ilusiones, aspiraciones, metas, obligaciones propias, familiares, laborales y sociales, que en ese momento se ven frustradas por la enfermedad». El trato debe ser con:",
+      "options": {
+        "A": "Ética médica",
+        "B": "Integridad",
+        "C": "Humanitarismo",
+        "D": "Respeto"
+      },
+      "correct": "C",
+      "temario": "La atención humanizada reconoce dignidad, necesidades emocionales, proyectos vitales, relaciones, espiritualidad y condiciones sociales de cada paciente, además de su enfermedad biológica. Incluye comunicación empática, respeto de autonomía, privacidad, alivio del sufrimiento y decisiones compartidas. Humanitarismo es el enfoque de trato que considera integralmente a la persona; respeto es una conducta fundamental dentro de esa atención. En el primer nivel, conocer redes familiares y barreras de acceso favorece adherencia y continuidad.",
+      "fundamento": "La formulación enfatiza condición humana global y sufrimiento más allá de órganos, por lo que humanitarismo es la opción razonada más cercana; sin clave oficial permanece provisional.",
+      "analisis": {
+        "A": "Principios generales de correcto actuar profesional; más amplio.",
+        "B": "Integridad puede referirse a coherencia ética o totalidad personal, pero no nombra de forma precisa el tipo de trato.",
+        "C": "Reconoce paciente como persona con dimensiones biográficas y sociales.",
+        "D": "Respeto es indispensable y plausible, pero expresa aspecto particular del trato humanizado."
+      },
+      "alerta": "Ítem conceptual ambiguo entre humanitarismo y respeto; cotejar terminología del material oficial.",
+      "perlas": [
+        "Atención centrada en persona no se limita al diagnóstico orgánico.",
+        "Humanización requiere dignidad, escucha y continuidad."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Médico pregunta cómo una enfermedad impacta trabajo y familia.",
+          "clave": "Enfoque humanizado e integral."
+        },
+        {
+          "caso": "Paciente decide rechazar intervención tras comprender riesgos.",
+          "clave": "Respeto a la autonomía."
+        },
+        {
+          "caso": "Equipo protege datos clínicos al conversar en público.",
+          "clave": "Respeto a la dignidad y confidencialidad."
+        }
+      ]
+    },
+    {
+      "number": 65,
+      "topic": "Enfermedades raras y huérfanas: evaluación de tecnologías y umbral MAC",
+      "question": "Paciente adulto con enfermedad rara o huérfana. ¿En qué caso la IPRESS requiere opinión de la Comisión Consultiva Institucional (CCI)?",
+      "options": {
+        "A": "El paciente presenta criterios dudosos de ERH",
+        "B": "La ERH acaba de ser diagnosticada",
+        "C": "La ERH requiere un producto farmacéutico por más de un año",
+        "D": "El costo anual de tratamiento de la ERH no tiene umbral MAC calculado"
+      },
+      "correct": "D",
+      "temario": "El financiamiento de prestaciones y productos para enfermedades raras o huérfanas se vincula con evaluación clínica, evidencia disponible, costo y reglas de autorización/financiamiento. El umbral de alto costo (MAC, según terminología institucional) sirve en procedimientos para determinar rutas de evaluación de tratamientos de alto costo. Cuando no existe umbral calculado, puede requerirse opinión de comisión consultiva conforme a la disposición aplicable, pero la regla exacta depende de normativa y entidad. La mera novedad diagnóstica o duración de más de un año no equivale a requisito automático de opinión. Verificar diagnóstico, elegibilidad, justificación clínica y trámite vigente.",
+      "fundamento": "Entre las alternativas, D identifica una condición técnico-financiera particular que podría activar intervención de la CCI; falta confirmar disposición concreta y su alcance.",
+      "analisis": {
+        "A": "Dudas diagnósticas requieren evaluación clínica, no necesariamente CCI de financiamiento.",
+        "B": "Diagnóstico nuevo no determina por sí mismo evaluación de comisión.",
+        "C": "Duración prolongada aislada no necesariamente activa comisión.",
+        "D": "Ausencia de umbral MAC es supuesto normativo específico propuesto; clave razonada provisional."
+      },
+      "alerta": "Clave regulatoria provisional; verificar en norma de enfermedades raras/huérfanas y financiamiento aplicable a 2025 antes de usar como clave definitiva.",
+      "perlas": [
+        "No confundir evaluación diagnóstica con autorización financiera.",
+        "Para ERH, documentar diagnóstico y justificación de tecnología solicitada."
+      ],
+      "refuerzo": [
+        {
+          "caso": "ERH confirmada necesita terapia excepcional de alto costo.",
+          "clave": "Revisar vía de evaluación y autorización vigente."
+        },
+        {
+          "caso": "Sospecha de ERH sin confirmación molecular/clínica.",
+          "clave": "Completar estudio especializado antes de definir prestaciones específicas."
+        },
+        {
+          "caso": "No existe umbral MAC para medicamento de ERH solicitado.",
+          "clave": "Verificar si norma exige opinión de CCI."
+        }
+      ]
+    }
+  ]
+}
