@@ -1,0 +1,200 @@
+{
+  "bankId": "ENCAPS_2025_II",
+  "source": "PDF del usuario: evaluación SERUMS MINSA Medicina I, 24-08-2025, preguntas 11-15",
+  "status": "desarrollo_razonado_pendiente_cotejo_claves_oficiales_e_integracion_en_banco",
+  "range": "011-015",
+  "questions": [
+    {
+      "number": 11,
+      "topic": "Determinantes de la salud: estilos de vida",
+      "question": "En su comunidad de Huancavelica tiene un paciente masculino de 45 años sedentario, obeso, con malos hábitos dietéticos, consumidor frecuente de alcohol que lo lleva a la violencia familiar. ¿Qué determinante de salud evaluado es el más importante?",
+      "options": {
+        "A": "Estilos de vida",
+        "B": "Sistema sanitario",
+        "C": "Medio ambiente",
+        "D": "Biología humana"
+      },
+      "correct": "A",
+      "temario": "Modelo de Lalonde: biología humana, ambiente, estilos de vida y organización de servicios sanitarios. El sedentarismo, alimentación no saludable y consumo nocivo de alcohol son conductas modificables. La violencia familiar requiere intervención integral y evaluación de seguridad, no solo consejería individual. Determinantes sociales estructurales (pobreza, educación) condicionan también estas conductas.",
+      "fundamento": "El enunciado enfatiza comportamientos modificables, por ello estilos de vida es el determinante más directo.",
+      "analisis": {
+        "A": "Abarca sedentarismo, hábitos alimentarios y consumo de alcohol.",
+        "B": "Se refiere a acceso, organización y calidad de la atención.",
+        "C": "Incluye exposiciones físicas y sociales del entorno, no es el foco principal.",
+        "D": "Comprende herencia, edad y otras características biológicas."
+      },
+      "perlas": [
+        "Identifica conducta individual sin ignorar contexto social.",
+        "En violencia familiar, prioriza seguridad, detección y ruta de atención."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Trabajador con tabaquismo e inactividad física.",
+          "clave": "Estilos de vida."
+        },
+        {
+          "caso": "Comunidad sin agua potable.",
+          "clave": "Ambiente y determinantes intermedios."
+        },
+        {
+          "caso": "Paciente sin acceso oportuno a consulta.",
+          "clave": "Sistema sanitario."
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "topic": "Tamizaje de cáncer colorrectal con antecedente familiar",
+      "question": "Durante una campaña de prevención del cáncer se identifica adulto de 40 años asintomático, con padre con cáncer colorrectal. ¿Cuál es la recomendación más adecuada?",
+      "options": {
+        "A": "Colonoscopía a partir de los 60 años",
+        "B": "Colonoscopía cada 5 años",
+        "C": "Prueba de sangre oculta en heces cada 5 años",
+        "D": "Observación clínica para decidir colonoscopía"
+      },
+      "correct": "B",
+      "temario": "Antecedente de familiar de primer grado con cáncer colorrectal aumenta riesgo individual. En múltiples guías, si se diagnosticó al familiar antes de 60 años o hay dos familiares de primer grado, iniciar colonoscopia a los 40 años o 10 años antes del diagnóstico más precoz (lo que ocurra primero), y repetir habitualmente cada 5 años si es normal. Si un solo familiar de primer grado fue diagnosticado a edad avanzada, el intervalo puede variar según guía y riesgo. El examen omite edad de diagnóstico paterno, por tanto B es la mejor entre las opciones pero no una regla universal.",
+      "fundamento": "El antecedente familiar justifica tamizaje más temprano; la opción B es la que propone colonoscopia y vigilancia intensificada, pero requiere precisar la edad paterna.",
+      "analisis": {
+        "A": "Retrasar hasta los 60 años puede perder prevención en persona de mayor riesgo.",
+        "B": "Pauta compatible con riesgo familiar elevado, condicionada a detalles de edad y número de familiares.",
+        "C": "El intervalo propuesto para sangre oculta no es adecuado.",
+        "D": "La falta de síntomas no excluye lesiones premalignas."
+      },
+      "perlas": [
+        "El pólipo adenomatoso puede progresar a carcinoma durante años: la colonoscopia detecta y permite resección.",
+        "Preguntar edad del diagnóstico familiar y síndromes hereditarios (Lynch, poliposis)."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Padre con cáncer colorrectal a los 48 años; hijo de 38.",
+          "clave": "Comenzar tamizaje ya: 10 años antes (38), según evaluación y guía."
+        },
+        {
+          "caso": "Dos familiares de primer grado con cáncer colorrectal.",
+          "clave": "Riesgo familiar elevado; colonoscopia periódica."
+        },
+        {
+          "caso": "Paciente asintomático sin antecedentes ni riesgos especiales.",
+          "clave": "Tamizaje poblacional según edad y guía vigente."
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "topic": "Categorización de establecimientos de salud",
+      "question": "Los niveles de categorización de los establecimientos de salud los asigna…",
+      "options": {
+        "A": "La Dirección de Servicios de Salud",
+        "B": "La Dirección de Gestión de Establecimientos",
+        "C": "El Comité Técnico de Categorización",
+        "D": "El Comité de Médicos Auditores"
+      },
+      "correct": "C",
+      "temario": "La categorización determina el nivel de complejidad y las prestaciones que puede ofertar una IPRESS: categorías I-1, I-2, I-3, I-4 y niveles superiores. Se evalúan UPSS, recursos humanos, infraestructura, equipamiento y organización conforme a la norma técnica aplicable. El comité técnico realiza la evaluación y emite el informe de categorización; la formalización/acto administrativo depende de la autoridad sanitaria competente, lo que obliga a distinguir 'evaluar y proponer' de 'asignar oficialmente'.",
+      "fundamento": "Entre las opciones, el Comité Técnico de Categorización es el órgano técnico específicamente asociado al procedimiento, pero la pregunta puede confundir evaluación con formalización administrativa; verificar normativa y clave oficial antes de fijarla.",
+      "analisis": {
+        "A": "No es la denominación específica del equipo evaluador en el ítem.",
+        "B": "Denominación administrativa no necesariamente responsable del dictamen técnico.",
+        "C": "Órgano técnico directamente asociado a categorización; respuesta razonada provisional.",
+        "D": "Auditoría médica evalúa calidad, no determina por sí misma la categoría."
+      },
+      "alerta": "Respuesta normativa provisional: contrastar con la norma técnica y resolución vigente en la jurisdicción.",
+      "perlas": [
+        "Categoría no equivale a acreditación.",
+        "La UPSS y capacidad resolutiva orientan la categoría."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Posta sin médico, prestaciones mínimas.",
+          "clave": "Evaluar correspondencia con I-1 según norma."
+        },
+        {
+          "caso": "Centro con médico y servicios complementarios.",
+          "clave": "Examinar UPSS y requisitos para categoría."
+        },
+        {
+          "caso": "Auditoría verifica historias clínicas.",
+          "clave": "No confundir auditoría con categorización."
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "topic": "Síndrome anémico y dolor abdominal en niño",
+      "question": "Niño de 4 años de Ucayali con palidez de mucosas, astenia marcada y abdomen globuloso doloroso a la palpación. ¿Cuál es la conducta a seguir?",
+      "options": {
+        "A": "Referir al establecimiento con capacidad resolutiva correspondiente para tratamiento médico",
+        "B": "Dosaje de hemoglobina o hematocrito sin examen seriado de heces para descartar anemia",
+        "C": "Valoración por pediatría",
+        "D": "Medicar con antiparasitarios y sales de hierro polimaltosado"
+      },
+      "correct": "A",
+      "temario": "Palidez y astenia orientan a anemia; distensión y dolor abdominal sugieren etiologías gastrointestinales, parasitosis, infección, obstrucción u otras patologías. Priorizar signos vitales, hidratación, estado neurológico, gravedad del dolor y signos peritoneales; dosar Hb, valorar riesgo y referir si hay sospecha de anemia grave, abdomen agudo o falta de capacidad resolutiva. El examen coproparasitológico puede ser útil según contexto, pero no debe retrasar atención urgente. Evitar tratamiento empírico simultáneo sin evaluación de gravedad.",
+      "fundamento": "A es la mejor alternativa entre las ofrecidas por la astenia marcada más abdomen doloroso y necesidad de evaluación integral; la decisión de referencia real requiere signos de gravedad y capacidad local, datos no suministrados.",
+      "analisis": {
+        "A": "Permite valoración y tratamiento con capacidad resolutiva apropiada ante potencial gravedad.",
+        "B": "Evaluación incompleta: el hemograma no aborda todo el cuadro abdominal.",
+        "C": "Interconsulta inespecífica que no garantiza oportunidad ni capacidad.",
+        "D": "Asume parasitosis y ferropenia sin confirmación ni descartar abdomen agudo."
+      },
+      "alerta": "El enunciado no aporta Hb ni estabilidad hemodinámica: el grado de urgencia no puede determinarse con certeza.",
+      "perlas": [
+        "Palidez + fatiga → investigar anemia; dolor abdominal obliga diagnóstico diferencial.",
+        "La referencia depende de estabilidad y capacidad resolutiva."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Niño pálido con taquicardia e hipotensión.",
+          "clave": "Estabilización inicial y referencia urgente."
+        },
+        {
+          "caso": "Niño con dolor, defensa y rebote.",
+          "clave": "Sospechar abdomen agudo; derivar."
+        },
+        {
+          "caso": "Anemia leve estable con ferritina baja.",
+          "clave": "Tratar ferropenia y reevaluar en primer nivel según protocolo."
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "topic": "Signos de alarma hematológicos: sospecha de leucemia aguda",
+      "question": "Niño de 8 años con fiebre persistente de varios días, decaimiento, palidez marcada, equimosis y petequias. ¿Conducta más adecuada?",
+      "options": {
+        "A": "Administrar sintomáticos y reevaluar en una semana",
+        "B": "Administrar suplementos de hierro y ácido fólico",
+        "C": "Monitorear evolución clínica para definir conducta",
+        "D": "Referir de inmediato a un establecimiento especializado"
+      },
+      "correct": "D",
+      "temario": "La combinación de fiebre prolongada, palidez y sangrado cutáneo sugiere afectación de varias series hematológicas (anemia, neutropenia/infección y trombocitopenia), compatible con leucemia aguda o insuficiencia medular; también considerar sepsis y otras causas graves. La proliferación de blastos puede desplazar hematopoyesis normal. Evaluación urgente: ABC, signos de sepsis/sangrado, hemograma con diferencial, frotis periférico y plaquetas, sin retrasar referencia. Evitar antiinflamatorios que aumenten riesgo hemorrágico y procedimientos innecesarios.",
+      "fundamento": "Hay signos de alarma sistémicos y hematológicos que requieren evaluación hospitalaria inmediata; no corresponde observar una semana ni tratar empíricamente como ferropenia.",
+      "analisis": {
+        "A": "Retrasa diagnóstico y tratamiento de enfermedad potencialmente grave.",
+        "B": "No explica fiebre persistente, petequias ni equimosis.",
+        "C": "La vigilancia sin derivación es insuficiente ante signos de alarma.",
+        "D": "Permite estudios hematológicos y manejo especializado urgente."
+      },
+      "perlas": [
+        "Palidez + fiebre + petequias: sospechar fallo medular/leucemia.",
+        "Confirmación con estudios hematológicos, no solo signos clínicos."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Escolar con dolor óseo, fiebre, palidez y trombocitopenia.",
+          "clave": "Sospecha de leucemia aguda."
+        },
+        {
+          "caso": "Niño con petequias y sangrado mucoso.",
+          "clave": "Valorar plaquetas y estabilidad de inmediato."
+        },
+        {
+          "caso": "Fiebre con neutropenia documentada.",
+          "clave": "Urgencia infecciosa; manejo hospitalario."
+        }
+      ]
+    }
+  ]
+}
