@@ -1,0 +1,206 @@
+{
+  "bankId": "ENCAPS_2025_II",
+  "source": "PDF adjunto: SERUMS MINSA Medicina I, 24 agosto 2025, preguntas 41-45",
+  "range": "041-045",
+  "status": "desarrollo_razonado_pendiente_cotejo_claves_oficiales_e_integracion_en_banco",
+  "questions": [
+    {
+      "number": 41,
+      "topic": "Vigilancia del loxoscelismo: notificación epidemiológica",
+      "question": "Como encargado de vigilancia epidemiológica, según directiva sanitaria de zoonosis, animales ponzoñosos y epizootias, ¿qué periodicidad tiene la notificación de un caso probable de loxoscelismo?",
+      "options": {
+        "A": "7 días",
+        "B": "De inmediato",
+        "C": "5 días",
+        "D": "10 días"
+      },
+      "correct": "A",
+      "temario": "El loxoscelismo es envenenamiento por arañas Loxosceles. Puede tener forma cutánea necrosante y forma sistémica con hemólisis, compromiso renal y alteraciones de coagulación. El CDC Perú describe vigilancia universal, pasiva y notificación obligatoria semanal. En el examen la opción '7 días' corresponde a periodicidad semanal, no a esperar siete días antes de atender o reportar circunstancias extraordinarias. Investigar lesión, evolución temporal, signos sistémicos, hemoglobinuria, función renal y necesidad de referencia.",
+      "fundamento": "La periodicidad de notificación rutinaria del caso probable es semanal, expresada como 7 días entre las alternativas.",
+      "analisis": {
+        "A": "Equivale a notificación semanal.",
+        "B": "No es periodicidad rutinaria señalada para loxoscelismo; eventos inusuales pueden activar alertas adicionales.",
+        "C": "No corresponde al calendario semanal.",
+        "D": "No corresponde al calendario semanal."
+      },
+      "perlas": [
+        "Loxoscelismo cutáneo: placa livedoide y necrosis posible.",
+        "Loxoscelismo sistémico: hemólisis e insuficiencia renal, atención urgente."
+      ],
+      "fuentes_externas": [
+        "https://www.dge.gob.pe/portalnuevo/vigilancia-epidemiologica/vigilancia-de-zoonosis-utvz/"
+      ],
+      "refuerzo": [
+        {
+          "caso": "Caso probable de loxoscelismo sin brote.",
+          "clave": "Notificación obligatoria semanal."
+        },
+        {
+          "caso": "Tras mordedura aparece ictericia y orina oscura.",
+          "clave": "Sospechar loxoscelismo sistémico y referir urgentemente."
+        },
+        {
+          "caso": "Lesión necrosante tras posible picadura de araña.",
+          "clave": "Evaluación clínica, diferenciales y vigilancia."
+        }
+      ]
+    },
+    {
+      "number": 42,
+      "topic": "Categorización de EESS: UPSS consulta externa y patología clínica",
+      "question": "En establecimiento asignado se brindan solamente UPSS consulta externa por profesional médico y UPSS patología clínica. ¿Qué categoría corresponde?",
+      "options": {
+        "A": "II-2",
+        "B": "I-3",
+        "C": "II-1",
+        "D": "I-2"
+      },
+      "correct": "B",
+      "temario": "En esquema de categorización MINSA, I-2 cuenta con consulta externa a cargo de médico y prestaciones complementarias; I-3 incorpora consulta externa y patología clínica dentro de mayor capacidad resolutiva, con requisitos adicionales de personal, servicios y equipamiento. Los establecimientos II-1 y II-2 son hospitalarios y requieren diversas UPSS adicionales. La sola enumeración de dos UPSS orienta la opción I-3, pero formalmente una categoría requiere evaluación de todos los requisitos de la norma aplicable.",
+      "fundamento": "La presencia de consulta externa médica y patología clínica indica I-3 entre las alternativas, aunque debe confirmarse cumplimiento integral.",
+      "analisis": {
+        "A": "II-2 supone hospitalización, emergencia y otras UPSS de mayor nivel.",
+        "B": "Es la categoría que incluye ambas UPSS en el primer nivel según esquema examinado.",
+        "C": "II-1 es hospitalario y tiene mayores exigencias.",
+        "D": "I-2 se diferencia por menor complejidad y no requiere UPSS de patología clínica en esquema típico."
+      },
+      "perlas": [
+        "I-2: consulta externa médica.",
+        "I-3: consulta externa + patología clínica en descripción clásica."
+      ],
+      "fuentes_externas": [
+        "https://www.mef.gob.pe/contenidos/inv_publica/docs/novedades/Comunicado/Salud_Basica.pdf",
+        "https://www.mef.gob.pe/contenidos/inv_publica/docs/normas/normasv/snip/2015/Documentos_MINSA/21A_RM_N_076_2014_MINSA_Guia_Tecnica_para_la_Categorizacion_de_EESS.pdf"
+      ],
+      "refuerzo": [
+        {
+          "caso": "Puesto con consulta externa médica sin laboratorio UPSS.",
+          "clave": "Orientar evaluación para I-2."
+        },
+        {
+          "caso": "Establecimiento con consulta externa y laboratorio clínico organizado.",
+          "clave": "Evaluar categoría I-3 y todos los requisitos."
+        },
+        {
+          "caso": "Hospital con emergencia, hospitalización y cirugía.",
+          "clave": "Segundo nivel; no confundir con I-3."
+        }
+      ]
+    },
+    {
+      "number": 43,
+      "topic": "Tamizaje neonatal de fenilcetonuria: prevención secundaria",
+      "question": "Recién nacido de cinco días recibe indicación de prueba de fenilcetonuria para diagnosticar enfermedades congénitas dentro del MCI. ¿Qué principio básico se realiza?",
+      "options": {
+        "A": "Promoción",
+        "B": "Prevención",
+        "C": "Eficiencia",
+        "D": "Equidad"
+      },
+      "correct": "B",
+      "temario": "El tamizaje neonatal detecta enfermedades antes de que provoquen manifestaciones irreversibles. Fenilcetonuria se origina por alteración de metabolismo de fenilalanina (deficiencia de fenilalanina hidroxilasa u otras alteraciones relacionadas): sin diagnóstico y dieta oportunos puede causar neurotoxicidad y discapacidad intelectual. Detección presintomática es prevención secundaria; la intervención dietética temprana evita secuelas. El programa de tamizaje debe seguir los tiempos y procedimientos normativos, manejo de muestras y confirmación de resultados positivos.",
+      "fundamento": "La pesquisa de una enfermedad en etapa asintomática corresponde a prevención secundaria.",
+      "analisis": {
+        "A": "Promoción crea condiciones y capacidades saludables; no describe directamente el tamizaje.",
+        "B": "Prevención secundaria mediante detección precoz.",
+        "C": "Eficiencia es relación entre resultados y recursos.",
+        "D": "Equidad es acceso justo, no el tipo de intervención descrito."
+      },
+      "perlas": [
+        "Tamizaje no es diagnóstico definitivo: resultado alterado requiere confirmación.",
+        "PKU sin tratamiento: fenilalanina alta, neurotoxicidad."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Prueba neonatal detecta TSH elevada antes de síntomas.",
+          "clave": "Prevención secundaria de hipotiroidismo congénito."
+        },
+        {
+          "caso": "Consejería de alimentación y lactancia materna.",
+          "clave": "Promoción y prevención primaria."
+        },
+        {
+          "caso": "Diagnóstico temprano de fenilcetonuria y dieta indicada.",
+          "clave": "Evitar daño neurológico irreversible."
+        }
+      ]
+    },
+    {
+      "number": 44,
+      "topic": "Parto culturalmente pertinente y decisiones informadas",
+      "question": "Gestante andina de 38,5 semanas en trabajo de parto solicita música durante su parto. ¿Qué debe hacer el médico?",
+      "options": {
+        "A": "No estar de acuerdo",
+        "B": "Respetar su decisión",
+        "C": "Ignorar su petición",
+        "D": "Tratar de convencerla para no cumplir la petición"
+      },
+      "correct": "B",
+      "temario": "La atención del parto con pertinencia cultural respeta idioma, posiciones, acompañamiento, música, preferencias y prácticas no riesgosas, además del consentimiento informado y privacidad. El equipo mantiene monitorización maternofetal y atención segura; si una petición compromete atención urgente se explica razón y se busca alternativa dialogada. Escuchar la preferencia fortalece confianza y continuidad asistencial, sin sustituir estándares obstétricos.",
+      "fundamento": "Solicitar música es una preferencia cultural que generalmente puede respetarse sin comprometer seguridad.",
+      "analisis": {
+        "A": "Negar sin fundamento desconoce preferencias de la gestante.",
+        "B": "Respuesta que respeta autonomía y pertinencia cultural.",
+        "C": "Ignorar viola trato respetuoso.",
+        "D": "Persuadir sin razón clínica introduce imposición cultural."
+      },
+      "perlas": [
+        "Parto humanizado = respeto + seguridad clínica.",
+        "Preferencias compatibles con seguridad deben acomodarse."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Gestante solicita música y acompañante de confianza.",
+          "clave": "Considerar y facilitar preferencias seguras."
+        },
+        {
+          "caso": "Mujer solicita posición vertical con condiciones obstétricas favorables.",
+          "clave": "Ofrecer atención vertical con equipo capacitado."
+        },
+        {
+          "caso": "Preferencia interfiere con reanimación materna urgente.",
+          "clave": "Explicar y priorizar medidas vitales indispensables."
+        }
+      ]
+    },
+    {
+      "number": 45,
+      "topic": "Ética, empatía y relación médico-paciente",
+      "question": "Médico evalúa adecuadamente a paciente, conoce y explica diagnósticos al paciente y familiares, mostrando disposición de servicio y buena voluntad. Esto se llama:",
+      "options": {
+        "A": "Ética médica",
+        "B": "Moral",
+        "C": "Empatía",
+        "D": "Deontología"
+      },
+      "correct": "C",
+      "temario": "La empatía clínica implica comprender perspectiva, emociones y preocupaciones del paciente y comunicar esa comprensión con escucha activa y respuesta respetuosa. Ética médica estudia y aplica principios del buen actuar; deontología refiere deberes y obligaciones profesionales; moral incluye normas y valores. La descripción de disposición y explicación puede sugerir trato empático, aunque no menciona explícitamente reconocimiento de sentimientos. En práctica clínica, comunicar diagnóstico exige verificar comprensión, privacidad, consentimiento y aclarar a quién puede compartirse la información.",
+      "fundamento": "Entre alternativas, empatía es el concepto interpersonal más cercano a buena disposición hacia el paciente, aunque el enunciado es ambiguo y su descripción podría aludir a ética médica.",
+      "analisis": {
+        "A": "Concepto general de conducta profesional; plausible pero menos específico del trato descrito.",
+        "B": "Conjunto de valores y normas, no una habilidad de comunicación individual.",
+        "C": "Respuesta razonada por relación interpersonal y actitud de comprensión.",
+        "D": "Conjunto de deberes profesionales y códigos normativos."
+      },
+      "alerta": "Clave provisional: falta tabla oficial y enunciado no describe explícitamente ponerse en lugar del paciente; verificar antes de fijar la letra definitiva.",
+      "perlas": [
+        "Empatía = comprender perspectiva, no necesariamente sentir lo mismo.",
+        "No informar a familiares sin autorización del paciente competente."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Médico escucha temor y resume lo que siente paciente.",
+          "clave": "Empatía."
+        },
+        {
+          "caso": "Profesional preserva confidencialidad conforme a su código.",
+          "clave": "Deontología y ética profesional."
+        },
+        {
+          "caso": "Médico comunica diagnóstico grave y confirma comprensión.",
+          "clave": "Comunicación clínica centrada en el paciente."
+        }
+      ]
+    }
+  ]
+}
