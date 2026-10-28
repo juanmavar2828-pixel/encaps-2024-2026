@@ -1,0 +1,180 @@
+{
+  "bankId": "ENCAPS_2025_II",
+  "source": "SERUMS MINSA Medicina I, 24 de agosto de 2025, PDF aportado por el usuario (sin tabla de claves)",
+  "status": "desarrollo_razonado_pendiente_cotejo_claves_oficiales_e_integracion_en_banco",
+  "range": "006-010",
+  "questions": [
+    {
+      "number": 6,
+      "topic": "Ética pública y uso racional de bienes del Estado",
+      "question": "Todo servidor público debe ... y ... los bienes del Estado, debiendo utilizar los que le fueran asignados para el desempeño de sus funciones de manera racional, evitando su abuso, derroche o desaprovechamiento, sin emplear o permitir que otros empleen los bienes del Estado para fines particulares o propósitos que no sean aquellos para los cuales hubieran sido específicamente destinados.",
+      "options": {
+        "A": "ejecutar / depositar",
+        "B": "usar / cuidar",
+        "C": "atesorar / utilizar",
+        "D": "proteger / conservar"
+      },
+      "correct": "D",
+      "temario": "Ética de la función pública (Ley 27815): el deber de uso adecuado de bienes públicos exige conservarlos, destinarlos exclusivamente al servicio, impedir el uso particular y evitar derroche. Diferenciar uso adecuado, neutralidad, discreción y responsabilidad. La responsabilidad patrimonial y administrativa se evalúa según el hecho y norma aplicable.",
+      "fundamento": "La fórmula normativa relevante es «proteger y conservar los bienes del Estado»; por ello la opción D reproduce literalmente el deber regulado y desplaza a B como mejor respuesta.",
+      "analisis": {
+        "A": "No corresponde al deber normativo.",
+        "B": "Describe coloquialmente el deber, pero no reproduce la frase legal.",
+        "C": "Atesorar no es la finalidad del uso público.",
+        "D": "Reproduce los verbos de la Ley 27815; es la opción correcta."
+      },
+      "alerta": "Clave razonada corregida a D por literalidad normativa; no se aportó tabla oficial de claves.",
+      "refuerzo": [
+        {
+          "caso": "Trabajador utiliza la impresora institucional para un negocio personal.",
+          "clave": "Uso indebido del bien estatal."
+        },
+        {
+          "caso": "Director impide que retiren equipos institucionales para actividad privada.",
+          "clave": "Protección y conservación."
+        },
+        {
+          "caso": "Se desperdician insumos por almacenamiento negligente.",
+          "clave": "Deber de cuidado y uso racional."
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "topic": "Anemia ferropénica gestacional y riesgo neonatal",
+      "question": "Acude a atención prenatal gestante de 19 años con 34 semanas, mucosas y piel pálidas, Hb 9 g/dL, hierro sérico 30. ¿Qué tipo de anemia tendrá el recién nacido?",
+      "options": {
+        "A": "Megaloblástica",
+        "B": "Ferropénica",
+        "C": "Por déficit de ácido fólico",
+        "D": "Fisiológica"
+      },
+      "correct": "B",
+      "temario": "La anemia ferropénica de la gestante se relaciona con incremento de demanda de hierro por expansión eritrocitaria y transferencia fetoplacentaria. Hb de 9 g/dL indica anemia materna; confirmar ferropenia preferentemente con ferritina e interpretar según inflamación. Manejo prenatal con suplementación de hierro, evaluación de adherencia y causas de pérdida o malabsorción, y control de respuesta. La anemia neonatal requiere evaluación directa; la anemia fisiológica aparece semanas después del nacimiento por descenso de eritropoyetina y vida media eritrocitaria.",
+      "fundamento": "La alternativa B es la esperada por asociación entre déficit materno de hierro y disminución potencial de reservas del lactante, pero la anemia materna NO permite afirmar que el recién nacido ya tenga anemia ni su tipo. Esta imprecisión debe quedar explícita.",
+      "analisis": {
+        "A": "Requiere macrocitosis y deficiencia B12/folato, no sugeridas.",
+        "B": "Asociación más plausible con déficit de hierro materno, sin diagnóstico neonatal demostrado.",
+        "C": "No hay datos que establezcan déficit de folato.",
+        "D": "Proceso posnatal esperado, no inferible de Hb materna."
+      },
+      "alerta": "Ítem clínicamente mal formulado: no se puede diagnosticar anemia neonatal sin hemograma del RN.",
+      "refuerzo": [
+        {
+          "caso": "Gestante con Hb baja y ferritina muy baja.",
+          "clave": "Ferropenia materna documentada."
+        },
+        {
+          "caso": "Lactante sano de 8 semanas con descenso fisiológico de Hb.",
+          "clave": "Anemia fisiológica de la lactancia."
+        },
+        {
+          "caso": "Recién nacido de madre anémica, sin pruebas del niño.",
+          "clave": "No adjudicar tipo de anemia neonatal automáticamente."
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "topic": "Atención integral del adulto mayor, vacunación y multimorbilidad",
+      "question": "Mujer de 85 años hipertensa, antecedente de caída, reciente hospitalización por EPOC con insuficiencia respiratoria tipo 2, neumonía e ITU, ya clínicamente estable. ¿Cuál es la conducta inmediata en los cuidados del adulto mayor?",
+      "options": {
+        "A": "Solo valoración nutricional antropométrica",
+        "B": "Tamizaje de enfermedades no transmisibles",
+        "C": "Buenas prácticas de higiene y sanitaria",
+        "D": "Inmunizaciones para influenza y neumonía"
+      },
+      "correct": "D",
+      "temario": "En personas mayores, especialmente con EPOC y antecedente de neumonía, revisar vacunación contra influenza y neumococo, según esquema nacional, antecedente vacunal, contraindicaciones y disponibilidad. Atención integral incluye valoración funcional, cognitiva, caídas, nutrición, polifarmacia, continuidad asistencial y rehabilitación. La vacunación es prevención primaria de complicaciones y no reemplaza el manejo de enfermedades crónicas.",
+      "fundamento": "D es la mejor alternativa por alto riesgo de enfermedad respiratoria grave y oportunidad preventiva tras estabilidad clínica. No presupone dosis inmediata sin verificar antecedentes y calendario vigente.",
+      "analisis": {
+        "A": "La evaluación solo nutricional es insuficiente.",
+        "B": "El tamizaje aislado no responde al riesgo respiratorio prevenible prioritario.",
+        "C": "Higiene es importante, pero menos específica.",
+        "D": "Prioriza vacunas pertinentes para una persona mayor con EPOC."
+      },
+      "refuerzo": [
+        {
+          "caso": "Adulto de 78 años con EPOC sin vacuna anual.",
+          "clave": "Verificar y actualizar influenza."
+        },
+        {
+          "caso": "Persona mayor con neumonías repetidas.",
+          "clave": "Revisar protección antineumocócica."
+        },
+        {
+          "caso": "Paciente mayor con caídas tras alta.",
+          "clave": "Incorporar valoración funcional y prevención de caídas."
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "topic": "Gestión del riesgo de desastres: desastre y catástrofe",
+      "question": "¿Cómo se denomina a los eventos adversos severos que provocan alteraciones intensas en las personas, economía, sistemas sociales y medio ambiente, causadas por sucesos naturales o actividad humana, cuya respuesta exige ayuda externa?",
+      "options": {
+        "A": "Catástrofes",
+        "B": "Desastres",
+        "C": "Cataclismos",
+        "D": "Emergencias"
+      },
+      "correct": "B",
+      "temario": "Desastre es una alteración grave del funcionamiento de una comunidad o sociedad que produce pérdidas humanas, materiales, económicas o ambientales y supera o compromete su capacidad de respuesta con recursos propios. Emergencia puede ser afrontada con capacidades disponibles; catástrofe suele designar destrucción extrema, pero no es la categoría técnica general pedida. La gestión comprende estimación, prevención, reducción, preparación, respuesta, rehabilitación y reconstrucción.",
+      "fundamento": "La descripción general de impacto severo y necesidad de apoyo externo encaja con desastre.",
+      "analisis": {
+        "A": "Se usa para situaciones de magnitud extrema; no es el término técnico general.",
+        "B": "Es el concepto de gestión del riesgo que integra impacto y capacidad de respuesta.",
+        "C": "Término genérico asociado a fenómeno súbito natural.",
+        "D": "No necesariamente supera la capacidad local."
+      },
+      "refuerzo": [
+        {
+          "caso": "Inundación supera respuesta de un distrito y requiere ayuda regional.",
+          "clave": "Desastre."
+        },
+        {
+          "caso": "Incendio controlado por brigada local sin daño sistémico.",
+          "clave": "Emergencia."
+        },
+        {
+          "caso": "Centro de salud activa COE ante terremoto.",
+          "clave": "Respuesta y coordinación del desastre."
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "topic": "Gestión de medicamentos e insumos vencidos en establecimientos de salud",
+      "question": "Responsable de un establecimiento recibe relación y stock de insumos para atención de gestantes y detecta productos vencidos hace un mes que no pueden utilizarse. ¿Qué procedimiento corresponde?",
+      "options": {
+        "A": "Solicitar a farmacia la rotación a otro establecimiento",
+        "B": "Mantenerlo en stock hasta nuevo requerimiento",
+        "C": "Devolver a farmacias con informe",
+        "D": "Eliminar el producto"
+      },
+      "correct": "C",
+      "temario": "Los productos vencidos se identifican, segregan, registran y retiran de stock utilizable. Deben comunicarse y devolverse al área responsable de farmacia/almacén mediante documentación formal y seguir el procedimiento aprobado para baja y disposición final. La eliminación requiere mecanismos autorizados; no se realiza de manera informal por cualquier trabajador. Prevención: principio FEFO (primero en vencer, primero en salir), control de fechas y condiciones de almacenamiento.",
+      "fundamento": "C permite trazabilidad, comunicación al responsable y manejo institucional. Los vencidos no se redistribuyen para uso clínico ni permanecen disponibles.",
+      "analisis": {
+        "A": "La rotación de productos ya vencidos expone a pacientes y no es admisible.",
+        "B": "Mantenerlos disponibles favorece el error de dispensación.",
+        "C": "Retiro y devolución documentada es la acción administrativa inicial.",
+        "D": "La disposición final es posterior y requiere procedimiento autorizado."
+      },
+      "refuerzo": [
+        {
+          "caso": "Vacunas caducadas en cadena de frío.",
+          "clave": "Segregar, bloquear uso y reportar."
+        },
+        {
+          "caso": "Medicamentos próximos a vencer.",
+          "clave": "Rotación FEFO antes de caducidad, cuando sea viable."
+        },
+        {
+          "caso": "Insumo vencido identificado al realizar inventario.",
+          "clave": "Documentar y devolver según procedimiento institucional."
+        }
+      ]
+    }
+  ]
+}
