@@ -1,0 +1,199 @@
+{
+  "bankId": "ENCAPS_2025_II",
+  "source": "Archivo proporcionado: Evaluación SERUMS-MINSA Medicina I, 24 de agosto de 2025, preguntas 66–70",
+  "range": "066-070",
+  "status": "desarrollo_razonado_pendiente_cotejo_claves_oficiales_e_integracion_en_banco",
+  "questions": [
+    {
+      "number": 66,
+      "topic": "Leishmaniasis: investigación entomológica inicial",
+      "question": "Nos reportan un primer caso de leishmaniasis en una zona determinada de la sierra; sin reporte de presencia de Lutzomya. ¿Qué recomienda para control vectorial?",
+      "options": {
+        "A": "Si la investigación de foco es negativa, control en un mes",
+        "B": "Orientar acciones de control vectorial",
+        "C": "Identificar la presencia de vectores de leishmaniasis en los sitios probables de infección",
+        "D": "Uso de control químico"
+      },
+      "correct": "C",
+      "temario": "La leishmaniasis es producida por protozoarios Leishmania y transmitida en América por flebótomos, incluidos Lutzomyia sensu lato. Ante primer caso en territorio sin vector documentado, investigar lugar probable de infección y exposición, confirmar diagnóstico y estudiar presencia, especies y comportamiento del vector. La investigación entomológica orienta si y dónde intervenir; la ausencia de reportes previos no demuestra ausencia del vector. El control químico indiscriminado puede ser ineficiente sin conocer ecoepidemiología y transmisión.",
+      "fundamento": "La primera necesidad operativa es identificar si el vector existe en los sitios de exposición probables, antes de elegir control focal.",
+      "analisis": {
+        "A": "No define la investigación inicial y pospone sin fundamento.",
+        "B": "Enunciado genérico, no precisa la medida de identificación requerida.",
+        "C": "Relaciona investigación de foco, vector y zona probable de infección.",
+        "D": "Fumigar sin confirmar distribución vectorial puede no ser pertinente."
+      },
+      "perlas": [
+        "Primer caso en zona no documentada: investigar foco y vector.",
+        "Vector no reportado no significa vector ausente."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Caso cutáneo importado desde una zona endémica.",
+          "clave": "Investigar lugar real de infección antes de atribuir transmisión local."
+        },
+        {
+          "caso": "Se capturan flebótomos en viviendas cercanas a casos autóctonos.",
+          "clave": "Caracterizar especie, densidad y hábitat para dirigir control."
+        },
+        {
+          "caso": "No se detectan vectores en muestreo inicial.",
+          "clave": "Reevaluar oportunidad, métodos y antecedente de desplazamiento; no fumigar automáticamente."
+        }
+      ]
+    },
+    {
+      "number": 67,
+      "topic": "Principios éticos de auditoría: integridad, objetividad y confidencialidad",
+      "question": "Uno de los principios del equipo de auditores que se rigen para ejercer sus responsabilidades es:",
+      "options": {
+        "A": "Confidalidad",
+        "B": "Objetividad",
+        "C": "Veracidad",
+        "D": "Conducta ética"
+      },
+      "correct": null,
+      "temario": "En auditoría se exigen integridad/conducta ética, presentación imparcial, debido cuidado profesional, confidencialidad, independencia y enfoque basado en evidencia y riesgos, según el estándar aplicable. Objetividad es esencial para evaluar evidencia sin sesgos; confidencialidad protege datos sensibles; conducta ética orienta integridad y profesionalismo. En auditoría de calidad sanitaria peruana, las listas y denominaciones específicas deben cotejarse con la norma técnica invocada por el examen. Varias opciones representan principios reales, por lo que el reactivo es ambiguo sin delimitar fuente.",
+      "fundamento": "A, B y D son plausibles en estándares de auditoría. El PDF no identifica norma ni clave oficial; no se fija una letra inventada.",
+      "analisis": {
+        "A": "La confidencialidad es deber/principio importante; en el PDF aparece con error ortográfico.",
+        "B": "Objetividad sustenta evaluación imparcial de evidencias.",
+        "C": "Veracidad se relaciona con la honestidad en informes, aunque el nombre varía según norma.",
+        "D": "Conducta ética/integridad también es principio de auditoría."
+      },
+      "alerta": "Ítem con múltiples alternativas conceptualmente defendibles: requiere solucionario o norma literal.",
+      "perlas": [
+        "Auditoría = criterio explícito + evidencia verificable + informe imparcial.",
+        "Confidencialidad y objetividad son obligaciones simultáneas."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Auditor oculta hallazgo por amistad con responsable.",
+          "clave": "Vulnera objetividad e independencia."
+        },
+        {
+          "caso": "Se divulgan historias clínicas revisadas.",
+          "clave": "Vulnera confidencialidad."
+        },
+        {
+          "caso": "Informe cita evidencias que no se comprobaron.",
+          "clave": "Vulnera integridad y presentación veraz."
+        }
+      ]
+    },
+    {
+      "number": 68,
+      "topic": "AUDIT: interpretación de 30 puntos y consumo perjudicial/dependencia",
+      "question": "Joven de 17 años con sospecha de consumo de alcohol obtiene 30 puntos en el cuestionario AUDIT. ¿Cuál es la interpretación?",
+      "options": {
+        "A": "No problemas de consumo",
+        "B": "Bebedor de riesgo",
+        "C": "Probable dependencia alcohólica",
+        "D": "Bebedor social"
+      },
+      "correct": "C",
+      "temario": "AUDIT contiene 10 preguntas puntuadas de 0 a 4 (total 0–40); explora cantidad/frecuencia, síntomas de dependencia y consecuencias del consumo. En la interpretación habitual de adultos, 0–7 menor riesgo, 8–15 riesgo, 16–19 consumo perjudicial y ≥20 posible dependencia, que exige evaluación clínica. En adolescentes los puntos de corte de pesquisa y el abordaje deben adaptarse a edad y validación local; un puntaje 30 indica severidad muy elevada independientemente del matiz de umbral. El AUDIT es tamizaje, no diagnóstico definitivo; evaluar intoxicación, abstinencia, comorbilidad, seguridad y derivación.",
+      "fundamento": "30/40 está muy por encima del rango de posible dependencia: alternativa C.",
+      "analisis": {
+        "A": "Incompatible con 30 puntos.",
+        "B": "Subestima la severidad del resultado.",
+        "C": "Interpretación de tamizaje más adecuada; requiere confirmación clínica.",
+        "D": "Incompatible con puntaje de alto riesgo."
+      },
+      "perlas": [
+        "AUDIT 0–40; ≥20 sugiere dependencia en interpretación habitual adulta.",
+        "Nunca diagnosticar dependencia solo con escala: realizar evaluación clínica."
+      ],
+      "refuerzo": [
+        {
+          "caso": "AUDIT 10 en adulto.",
+          "clave": "Consumo de riesgo: intervención breve y reevaluación."
+        },
+        {
+          "caso": "AUDIT 18 en adulto.",
+          "clave": "Consumo perjudicial probable; evaluación ampliada."
+        },
+        {
+          "caso": "AUDIT 30 en adolescente.",
+          "clave": "Alto riesgo: valoración integral y ruta especializada según contexto."
+        }
+      ]
+    },
+    {
+      "number": 69,
+      "topic": "Diversidad étnica, educación en quechua y prevención de discriminación",
+      "question": "En establecimiento altoandino se ofrece charla educativa en quechua sobre diversidad étnica. Esta actividad se enmarca en:",
+      "options": {
+        "A": "Principio de justicia",
+        "B": "Prevención del estigma social",
+        "C": "Promoción de la equidad de género",
+        "D": "Prevención de la discriminación"
+      },
+      "correct": "D",
+      "temario": "Una actividad que reconoce diversidad étnica y usa lengua originaria intenta disminuir barreras comunicacionales y actitudes discriminatorias en salud. Discriminación es trato desfavorable por características protegidas —como origen étnico o lengua—; estigma es atribución social de marca negativa a grupo o condición. El enfoque intercultural incorpora respeto, accesibilidad lingüística, no discriminación y participación. Una charla no prueba por sí sola que desapareció discriminación; requiere cambios medibles en prácticas y trato.",
+      "fundamento": "El tema explícito es diversidad étnica y la acción usa lengua local: entre opciones, prevención de discriminación es la finalidad más directa.",
+      "analisis": {
+        "A": "Justicia sustenta trato equitativo, pero es categoría más amplia.",
+        "B": "El estigma puede intervenir, pero el caso enfatiza diversidad étnica y trato no discriminatorio.",
+        "C": "No hay contenido de relaciones de género.",
+        "D": "Promueve respeto entre grupos étnicos y eliminación de discriminación."
+      },
+      "perlas": [
+        "Estigma = marca social negativa; discriminación = acción/trato desigual.",
+        "Lengua originaria facilita derechos y atención culturalmente pertinente."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Se niega atención a paciente porque solo habla quechua.",
+          "clave": "Discriminación lingüística; barrera injustificada."
+        },
+        {
+          "caso": "Centro brinda materiales en quechua y español.",
+          "clave": "Acceso intercultural y prevención de discriminación."
+        },
+        {
+          "caso": "Campaña combate prejuicios contra población indígena.",
+          "clave": "Prevención del estigma y discriminación."
+        }
+      ]
+    },
+    {
+      "number": 70,
+      "topic": "Secreto profesional y confidencialidad clínica",
+      "question": "Guardar ...... inspira mayor confianza del paciente hacia el médico, generalmente protege intereses del enfermo y beneficia prestigio del médico.",
+      "options": {
+        "A": "el secreto profesional",
+        "B": "deberes y derechos",
+        "C": "consentimiento informado",
+        "D": "la ética médica"
+      },
+      "correct": "A",
+      "temario": "El secreto profesional obliga a proteger información de salud conocida en razón de la relación asistencial, incluidos diagnóstico, tratamiento y circunstancias personales. La confidencialidad construye confianza, evita daño social y favorece consulta oportuna. El acceso a datos debe restringirse a personas autorizadas y a finalidades legítimas; excepciones solo bajo base legal válida y con mínima divulgación necesaria. Consentimiento informado se relaciona con autonomía respecto a procedimientos y uso/divulgación de información según reglas aplicables; no sustituye secreto profesional.",
+      "fundamento": "La expresión que completa la frase es 'el secreto profesional'.",
+      "analisis": {
+        "A": "Es el deber específico de no revelar información sanitaria confidencial.",
+        "B": "Conjunto general de obligaciones y facultades.",
+        "C": "Proceso de autorización de decisiones informadas, diferente de guardar reserva.",
+        "D": "Marco general de conducta moral profesional."
+      },
+      "perlas": [
+        "La familia no obtiene automáticamente acceso a datos de paciente competente.",
+        "Las excepciones legales deben interpretarse restrictivamente y documentarse."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Cónyuge pide detalles de planificación familiar sin autorización de paciente.",
+          "clave": "Preservar secreto profesional."
+        },
+        {
+          "caso": "Profesional comparte historia clínica en red social.",
+          "clave": "Violación de confidencialidad."
+        },
+        {
+          "caso": "Paciente permite informar diagnóstico a familiar designado.",
+          "clave": "Compartir solo información autorizada y pertinente."
+        }
+      ]
+    }
+  ]
+}
