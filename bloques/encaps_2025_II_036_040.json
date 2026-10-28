@@ -1,0 +1,199 @@
+{
+  "bankId": "ENCAPS_2025_II",
+  "source": "PDF aportado por el usuario: examen SERUMS MINSA Medicina I, 24-08-2025",
+  "range": "036-040",
+  "status": "desarrollo_razonado_pendiente_cotejo_claves_oficiales_e_integracion_en_banco",
+  "questions": [
+    {
+      "number": 36,
+      "topic": "Medicina tradicional: matico y heridas",
+      "question": "En Belempampa, Cusco, escolar de 7 años con herida de 2 cm en antebrazo; se indica sutura y la madre solicita una planta de la zona. ¿Cuál alternativa indicas?",
+      "options": {
+        "A": "Toronjil",
+        "B": "Ruda",
+        "C": "Orégano",
+        "D": "Matico"
+      },
+      "correct": "D",
+      "temario": "El matico (nombre común usado para distintas especies, entre ellas Piper aduncum en Perú) se emplea tradicionalmente para lesiones cutáneas. La literatura etnobotánica recoge usos cicatrizantes y antisépticos, pero no demuestra que sustituya irrigación, exploración de lesión, cierre cuando corresponde, profilaxis antitetánica ni evaluación de infección. Ante rechazo de sutura: comunicar riesgos, explicar opciones y registrar decisión informada del representante; respetar pertinencia cultural sin omitir medidas de seguridad. Comprobar profundidad, daño neurovascular, tiempo desde lesión y contaminación.",
+      "fundamento": "El examen probablemente busca identificar matico como planta tradicional asociada al manejo de heridas, no avalar su aplicación sobre una herida abierta en lugar del manejo médico.",
+      "analisis": {
+        "A": "Toronjil tiene usos tradicionales distintos, especialmente digestivos o sedantes.",
+        "B": "Ruda se usa tradicionalmente para otros fines y presenta riesgos de toxicidad.",
+        "C": "Orégano se relaciona sobre todo con usos culinarios/digestivos.",
+        "D": "Matico es el fitónimo relacionado con tratamiento tradicional de heridas."
+      },
+      "perlas": [
+        "Conocer uso tradicional no equivale a recomendarlo como sustituto de sutura.",
+        "Herida pediátrica: irrigación, examen neurovascular, tétanos y decisión compartida."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Niño con laceración profunda y limitación funcional.",
+          "clave": "Descartar lesión tendinosa y derivar según complejidad."
+        },
+        {
+          "caso": "Familia solicita planta en vez de sutura.",
+          "clave": "Dialogar, explicar riesgos y respetar consentimiento informado."
+        },
+        {
+          "caso": "Herida con exposición a tierra.",
+          "clave": "Limpieza adecuada y revisar profilaxis antitetánica."
+        }
+      ]
+    },
+    {
+      "number": 37,
+      "topic": "Promoción de la salud: viviendas saludables y humo intradomiciliario",
+      "question": "Médico serumista propone a la jefa del comedor popular charlas y talleres para las madres sobre cocinas libres de humo. ¿Qué programa de promoción de la salud está implementando?",
+      "options": {
+        "A": "Familias saludables",
+        "B": "Viviendas saludables",
+        "C": "Comedores saludables",
+        "D": "Programa libre de cáncer"
+      },
+      "correct": "B",
+      "temario": "La exposición intradomiciliaria a biomasa (leña, bosta, carbón) produce partículas finas y monóxido de carbono; se asocia con enfermedad respiratoria, EPOC y riesgo en mujeres y niños. Una vivienda saludable mejora ventilación, separación de humo, combustible/cocinas seguras, agua y saneamiento. La acción organizada en comedor popular es escenario comunitario, pero el factor específico que se intenta modificar es calidad del aire en el hogar. Los programas se pueden solapar: si la intervención se centra estrictamente en el comedor institucional, su clasificación puede variar.",
+      "fundamento": "La temática 'cocinas libres de humo' apunta a condiciones físicas y ambientales de las viviendas; B es la alternativa razonada.",
+      "analisis": {
+        "A": "Familias saludables abarca hábitos y dinámica familiar de manera más amplia.",
+        "B": "Se enfoca en reducción de humo intradomiciliario y entornos domésticos seguros.",
+        "C": "Se refiere a prácticas y condiciones del comedor; distractor plausible por lugar de captación.",
+        "D": "No corresponde a la intervención descrita."
+      },
+      "alerta": "La referencia al comedor popular puede generar ambigüedad; verificar denominación programática de la norma usada por la evaluación.",
+      "perlas": [
+        "Biomasa mal ventilada → exposición a PM2.5 y CO.",
+        "Promoción de salud actúa sobre entornos además de conductas."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Familias instalan cocina mejorada y salida de humo.",
+          "clave": "Vivienda saludable."
+        },
+        {
+          "caso": "Comedor optimiza manipulación e inocuidad de alimentos.",
+          "clave": "Comedor saludable."
+        },
+        {
+          "caso": "Madres reciben apoyo para prácticas de cuidado infantil.",
+          "clave": "Intervención familiar de promoción."
+        }
+      ]
+    },
+    {
+      "number": 38,
+      "topic": "Diagnóstico comunitario y ASIS en primer nivel",
+      "question": "Serumista llega a EESS de nivel I en Amazonas con poblados dispersos y le comunican fiebre e ictericia, además de poca asistencia al centro. ¿Qué acciones inicialmente tomar?",
+      "options": {
+        "A": "Identificar las causas de morbimortalidad de la población atendida y diagnosticar la situación de salud de la comunidad",
+        "B": "La información obtenida de la comunidad debe estar orientada a apoyar el proceso de toma de decisiones",
+        "C": "El serumista y su equipo deben participar en las etapas de los procesos de planeación y programación",
+        "D": "Desarrollar diferentes actividades que se llevan a cabo en el centro de salud"
+      },
+      "correct": "A",
+      "temario": "El Análisis de Situación de Salud (ASIS) caracteriza problemas prioritarios, distribución territorial, determinantes sociales, brechas de acceso y capacidad de respuesta; orienta planificación e intervenciones. Se usan información epidemiológica, mortalidad/morbilidad, cartografía y participación comunitaria. En contexto de fiebre e ictericia agrupadas también se debe verificar señal de brote y notificar inmediatamente según evento sospechado, sin esperar completar un ASIS. Localidades remotas requieren búsqueda activa, visitas y barreras de acceso cultural/geográfico.",
+      "fundamento": "El enunciado pide primera acción global al asumir funciones: conocer perfil de morbimortalidad y diagnosticar situación comunitaria. Las opciones B–D corresponden a pasos posteriores o generales.",
+      "analisis": {
+        "A": "Inicio pertinente para planificar según necesidades y riesgos reales.",
+        "B": "Expresa finalidad de información, no la acción inicial específica.",
+        "C": "Planeación sigue al diagnóstico situacional.",
+        "D": "No prioriza problemas ni necesidades comunitarias."
+      },
+      "perlas": [
+        "Primero diagnosticar situación; luego priorizar y programar.",
+        "Fiebre e ictericia agrupadas: investigar y notificar posible brote en paralelo."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Nuevo responsable analiza indicadores de anemia y acceso por sectores.",
+          "clave": "ASIS y diagnóstico comunitario."
+        },
+        {
+          "caso": "Tres vecinos tienen ictericia aguda en una semana.",
+          "clave": "Evaluar sospecha de brote y activar vigilancia."
+        },
+        {
+          "caso": "Al diagnosticar brecha de vacunación se fija meta de brigadas.",
+          "clave": "Programación posterior al diagnóstico."
+        }
+      ]
+    },
+    {
+      "number": 39,
+      "topic": "Redes integradas de salud: dimensión de prestación",
+      "question": "Como jefe de establecimiento debe fortalecer la dimensión de prestación del modelo de redes integradas de salud. ¿Qué atributo priorizar?",
+      "options": {
+        "A": "Participación ciudadana",
+        "B": "Primer nivel como puerta de entrada",
+        "C": "Financiamiento alineado a objetivos",
+        "D": "Gestión de recursos humanos"
+      },
+      "correct": "B",
+      "temario": "Las Redes Integradas de Salud buscan continuidad asistencial, acceso oportuno, coordinación entre niveles, territorio y población a cargo. La dimensión de prestación incluye atención centrada en personas, primer nivel como punto habitual de acceso y coordinación, oferta integrada, referencia/contrarreferencia y enfoque preventivo. Participación social remite a gobernanza/comunidad; financiamiento y recursos humanos se vinculan a soporte y gestión. 'Puerta de entrada' no debe impedir atención directa de emergencias.",
+      "fundamento": "El primer nivel como puerta habitual de entrada y coordinador de la atención es atributo de la prestación integrada.",
+      "analisis": {
+        "A": "Más asociado a participación y gobernanza.",
+        "B": "Atributo de organización de los servicios de prestación.",
+        "C": "Atributo financiero y de gestión.",
+        "D": "Recurso de soporte institucional, no atributo específico de prestación."
+      },
+      "perlas": [
+        "RIS: continuidad, coordinación y atención integral.",
+        "Primer nivel resuelve y coordina; deriva cuando excede su capacidad."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Paciente con DM2 controla en centro de salud y se deriva por retinopatía.",
+          "clave": "Continuidad y coordinación en RIS."
+        },
+        {
+          "caso": "Red analiza asignación presupuestal por metas.",
+          "clave": "Dimensión financiera."
+        },
+        {
+          "caso": "Organización comunitaria participa en decisiones de salud.",
+          "clave": "Gobernanza y participación."
+        }
+      ]
+    },
+    {
+      "number": 40,
+      "topic": "Bioética: autonomía y rechazo informado",
+      "question": "Paciente de 80 años con cáncer de próstata confirmado comprende riesgos y beneficios de cirugía y quimioterapia, conserva capacidad de decisión y rechaza ambos tratamientos. Médico respeta decisión. ¿Qué principio ético cumple?",
+      "options": {
+        "A": "Autonomía",
+        "B": "No maleficencia",
+        "C": "Beneficencia",
+        "D": "Justicia"
+      },
+      "correct": "A",
+      "temario": "La autonomía reconoce derecho de persona con capacidad para aceptar o rechazar tratamientos tras información adecuada, comprensión y decisión voluntaria. El rechazo informado se documenta y debe ir acompañado de alternativas, control de síntomas, cuidados paliativos pertinentes y posibilidad de reconsideración. Capacidad decisional es específica para decisión y no se invalida automáticamente por edad o por enfermedad grave. Beneficencia obliga proponer beneficios, no maleficencia evitar daños y justicia distribuir recursos/trato equitativamente; ninguna autoriza imponer tratamiento en paciente competente.",
+      "fundamento": "Respeto a rechazo informado en paciente con capacidad es expresión central del principio de autonomía.",
+      "analisis": {
+        "A": "Reconoce el derecho a decidir sobre intervenciones propias.",
+        "B": "Exige evitar daños innecesarios, pero no nombra el respeto a decisión.",
+        "C": "Busca beneficio del paciente, sin suplantar preferencia válida.",
+        "D": "Se refiere a equidad y distribución justa."
+      },
+      "perlas": [
+        "Capacidad + información + voluntariedad → decisión autónoma.",
+        "Rechazar tratamiento no equivale a abandono; ofrecer cuidados continuos."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Paciente lúcido rechaza transfusión tras explicación comprensible.",
+          "clave": "Autonomía y rechazo informado."
+        },
+        {
+          "caso": "Persona no puede comprender opciones por delirium agudo.",
+          "clave": "Evaluar capacidad y proceder según marco legal y urgencia."
+        },
+        {
+          "caso": "Se distribuyen recursos escasos con criterios transparentes.",
+          "clave": "Justicia distributiva."
+        }
+      ]
+    }
+  ]
+}
