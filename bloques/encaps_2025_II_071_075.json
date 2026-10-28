@@ -1,0 +1,179 @@
+{
+  "bankId": "ENCAPS_2025_II",
+  "source": "SERUMS–MINSA Medicina I 24-08-2025, preguntas 71–75 del PDF proporcionado",
+  "range": "071-075",
+  "status": "desarrollo_razonado_pendiente_cotejo_claves_oficiales_e_integracion_en_banco",
+  "questions": [
+    {
+      "number": 71,
+      "topic": "Terapia preventiva TB y contacto con TB resistente",
+      "question": "Paciente de 30 años con antecedente familiar de TB-DR, sin baciloscopia, Rx ni prueba VIH. ¿Puede comenzar terapia preventiva?",
+      "options": {
+        "A": "Sí, VIH independientemente de PPD o IGRA",
+        "B": "Sí, tomando prueba de sensibilidad rápida",
+        "C": "No, no se ha descartado TB activa ni inmunosupresión",
+        "D": "Sí, en adultos contactos de TB pulmonar"
+      },
+      "correct": "C",
+      "temario": "La terapia preventiva requiere excluir TB activa mediante evaluación clínica y estudios indicados. En contacto de TB resistente se documentan exposición y sensibilidad del caso fuente para decidir régimen. No asumir infección VIH por conducta sexual. Un IGRA/TST no distingue TB activa de infección latente.",
+      "fundamento": "Respuesta razonada basada en concepto evaluado.",
+      "analisis": {
+        "A": "En VIH, TPT puede ser indicada tras excluir enfermedad activa, no automáticamente.",
+        "B": "Pruebas rápidas de sensibilidad no sustituyen descarte de TB activa.",
+        "C": "Es la opción segura mientras falta evaluación diagnóstica.",
+        "D": "El contacto puede justificar TPT después de valoración."
+      },
+      "refuerzo": [
+        {
+          "caso": "Contacto de TB sensible asintomático",
+          "clave": "descartar TB activa y evaluar TPT."
+        },
+        {
+          "caso": "Tos y pérdida de peso en contacto",
+          "clave": "investigar TB activa."
+        },
+        {
+          "caso": "Contacto TB-MDR",
+          "clave": "valoración específica con perfil de resistencia."
+        }
+      ]
+    },
+    {
+      "number": 72,
+      "topic": "Residuos comunes: subcategorías C1–C4",
+      "question": "Madera, placas radiológicas, frascos de sueros sin venoclisis y materiales no contaminados: ¿cómo se clasifican?",
+      "options": {
+        "A": "Tipo C1",
+        "B": "Tipo C2",
+        "C": "Tipo C3",
+        "D": "Tipo C4"
+      },
+      "correct": null,
+      "temario": "Las normas de residuos sólidos de establecimientos de salud separan A biocontaminados, B especiales y C comunes. Las subcategorías dependen del texto específico de la norma, naturaleza del residuo y contaminación. No afirmar que placas radiológicas sean automáticamente inocuas: pueden requerir gestión diferenciada por componentes químicos. El PDF no proporciona definición C1–C4 ni solucionario, por lo que se deja la letra sin fijar.",
+      "fundamento": "Pendiente de verificar norma y clave oficial.",
+      "analisis": {
+        "A": "No verificable solo con el enunciado.",
+        "B": "No verificable solo con el enunciado.",
+        "C": "No verificable solo con el enunciado.",
+        "D": "No verificable solo con el enunciado."
+      },
+      "refuerzo": [
+        {
+          "caso": "Gasa con sangre",
+          "clave": "biocontaminado."
+        },
+        {
+          "caso": "Papel limpio",
+          "clave": "común, subclasificar según norma."
+        },
+        {
+          "caso": "Residuo con químico peligroso",
+          "clave": "gestión especial."
+        }
+      ],
+      "alerta": "No fijar clave hasta cotejo normativo."
+    },
+    {
+      "number": 73,
+      "topic": "Clima organizacional",
+      "question": "Obstetra cuestiona desplazamiento a otro centro por disminución de partos. ¿Qué aspecto de gestión resulta afectado?",
+      "options": {
+        "A": "Salud mental",
+        "B": "Ley del CAS",
+        "C": "Clima organizacional",
+        "D": "Trabajo social"
+      },
+      "correct": "C",
+      "temario": "El clima organizacional representa percepciones actuales de justicia, liderazgo, comunicación, reconocimiento y relaciones de trabajo. Cambios de sede sin gestión adecuada pueden generar malestar y conflicto. Cultura organizacional refiere valores y supuestos más estables. Verificar régimen laboral antes de aplicar normas de CAS.",
+      "fundamento": "Respuesta razonada basada en concepto evaluado.",
+      "analisis": {
+        "A": "Puede afectarse, pero no es el aspecto de gestión central.",
+        "B": "No consta régimen CAS.",
+        "C": "Describe el impacto en percepciones del ambiente laboral.",
+        "D": "No corresponde a la categoría solicitada."
+      },
+      "refuerzo": [
+        {
+          "caso": "Encuesta sobre liderazgo y satisfacción",
+          "clave": "clima."
+        },
+        {
+          "caso": "Valores jerárquicos arraigados",
+          "clave": "cultura."
+        },
+        {
+          "caso": "Reubicación con descontento",
+          "clave": "gestionar clima y comunicación."
+        }
+      ]
+    },
+    {
+      "number": 74,
+      "topic": "Determinantes sociales estructurales y JUNTOS",
+      "question": "Programa JUNTOS busca reducir pobreza y mejorar acceso a salud, nutrición y educación. ¿Qué determinantes aborda?",
+      "options": {
+        "A": "Intermedios (factores conductuales)",
+        "B": "Estructurales (según clase social)",
+        "C": "Circunstancias materiales",
+        "D": "Estructurales (factores psicosociales)"
+      },
+      "correct": "B",
+      "temario": "Según el marco OMS, los determinantes estructurales configuran posición social: ingresos, clase, educación, ocupación y políticas públicas. Los intermedios incluyen vivienda, conductas, condiciones psicosociales y acceso sanitario. JUNTOS busca reducir desventajas asociadas a pobreza y puede afectar también mecanismos intermedios. La opción B describe mejor el foco socioeconómico.",
+      "fundamento": "Respuesta razonada basada en concepto evaluado.",
+      "analisis": {
+        "A": "Las conductas son posibles mediadores, no el foco principal.",
+        "B": "Relaciona posición socioeconómica y pobreza.",
+        "C": "Condiciones materiales son intermedias.",
+        "D": "Factores psicosociales suelen clasificarse como intermedios."
+      },
+      "refuerzo": [
+        {
+          "caso": "Pobreza y posición de clase",
+          "clave": "estructural."
+        },
+        {
+          "caso": "Hacinamiento",
+          "clave": "circunstancia material intermedia."
+        },
+        {
+          "caso": "Estrés por exclusión",
+          "clave": "factor psicosocial intermedio."
+        }
+      ]
+    },
+    {
+      "number": 75,
+      "topic": "Modelo de salud mental comunitaria",
+      "question": "¿Qué caracteriza al modelo de salud mental comunitario?",
+      "options": {
+        "A": "Garantiza inclusión social",
+        "B": "Promueve participación comunitaria",
+        "C": "Promueve recuperación total de población organizada",
+        "D": "Satisface necesidades en varias redes de servicios"
+      },
+      "correct": "B",
+      "temario": "La salud mental comunitaria incorpora atención territorial, participación activa de usuarios y familias, integración en redes, derechos, rehabilitación psicosocial y recuperación. La inclusión social es objetivo, pero no resultado garantizado. La recuperación no equivale siempre a curación total. Centros de Salud Mental Comunitaria coordinan atención con actores territoriales.",
+      "fundamento": "Respuesta razonada basada en concepto evaluado.",
+      "analisis": {
+        "A": "La inclusión es objetivo, pero 'garantiza' es una afirmación absoluta.",
+        "B": "Participación comunitaria es característica central.",
+        "C": "La recuperación total no puede prometerse.",
+        "D": "La articulación en red importa, pero no define por sí sola el modelo."
+      },
+      "refuerzo": [
+        {
+          "caso": "Equipo y usuarios diseñan actividades barriales",
+          "clave": "participación."
+        },
+        {
+          "caso": "Apoyo para reinserción laboral",
+          "clave": "inclusión social."
+        },
+        {
+          "caso": "Continuidad entre hospital y centro comunitario",
+          "clave": "red de cuidados."
+        }
+      ]
+    }
+  ]
+}
