@@ -1,0 +1,200 @@
+{
+  "bankId": "ENCAPS_2025_II",
+  "source": "PDF proporcionado: SERUMS MINSA Medicina I, 24 de agosto de 2025, preguntas 51-55",
+  "range": "051-055",
+  "status": "desarrollo_razonado_pendiente_cotejo_claves_oficiales_e_integracion_en_banco",
+  "questions": [
+    {
+      "number": 51,
+      "topic": "Hemorragia de segunda mitad del embarazo: placenta previa",
+      "question": "Gestante G2P1001 de 26 semanas con sangrado vaginal indoloro rojo rutilante, sin contracciones. ¿Diagnóstico?",
+      "options": {
+        "A": "Rotura de seno marginal",
+        "B": "Desprendimiento prematuro de placenta",
+        "C": "Placenta previa",
+        "D": "Rotura uterina"
+      },
+      "correct": "C",
+      "temario": "La placenta previa corresponde a implantación placentaria que cubre el orificio cervical interno; una placenta de inserción baja se encuentra cercana sin cubrirlo. Clásicamente se presenta con metrorragia roja brillante e indolora en la segunda mitad de gestación, a menudo sin hipertonía uterina. Confirmar ubicación placentaria mediante ecografía; la vía transvaginal es segura cuando está indicada y permite medir la relación con el orificio cervical. Evitar tacto vaginal digital hasta excluir placenta previa. Evaluar ABC, constantes, sangrado, bienestar fetal, grupo/Rh y necesidad de referencia y manejo hospitalario según gravedad.",
+      "fundamento": "El sangrado rojo e indoloro sin contracciones es patrón típico de placenta previa.",
+      "analisis": {
+        "A": "La hemorragia por seno marginal puede parecerse; exige evaluación ecográfica y clínica.",
+        "B": "El DPP suele cursar con dolor, hipertonía y compromiso fetal, aunque puede ser oculto.",
+        "C": "Presentación clásica de placenta previa.",
+        "D": "Suele acompañarse de dolor intenso, compromiso hemodinámico y antecedente de cicatriz uterina."
+      },
+      "perlas": [
+        "Sangrado indoloro rojo vivo: pensar en placenta previa.",
+        "No tacto digital antes de excluirla."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Gestante de 32 semanas con sangrado escaso rojo, sin dolor ni hipertonía.",
+          "clave": "Sospechar placenta previa y confirmar localización por ecografía."
+        },
+        {
+          "caso": "Gestante hipertensa con dolor intenso, útero hipertónico y sangrado oscuro.",
+          "clave": "Sospechar desprendimiento placentario."
+        },
+        {
+          "caso": "Gestante con placenta previa y hemorragia abundante e hipotensión.",
+          "clave": "Estabilización y manejo obstétrico urgente."
+        }
+      ]
+    },
+    {
+      "number": 52,
+      "topic": "Planeamiento institucional: PEI frente a POI",
+      "question": "Documento institucional que establece política, misión, objetivos y acciones estratégicas, indicadores, metas y rutas estratégicas, para un plazo de tres años según descripción del examen.",
+      "options": {
+        "A": "Plan operativo institucional",
+        "B": "Plan estratégico institucional",
+        "C": "Plan de desarrollo regional",
+        "D": "Plan de salud local"
+      },
+      "correct": "B",
+      "temario": "El Plan Estratégico Institucional (PEI) orienta la estrategia de una entidad pública: misión, objetivos estratégicos institucionales, acciones, indicadores y metas. El POI traduce esa estrategia en actividades operativas e inversiones con metas físicas y financieras; el plan de desarrollo concertado es territorial; el plan de salud local organiza prioridades de un ámbito local. El enunciado usa horizonte de tres años, propio de versiones de instrumentos de planeamiento utilizadas en determinado periodo; la vigencia efectiva puede variar con las directivas de CEPLAN, por lo que no debe memorizarse 'tres años' como regla universal actual.",
+      "fundamento": "El énfasis en misión, objetivos y acciones estratégicas institucionales identifica PEI.",
+      "analisis": {
+        "A": "POI desarrolla programación operativa, no fija la arquitectura estratégica de misión y OEI.",
+        "B": "Es instrumento estratégico institucional descrito.",
+        "C": "Tiene ámbito territorial/regional, no la entidad ministerial específica.",
+        "D": "Se concentra en prioridades sanitarias locales."
+      },
+      "perlas": [
+        "PEI = dirección estratégica; POI = ejecución operativa.",
+        "Examinar versión normativa al preguntar por plazos."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Entidad fija OEI y acciones a mediano plazo.",
+          "clave": "PEI."
+        },
+        {
+          "caso": "Centro programa jornadas y presupuesto anual.",
+          "clave": "POI."
+        },
+        {
+          "caso": "Municipios y actores acuerdan visión territorial.",
+          "clave": "Plan territorial concertado."
+        }
+      ]
+    },
+    {
+      "number": 53,
+      "topic": "Contratación CAS y sustento de necesidad de servicio",
+      "question": "Jefe de establecimiento solicita contratación CAS de enfermera para fortalecer vacunación. ¿Qué considerar para proseguir proceso?",
+      "options": {
+        "A": "Plan Operativo Institucional (POI) aprobado",
+        "B": "Plaza incluida en Manual de Organización de Funciones (MOF)",
+        "C": "Necesidad de servicio demostrada",
+        "D": "Plaza dentro del Cuadro de Asignación de Personal (CAP)"
+      },
+      "correct": "C",
+      "temario": "La contratación de personal mediante CAS debe partir de una necesidad institucional real y debidamente sustentada; también requiere disponibilidad presupuestal, perfiles, autorización y procedimiento de selección según régimen aplicable. El MOF describe funciones y no es un registro de plazas habilitantes; el CAP y sus instrumentos equivalentes se utilizan en administración de puestos según normativa vigente, pero no toda contratación CAS se sustenta solo en una plaza CAP. El POI apoya alineamiento de actividades y recursos, sin sustituir justificación de demanda de personal ni requisitos presupuestales.",
+      "fundamento": "En las opciones, sustentar la necesidad del servicio es condición sustantiva inicial; no elimina otros requisitos administrativos.",
+      "analisis": {
+        "A": "Alineamiento al POI es pertinente, pero no basta por sí solo.",
+        "B": "El MOF es documento funcional, no autorización de CAS.",
+        "C": "Permite justificar el requerimiento de una enfermera y proseguir evaluación administrativa.",
+        "D": "No es criterio universal de habilitación del régimen CAS."
+      },
+      "alerta": "Clave razonada y explicación general: verificar la norma y modalidad CAS vigente para un concurso real.",
+      "perlas": [
+        "CAS exige necesidad acreditada y disponibilidad presupuestal.",
+        "MOF = funciones; CAP = puestos; no confundir."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Campaña de vacunación identifica brecha de recurso humano documentada.",
+          "clave": "Sustentar necesidad y financiar contratación."
+        },
+        {
+          "caso": "Puesto aparece en MOF pero no existe presupuesto.",
+          "clave": "MOF por sí solo no habilita contratación."
+        },
+        {
+          "caso": "Se contrata sin sustento ni procedimiento de selección aplicable.",
+          "clave": "Riesgo de irregularidad administrativa."
+        }
+      ]
+    },
+    {
+      "number": 54,
+      "topic": "Mejora continua de calidad en salud",
+      "question": "El programa de mejora continua es un proceso ...... y sistemático dirigido a obtener rendimiento mayor de un proceso, aumentar la ...... de un servicio o disminuir costo de actividades habituales.",
+      "options": {
+        "A": "proyectado / demanda",
+        "B": "continuo / producción",
+        "C": "planificado / oferta",
+        "D": "estructurado / calidad"
+      },
+      "correct": "D",
+      "temario": "La mejora continua de calidad es un proceso organizado y sistemático para identificar brechas, analizar causas, implementar cambios y comprobar resultados. Son útiles los ciclos PHVA/PDSA: planificar, hacer, verificar/estudiar y actuar. Se evalúan indicadores de estructura, proceso y resultado, seguridad del paciente, oportunidad, efectividad, experiencia y eficiencia. Aumentar 'calidad de un servicio' es meta coherente; no implica que la producción o volumen de atenciones sean automáticamente calidad.",
+      "fundamento": "La combinación 'estructurado / calidad' completa una formulación coherente del proceso de mejora continua.",
+      "analisis": {
+        "A": "Demanda no expresa necesariamente una mejor prestación.",
+        "B": "'Continuo y sistemático' es plausible, pero 'aumentar la producción de un servicio' no capta específicamente la calidad y puede privilegiar volumen.",
+        "C": "'Oferta' tampoco describe directamente la mejora de estándares.",
+        "D": "Proceso estructurado y sistemático para mejorar la calidad."
+      },
+      "alerta": "La redacción también permite 'continuo y sistemático' en sentido común; evaluar clave oficial si se dispone del solucionario.",
+      "perlas": [
+        "Ciclo PHVA: planificar, hacer, verificar y actuar.",
+        "Más atenciones no significa automáticamente mejores atenciones."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Equipo reduce demoras midiendo tiempos antes y después de cambio.",
+          "clave": "Proyecto de mejora continua."
+        },
+        {
+          "caso": "Se ejecuta cambio sin medir resultados.",
+          "clave": "Falta fase de verificación."
+        },
+        {
+          "caso": "Auditoría revela errores y se adopta corrección estandarizada.",
+          "clave": "Ciclo de mejora de calidad."
+        }
+      ]
+    },
+    {
+      "number": 55,
+      "topic": "Corioamnionitis / infección intraamniótica tras ruptura prematura de membranas",
+      "question": "Gestante de 27 semanas G3P2002 con pérdida de líquido de 12 h, contracciones, fiebre 38,6 °C, FC 112, útero doloroso, FCF 180, líquido amniótico purulento y maloliente. ¿Diagnóstico?",
+      "options": {
+        "A": "Endometritis",
+        "B": "Infección vaginal",
+        "C": "Pielonefritis",
+        "D": "Corioamnionitis"
+      },
+      "correct": "D",
+      "temario": "Infección intraamniótica (corioamnionitis clínica) se sospecha por fiebre materna más taquicardia fetal, dolor uterino, líquido purulento/fétido y otros hallazgos, sobre todo tras ruptura de membranas. La ruptura prematura pretérmino facilita ascenso de flora genital, liberación de mediadores inflamatorios y trabajo de parto prematuro. Es urgencia obstétrica: antibióticos intravenosos de amplio espectro según protocolos locales, monitorización y evaluación materno-fetal, estabilización, referencia o manejo hospitalario y plan de finalización de embarazo según escenario; no prolongar gestación infectada para conseguir maduración sin valorar riesgos. Endometritis suele asociarse a infección del endometrio, especialmente puerperal; pielonefritis se orienta por síntomas urinarios/dolor lumbar.",
+      "fundamento": "Fiebre materna, taquicardia fetal (180), sensibilidad uterina y líquido purulento/maloliente constituyen combinación altamente sugestiva de infección intraamniótica.",
+      "analisis": {
+        "A": "Más típica tras parto y no explica tan directamente líquido amniótico purulento.",
+        "B": "Infección genital baja aislada no suele causar fiebre alta y taquicardia fetal con dolor uterino.",
+        "C": "Fiebre puede aparecer, pero faltan síntomas urinarios y puñopercusión renal; hay signos intraamnióticos.",
+        "D": "Integra todos los hallazgos y requiere manejo obstétrico urgente."
+      },
+      "perlas": [
+        "Fiebre + taquicardia fetal + dolor uterino + líquido fétido → corioamnionitis.",
+        "Infección intraamniótica cambia la conducta ante RPM pretérmino."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Gestante 30 semanas RPM, afebril, sin dolor ni taquicardia fetal.",
+          "clave": "RPM pretérmino sin datos clínicos de infección; manejo hospitalario según protocolo."
+        },
+        {
+          "caso": "Gestante RPM con fiebre 39 °C, FCF 175 y sensibilidad uterina.",
+          "clave": "Sospecha de infección intraamniótica."
+        },
+        {
+          "caso": "Puérpera 4 días tras cesárea con fiebre y útero doloroso, loquios fétidos.",
+          "clave": "Endometritis puerperal."
+        }
+      ]
+    }
+  ]
+}
