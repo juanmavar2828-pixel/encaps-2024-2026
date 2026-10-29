@@ -1,0 +1,200 @@
+{
+  "bankId": "ENCAPS_2025_I",
+  "source": "Cuadernillo adjunto: encaps 2025-I claves.pdf, Evaluación SERUMS MINSA Medicina I 06/04/2025, preguntas 61–65",
+  "range": "061-065",
+  "status": "desarrollo_razonado_pendiente_cotejo_claves_oficiales_e_integracion_en_app",
+  "questions": [
+    {
+      "number": 61,
+      "topic": "Petitorio Nacional Único de Medicamentos Esenciales: restricciones y uso especializado",
+      "question": "Dentro del petitorio nacional único de medicamentos esenciales para el sector salud existen consideraciones especiales de su uso, por lo cual requieren de un manejo especializado. ¿Qué tipo de medicamentos están en este rubro?",
+      "options": {
+        "A": "Para métodos de planificación familiar",
+        "B": "Controlado para infecciones intrahospitalarias",
+        "C": "Exclusivo para dolor oncológico",
+        "D": "Específico para hepatitis A"
+      },
+      "correct": "B",
+      "temario": "El Petitorio Nacional Único de Medicamentos Esenciales (PNUME) prioriza fármacos efectivos, seguros y costo-efectivos para necesidades sanitarias. Algunos antimicrobianos requieren indicaciones restringidas y supervisión especializada para reducir toxicidad y resistencia, especialmente en infecciones intrahospitalarias por microorganismos resistentes. La gestión PROA (programas de optimización del uso de antimicrobianos) incluye elección empírica de acuerdo con epidemiología local, cultivos, desescalamiento, dosis por función renal y duración apropiada. La clasificación concreta de 'consideraciones especiales' debe comprobarse en el petitorio y anexos vigentes al examen de 2025.",
+      "fundamento": "La alternativa B es la interpretación más afín al manejo especializado y control de antibióticos de uso hospitalario; clave provisional pendiente de cotejo normativo.",
+      "analisis": {
+        "A": "Anticonceptivos forman parte de prestaciones esenciales, pero no definen por sí solos la categoría de uso especializado.",
+        "B": "Antimicrobianos restringidos para infecciones intrahospitalarias requieren control y uso especializado.",
+        "C": "No todos los analgésicos oncológicos conforman una categoría exclusiva y el enunciado no se limita a oncología.",
+        "D": "No existe una categoría de medicamentos de tratamiento específico de hepatitis A que describa el rubro."
+      },
+      "alerta": "No se verificó el listado concreto de restricciones del PNUME aplicable en abril de 2025; contrastar clave oficial.",
+      "perlas": [
+        "PNUME prioriza necesidad sanitaria; no todo medicamento es de libre uso.",
+        "Antibióticos restringidos exigen indicación sustentada y vigilancia de resistencia."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Hospital solicita carbapenémico para infección asociada a atención sanitaria.",
+          "clave": "Evaluar restricción de uso, sensibilidad y PROA."
+        },
+        {
+          "caso": "Centro requiere métodos de planificación familiar.",
+          "clave": "Suministro según programa y normas; no implica el mismo control antimicrobiano."
+        },
+        {
+          "caso": "Paciente recibe antibiótico sin evidencia bacteriana.",
+          "clave": "Reevaluar indicación y evitar uso irracional."
+        }
+      ]
+    },
+    {
+      "number": 62,
+      "topic": "Análisis FODA: amenazas externas relacionadas con hábitos poblacionales",
+      "question": "En la metodología del análisis FODA, el comportamiento de la población, costumbre y hábitos negativos que son difíciles de cambiar, se identifican como:",
+      "options": {
+        "A": "Negatividad",
+        "B": "Oportunidades",
+        "C": "Debilidades",
+        "D": "Amenazas"
+      },
+      "correct": "D",
+      "temario": "FODA distingue factores internos de la organización (fortalezas y debilidades) y externos del entorno (oportunidades y amenazas). Las creencias, costumbres y hábitos de población ajena al control directo del establecimiento pueden obstaculizar actividades sanitarias, por lo que constituyen amenazas externas desde la perspectiva institucional. Una debilidad sería falta de personal, equipamiento o capacidad de educación intercultural propia del servicio. No deben etiquetarse tradiciones culturales como negativas de manera automática; se evalúa su efecto concreto y se plantea diálogo respetuoso.",
+      "fundamento": "Como los hábitos poblacionales representan una condición del entorno externo que puede obstaculizar objetivos, corresponde amenazas.",
+      "analisis": {
+        "A": "No es categoría estándar de FODA.",
+        "B": "Oportunidades son factores externos favorables.",
+        "C": "Debilidades son limitaciones internas de institución.",
+        "D": "Factores externos que dificultan objetivos institucionales."
+      },
+      "perlas": [
+        "Fortalezas/debilidades: internas; oportunidades/amenazas: externas.",
+        "Definir FODA desde la perspectiva de la institución analizada."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Centro carece de personal para vacunación.",
+          "clave": "Debilidad interna."
+        },
+        {
+          "caso": "Rumores externos reducen aceptación de vacunas.",
+          "clave": "Amenaza del entorno, abordable con comunicación."
+        },
+        {
+          "caso": "Municipio ofrece apoyo para brigadas de salud.",
+          "clave": "Oportunidad externa."
+        }
+      ]
+    },
+    {
+      "number": 63,
+      "topic": "Hipertensión grave en gestante: preeclampsia con criterios de gravedad y sulfato de magnesio",
+      "question": "Gestante de 36 años de edad, acude con cefalea intensa y visión borrosa; antecedente: HTA. Al examen: REG, BEN, BEH, LOTEP, FC: 70X'; FR: 20X'; T°: 36.8°C; PA: 170/110mmHg; edema en miembros inferiores sin fóvea. Laboratorio: creatinina 1.2 mg/dl, plaquetas: 150.000/mm3. ¿Cuál es la conducta a seguir?",
+      "options": {
+        "A": "Sulfato de magnesio intravenoso",
+        "B": "Finalizar el embarazo",
+        "C": "Administrar nifedipino vía oral",
+        "D": "Transfusión de plaquetas"
+      },
+      "correct": "A",
+      "temario": "PA ≥160/110 mmHg con cefalea intensa y alteraciones visuales en gestante obliga a sospechar preeclampsia con criterios de severidad, incluso si tiene hipertensión previa (considerar preeclampsia sobreagregada). Requiere estabilización, sulfato de magnesio para prevenir convulsiones, tratamiento urgente de hipertensión severa con fármacos de acción adecuada y evaluación obstétrica para decidir momento del parto. La creatinina 1,2 mg/dl puede representar disfunción renal en embarazo; plaquetas 150 000 no indican transfusión. Sulfato de magnesio NO es antihipertensivo: nifedipino, labetalol o hidralazina pueden controlar PA según disponibilidad y protocolo. El enunciado omite edad gestacional y obliga interpretar 'conducta' como una medida prioritaria entre varias simultáneas.",
+      "fundamento": "La opción A es intervención clave para prevenir eclampsia ante síntomas neurológicos y presión severa, pero nifedipino (C) también debe considerarse urgentemente: la respuesta única es clínicamente discutible.",
+      "analisis": {
+        "A": "Prevención de convulsiones indicada ante sospecha de preeclampsia grave.",
+        "B": "La finalización depende de edad gestacional, estabilización y evaluación maternofetal; no es primer paso aislado.",
+        "C": "Antihipertensivo apropiado para PA severa, necesario junto con MgSO4 según protocolos.",
+        "D": "Plaquetas de 150 000/mm³ no justifican transfusión."
+      },
+      "alerta": "A y C representan tratamientos urgentes complementarios; clave A razonada, no excluye control inmediato de PA ni referencia obstétrica urgente.",
+      "perlas": [
+        "MgSO4 previene convulsiones; no baja PA.",
+        "PA ≥160/110 con síntomas = emergencia obstétrica."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Gestante 32 semanas con PA 170/115 y fosfenos.",
+          "clave": "MgSO4, control de PA, estabilización y evaluación de resolución."
+        },
+        {
+          "caso": "Gestante hipertensa presenta convulsión.",
+          "clave": "Eclampsia: manejo ABC y MgSO4 urgente."
+        },
+        {
+          "caso": "Gestante con plaquetas 150 000 y cefalea intensa.",
+          "clave": "No transfundir plaquetas solo por ese valor."
+        }
+      ]
+    },
+    {
+      "number": 64,
+      "topic": "Derechos del usuario: quejas por posible maltrato en establecimiento",
+      "question": "Un paciente desea realizar un reclamo por un posible maltrato de un trabajador del establecimiento de salud contra él, al no respetarse el orden de llegada para la atención. ¿Qué procedimiento corresponde?",
+      "options": {
+        "A": "Sugerencia",
+        "B": "Consejería",
+        "C": "Queja",
+        "D": "Consulta"
+      },
+      "correct": "C",
+      "temario": "El usuario tiene derecho a atención digna, no discriminatoria y a mecanismos de presentación de quejas o reclamos según las rutas institucionales y regulaciones de SUSALUD/IPRESS. Un presunto maltrato o incumplimiento del orden de atención corresponde a manifestación de insatisfacción frente al servicio y debe registrarse, tramitarse y responderse; las urgencias clínicas pueden justificar prioridades de triaje distintas del orden de llegada y deben explicarse. Una sugerencia propone mejoras, una consulta busca aclaración y consejería es una intervención educativa. La terminología jurídica puede distinguir 'queja' y 'reclamo' según sistema específico, pero entre opciones corresponde C.",
+      "fundamento": "El acto denuncia presunto trato inadecuado, por lo que la alternativa disponible es queja.",
+      "analisis": {
+        "A": "Sugerencia plantea una mejora sin denunciar agravio específico.",
+        "B": "Consejería no tramita disconformidades administrativas.",
+        "C": "Canal para expresar disconformidad por supuesto maltrato.",
+        "D": "Consulta solicita información, no formaliza una queja."
+      },
+      "perlas": [
+        "Prioridad clínica por triaje no siempre equivale a maltrato.",
+        "Una queja requiere atención, registro y respuesta por el canal válido."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Paciente denuncia trato humillante en ventanilla.",
+          "clave": "Activar mecanismo formal de queja/reclamo."
+        },
+        {
+          "caso": "Usuario propone ampliar horario de farmacia.",
+          "clave": "Sugerencia."
+        },
+        {
+          "caso": "Persona pregunta si su seguro cubre una prueba.",
+          "clave": "Consulta u orientación."
+        }
+      ]
+    },
+    {
+      "number": 65,
+      "topic": "Telesalud: definición de teleorientación",
+      "question": "¿A qué corresponde la siguiente definición?: “Es el conjunto de acciones que desarrolla un profesional de la salud mediante el uso de las TIC, para proporcionar a la persona usuaria de salud, consejería y asesoría con fines de promoción de la salud, prevención, recuperación o rehabilitación de las enfermedades”.",
+      "options": {
+        "A": "Telemonitoreo",
+        "B": "Teleconsulta",
+        "C": "Teleorientación",
+        "D": "Teleinterconsulta"
+      },
+      "correct": "C",
+      "temario": "La teleorientación utiliza tecnologías de información y comunicación para dar consejería y orientación a una persona usuaria, promoviendo autocuidado, prevención y continuidad de servicios, sin confundirla con una consulta médica completa cuando la normativa exige otros elementos. Teleconsulta corresponde a prestación clínica a distancia entre profesional y usuario bajo requisitos aplicables; teleinterconsulta es intercambio de información y opinión entre profesionales; telemonitoreo es seguimiento remoto de parámetros, síntomas u otras variables de salud. En toda modalidad se requieren consentimiento cuando corresponda, confidencialidad, identificación, registro y criterios para derivación presencial ante alarma.",
+      "fundamento": "La definición del cuadernillo menciona consejería y asesoría mediante TIC: teleorientación.",
+      "analisis": {
+        "A": "Telemonitoreo sigue variables o evolución a distancia.",
+        "B": "Teleconsulta es prestación asistencial clínica más amplia.",
+        "C": "Corresponde a orientación y consejería mediante TIC.",
+        "D": "Teleinterconsulta es comunicación entre profesionales."
+      },
+      "perlas": [
+        "Teleorientación = consejería a usuario.",
+        "Teleinterconsulta = consulta profesional a profesional."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Enfermera aconseja a madre por videollamada sobre signos de alarma en diarrea.",
+          "clave": "Teleorientación y referencia presencial si corresponde."
+        },
+        {
+          "caso": "Médico de posta solicita opinión de especialista sobre electrocardiograma.",
+          "clave": "Teleinterconsulta."
+        },
+        {
+          "caso": "Paciente comunica diariamente presión y glucosa a centro remoto.",
+          "clave": "Telemonitoreo."
+        }
+      ]
+    }
+  ]
+}
