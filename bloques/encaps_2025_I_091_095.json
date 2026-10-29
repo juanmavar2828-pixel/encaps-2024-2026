@@ -1,0 +1,201 @@
+{
+  "bankId": "ENCAPS_2025_I",
+  "source": "Archivo adjunto: encaps 2025-I claves.pdf, SERUMS-MINSA Medicina I de 06 abril 2025, preguntas 91–95",
+  "range": "091-095",
+  "status": "desarrollo_razonado_pendiente_cotejo_claves_oficiales_e_integracion_en_app",
+  "questions": [
+    {
+      "number": 91,
+      "topic": "Muestreo no probabilístico y selección por conveniencia",
+      "question": "En un estudio sobre la depresión en adolescentes en su comunidad, aplica un instrumento de detección de depresión en estudiantes de 5° año de secundaria de un colegio cercano al establecimiento. ¿Qué tipo de muestreo está realizando?",
+      "options": {
+        "A": "Estadístico",
+        "B": "Censal",
+        "C": "Probabilístico",
+        "D": "No probabilístico"
+      },
+      "correct": "D",
+      "temario": "El muestreo no probabilístico selecciona participantes sin un mecanismo aleatorio que permita conocer la probabilidad de inclusión de cada integrante de la población objetivo. Elegir estudiantes de un colegio cercano por facilidad de acceso corresponde a muestreo por conveniencia, salvo que exista un marco de muestreo y selección aleatoria no descritos. El muestreo probabilístico, en contraste, requiere selección aleatoria mediante métodos simples, estratificados o por conglomerados. Un censo incluye a toda la población delimitada; estudiar todos los estudiantes de un colegio puede constituir censo de ese colegio, pero no censo de adolescentes de toda la comunidad. El sesgo de selección limita la generalización a otros adolescentes. Para pesquisa de depresión, tamizaje positivo no implica diagnóstico definitivo.",
+      "fundamento": "El centro educativo fue elegido por cercanía, no mediante selección aleatoria: muestreo no probabilístico.",
+      "analisis": {
+        "A": "No es una modalidad suficientemente específica de selección muestral.",
+        "B": "Podría censarse un colegio, pero no toda la población adolescente comunitaria descrita.",
+        "C": "No se menciona aleatorización ni probabilidades de inclusión conocidas.",
+        "D": "La selección accesible o por conveniencia corresponde a esta categoría."
+      },
+      "perlas": [
+        "Conveniencia = no probabilístico.",
+        "Censo de un colegio no equivale a censo de la comunidad."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Encuestan a los primeros cincuenta adolescentes que acuden a la posta.",
+          "clave": "Muestreo por conveniencia."
+        },
+        {
+          "caso": "Se sortean al azar cincuenta alumnos de una lista completa.",
+          "clave": "Muestreo aleatorio simple."
+        },
+        {
+          "caso": "Se encuesta a todos los alumnos de quinto año de un colegio.",
+          "clave": "Censo de esa población escolar específica."
+        }
+      ]
+    },
+    {
+      "number": 92,
+      "topic": "Ética profesional: moral, deber, derecho y conducta en el servicio",
+      "question": "La Ética cultiva y promueve el ejercicio de la moral y los valores para que los actos estén encuadrados en el bien y en el derecho en beneficio de la sociedad. Como profesional de la salud. ¿Qué principios se debe de cumplir en la atención a la población objetivo?",
+      "options": {
+        "A": "Solidaridad, orden, deber y derecho",
+        "B": "Orden, moral, deber y derecho",
+        "C": "Fraternidad, moral, deber y orden",
+        "D": "Orden, fraternidad, moral y derecho"
+      },
+      "correct": null,
+      "temario": "La ética estudia fundamentos de lo correcto y orienta decisiones profesionales; la moral reúne valores y normas asumidos en una comunidad, y la deontología formaliza deberes del ejercicio profesional. En atención sanitaria, los principios más empleados son autonomía, beneficencia, no maleficencia y justicia, además de dignidad, confidencialidad y veracidad. Las cuatro alternativas del cuadernillo combinan términos como orden, moral, fraternidad, solidaridad, deber y derecho sin identificar el marco normativo o doctrinal del que procederían. Ninguna coincide de modo inequívoco con la formulación bioética habitual. Para enseñar responsablemente no es posible elegir una letra con certeza sin solucionario o referencia textual original.",
+      "fundamento": "Clave reservada: el enunciado no proporciona criterio que discrimine de manera verificable entre las listas propuestas.",
+      "analisis": {
+        "A": "Solidaridad es valor importante; 'orden, deber y derecho' no equivale a una lista de principios bioéticos reconocible.",
+        "B": "Moral y deber son nociones centrales de ética y deontología, pero no acreditan ser la combinación oficial.",
+        "C": "Fraternidad y moral son valores relevantes, sin prueba de que esta sea la serie solicitada.",
+        "D": "Incluye fraternidad y derecho, pero omite deber; tampoco se demuestra su prioridad."
+      },
+      "alerta": "Ítem ambiguo. Se requiere clave oficial o definición exacta del material de formación para fijar respuesta; no presentar una conjetura como correcta.",
+      "perlas": [
+        "Ética, moral y deontología son conceptos relacionados, no intercambiables.",
+        "Principios bioéticos clínicos: autonomía, beneficencia, no maleficencia y justicia."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Paciente competente rechaza procedimiento tras comprender riesgos.",
+          "clave": "Respeto a autonomía."
+        },
+        {
+          "caso": "Personal comparte diagnóstico sin autorización.",
+          "clave": "Vulnera confidencialidad."
+        },
+        {
+          "caso": "Se prioriza atención según gravedad y necesidad, sin discriminación.",
+          "clave": "Justicia y equidad."
+        }
+      ]
+    },
+    {
+      "number": 93,
+      "topic": "Brote de peste: control inicial, bioseguridad y búsqueda de contactos",
+      "question": "Se reportan 2 casos de peste en el hospital y se ha restringido el ingreso. Los casos son de la comunidad y no se sabe si hay más casos. ¿Cuál es la medida inicial a tomar?",
+      "options": {
+        "A": "Control de roedores",
+        "B": "Medidas de bioseguridad e identificar las casas de infectados",
+        "C": "Medidas de control químico de pulgas",
+        "D": "Ordenamiento ambiental"
+      },
+      "correct": "B",
+      "temario": "La peste es causada por Yersinia pestis y se transmite habitualmente a través de pulgas de roedores; la forma neumónica puede transmitirse por gotículas entre personas. Ante casos comunitarios, la respuesta urgente abarca reconocimiento y tratamiento precoz, precauciones estándar y por gotículas cuando proceda, notificación inmediata e investigación epidemiológica de casos, contactos, domicilios y focos de exposición. La identificación de viviendas permite búsqueda activa y evaluación del control focal. En control vectorial, eliminar roedores antes de controlar pulgas puede desplazar pulgas infectadas hacia humanos, por lo que se valora primero control de ectoparásitos según protocolo. La elección del primer paso depende de la forma clínica y del contexto, pero la opción B une protección e investigación inicial.",
+      "fundamento": "La alternativa B contempla bioseguridad inmediata y localización de domicilios para investigar exposición y nuevos casos.",
+      "analisis": {
+        "A": "El control de roedores requiere planificación; si se inicia antes de controlar pulgas puede aumentar exposición humana.",
+        "B": "Activa protección del personal y búsqueda territorial de casos/contactos.",
+        "C": "Control de pulgas es crucial en peste bubónica, pero aislado no sustituye atención y rastreo inicial.",
+        "D": "Es intervención preventiva de más largo plazo, no respuesta inicial única."
+      },
+      "alerta": "Según el protocolo específico y fase del brote, controlar pulgas tempranamente también es crucial; cotejar clave oficial.",
+      "perlas": [
+        "Peste neumónica: precauciones respiratorias apropiadas y atención inmediata.",
+        "Control de pulgas antes de eliminación masiva de roedores según estrategia vectorial."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Paciente presenta neumonía fulminante y exposición a peste.",
+          "clave": "Aislamiento por gotículas, tratamiento urgente y notificación."
+        },
+        {
+          "caso": "Barrio con pulgas infectadas y mortandad de roedores.",
+          "clave": "Control vectorial focal y vigilancia epidemiológica."
+        },
+        {
+          "caso": "Surgen casos de fiebre entre convivientes de paciente.",
+          "clave": "Búsqueda activa y evaluación de contactos."
+        }
+      ]
+    },
+    {
+      "number": 94,
+      "topic": "Promoción de la salud: alianzas estratégicas intersectoriales",
+      "question": "En pro de la salud y el desarrollo social entre los diferentes actores, en los distintos niveles de gobierno y de la sociedad, lo primero que se debe fortalecer son las...",
+      "options": {
+        "A": "decisiones multisectoriales.",
+        "B": "capacidades de gestión.",
+        "C": "coordinaciones intersectoriales.",
+        "D": "alianzas estratégicas."
+      },
+      "correct": "D",
+      "temario": "La promoción de la salud y el desarrollo social requieren articular actores de gobierno, sociedad civil, instituciones educativas, comunidades y organizaciones privadas mediante alianzas estratégicas con objetivos, responsabilidades y compromisos compartidos. La intersectorialidad es colaboración entre sectores para actuar sobre determinantes sociales; las coordinaciones son mecanismos operativos de dichas alianzas. Las capacidades de gestión permiten sostener acciones, mientras decisiones multisectoriales son productos posibles del proceso. El ítem solicita qué debe fortalecerse 'entre los diferentes actores' para construir una respuesta conjunta; 'alianzas estratégicas' encaja con ese énfasis. La redacción puede admitir proximidad con coordinaciones intersectoriales y conviene contrastar el texto formativo.",
+      "fundamento": "D nombra el vínculo estratégico sostenido entre actores de distintos niveles de gobierno y sociedad para salud y desarrollo social.",
+      "analisis": {
+        "A": "Son acuerdos posibles que derivan de coordinación, no vínculo central.",
+        "B": "Se refiere a habilidades institucionales, no a vínculo entre actores.",
+        "C": "Es una práctica esencial y distractor muy cercano, aunque más operativa.",
+        "D": "Engloba construcción de relaciones y compromiso conjunto entre actores."
+      },
+      "alerta": "C y D pueden ser cercanas: clave D razonada provisional hasta cotejo oficial.",
+      "perlas": [
+        "Alianza estratégica = compromiso estable de actores con propósito compartido.",
+        "Intersectorialidad = acción conjunta de diferentes sectores."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Municipio, escuela y centro de salud acuerdan plan anual contra anemia.",
+          "clave": "Alianza estratégica intersectorial."
+        },
+        {
+          "caso": "Representantes de sectores se reúnen para ajustar cronograma.",
+          "clave": "Coordinación intersectorial."
+        },
+        {
+          "caso": "Se capacita a gestores para ejecutar proyectos comunitarios.",
+          "clave": "Fortalecimiento de capacidades de gestión."
+        }
+      ]
+    },
+    {
+      "number": 95,
+      "topic": "Buenas prácticas de almacenamiento de medicamentos: condiciones del fabricante y procedimientos operativos",
+      "question": "En relación al almacenamiento de medicamentos: “Las condiciones de almacenamiento deben ser las recomendadas por el …… y autorizadas en el rotulado del producto, pudiendo ser de congelación, temperatura de refrigeración, temperatura ambiente y temperatura ambiente controlada, lo cual debe estar indicado en su procedimiento …… de almacenamiento.”",
+      "options": {
+        "A": "fabricante / operativo",
+        "B": "farmacéutico / rutinario",
+        "C": "director / organizativo",
+        "D": "jefe / establecido"
+      },
+      "correct": "A",
+      "temario": "Las condiciones de almacenamiento de productos farmacéuticos se establecen según especificaciones aprobadas del fabricante y rotulado autorizado: temperatura, humedad, protección frente a luz y otras exigencias de estabilidad. Estas condiciones deben documentarse en procedimientos operativos estándar (POE) y verificarse mediante instrumentos calibrados, registros y planes ante excursiones térmicas. La cadena de frío requiere control de temperatura y evaluación de estabilidad tras desviaciones; nunca deducir que todo medicamento puede congelarse. Buenas Prácticas de Almacenamiento incluyen recepción, identificación, segregación de productos no conformes, inventario y trazabilidad de lotes y vencimientos.",
+      "fundamento": "La combinación técnica esperada es recomendaciones del fabricante y procedimiento operativo de almacenamiento, opción A.",
+      "analisis": {
+        "A": "Conecta fuente de condiciones autorizadas con documento operativo formal.",
+        "B": "El profesional farmacéutico supervisa, pero condiciones vienen del fabricante/rotulado autorizado.",
+        "C": "Ni director ni procedimiento organizativo son la pareja técnica de la cita.",
+        "D": "El jefe no sustituye indicaciones de estabilidad del producto."
+      },
+      "perlas": [
+        "Almacenar conforme a rotulado aprobado del fabricante.",
+        "POE documenta temperatura, monitoreo y respuesta a excursiones."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Medicamento rotulado a 2–8 °C fue congelado por error.",
+          "clave": "Cuarentena y evaluación de estabilidad; no liberar automáticamente."
+        },
+        {
+          "caso": "Farmacia instala termómetro sin calibración vigente.",
+          "clave": "Corregir sistema metrológico de monitoreo."
+        },
+        {
+          "caso": "Personal nuevo necesita protocolo ante fallo de refrigerador.",
+          "clave": "Consultar procedimiento operativo estándar."
+        }
+      ]
+    }
+  ]
+}
