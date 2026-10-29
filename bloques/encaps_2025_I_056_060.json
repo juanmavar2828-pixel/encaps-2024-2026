@@ -1,0 +1,200 @@
+{
+  "bankId": "ENCAPS_2025_I",
+  "source": "PDF aportado: encaps 2025-I claves.pdf, evaluación SERUMS MINSA Medicina I 06 abril 2025, preguntas 56–60",
+  "range": "056-060",
+  "status": "desarrollo_razonado_pendiente_cotejo_claves_oficiales_e_integracion_en_app",
+  "questions": [
+    {
+      "number": 56,
+      "topic": "Propósito de la investigación científica en salud",
+      "question": "Usted desea motivar a su personal de salud para realizar una investigación científica sobre la anemia infantil en su comunidad, para ello les dice que el principal propósito de la investigación científica es...",
+      "options": {
+        "A": "consolidar el trabajo en equipo.",
+        "B": "generar conocimiento científico útil.",
+        "C": "mejorar la gestión de la salud.",
+        "D": "captar inversiones en salud."
+      },
+      "correct": "B",
+      "temario": "La investigación científica tiene como propósito fundamental generar conocimiento válido, sistemático, reproducible y útil para comprender fenómenos o resolver problemas. En el primer nivel de atención, investigar anemia infantil implica formular una pregunta concreta, revisar antecedentes, elegir un diseño adecuado, definir población y variables, proteger a participantes, recolectar información de calidad, analizar resultados y comunicar limitaciones. Si se busca estimar frecuencia de anemia, un corte transversal puede ser útil; para factores asociados se requieren enfoques analíticos apropiados, sin atribuir causalidad automáticamente. Los resultados pueden mejorar la gestión, orientar programas o atraer recursos, pero esos son usos o efectos potenciales, no la finalidad epistemológica esencial.",
+      "fundamento": "La investigación se orienta principalmente a producir conocimiento científico útil, opción B.",
+      "analisis": {
+        "A": "El trabajo en equipo facilita el proceso, pero no es su fin principal.",
+        "B": "Expresa la finalidad fundamental de investigar.",
+        "C": "Es una aplicación posible de resultados, no propósito universal.",
+        "D": "La financiación puede facilitar actividades, pero no define la investigación."
+      },
+      "perlas": [
+        "Investigar = producir conocimiento válido, no solo recolectar datos.",
+        "Diferenciar objetivo científico de beneficios institucionales derivados."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Un centro estima prevalencia de anemia mediante muestra representativa.",
+          "clave": "Generación de conocimiento epidemiológico local."
+        },
+        {
+          "caso": "Un equipo usa hallazgos para rediseñar visitas domiciliarias.",
+          "clave": "Aplicación de resultados a gestión."
+        },
+        {
+          "caso": "Se presenta proyecto únicamente para obtener financiamiento sin pregunta investigable.",
+          "clave": "Falta propósito científico claro."
+        }
+      ]
+    },
+    {
+      "number": 57,
+      "topic": "Valoración cognitiva del adulto mayor: cuestionario de Pfeiffer",
+      "question": "Dentro del modelo de atención integral en la etapa de vida adulto mayor. ¿Qué test de valoración de deterioro cognitivo puede aplicar en el primer nivel de atención?",
+      "options": {
+        "A": "De Pfeiffer",
+        "B": "De Yesavage",
+        "C": "Del reloj",
+        "D": "MOCA"
+      },
+      "correct": "A",
+      "temario": "La evaluación geriátrica incluye función física, cognición, ánimo, nutrición y entorno social. El cuestionario breve de Pfeiffer (SPMSQ) explora orientación, memoria y cálculo mediante preguntas breves y permite tamizar deterioro cognitivo en primer nivel. La interpretación considera escolaridad, idioma, audición, visión y condiciones agudas como delirium, que pueden alterar resultados. La escala de Yesavage está destinada a síntomas depresivos. El test del reloj y MoCA también evalúan aspectos cognitivos, pero la pregunta busca el instrumento clásico del paquete de atención integral del adulto mayor en el primer nivel peruano. Un tamizaje alterado requiere evaluación clínica, no constituye por sí solo diagnóstico de demencia.",
+      "fundamento": "Pfeiffer es la alternativa esperada por su uso como tamizaje breve de deterioro cognitivo en atención primaria; el reloj y MoCA también son pruebas cognitivas válidas en otros contextos.",
+      "analisis": {
+        "A": "Cuestionario de tamizaje cognitivo clásico del adulto mayor.",
+        "B": "Evalúa principalmente síntomas de depresión geriátrica.",
+        "C": "Prueba cognitiva breve plausible, pero no la respuesta específica más probable del paquete citado.",
+        "D": "Herramienta de tamizaje cognitivo más amplia; no se excluye su uso clínico."
+      },
+      "alerta": "El test del reloj y MoCA también valoran cognición; verificar el instrumento específico en la norma del paquete preventivo 2025.",
+      "perlas": [
+        "Pfeiffer = cognición; Yesavage = ánimo/depresión.",
+        "Un resultado alterado amerita evaluar delirium, escolaridad y causas reversibles."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Adulto mayor presenta desorientación y olvidos progresivos.",
+          "clave": "Tamizaje cognitivo con Pfeiffer y evaluación ampliada."
+        },
+        {
+          "caso": "Persona mayor refiere tristeza, anhedonia y aislamiento.",
+          "clave": "Considerar escala de Yesavage para depresión."
+        },
+        {
+          "caso": "Paciente mayor tiene confusión súbita tras infección.",
+          "clave": "Descartar delirium antes de etiquetar demencia."
+        }
+      ]
+    },
+    {
+      "number": 58,
+      "topic": "Familia saludable: familia como unidad de intervención",
+      "question": "Dentro de las intervenciones de promoción de la salud. El programa “familia saludable” considera a la a familia como la unidad de ...... de mayor eficacia.",
+      "options": {
+        "A": "análisis",
+        "B": "intervención",
+        "C": "soporte",
+        "D": "riesgo"
+      },
+      "correct": "B",
+      "temario": "La estrategia de familias saludables reconoce que las conductas, riesgos, cuidados y decisiones se comparten en el hogar. Considera a la familia una unidad de intervención porque allí se forman hábitos alimentarios, prácticas de higiene, roles de cuidado y apoyo emocional. El abordaje incluye identificación participativa de necesidades, visitas domiciliarias, consejería, planes familiares, mejoras ambientales y articulación con comunidad. Aunque también es unidad útil de análisis, el enunciado cita un programa de intervenciones de promoción y destaca su eficacia para modificar condiciones de vida. Debe respetarse diversidad de configuraciones familiares, autonomía y privacidad.",
+      "fundamento": "La frase se completa con 'unidad de intervención', alternativa B.",
+      "analisis": {
+        "A": "Es posible analizar condiciones familiares, pero la frase se refiere al programa de intervención.",
+        "B": "Define la familia como ámbito para acciones promocionales.",
+        "C": "El soporte familiar es una función, no denominación del enfoque.",
+        "D": "El riesgo puede evaluarse por familia, pero no es el concepto del programa."
+      },
+      "perlas": [
+        "Familia saludable = unidad de intervención en promoción.",
+        "Trabajar con la familia no sustituye autonomía de cada integrante."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Equipo visita hogar para mejorar alimentación y lavado de manos.",
+          "clave": "Intervención familiar de promoción."
+        },
+        {
+          "caso": "Se registran miembros, viviendas y riesgos de un hogar.",
+          "clave": "Caracterización/análisis familiar."
+        },
+        {
+          "caso": "Familia participa en metas de reducción de sal y actividad física.",
+          "clave": "Plan familiar de promoción de salud."
+        }
+      ]
+    },
+    {
+      "number": 59,
+      "topic": "Estadística descriptiva: media aritmética y tendencia central",
+      "question": "¿Cuál es la medida de tendencia central que se interpreta como el promedio de los datos, y se construye con la suma de todos los datos observados entre el total de observaciones?",
+      "options": {
+        "A": "Rango",
+        "B": "Mediana",
+        "C": "Media",
+        "D": "Moda"
+      },
+      "correct": "C",
+      "temario": "La media aritmética es la suma de valores observados dividida por el número total de observaciones: x̄ = Σxi/n. Es medida de tendencia central apropiada especialmente para variables cuantitativas con distribución aproximadamente simétrica; resulta sensible a valores extremos. La mediana es el valor central al ordenar datos y es más robusta ante asimetría; la moda es el valor más frecuente. El rango, diferencia entre máximo y mínimo, mide dispersión y no centralidad. En investigaciones clínicas conviene describir media y desviación estándar para distribuciones razonablemente simétricas, o mediana y rango intercuartílico en datos sesgados.",
+      "fundamento": "La operación descrita define la media aritmética, respuesta C.",
+      "analisis": {
+        "A": "Máximo menos mínimo: medida de dispersión.",
+        "B": "Valor central de datos ordenados, sin sumarlos.",
+        "C": "Suma de valores dividida por cantidad de observaciones.",
+        "D": "Valor que ocurre con mayor frecuencia."
+      },
+      "perlas": [
+        "Media = Σx/n; sensible a valores extremos.",
+        "Mediana es robusta frente a distribuciones asimétricas."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Edades 20, 25, 30: calcular promedio.",
+          "clave": "Media = 25 años."
+        },
+        {
+          "caso": "Ingresos 1000, 1200, 1300, 1500, 20000.",
+          "clave": "Mediana refleja mejor valor típico por asimetría."
+        },
+        {
+          "caso": "Tallas 150, 155, 155, 160 cm.",
+          "clave": "Moda = 155 cm."
+        }
+      ]
+    },
+    {
+      "number": 60,
+      "topic": "Archivo pasivo de historias clínicas y custodia documental",
+      "question": "Se desea reorganizar el servicio de admisión y para ello es necesario separar las historias clínicas. ¿Cuántos años se debe considerar para el archivo pasivo de historias clínicas que no han sido requeridas?",
+      "options": {
+        "A": "Más de 15",
+        "B": "Más de 5",
+        "C": "Más de 1",
+        "D": "Más de 10"
+      },
+      "correct": "B",
+      "temario": "La gestión de historias clínicas diferencia archivo activo, con expedientes de uso frecuente, y archivo pasivo, donde se transfieren registros no utilizados durante el plazo establecido. En la normativa peruana tradicional de gestión de historias clínicas se toma como referencia un periodo de cinco años sin movimiento para el pase a archivo pasivo, distinguiéndolo de los plazos totales de conservación y eventual eliminación autorizada. No debe destruirse una historia solo porque pase a archivo pasivo; se mantienen reglas de localización, seguridad, confidencialidad y acceso a solicitud de paciente o personal autorizado. En contextos pediátricos, procesos judiciales o situaciones especiales pueden regir criterios de conservación adicionales.",
+      "fundamento": "La respuesta razonada es 'más de 5' años sin requerimiento para considerar transferencia al archivo pasivo. Debe cotejarse con la versión normativa aplicable en 2025.",
+      "analisis": {
+        "A": "No corresponde al umbral tradicional de transferencia de archivo activo a pasivo.",
+        "B": "Periodo que se identifica con transferencia a archivo pasivo según referencia normativa tradicional.",
+        "C": "Un año resulta insuficiente para ese criterio.",
+        "D": "Puede confundirse con plazos de conservación, pero no con el umbral usual de pase a pasivo."
+      },
+      "alerta": "Plazo normativo específico: pendiente de cotejo documental con la NTS de gestión de historia clínica vigente para abril de 2025.",
+      "perlas": [
+        "Archivo pasivo no significa eliminación.",
+        "Custodia, integridad y acceso siguen siendo obligatorios después de transferencia."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Historia clínica no solicitada durante seis años.",
+          "clave": "Evaluar traslado a archivo pasivo según NTS aplicable."
+        },
+        {
+          "caso": "Paciente pide copia de expediente transferido a archivo pasivo.",
+          "clave": "Ubicar y facilitar acceso mediante procedimiento autorizado."
+        },
+        {
+          "caso": "Funcionario propone destruir archivos pasivos sin trámite.",
+          "clave": "No procede: aplicar reglas de conservación y eliminación autorizada."
+        }
+      ]
+    }
+  ]
+}
