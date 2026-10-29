@@ -1,0 +1,156 @@
+{
+  "bankId": "ENCAPS_2024_II",
+  "source": "PDF original Medicina-I, examen SERUMS 01/09/2024, página 9; claves razonadas sin solucionario oficial",
+  "range": "081-085",
+  "format": "breve",
+  "status": "pendiente_cotejo_oficial_e_integracion",
+  "questions": [
+    {
+      "number": 81,
+      "topic": "Instrumentos de medición",
+      "question": "¿Cuál es el recurso que utiliza el investigador para registrar información o datos sobre las variables estudiadas?",
+      "options": {
+        "A": "Aparatos y equipos",
+        "B": "Instrumento de medición",
+        "C": "Medida de estabilidad",
+        "D": "Recolección de datos"
+      },
+      "correct": "B",
+      "temario": "El instrumento de medición registra información de las variables, como una escala, cuestionario o ficha de observación.",
+      "fundamento": "El recurso para registrar datos es el instrumento de medición.",
+      "analisis": {
+        "A": "Puede apoyar una medición, pero no es la denominación general.",
+        "B": "Herramienta específica de registro.",
+        "C": "Es un concepto de confiabilidad.",
+        "D": "Es el proceso, no el instrumento."
+      },
+      "perlas": [
+        "Variable = qué medir; instrumento = con qué registrar."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Investigador anota presión arterial y edad en una ficha estructurada.",
+          "clave": "La ficha es un instrumento de recolección de datos."
+        }
+      ]
+    },
+    {
+      "number": 82,
+      "topic": "Auditoría de la calidad de atención por evento adverso",
+      "question": "Gestante llega al centro materno infantil, aproximadamente a las 11 pm, durante el proceso de la atención del parto, el bebé cae al balde de desecho provocándole luxación de la clavícula. El equipo de guardia inmediatamente procede a realizar la atención correspondiente, siendo derivado a un establecimiento de mayor capacidad resolutiva. El jefe del establecimiento solicita una auditoría. ¿Qué comité de auditoría se activará para este caso?",
+      "options": {
+        "A": "Comité de Auditoría en Salud",
+        "B": "Consejo de Auditoría profesional",
+        "C": "Comité de Auditoria Médica",
+        "D": "Consejo de Auditoría Médica"
+      },
+      "correct": "A",
+      "temario": "La auditoría de la calidad de atención en salud puede evaluar la actuación integral del equipo y los procesos ante un evento adverso; la auditoría médica se centra específicamente en el acto médico.",
+      "fundamento": "Al involucrar al equipo de atención y procesos, la opción A es la más amplia y razonable.",
+      "analisis": {
+        "A": "Evalúa atención integral y procesos sanitarios.",
+        "B": "No es denominación estándar del comité.",
+        "C": "Se centra en actos médicos.",
+        "D": "No corresponde a la denominación usual."
+      },
+      "alerta": "Clave razonada provisional: cotejar con la norma de auditoría de la calidad vigente en septiembre de 2024.",
+      "perlas": [
+        "Evento adverso = atención inmediata, notificación y análisis sin ocultamiento."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Se revisa el desempeño conjunto del equipo durante un incidente neonatal.",
+          "clave": "Auditoría de la calidad de atención en salud."
+        }
+      ]
+    },
+    {
+      "number": 83,
+      "topic": "Dengue grave con choque",
+      "question": "Mujer de 20 años procedente de Chosica, presenta fiebre hace 7 días, cefalea, dolor muscular; ingresa a emergencia por dolor abdominal. Examen: PA: 70/50 mmHg, Sat O2: 89%, FC: 102 X', FR: 27 X'; afebril, luce deshidratada y decaída. AR: MV pasa en ACP; CV: RC taquicárdicos de buena intensidad; abdomen: RHA presentes, hígado de 15 cm de span hepático; SNC: somnolienta. ¿Cuál es su diagnóstico probable?",
+      "options": {
+        "A": "Dengue sin signos de alarma",
+        "B": "Dengue con signos de alarma",
+        "C": "Dengue grave",
+        "D": "Dengue"
+      },
+      "correct": "C",
+      "temario": "Hipotensión marcada (70/50), hipoxemia y alteración de conciencia son manifestaciones de compromiso grave en dengue, con probable choque; requiere reanimación y manejo urgente.",
+      "fundamento": "La inestabilidad hemodinámica y neurológica supera la categoría de signos de alarma.",
+      "analisis": {
+        "A": "No explica choque.",
+        "B": "Insuficiente ante hipotensión grave.",
+        "C": "Cuadro compatible con dengue grave.",
+        "D": "No expresa gravedad."
+      },
+      "perlas": [
+        "Dengue + choque = dengue grave."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Paciente con dengue desarrolla hipotensión y somnolencia durante defervescencia.",
+          "clave": "Dengue grave: reanimación urgente."
+        }
+      ]
+    },
+    {
+      "number": 84,
+      "topic": "Epidemiología en investigación sanitaria",
+      "question": "¿Cuál es la ciencia que nos proporciona la metodología apropiada para investigar y contextualizar los problemas y situaciones de salud?",
+      "options": {
+        "A": "Estadística",
+        "B": "Epistemología",
+        "C": "Epidemiología",
+        "D": "Ética"
+      },
+      "correct": "C",
+      "temario": "La epidemiología estudia frecuencia, distribución y determinantes de eventos de salud en poblaciones, y orienta su prevención y control.",
+      "fundamento": "Investigar problemas de salud en su contexto poblacional es objeto de la epidemiología.",
+      "analisis": {
+        "A": "Aporta herramientas de análisis numérico.",
+        "B": "Estudia fundamentos del conocimiento.",
+        "C": "Investiga eventos y determinantes poblacionales.",
+        "D": "Analiza deberes y principios morales."
+      },
+      "perlas": [
+        "Epidemiología = frecuencia + distribución + determinantes."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Se estudia por qué aumentan casos de dengue en determinados distritos.",
+          "clave": "Investigación epidemiológica."
+        }
+      ]
+    },
+    {
+      "number": 85,
+      "topic": "Prevención primaria en familia con riesgo metabólico",
+      "question": "En una visita domiciliaria se encuentra que en la familia Zegarra, el padre de 42 años es diabético de 10 años de evolución; el hijo mayor de 16 años tiene IMC: 27, glicemia en ayunas de 130 mg/dl; madre de 34 años tiene IMC: 23. El médico recomienda dieta hipocalórica e hipograsa. Esta medida está en nivel de prevención:",
+      "options": {
+        "A": "Cuaternaria",
+        "B": "Secundaria",
+        "C": "Primaria",
+        "D": "Terciaria"
+      },
+      "correct": null,
+      "temario": "La dieta saludable es promoción y prevención primaria cuando busca evitar enfermedad; en diabetes establecida es parte del tratamiento y puede prevenir complicaciones (terciaria). Glucemia en ayunas de 130 mg/dl en adolescente requiere repetir o confirmar diabetes.",
+      "fundamento": "El caso reúne miembros sanos, un paciente diabético y un adolescente con glucemia sugestiva de diabetes; no precisa a quién se dirige la dieta. No se fija una clave única.",
+      "analisis": {
+        "A": "Evita intervenciones innecesarias; no describe directamente la dieta.",
+        "B": "Se relaciona con detección temprana y tratamiento precoz.",
+        "C": "Prevención de enfermedad en personas aún no diagnosticadas.",
+        "D": "Prevención de complicaciones en enfermedad establecida."
+      },
+      "alerta": "Ítem ambiguo; verificar clave oficial. No asumir que una dieta para toda la familia equivale a un mismo nivel preventivo.",
+      "perlas": [
+        "Prevención depende de la situación del destinatario, no solo de la intervención."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Familia sin diabetes recibe consejería alimentaria para reducir riesgo futuro.",
+          "clave": "Prevención primaria."
+        }
+      ]
+    }
+  ]
+}
