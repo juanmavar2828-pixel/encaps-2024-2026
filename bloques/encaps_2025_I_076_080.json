@@ -1,0 +1,202 @@
+{
+  "bankId": "ENCAPS_2025_I",
+  "source": "PDF original aportado: encaps 2025-I claves.pdf, SERUMS MINSA Medicina I 06-04-2025 preguntas 76–80",
+  "range": "076-080",
+  "status": "desarrollo_razonado_pendiente_cotejo_claves_oficiales_e_integracion_en_app",
+  "questions": [
+    {
+      "number": 76,
+      "topic": "Pertinencia cultural de los servicios de salud: dimensiones de evaluación",
+      "question": "La pertinencia cultural en los servicios de salud implica que durante todo el proceso de la atención se tome en cuenta las características de la población a la que se atiende, en función a su cultura y contexto social. Evaluando cuatro dimensiones: gestión para la calidad de la atención, revaloración del sistema de salud tradicional, recursos humanos que promueven la salud intercultural y la …",
+      "options": {
+        "A": "participación ciudadana.",
+        "B": "interculturalidad en salud.",
+        "C": "atención intercultural.",
+        "D": "inclusión social."
+      },
+      "correct": "C",
+      "temario": "La pertinencia cultural procura adaptar organización, comunicación y prestación de servicios a lenguas, costumbres y necesidades socioculturales, sin sacrificar seguridad ni derechos. El enunciado enumera tres dimensiones: gestión para calidad, revaloración del sistema tradicional y recursos humanos promotores de salud intercultural. La cuarta propuesta es atención intercultural: prácticas concretas como comunicación comprensible, respeto de preferencias, privacidad y diálogo entre saberes. Participación ciudadana e inclusión social son ejes relacionados, pero no sustituyen automáticamente la dimensión específica. Es necesario confirmar la nomenclatura literal de las cuatro dimensiones en el instrumento de evaluación utilizado por MINSA para considerar la clave definitivamente validada.",
+      "fundamento": "La opción C completa razonablemente el conjunto con la dimensión de prestación asistencial culturalmente adecuada; la clave queda provisional por requerir cotejo del instrumento normativo.",
+      "analisis": {
+        "A": "La participación comunitaria es importante, pero no se ha demostrado que sea la cuarta dimensión literal del marco citado.",
+        "B": "Es el concepto transversal que engloba todas las dimensiones, no necesariamente una dimensión independiente.",
+        "C": "Se refiere a la práctica asistencial con pertinencia cultural, candidata más específica.",
+        "D": "La inclusión social es un objetivo más amplio y no corresponde inequívocamente a la enumeración."
+      },
+      "alerta": "Pendiente de verificar la cuarta dimensión literal en la norma peruana citada por el examen.",
+      "perlas": [
+        "Pertinencia cultural requiere adecuación del servicio, no solo traducción.",
+        "Respetar prácticas tradicionales sin retrasar atención necesaria."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Centro ofrece interpretación quechua durante consentimiento.",
+          "clave": "Atención intercultural y comunicación accesible."
+        },
+        {
+          "caso": "Equipo conversa con agentes tradicionales sobre prácticas seguras.",
+          "clave": "Diálogo y revaloración de saberes tradicionales."
+        },
+        {
+          "caso": "IPRESS capacita a personal sobre discriminación lingüística.",
+          "clave": "Recursos humanos con competencia intercultural."
+        }
+      ]
+    },
+    {
+      "number": 77,
+      "topic": "Salud bucal: adquisición de destrezas y autocuidado",
+      "question": "En el centro de salud, el serumista, atiende a varón de 20 años y le brinda consejería sobre salud bucal con la técnica del cepillado e hilo dental. ¿Qué desea implementar en la persona?",
+      "options": {
+        "A": "Cambio de dieta",
+        "B": "Destreza",
+        "C": "Motivación",
+        "D": "Autocuidado"
+      },
+      "correct": "B",
+      "temario": "Las intervenciones educativas de salud bucal pueden aumentar conocimiento, motivación y destreza psicomotora para realizar cepillado e higiene interdental correctamente. Una demostración práctica seguida de repetición supervisada desarrolla habilidad: angulación y recorrido del cepillo, limpieza de superficies y uso cuidadoso del hilo sin traumatizar encías. El autocuidado es un concepto más amplio que abarca acciones realizadas por la persona de manera habitual; la enseñanza de una técnica concreta apunta de modo inmediato a destreza. Evaluar barreras, salud periodontal y riesgo de caries; aconsejar pasta fluorada y frecuencia acorde con guías.",
+      "fundamento": "La enseñanza explícita de técnica de cepillado e hilo dental busca desarrollar una destreza.",
+      "analisis": {
+        "A": "Cambiar dieta podría ser una intervención complementaria, pero no es el objetivo directo de la demostración.",
+        "B": "Habilidad técnica práctica es el resultado inmediato buscado.",
+        "C": "La motivación facilita conducta, pero no equivale al aprendizaje de técnica.",
+        "D": "Autocuidado es objetivo final más amplio; la intervención descrita enfatiza habilidad concreta."
+      },
+      "alerta": "D también es una finalidad general plausible; la clave B enfatiza que la intervención enseña una técnica.",
+      "perlas": [
+        "Demostración y retorno-demostración permiten evaluar destrezas.",
+        "Motivación no garantiza ejecución técnica correcta."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Paciente repite ante el médico la técnica enseñada de hilo dental.",
+          "clave": "Adquisición de destreza."
+        },
+        {
+          "caso": "Paciente planifica cepillarse diariamente sin supervisión.",
+          "clave": "Autocuidado."
+        },
+        {
+          "caso": "Personal explica importancia de limpieza oral para fomentar decisión de cambiar.",
+          "clave": "Motivación."
+        }
+      ]
+    },
+    {
+      "number": 78,
+      "topic": "Trastornos depresivos: episodio depresivo y diagnóstico diferencial",
+      "question": "Mujer de 45 años, presenta desde hace más de dos semanas ánimo bajo, poca energía, disminución de la actividad, anhedonia, sueño alterado, apetito disminuido, baja autoestima, estado de ánimo variable y cefalea intensa. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Trastorno bipolar",
+        "B": "Episodio depresivo",
+        "C": "Depresión mayor",
+        "D": "Distimia"
+      },
+      "correct": "B",
+      "temario": "Un episodio depresivo presenta ánimo deprimido y/o pérdida de interés o placer, asociados con baja energía, alteraciones de sueño/apetito, concentración, autoestima y funcionamiento, durante al menos dos semanas. La formulación 'episodio depresivo' es una categoría clínica que describe el cuadro actual; 'trastorno depresivo mayor' requiere confirmar criterios completos, impacto funcional y antecedentes, y ambas expresiones se superponen según clasificación CIE/DSM. Distimia o trastorno depresivo persistente exige curso crónico (habitualmente dos años); el trastorno bipolar requiere antecedentes de hipomanía/manía. Siempre explorar ideas suicidas, causas médicas, sustancias y síntomas psicóticos. Una cefalea intensa necesita valorar signos neurológicos de alarma por separado.",
+      "fundamento": "El caso sustenta un episodio depresivo por duración y síntomas nucleares, pero C es diagnóstico cercano si se cumplen criterios de depresión mayor; se mantiene clave razonada provisional.",
+      "analisis": {
+        "A": "No se describen episodios maníacos o hipomaníacos.",
+        "B": "Describe el episodio actual con duración mínima y síntomas depresivos.",
+        "C": "Diagnóstico muy cercano; requiere mayor precisión de criterios y antecedentes en el marco DSM.",
+        "D": "Exige duración mucho mayor que dos semanas."
+      },
+      "alerta": "Ambigüedad real entre episodio depresivo y depresión mayor; no afirmar exclusividad de B sin clave oficial.",
+      "perlas": [
+        "Síntomas nucleares: ánimo bajo y/o anhedonia.",
+        "Investigar riesgo suicida y antecedentes de manía."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Paciente con anhedonia, insomnio y pérdida de energía durante tres semanas.",
+          "clave": "Evaluar episodio depresivo y gravedad."
+        },
+        {
+          "caso": "Paciente con ánimo bajo casi diario durante tres años.",
+          "clave": "Considerar trastorno depresivo persistente."
+        },
+        {
+          "caso": "Paciente con depresión actual e historia de disminución de sueño, euforia y conducta expansiva.",
+          "clave": "Descartar trastorno bipolar."
+        }
+      ]
+    },
+    {
+      "number": 79,
+      "topic": "Historia natural de la enfermedad: fase subclínica y prevención secundaria",
+      "question": "Según la historia natural de la enfermedad, identificar una persona con diabetes en la fase subclínica corresponde al periodo ...... y el nivel de prevención es...",
+      "options": {
+        "A": "patogénico / terciario.",
+        "B": "patogénico / secundario.",
+        "C": "pre patogénico / secundario.",
+        "D": "patogénico / primario."
+      },
+      "correct": "B",
+      "temario": "La historia natural de enfermedad diferencia periodo prepatogénico —antes de instalarse el proceso patológico— y patogénico, que incluye una fase subclínica sin manifestaciones evidentes y otra clínica. El tamizaje busca detectar enfermedad en etapas tempranas y corresponde a prevención secundaria, al permitir diagnóstico y tratamiento oportunos. En diabetes, identificar hiperglucemia compatible con diagnóstico en una persona asintomática ilustra detección subclínica; la pesquisa de prediabetes y acciones preventivas deben diferenciarse del diagnóstico de diabetes establecida. Prevención primaria reduce aparición de enfermedad; terciaria limita complicaciones de una condición conocida.",
+      "fundamento": "Enfermedad ya iniciada en fase subclínica = periodo patogénico; detección precoz = prevención secundaria.",
+      "analisis": {
+        "A": "La prevención terciaria se dirige a secuelas y complicaciones de enfermedad establecida.",
+        "B": "Combina adecuadamente periodo patogénico y prevención secundaria.",
+        "C": "La fase subclínica ya implica proceso patológico, no prepatogénico.",
+        "D": "Prevención primaria actúa antes de la aparición de enfermedad."
+      },
+      "perlas": [
+        "Subclínico = patogénico.",
+        "Tamizaje y diagnóstico precoz = prevención secundaria."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Tamizaje descubre diabetes en adulto sin síntomas.",
+          "clave": "Prevención secundaria durante fase subclínica."
+        },
+        {
+          "caso": "Programa comunitario promueve dieta y actividad física para prevenir diabetes.",
+          "clave": "Prevención primaria."
+        },
+        {
+          "caso": "Paciente con diabetes y neuropatía recibe rehabilitación.",
+          "clave": "Prevención terciaria."
+        }
+      ]
+    },
+    {
+      "number": 80,
+      "topic": "Tos ferina: investigación, seguimiento de contactos y bloqueo vacunal",
+      "question": "Ante la presencia de un caso probable de Tos Ferina. ¿Cuáles son las medidas a implementar?",
+      "options": {
+        "A": "Censo de contactos, barrido vacunal, investigación del caso índice",
+        "B": "Jornada de vacunación, quimioprofilaxis, búsqueda de contactos indirectos",
+        "C": "Seguimiento de contactos, búsqueda activa comunitaria e institucional, bloqueo vacunal",
+        "D": "Búsqueda de casos secundarios, barrido vacunal, inamovilidad del caso"
+      },
+      "correct": "C",
+      "temario": "La tos ferina es infección respiratoria por Bordetella pertussis con alta transmisibilidad. Ante caso probable se realiza notificación según vigilancia, investigación epidemiológica, aislamiento respiratorio apropiado, tratamiento antibiótico indicado y búsqueda/seguimiento de contactos. La quimioprofilaxis para contactos estrechos prioritarios y el bloqueo o recuperación de vacunación de susceptibles se ejecutan según guía vigente; la vacunación no reemplaza profilaxis posexposición cuando está indicada. La búsqueda activa institucional y comunitaria permite detectar casos secundarios, en especial lactantes vulnerables. 'Inamovilidad' no es medida epidemiológica estándar. La formulación exacta del paquete de medidas depende de norma nacional y del escenario de brote.",
+      "fundamento": "La opción C agrupa seguimiento de contactos, búsqueda activa y bloqueo vacunal, acciones integrales frente a un caso probable.",
+      "analisis": {
+        "A": "Incluye acciones útiles, pero 'barrido vacunal' general puede no ser intervención estándar para un solo caso; falta seguimiento sistemático.",
+        "B": "La quimioprofilaxis importa, pero búsqueda de contactos indirectos no es el énfasis principal.",
+        "C": "Combina vigilancia activa y respuesta focal de inmunizaciones.",
+        "D": "Inamovilidad del caso no es categoría habitual de intervención sanitaria."
+      },
+      "alerta": "A y C comparten medidas plausibles; cotejar directiva MINSA de tos ferina y solucionario oficial.",
+      "perlas": [
+        "Caso sospechoso/probable: notificación, búsqueda y seguimiento de contactos.",
+        "Bloqueo vacunal y quimioprofilaxis son medidas distintas."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Lactante con tos paroxística y apnea, sospecha de tos ferina.",
+          "clave": "Evaluación urgente, medidas de control y notificación."
+        },
+        {
+          "caso": "Hermano conviviente de caso confirmado está asintomático.",
+          "clave": "Valorar quimioprofilaxis y seguimiento como contacto estrecho."
+        },
+        {
+          "caso": "Comunidad presenta varios casos en escolares.",
+          "clave": "Búsqueda activa y revisión de esquemas de vacunación."
+        }
+      ]
+    }
+  ]
+}
