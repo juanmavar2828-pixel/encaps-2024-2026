@@ -1,0 +1,199 @@
+{
+  "bankId": "ENCAPS_2025_I",
+  "source": "Cuadernillo original aportado por el usuario: Evaluación SERUMS-MINSA Medicina I, 6 abril 2025, preguntas 66–70",
+  "range": "066-070",
+  "status": "desarrollo_razonado_pendiente_cotejo_claves_oficiales_e_integracion_en_app",
+  "questions": [
+    {
+      "number": 66,
+      "topic": "Anemia ferropénica gestacional: dosis terapéutica de hierro y ácido fólico",
+      "question": "Según la normativa nacional de salud para la prevención y control de la anemia. ¿Cuál es la dosis oral diaria de hierro elemental y ácido fólico recomendada para tratamiento de una gestante con anemia ferropénica?",
+      "options": {
+        "A": "120 mg y 800 ug",
+        "B": "80 mg y 600 ug",
+        "C": "60 mg y 400 ug",
+        "D": "200 mg y 1000 ug"
+      },
+      "correct": "A",
+      "temario": "En el esquema normativo de tratamiento de anemia ferropénica en gestantes al que apunta el examen se administran 120 mg de hierro elemental y 800 microgramos de ácido fólico al día; no debe confundirse con la dosis preventiva de 60 mg de hierro y 400 microgramos de ácido fólico. Primero confirmar y clasificar anemia según Hb, contexto gestacional y ajustes normativos aplicables, evaluar causas de ferropenia y tolerancia. El hierro se absorbe principalmente en duodeno, transportado por ferroportina, y la hepcidina elevada disminuye su absorción. Seguimiento incluye respuesta de Hb, adherencia, efectos digestivos y signos de alarma. La pauta exacta debe contrastarse con la versión nacional vigente al momento de atención, pues los esquemas y formulaciones pueden cambiar.",
+      "fundamento": "El cuadernillo contrasta dosis terapéutica 120 mg/800 µg con dosis preventiva 60 mg/400 µg; entre opciones corresponde A.",
+      "analisis": {
+        "A": "Dosis de tratamiento que busca el marco normativo del ítem.",
+        "B": "No corresponde a la combinación estándar propuesta en las alternativas.",
+        "C": "Se asocia a suplementación preventiva habitual, no al tratamiento planteado.",
+        "D": "Dosis mayor no indicada como regla universal y mayor riesgo de efectos adversos."
+      },
+      "alerta": "Verificar la versión exacta de la norma de anemia vigente al 06-04-2025 para confirmar la pauta normativa; no extrapolar automáticamente a guías actuales.",
+      "perlas": [
+        "Prevención y tratamiento de anemia usan pautas diferentes.",
+        "Verificar hierro elemental, no confundirlo con peso total de la sal ferrosa."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Gestante sin anemia requiere profilaxis de hierro y folato según programa.",
+          "clave": "Diferenciar pauta preventiva de dosis terapéutica."
+        },
+        {
+          "caso": "Gestante con anemia ferropénica confirmada.",
+          "clave": "Evaluar tratamiento de hierro elemental y folato según norma."
+        },
+        {
+          "caso": "Hb no mejora tras tratamiento.",
+          "clave": "Revisar adherencia, tolerancia, causa y diagnóstico diferencial."
+        }
+      ]
+    },
+    {
+      "number": 67,
+      "topic": "Investigación: instrumentos, validez y confiabilidad en metodología",
+      "question": "En el informe final de su investigación sobre ansiedad en estudiantes de secundaria, requiere compartir la descripción del instrumento de screening de ansiedad utilizado, su validez y confiabilidad. ¿En qué sección de su informe debe incluirla?",
+      "options": {
+        "A": "Marco teórico",
+        "B": "Introducción",
+        "C": "Metodología",
+        "D": "Resultados"
+      },
+      "correct": "C",
+      "temario": "La metodología describe diseño de estudio, población, criterios de selección, variables, técnicas de recolección, instrumentos y plan de análisis. En el apartado de instrumento deben señalarse propósito, número de ítems, estructura, puntajes, puntos de corte y evidencias de validez y confiabilidad para población e idioma de uso. La validez examina si el instrumento mide el constructo esperado; la confiabilidad considera precisión y consistencia de mediciones. La introducción plantea el problema, el marco teórico fundamenta el constructo y resultados informan hallazgos obtenidos. Un tamizaje positivo de ansiedad no equivale por sí solo a diagnóstico clínico.",
+      "fundamento": "Las características técnicas del instrumento utilizado y su validación se reportan en la sección de metodología.",
+      "analisis": {
+        "A": "Explica teorías de ansiedad y antecedentes, no el procedimiento concreto de medición.",
+        "B": "Contextualiza problema y justificación.",
+        "C": "Detalla instrumento, validez, confiabilidad y aplicación.",
+        "D": "Presenta resultados de mediciones, no principalmente los procedimientos de medición."
+      },
+      "perlas": [
+        "Validez: mide lo que afirma medir.",
+        "Confiabilidad: consistencia o precisión de medida."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Autor explica alfa de Cronbach y validación de escala usada.",
+          "clave": "Metodología."
+        },
+        {
+          "caso": "Autor presenta porcentaje de escolares con tamizaje positivo.",
+          "clave": "Resultados."
+        },
+        {
+          "caso": "Autor analiza teorías cognitivas de ansiedad.",
+          "clave": "Marco teórico."
+        }
+      ]
+    },
+    {
+      "number": 68,
+      "topic": "Auditoría de calidad en salud: auditoría de caso ante muerte materna y perinatal",
+      "question": "Al Centro de Salud de Chuquibamba de la provincia de Condesuyos, acude una gestante añosa, en periodo expulsivo, con antecedentes de preeclampsia; el parto se complica y fallecen madre y niño. Ante este evento. ¿Qué Auditoría de la Calidad de la Atención en Salud corresponde seguir?",
+      "options": {
+        "A": "Dirimente",
+        "B": "De caso",
+        "C": "Externa",
+        "D": "Regular"
+      },
+      "correct": "B",
+      "temario": "La auditoría de caso evalúa de forma detallada el proceso de atención de un evento específico relevante por gravedad, complejidad o desenlace, como fallecimiento materno y perinatal. Busca reconstruir cronología, oportunidad de reconocimiento de signos de alarma, decisiones, comunicaciones, capacidad resolutiva, referencia, registros y cumplimiento de estándares, para identificar oportunidades de mejora. La auditoría regular suele ser programada sobre procesos o registros seleccionados; la dirimente se orienta a resolver controversias o discrepancias entre informes según normativa. El análisis debe proteger confidencialidad, utilizar evidencia y evitar asignar culpa sin investigación.",
+      "fundamento": "La muerte materna y neonatal en un episodio de atención constituye evento concreto de alto impacto que amerita auditoría de caso.",
+      "analisis": {
+        "A": "Dirimente se reserva a controversias/discrepancias de auditorías, no es primera categoría del evento.",
+        "B": "Auditoría focalizada en atención de un caso particular con desenlace grave.",
+        "C": "Externa describe procedencia del equipo, no finalidad específica de auditoría.",
+        "D": "Regular se realiza de manera programada o sistemática, no caracteriza investigación del caso centinela."
+      },
+      "perlas": [
+        "Auditoría de caso = evaluación profunda de un evento clínico específico.",
+        "Objetivo principal: aprendizaje y mejora de calidad."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Se investiga muerte materna asociada a demora de referencia.",
+          "clave": "Auditoría de caso."
+        },
+        {
+          "caso": "Se revisan mensualmente diez historias clínicas seleccionadas.",
+          "clave": "Auditoría regular."
+        },
+        {
+          "caso": "Existen dos conclusiones de auditoría incompatibles y se solicita resolver controversia.",
+          "clave": "Auditoría dirimente."
+        }
+      ]
+    },
+    {
+      "number": 69,
+      "topic": "Diseños de investigación y asociación entre alcoholismo y violencia familiar",
+      "question": "En su comunidad observa con mucha frecuencia casos de alcoholismo en varones y también violencia física de ellos contra sus esposas, para investigar en el menor tiempo posible, si hay asociación entre el alcoholismo y la violencia familiar. ¿Qué diseño de estudio elegirá?",
+      "options": {
+        "A": "Cuasi experimental",
+        "B": "Descriptivo",
+        "C": "Analítico",
+        "D": "Cohortes"
+      },
+      "correct": "C",
+      "temario": "Un estudio analítico compara exposición y desenlace para estimar asociación. Si se necesita información en poco tiempo y se medirá consumo problemático de alcohol y violencia en una misma población, puede emplearse un diseño transversal analítico. El término 'analítico' de la alternativa C indica propósito y no especifica diseño temporal: hay diseños analíticos transversales, de casos y controles y de cohorte. Cohortes requieren seguimiento o reconstrucción temporal y pueden ser más demandantes. No es ético asignar consumo nocivo de alcohol como intervención. Deben protegerse confidencialidad, seguridad de víctimas y evitar entrevistas que aumenten riesgo de violencia.",
+      "fundamento": "El objetivo es evaluar asociación en tiempo breve; la categoría ofrecida más apropiada es analítico.",
+      "analisis": {
+        "A": "Intervención no aleatorizada, inadecuada para asignar exposición nociva.",
+        "B": "Describe frecuencias sin probar asociación como objetivo principal.",
+        "C": "Permite contrastar asociación entre exposición y desenlace.",
+        "D": "Puede investigar asociación pero típicamente exige seguimiento o reconstrucción y no es la opción más rápida del ítem."
+      },
+      "perlas": [
+        "Descriptivo = distribución; analítico = comparación de grupos.",
+        "Transversal analítico es rápido pero no demuestra temporalidad causal."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Se entrevista hoy a varones sobre consumo y episodios previos de violencia.",
+          "clave": "Transversal analítico; interpretar asociación cautelosamente."
+        },
+        {
+          "caso": "Se sigue cinco años a grupos expuestos/no expuestos.",
+          "clave": "Cohorte."
+        },
+        {
+          "caso": "Solo se estima porcentaje de alcoholismo sin comparaciones.",
+          "clave": "Descriptivo."
+        }
+      ]
+    },
+    {
+      "number": 70,
+      "topic": "Deontología médica: requisitos formales para ejercicio profesional",
+      "question": "La ética sugiere aquello que es deseable y condena lo que no debe hacerse, mientras que la deontología cuenta con las herramientas administrativas para garantizar que la profesión se ejerza de manera ética. ¿Con qué debe contar un profesional de la salud para su ejercicio profesional?",
+      "options": {
+        "A": "Título profesional, colegiatura",
+        "B": "Diplomados",
+        "C": "Currículo vitae documentado",
+        "D": "Estudios de posgrado"
+      },
+      "correct": "A",
+      "temario": "La práctica profesional sanitaria regulada requiere acreditar formación habilitante, título profesional y colegiatura cuando corresponde; para ejercer como médico en Perú, además debe revisarse habilitación colegial vigente y los requisitos legales del puesto. La deontología establece deberes de competencia, secreto, respeto, integridad y responsabilidad. Los diplomas y posgrados complementan formación, pero no sustituyen título ni colegiatura exigidos. El currículo documenta trayectoria para concursos laborales, no por sí solo autorización para el ejercicio. Distinguir aptitud académica, habilitación legal y competencia clínica efectiva.",
+      "fundamento": "Los requisitos formales básicos de acceso al ejercicio de profesión colegiada son título y colegiatura, alternativa A.",
+      "analisis": {
+        "A": "Corresponde a acreditación profesional básica; verificar habilitación vigente.",
+        "B": "Formación complementaria no sustituye título profesional.",
+        "C": "Documento de trayectoria, no habilitación profesional.",
+        "D": "Posgrado puede requerirse para especialidades, no reemplaza habilitación general."
+      },
+      "perlas": [
+        "Título y colegiatura no sustituyen verificación de habilitación vigente.",
+        "Deontología = deberes y normas del ejercicio profesional."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Médico tiene título y colegiatura, pero habilitación vencida.",
+          "clave": "Regularizar habilitación antes de ejercicio cuando sea exigida."
+        },
+        {
+          "caso": "Profesional posee diplomados pero carece de título habilitante.",
+          "clave": "No sustituyen requisitos legales de ejercicio."
+        },
+        {
+          "caso": "Comité revisa conducta profesional respecto a confidencialidad.",
+          "clave": "Aplicación de normas deontológicas."
+        }
+      ]
+    }
+  ]
+}
