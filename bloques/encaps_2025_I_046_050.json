@@ -1,0 +1,179 @@
+{
+  "bankId": "ENCAPS_2025_I",
+  "source": "Cuadernillo proporcionado por el usuario SERUMS MINSA Medicina I 06-04-2025, preguntas 46–50",
+  "range": "046-050",
+  "status": "desarrollo_razonado_pendiente_cotejo_claves_oficiales_e_integracion_en_app",
+  "questions": [
+    {
+      "number": 46,
+      "topic": "Participación comunitaria: abordaje territorial, espacios participativos y familia",
+      "question": "¿Cuáles son los principales ejes estratégicos que garantizan el éxito de la participación comunitaria en la planeación en salud?",
+      "options": {
+        "A": "El abordaje territorial, espacios participativos y la familia como base",
+        "B": "Los cambios en la realidad económico-social y ordenanzas municipales",
+        "C": "La actitud política y el esfuerzo de la administración local",
+        "D": "La participación comunitaria y escuelas saludables"
+      },
+      "correct": "A",
+      "temario": "La planeación participativa territorial identifica necesidades, riesgos, redes y recursos en sectores geográficos. Requiere espacios donde población, familias, servicios y autoridades acuerden prioridades y evalúen resultados. La familia es unidad relevante del cuidado integral, mientras la coordinación comunitaria permite vigilancia social. Ordenanzas, escuelas saludables y voluntad política contribuyen, pero por sí solas no reúnen los ejes del enunciado.",
+      "fundamento": "Clave razonada a partir del contenido conceptual; pendiente cotejo con solucionario oficial.",
+      "analisis": {
+        "A": "Articula territorio, espacios participativos y familia.",
+        "B": "Es contexto político-social, no conjunto de ejes.",
+        "C": "Reduce la participación a liderazgo político.",
+        "D": "Menciona una intervención, no los ejes básicos."
+      },
+      "refuerzo": [
+        {
+          "caso": "CLAS prioriza anemia por sectores",
+          "clave": "planeamiento participativo territorial."
+        },
+        {
+          "caso": "Municipio organiza campaña sin escuchar a vecinos",
+          "clave": "participación limitada."
+        },
+        {
+          "caso": "Familias revisan metas locales con promotores",
+          "clave": "seguimiento participativo."
+        }
+      ]
+    },
+    {
+      "number": 47,
+      "topic": "Control termostático de refrigeración: sensores calibrados",
+      "question": "En una farmacia se va a instalar el control termostático de la unidad de refrigeración. ¿Qué se debe tener en cuenta con los sensores?",
+      "options": {
+        "A": "Dependientes del sistema de monitoreo",
+        "B": "Con exactitud de aproximadamente 0.3°C",
+        "C": "Deben estar calibrados",
+        "D": "Áreas con poca variabilidad en temperatura"
+      },
+      "correct": "C",
+      "temario": "La cadena de frío de medicamentos termosensibles exige mediciones fiables y registros verificables. Los sensores se calibran frente a patrones trazables, con periodicidad e incertidumbre adecuadas. También es indispensable ubicarlos en zonas representativas, lejos de fuentes térmicas y puntos atípicos. La calibración verifica errores de medida y no es igual al ajuste; la exactitud exigida debe responder a la normativa y especificaciones del equipo.",
+      "fundamento": "Clave razonada a partir del contenido conceptual; pendiente cotejo con solucionario oficial.",
+      "analisis": {
+        "A": "La compatibilidad con monitoreo no acredita calidad de lectura.",
+        "B": "Un número específico de exactitud no es universal sin referencia técnica.",
+        "C": "La calibración sustenta confiabilidad metrológica.",
+        "D": "Es un criterio de ubicación, no propiedad primordial del sensor."
+      },
+      "refuerzo": [
+        {
+          "caso": "Termómetro difiere dos grados del patrón",
+          "clave": "revisar calibración."
+        },
+        {
+          "caso": "Sonda junto a puerta muestra oscilaciones",
+          "clave": "revisar ubicación."
+        },
+        {
+          "caso": "Fármaco fuera de intervalo autorizado",
+          "clave": "activar protocolo de excursión térmica."
+        }
+      ]
+    },
+    {
+      "number": 48,
+      "topic": "Confidencialidad y secreto profesional en función pública",
+      "question": "La ética en la función pública no se queda en la teoría (reflexión), sino que debe llevarse a la práctica para tener un adecuado desempeño laboral. Como profesional de salud ante un caso de un diagnóstico que es confidencial, por el tipo de enfermedad. ¿Qué principios éticos debe cumplirse?",
+      "options": {
+        "A": "Silencio, manejo de la información",
+        "B": "Veracidad, lealtad, eficiencia",
+        "C": "Respeto y atención diferenciada",
+        "D": "Respeto, probidad y eficiencia"
+      },
+      "correct": "A",
+      "temario": "La confidencialidad protege información clínica conocida por relación asistencial. El secreto profesional impide divulgar diagnósticos a terceros sin consentimiento o base legal; también comprende conservación, acceso restringido y comunicación discreta. 'Discreción' es el término de ética pública más específico. El cuadernillo usa la expresión imprecisa 'silencio' como conducta de reserva, sin constituir una clasificación normativa universal de principios.",
+      "fundamento": "Clave razonada a partir del contenido conceptual; pendiente cotejo con solucionario oficial.",
+      "analisis": {
+        "A": "Refiere reserva y manejo prudente de datos, opción más directa.",
+        "B": "Son valores de servicio, pero no identifican explícitamente confidencialidad.",
+        "C": "Respeto es relevante; atención diferenciada no define reserva.",
+        "D": "Principios públicos válidos pero insuficientemente específicos para secreto."
+      },
+      "refuerzo": [
+        {
+          "caso": "Vecino pregunta diagnóstico VIH de tercero",
+          "clave": "guardar confidencialidad."
+        },
+        {
+          "caso": "Profesional comunica datos pertinentes al equipo tratante",
+          "clave": "finalidad legítima y mínima divulgación."
+        },
+        {
+          "caso": "Datos identificables se comentan en sala de espera",
+          "clave": "vulneración del secreto."
+        }
+      ],
+      "alerta": "El término 'silencio' no es nombre técnico del principio de discreción; validar clave oficial."
+    },
+    {
+      "number": 49,
+      "topic": "FODA: fortalezas institucionales",
+      "question": "En el análisis FODA, los aspectos positivos de los recursos y actividades internas con que cuenta la institución, se les define cómo:",
+      "options": {
+        "A": "Estrategias",
+        "B": "Fortalezas",
+        "C": "Oportunidades",
+        "D": "Amenazas"
+      },
+      "correct": "B",
+      "temario": "El análisis FODA identifica fortalezas y debilidades internas, oportunidades y amenazas externas. Fortalezas son capacidades y recursos institucionales favorables, por ejemplo personal capacitado, procesos eficientes y equipamiento adecuado. Las oportunidades son circunstancias externas aprovechables, mientras amenazas son riesgos del entorno. El análisis permite construir decisiones estratégicas basadas en condiciones internas y externas.",
+      "fundamento": "Clave razonada a partir del contenido conceptual; pendiente cotejo con solucionario oficial.",
+      "analisis": {
+        "A": "Cursos de acción derivados del análisis, no categoría FODA.",
+        "B": "Aspectos positivos internos: respuesta correcta.",
+        "C": "Factores positivos externos.",
+        "D": "Factores negativos externos."
+      },
+      "refuerzo": [
+        {
+          "caso": "Equipo entrenado",
+          "clave": "fortaleza interna."
+        },
+        {
+          "caso": "Municipio ofrece nuevo financiamiento",
+          "clave": "oportunidad externa."
+        },
+        {
+          "caso": "Rotación elevada del personal",
+          "clave": "debilidad interna."
+        }
+      ]
+    },
+    {
+      "number": 50,
+      "topic": "Terapia preventiva de TB: contactos y personas con VIH",
+      "question": "¿Qué grupo de pacientes tienen indicación de terapia preventiva para la tuberculosis?",
+      "options": {
+        "A": "Sin diagnóstico de ITBL que pertenecen a grupos con corticoterapia e inmunosupresores",
+        "B": "Adultos que son contactos de caso índice-TB pulmonar y pacientes con VIH",
+        "C": "Personas que no tienen diagnóstico de infección tuberculosa latente",
+        "D": "Pacientes con tuberculosis sensible"
+      },
+      "correct": "B",
+      "temario": "La terapia preventiva de tuberculosis disminuye progresión de infección a enfermedad en grupos elegibles, incluidos contactos de TB pulmonar y personas con VIH. Antes de iniciarla debe descartarse enfermedad activa mediante evaluación clínica y pruebas pertinentes. En contactos de TB resistente es crucial valorar sensibilidad del caso fuente y esquema específico. Los pacientes con enfermedad TB activa requieren tratamiento antituberculoso completo y no solo profilaxis. La elegibilidad de otros inmunosuprimidos requiere evaluación individual y norma vigente.",
+      "fundamento": "Clave razonada a partir del contenido conceptual; pendiente cotejo con solucionario oficial.",
+      "analisis": {
+        "A": "La inmunosupresión importa, pero el enunciado no precisa elegibilidad ni evaluación completa.",
+        "B": "Agrupa dos poblaciones prioritarias para TPT después de descarte de TB activa.",
+        "C": "La ausencia de diagnóstico ITBL por sí sola no implica indicar TPT.",
+        "D": "TB activa sensible requiere tratamiento de enfermedad."
+      },
+      "refuerzo": [
+        {
+          "caso": "Persona VIH sin TB activa",
+          "clave": "evaluar TPT."
+        },
+        {
+          "caso": "Contacto domiciliario de caso TB pulmonar",
+          "clave": "investigar y evaluar TPT."
+        },
+        {
+          "caso": "Paciente con TB confirmada activa",
+          "clave": "tratamiento completo, no TPT."
+        }
+      ]
+    }
+  ]
+}
