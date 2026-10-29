@@ -1,0 +1,200 @@
+{
+  "bankId": "ENCAPS_2025_I",
+  "source": "PDF encaps 2025-I claves.pdf aportado por usuario, SERUMS MINSA Medicina I 06-04-2025 preguntas 71-75",
+  "range": "071-075",
+  "status": "desarrollo_razonado_pendiente_cotejo_claves_oficiales_e_integracion_en_app",
+  "questions": [
+    {
+      "number": 71,
+      "topic": "Ciclo vital familiar: fases y transiciones",
+      "question": "Se desea identificar el ciclo vital familiar para abordar a una familia que tiene un hijo adolescente con riesgo social. ¿Cuál es la idea principal de ciclo vital familiar?",
+      "options": {
+        "A": "Secuencia de fases por las que atraviesa",
+        "B": "Herramienta de gestión para los cuidados integrales",
+        "C": "Conjunto de prestaciones según necesidades de salud",
+        "D": "Sucesión de eventos que ocurren durante su existencia"
+      },
+      "correct": "A",
+      "temario": "El ciclo vital familiar describe etapas y transiciones que una familia atraviesa desde su formación hasta fases posteriores, determinadas por estructura, edad de integrantes y cambios de roles. La adolescencia de un hijo puede implicar reajustes en límites, autonomía, comunicación y negociación; estos procesos no deben equipararse automáticamente a patología. En salud familiar se identifican tareas evolutivas, recursos, factores protectores y riesgos, evitando imponer un modelo familiar único. Diferenciar ciclo vital familiar del enfoque de curso de vida individual: este último analiza acontecimientos y exposiciones desde la preconcepción hasta la muerte. Las etapas se usan como guía flexible, considerando familias monoparentales, extensas y otras configuraciones.",
+      "fundamento": "La descripción más específica de ciclo vital familiar es la secuencia de fases que atraviesa una familia, alternativa A.",
+      "analisis": {
+        "A": "Describe fases evolutivas y transiciones familiares.",
+        "B": "El ciclo puede apoyar la gestión del cuidado, pero no es su definición.",
+        "C": "Corresponde a un paquete de prestaciones, no a etapas familiares.",
+        "D": "Es definición amplia más cercana al curso de vida; la alternativa A enfatiza fases familiares."
+      },
+      "perlas": [
+        "Ciclo vital familiar = fases y tareas de transición.",
+        "Curso de vida = trayectoria de eventos y exposiciones individuales y poblacionales."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Familia reorganiza responsabilidades al ingresar un hijo a secundaria.",
+          "clave": "Transición en ciclo vital familiar con adolescentes."
+        },
+        {
+          "caso": "Paciente acumula exposiciones desde gestación hasta adultez.",
+          "clave": "Enfoque de curso de vida."
+        },
+        {
+          "caso": "Hogar se compone de abuelos que crían nietos.",
+          "clave": "Aplicar el ciclo vital de manera flexible, sin asumir familia nuclear."
+        }
+      ]
+    },
+    {
+      "number": 72,
+      "topic": "Misión institucional y orientación de objetivos estratégicos",
+      "question": "El personal de un establecimiento de salud desea saber lo que debe desarrollar prioritariamente. ¿Qué componente debe conocer para orientar sus objetivos estratégicos?",
+      "options": {
+        "A": "Misión",
+        "B": "Visión",
+        "C": "Valores",
+        "D": "FODA"
+      },
+      "correct": "A",
+      "temario": "La misión institucional expresa la razón de ser de una organización: a quién sirve, qué hace, para qué existe y cuál es su aporte distintivo. Ayuda a priorizar funciones y establecer objetivos coherentes con mandato y necesidades de población. La visión describe la imagen futura que se busca alcanzar; los valores orientan la conducta; FODA analiza fortalezas, oportunidades, debilidades y amenazas. En un establecimiento de salud, revisar misión facilita distinguir prestaciones esenciales de actividades ajenas al mandato. La planificación debe además considerar políticas sectoriales, necesidades sanitarias y capacidad operativa.",
+      "fundamento": "El interés por saber qué debe desarrollar prioritariamente y su propósito institucional se vincula con misión.",
+      "analisis": {
+        "A": "Define propósito y actividad fundamental que orienta objetivos.",
+        "B": "Proyecta el futuro deseado, no la razón de ser presente.",
+        "C": "Expresa principios de comportamiento institucional.",
+        "D": "Es diagnóstico estratégico, no declaración del propósito."
+      },
+      "perlas": [
+        "Misión: qué hacemos y para quién.",
+        "Visión: qué aspiramos a ser."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Centro define que su finalidad es brindar atención integral accesible a la comunidad.",
+          "clave": "Misión."
+        },
+        {
+          "caso": "Red desea convertirse en referente regional de calidad en 2035.",
+          "clave": "Visión."
+        },
+        {
+          "caso": "Equipo identifica fortalezas internas y amenazas externas.",
+          "clave": "FODA."
+        }
+      ]
+    },
+    {
+      "number": 73,
+      "topic": "Visión institucional: construcción compartida del futuro",
+      "question": "En un establecimiento de salud que tiene bajos indicadores de desempeño, se desea realizar un concepto compartido para un futuro mejor, pues cada quien tiene una idea diferente de lo que se quiere lograr. ¿Qué componente estratégico se debe plantear entre todos?",
+      "options": {
+        "A": "Visión",
+        "B": "FODA",
+        "C": "Misión",
+        "D": "Valores"
+      },
+      "correct": "A",
+      "temario": "La visión es una declaración compartida del estado futuro deseado de una organización. Construirla con el equipo permite alinear aspiraciones, orientar prioridades y establecer objetivos estratégicos medibles. Una buena visión es clara, motivadora, realista en su orientación y coherente con mandato público. No sustituye análisis de situación, asignación de recursos ni seguimiento de indicadores. La misión responde por qué existe la institución; los valores orientan su conducta; FODA reconoce condiciones internas y externas. Cuando las expectativas del futuro son contradictorias, consensuar visión es un paso de alineamiento estratégico.",
+      "fundamento": "El enunciado solicita una imagen compartida de futuro: visión.",
+      "analisis": {
+        "A": "Representa el futuro deseado que debe consensuarse.",
+        "B": "Analiza factores internos y externos, pero no formula directamente imagen futura.",
+        "C": "Explica propósito actual de la institución.",
+        "D": "Define principios de conducta más que metas futuras."
+      },
+      "perlas": [
+        "Visión = futuro compartido.",
+        "Misión y visión son complementarias, no intercambiables."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Personal acuerda ser centro líder en atención materna segura en diez años.",
+          "clave": "Visión."
+        },
+        {
+          "caso": "Servicio explica su propósito de brindar prevención y recuperación.",
+          "clave": "Misión."
+        },
+        {
+          "caso": "Hospital evalúa baja cobertura y falta de personal.",
+          "clave": "Diagnóstico estratégico."
+        }
+      ]
+    },
+    {
+      "number": 74,
+      "topic": "Sala situacional de salud: análisis colectivo y toma de decisiones",
+      "question": "La sala situacional de salud es una herramienta que ofrece evidencia sobre la eficacia de las intervenciones en salud y sobre la capacidad de los sistemas de salud para responder a las necesidades de salud de la población. ¿Quiénes la deben conocer y analizar prioritariamente?",
+      "options": {
+        "A": "Promotores de salud y responsable de promoción de la salud",
+        "B": "Todo el personal de salud y autoridades locales",
+        "C": "Coordinadores de red y responsable de epidemiología",
+        "D": "El responsable de epidemiologia y jefe de establecimiento"
+      },
+      "correct": "B",
+      "temario": "La sala situacional integra información demográfica, epidemiológica, de servicios, recursos, brechas y determinantes del territorio para orientar decisiones. Su utilidad depende de discusión multidisciplinaria, retroalimentación y articulación con autoridades responsables de acciones intersectoriales. El epidemiólogo puede conducir análisis técnico y la jefatura utilizar resultados operativos, pero limitar el conocimiento de la situación a dos cargos reduce su impacto. El personal sanitario y autoridades locales deben conocer hallazgos relevantes para priorizar intervenciones, distribuir recursos y monitorear resultados; la información sensible se presenta agregada o protegida. 'Todos' se entiende como participación funcional, no acceso indiscriminado a datos personales.",
+      "fundamento": "La sala situacional apoya decisiones colectivas sanitarias y de gestión territorial; la alternativa B presenta mayor alcance de actores pertinentes.",
+      "analisis": {
+        "A": "Promotores aportan participación comunitaria, pero no agotan actores responsables.",
+        "B": "Incluye equipo de salud y autoridades que pueden actuar sobre problemas identificados.",
+        "C": "Ambos son actores técnicos, aunque la información debe trascenderlos.",
+        "D": "Jefatura y epidemiología analizan datos, pero no deben monopolizar uso de hallazgos."
+      },
+      "alerta": "Clave razonada B; verificar si material institucional específico del examen restringe 'prioritariamente' a jefatura y epidemiología.",
+      "perlas": [
+        "Sala situacional = información analizada para decidir.",
+        "Compartir datos agregados; proteger confidencialidad individual."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Sala muestra alza de anemia infantil y municipio decide fortalecer alimentos saludables.",
+          "clave": "Uso intersectorial de información."
+        },
+        {
+          "caso": "Epidemiólogo analiza tasas, pero equipo no adapta actividades.",
+          "clave": "Falta traducir análisis a decisiones compartidas."
+        },
+        {
+          "caso": "Se exhiben datos identificables de VIH en panel público.",
+          "clave": "Vulneración de confidencialidad; usar información agregada."
+        }
+      ]
+    },
+    {
+      "number": 75,
+      "topic": "CRED: interpretación de curvas de crecimiento y riesgo nutricional",
+      "question": "Niño de 3 años de edad, no tiene controles en crecimiento y desarrollo, por lo que el personal de salud acude a su casa para evaluarlo. ¿Cómo demostraría que está en riesgo nutricional?",
+      "options": {
+        "A": "Pérdida lenta de peso",
+        "B": "Curva Peso/Talla de lento crecimiento",
+        "C": "Acercamiento a la mediana",
+        "D": "Curva Peso/Talla es plana"
+      },
+      "correct": "D",
+      "temario": "El monitoreo CRED utiliza mediciones antropométricas seriadas, correctamente realizadas y trazadas en patrones de crecimiento. Una curva que se aplana respecto de su trayectoria puede reflejar estancamiento ponderal y requiere investigar ingesta, enfermedad, inseguridad alimentaria, errores de medición y cambios esperados con edad. No obstante, peso para talla es indicador de estado nutricional agudo que se interpreta principalmente por puntaje Z en relación con talla; el tiempo de evolución suele evaluarse mejor con peso para edad, talla para edad y evolución de medidas seriadas. Un niño sin controles previos no tiene curva longitudinal propia confiable, por lo que el enunciado es conceptualmente incompleto. Una curva que se acerca a la mediana desde valores bajos suele indicar recuperación.",
+      "fundamento": "La opción D expresa el signo gráfico de estancamiento que el reactivo parece buscar; requiere mediciones seriadas que no se mencionan.",
+      "analisis": {
+        "A": "La pérdida de peso sí puede alertar, pero el término 'lenta' no define criterio estandarizado.",
+        "B": "Curva de crecimiento lento es poco específica sin tendencia o z-score.",
+        "C": "Aproximación a mediana generalmente señala mejoría si había déficit.",
+        "D": "El aplanamiento sugiere estancamiento, aunque no puede demostrarse con un único control."
+      },
+      "alerta": "La pregunta dice que no tiene controles CRED: sin mediciones previas no puede determinarse aplanamiento individual de curva. Cotejar clave oficial y no convertir opción D en regla diagnóstica universal.",
+      "perlas": [
+        "Riesgo nutricional exige antropometría correcta y seguimiento.",
+        "Una medición única no permite demostrar aplanamiento de trayectoria."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Tres controles muestran peso estancado pese al crecimiento de edad.",
+          "clave": "Investigar riesgo nutricional y causas."
+        },
+        {
+          "caso": "Niño presenta peso para talla Z -2,5.",
+          "clave": "Desnutrición aguda según clasificación antropométrica aplicable."
+        },
+        {
+          "caso": "Niño recupera peso y su puntaje Z se acerca a 0.",
+          "clave": "Tendencia compatible con recuperación."
+        }
+      ]
+    }
+  ]
+}
