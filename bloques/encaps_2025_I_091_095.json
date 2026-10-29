@@ -52,16 +52,16 @@
         "C": "Fraternidad, moral, deber y orden",
         "D": "Orden, fraternidad, moral y derecho"
       },
-      "correct": null,
-      "temario": "La ética estudia fundamentos de lo correcto y orienta decisiones profesionales; la moral reúne valores y normas asumidos en una comunidad, y la deontología formaliza deberes del ejercicio profesional. En atención sanitaria, los principios más empleados son autonomía, beneficencia, no maleficencia y justicia, además de dignidad, confidencialidad y veracidad. Las cuatro alternativas del cuadernillo combinan términos como orden, moral, fraternidad, solidaridad, deber y derecho sin identificar el marco normativo o doctrinal del que procederían. Ninguna coincide de modo inequívoco con la formulación bioética habitual. Para enseñar responsablemente no es posible elegir una letra con certeza sin solucionario o referencia textual original.",
-      "fundamento": "Clave reservada: el enunciado no proporciona criterio que discrimine de manera verificable entre las listas propuestas.",
+      "correct": "B",
+      "temario": "En este reactivo, la ética profesional articula el orden que establecen normas de actuación, la reflexión moral sobre lo correcto, el deber que surge de obligaciones profesionales y el derecho que protege a las personas. La deontología estudia deberes y derechos de las profesiones, mientras la ética se ocupa del fundamento de las acciones buenas. Por eso la combinación 'orden, moral, deber y derecho' es la mejor respuesta entre las propuestas. No debe confundirse esta enumeración docente con los cuatro principios bioéticos clásicos: autonomía, beneficencia, no maleficencia y justicia. El examen repite el reactivo en distintas profesiones y altera el orden de opciones; siempre se debe atender al texto de cada alternativa.",
+      "fundamento": "Clave B razonada y contrastada con un solucionario educativo independiente (ExamPrazol, SERUMS 2025-I Medicina A). 'Orden, moral, deber y derecho' conserva los conceptos de ética práctica (orden), ética teórica (moral) y deontología profesional (deberes y derechos). Todavía no cotejada con plantilla oficial MINSA.",
       "analisis": {
-        "A": "Solidaridad es valor importante; 'orden, deber y derecho' no equivale a una lista de principios bioéticos reconocible.",
-        "B": "Moral y deber son nociones centrales de ética y deontología, pero no acreditan ser la combinación oficial.",
-        "C": "Fraternidad y moral son valores relevantes, sin prueba de que esta sea la serie solicitada.",
-        "D": "Incluye fraternidad y derecho, pero omite deber; tampoco se demuestra su prioridad."
+        "A": "Solidaridad es un valor valioso, pero sustituye 'moral', concepto explícito en el planteamiento.",
+        "B": "Reúne orden de normas, moral, deber y derecho, categorías centrales de ética y deontología.",
+        "C": "Fraternidad puede orientar la conducta, pero se omite el derecho.",
+        "D": "Fraternidad no sustituye el deber profesional, y falta el conjunto completo solicitado."
       },
-      "alerta": "Ítem ambiguo. Se requiere clave oficial o definición exacta del material de formación para fijar respuesta; no presentar una conjetura como correcta.",
+      "alerta": "Clave B apoyada por solucionario educativo externo; pendiente de validación con clave oficial MINSA. Referencia secundaria: https://examprazol.com/examenes-pasados/serums-2025-i-medicina-a/rendir",
       "perlas": [
         "Ética, moral y deontología son conceptos relacionados, no intercambiables.",
         "Principios bioéticos clínicos: autonomía, beneficencia, no maleficencia y justicia."
