@@ -1,0 +1,199 @@
+{
+  "bankId": "ENCAPS_2025_I",
+  "source": "PDF del usuario: SERUMS MINSA Medicina I de 06 abril 2025, preguntas 41–45",
+  "range": "041-045",
+  "status": "desarrollo_razonado_pendiente_cotejo_claves_oficiales_e_integracion_en_app",
+  "questions": [
+    {
+      "number": 41,
+      "topic": "Promoción de la salud: empoderamiento y control sobre determinantes",
+      "question": "La promoción de la salud se define como la acción de ofrecer a los pueblos las vías y los medios suficientes para …… los problemas de salud y autocontrolar el proceso de salud-enfermedad.",
+      "options": {
+        "A": "restringir o acortar",
+        "B": "atenuar o eliminar",
+        "C": "controlar o mantener",
+        "D": "diferir o mitigar"
+      },
+      "correct": "B",
+      "temario": "La promoción de la salud permite a las personas y comunidades aumentar el control sobre los determinantes de su salud y mejorarla. Implica políticas públicas saludables, ambientes favorables, participación y acción comunitaria, desarrollo de habilidades personales y reorientación de servicios. El enfoque no equivale únicamente a prevenir enfermedades o entregar información; busca capacidades, condiciones y decisiones que permitan reducir o superar problemas. El texto del ítem utiliza una expresión no literal respecto de la Carta de Ottawa, por lo que su alternativa se interpreta dentro de esa finalidad general.",
+      "fundamento": "Atenuar o eliminar los problemas de salud expresa mejor la finalidad de mejoramiento y control planteada en el enunciado; clave razonada pendiente de cotejo.",
+      "analisis": {
+        "A": "Reducir duración de un problema no caracteriza por sí sola promoción.",
+        "B": "Se aproxima a reducir o superar problemas y aumentar el control sobre salud.",
+        "C": "Mantener problemas no expresa la meta de promoción, aunque control es concepto central.",
+        "D": "Diferir problemas no representa la definición general."
+      },
+      "alerta": "La formulación exacta no coincide con la definición canónica de Ottawa; cotejar solucionario oficial.",
+      "perlas": [
+        "Promoción: capacidad para controlar determinantes y mejorar salud.",
+        "No confundir promoción con prevención exclusivamente."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Municipio crea espacios seguros para actividad física.",
+          "clave": "Entornos saludables y promoción de la salud."
+        },
+        {
+          "caso": "Comunidad decide medidas para agua segura.",
+          "clave": "Acción comunitaria y empoderamiento."
+        },
+        {
+          "caso": "Centro solo entrega fármacos para enfermedad establecida.",
+          "clave": "Tratamiento, no promoción por sí solo."
+        }
+      ]
+    },
+    {
+      "number": 42,
+      "topic": "Planeamiento institucional: POI multianual y metas físicas y financieras",
+      "question": "El POI Multianual del Ministerio de Salud es ……, en el cual se establece la programación de metas físicas y de costeo que se espera alcanzar en los próximos tres años.",
+      "options": {
+        "A": "herramienta de gestión",
+        "B": "instrumento de articulación",
+        "C": "herramienta de articulación",
+        "D": "instrumento de gestión"
+      },
+      "correct": "D",
+      "temario": "El Plan Operativo Institucional (POI) Multianual es un instrumento de gestión del planeamiento que programa actividades operativas e inversiones para un horizonte de tres años, alineadas con las acciones estratégicas del PEI. Considera metas físicas, costeo y prioridades para operativizar objetivos institucionales. El POI anual precisa y ajusta programación para el ejercicio fiscal. 'Herramienta' y 'instrumento' pueden emplearse coloquialmente de forma parecida, pero en terminología administrativa el examen busca 'instrumento de gestión'.",
+      "fundamento": "La opción D completa la denominación institucional más propia del POI Multianual.",
+      "analisis": {
+        "A": "Expresión coloquial cercana, pero no la fórmula técnica preferida en el reactivo.",
+        "B": "Articula decisiones, aunque esa no es la categoría general pedida.",
+        "C": "Describe una función posible, no el término habitual.",
+        "D": "Denominación técnica del documento de programación institucional."
+      },
+      "perlas": [
+        "PEI: objetivos y acciones estratégicas; POI: actividades y metas operativas.",
+        "POI Multianual: horizonte de tres años."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Centro programa metas y recursos para vacunación durante tres años.",
+          "clave": "Programación operativa multianual."
+        },
+        {
+          "caso": "Entidad define objetivos estratégicos institucionales.",
+          "clave": "PEI."
+        },
+        {
+          "caso": "Se ajusta programación del siguiente año fiscal.",
+          "clave": "POI anual."
+        }
+      ]
+    },
+    {
+      "number": 43,
+      "topic": "Dengue con signos de alarma: clasificación clínica y signos de gravedad",
+      "question": "Mujer de 70 años, procedente de Loreto, hace 2 días presentó fiebre de 39°C, dolor de articulaciones y cefalea, el día de hoy acude al establecimiento con vómitos persistentes y sangrado de mucosas. Funciones vitales: T°: 36°C, PA: 100/70 mmHg, FR: 28X'. ¿Qué tipo de dengue es?",
+      "options": {
+        "A": "Hemorrágico con signos de alarma",
+        "B": "Grave",
+        "C": "Confirmado sin signos de alarma",
+        "D": "Probable con signos de alarma"
+      },
+      "correct": "D",
+      "temario": "El dengue se sospecha por síndrome febril y exposición epidemiológica; signos de alarma incluyen vómitos persistentes, dolor abdominal intenso, sangrado mucoso, acumulación de líquidos, letargo e incremento del hematocrito con caída de plaquetas. La defervescencia puede coincidir con inicio de fase crítica y fuga plasmática. Dengue grave exige choque por fuga plasmática, hemorragia grave o daño grave de órganos; sangrado de mucosas aislado no necesariamente demuestra hemorragia grave. La paciente tiene dos signos de alarma y no se aporta confirmación de laboratorio. Requiere vigilancia estrecha, hidratación cuidadosa según gravedad y referencia/hospitalización según protocolo.",
+      "fundamento": "Dengue probable con signos de alarma es la clasificación sustentada; no se describen criterios suficientes para dengue grave confirmado.",
+      "analisis": {
+        "A": "'Dengue hemorrágico' es terminología previa y no corresponde a clasificación actual planteada.",
+        "B": "No se acredita choque, sangrado grave ni daño orgánico grave.",
+        "C": "No hay confirmación y sí existen signos de alarma.",
+        "D": "Síndrome compatible, vómitos persistentes y sangrado de mucosas."
+      },
+      "perlas": [
+        "Defervescencia puede anunciar fase crítica.",
+        "Sangrado mucoso es alarma; hemorragia grave requiere criterios adicionales."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Paciente febril con dengue probable y vómitos persistentes.",
+          "clave": "Dengue con signos de alarma."
+        },
+        {
+          "caso": "Paciente con hipotensión, extremidades frías y fuga plasmática.",
+          "clave": "Dengue grave por choque."
+        },
+        {
+          "caso": "Fiebre y mialgias sin alarmas, estable.",
+          "clave": "Dengue sin signos de alarma tras evaluación."
+        }
+      ]
+    },
+    {
+      "number": 44,
+      "topic": "Ética de investigación pediátrica: consentimiento por representante y asentimiento",
+      "question": "Usted va a realizar un estudio sobre la obesidad infantil en un colegio de la pequeña comunidad donde labora, pero el director le pide que los padres autoricen voluntariamente la participación de sus menores hijos. ¿Qué documento debe usar para este cometido?",
+      "options": {
+        "A": "Consentimiento informado",
+        "B": "Compromiso paterno",
+        "C": "Carta de investigación",
+        "D": "Asentimiento informado"
+      },
+      "correct": "A",
+      "temario": "En investigación con menores corresponde solicitar consentimiento informado del padre, madre o representante legal autorizado, explicando finalidad, procedimientos, riesgos, beneficios, voluntariedad, confidencialidad y retiro sin consecuencias. Adicionalmente se busca asentimiento del menor conforme a edad, capacidad y normativa ética; el asentimiento no reemplaza consentimiento del representante cuando este es necesario. La autorización del director escolar no sustituye consentimiento familiar ni revisión ética que corresponda. Si se miden peso y talla, proteger privacidad y evitar estigma corporal.",
+      "fundamento": "Se pide documento para que los padres autoricen voluntariamente: consentimiento informado por representante legal.",
+      "analisis": {
+        "A": "Documento de autorización informada del representante.",
+        "B": "No es denominación ética estándar del consentimiento.",
+        "C": "Una carta informativa no sustituye autorización.",
+        "D": "Es la aceptación del propio menor cuando corresponde, distinta de la firma del padre."
+      },
+      "perlas": [
+        "Padres consienten; niños asienten según madurez.",
+        "Participación voluntaria y privacidad son fundamentales."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Madre autoriza mediciones antropométricas de su hijo tras recibir explicación.",
+          "clave": "Consentimiento informado por representante."
+        },
+        {
+          "caso": "Niña de once años comprende estudio y acepta participar.",
+          "clave": "Asentimiento del menor, además del consentimiento correspondiente."
+        },
+        {
+          "caso": "Director autoriza investigación sin informar a padres.",
+          "clave": "No sustituye consentimiento de representantes."
+        }
+      ]
+    },
+    {
+      "number": 45,
+      "topic": "Vacunación del personal sanitario frente a hepatitis B",
+      "question": "¿Cuál es la mejor conducta frente a un personal de salud asistencial que no puede acreditar su vacunación previa contra el virus de Hepatitis B en el primer nivel de atención?",
+      "options": {
+        "A": "Vacunación de una dosis de refuerzo",
+        "B": "No es obligatoria su vacunación",
+        "C": "Referencia a un hospital",
+        "D": "Vacunación desde la primera dosis"
+      },
+      "correct": "D",
+      "temario": "El personal sanitario con potencial exposición a sangre y fluidos debe estar protegido contra hepatitis B. Si no existe documentación válida de vacunación previa, se considera susceptible a efectos programáticos y se inicia esquema completo según calendario nacional y evaluación ocupacional; no basta asumir inmunidad ni aplicar un refuerzo aislado sin registro. En trabajadores con exposición, la confirmación de respuesta mediante anti-HBs tras serie puede estar indicada para documentar protección, y el manejo tras pinchazo depende de vacunación, títulos y estado de la fuente. La inmunización se realiza en el primer nivel donde exista disponibilidad; no requiere hospital por rutina.",
+      "fundamento": "Sin acreditación de esquema previo corresponde comenzar vacunación desde la primera dosis, opción D.",
+      "analisis": {
+        "A": "Un refuerzo solo presupone serie previa conocida.",
+        "B": "Trabajadores sanitarios tienen indicación ocupacional de protección.",
+        "C": "No se necesita referencia hospitalaria para iniciar vacuna habitual.",
+        "D": "Inicia esquema y posterior verificación pertinente."
+      },
+      "perlas": [
+        "Sin registro vacunal confiable: iniciar serie, no adivinar inmunidad.",
+        "Exposición ocupacional VHB requiere valorar anti-HBs, HBsAg de fuente y profilaxis."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Enfermera nueva sin carné de hepatitis B.",
+          "clave": "Iniciar serie según esquema vigente."
+        },
+        {
+          "caso": "Personal con serie documentada y anti-HBs protector.",
+          "clave": "No asumir necesidad automática de refuerzo."
+        },
+        {
+          "caso": "Trabajador no vacunado sufre pinchazo con fuente HBsAg positiva.",
+          "clave": "Evaluar de urgencia vacuna e inmunoglobulina según protocolo."
+        }
+      ]
+    }
+  ]
+}
