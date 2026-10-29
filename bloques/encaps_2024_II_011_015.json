@@ -1,0 +1,150 @@
+{
+  "bankId": "ENCAPS_2024_II",
+  "source": "PDF Medicina I SERUMS 01/09/2024",
+  "range": "011-015",
+  "format": "breve",
+  "questions": [
+    {
+      "number": 11,
+      "question": "¿Cuáles son factores de riesgo de enfermedad hipertensiva no modificables?",
+      "options": {
+        "A": "Tabaquismo, sedentarismo",
+        "B": "Consumo excesivo de sal",
+        "C": "Sexo masculino, edad ≥55 años",
+        "D": "Persona adulta ≥ 30 Kg/m2"
+      },
+      "correct": "C",
+      "temario": "Edad y sexo no son modificables; tabaco, sedentarismo, sal y obesidad sí.",
+      "fundamento": "La opción C contiene sexo y edad.",
+      "analisis": {
+        "A": "No corresponde al concepto principal.",
+        "B": "No corresponde al concepto principal.",
+        "C": "Respuesta esperada.",
+        "D": "No corresponde al concepto principal."
+      },
+      "perlas": [
+        "Edad y sexo no son modificables; tabaco, sedentarismo, sal y obesidad sí."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Caso práctico breve relacionado con ¿Cuáles son factores de riesgo de enfermedad hipertensiva no modificables?",
+          "clave": "La opción C contiene sexo y edad."
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "question": "Al conjunto al que se le quiere medir la distribución de variables en toda investigación se le conoce como:",
+      "options": {
+        "A": "Parámetro",
+        "B": "Muestra",
+        "C": "Población",
+        "D": "Variable"
+      },
+      "correct": "C",
+      "temario": "Población: conjunto de unidades de interés. Muestra: subconjunto.",
+      "fundamento": "Describe la población objetivo.",
+      "analisis": {
+        "A": "No corresponde al concepto principal.",
+        "B": "No corresponde al concepto principal.",
+        "C": "Respuesta esperada.",
+        "D": "No corresponde al concepto principal."
+      },
+      "perlas": [
+        "Población: conjunto de unidades de interés. Muestra: subconjunto."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Caso práctico breve relacionado con Al conjunto al que se le quiere medir la distribución de variables en toda investigación se le conoce como:",
+          "clave": "Describe la población objetivo."
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "question": "¿Qué institución conduce el Centro Nacional de Farmacovigilancia y Tecnovigilancia?",
+      "options": {
+        "A": "CDC",
+        "B": "INS",
+        "C": "CENARES",
+        "D": "DIGEMID"
+      },
+      "correct": "D",
+      "temario": "DIGEMID conduce el Centro Nacional de Farmacovigilancia y Tecnovigilancia.",
+      "fundamento": "La institución es DIGEMID.",
+      "analisis": {
+        "A": "No corresponde al concepto principal.",
+        "B": "No corresponde al concepto principal.",
+        "C": "No corresponde al concepto principal.",
+        "D": "Respuesta esperada."
+      },
+      "perlas": [
+        "DIGEMID conduce el Centro Nacional de Farmacovigilancia y Tecnovigilancia."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Caso práctico breve relacionado con ¿Qué institución conduce el Centro Nacional de Farmacovigilancia y Tecnovigilancia?",
+          "clave": "La institución es DIGEMID."
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "question": "Confirma o refuta los datos preliminares, solidifica las conclusiones y asienta las bases para la generalización científica o estadística de los resultados a la población de interés:",
+      "options": {
+        "A": "El adecuado análisis de datos",
+        "B": "Muestra adecuada y representativa",
+        "C": "Definición clara y precisa del objetivo",
+        "D": "Comparabilidad a lo largo del estudio"
+      },
+      "correct": "B",
+      "temario": "La representatividad de una muestra facilita inferir resultados a la población de referencia.",
+      "fundamento": "Una muestra adecuada y representativa sustenta la generalización.",
+      "analisis": {
+        "A": "No corresponde al concepto principal.",
+        "B": "Respuesta esperada.",
+        "C": "No corresponde al concepto principal.",
+        "D": "No corresponde al concepto principal."
+      },
+      "perlas": [
+        "La representatividad de una muestra facilita inferir resultados a la población de referencia."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Caso práctico breve relacionado con Confirma o refuta los datos preliminares, solidifica las conclusiones y asienta las bases para la generalización científica o estadística de los resultados a la población de interés:",
+          "clave": "Una muestra adecuada y representativa sustenta la generalización."
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "question": "¿Qué profesional debe tener la custodia de oxígeno medicinal en un establecimiento de salud?",
+      "options": {
+        "A": "Enfermera",
+        "B": "Químico farmacéutico",
+        "C": "Técnico de farmacia",
+        "D": "Médico"
+      },
+      "correct": "B",
+      "temario": "El oxígeno medicinal se gestiona como producto farmacéutico; la custodia técnica se asigna al químico farmacéutico según normas y organización.",
+      "fundamento": "La opción B identifica al profesional farmacéutico.",
+      "alerta": "Revisar la disposición exacta sobre custodia en la norma aplicable.",
+      "analisis": {
+        "A": "No corresponde al concepto principal.",
+        "B": "Respuesta esperada.",
+        "C": "No corresponde al concepto principal.",
+        "D": "No corresponde al concepto principal."
+      },
+      "perlas": [
+        "El oxígeno medicinal se gestiona como producto farmacéutico; la custodia técnica se asigna al químico farmacéutico según normas y organización."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Caso práctico breve relacionado con ¿Qué profesional debe tener la custodia de oxígeno medicinal en un establecimiento de salud?",
+          "clave": "La opción B identifica al profesional farmacéutico."
+        }
+      ]
+    }
+  ],
+  "semester": "2024-II"
+}
