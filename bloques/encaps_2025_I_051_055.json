@@ -1,0 +1,199 @@
+{
+  "bankId": "ENCAPS_2025_I",
+  "examType": "Medicina-I, cuadernillo del usuario",
+  "source": "PDF encaps 2025-I claves.pdf, Evaluación SERUMS MINSA Medicina I de 06 abril 2025, preguntas 51-55",
+  "range": "051-055",
+  "status": "desarrollo_razonado_pendiente_cotejo_claves_oficiales_e_integracion_en_app",
+  "questions": [
+    {
+      "number": 51,
+      "topic": "Cultura organizacional y diferencia con clima laboral",
+      "question": "¿Qué se define como la forma característica de pensar y hacer las cosas en una entidad, en base a principios, valores, creencias, conductas y normas?",
+      "options": {
+        "A": "Valores institucionales",
+        "B": "Cultura organizacional",
+        "C": "Principios institucionales",
+        "D": "Clima organizacional"
+      },
+      "correct": "B",
+      "temario": "La cultura organizacional es el conjunto de valores, supuestos, creencias, normas y patrones de conducta compartidos que orienta cómo una institución toma decisiones y realiza su trabajo. Se construye con el tiempo, se transmite por liderazgo, prácticas e historias institucionales y se observa en prioridades y comportamientos. El clima organizacional es la percepción presente del ambiente de trabajo: comunicación, satisfacción, reconocimiento, conflictos y liderazgo. Los valores o principios son componentes de la cultura, pero no representan por sí solos toda la forma característica de actuar. En salud, una cultura de seguridad facilita reportar incidentes sin ocultarlos y aprender de errores.",
+      "fundamento": "El enunciado reúne creencias, principios, conductas y normas que caracterizan el modo de actuar institucional: cultura organizacional.",
+      "analisis": {
+        "A": "Los valores son un componente, no toda la cultura.",
+        "B": "Incluye patrones compartidos de pensamiento y acción.",
+        "C": "Son orientaciones normativas dentro de la cultura.",
+        "D": "Refleja percepciones del ambiente laboral actual, no el conjunto de creencias arraigadas."
+      },
+      "perlas": [
+        "Cultura = cómo hacemos las cosas aquí.",
+        "Clima = cómo percibimos el ambiente de trabajo."
+      ],
+      "refuerzo": [
+        {
+          "caso": "En un hospital se considera normal ocultar errores por temor al castigo.",
+          "clave": "Cultura organizacional punitiva."
+        },
+        {
+          "caso": "Encuesta revela desmotivación por mala comunicación durante el último trimestre.",
+          "clave": "Clima organizacional."
+        },
+        {
+          "caso": "Centro declara 'respeto y transparencia' en su documento oficial.",
+          "clave": "Valores institucionales; evaluar si se reflejan realmente en su cultura."
+        }
+      ]
+    },
+    {
+      "number": 52,
+      "topic": "Mpox (viruela símica): definición de caso sospechoso",
+      "question": "Varón de 20 años HSH, que acude a la consulta por presentar erupciones genitales y orales, además dolor ano-rectal y sangrado leve. Ha tenido dolor de cabeza, fiebre, mialgias y adenopatías cervicales hace 2 días. ¿Cuál es el tipo de diagnóstico de viruela del mono?",
+      "options": {
+        "A": "Confirmado",
+        "B": "Caso secundario",
+        "C": "Sospechoso",
+        "D": "Contacto directo"
+      },
+      "correct": "C",
+      "temario": "Mpox es una infección por virus del género Orthopoxvirus que puede producir lesiones cutáneas o mucosas, fiebre, adenopatías y proctitis. Los casos pueden presentar lesiones anogenitales y orales; la evaluación debe ser no estigmatizante, pues la enfermedad no se limita a una orientación sexual. La presencia de lesiones compatibles y síntomas generales sustenta definición clínica de caso sospechoso, mientras la confirmación requiere prueba molecular de muestra de lesión u otra prueba aceptada según normativa. Debe incluirse diagnóstico diferencial con sífilis, herpes genital, varicela y otras ITS. Precauciones de contacto, evaluación de gravedad, pesquisa de ITS/VIH según consentimiento y notificación epidemiológica son aspectos centrales.",
+      "fundamento": "No se presenta resultado confirmatorio de laboratorio, por lo que corresponde sospecha clínica de mpox.",
+      "analisis": {
+        "A": "Confirmado requiere prueba válida según definición de vigilancia.",
+        "B": "No se documenta cadena de transmisión que permita clasificarlo como caso secundario.",
+        "C": "Lesiones y síndrome compatibles sin confirmación.",
+        "D": "Contacto es una condición epidemiológica, no clasificación principal de paciente sintomático."
+      },
+      "perlas": [
+        "Lesión compatible + síntomas ≠ confirmación sin laboratorio.",
+        "Lesiones anogenitales y proctitis pueden orientar sospecha de mpox."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Paciente tiene vesículas genitales, adenopatías y PCR de lesión positiva para mpox.",
+          "clave": "Caso confirmado."
+        },
+        {
+          "caso": "Paciente con lesiones anales y fiebre sin PCR disponible.",
+          "clave": "Caso sospechoso y toma de muestras."
+        },
+        {
+          "caso": "Contacto conviviente asintomático de caso de mpox.",
+          "clave": "Seguimiento de contacto, no clasificar como caso confirmado."
+        }
+      ]
+    },
+    {
+      "number": 53,
+      "topic": "Hipertensión arterial esencial: fármacos de primera línea",
+      "question": "En adultos de 18 años a más con HTA esencial, sin otras comorbilidades. ¿Qué grupo farmacológico se debe prescribir como primera elección?",
+      "options": {
+        "A": "Inhibidores de aldosterona",
+        "B": "Betabloqueadores",
+        "C": "Diuréticos de asa",
+        "D": "Diuréticos tiazídicos"
+      },
+      "correct": "D",
+      "temario": "En hipertensión esencial no complicada, familias farmacológicas habituales de primera línea incluyen diuréticos tiazídicos o similares, inhibidores de la ECA, antagonistas del receptor de angiotensina y bloqueadores de canales de calcio; la selección depende de edad, presión, condiciones clínicas, acceso y guías. Entre las alternativas de este ítem, el diurético tiazídico es la opción de primera línea más apropiada. Tiazidas bloquean el cotransportador Na-Cl del túbulo contorneado distal, reduciendo presión; vigilar sodio, potasio, función renal y ácido úrico según caso. Los betabloqueadores se priorizan cuando existen indicaciones específicas, como cardiopatía isquémica o ciertas arritmias. Antagonistas de aldosterona son útiles en HTA resistente o hiperaldosteronismo; los diuréticos de asa se reservan con frecuencia para sobrecarga de volumen o ciertas alteraciones renales.",
+      "fundamento": "En HTA esencial sin comorbilidades, los tiazídicos constituyen una familia inicial aceptada y son la única familia de primera línea entre las opciones.",
+      "analisis": {
+        "A": "Espironolactona y afines son indicados principalmente en hipertensión resistente o hiperaldosteronismo.",
+        "B": "No suelen ser la elección inicial universal si no hay indicación cardiovascular específica.",
+        "C": "Actúan sobre asa de Henle y son más útiles para estados de sobrecarga o condiciones determinadas.",
+        "D": "Familia de primera línea en hipertensión esencial."
+      },
+      "perlas": [
+        "Tiazidas actúan en túbulo distal y pueden causar hiponatremia e hipopotasemia.",
+        "HTA resistente: considerar antagonista de aldosterona tras evaluación."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Paciente de 48 años con HTA esencial sin otras enfermedades.",
+          "clave": "Considerar tiazida, IECA, ARA-II o calcioantagonista según guía; entre opciones del examen, tiazida."
+        },
+        {
+          "caso": "Paciente hipertenso con hipopotasemia y aldosterona elevada.",
+          "clave": "Evaluar hiperaldosteronismo; antagonista mineralocorticoide según diagnóstico."
+        },
+        {
+          "caso": "Paciente hipertenso con edema pulmonar agudo.",
+          "clave": "Diurético de asa puede estar indicado para congestión; manejo de emergencia."
+        }
+      ]
+    },
+    {
+      "number": 54,
+      "topic": "Dengue: hábitos de picadura del vector Aedes aegypti",
+      "question": "La transmisión del dengue a un huésped susceptible se da a través de la picadura de un zancudo hembra infectado (Aedes aegypti), estos zancudos pican preferentemente ...... y transmiten la enfermedad a varias personas durante toda su vida.",
+      "options": {
+        "A": "al amanecer y al atardecer",
+        "B": "al atardecer y durante la noche",
+        "C": "a medio día y sin lluvia",
+        "D": "solo en época de lluvias"
+      },
+      "correct": "A",
+      "temario": "Aedes aegypti es un mosquito principalmente diurno, con picos habituales de actividad alrededor de primeras horas de la mañana y últimas de la tarde, aunque puede picar en otros momentos según condiciones ambientales. La hembra necesita sangre para desarrollar huevos y puede alimentarse de varias personas. La transmisión del dengue depende del mosquito infectado, temperatura, circulación viral y densidad vectorial. La prevención incluye eliminar recipientes con agua acumulada, tapar depósitos, protegerse de picaduras con ropa y repelentes apropiados y ejecutar control vectorial focal según evaluación. La transmisión no ocurre exclusivamente en temporada de lluvias; el agua almacenada también sostiene criaderos.",
+      "fundamento": "La alternativa A describe el patrón diurno con mayor actividad al amanecer y atardecer.",
+      "analisis": {
+        "A": "Picos de picadura habituales del vector.",
+        "B": "La noche no es el periodo predominante típico de Aedes aegypti.",
+        "C": "No existe preferencia general por el mediodía seco.",
+        "D": "Puede persistir transmisión en otras épocas si hay criaderos y condiciones favorables."
+      },
+      "perlas": [
+        "Aedes aegypti pica sobre todo de día.",
+        "Control de criaderos es fundamental incluso fuera de lluvias."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Familia usa mosquitero solo de noche, pero hay dengue en el barrio.",
+          "clave": "Reforzar protección diurna y eliminación de criaderos."
+        },
+        {
+          "caso": "Viviendas almacenan agua sin tapa en estación seca.",
+          "clave": "Puede mantenerse reproducción de Aedes."
+        },
+        {
+          "caso": "Se detectan numerosos recipientes con larvas alrededor de casas.",
+          "clave": "Control ambiental y vigilancia vectorial."
+        }
+      ]
+    },
+    {
+      "number": 55,
+      "topic": "Interculturalidad en salud y articulación respetuosa con prácticas tradicionales",
+      "question": "Realizando visita domiciliaria, según el plan del cuidado integral de salud de las personas adultas mayores, se encuentra a un varón de 66 años de edad, vive solo; refiere tener “mal de ojo”, presenta “dolor de cabeza y dolor muscular”, llegará el curandero, realizará una limpia con cuy macho de color negro. Se le muestra interés e integración de los cuidados que requiere. ¿Éste enunciado se denomina?",
+      "options": {
+        "A": "Salud pública",
+        "B": "Cultura",
+        "C": "Población indígena",
+        "D": "Interculturalidad en salud"
+      },
+      "correct": "D",
+      "temario": "La interculturalidad en salud reconoce distintas concepciones y prácticas de salud-enfermedad y promueve comunicación respetuosa entre conocimientos biomédicos y tradicionales. En la visita se debe escuchar explicación del paciente, explorar signos de alarma y valorar cefalea/mialgia con evaluación clínica, sin ridiculizar la creencia. Puede coordinar prácticas tradicionales inocuas con atención profesional, sin permitir demoras en manejo de emergencias ni uso de sustancias potencialmente peligrosas. La 'cultura' engloba creencias, valores y prácticas de un grupo; interculturalidad describe relación de diálogo y adecuación de los cuidados entre sistemas de conocimiento.",
+      "fundamento": "La integración respetuosa del cuidado clínico con creencias del paciente caracteriza la interculturalidad en salud.",
+      "analisis": {
+        "A": "Salud pública es campo amplio de acción colectiva.",
+        "B": "Las prácticas tradicionales son culturales, pero la respuesta destaca articulación entre modelos.",
+        "C": "Ser indígena no define por sí solo una práctica de atención intercultural.",
+        "D": "Describe diálogo y atención culturalmente pertinente."
+      },
+      "perlas": [
+        "Interculturalidad = respeto y diálogo sin abandonar seguridad clínica.",
+        "No atribuir síntomas a una creencia sin descartar causas médicas relevantes."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Paciente desea una ceremonia tradicional mientras recibe tratamiento clínico seguro.",
+          "clave": "Compatibilizar prácticas inocuas y atención: interculturalidad."
+        },
+        {
+          "caso": "Profesional se burla de explicación tradicional sobre enfermedad.",
+          "clave": "Conducta contraria a pertinencia cultural."
+        },
+        {
+          "caso": "Adulto mayor con cefalea súbita intensa solicita primero ritual.",
+          "clave": "Explicar necesidad de evaluación urgente sin estigmatizar creencias."
+        }
+      ]
+    }
+  ]
+}
