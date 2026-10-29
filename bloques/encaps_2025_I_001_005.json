@@ -1,0 +1,200 @@
+{
+  "bankId": "ENCAPS_2025_I",
+  "examType": "Medicina-I (cuadernillo adjunto; no muestra etiqueta Tipo A en el encabezado)",
+  "source": "PDF aportado encaps 2025-I claves.pdf, Evaluación SERUMS MINSA Medicina I, 06 abril 2025, preguntas 1-5",
+  "range": "001-005",
+  "status": "desarrollo_razonado_pendiente_cotejo_con_claves_oficiales_e_integracion_en_app",
+  "questions": [
+    {
+      "number": 1,
+      "topic": "Estilos de vida, hábitos y conductas de salud",
+      "question": "Son comportamientos que pueden o no ser saludables e influir de manera positiva o negativa en la salud del individuo, caracterizan el modo de vida de un individuo y suelen ser permanentes. Esta definición corresponde a:",
+      "options": {
+        "A": "Estilo de vida",
+        "B": "Hábito saludable",
+        "C": "Autocuidado",
+        "D": "Práctica"
+      },
+      "correct": "A",
+      "temario": "Estilo de vida: conjunto de patrones relativamente estables de comportamiento, influidos por condiciones sociales, económicas y culturales, que repercuten en la salud (alimentación, actividad física, sueño, tabaco, alcohol). Un hábito es conducta repetida, que puede ser saludable o no; 'hábito saludable' excluye prácticas nocivas. Autocuidado comprende acciones deliberadas para mantener salud y afrontar enfermedad. En prevención, valorar oportunidad real de cambio y determinantes estructurales; no reducir la salud a voluntad individual.",
+      "fundamento": "El enunciado alude a un conjunto estable de comportamientos positivos o negativos que caracteriza el modo de vivir: estilo de vida.",
+      "analisis": {
+        "A": "Integra patrones conductuales saludables y nocivos de la persona.",
+        "B": "Solo se refiere a hábitos beneficiosos, mientras el enunciado incluye los nocivos.",
+        "C": "Son acciones específicas para cuidar la salud, no todos los comportamientos de vida.",
+        "D": "Es una conducta o actividad particular y no necesariamente un patrón general."
+      },
+      "perlas": [
+        "Estilo de vida = patrón de comportamientos.",
+        "Hábito saludable es subconjunto, no sinónimo general."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Persona con sedentarismo, tabaquismo y dieta alta en sal.",
+          "clave": "Patrón de estilo de vida con riesgos modificables."
+        },
+        {
+          "caso": "Paciente con diabetes aprende a medirse glucosa y revisar sus pies.",
+          "clave": "Autocuidado."
+        },
+        {
+          "caso": "Trabajador realiza caminata regular tras el almuerzo.",
+          "clave": "Hábito que contribuye a un estilo de vida activo."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "topic": "Resistencia antimicrobiana y uso racional de medicamentos",
+      "question": "Los medicamentos que han perdido su eficacia y que han llevado a diezmar la efectividad en la lucha contra la tuberculosis, las enfermedades diarreicas y la neumonía debido a la resistencia antimicrobiana, se debe a:",
+      "options": {
+        "A": "Uso irracional de medicamentos",
+        "B": "Uso de medicamentos genéricos",
+        "C": "Petitorio de los mismos medicamentos",
+        "D": "Uso adecuado de medicamentos de marca"
+      },
+      "correct": "A",
+      "temario": "La resistencia antimicrobiana (RAM) ocurre cuando microorganismos adquieren o seleccionan mecanismos que disminuyen la actividad de fármacos: betalactamasas, cambios de diana, bombas de eflujo y alteraciones de permeabilidad. La presión selectiva aumenta con uso innecesario de antibióticos, elección o duración inadecuadas, automedicación, subdosificación, falta de adherencia y problemas de acceso/calidad. En tuberculosis el tratamiento incorrecto o interrumpido puede seleccionar cepas resistentes; existen además transmisión primaria de cepas resistentes y otros determinantes. Antibióticos genéricos con calidad comprobada poseen el mismo principio activo y no causan resistencia por ser genéricos.",
+      "fundamento": "La opción A identifica el factor modificable principal enfatizado por el caso, aunque la RAM también depende de transmisión y otros factores.",
+      "analisis": {
+        "A": "Selección y empleo inadecuados favorecen presión selectiva y resistencia.",
+        "B": "La condición de genérico no es una causa de resistencia si cumple estándares de calidad.",
+        "C": "Un petitorio orienta disponibilidad y selección, no genera RAM por sí mismo.",
+        "D": "Ser de marca tampoco protege contra resistencia si se prescribe incorrectamente."
+      },
+      "perlas": [
+        "RAM no significa que el paciente se acostumbró al fármaco: son microorganismos resistentes.",
+        "Antibioterapia: indicación correcta, dosis, duración y adherencia."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Resfriado viral tratado innecesariamente con antibiótico.",
+          "clave": "Uso irracional favorece RAM."
+        },
+        {
+          "caso": "Paciente con TB interrumpe repetidamente tratamiento.",
+          "clave": "Riesgo de falla y selección de resistencia; verificar adherencia y sensibilidad."
+        },
+        {
+          "caso": "Genérico bioequivalente usado según protocolo.",
+          "clave": "No produce RAM por ser genérico."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "topic": "Enfoque de curso de vida en atención integral",
+      "question": "Comprende la sucesión de eventos que ocurren a lo largo de la existencia de las personas y la población, los cuales interactúan para influir en su salud desde la preconcepción hasta la muerte. ¿A qué definición se refiere?",
+      "options": {
+        "A": "Curso de vida",
+        "B": "Cuidado integral",
+        "C": "Vías de cuidados",
+        "D": "Determinante social"
+      },
+      "correct": "A",
+      "temario": "El enfoque de curso de vida analiza exposiciones, transiciones y eventos desde preconcepción hasta muerte y cómo sus efectos se acumulan o condicionan etapas posteriores. Considera periodos sensibles (embarazo, primera infancia, adolescencia), trayectorias de salud, relaciones entre generaciones y determinantes contextuales. El cuidado integral es respuesta organizada a necesidades, mientras las vías de cuidado estructuran atenciones y los determinantes sociales son condiciones que influyen en dichas trayectorias.",
+      "fundamento": "La definición temporal y acumulativa de eventos a lo largo de toda la existencia corresponde exactamente a curso de vida.",
+      "analisis": {
+        "A": "Describe eventos y exposiciones desde antes de nacer hasta morir.",
+        "B": "Es forma de organizar atenciones a necesidades, no la secuencia vital misma.",
+        "C": "Son rutas operativas de servicios e intervenciones.",
+        "D": "Es condición que influye en la salud; no el conjunto temporal de eventos."
+      },
+      "perlas": [
+        "Curso de vida: exposición temprana puede influir en riesgo adulto.",
+        "Atención integral organiza cuidados a partir de necesidades de cada etapa."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Desnutrición temprana influye en desarrollo cognitivo posterior.",
+          "clave": "Efecto acumulativo en curso de vida."
+        },
+        {
+          "caso": "Control prenatal, inmunizaciones y rehabilitación articulados para familia.",
+          "clave": "Cuidado integral."
+        },
+        {
+          "caso": "Pobreza y acceso educativo influyen en riesgos a lo largo de años.",
+          "clave": "Determinantes sociales que modifican trayectorias."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "topic": "Clima organizacional y relaciones interpersonales",
+      "question": "Se labora en un establecimiento de salud donde no hay una visión definida sobre el trabajo que se realiza; y existen muchos problemas interpersonales. Si se desea cambiar esta situación. ¿Qué se debe mejorar?",
+      "options": {
+        "A": "Clima organizacional",
+        "B": "Recursos humanos",
+        "C": "Plan de acción",
+        "D": "Proyecto de mejora"
+      },
+      "correct": "A",
+      "temario": "Clima organizacional es percepción compartida del ambiente de trabajo: comunicación, liderazgo, motivación, relaciones, reconocimiento y coordinación. Conflictos interpersonales, incertidumbre sobre propósitos y desconfianza sugieren problemas de clima. La visión institucional se ubica en dirección estratégica y merece clarificación, pero el reactivo enfatiza situación laboral cotidiana. Mejorar clima implica diagnóstico participativo, comunicación de metas, gestión de conflictos, claridad de roles y seguimiento de indicadores; no confundir con cultura organizacional (valores más arraigados).",
+      "fundamento": "Los problemas descritos reflejan percepciones del entorno y relaciones entre trabajadores: clima organizacional.",
+      "analisis": {
+        "A": "Categoría central para conflicto y desorientación del equipo.",
+        "B": "Recursos humanos son personas/función administrativa; no el atributo que se pide mejorar.",
+        "C": "El plan de acción es una herramienta para cambiar clima, no el problema conceptual.",
+        "D": "Proyecto de mejora es metodología, no la variable organizacional descrita."
+      },
+      "alerta": "La falta de visión también exige trabajo de planeamiento estratégico; la respuesta A se fundamenta en el foco interpersonal del ítem.",
+      "perlas": [
+        "Clima = percepción laboral del presente.",
+        "Cultura = valores y supuestos organizacionales duraderos."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Encuesta revela conflictos recurrentes y poca confianza en liderazgo.",
+          "clave": "Clima organizacional."
+        },
+        {
+          "caso": "Hospital desea acordar imagen común del futuro.",
+          "clave": "Definir visión institucional."
+        },
+        {
+          "caso": "Se ejecutan talleres de comunicación y seguimiento de satisfacción.",
+          "clave": "Intervención para mejorar clima."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "topic": "Metodología de investigación: reporte de caso clínico",
+      "question": "Un serumista luego de diagnosticar y tratar un caso clínico muy interesante, revisó profundamente la literatura y desea compartirlo con la comunidad científica. ¿Qué tipo de informe de investigación debe preparar?",
+      "options": {
+        "A": "Artículo original",
+        "B": "Revisión sistemática",
+        "C": "Reporte de caso",
+        "D": "Carta al editor"
+      },
+      "correct": "C",
+      "temario": "El reporte de caso presenta detalladamente una observación clínica individual novedosa o instructiva: antecedentes, síntomas, evaluación, diagnóstico diferencial, intervención, evolución y lecciones, junto a discusión de bibliografía. Conviene seguir directrices CARE, describir cronología, limitaciones y obtener consentimiento para publicación según requisitos éticos. No establece eficacia causal ni frecuencia poblacional; se trata de evidencia descriptiva que puede generar hipótesis. Artículo original reporta estudio con método y datos sistemáticos; revisión sistemática sintetiza estudios mediante búsqueda reproducible; carta al editor comenta o discute material de una revista.",
+      "fundamento": "El objetivo es comunicar la experiencia clínica de un paciente singular con revisión contextual: reporte de caso.",
+      "analisis": {
+        "A": "Suele informar resultados originales de estudio con diseño y metodología explícitos.",
+        "B": "Requiere pregunta, estrategia de búsqueda, selección y síntesis de múltiples estudios.",
+        "C": "Describe un paciente o evento clínico de interés y discusión bibliográfica.",
+        "D": "Texto breve de opinión o comentario, no el formato principal del caso."
+      },
+      "perlas": [
+        "Reporte de caso = narrativa clínica + razonamiento + discusión + consentimiento.",
+        "Una experiencia clínica no demuestra eficacia general de tratamiento."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Médico comunica manifestación inusual de infección en un paciente.",
+          "clave": "Reporte de caso."
+        },
+        {
+          "caso": "Equipo compara prospectivamente dos estrategias de manejo en 200 pacientes.",
+          "clave": "Investigación original."
+        },
+        {
+          "caso": "Grupo reúne ensayos mediante búsqueda y criterios previamente definidos.",
+          "clave": "Revisión sistemática."
+        }
+      ]
+    }
+  ]
+}
