@@ -1,0 +1,199 @@
+{
+  "bankId": "ENCAPS_2025_I",
+  "examType": "Medicina-I cuadernillo PDF del usuario",
+  "source": "encaps 2025-I claves.pdf, SERUMS MINSA Medicina I 06-04-2025, preguntas 21–25",
+  "range": "021-025",
+  "status": "desarrollo_razonado_pendiente_cotejo_claves_oficiales_e_integracion_en_app",
+  "questions": [
+    {
+      "number": 21,
+      "topic": "Oncología pediátrica: leucemia y proliferación de células hematopoyéticas",
+      "question": "¿Cuál es la sospecha diagnóstica de cáncer infantil más probable cuando hay un aumento no controlado de glóbulos blancos en la médula ósea?",
+      "options": {
+        "A": "Neuroblastoma",
+        "B": "Linfoma",
+        "C": "Leucemia",
+        "D": "Tumor de Wilms"
+      },
+      "correct": "C",
+      "temario": "La leucemia es una neoplasia hematológica caracterizada por proliferación clonal de precursores hematopoyéticos en médula ósea y, con frecuencia, sangre periférica. En la infancia predomina la leucemia linfoblástica aguda. La infiltración medular puede disminuir producción normal de eritrocitos, neutrófilos y plaquetas: palidez, infecciones y sangrados; también fiebre, dolor óseo, adenopatías y hepatoesplenomegalia. El recuento leucocitario periférico puede estar elevado, normal o bajo; 'aumento de glóbulos blancos' es simplificación del examen. El diagnóstico exige hemograma, frotis, aspirado o biopsia medular, inmunofenotipo y estudios genéticos. Ante citopenias o blastos sospechosos, referir oportunamente a hematología pediátrica.",
+      "fundamento": "El crecimiento descontrolado de células de línea leucocitaria en médula ósea corresponde a leucemia.",
+      "analisis": {
+        "A": "Neuroblastoma surge habitualmente del sistema nervioso simpático y forma masa sólida.",
+        "B": "Linfoma se origina en tejido linfoide y puede infiltrar médula, pero la descripción clásica es leucemia.",
+        "C": "Neoplasia de células hematopoyéticas medulares; opción correcta.",
+        "D": "Tumor renal embrionario de la infancia."
+      },
+      "perlas": [
+        "Leucemia infantil frecuente: linfoblástica aguda.",
+        "Un hemograma normal o leucopenia no excluyen leucemia."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Niño de cinco años presenta palidez, petequias y dolor óseo con blastos en sangre.",
+          "clave": "Sospecha leucemia aguda; referir y confirmar por médula/inmunofenotipo."
+        },
+        {
+          "caso": "Niño con masa abdominal renal unilateral, hematuria.",
+          "clave": "Pensar en tumor de Wilms."
+        },
+        {
+          "caso": "Niño con masa suprarrenal y catecolaminas urinarias elevadas.",
+          "clave": "Neuroblastoma."
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "topic": "Vigilancia epidemiológica tradicional, pasiva y centinela",
+      "question": "Los sistemas de vigilancia en salud (SVES) son la guía para la acción que el personal de salud utiliza para tomar decisiones prácticas frente a los problemas de salud. El tipo tradicional se caracteriza por que se...",
+      "options": {
+        "A": "usan datos específicos de información adicional.",
+        "B": "usa mediciones sistemáticas.",
+        "C": "incluye los procedimientos del proceso de la práctica «centinela».",
+        "D": "basan en los sistemas de declaración de enfermedades transmisibles y morbilidad."
+      },
+      "correct": "D",
+      "temario": "La vigilancia epidemiológica tradicional se fundamenta históricamente en la notificación regular de enfermedades transmisibles y eventos de morbilidad desde establecimientos hacia niveles superiores. Puede integrar vigilancia pasiva, donde los servicios reportan casos rutinariamente, y mecanismos activos durante brotes. La vigilancia centinela utiliza establecimientos seleccionados para profundizar seguimiento de eventos específicos; otras modalidades incluyen vigilancia sindrómica, de laboratorio y basada en eventos. Toda vigilancia exige definiciones de caso, registro, análisis, retroalimentación y respuesta. No confundir vigilancia (información para acción continua) con investigación epidemiológica aislada.",
+      "fundamento": "El enunciado apunta al sistema clásico de declaración/notificación de enfermedades, opción D.",
+      "analisis": {
+        "A": "Alude a fuentes complementarias, no define vigilancia tradicional.",
+        "B": "La medición sistemática caracteriza la vigilancia en general, no específicamente la tradicional.",
+        "C": "Centinela es modalidad específica diferente del modelo tradicional de notificación.",
+        "D": "Describe el sustento clásico en declaración de enfermedades y morbilidad."
+      },
+      "perlas": [
+        "Tradicional: notificación rutinaria de eventos.",
+        "Centinela: establecimientos seleccionados, no necesariamente cobertura universal."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Postas reportan semanalmente enfermedades de notificación obligatoria.",
+          "clave": "Vigilancia tradicional/pasiva."
+        },
+        {
+          "caso": "Tres hospitales seleccionados monitorean influenza con muestras virológicas.",
+          "clave": "Vigilancia centinela."
+        },
+        {
+          "caso": "Equipo busca casa por casa contactos durante brote.",
+          "clave": "Vigilancia activa."
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "topic": "Referencia por apoyo diagnóstico: cartera de servicios",
+      "question": "Un profesional de la salud desea realizar una ecografía, pero no cuenta en su centro con ese apoyo diagnóstico. Para realizar una referencia a otro establecimiento de salud. ¿Qué debe evaluar?",
+      "options": {
+        "A": "Categorización",
+        "B": "Organigrama",
+        "C": "Flujograma",
+        "D": "Cartera de servicios"
+      },
+      "correct": "D",
+      "temario": "Para referir un paciente a ecografía es necesario identificar un establecimiento receptor que efectivamente cuente con esa prestación disponible dentro de su cartera de servicios, además de condiciones de acceso y coordinación de la red. La cartera de servicios concreta qué atenciones, procedimientos y apoyos diagnósticos puede ofrecer cada IPRESS; la categoría refleja capacidad resolutiva general, pero no garantiza disponibilidad de ecografía en una fecha dada. El flujograma organiza ruta administrativa y el organigrama estructura jerárquica. Una referencia adecuada incluye indicación clínica, prioridad, datos relevantes y mecanismo de retorno de resultados y contrarreferencia.",
+      "fundamento": "La necesidad es verificar disponibilidad efectiva de ecografía, información que proporciona la cartera de servicios.",
+      "analisis": {
+        "A": "La categoría orienta complejidad, pero no confirma procedimiento específico.",
+        "B": "Describe estructura organizacional, no prestaciones diagnósticas.",
+        "C": "Indica pasos de referencia, pero no identifica servicios disponibles.",
+        "D": "Detalla prestaciones de la institución receptora, incluida ecografía."
+      },
+      "perlas": [
+        "Categoría = capacidad general; cartera = servicios concretos.",
+        "Referencia clínica debe asegurar retorno de resultado."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Puesto I-2 necesita ecografía obstétrica.",
+          "clave": "Consultar cartera y disponibilidad del establecimiento receptor."
+        },
+        {
+          "caso": "Paciente requiere cirugía de mayor complejidad.",
+          "clave": "Verificar categoría y cartera quirúrgica apropiadas."
+        },
+        {
+          "caso": "Personal desconoce secuencia de trámites de referencia.",
+          "clave": "Consultar flujograma de referencia."
+        }
+      ]
+    },
+    {
+      "number": 24,
+      "topic": "Diseños epidemiológicos: estudio observacional transversal",
+      "question": "Para investigar la relación entre la anemia y el peso de niños de 6° grado de primaria de un colegio, usted acude un día de la semana para medir la Hb y el peso a todos ellos. ¿Qué método de investigación está realizando?",
+      "options": {
+        "A": "Mixto",
+        "B": "Experimental",
+        "C": "Observacional",
+        "D": "Cuasi experimental"
+      },
+      "correct": "C",
+      "temario": "Un estudio observacional registra variables sin asignar intervenciones o exposiciones por parte de investigadores. Si hemoglobina y peso se miden en un único momento, el diseño temporal es transversal: estima prevalencia de anemia y permite analizar asociación con medidas antropométricas. La interpretación requiere valorar edad, sexo, altitud y evaluación nutricional correcta para evitar usar peso aislado fuera de contexto. No se puede establecer dirección temporal entre anemia y peso ni inferir causalidad automáticamente. En estudio experimental se asigna intervención, y en cuasiexperimental se evalúa una intervención sin asignación aleatoria completa. 'Mixto' describe combinación de datos cuantitativos y cualitativos, no la presencia de dos mediciones numéricas.",
+      "fundamento": "Se limitan a medir sin modificar variables, por lo que el método es observacional; por temporalidad, transversal.",
+      "analisis": {
+        "A": "No se recogen ni integran datos cualitativos y cuantitativos de forma mixta.",
+        "B": "No hay asignación de tratamiento ni exposición.",
+        "C": "Describe el estudio sin intervención sobre los participantes.",
+        "D": "No se evalúa una intervención aplicada a grupos."
+      },
+      "perlas": [
+        "Observacional define ausencia de intervención asignada.",
+        "Transversal: medición única, asociación sin temporalidad probada."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Miden Hb y talla de escolares en una visita única.",
+          "clave": "Observacional transversal."
+        },
+        {
+          "caso": "Asignan aleatoriamente suplemento de hierro o placebo.",
+          "clave": "Experimental."
+        },
+        {
+          "caso": "Comparan anemia antes y después de una intervención escolar sin aleatorizar.",
+          "clave": "Cuasiexperimental, según diseño."
+        }
+      ]
+    },
+    {
+      "number": 25,
+      "topic": "Brote por enfermedad transmitida por alimentos: notificación inmediata",
+      "question": "El lunes 30 de marzo se apersonan a un puesto de salud de categoría I-3, 15 personas con vómitos y diarrea, quienes participaron en una pollada el día anterior. El caso es identificado como una Enfermedad Transmitida por Alimentos. ¿En qué momento se realiza la notificación epidemiológica del brote al nivel inmediato superior?",
+      "options": {
+        "A": "De manera inmediata",
+        "B": "Cuando se reporta el VEA de la semana",
+        "C": "Al alta de los pacientes",
+        "D": "Hasta las 48 horas"
+      },
+      "correct": "A",
+      "temario": "Ante agrupación temporal de enfermos que compartieron una exposición alimentaria, sospechar brote de ETA y notificar inmediatamente según sistema de vigilancia correspondiente, sin esperar confirmación microbiológica ni consolidación semanal. El abordaje incluye evaluar deshidratación y gravedad, rehidratación, definición de caso, lista lineal de afectados, identificación de alimento/agua común, tiempos de incubación, coordinación con epidemiología y sanidad alimentaria, toma de muestras cuando esté indicada y control de fuente. La tasa de ataque por alimento se calcula entre expuestos y no expuestos para orientar hipótesis, aunque requiere verificar población total. Atención: el cuadernillo de abril de 2025 menciona 'lunes 30 de marzo' y no se usa ese detalle para modificar el sentido clínico del ítem.",
+      "fundamento": "Un brote sospechoso de ETA amerita notificación inmediata para activar investigación y medidas preventivas.",
+      "analisis": {
+        "A": "Permite respuesta rápida y control de fuente; respuesta correcta.",
+        "B": "Esperar reporte semanal retrasa contención.",
+        "C": "El alta no es un requisito para vigilancia epidemiológica.",
+        "D": "Esperar 48 horas no representa la notificación inmediata del brote."
+      },
+      "perlas": [
+        "Brote ETA: notificar inmediatamente, investigar exposición y controlar fuente.",
+        "No esperar laboratorio para iniciar vigilancia y respuesta."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Doce asistentes a una boda presentan vómitos cuatro horas después.",
+          "clave": "Sospechar brote ETA, notificar de inmediato e investigar alimento."
+        },
+        {
+          "caso": "Un caso de diarrea sin nexo evidente.",
+          "clave": "Atención clínica y vigilancia según definición; no concluir brote sin nexo."
+        },
+        {
+          "caso": "Todos consumieron pollo y mayonesa; aparecen casos.",
+          "clave": "Construir línea de casos y estimar tasas de ataque por alimento."
+        }
+      ]
+    }
+  ]
+}
