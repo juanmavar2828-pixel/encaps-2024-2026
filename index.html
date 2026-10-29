@@ -355,6 +355,24 @@ async function init(){
       }
     }catch(err){console.warn('Banco ENCAPS 2026-I no disponible: se conserva la copia local anterior',err)}
   }
+
+  // Balotario DIRESA Puno 2026: conservar preguntas, claves y justificaciones originales,
+  // con módulos de 100 números y sin reemplazar los bancos ENCAPS existentes.
+  if(location.protocol==='http:'||location.protocol==='https:'){
+    const archivosBalotario=["balotario_001_100.json","balotario_101_200.json","balotario_201_300.json","balotario_301_400.json","balotario_401_500.json","balotario_501_600.json"];
+    for(const archivoBalotario of archivosBalotario){
+      try{
+        const respuestaBalotario=await fetch('./'+archivoBalotario,{cache:'no-store'});
+        if(!respuestaBalotario.ok)continue;
+        const bancoBalotario=await respuestaBalotario.json();
+        if(!String(bancoBalotario.bankId||'').startsWith('BALOTARIO_DIRESA_PUNO_2026_'))continue;
+        if(retiredBanks.has(bancoBalotario.bankId))continue;
+        validateBank(bancoBalotario);
+        await put('banks',bancoBalotario);
+      }catch(err){console.warn('Bloque del balotario no disponible:',archivoBalotario,err)}
+    }
+    bs=await getAll('banks');
+  }
   bs.forEach(b=>banks.set(b.bankId,b));
   const rawProgress=await getAll('progress');
   for(const p of rawProgress){

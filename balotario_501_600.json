@@ -1,0 +1,1609 @@
+{
+  "schemaVersion": 1,
+  "bankId": "BALOTARIO_DIRESA_PUNO_2026_501_600",
+  "title": "Balotario del 501 al 600 · DIRESA Puno 2026",
+  "source": "Balotario Médicos Cirujanos y Obstetras · DIRESA Puno · Edición 2026 · PDF proporcionado por el usuario (sin verificación externa de claves)",
+  "questionCount": 100,
+  "questions": [
+    {
+      "number": 501,
+      "code": "DIRESA26 P501",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "En las zonas rurales de Puno (poblaciones quechuas y aymaras), la desconfianza hacia los establecimientos de salud durante el parto suele estar ligada al manejo de la placenta. Desde la cosmovisión andina y según la Norma Técnica de Parto con Adecuación Intercultural, ¿qué significado tiene la placenta y cuál debe ser la conducta del equipo de salud?",
+      "options": {
+        "A": "Se considera un desecho biológico contaminante que debe ser incinerado inmediatamente frente a la familia.",
+        "B": "Se considera un elemento sin valor, pero se debe entregar por protocolo legal.",
+        "C": "Es vista como el 'compañero' o 'gemelo' del recién nacido ('animu'); debe entregarse a la familia si lo solicitan para su entierro ritual, lo cual protege la vida del niño.",
+        "D": "Debe ser retenida obligatoriamente en el centro de salud para investigación epidemiológica del MINSA.",
+        "E": "Se considera la causa de la preeclampsia y debe ser donada a la universidad local."
+      },
+      "correct": "C",
+      "comment": "En la cosmovisión andina, la placenta posee un profundo valor espiritual, considerada la 'madre' o el 'compañero' del bebé. Su entierro ritual abriga al niño y evita enfermedades. La norma técnica obliga al personal a respetar esta creencia y entregar la placenta a la familia."
+    },
+    {
+      "number": 502,
+      "code": "DIRESA26 P502",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "La región Puno presenta anualmente temporadas de Heladas y Friaje que incrementan drásticamente la mortalidad por Neumonía en menores de 5 años. Epidemiológicamente, ¿cuál es el factor determinante estructural que convierte al descenso de temperatura en una emergencia de salud pública en el altiplano?",
+      "options": {
+        "A": "La mutación genética estacional de los virus respiratorios por la altura.",
+        "B": "La condición de pobreza, hacinamiento, desnutrición y la precariedad de las viviendas (sin aislamiento térmico) que no protegen del frío extremo intradomiciliario.",
+        "C": "La negativa absoluta de las madres a usar abrigos de lana de alpaca.",
+        "D": "La falta exclusiva de unidades de cuidados intensivos pediátricos.",
+        "E": "El consumo de alimentos excesivamente fríos durante el invierno."
+      },
+      "correct": "B",
+      "comment": "El frío por sí solo no causa neumonía. El problema de salud pública subyace en los determinantes sociales: viviendas precarias (frío intradomiciliario, humo de leña), desnutrición crónica y hacinamiento, que vulneran las defensas del niño facilitando las infecciones respiratorias graves."
+    },
+    {
+      "number": 503,
+      "code": "DIRESA26 P503",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "En las comunidades andinas de Puno, es frecuente el consumo de 'Chaco' (arcilla comestible) junto con ciertos alimentos como la papa. Desde el punto de vista nutricional y obstétrico, ¿qué implicancia tiene el consumo frecuente de esta arcilla (geofagia) en la gestante y el niño?",
+      "options": {
+        "A": "Actúa como un potente suplemento vitamínico natural que previene la preeclampsia.",
+        "B": "Incrementa la absorción de hierro a nivel del duodeno, combatiendo la anemia.",
+        "C": "No tiene ninguna repercusión biológica; es una práctica inocua.",
+        "D": "Contiene fitatos y minerales que bloquean severamente la absorción de hierro y otros micronutrientes, empeorando o desencadenando la anemia ferropénica.",
+        "E": "Cura la infección por Helicobacter pylori en gestantes."
+      },
+      "correct": "D",
+      "comment": "El chaco es una arcilla rica en silicatos de aluminio. Aunque se consume tradicionalmente para evitar problemas gástricos, en la luz intestinal actúa atrapando minerales y nutrientes, impidiendo drásticamente la absorción del hierro (inhibidor potente), agravando la alta prevalencia de anemia en la región."
+    },
+    {
+      "number": 504,
+      "code": "DIRESA26 P504",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "Para reducir las barreras de acceso geográfico y cultural en Puno, el MINSA promueve el uso de las 'Casas Maternas'. ¿Cuál es el objetivo estratégico principal de esta intervención de salud pública en la reducción de la muerte materna?",
+      "options": {
+        "A": "Funcionar como clínicas quirúrgicas clandestinas para abortos seguros.",
+        "B": "Alojar temporalmente a gestantes de zonas alejadas en los días previos a su fecha probable de parto, acercándolas al establecimiento de salud resolutivo y evitando la demora en el traslado ante una emergencia.",
+        "C": "Brindar asilo permanente a mujeres abandonadas por sus parejas.",
+        "D": "Aislar a las gestantes con tuberculosis MDR del resto de la comunidad.",
+        "E": "Reemplazar a los hospitales en la atención de partos complicados."
+      },
+      "correct": "B",
+      "comment": "Las Casas Maternas son estrategias de alojamiento temporal intercultural. Hospedan a gestantes rurales que viven lejos (y a sus acompañantes) en las semanas previas al parto. Esto ataca la 'Segunda Demora' (demora en llegar al centro de salud), garantizando un parto institucional oportuno."
+    },
+    {
+      "number": 505,
+      "code": "DIRESA26 P505",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "Una paciente aymarahablante acude a su primer control prenatal. La obstetra, que solo habla castellano, utiliza un tono de voz elevado e indicaciones médicas complejas ('tiene riesgo de eclampsia, debe tomar metildopa'). La paciente asiente con la cabeza pero no retorna a sus citas. Según el enfoque intercultural, ¿qué barrera primaria se ha vulnerado en esta atención?",
+      "options": {
+        "A": "La barrera económica, al no cobrarle la consulta.",
+        "B": "La barrera geográfica, por la distancia del puesto.",
+        "C": "La barrera lingüística y la comunicación horizontal/empática; no se garantizó la comprensión del mensaje ni se usó un intérprete o mediador cultural.",
+        "D": "La barrera inmunológica, por falta de vacunas.",
+        "E": "La barrera de género, por ser la obstetra mujer."
+      },
+      "correct": "C",
+      "comment": "La comunicación en salud requiere pertinencia cultural. El uso de tecnicismos médicos en un idioma que la paciente no domina, sumado a una actitud asimétrica o autoritaria, levanta una barrera lingüística y de confianza (cultural) que explica la alta tasa de deserción en los controles prenatales en zonas andinas."
+    },
+    {
+      "number": 506,
+      "code": "DIRESA26 P506",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "La Fasciolosis hepática es una zoonosis de alta prevalencia en la región Puno, especialmente en zonas ganaderas (Asillo, Azángaro). El ciclo biológico de la Fasciola hepatica requiere indispensablemente de un 'Huésped Intermediario' en el ecosistema andino. ¿Cuál es este organismo?",
+      "options": {
+        "A": "El perro pastor (Canis lupus familiaris).",
+        "B": "El zorro andino (Lycalopex culpaeus).",
+        "C": "El caracol de agua dulce del género Lymnaea.",
+        "D": "La vaca o la oveja.",
+        "E": "El piojo humano (Pediculus humanus)."
+      },
+      "correct": "C",
+      "comment": "La Fasciola hepatica necesita ambientes acuáticos estancados (acequias). Sus huevos eclosionan y los miracidios penetran obligatoriamente en un caracol de agua dulce (género Lymnaea), su huésped intermediario, donde se multiplican antes de salir como cercarias y enquistarse en las plantas acuáticas (berros)."
+    },
+    {
+      "number": 507,
+      "code": "DIRESA26 P507",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "Durante el parto en un centro de salud intercultural en Puno, la gestante exige que el ambiente sea oscurecido, que se cierren las ventanas para evitar las 'corrientes de aire' (soq'a) y pide tomar un mate caliente. ¿Cuál es la explicación etnomédica de esta solicitud que la obstetra debe respetar?",
+      "options": {
+        "A": "Creencia de que la oscuridad cura la preeclampsia.",
+        "B": "Teoría andina del equilibrio frío-calor; el parto es un estado 'caliente' y la exposición al frío o al aire causa desequilibrio, enfermedad o 'pasmo' en la madre.",
+        "C": "Es una técnica para acelerar el latido cardíaco fetal.",
+        "D": "Simplemente busca dormir para no sentir el dolor de las contracciones.",
+        "E": "Busca evitar que los médicos la examinen visualmente."
+      },
+      "correct": "B",
+      "comment": "En la medicina tradicional andina impera el principio de dicotomía frío/calor. El parto y el puerperio dejan el cuerpo de la mujer 'abierto' y vulnerable al frío y al viento (soq'a wayra), lo cual causa dolor ('sobreparto'). Proveer un ambiente cálido y mates calientes respeta este equilibrio y genera confianza."
+    },
+    {
+      "number": 508,
+      "code": "DIRESA26 P508",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "La 'Equinococosis Quística' (Hidatidosis) es otra enfermedad endémica en la región altiplánica de Puno por su vocación ovejera. Epidemiológicamente, ¿cómo adquiere la infección primaria el ser humano en las zonas rurales?",
+      "options": {
+        "A": "Por consumir carne de carnero o vaca mal cocida que contiene el quiste hidatídico.",
+        "B": "Por la picadura de mosquitos en zonas ganaderas.",
+        "C": "Por inhalación de esporas en el guano de las aves.",
+        "D": "Por la ingestión accidental de huevos microscópicos del Echinococcus granulosus presentes en las heces de perros infectados (frecuentemente al acariciarlos o por agua/alimentos contaminados).",
+        "E": "Por contacto directo de la piel con la lana de las alpacas."
+      },
+      "correct": "D",
+      "comment": "El humano es un huésped intermediario accidental en la hidatidosis. Se infecta al ingerir los huevos del parásito que el perro (huésped definitivo) expulsa en sus heces, luego de que este fue alimentado con vísceras de ovejas infestadas con quistes. No se transmite por comer carne infectada (eso infecta al perro)."
+    },
+    {
+      "number": 509,
+      "code": "DIRESA26 P509",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "En Puno, ante un cuadro pediátrico de diarrea y vómitos, muchas madres diagnostican la enfermedad tradicional del 'Susto' o 'Mancharisqa' (pérdida del ánimo). Para el equipo de salud (médico/enfermera), ¿cuál es el abordaje intercultural correcto frente a esta situación?",
+      "options": {
+        "A": "Prohibir rotundamente las prácticas tradicionales e iniciar vía endovenosa.",
+        "B": "Burlarse de la creencia para educar a la madre sobre bacterias y virus.",
+        "C": "Aceptar el diagnóstico de 'Susto', permitir que realicen sus ritos de curación (ej. llamar al ánimo, pasar el huevo) de forma simultánea, e introducir la Terapia de Rehidratación Oral (TRO) médica como complemento para 'dar fuerza' al niño.",
+        "D": "Denunciar a la madre por negligencia infantil.",
+        "E": "Derivar al niño exclusivamente al curandero local sin intervenir médicamente."
+      },
+      "correct": "C",
+      "comment": "La interculturalidad en salud implica el diálogo horizontal y el respeto. Desautorizar a la madre genera rechazo al sistema de salud. El abordaje exitoso consiste en articular ambas visiones: no prohibir las prácticas inocuas tradicionales del 'susto' e integrar armónicamente el tratamiento biomédico (sales de rehidratación oral) para prevenir la muerte por deshidratación."
+    },
+    {
+      "number": 510,
+      "code": "DIRESA26 P510",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "El departamento de Puno cuenta con gran altitud y zonas de actividad minera artesanal (ej. La Rinconada, Ananea). En estos asentamientos mineros temporales, existe un problema de salud pública agravado por la migración, el hacinamiento y la prostitución clandestina. ¿Qué grupo de patologías representa una prioridad epidemiológica de control en estos lugares?",
+      "options": {
+        "A": "Cólera y fiebre amarilla.",
+        "B": "Infecciones de Transmisión Sexual (ITS, Sífilis, VIH) y la co-infección con Tuberculosis (debido a las malas condiciones laborales y hacinamiento).",
+        "C": "Paludismo (Malaria) y Dengue clásico.",
+        "D": "Leishmaniasis mucocutánea exclusiva.",
+        "E": "Enfermedades desmielinizantes autoinmunes."
+      },
+      "correct": "B",
+      "comment": "En campamentos de minería ilegal/artesanal en la altura, las condiciones de vida precarias, el trabajo en socavón y la alta tasa de comercio sexual sin protección generan focos epidemiológicos críticos de ITS (Sífilis, Gonorrea, VIH) y de Tuberculosis (Silicotuberculosis), potenciados por el hacinamiento extremo y la falta de servicios básicos."
+    },
+    {
+      "number": 511,
+      "code": "DIRESA26 P511",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "En la evaluación de la mortalidad materna en el sur andino (Puno), se utiliza el modelo de las 'Tres Demoras'. Cuando la familia de una gestante con hemorragia decide esperar al curandero o al esposo para autorizar el traslado al centro de salud, ¿a qué demora específica corresponde esta barrera?",
+      "options": {
+        "A": "Primera demora (Demora en reconocer el problema y tomar la decisión de buscar ayuda).",
+        "B": "Segunda demora (Demora en llegar al establecimiento de salud).",
+        "C": "Tercera demora (Demora en recibir tratamiento adecuado y oportuno en el hospital).",
+        "D": "Cuarta demora (Demora en el alta médica).",
+        "E": "Demora estructural del Estado."
+      },
+      "correct": "A",
+      "comment": "El modelo de las tres demoras explica la mortalidad materna. La Primera Demora ocurre en el hogar: es el retraso en identificar los signos de alarma o la falta de capacidad de decisión de la mujer (dependencia del esposo, suegros o creencias tradicionales) para acudir al establecimiento de salud."
+    },
+    {
+      "number": 512,
+      "code": "DIRESA26 P512",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "Un médico SERUMS en una comunidad quechua observa que los recién nacidos son fuertemente envueltos (fajados) desde el cuello hasta los pies, inmovilizándolos (práctica del 'chumpi' o walthakuy). Clínicamente, ¿cuál es el principal riesgo ortopédico infantil derivado de esta práctica tradicional prolongada?",
+      "options": {
+        "A": "Luxación congénita (Displasia del Desarrollo) de la Cadera, debido a la extensión y aducción forzada de los miembros inferiores.",
+        "B": "Pie bot o pie equinovaro.",
+        "C": "Escoliosis idiopática juvenil.",
+        "D": "Acortamiento congénito del fémur.",
+        "E": "Osteogénesis imperfecta."
+      },
+      "correct": "A",
+      "comment": "El fajado tradicional andino ('walthakuy') mantiene las caderas y rodillas del bebé en extensión completa y aducción estricta (juntas). Esta posición antianatómica en los primeros meses de vida impide el correcto desarrollo del acetábulo, aumentando dramáticamente la incidencia de Displasia del Desarrollo de la Cadera (DDC) y luxaciones."
+    },
+    {
+      "number": 513,
+      "code": "DIRESA26 P513",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "En Puno (altitud > 3800 m), el diagnóstico de Anemia Gestacional requiere ajustar el valor de hemoglobina leído en el equipo. Si una gestante presenta una lectura de Hb de 13.5 g/dL, y el factor de ajuste por altitud para su localidad es de -3.5 g/dL, ¿cuál es su hemoglobina real y su diagnóstico según los puntos de corte del MINSA (Anemia si Hb < 11 g/dL)?",
+      "options": {
+        "A": "Hb real 10.0 g/dL; Diagnóstico: Anemia Leve.",
+        "B": "Hb real 17.0 g/dL; Diagnóstico: Policitemia.",
+        "C": "Hb real 11.5 g/dL; Diagnóstico: Normal.",
+        "D": "Hb real 13.5 g/dL; Diagnóstico: Normal (no se ajusta en gestantes).",
+        "E": "Hb real 8.0 g/dL; Diagnóstico: Anemia Severa."
+      },
+      "correct": "A",
+      "comment": "El ajuste poblacional se realiza restando el factor de corrección por altura al valor leído: 13.5 - 3.5 = 10.0 g/dL (Hb Real). En gestantes, el límite normal es 11.0 g/dL. Un valor entre 10.0 y 10.9 g/dL clasifica como Anemia Leve, requiriendo inicio de tratamiento terapéutico con hierro."
+    },
+    {
+      "number": 514,
+      "code": "DIRESA26 P514",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "El 'Síndrome de Preeclampsia-Eclampsia' es la principal causa de muerte materna en hospitales de Puno. Fisiopatológicamente, ¿cómo impacta la gran altitud en la patogénesis de los trastornos hipertensivos del embarazo en mujeres andinas?",
+      "options": {
+        "A": "La altura protege completamente contra la preeclampsia debido a la poliglobulia.",
+        "B": "La hipoxia crónica de la altura incrementa el estrés oxidativo, favorece la disfunción endotelial materna y altera la invasión trofoblástica (placentación defectuosa), elevando la incidencia y severidad de la preeclampsia en comparación con el nivel del mar.",
+        "C": "Provoca diabetes gestacional secundaria que desencadena la eclampsia.",
+        "D": "Disminuye la presión arterial sistémica haciéndolas inmunes al daño renal.",
+        "E": "Evita el vasoespasmo cerebral por vasodilatación adaptativa extrema."
+      },
+      "correct": "B",
+      "comment": "La hipoxia hipobárica crónica de la altura interfiere con el desarrollo normal de la placenta (remodelación deficiente de las arterias espirales). Esto perpetúa un estado de isquemia placentaria y liberación de factores antiangiogénicos (sFlt-1) a la circulación materna, causando disfunción endotelial y un notable aumento en la incidencia de preeclampsia."
+    },
+    {
+      "number": 515,
+      "code": "DIRESA26 P515",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "En la región Puno, la Rabia Humana transmitida por perros (rabia urbana) fue un problema histórico grave. Actualmente, la vigilancia epidemiológica en el Perú prioriza el control del perro. Si una persona es mordida en Puno por un perro callejero que luego escapa y no puede ser observado, ¿cuál es el protocolo obligatorio?",
+      "options": {
+        "A": "Iniciar inmediatamente profilaxis antirrábica humana (vacuna y/o suero según gravedad de la herida) debido al riesgo potencial, ya que el animal no es observable.",
+        "B": "Esperar 15 días a ver si el paciente presenta hidrofobia.",
+        "C": "Curar la herida solo con agua oxigenada y yodo.",
+        "D": "Administrar antibióticos de amplio espectro exclusivamente.",
+        "E": "Enviar una muestra de sangre del paciente al Instituto Nacional de Salud para descartar la rabia antes de vacunar."
+      },
+      "correct": "A",
+      "comment": "Ante la mordedura por un perro desconocido, vagabundo o que se fuga (imposible de observar por 10 días para descartar síntomas de rabia), se asume que el animal es rabioso por principio epidemiológico preventivo. El inicio de la vacunación antirrábica es inmediato y mandatorio."
+    },
+    {
+      "number": 516,
+      "code": "DIRESA26 P516",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "El Cáncer de Cuello Uterino tiene una alta morbimortalidad en mujeres del sur del Perú. Las barreras culturales (pudor, rechazo al examen ginecológico por personal masculino) dificultan la toma del Papanicolaou. ¿Qué estrategia técnica ha implementado el MINSA para mejorar el tamizaje del VPH superando parte de esta barrera en áreas rurales?",
+      "options": {
+        "A": "Realizar el Papanicolaou obligatorio bajo sedación.",
+        "B": "Uso de la prueba molecular para VPH mediante el sistema de 'Autotoma' vaginal, donde la propia paciente recolecta su muestra en privado.",
+        "C": "Diagnóstico exclusivo por ecografía transvaginal.",
+        "D": "Colposcopia anual universal a todas las mujeres mayores de 18 años.",
+        "E": "Examen de sangre para anticuerpos contra el VPH."
+      },
+      "correct": "B",
+      "comment": "La autotoma de muestras vaginales para detección del ADN del Virus del Papiloma Humano (Prueba Molecular) es una estrategia innovadora de salud pública. Es altamente sensible, no requiere colocación de espéculo por un proveedor y respeta el pudor de la mujer andina, aumentando significativamente la cobertura del tamizaje."
+    },
+    {
+      "number": 517,
+      "code": "DIRESA26 P517",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "Una gestante aymara acude al C.S. Ilave en labor de parto. Solicita dar a luz en cuclillas apoyada en la cama y que la placenta no sea traccionada, sino que espera que 'nazca sola' con un mate de orégano. La obstetra le informa que, por el riesgo de hemorragia, debe aplicarle una inyección (oxitocina) en el muslo justo después que nazca el bebé. La paciente se niega a la inyección. Según la norma técnica, ¿cómo se debe proceder?",
+      "options": {
+        "A": "Aplicar la inyección a la fuerza, pues la norma del MINSA sobre MATEP es superior a su decisión.",
+        "B": "Dialogar, explicar los beneficios (prevenir que se 'desangre') y, si persiste la negativa tras el consentimiento informado, respetar su decisión y realizar un alumbramiento fisiológico expectante, manteniendo estricta vigilancia del sangrado.",
+        "C": "Obligarla a firmar su alta voluntaria y retirarla del centro de salud en pleno parto.",
+        "D": "Llamar a la policía para que custodie la aplicación de la oxitocina.",
+        "E": "Administrar la inyección sin que ella se dé cuenta durante la distracción del llanto del bebé."
+      },
+      "correct": "B",
+      "comment": "El enfoque de derechos en salud exige el Consentimiento Informado. Si una mujer rechaza el Manejo Activo del Alumbramiento (MATEP) por motivos culturales y desea un manejo expectante, el personal debe educar y negociar. Si la negativa persiste, es ilegal forzar la intervención; se debe proceder con el alumbramiento fisiológico/espontáneo vigilando rigurosamente."
+    },
+    {
+      "number": 518,
+      "code": "DIRESA26 P518",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "La desnutrición crónica infantil en Puno afecta severamente el desarrollo cognitivo. En un niño de 3 años de la zona rural, ¿cuál de los siguientes signos en la curva de crecimiento de la tarjeta CRED evidencia con certeza Desnutrición Crónica (Retardo del Crecimiento)?",
+      "options": {
+        "A": "La caída aguda del Peso para la Talla en la última semana por un cuadro diarreico.",
+        "B": "El estancamiento o caída prolongada de la curva del indicador Talla para la Edad (T/E) por debajo de -2 Desviaciones Estándar.",
+        "C": "Un Índice de Masa Corporal (IMC) elevado para la edad.",
+        "D": "Un aumento rápido del perímetro cefálico.",
+        "E": "La presencia de anemia leve sin alteración del peso."
+      },
+      "correct": "B",
+      "comment": "La desnutrición crónica se manifiesta biológicamente por un fallo en el crecimiento lineal. El indicador antropométrico epidemiológico y clínico para medir la cronicidad del daño nutricional y ambiental en la infancia es la Talla para la Edad (T/E) o 'Stunting'."
+    },
+    {
+      "number": 519,
+      "code": "DIRESA26 P519",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "En un Puesto de Salud fronterizo, el médico atiende a un poblador con un cuadro febril intermitente ('terciana'), escalofríos intensos y sudoración profusa tras retornar de la selva puneña (Sandia o San Gabán). Se sospecha de Malaria (Paludismo). ¿Cuál es el examen diagnóstico rápido y confirmatorio de elección que debe solicitar el médico en su Puesto de Salud?",
+      "options": {
+        "A": "Cultivo de sangre en agar MacConkey.",
+        "B": "Examen de Gota Gruesa y Frotis de sangre periférica teñido con Giemsa para observar los parásitos intracelulares (Plasmodium).",
+        "C": "Tomografía de tórax de alta resolución.",
+        "D": "Resonancia magnética cerebral.",
+        "E": "Prueba rápida de antígeno prostático."
+      },
+      "correct": "B",
+      "comment": "La Gota Gruesa es la técnica diagnóstica de referencia (Gold Standard) de primera línea en salud pública para la Malaria. Permite visualizar los diferentes estadios del parásito (Plasmodium vivax o falciparum) dentro de los glóbulos rojos, cuantificar la parasitemia y confirmar el diagnóstico."
+    },
+    {
+      "number": 520,
+      "code": "DIRESA26 P520",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "En la gestión de la Red de Salud Puno, se busca reducir la alta tasa de infecciones neonatales y mortalidad materna. Desde el enfoque de los 'Determinantes Sociales', ¿cuál de las siguientes acciones representa una intervención estructural clave de nivel municipal para mejorar ambos indicadores a mediano y largo plazo?",
+      "options": {
+        "A": "Comprar más ecógrafos 4D para el hospital central.",
+        "B": "Suministrar pañales gratuitos a las madres.",
+        "C": "La construcción e implementación de sistemas de saneamiento básico (agua potable y alcantarillado intradomiciliario) en todas las comunidades rurales.",
+        "D": "Contratar exclusivamente a cirujanos plásticos para las episiotomías.",
+        "E": "Obligar legalmente a todas las mujeres a tener partos por cesárea."
+      },
+      "correct": "C",
+      "comment": "La falta de agua potable y desagüe (saneamiento básico) es un determinante estructural/intermediario de profunda desigualdad. Su carencia es la causa raíz de las altas tasas de EDAs, parasitosis, desnutrición y sepsis materno-neonatal (por falta de higiene en partos domiciliarios). La inversión en saneamiento tiene el impacto preventivo más alto en salud pública."
+    },
+    {
+      "number": 521,
+      "code": "DIRESA26 P521",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "En la medicina tradicional andina (Puno), una enfermedad común en niños pequeños es el 'Chullpa wayra' o 'viento de los antepasados', que se cree ocurre al pasar cerca de ruinas preincaicas o chullpas. Clínicamente, el niño llega al centro de salud con lesiones costrosas, amarillentas y purulentas en el rostro, principalmente alrededor de la boca y la nariz, típicas del Impétigo. ¿Cuál es el agente bacteriano más frecuente de esta infección cutánea y su tratamiento de elección en el primer nivel?",
+      "options": {
+        "A": "Pseudomonas aeruginosa; Ciprofloxacino oral.",
+        "B": "Virus del Herpes Simple; Aciclovir tópico.",
+        "C": "Streptococcus pyogenes o Staphylococcus aureus; lavado con agua y jabón, y antibiótico tópico (Mupirocina) o sistémico (Cefalexina/Dicloxacilina).",
+        "D": "Mycobacterium leprae; Rifampicina.",
+        "E": "Sarcoptes scabiei; Permetrina tópica."
+      },
+      "correct": "C",
+      "comment": "El Impétigo contagioso (costras melicéricas) es una infección bacteriana superficial de la piel muy común en niños, causada por S. aureus o S. pyogenes. En la sierra suele atribuirse al 'viento de las ruinas'. El tratamiento biomédico efectivo es la higiene y el uso de antibióticos tópicos (Mupirocina) o sistémicos (Cefalexina) si es extenso."
+    },
+    {
+      "number": 522,
+      "code": "DIRESA26 P522",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "Una gestante de Sandia (selva de Puno) es diagnosticada con Leishmaniasis Cutánea (Uta) durante el segundo trimestre de su embarazo. Presenta una úlcera activa en la pierna. ¿Cuál es la conducta terapéutica normada por el MINSA respecto al uso de Antimoniales Pentavalentes (Estibogluconato de sodio o Antimoniato de meglumina) en esta paciente?",
+      "options": {
+        "A": "Administrar dosis completas de inmediato por ser una enfermedad letal.",
+        "B": "Están ABSOLUTAMENTE CONTRAINDICADOS durante todo el embarazo por su toxicidad (teratogenicidad y riesgo de muerte fetal); se debe usar tratamiento local (termoterapia) o posponer el tratamiento sistémico hasta el término de la gestación.",
+        "C": "Administrar a mitad de dosis para proteger al feto.",
+        "D": "Cambiar por Anfotericina B endovenosa en el primer nivel.",
+        "E": "Iniciar tratamiento exclusivo con corticoides tópicos."
+      },
+      "correct": "B",
+      "comment": "Los antimoniales pentavalentes, el tratamiento de primera línea para la leishmaniasis en Perú, tienen alta toxicidad hepática, renal y cardíaca, y son altamente teratogénicos. Su uso sistémico está formalmente contraindicado en gestantes. Se opta por medidas locales o esperar al parto, ya que la forma cutánea rara vez compromete la vida."
+    },
+    {
+      "number": 523,
+      "code": "DIRESA26 P523",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "En Puno, la lactancia materna exclusiva a menudo compite con prácticas tradicionales, como la introducción temprana de infusiones o mates (anís, manzanilla) para 'calmar los cólicos' del bebé menor de 6 meses. Desde la salud pública, ¿por qué está contraindicada esta práctica y qué riesgo específico representa para el lactante?",
+      "options": {
+        "A": "Provoca crecimiento acelerado de los dientes.",
+        "B": "Aumenta la absorción de hierro causando hemocromatosis.",
+        "C": "Desplaza la leche materna (disminuyendo el aporte calórico y proteico), interfiere con la absorción de nutrientes e incrementa significativamente el riesgo de infecciones gastrointestinales (EDAs) por agua contaminada.",
+        "D": "Genera adicción a los azúcares naturales.",
+        "E": "No tiene ningún riesgo; es una práctica recomendada."
+      },
+      "correct": "C",
+      "comment": "Dar infusiones ('agüitas') antes de los 6 meses rompe la exclusividad de la lactancia materna. El estómago del bebé se llena de agua sin calorías ni anticuerpos, causando desnutrición ('desplazamiento'), y el agua/biberón suele estar contaminado, siendo una causa principal de diarreas severas en el primer semestre de vida."
+    },
+    {
+      "number": 524,
+      "code": "DIRESA26 P524",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "Un adulto de la zona urbana de Juliaca presenta un cuadro agudo de cefalea intensa, mialgias generalizadas ('quebrantahuesos'), fiebre alta y un exantema maculopapular ('islas blancas en mar rojo'). Refiere haber regresado de la ceja de selva de Sandia hace 5 días. Durante su evolución, el paciente presenta dolor abdominal intenso y continuo, y sangrado de mucosas (epistaxis y gingivorragia). ¿En qué fase clínica se encuentra y a qué grupo de gravedad corresponde según la clasificación de la OMS/MINSA?",
+      "options": {
+        "A": "Fase febril; Dengue sin signos de alarma.",
+        "B": "Fase crítica; Dengue con signos de alarma (requiere hidratación endovenosa estricta en hospital).",
+        "C": "Fase de recuperación; Dengue grave.",
+        "D": "Fase neurológica; Meningoencefalitis viral.",
+        "E": "Fase hemorrágica terminal; Fiebre Amarilla grave."
+      },
+      "correct": "B",
+      "comment": "El paciente presenta un cuadro clásico de Dengue. La aparición de 'Signos de Alarma' (dolor abdominal intenso, vómitos persistentes, sangrado de mucosas, letargia) ocurre típicamente al caer la fiebre (fase crítica, por extravasación de plasma). Estos signos anuncian un posible shock inminente y exigen hospitalización para reanimación hídrica (Grupo B2)."
+    },
+    {
+      "number": 525,
+      "code": "DIRESA26 P525",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "En la cosmovisión andina, el 'Karisiri' o 'Pishtaco' es una figura mítica temida que extrae la grasa (energía) de las personas, dejándolas consumidas y enfermas. Clínicamente, un paciente que cree haber sido atacado por el Karisiri acude al centro de salud presentando extrema delgadez, tos crónica con hemoptisis, fiebre nocturna y debilidad profunda. ¿Cuál es el diagnóstico biomédico subyacente más frecuente que encaja con este cuadro de consunción en la región Puno?",
+      "options": {
+        "A": "Cáncer gástrico avanzado.",
+        "B": "Síndrome de inmunodeficiencia adquirida (SIDA) en fase inicial.",
+        "C": "Tuberculosis pulmonar activa avanzada (enfermedad consuntiva).",
+        "D": "Anemia megaloblástica severa.",
+        "E": "Diabetes Mellitus tipo 1 debutante."
+      },
+      "correct": "C",
+      "comment": "La creencia del Karisiri (ladrón de grasa corporal) es la forma etnomédica de explicar enfermedades crónicas y consuntivas que causan pérdida masiva de peso y energía vital. En Puno, la Tuberculosis Pulmonar avanzada es la causa biomédica principal que produce este cuadro de caquexia ('tisis'), sudores nocturnos y hemoptisis."
+    },
+    {
+      "number": 526,
+      "code": "DIRESA26 P526",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "Un criador de alpacas en Macusani presenta múltiples quistes hidatídicos en el hígado diagnosticados por ecografía. Se decide iniciar manejo médico exclusivo porque los quistes son inoperables o pequeños. ¿Cuál es el antiparasitario de primera línea normado para el tratamiento de la Equinococosis Quística (Hidatidosis) en humanos, que inhibe la captación de glucosa del parásito?",
+      "options": {
+        "A": "Metronidazol oral por 7 días.",
+        "B": "Praziquantel en dosis única.",
+        "C": "Ivermectina subcutánea.",
+        "D": "Albendazol (generalmente en ciclos prolongados de 28 días) a dosis de 10-15 mg/kg/día.",
+        "E": "Triclabendazol por 2 días."
+      },
+      "correct": "D",
+      "comment": "El Albendazol es el fármaco de elección (y a menudo se usa junto con praziquantel) para el tratamiento médico de la hidatidosis quística inoperable, profilaxis pre/postoperatoria o técnica PAIR. Su mecanismo de acción daña los microtúbulos del parásito, impidiendo que capte glucosa y causándole la muerte celular por agotamiento energético."
+    },
+    {
+      "number": 527,
+      "code": "DIRESA26 P527",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "Durante el trabajo de parto en un establecimiento I-4, se atiende un parto en presentación cefálica. Al completarse la dilatación (fase expulsiva), la cabeza fetal no avanza. Al tacto vaginal, la obstetra palpa la sutura sagital, pero nota que está profundamente desviada hacia el promontorio materno, exponiendo ampliamente el parietal anterior del feto detrás del pubis. ¿Cómo se denomina este defecto de actitud o posición fetal que dificulta el encajamiento?",
+      "options": {
+        "A": "Asinclitismo posterior (de Litzmann).",
+        "B": "Asinclitismo anterior (de Naegele).",
+        "C": "Sinclitismo fisiológico.",
+        "D": "Presentación de cara mento-posterior.",
+        "E": "Rotación occipitoposterior persistente."
+      },
+      "correct": "B",
+      "comment": "El sinclitismo es el paralelismo entre la sutura sagital y el eje de la pelvis. Cuando la cabeza se inclina, se produce un 'asinclitismo'. Si la sutura sagital se acerca al promontorio, desciende y se palpa primero el hueso parietal anterior del feto, se denomina Asinclitismo Anterior (o de Naegele), una adaptación frecuente para sortear promontorios prominentes."
+    },
+    {
+      "number": 528,
+      "code": "DIRESA26 P528",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "Para combatir la anemia en Puno, las instituciones fomentan el consumo de 'Sangrecita' (sangre de pollo, res o alpaca cocida) en los niños. Bioquímicamente, ¿cuál es la razón científica por la cual la sangrecita es un alimento estratégico y superior a los vegetales (como la espinaca) en el tratamiento de la anemia ferropénica?",
+      "options": {
+        "A": "Contiene altas dosis de Vitamina B12 exclusiva.",
+        "B": "Contiene hierro de tipo 'No Hem' (inorgánico), que se absorbe al 100%.",
+        "C": "Contiene hierro de tipo 'Hem' (orgánico), cuya absorción intestinal es muy alta (hasta un 20-30%) y no es bloqueada significativamente por inhibidores dietéticos como el calcio o los taninos.",
+        "D": "Aumenta la producción directa de eritropoyetina en el riñón.",
+        "E": "Tiene propiedades antibióticas contra los parásitos intestinales."
+      },
+      "correct": "C",
+      "comment": "El hierro en la dieta existe en dos formas: Hem y No Hem. El hierro Hem (presente en la sangre, carnes rojas y vísceras) se absorbe intacto mediante un receptor específico en el intestino, con altísima biodisponibilidad y sin sufrir la interferencia de fitatos o calcio, a diferencia del hierro No Hem de los vegetales que se absorbe pobremente (1-5%)."
+    },
+    {
+      "number": 529,
+      "code": "DIRESA26 P529",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "En una comunidad altoandina con escasez de agua potable segura, ocurre un brote de Enfermedad Diarreica Aguda (EDA). Un lactante de 1 año presenta diarrea acuosa, no se observan signos de deshidratación al examen físico (ojos normales, pliegue normal, sed normal). La madre exige que se le aplique 'suero por la vena'. Según los lineamientos AIEPI, ¿cuál es el plan de manejo correcto (Plan A) que debe instruir la enfermera a la madre para su casa?",
+      "options": {
+        "A": "Administrar suero endovenoso de todas formas a solicitud de la madre.",
+        "B": "Suspender la lactancia materna y la alimentación por 24 horas para 'limpiar' el estómago.",
+        "C": "Aumentar la ingesta de líquidos (SRO, agua segura, sopas, leche materna), continuar la alimentación habitual y enseñar signos de alarma para regresar de inmediato (Ej. no puede beber, empeora, sangre en heces).",
+        "D": "Dar Loperamida y Bismuto cada 8 horas.",
+        "E": "Administrar Ciprofloxacino en jarabe profiláctico."
+      },
+      "correct": "C",
+      "comment": "El Plan A para pacientes con diarrea SIN deshidratación se basa en el manejo en el hogar con las 'Reglas del Plan A' (AIEPI): Dar más líquidos de lo habitual para prevenir deshidratación, continuar la alimentación nutritiva para prevenir desnutrición, y reconocer signos de peligro para buscar ayuda. Los antidiarreicos están contraindicados en niños."
+    },
+    {
+      "number": 530,
+      "code": "DIRESA26 P530",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "Una gestante acude al centro de salud de Ilave refiriendo que ha sido tratada por curanderos locales debido al 'Chullchu' (escalofríos o paludismo) con hierbas amargas. Actualmente cursa con un embarazo de 8 semanas. Si la paciente realmente tuviera Malaria Vivax (endémica en algunos valles) y requiriera tratamiento farmacológico del MINSA, ¿qué antipalúdico clave para la cura radical (erradicación de hipnozoítos hepáticos) está ESTRICTAMENTE CONTRAINDICADO durante todo el embarazo?",
+      "options": {
+        "A": "Cloroquina.",
+        "B": "Primaquina.",
+        "C": "Quinina.",
+        "D": "Mefloquina.",
+        "E": "Artesunato."
+      },
+      "correct": "B",
+      "comment": "La Primaquina es el único fármaco que erradica las formas durmientes (hipnozoítos) del Plasmodium vivax en el hígado. Sin embargo, está formalmente contraindicada en mujeres embarazadas (y en lactantes menores de 6 meses) debido al alto riesgo de causar anemia hemolítica severa en el feto por deficiencia fisiológica de Glucosa-6-Fosfato Deshidrogenasa."
+    },
+    {
+      "number": 531,
+      "code": "DIRESA26 P531",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "Un adulto mayor agricultor de papas en Puno sufre una herida profunda y sucia en el pie con una herramienta agrícola oxidada. Nunca ha recibido vacunas en su vida. Para la prevención del Tétanos (enfermedad mortal causada por la toxina de Clostridium tetani), ¿cuál es el esquema de manejo inmunológico preventivo adecuado para esta herida tetanígena en un paciente no inmunizado?",
+      "options": {
+        "A": "Iniciar solo el esquema de vacuna antitetánica (dT) de 3 dosis (0, 1, 6 meses).",
+        "B": "Limpiar la herida y administrar solo Amoxicilina.",
+        "C": "Administrar simultáneamente la Inmunoglobulina Antitetánica Humana (IGT, inmunidad pasiva inmediata) en un sitio anatómico diferente y la primera dosis de la vacuna dT (inmunidad activa), completando luego el esquema de vacunación.",
+        "D": "Dar de alta y observar si presenta trismo.",
+        "E": "Administrar doble dosis de penicilina sin vacunar."
+      },
+      "correct": "C",
+      "comment": "En una herida con alto riesgo de tétanos (sucia, profunda, con tierra/óxido) en un paciente sin esquema de vacunación previo comprobado, se requiere protección inmediata (Inmunoglobulina para neutralizar toxinas libres) y protección a largo plazo (inicio de la vacuna toxoide dT), administradas en brazos diferentes."
+    },
+    {
+      "number": 532,
+      "code": "DIRESA26 P532",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "La adecuación cultural en salud en Puno incluye el respeto por el rol de la Partera Tradicional o Matrona andina. Según las estrategias del MINSA para disminuir la morbimortalidad materno-perinatal en comunidades aisladas, ¿cuál debe ser la relación institucional del Centro de Salud con las parteras tradicionales?",
+      "options": {
+        "A": "Prohibir su ejercicio y denunciarlas legalmente por empirismo.",
+        "B": "Ignorarlas y realizar atenciones a escondidas.",
+        "C": "Capacitarlas obligatoriamente para que realicen cesáreas en las comunidades.",
+        "D": "Integrarlas al sistema de salud mediante capacitación continua en signos de alarma, prácticas seguras de higiene (corte de cordón limpio) y articulación para que actúen como agentes de derivación temprana de las gestantes hacia el parto institucional.",
+        "E": "Pagarles un salario mensual para que atiendan todos los partos en casa."
+      },
+      "correct": "D",
+      "comment": "Las parteras tradicionales gozan de gran confianza en sus comunidades. La estrategia exitosa no es la exclusión punitiva, sino la inclusión, capacitación y articulación comunitaria. Se les entrena para identificar peligros, evitar infecciones (uso de kit limpio) y persuadir a las mujeres de acudir al centro de salud para el parto seguro."
+    },
+    {
+      "number": 533,
+      "code": "DIRESA26 P533",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "Un recién nacido en el Hospital Regional de Puno presenta cianosis generalizada, letargia y dificultad respiratoria leve a las 2 horas de vida. Su hematocrito capilar es del 72% y el hematocrito venoso central es del 68%. Este trastorno es frecuente en la altura y en hijos de madres preeclámpticas. ¿Cuál es el diagnóstico clínico y hematológico?",
+      "options": {
+        "A": "Anemia hemolítica isoinmune.",
+        "B": "Policitemia Neonatal (asociada al aumento de la viscosidad sanguínea).",
+        "C": "Sepsis neonatal fulminante por Estreptococo B.",
+        "D": "Cardiopatía congénita cianótica severa.",
+        "E": "Hipotermia severa yatrogénica."
+      },
+      "correct": "B",
+      "comment": "La policitemia neonatal se define como un hematocrito venoso central mayor o igual al 65%. Es más frecuente en la altura (hipoxia crónica intrauterina), en fetos con RCIU o hijos de diabéticas/preeclámpticas. El exceso de glóbulos rojos causa hiperviscosidad sanguínea, resultando en hipoperfusión tisular, cianosis, plétora ('color rojo intenso'), letargia y riesgo de trombosis."
+    },
+    {
+      "number": 534,
+      "code": "DIRESA26 P534",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "Durante el invierno, los establecimientos de salud de Puno distribuyen a las gestantes y madres información preventiva contra el 'friaje'. En pediatría, las madres suelen abrigar excesivamente a los bebés con múltiples capas de mantas (sobreabrigamiento) en ambientes cerrados. ¿A qué riesgo grave y silencioso predispone directamente esta práctica de sobreabrigamiento nocturno en lactantes sanos menores de 6 meses?",
+      "options": {
+        "A": "Desnutrición aguda por falta de sol.",
+        "B": "Neumonía fulminante por sudoración.",
+        "C": "Síndrome de Muerte Súbita del Lactante (SMSL), al aumentar la temperatura central y disminuir la respuesta al despertar (arousal) frente a la asfixia posicional.",
+        "D": "Desarrollo temprano de asma infantil.",
+        "E": "Intolerancia a la lactosa."
+      },
+      "correct": "C",
+      "comment": "El sobreabrigamiento (estrés térmico excesivo) y dormir en un ambiente demasiado cálido son factores de riesgo independientes fuertemente asociados al Síndrome de Muerte Súbita del Lactante (SMSL). El exceso de calor deprime los centros respiratorios del tronco encefálico y evita que el bebé despierte si hay un episodio de apnea o re-inhalación de CO2."
+    },
+    {
+      "number": 535,
+      "code": "DIRESA26 P535",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "Una paciente usuaria del implante subdérmico anticonceptivo (Implanon) en Puno consulta por una reacción adversa al método: lleva 4 meses desde la inserción y refiere sangrados o goteos vaginales irregulares continuos (spotting), sin anemia. Afirma que el chamán local le dijo que la sangre 'se está pudriendo por no salir', lo cual le genera angustia. ¿Cuál es el manejo médico inicial de primera línea para controlar este sangrado irregular leve?",
+      "options": {
+        "A": "Extraer el implante de inmediato y realizar un legrado.",
+        "B": "Tranquilizar a la paciente desmitificando la creencia (la sangre no se pudre), explicar que es un efecto normal de adaptación y administrar AINEs (ej. Ibuprofeno) por 5 a 7 días para reducir el goteo.",
+        "C": "Administrar anticoagulantes endovenosos.",
+        "D": "Dar suplementos de hierro a altas dosis y referir al psiquiatra.",
+        "E": "Prescribir inyecciones de oxitocina semanales."
+      },
+      "correct": "B",
+      "comment": "El sangrado irregular o 'spotting' es el efecto secundario más frecuente de los métodos que contienen solo progestágeno (implantes, inyectables). El manejo inicial consiste en educación intensiva para desmitificar creencias dañinas y, si el sangrado es molesto, el uso de AINEs (Ibuprofeno 800mg/día) durante 5 a 7 días ha demostrado ser eficaz para regular el endometrio."
+    },
+    {
+      "number": 536,
+      "code": "DIRESA26 P536",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "En la evaluación obstétrica del Trabajo de Parto, se mide la 'Estación' o nivel de descenso fetal. Si en el tacto vaginal la parte más declive de la cabeza fetal se encuentra a un (1) centímetro por ENCIMA de las espinas ciáticas maternas, ¿cuál es la denominación clínica correcta de esta estación según el sistema de DeLee?",
+      "options": {
+        "A": "Estación 0.",
+        "B": "Estación +1.",
+        "C": "Estación -1.",
+        "D": "Estación +2.",
+        "E": "Estación -3."
+      },
+      "correct": "C",
+      "comment": "El sistema de DeLee utiliza las espinas ciáticas maternas como punto de referencia (Estación 0 o presentación encajada). Las posiciones por encima de las espinas se designan en centímetros con números negativos (-1, -2, -3), y las posiciones por debajo, a medida que el feto desciende, con números positivos (+1, +2, +3)."
+    },
+    {
+      "number": 537,
+      "code": "DIRESA26 P537",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "Un varón de 45 años, de una comunidad de la zona del lago Titicaca, acude por disnea y dolor torácico crónico. La ecocardiografía muestra hipertrofia ventricular derecha y un quiste hidatídico en el lóbulo pulmonar inferior derecho de 10 cm. Según el ciclo de la enfermedad, si este quiste pulmonar se rompe espontáneamente hacia un bronquio (vómica hidatídica), ¿cuál es el signo clínico o síntoma clásico que presenta el paciente en ese momento agudo?",
+      "options": {
+        "A": "Hematemesis profusa (vómito de sangre pura).",
+        "B": "Expulsión violenta y súbita, mediante accesos de tos intensos, de un líquido salado, claro ('cristal de roca') a veces acompañado de restos de membranas blanquecinas (hollejos de uva).",
+        "C": "Síncope súbito sin expectoración.",
+        "D": "Paro cardíaco respiratorio fulminante por neumonía.",
+        "E": "Diarrea acuosa explosiva con membranas."
+      },
+      "correct": "B",
+      "comment": "La vómica hidatídica es la complicación clásica de la rotura de un quiste hidatídico pulmonar hacia el árbol bronquial. El paciente tose y expectora violentamente una gran cantidad de líquido claro, salado y muy antigénico (que puede desencadenar anafilaxia), a menudo acompañado de cutículas o membranas del parásito que se asemejan a 'hollejos de uva'."
+    },
+    {
+      "number": 538,
+      "code": "DIRESA26 P538",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "En la evaluación de un adulto joven que acude a triaje refiriendo tener 'fiebre y malestar general', la enfermera mide la temperatura axilar obteniendo 38.2°C y la temperatura rectal, que resulta ser 38.8°C. Desde el punto de vista fisiopatológico y clínico, ¿cómo se denomina y cómo actúa el centro termorregulador en el cerebro ante una infección bacteriana (síndrome febril real vs hipertermia)?",
+      "options": {
+        "A": "La fiebre es una falla absoluta del hipotálamo, que pierde el control del calor corporal.",
+        "B": "El hipotálamo eleva su 'punto de ajuste' (set-point) térmico fisiológico inducido por pirógenos circulantes (ej. prostaglandina E2), haciendo que el cuerpo genere calor activamente (escalofríos) para alcanzar ese nuevo nivel.",
+        "C": "Es un daño irreversible de la corteza cerebral por el frío externo.",
+        "D": "Es un fenómeno puramente vascular sin participación nerviosa.",
+        "E": "La hipertermia y la fiebre son exactamente el mismo proceso fisiopatológico."
+      },
+      "correct": "B",
+      "comment": "En la fiebre verdadera, los pirógenos exógenos (bacterias) estimulan a las células para liberar pirógenos endógenos (IL-1, TNF), los cuales llegan al hipotálamo anterior y promueven la síntesis de PGE2. Esta molécula eleva el 'termostato' o set-point hipotalámico. El cuerpo se siente 'frío' respecto a este nuevo punto y responde generando calor (escalofríos) y conservándolo (vasoconstricción). En la hipertermia (ej. golpe de calor), el set-point está normal pero los mecanismos de pérdida fallan."
+    },
+    {
+      "number": 539,
+      "code": "DIRESA26 P539",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "Una gestante a término ingresa a la sala de expulsivo. El parto vaginal transcurre sin problemas y nace un bebé sano. Inmediatamente después del nacimiento (MATEP en curso), antes de cortar el cordón umbilical, ¿en qué posición y lugar anatómico normado debe colocarse al recién nacido para asegurar una adecuada transición fisiológica y promover la oxigenación (además de iniciar el contacto piel a piel)?",
+      "options": {
+        "A": "En una mesa de reanimación bajo calor radiante, lejos de la madre, para examinarlo profundamente.",
+        "B": "Colgando por los pies (posición de Trendelenburg extremo) para que expulse las secreciones pulmonares por gravedad.",
+        "C": "Sobre el pecho/abdomen desnudo de la madre (posición en decúbito prono), para contacto piel a piel inmediato y termorregulación mutua.",
+        "D": "En una cuna térmica lateralizada, hasta que llore por segunda vez.",
+        "E": "Elevado por encima del nivel de la placenta por 5 minutos."
+      },
+      "correct": "C",
+      "comment": "La atención inmediata neonatal basada en evidencia exige evitar la separación rutinaria. Si el recién nacido llora y tiene buen tono, no requiere aspiración de secreciones ni mesas de reanimación. Debe ser colocado de inmediato (y secado simultáneamente) sobre el abdomen/tórax desnudo de la madre. Esto estabiliza su frecuencia cardíaca, su temperatura, previene el estrés y facilita el enganche precoz al pecho."
+    },
+    {
+      "number": 540,
+      "code": "DIRESA26 P540",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "En la jurisdicción de la DIRESA Puno, las 'Redes de Salud' (como San Román, Puno, El Collao) son estructuras fundamentales para la gestión territorial. Según la definición normativa del MINSA y el modelo de Atención Primaria, ¿qué es exactamente una 'Red de Salud' o Red Integrada de Salud (RIS)?",
+      "options": {
+        "A": "Un conjunto de hospitales especializados de nivel III concentrados en la capital de la región.",
+        "B": "Un sistema de clínicas privadas que brindan servicios al Estado mediante contratos de tercerización.",
+        "C": "Una organización territorial articulada de establecimientos y servicios de salud de diferentes niveles de complejidad y capacidad resolutiva (puestos, centros y hospitales de apoyo), que garantizan la atención continua e integral de una población determinada.",
+        "D": "Una red informática que conecta las computadoras de los hospitales para ver historias clínicas.",
+        "E": "El conjunto de farmacias estatales de una provincia."
+      },
+      "correct": "C",
+      "comment": "Una Red de Salud (hoy evolucionando a Redes Integradas de Salud - RIS) no es un solo edificio, sino la articulación funcional de múltiples establecimientos del primer, segundo (y a veces tercer) nivel dentro de un territorio geográfico definido. Su diseño garantiza el sistema de referencias y contrarreferencias, asegurando que el paciente resuelva sus problemas de salud de manera continua sin importar la complejidad."
+    },
+    {
+      "number": 541,
+      "code": "DIRESA26 P541",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "En la medicina tradicional aymara de la región circunlacustre (alrededor del lago Titicaca), se utiliza frecuentemente la planta medicinal conocida como 'Muña' (Minthostachys mollis). ¿Cuál es la indicación terapéutica tradicional más común de esta planta y cuál es su principal propiedad farmacológica demostrada científicamente?",
+      "options": {
+        "A": "Se usa para curar fracturas óseas; su propiedad es osteogénica.",
+        "B": "Se utiliza para tratar afecciones gastrointestinales (cólicos, dispepsia, gases) y males respiratorios de la altura; tiene demostradas propiedades carminativas, antiespasmódicas y antibacterianas (incluso contra H. pylori en estudios in vitro).",
+        "C": "Se aplica como colirio para la conjuntivitis; su propiedad es antiviral.",
+        "D": "Se emplea exclusivamente para inducir el aborto; su propiedad es oxitócica severa.",
+        "E": "Se mastica para quitar el sueño; su propiedad es estimulante del SNC similar a la cocaína."
+      },
+      "correct": "B",
+      "comment": "La muña es una planta emblemática del ande peruano. Tradicionalmente se usa en infusiones para el dolor de estómago ('pasmado') y el soroche. Científicamente, sus aceites esenciales (como la pulegona) tienen potentes efectos carminativos, antiespasmódicos y propiedades antimicrobianas reconocidas."
+    },
+    {
+      "number": 542,
+      "code": "DIRESA26 P542",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "Durante el invierno, la DIRESA Puno implementa el 'Plan de Contingencia ante Heladas y Friaje'. En el componente de inmunizaciones de este plan, ¿cuál es la vacuna prioritaria y de aplicación masiva que se dirige a la población adulta mayor y a las gestantes para prevenir complicaciones respiratorias graves y letales?",
+      "options": {
+        "A": "Vacuna contra el Sarampión y la Rubéola (SR).",
+        "B": "Vacuna contra la Hepatitis B.",
+        "C": "Vacuna contra la Influenza Estacional (cepa del hemisferio sur actualizada anualmente).",
+        "D": "Vacuna BCG.",
+        "E": "Vacuna contra el Virus del Papiloma Humano (VPH)."
+      },
+      "correct": "C",
+      "comment": "El pilar preventivo antes del inicio de las heladas es la vacunación masiva contra la Influenza estacional y el Neumococo. La vacuna contra la influenza se actualiza cada año y se prioriza en grupos vulnerables (menores de 5 años, adultos mayores, gestantes y personal de salud) para reducir la neumonía grave."
+    },
+    {
+      "number": 543,
+      "code": "DIRESA26 P543",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "Un niño de 4 años de la provincia de Azángaro acude con su madre, quien refiere que el niño 'se asustó al ver un perro negro y ahora no quiere comer ni dormir'. El médico del puesto de salud, respetando el enfoque intercultural, sabe que en la medicina tradicional andina se utiliza el ritual de 'pasar el cuy' o 'pasar el huevo' (limpia). Desde la psiquiatría transcultural, ¿qué función terapéutica cumple este ritual para la familia?",
+      "options": {
+        "A": "Reemplaza completamente a los antibióticos en las infecciones severas.",
+        "B": "Tiene un potente efecto placebo y psicoterapéutico de reaseguro, aliviando la ansiedad de la madre y del niño al devolverles la sensación de control sobre la 'pérdida del ánimo', facilitando la posterior adherencia al tratamiento médico.",
+        "C": "Está prohibido porque aumenta la transmisión de la rabia.",
+        "D": "Causa un daño irreversible en la psique del menor.",
+        "E": "Elimina los parásitos intestinales físicamente."
+      },
+      "correct": "B",
+      "comment": "La 'limpia' es un acto simbólico de purificación. En la medicina intercultural, se reconoce que estos ritos tienen un valor psicoterapéutico profundo (efecto placebo, contención emocional). Al permitirlo y no censurarlo, el médico fortalece el vínculo de confianza ('alianza terapéutica') con la familia."
+    },
+    {
+      "number": 544,
+      "code": "DIRESA26 P544",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "La anemia en Puno tiene una prevalencia alarmante en niños menores de 3 años (>60%). Un determinante social crítico es la dieta temprana. En muchas zonas rurales andinas, ¿cuál es el error común en la alimentación complementaria que actúa como barrera para la absorción de hierro y contribuye a la anemia?",
+      "options": {
+        "A": "La introducción temprana de carnes rojas y vísceras (sangrecita, bazo) a los 6 meses.",
+        "B": "El uso de jugo de limón y naranja (Vitamina C) en las papillas.",
+        "C": "La base casi exclusiva de la dieta en caldos claros, sopas o chuños (baja densidad calórica y nulo aporte de hierro) y la introducción tardía de alimentos de origen animal ricos en hierro Hem.",
+        "D": "El amamantamiento a demanda durante la noche.",
+        "E": "El consumo excesivo de pescado de lago."
+      },
+      "correct": "C",
+      "comment": "El 'mito del caldo' es una barrera cultural fuerte. Las familias suelen dar caldos o sopitas ralas (agua con algo de papa/chuño) que llenan el estómago pequeño del niño pero no aportan hierro ni calorías, retrasando el consumo de alimentos densos y ricos en hierro Hem (hígado, sangrecita) necesarios desde los 6 meses."
+    },
+    {
+      "number": 545,
+      "code": "DIRESA26 P545",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "En la selva de Sandia, un paciente presenta una úlcera cutánea crónica y deformante en el labio superior y mucosa nasal (destrucción del tabique). El diagnóstico es Leishmaniasis Mucocutánea (Espundia). ¿Cuál es la especie del complejo Leishmania predominante en el Perú responsable de causar esta forma destructiva y mutilante si la lesión cutánea primaria no se trata adecuadamente?",
+      "options": {
+        "A": "Leishmania (Leishmania) amazonensis.",
+        "B": "Leishmania (Viannia) braziliensis.",
+        "C": "Leishmania (Leishmania) donovani (causante del Kala-azar).",
+        "D": "Leishmania (Viannia) peruviana (causante de la Uta típica de la sierra).",
+        "E": "Trypanosoma cruzi."
+      },
+      "correct": "B",
+      "comment": "En el Perú, la Leishmania (Viannia) braziliensis, endémica en la ceja de selva (como Sandia o San Gabán en Puno), es la principal responsable de la leishmaniasis mucocutánea (espundia). El parásito migra desde la úlcera cutánea inicial hacia las mucosas nasofaríngeas, causando lesiones mutilantes y crónicas."
+    },
+    {
+      "number": 546,
+      "code": "DIRESA26 P546",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "La Norma Técnica de Parto con Adecuación Intercultural (NTS 160) fomenta el alojamiento conjunto y la participación de la pareja durante el trabajo de parto. ¿Cuál es el beneficio comprobado del acompañamiento continuo por una persona de confianza (ej. la pareja o partera tradicional) durante el parto institucional?",
+      "options": {
+        "A": "Aumenta la necesidad de realizar cesáreas.",
+        "B": "Disminuye la duración del trabajo de parto, reduce la necesidad de anestesia epidural, disminuye el riesgo de depresión posparto y aumenta la satisfacción materna y la tasa de partos vaginales espontáneos.",
+        "C": "Incrementa significativamente las infecciones intrahospitalarias en el neonato.",
+        "D": "Genera interferencia con las maniobras de reanimación del médico.",
+        "E": "Obliga a administrar más dosis de oxitocina."
+      },
+      "correct": "B",
+      "comment": "La evidencia científica global (OMS/Cochrane) demuestra que el 'acompañamiento continuo' brinda soporte emocional, reduce los niveles de catecolaminas (estrés) de la madre, acorta el parto, disminuye el uso de analgesia farmacológica y reduce las tasas de intervenciones obstétricas como la cesárea o el fórceps."
+    },
+    {
+      "number": 547,
+      "code": "DIRESA26 P547",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "En la epidemiología de Puno, las zoonosis son relevantes. Un paciente acude por fiebre aguda, ictericia severa, mialgias intensas (especialmente en las pantorrillas) y falla renal (Síndrome de Weil). Refiere haber trabajado en la limpieza de acequias estancadas contaminadas con orina de roedores. ¿Cuál es el diagnóstico más probable y el antibiótico de elección en fase temprana?",
+      "options": {
+        "A": "Brucelosis; Doxiciclina + Rifampicina.",
+        "B": "Peste bubónica; Estreptomicina.",
+        "C": "Leptospirosis; Penicilina G endovenosa (o Ceftriaxona) para cuadros severos, y Doxiciclina para casos leves.",
+        "D": "Rabia humana; no tiene cura.",
+        "E": "Carbunco (Ántrax); Ciprofloxacino."
+      },
+      "correct": "C",
+      "comment": "La Leptospirosis se transmite por el contacto de mucosas o piel escoriada con agua dulce contaminada por la orina de animales infectados (ratas). El cuadro clásico severo (Síndrome de Weil) incluye ictericia, falla renal y hemorragia. El tratamiento oportuno con Penicilina G o Doxiciclina es curativo."
+    },
+    {
+      "number": 548,
+      "code": "DIRESA26 P548",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "Al evaluar a un lactante de 1 año en la altura de Puno (3,800 m.s.n.m.), el médico nota que el niño respira a 45 veces por minuto de manera habitual, sin fiebre, sin tirajes y comiendo bien. ¿Por qué es crucial para el médico de primer nivel conocer la fisiología de la adaptación a la altura antes de diagnosticar apresuradamente una neumonía basándose solo en el límite de taquipnea de la OMS (≥ 40 rpm)?",
+      "options": {
+        "A": "Porque todos los niños de altura nacen con cardiopatías congénitas.",
+        "B": "Porque los niños nativos de la altura tienen fisiológicamente una Frecuencia Respiratoria basal ligeramente mayor que los niños a nivel del mar (para compensar la hipoxia crónica), lo que puede generar sobrediagnósticos de neumonía si no se asocian otros signos de peligro clínico.",
+        "C": "Porque a mayor altura, los virus respiratorios causan menos daño.",
+        "D": "Porque el estetoscopio funciona diferente en la puna.",
+        "E": "Porque el niño está fingiendo para no ser vacunado."
+      },
+      "correct": "B",
+      "comment": "Estudios fisiológicos demuestran que los lactantes que viven a gran altitud tienen frecuencias respiratorias basales más altas (hiperventilación adaptativa) comparados con los del nivel del mar. Aplicar el punto de corte estricto de la OMS sin evaluar la clínica general (estado de alerta, fiebre, tiraje) conlleva al sobrediagnóstico y abuso de antibióticos."
+    },
+    {
+      "number": 549,
+      "code": "DIRESA26 P549",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "En la cultura andina (Puno), muchas madres rechazan el uso de sulfato ferroso en gotas porque afirman que el medicamento 'pudre los dientes' o 'vuelve negra la caca del niño', atribuyéndolo a una intoxicación. Como personal de salud, ¿cuál es la estrategia educativa intercultural adecuada?",
+      "options": {
+        "A": "Suspender el medicamento y dar solo consejos de dieta.",
+        "B": "Decirle a la madre que es ignorante y obligarla a darle las gotas.",
+        "C": "Explicar, usando analogías comprensibles, que las heces oscuras son la prueba de que el hierro está 'limpiando' el estómago, y enseñar a lavar los dientes o encías con una gasa húmeda después de dar las gotas para evitar las manchas temporales.",
+        "D": "Cambiar la prescripción a transfusión sanguínea.",
+        "E": "Amenazar con reportarla a los programas sociales (Juntos) si no cumple."
+      },
+      "correct": "C",
+      "comment": "La educación sanitaria intercultural no impone, sino que resignifica. Explicar los efectos adversos (heces oscuras por hierro no absorbido, manchas dentales reversibles) de manera anticipada y ofrecer soluciones prácticas (higiene oral inmediata, diluir las gotas en un poco de jugo) asegura la adherencia al tratamiento preventivo de la anemia."
+    },
+    {
+      "number": 550,
+      "code": "DIRESA26 P550",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "En el marco del ASIS de Puno, la 'Mortalidad Fetal Tardía' y la 'Mortalidad Neonatal Precoz' son problemas sensibles. La mayoría de las muertes neonatales precoces en la región se asocian directamente con la prematuridad y las infecciones. ¿Qué intervención de salud pública, promovida intensamente por la DIRESA en el primer nivel, ha demostrado ser la más costo-efectiva para prevenir la infección neonatal y la hipotermia?",
+      "options": {
+        "A": "La construcción de mega-hospitales con incubadoras de última generación.",
+        "B": "La esterilización masiva de las mujeres campesinas.",
+        "C": "La promoción y certificación de los establecimientos como 'Establecimientos Amigos de la Madre y el Niño' impulsando el Contacto Piel a Piel inmediato y la Lactancia Materna Exclusiva desde la primera hora.",
+        "D": "El uso rutinario de antibióticos profilácticos en todos los recién nacidos sanos.",
+        "E": "El baño del recién nacido con agua hervida al minuto de nacer."
+      },
+      "correct": "C",
+      "comment": "La tecnología de punta salva vidas en UCI, pero en salud pública (donde ocurren los partos inminentes o rurales), las intervenciones más costo-efectivas para evitar la mortalidad neonatal por hipotermia y sepsis son el contacto piel a piel inmediato (térmico) y el calostro temprano (vacuna inmunológica natural), pilares de los Establecimientos Amigos."
+    },
+    {
+      "number": 551,
+      "code": "DIRESA26 P551",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "Un médico evalúa a un anciano que vive a 4,200 m.s.n.m. En su placa de tórax se observa un aumento del tamaño del corazón derecho y dilatación de la arteria pulmonar. El electrocardiograma muestra desviación del eje a la derecha e hipertrofia ventricular derecha. Este paciente tiene el denominado 'Cor Pulmonale'. En la altura, ¿cuál es la causa principal de esta patología si el paciente no fuma?",
+      "options": {
+        "A": "Infarto del miocardio izquierdo antiguo.",
+        "B": "Tuberculosis pulmonar.",
+        "C": "Hipertensión Arterial Pulmonar sostenida inducida por la vasoconstricción pulmonar hipóxica crónica (efecto fisiológico de la adaptación prolongada a la gran altitud).",
+        "D": "Enfermedad de Chagas crónica.",
+        "E": "Endocarditis bacteriana."
+      },
+      "correct": "C",
+      "comment": "El 'Cor Pulmonale' es la alteración estructural y funcional del ventrículo derecho secundaria a un problema pulmonar. En los habitantes de gran altitud, la hipoxia alveolar crónica mantiene una vasoconstricción constante de las arteriolas pulmonares. Esto genera Hipertensión Pulmonar Crónica que sobrecarga al ventrículo derecho, llevándolo a la hipertrofia y eventual falla."
+    },
+    {
+      "number": 552,
+      "code": "DIRESA26 P552",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "En zonas periféricas de Puno, es común el uso tradicional de la planta 'Maca' (Lepidium meyenii). Frecuentemente, las mujeres en etapa de climaterio o menopausia la consumen para aliviar los bochornos y la sequedad. Científicamente, ¿a qué componente o propiedad de la maca se le atribuye este beneficio en la salud reproductiva femenina?",
+      "options": {
+        "A": "A su altísimo contenido de testosterona pura.",
+        "B": "A sus propiedades adaptógenas y posible contenido de fitosteroles o fitoestrógenos que actúan modulando el eje endocrino sin los efectos secundarios de la terapia de reemplazo hormonal sintética.",
+        "C": "A que contiene dosis tóxicas de estrógenos sintéticos.",
+        "D": "A su efecto depresor del sistema nervioso central.",
+        "E": "A que bloquea permanentemente la ovulación."
+      },
+      "correct": "B",
+      "comment": "La maca es reconocida mundialmente como un adaptógeno andino. Aunque la presencia directa de fitoestrógenos sigue en debate, estudios clínicos sugieren que sus fitoquímicos (macamidas y macaenos) modulan el eje hipotálamo-hipófisis, aliviando sintomatología menopáusica (bochornos, disfunción sexual) y mejorando el estado de ánimo."
+    },
+    {
+      "number": 553,
+      "code": "DIRESA26 P553",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "Durante el trabajo de campo, un enfermero realiza la visita domiciliaria a un paciente de 35 años en tratamiento para Tuberculosis Sensible. El paciente, un comerciante que viaja a ferias (como la de Juliaca), ha faltado 3 días seguidos a la toma supervisada de pastillas en el Puesto de Salud. Según el enfoque del Modelo de Cuidado Integral (MCI), ¿cuál es la actitud adecuada del equipo de salud?",
+      "options": {
+        "A": "Cancelar el tratamiento inmediatamente y declarar fracaso terapéutico.",
+        "B": "Enviar a la policía para detener al paciente por atentar contra la salud pública.",
+        "C": "Realizar el rescate del paciente (visita domiciliaria), identificar las barreras laborales o sociales (ej. horario de trabajo en la feria) y flexibilizar o acordar un nuevo horario/modalidad de administración supervisada para evitar el abandono.",
+        "D": "Darle las pastillas para un mes y que las tome por su cuenta.",
+        "E": "Aislar a la familia completa sin diagnóstico previo."
+      },
+      "correct": "C",
+      "comment": "El MCI y la estrategia DOTS exigen proactividad (rescate del inasistente antes de que se convierta en abandono - más de 30 días). Se deben evaluar los determinantes sociales (el trabajo en ferias impide ir a las 8 am al puesto) y flexibilizar el acceso (ej. DOTS domiciliario, en su centro de trabajo, o cambio de turno) para garantizar la cura."
+    },
+    {
+      "number": 554,
+      "code": "DIRESA26 P554",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "Un caso grave de Infección Respiratoria en Puno. Un lactante de 8 meses presenta tos exigente ('quintosa') y estridor inspiratorio que culmina con vómitos, con un mes de evolución. La radiografía de tórax es normal y el hemograma muestra una leucocitosis severa (30,000 cél/uL) a expensas de un predominio absoluto de linfocitos (linfocitosis absoluta). Este hemograma es el sello laboratorial de:",
+      "options": {
+        "A": "Neumonía atípica por Mycoplasma.",
+        "B": "Infección por el Virus Sincitial Respiratorio.",
+        "C": "Tos Ferina (Coqueluche) por Bordetella pertussis.",
+        "D": "Sepsis neonatal tardía por E. coli.",
+        "E": "Leucemia Linfoblástica Aguda debutante exclusivamente."
+      },
+      "correct": "C",
+      "comment": "El cuadro clínico de tos en salvas, emetizante, estridor y la 'reacción leucemoide linfocítica' (linfocitosis marcada) es la firma clásica y patognomónica de la Tos Ferina (infección por Bordetella pertussis), especialmente en niños no inmunizados o con esquema incompleto."
+    },
+    {
+      "number": 555,
+      "code": "DIRESA26 P555",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "En la adecuación cultural del parto en un centro de salud del sur andino, la madre decide dar a luz en posición vertical (de rodillas o cuclillas). Desde la anatomía y la fisiología pélvica, ¿cuál es una afirmación correcta respecto al riesgo de desgarros perineales en la posición vertical comparada con la posición de litotomía (echada con piernas elevadas)?",
+      "options": {
+        "A": "La posición vertical garantiza siempre desgarros de cuarto grado.",
+        "B": "La posición vertical reduce la incidencia de episiotomías y disminuye significativamente los desgarros perineales severos (grados III y IV), ya que el perineo se distiende de manera más natural y uniforme, favorecido por la gravedad.",
+        "C": "La posición vertical aumenta la tasa de cesáreas de emergencia.",
+        "D": "La posición vertical hace que el feto sufra hipoxia cerebral por la gravedad.",
+        "E": "La posición vertical impide la atención manual del profesional de salud."
+      },
+      "correct": "B",
+      "comment": "La evidencia clínica demuestra que el parto vertical protege el periné. Al estar la mujer erguida o en cuclillas, la presión de la cabeza fetal se distribuye uniformemente sobre la musculatura pélvica. Esto reduce la necesidad de episiotomía rutinaria y la aparición de desgarros severos (esfínter anal y mucosa rectal), muy comunes en la posición de litotomía."
+    },
+    {
+      "number": 556,
+      "code": "DIRESA26 P556",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "Un problema epidemiológico latente en las zonas rurales (comunidades dispersas) de Puno es la Zoonosis por Mordedura de Perros. Si un técnico de enfermería evalúa a un niño mordido por el perro del vecino (animal conocido y ubicable), la herida es en la pantorrilla y es superficial. Según el protocolo de profilaxis de la rabia, ¿cuál es la decisión inicial correcta?",
+      "options": {
+        "A": "Iniciar de inmediato vacuna y suero antirrábico.",
+        "B": "No hacer nada, solo dar antibióticos.",
+        "C": "Lavar la herida con agua y jabón, y proceder a la 'Observación Clínica del animal mordedor' durante 10 días. Si el perro se mantiene sano, no es necesario iniciar vacunación antirrábica.",
+        "D": "Sacrificar al perro de inmediato y enviar la cabeza al laboratorio.",
+        "E": "Vacunar al niño con 5 dosis de vacuna solo si el perro muerde de nuevo."
+      },
+      "correct": "C",
+      "comment": "Para una mordedura leve/superficial en extremidades (lejos de la cabeza) producida por un animal doméstico conocido y observable (no fugado), el protocolo manda lavar exhaustivamente la herida e instruir la observación del can por 10 días. Solo si el animal muere o presenta signos de rabia en ese periodo, se inicia la vacunación en el paciente."
+    },
+    {
+      "number": 557,
+      "code": "DIRESA26 P557",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "La Diarrea Aguda (EDA) es una causa principal de morbimortalidad infantil en la región Puno. Desde el Modelo de los Determinantes Sociales, ¿cuál es el factor 'Circunstancia Material' que impacta más directamente en la alta incidencia de EDAs en niños de 1 a 4 años en el área rural?",
+      "options": {
+        "A": "La falta de hospitales de nivel III en la comunidad.",
+        "B": "La falta de consumo de alimentos procesados.",
+        "C": "La carencia de acceso a agua potable intadomiciliaria, la ausencia de saneamiento básico (desagüe) y las inadecuadas prácticas de higiene en el hogar (ej. lavado de manos).",
+        "D": "El alto consumo de leche materna.",
+        "E": "La influencia de las parteras tradicionales."
+      },
+      "correct": "C",
+      "comment": "El acceso a agua limpia y saneamiento son circunstancias materiales fundamentales. Las enfermedades diarreicas son clásicamente enfermedades de transmisión fecal-oral derivadas directamente de un entorno insalubre (falta de agua potable y letrinas), constituyendo un determinante social intermediario clave."
+    },
+    {
+      "number": 558,
+      "code": "DIRESA26 P558",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "Una gestante acude con trabajo de parto avanzado al puesto de salud. La obstetra observa la expulsión de líquido amniótico teñido intensamente de verde oscuro, espeso y puré de guisantes ('meconio espeso'). Inmediatamente nace el bebé deprimido (Apgar 3 al minuto), flácido y en apnea. ¿Cuál es el primer paso de reanimación neonatal normado ante este escenario específico de líquido meconial espeso y recién nacido no vigoroso?",
+      "options": {
+        "A": "Iniciar compresiones torácicas vigorosas.",
+        "B": "Llevarlo a la mesa de calor radiante e iniciar los pasos iniciales de reanimación (calor, posicionar, despejar secreciones de boca y nariz, secar y estimular), seguido de Ventilación a Presión Positiva (VPP) si continúa en apnea; la intubación y aspiración traqueal de rutina ya NO se recomienda.",
+        "C": "Intubar de manera obligatoria y aspirar la tráquea antes de cualquier estimulación.",
+        "D": "Administrar Naloxona endovenosa para revertir la depresión.",
+        "E": "Lavado gástrico rápido."
+      },
+      "correct": "B",
+      "comment": "Las últimas guías de la AAP/AHA y MINSA actualizaron el manejo del líquido meconial. Ya NO se recomienda la intubación traqueal rutinaria en sala de partos para el neonato deprimido con meconio. Se debe proceder inmediatamente con los pasos iníciales y, si no respira, iniciar rápidamente la VPP para expandir los pulmones y salvarle la vida."
+    },
+    {
+      "number": 559,
+      "code": "DIRESA26 P559",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "En la articulación del sistema de salud y la medicina tradicional en Puno, es común que los 'Hueseros' (Kullahuayas o componedores de huesos) atiendan fracturas y esguinces en la población rural. ¿Cuál es la actitud del personal de salud que promueve la Interculturalidad frente a estos agentes comunitarios?",
+      "options": {
+        "A": "Acusarlos de práctica ilegal de la medicina de forma pública.",
+        "B": "Ignorarlos y atender solo a los pacientes que lleguen al centro de salud.",
+        "C": "Identificarlos, tender puentes de diálogo, respetar sus saberes empíricos (ej. masajes y entablillados simples) y establecer alianzas para que deriven al centro de salud casos complicados (fracturas expuestas, sospecha de síndrome compartimental).",
+        "D": "Exigirles que compren placas de rayos X para sus consultorios.",
+        "E": "Recetar los mismos emplastos de hierbas que ellos usan."
+      },
+      "correct": "C",
+      "comment": "La interculturalidad busca sumar, no competir. El 'huesero' es un actor válido en su comunidad. Al acercarse con respeto, el personal de salud logra que estos agentes reconozcan sus límites (ej. una fractura abierta no se puede sobar porque causa osteomielitis o gangrena) y se conviertan en promotores de la derivación oportuna."
+    },
+    {
+      "number": 560,
+      "code": "DIRESA26 P560",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "Al revisar las estadísticas del Análisis de Situación de Salud (ASIS) de la DIRESA Puno, el director observa que la Tasa Global de Fecundidad (TGF) ha descendido en la última década. ¿Qué mide específicamente este importante indicador demográfico y de salud pública?",
+      "options": {
+        "A": "El número de mujeres en edad fértil que usan anticonceptivos modernos.",
+        "B": "El número de abortos por cada 100 mujeres embarazadas.",
+        "C": "El número promedio de hijos que tendría una mujer a lo largo de su vida reproductiva (15 a 49 años) si mantuviera las tasas de fecundidad actuales.",
+        "D": "La proporción de nacimientos por cesárea en la región.",
+        "E": "La edad promedio en la que las mujeres tienen su primer hijo."
+      },
+      "correct": "C",
+      "comment": "La Tasa Global de Fecundidad (TGF) es un indicador demográfico sintético. Expresa el promedio de hijos vivos que una mujer o cohorte de mujeres tendría al final de su etapa reproductiva. El descenso de la TGF en Perú indica el éxito de los programas de planificación familiar y los cambios en la estructura poblacional (transición demográfica)."
+    },
+    {
+      "number": 561,
+      "code": "DIRESA26 P561",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "En la evaluación de un niño de 3 años de una comunidad rural, la madre refiere que el niño come tierra de manera compulsiva (pica o geofagia). Al examen, presenta palidez palmar severa y coiloniquia (uñas en forma de cuchara). ¿Cuál es la deficiencia nutricional clásica que induce este comportamiento alimentario aberrante y estos signos clínicos?",
+      "options": {
+        "A": "Deficiencia de Yodo.",
+        "B": "Deficiencia de Vitamina A.",
+        "C": "Deficiencia severa de Hierro (Anemia ferropénica grave).",
+        "D": "Deficiencia de Zinc.",
+        "E": "Deficiencia de Calcio."
+      },
+      "correct": "C",
+      "comment": "La pica (deseo compulsivo de comer sustancias no nutritivas como tierra, tiza o hielo) es un síntoma clásico de la ferropenia severa. Sumado a la palidez y la coiloniquia (uñas cóncavas o en cuchara), conforman el cuadro patognomónico de la anemia por deficiencia de hierro."
+    },
+    {
+      "number": 562,
+      "code": "DIRESA26 P562",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "Durante el invierno, el equipo de salud realiza una campaña de vacunación casa por casa. Al llegar a una vivienda, encuentran a un niño de 1 año con un cuadro de tos paroxística, cianosis y estridor inspiratorio (Tos Ferina). El niño tiene un hermano recién nacido de 15 días de vida en la misma habitación. Según la epidemiología, ¿cuál es la medida preventiva de contacto más importante para proteger al recién nacido de esta infección potencialmente letal?",
+      "options": {
+        "A": "Administrar la vacuna Pentavalente al recién nacido de inmediato.",
+        "B": "Aislar al recién nacido y administrarle quimioprofilaxis con un macrólido (ej. Azitromicina) de manera inmediata.",
+        "C": "Aplicar Inmunoglobulina específica contra Bordetella.",
+        "D": "Vacunar a la madre con BCG.",
+        "E": "No hacer nada, la lactancia materna lo protege al 100%."
+      },
+      "correct": "B",
+      "comment": "La Tos Ferina es altamente contagiosa (gotitas) y letal en neonatos (quienes aún no pueden ser vacunados con la Pentavalente, que inicia a los 2 meses). La medida salvadora para los contactos íntimos, especialmente neonatos expuestos, es la quimioprofilaxis inmediata con macrólidos (Azitromicina o Eritromicina) para prevenir la infección."
+    },
+    {
+      "number": 563,
+      "code": "DIRESA26 P563",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "En la cosmovisión andina de la salud, el concepto de 'Sami' y 'Khaika' se refiere a la energía vital y a la energía pesada o dañina, respectivamente. Cuando un poblador sufre un trauma físico (ej. caída o golpe) y además experimenta decaimiento general, dolores erráticos y pesadillas, el curandero suele diagnosticar que el cuerpo se ha llenado de 'Khaika' y realiza una 'Limpia'. Desde el enfoque de interculturalidad del MINSA, ¿cómo debe interpretar el médico cirujano esta manifestación clínica?",
+      "options": {
+        "A": "Como una psicosis aguda inducida por el trauma.",
+        "B": "Como un cuadro de simulación para evitar el trabajo agrícola.",
+        "C": "Como la somatización del estrés postraumático agudo y la respuesta psicosomática al dolor, expresada mediante su propio marco de creencias culturales.",
+        "D": "Como una infección bacteriana latente.",
+        "E": "Como una manifestación de esquizofrenia."
+      },
+      "correct": "C",
+      "comment": "Las enfermedades tradicionales (susto, khaika, chullpa wayra) a menudo representan síndromes de estrés psicosocial, ansiedad o la somatización de un trauma físico/emocional (dolores erráticos, pesadillas). El médico debe abordarlos con respeto, entendiendo que el paciente expresa su sufrimiento psicológico y físico a través de su lenguaje cultural."
+    },
+    {
+      "number": 564,
+      "code": "DIRESA26 P564",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "Una gestante acude al Puesto de Salud de Juliaca para la atención de su parto. La paciente solicita estar acompañada por su esposo y su suegra durante todo el proceso (acompañamiento continuo). ¿Qué requisito técnico o administrativo exige la Norma Técnica de Salud (NTS 160) para permitir el ingreso del acompañante a la sala de partos?",
+      "options": {
+        "A": "Que el acompañante sea obligatoriamente personal de salud (médico o enfermero).",
+        "B": "Que el acompañante pague una tarifa especial por el uso de indumentaria esterilizada.",
+        "C": "Que la gestante haya elegido al acompañante, que este reciba información/orientación previa sobre las medidas de bioseguridad, que respete las indicaciones del personal y use la indumentaria de protección proporcionada por el establecimiento.",
+        "D": "Que el acompañante tenga un certificado de salud mental emitido por un psiquiatra.",
+        "E": "Que el acompañante asuma la responsabilidad legal de cualquier complicación médica durante el parto."
+      },
+      "correct": "C",
+      "comment": "El derecho al acompañamiento durante el parto institucional es un pilar del parto humanizado. La norma solo exige que el acompañante (elegido por la mujer) cumpla con normas básicas: recibir orientación previa, usar indumentaria limpia (bata, gorro, botas) provista por el hospital y no interferir con el acto médico."
+    },
+    {
+      "number": 565,
+      "code": "DIRESA26 P565",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "Un brote de 'Fiebre Amarilla Selvática' es reportado en la provincia de Sandia (selva puneña). Epidemiológicamente, en el ciclo selvático de esta enfermedad en América del Sur, ¿cuál es el principal vector transmisor y quién actúa como reservorio natural primario del virus?",
+      "options": {
+        "A": "Vector: Aedes aegypti / Reservorio: Ser humano.",
+        "B": "Vector: Mosquitos de los géneros Haemagogus y Sabethes / Reservorio: Monos (primates no humanos).",
+        "C": "Vector: Mosquito Anopheles / Reservorio: Cerdos.",
+        "D": "Vector: Mosca Lutzomyia / Reservorio: Zarigüeyas.",
+        "E": "Vector: Chinche Triatoma / Reservorio: Roedores silvestres."
+      },
+      "correct": "B",
+      "comment": "La Fiebre Amarilla Selvática (enzootia) tiene un ciclo distinto al urbano. Se mantiene en la naturaleza circulando entre monos silvestres (reservorio y amplificador) y mosquitos arborícolas de los géneros Haemagogus y Sabethes (vector). El humano se infecta accidentalmente al ingresar al bosque (tala, agricultura)."
+    },
+    {
+      "number": 566,
+      "code": "DIRESA26 P566",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "En las campañas contra el friaje en Puno, se enfatiza la identificación temprana de los Signos de Alarma de la Neumonía Infantil. Durante la capacitación a madres de familia (promoción de la salud), ¿cuál es el signo clínico que se debe enseñar prioritariamente por ser el indicador más específico y temprano de afectación del parénquima pulmonar (neumonía) en un niño con tos y resfrío?",
+      "options": {
+        "A": "La presencia de fiebre alta continua.",
+        "B": "La tos productiva con expectoración verdosa.",
+        "C": "La respiración rápida (taquipnea) observada en estado de reposo.",
+        "D": "La falta de apetito (hiporexia).",
+        "E": "El llanto persistente."
+      },
+      "correct": "C",
+      "comment": "Según el AIEPI y la estrategia comunicacional comunitaria, el signo más temprano, sensible y fácil de enseñar a una madre para sospechar neumonía antes de que aparezcan signos de gravedad (como el tiraje) es la 'respiración rápida' (taquipnea) sostenida mientras el niño está tranquilo o durmiendo."
+    },
+    {
+      "number": 567,
+      "code": "DIRESA26 P567",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "La 'Tripanosomiasis Americana' (Enfermedad de Chagas) es endémica en zonas cálidas del sur del Perú (Arequipa, Moquegua, Tacna y algunos valles de Puno). ¿Cuál es la principal forma anatomo-patológica de presentación de la fase CRÓNICA sintomática de esta enfermedad en nuestro medio, que causa alta mortalidad en adultos?",
+      "options": {
+        "A": "Megacolon tóxico fulminante.",
+        "B": "Signo de Romaña persistente.",
+        "C": "Cardiopatía chagásica crónica (que se manifiesta con arritmias ventriculares, bloqueos de rama derecha, insuficiencia cardíaca y aneurisma apical).",
+        "D": "Encefalitis granulomatosa difusa.",
+        "E": "Hepatomegalia masiva con cirrosis hepática."
+      },
+      "correct": "C",
+      "comment": "Años o décadas después de la infección inicial por Trypanosoma cruzi, un 20-30% de los pacientes desarrolla la fase crónica sintomática. La manifestación clínica más grave y frecuente en América del Sur es la miocardiopatía dilatada chagásica, caracterizada por arritmias complejas, bloqueos (frecuentemente BRD), falla cardíaca congestiva y aneurisma apical."
+    },
+    {
+      "number": 568,
+      "code": "DIRESA26 P568",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "Un adulto mayor acude al centro de salud de una zona minera con tos crónica, expectoración blanquecina, disnea de esfuerzo y dolor torácico inespecífico. En la radiografía de tórax se observan múltiples nódulos pequeños (< 1 cm) diseminados difusamente en ambos campos pulmonares superiores y medios. Ante el antecedente ocupacional (perforista de socavón por 20 años) y la imagen radiológica, se sospecha Silicosis Simple. ¿Cuál es el examen auxiliar obligatorio que debe realizarse periódicamente a este paciente por el alto riesgo epidemiológico de coinfección?",
+      "options": {
+        "A": "Tomografía por Emisión de Positrones (PET Scan).",
+        "B": "Baciloscopia seriada de esputo (descarte de Tuberculosis Pulmonar).",
+        "C": "Broncoscopia con lavado broncoalveolar mensual.",
+        "D": "Biopsia pulmonar a cielo abierto.",
+        "E": "Dosaje de antígeno prostático específico (PSA)."
+      },
+      "correct": "B",
+      "comment": "Los cristales de sílice ingeridos por los macrófagos alveolares alteran su función bactericida, especialmente contra el Mycobacterium tuberculosis. Los pacientes con silicosis tienen un riesgo hasta 30 veces mayor de desarrollar Tuberculosis activa (Silicotuberculosis), por lo que la búsqueda sistemática de TBC (baciloscopia/cultivo) es obligatoria ante cualquier síntoma respiratorio o control anual."
+    },
+    {
+      "number": 569,
+      "code": "DIRESA26 P569",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "En la evaluación del crecimiento pondoestatural de los niños menores de 5 años en la región Puno, la DIRESA utiliza el Patrón de Crecimiento de la OMS. ¿Cuál es el indicador antropométrico ideal que refleja la 'Desnutrición Aguda' o emaciación, producto de una pérdida de peso reciente o aguda (ej. tras un episodio de EDA severa) y que requiere intervención nutricional de urgencia?",
+      "options": {
+        "A": "Talla para la Edad (T/E).",
+        "B": "Perímetro Cefálico para la Edad.",
+        "C": "Peso para la Talla (P/T) por debajo de -2 Desviaciones Estándar.",
+        "D": "Índice de Masa Corporal (IMC) por encima del percentil 95.",
+        "E": "Talla diana genética."
+      },
+      "correct": "C",
+      "comment": "El indicador Peso para la Talla (P/T) evalúa la armonía del crecimiento actual. Una caída por debajo de -2 DE indica que el niño está excesivamente delgado para su longitud actual (emaciación), reflejando un déficit nutricional severo y muy reciente (Desnutrición Aguda), siendo un predictor altísimo de mortalidad a corto plazo si no se trata."
+    },
+    {
+      "number": 570,
+      "code": "DIRESA26 P570",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "Durante el parto con adecuación intercultural, la gestante se encuentra en posición de cuclillas (parto vertical). La obstetra, colocada detrás de la paciente, debe brindar protección manual al periné durante el desprendimiento de la cabeza fetal para evitar desgarros severos. ¿Cómo se denomina técnicamente a esta maniobra de protección activa y control de la deflexión de la cabeza?",
+      "options": {
+        "A": "Maniobra de Kristeller.",
+        "B": "Maniobra de Ritgen modificada.",
+        "C": "Maniobra de Brandt-Andrews.",
+        "D": "Maniobra de McRoberts.",
+        "E": "Maniobra de Mauriceau."
+      },
+      "correct": "B",
+      "comment": "La maniobra de Ritgen (o su variante modificada) es la técnica obstétrica estándar para proteger el periné. Se realiza aplicando presión sobre el periné (con una compresa) para controlar la salida brusca de la cabeza fetal y mantenerla flexionada, mientras la otra mano frena suavemente el occipucio, permitiendo un desprendimiento lento que evita el desgarro."
+    },
+    {
+      "number": 571,
+      "code": "DIRESA26 P571",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "En el contexto de la prevención de la Anemia Materna y bajo el enfoque intercultural, muchas mujeres andinas prefieren consumir alimentos autóctonos en lugar de tabletas. ¿Cuál de los siguientes alimentos cultivados tradicionalmente en el altiplano andino destaca por ser un pseudocereal con un alto valor biológico (proteínas de alta calidad) y un aporte de hierro (No Hem) superior al de los cereales comunes?",
+      "options": {
+        "A": "La papa (Solanum tuberosum).",
+        "B": "El chuño blanco (tunta).",
+        "C": "La Quinua (Chenopodium quinoa) y la Cañihua (Chenopodium pallidicaule).",
+        "D": "El maíz amarillo duro.",
+        "E": "La oca dulce."
+      },
+      "correct": "C",
+      "comment": "La quinua y la cañihua son cultivos estratégicos andinos (pseudocereales). Destacan nutricionalmente por poseer todos los aminoácidos esenciales (alto valor biológico proteico) y un contenido de hierro vegetal (No Hem) superior al trigo o arroz. Aunque el hierro No Hem requiere vitamina C para absorberse bien, su promoción es fundamental en la seguridad alimentaria regional."
+    },
+    {
+      "number": 572,
+      "code": "DIRESA26 P572",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "Una gestante acude al centro de salud referida por la partera de la comunidad. La partera diagnosticó que 'la wawa está sentada' (presentación podálica). Al realizar la ecografía, el médico confirma el diagnóstico a las 34 semanas. En la medicina tradicional, las parteras a menudo intentan la 'manteada' (masajes abdominales externos vigorosos con mantas) para intentar voltear al feto. ¿Cuál es la complicación obstétrica aguda y letal más temida que puede desencadenar esta maniobra tradicional empírica?",
+      "options": {
+        "A": "Prolapso de cordón umbilical intraútero.",
+        "B": "Desprendimiento Prematuro de Placenta (DPP) por tracción mecánica severa o cizallamiento.",
+        "C": "Rotura de membranas amnióticas tardía.",
+        "D": "Inducción de preeclampsia severa.",
+        "E": "Atresia esofágica fetal."
+      },
+      "correct": "B",
+      "comment": "Las maniobras externas bruscas o empíricas sobre el abdomen grávido (como la 'manteada' tradicional sin control ecográfico ni monitorización) generan fuerzas de cizallamiento altísimas sobre la interfase útero-placentaria, siendo una causa exógena clásica de Desprendimiento Prematuro de Placenta (DPP) y hemorragia masiva, además de riesgo de rotura uterina."
+    },
+    {
+      "number": 573,
+      "code": "DIRESA26 P573",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "Un brote de 'Fiebre Tifoidea' afecta a una escuela rural en Puno debido al consumo de agua contaminada de un pozo. Clínicamente, la fiebre tifoidea (causada por Salmonella enterica serotipo Typhi) presenta en su primera y segunda semana un signo característico de disociación clínico-fisiológica. El paciente presenta fiebre alta sostenida (39-40°C), pero su frecuencia cardíaca se mantiene relativamente baja (ej. 70-80 lpm). ¿Cómo se denomina este hallazgo semiológico?",
+      "options": {
+        "A": "Signo de Faget (Bradicardia relativa o disociación esfigmotérmica).",
+        "B": "Pulso paradójico de Kussmaul.",
+        "C": "Signo de Romaña.",
+        "D": "Taquicardia ortostática postural.",
+        "E": "Pulso alternante."
+      },
+      "correct": "A",
+      "comment": "Fisiológicamente, por cada grado de temperatura por encima de 37°C, la frecuencia cardíaca aumenta unos 10-15 latidos por minuto. En la Fiebre Tifoidea (y fiebre amarilla), esta regla no se cumple: el paciente cursa con fiebre muy alta pero el pulso es lento (bradicardia relativa). A este fenómeno se le conoce como Signo de Faget o disociación esfigmotérmica."
+    },
+    {
+      "number": 574,
+      "code": "DIRESA26 P574",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "En la evaluación de la salud reproductiva (ASIS), la 'Razón de Mortalidad Materna' (RMM) de Puno sigue siendo superior al promedio nacional de la costa. Para que una defunción sea clasificada epidemiológicamente como 'Muerte Materna', debe ocurrir durante el embarazo o en un periodo máximo posterior a la finalización del mismo. ¿Cuál es ese límite de tiempo normado?",
+      "options": {
+        "A": "Hasta 7 días después del parto.",
+        "B": "Hasta 28 días después del parto o aborto.",
+        "C": "Hasta los 42 días (6 semanas) posteriores a la finalización del embarazo, por cualquier causa relacionada o agravada por el mismo (excluyendo causas accidentales).",
+        "D": "Hasta 6 meses después de dar a luz.",
+        "E": "Hasta 1 año después del parto (Muerte materna tardía)."
+      },
+      "correct": "C",
+      "comment": "La OMS y el MINSA definen la Muerte Materna como la defunción de una mujer mientras está embarazada o dentro de los 42 días siguientes a la terminación del embarazo, independientemente de la duración y el sitio del embarazo, por cualquier causa relacionada o agravada por el mismo, pero no por causas accidentales o incidentales."
+    },
+    {
+      "number": 575,
+      "code": "DIRESA26 P575",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "Una gestante aymara de 38 semanas con rotura prematura de membranas de 20 horas de evolución rechaza inicialmente ir al hospital porque teme que 'le hagan un corte abajo' (episiotomía), práctica que en su cultura es inaceptable y se percibe como una mutilación. La obstetra dialoga con ella y le asegura que aplicará la Norma Técnica 160. ¿Cuál es la disposición de esta norma respecto a la episiotomía en partos con adecuación intercultural?",
+      "options": {
+        "A": "La episiotomía es obligatoria y se realizará bajo sedación profunda.",
+        "B": "La episiotomía se realizará en secreto mientras la paciente puja.",
+        "C": "La episiotomía NO ES DE RUTINA; su uso debe ser estrictamente restrictivo y solo se realizará en situaciones de emergencia fetal inminente (previo consentimiento y explicación), priorizando la protección manual y la posición vertical para preservar la integridad del periné.",
+        "D": "Solo se realiza episiotomía a las primigestas.",
+        "E": "Está absolutamente prohibida bajo pena de cárcel."
+      },
+      "correct": "C",
+      "comment": "La NTS de parto intercultural y humanizado prohíbe el uso rutinario (sistemático) de la episiotomía. Exige respetar la decisión de la mujer y preservar su integridad corporal, usando el procedimiento solo cuando exista una indicación clínica estricta (sufrimiento fetal agudo o desgarro grave inminente) y siempre informando a la paciente."
+    },
+    {
+      "number": 576,
+      "code": "DIRESA26 P576",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "Un adulto procedente de la selva de Puno (Sandia) acude a consulta por presentar desde hace semanas astenia, edema de miembros inferiores y marcada palidez. Al examen de heces (parasitológico seriado) se observan huevos característicos. El hemograma muestra anemia microcítica hipocrómica severa. ¿Cuál es el parásito intestinal nemátodo (geohelminto) que se alimenta directamente de sangre en la mucosa duodenal y es causa principal de este tipo de anemia endémica en zonas tropicales?",
+      "options": {
+        "A": "Enterobius vermicularis (Oxiuros).",
+        "B": "Taenia solium.",
+        "C": "Uncinarias (Ancylostoma duodenale o Necator americanus).",
+        "D": "Giardia lamblia.",
+        "E": "Ascaris lumbricoides."
+      },
+      "correct": "C",
+      "comment": "Las uncinarias (Necator y Ancylostoma) son geohelmintos cuyas larvas penetran por la piel descalza. En el intestino delgado adulto, se fijan a la mucosa mediante placas cortantes o dientes y succionan sangre continuamente (hasta 0.2 ml diarios por parásito). Una infestación masiva crónica causa pérdida de sangre sostenida, resultando en una profunda anemia ferropénica."
+    },
+    {
+      "number": 577,
+      "code": "DIRESA26 P577",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "En la evaluación de la Calidad de los Servicios de Salud Materna (ASIS), se audita un caso de muerte por hemorragia posparto ocurrida en el trayecto desde un puesto de salud (I-1) hacia el hospital referencial. Se detectó que el puesto I-1 no contaba con Oxitocina ni Misoprostol en stock desde hace 2 meses, y que la ambulancia estaba malograda. ¿A qué tipo de indicador de calidad corresponden estas deficiencias graves según el modelo de Donabedian?",
+      "options": {
+        "A": "Indicador de Resultado.",
+        "B": "Indicador de Proceso.",
+        "C": "Indicador de Estructura (recursos humanos, físicos, insumos y organización).",
+        "D": "Indicador de Impacto a largo plazo.",
+        "E": "Indicador de Desempeño Clínico individual."
+      },
+      "correct": "C",
+      "comment": "El modelo de Donabedian evalúa la calidad en salud mediante tres dimensiones: Estructura, Proceso y Resultado. La falta de insumos críticos (medicamentos), equipos (ambulancia) y personal capacitado corresponde a fallas flagrantes en la 'Estructura' del sistema de salud, que condicionan la mala calidad del 'Proceso' (atención) y llevan a un mal 'Resultado' (muerte)."
+    },
+    {
+      "number": 578,
+      "code": "DIRESA26 P578",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "Una gestante acude al centro de salud y refiere haber expulsado por vía vaginal lo que la matrona tradicional llamó un 'Susto' o 'Sangre mala'. Clínicamente, trajo un frasco con tejido expulsado que se asemeja macroscópicamente a un racimo de uvas pequeñas y vesículas transparentes. El útero está más grande de lo esperado para su edad gestacional. ¿Cuál es el diagnóstico clínico y patológico evidente?",
+      "options": {
+        "A": "Aborto espontáneo de embrión macerado.",
+        "B": "Expulsión de mioma uterino pediculado.",
+        "C": "Mola Hidatiforme (Enfermedad Trofoblástica Gestacional), caracterizada por la degeneración quística hidrópica de las vellosidades coriales.",
+        "D": "Embarazo ectópico tubárico abortado.",
+        "E": "Expulsión de coágulos fibrinoides normales."
+      },
+      "correct": "C",
+      "comment": "La expulsión vaginal de vesículas con apariencia de 'racimo de uvas' es el signo clínico macroscópico patognomónico del embarazo molar (Mola Hidatiforme). Se trata de una proliferación anormal del trofoblasto donde las vellosidades coriales se edematizan masivamente formando quistes, requiriendo evacuación por AMEU urgente y seguimiento estricto de la Beta-hCG por riesgo de malignización."
+    },
+    {
+      "number": 579,
+      "code": "DIRESA26 P579",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "Para reducir la morbimortalidad neonatal por hipotermia en el altiplano andino, el Modelo de Cuidado Integral fomenta la técnica 'Madre Canguro' en recién nacidos de bajo peso o prematuros estables. ¿En qué consiste fundamentalmente esta técnica, que reemplaza parcial o totalmente a la incubadora en zonas de bajos recursos?",
+      "options": {
+        "A": "Envolver al recién nacido en paños de lana de oveja calientes y colocarlo en una cuna separada.",
+        "B": "Mantener al recién nacido en contacto piel a piel continuo (24/7) y estricto sobre el pecho desnudo de la madre (o padre), en posición vertical (ranita), alimentándolo exclusivamente con leche materna.",
+        "C": "Utilizar bolsas de agua caliente de goma alrededor del recién nacido.",
+        "D": "Administrar soluciones endovenosas calentadas a 37°C constantemente.",
+        "E": "Envolver al recién nacido con papel aluminio."
+      },
+      "correct": "B",
+      "comment": "El método 'Madre Canguro' es una intervención de altísima evidencia científica. Utiliza el cuerpo de la madre (u otro familiar) como incubadora natural mediante el contacto piel a piel ininterrumpido. El calor corporal materno termorregula al bebé de forma más eficaz que la incubadora, además de promover la lactancia materna, ganar peso rápidamente y fortalecer el vínculo afectivo."
+    },
+    {
+      "number": 580,
+      "code": "DIRESA26 P580",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "Un adulto de la selva puneña acude con fiebre alta en picos, ictericia profunda, hemorragias cutáneas (petequias) y hematemesis aguda (vómito negro). Refiere no haberse vacunado nunca. Dada la presentación fulminante (fase de intoxicación) y la alta letalidad de esta enfermedad arboviral prevenible en la Amazonía, ¿cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Fiebre Amarilla Grave.",
+        "B": "Dengue clásico sin signos de alarma.",
+        "C": "Infección por el virus del Zika.",
+        "D": "Paludismo por P. vivax no complicado.",
+        "E": "Hepatitis B crónica agudizada."
+      },
+      "correct": "A",
+      "comment": "La triada clásica de fiebre, ictericia profunda (daño hepático masivo) y hemorragias graves (vómito negro por sangrado gástrico, disfunción multiorgánica) en un paciente no inmunizado procedente de una zona enzoótica (selva) es la presentación característica de la fase de 'intoxicación' de la Fiebre Amarilla, una arbovirosis (transmitida por mosquitos) de altísima letalidad (hasta 50%)."
+    },
+    {
+      "number": 581,
+      "code": "DIRESA26 P581",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "Durante el invierno en la región Puno, un centro de salud atiende un brote familiar de intoxicación aguda tras consumir un plato tradicional preparado a base de carne de cerdo criada en corral (chicharrón). Los pacientes presentan fiebre, dolores musculares intensos (mialgias generalizadas), edema bipalpebral (hinchazón alrededor de los ojos) y eosinofilia marcada en el hemograma. ¿Cuál es el diagnóstico parasitológico más probable?",
+      "options": {
+        "A": "Hidatidosis hepática.",
+        "B": "Cisticercosis cerebral difusa.",
+        "C": "Triquinosis (infección por Trichinella spiralis).",
+        "D": "Fasciolosis aguda.",
+        "E": "Ascariasis intestinal masiva."
+      },
+      "correct": "C",
+      "comment": "La Triquinosis es una zoonosis parasitaria adquirida por el consumo de carne de cerdo cruda o mal cocida infectada con quistes larvales de Trichinella spiralis. La clínica clásica se compone de la tríada: fiebre, mialgias intensas y edema periorbitario/bipalpebral, acompañada de una marcada eosinofilia en sangre periférica."
+    },
+    {
+      "number": 582,
+      "code": "DIRESA26 P582",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "Un recién nacido a término es evaluado a los pocos minutos de nacer en un establecimiento de salud rural en Puno. La obstetra observa que el neonato presenta dificultad respiratoria progresiva, cianosis y, al auscultar el tórax, nota una disminución notable de los ruidos respiratorios en el hemitórax izquierdo, percibiendo en su lugar ruidos hidroaéreos (peristaltismo intestinal) dentro de la cavidad torácica. ¿Cuál es el diagnóstico probable y la urgencia quirúrgica neonatal?",
+      "options": {
+        "A": "Atresia esofágica simple.",
+        "B": "Hernia Diafragmática Congénita (defecto en el cierre del diafragma que permite el paso de vísceras abdominales al tórax, impidiendo el desarrollo pulmonar).",
+        "C": "Taquipnea transitoria del recién nacido.",
+        "D": "Neumotórax espontáneo benigno.",
+        "E": "Membrana hialina por prematurez."
+      },
+      "correct": "B",
+      "comment": "La presencia de ruidos hidroaéreos en el tórax, abdomen navicular (hundido) y dificultad respiratoria severa desde el nacimiento sugieren una Hernia Diafragmática Congénita (frecuentemente izq. por el foramen de Bochdalek). Es una emergencia quirúrgica neonatal absoluta que requiere intubación suave precoz (evitar ventilación con bolsa/mascara para no distender las asas en el tórax) y traslado urgente."
+    },
+    {
+      "number": 583,
+      "code": "DIRESA26 P583",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "En la gestión territorial de la DIRESA Puno, el concepto de 'Atención Primaria de Salud Renovada' promueve la conformación de redes de salud funcionales. ¿Cuál es el pilar de organización que permite que un Puesto de Salud rural (nivel I-1) derive de manera segura, ordenada y con historia clínica a una gestante complicada hacia el Hospital Regional de Puno?",
+      "options": {
+        "A": "El sistema de licitaciones públicas de medicamentos.",
+        "B": "El sistema estructurado de Referencia y Contrarreferencia.",
+        "C": "El comité de disciplina del Colegio Médico.",
+        "D": "La compra directa de servicios a clínicas privadas.",
+        "E": "El seguro privado de accidentes de tránsito."
+      },
+      "correct": "B",
+      "comment": "El sistema de Referencia y Contrarreferencia es el procedimiento administrativo-asistencial normado que garantiza la continuidad de la atención del paciente, permitiendo su traslado fluido y ordenado desde un establecimiento de menor complejidad hacia uno de mayor capacidad resolutiva ante una emergencia (referencia), asegurando su retorno posterior (contrarreferencia)."
+    },
+    {
+      "number": 584,
+      "code": "DIRESA26 P584",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "Una mujer de 38 años, pobladora de una comunidad de altura en Puno, acude a consulta por presentar desde hace 3 meses un bocio difuso multinodular no tóxico, asociado a letargia, piel seca, ganancia de peso y voz ronca. Sabiendo que históricamente las regiones altoandinas alejadas han sido zonas con deficiencia de yodo en los suelos y el agua, ¿cómo se previene y controla a nivel poblacional esta patología carencial?",
+      "options": {
+        "A": "Mediante la suplementación obligatoria con tabletas de yodo radiactivo a toda la población.",
+        "B": "Mediante la universalización del consumo de 'Sal Yodada' en la dieta de la población y el monitoreo de yoduria.",
+        "C": "Obligando a la población a consumir algas marinas diariamente.",
+        "D": "Aplicando inyecciones trimestrales de tiroxina sintética a todos los pobladores.",
+        "E": "Consumiendo exclusivamente agua destilada."
+      },
+      "correct": "B",
+      "comment": "La estrategia de salud pública más exitosa y universal contra los Trastornos por Deficiencia de Yodo (bocio endémico, cretinismo) es la yodación obligatoria de la sal de consumo humano. Garantiza el aporte diario necesario de este micronutriente en zonas geográficas con suelos pobres en yodo, como las zonas altoandinas."
+    },
+    {
+      "number": 585,
+      "code": "DIRESA26 P585",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "Durante el trabajo de parto en un puesto de salud, la obstetra realiza una evaluación ecográfica rápida o evalúa los latidos fetales, detectando que el feto se encuentra en una situación transversa inestable con ruptura de membranas. Minutos después, la paciente presenta dolor agudo y colapso circulatorio. ¿Cuál es el riesgo mecánico principal de una situación transversa abandonada en el trabajo de parto?",
+      "options": {
+        "A": "Parto precipitado sin asistencia.",
+        "B": "Rotura Uterina espontánea catastrófica por obstrucción insalvable (el feto no puede encajarse y distiende el segmento inferior hasta romperlo).",
+        "C": "Expulsión espontánea de pie.",
+        "D": "Inversión uterina puerperal inmediata.",
+        "E": "Placenta acreta fulminante."
+      },
+      "correct": "B",
+      "comment": "La situación transversa es una distocia absoluta para el parto vaginal. Si no se realiza una cesárea a tiempo y el útero continúa contrayéndose contra un feto horizontal que hace de cuña (encajamiento imposible), el segmento inferior se adelgaza de forma extrema hasta romperse, provocando una rotura uterina catastrófica."
+    },
+    {
+      "number": 586,
+      "code": "DIRESA26 P586",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "Un adulto mayor procedente de una zona rural de Puno es diagnosticado con Carcinoma Gástrico avanzado ulcerado. En el Perú y en las regiones altoandinas, el cáncer de estómago ocupa los primeros lugares de mortalidad oncológica. ¿Cuál de los siguientes factores de riesgo ambientales y dietéticos está fuertemente asociado a la alta incidencia de adenocarcinoma gástrico en la región andina?",
+      "options": {
+        "A": "El alto consumo de alimentos hiperproteicos y carnes blancas frescas.",
+        "B": "El consumo crónico de alimentos con alto contenido de sal (salazones), alimentos ahumados, la infección crónica por Helicobacter pylori y la baja ingesta de antioxidantes frescos (frutas/verduras).",
+        "C": "La exposición laboral al sol de la puna.",
+        "D": "El consumo exclusivo de leche de cabra pasteurizada.",
+        "E": "La deficiencia de vitamina D por falta de rayos UV."
+      },
+      "correct": "B",
+      "comment": "El cáncer gástrico tiene una alta incidencia en los Andes peruanos. Sus factores de riesgo principales son la infección por Helicobacter pylori adquirida desde la infancia y los factores dietéticos: dietas ricas en sal y alimentos ahumados o conservados con nitritos/nitratos, sumado al bajo consumo de frutas y verduras frescas."
+    },
+    {
+      "number": 587,
+      "code": "DIRESA26 P587",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "Un lactante de 8 meses es traído a emergencia por presentar fiebre de 39°C, irritabilidad y otalgia reflejada (se jala la oreja derecha). El médico examinador utiliza el otoscopio neumático y observa una membrana timpánica abombada, opaca, de coloración amarillenta y con movilidad disminuida. ¿Cuál es el diagnóstico clínico y el tratamiento antibiótico de primera línea indicado?",
+      "options": {
+        "A": "Otitis media aguda purulenta (OMA); tratamiento con Amoxicilina a altas dosis (80-90 mg/kg/día).",
+        "B": "Otitis externa difusa; tratamiento con Ciprofloxacino en gotas óticas exclusivamente.",
+        "C": "Miringitis bullosa viral; manejo expectante con analgésicos.",
+        "D": "Cuerpos extraños en conducto auditivo; extracción instrumental.",
+        "E": "Mastoiditis aguda necrotizante; cirugía de urgencia."
+      },
+      "correct": "A",
+      "comment": "La Otitis Media Aguda (OMA) es muy frecuente en la infancia. La clínica de otalgia, fiebre y los hallazgos otoscópicos (tímpano abombado, hiperémico e inmóvil) confirman el cuadro infeccioso bacteriano (principalmente por Streptococcus pneumoniae y H. influenzae). El antibiótico sistémico de primera línea es la Amoxicilina a dosis altas para asegurar penetración en el oído medio."
+    },
+    {
+      "number": 588,
+      "code": "DIRESA26 P588",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "Una gestante de 32 semanas acude a su control prenatal en la Red de Salud Melgar. Refiere que desde hace dos días presenta fiebre, escalofríos y dolor lumbar intenso. Al examen físico se constata puño-percusión lumbar derecha intensamente positiva. Se diagnostica Pielonefritis Aguda. Además de la hidratación y los antibióticos endovenosos, ¿por qué es una prioridad obstétrica frenar o vigilar estrechamente la contracción uterina en esta patología?",
+      "options": {
+        "A": "Porque la pielonefritis estimula la liberación de prostaglandinas y toxinas bacterianas que desencadenan frecuentemente contracciones uterinas prematuras, pudiendo provocar un Parto Pretérmino.",
+        "B": "Porque el útero se vuelve radioactivo ante la infección renal.",
+        "C": "Porque causa ruptura de huesos fetales.",
+        "D": "Porque inhibe permanentemente la producción de leche materna en el futuro.",
+        "E": "Porque produce atonía uterina postparto inmediata."
+      },
+      "correct": "A",
+      "comment": "Las infecciones graves del tracto urinario superior (pielonefritis) en la gestante son un factor desencadenante mayor de Amenaza de Parto Prematuro (APP). Las endotoxinas bacterianas y la fiebre alta estimulan la síntesis de prostaglandinas que sensibilizan al miometrio, requiriendo vigilancia y manejo multidisciplinario."
+    },
+    {
+      "number": 589,
+      "code": "DIRESA26 P589",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "En la vigilancia epidemiológica comunitaria de la DIRESA Puno, se instruye a los Agentes Comunitarios de Salud (ACS) sobre la identificación de signos de peligro en el recién nacido. ¿Cuál de los siguientes signos de peligro neonatal exigen la derivación urgente e inmediata de un neonato de 5 días de vida al hospital?",
+      "options": {
+        "A": "Estornudos ocasionales por polvo.",
+        "B": "Coloración amarillenta de la piel que solo llega al nivel del rostro (ictericia leve fisiológica).",
+        "C": "Fiebre (≥ 38°C) o hipotermia (< 35.5°C), succión débil o rechazo total al alimento, convulsiones, respiración rápida o tiraje subcostal y ombligo con pus fétido (onfalitis).",
+        "D": "Deposiciones de transición semilíquidas de color amarillo claro.",
+        "E": "Erupción cutánea transitoria benigna (eritema tóxico neonatal)."
+      },
+      "correct": "C",
+      "comment": "Los signos de alarma neonatal estandarizados por AIEPI neonatal son inespecíficos pero letales si no se tratan: distermia (fiebre o frialdad), hipoactividad/letargia, incapacidad para lactar, dificultad respiratoria, ictericia patológica temprana y signos locales de infección sistémica (onfalitis). Requieren traslado hospitalario urgente."
+    },
+    {
+      "number": 590,
+      "code": "DIRESA26 P590",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "Una mujer de 26 años acude a consulta externa en Puno solicitando un método anticonceptivo hormonal. Al realizarle la anamnesis clínica, refiere el antecedente personal documentado de Tromboembolismo Venoso Profundo (TVP) previo hace 2 años, el cual ya fue tratado. Según los Criterios Médicos de Elegibilidad (CME) de la OMS para el uso de anticonceptivos, ¿cuál de los siguientes métodos está ABSOLUTAMENTE CONTRAINDICADO (Categoría 4)?",
+      "options": {
+        "A": "Dispositivo Intrauterino (DIU) de cobre.",
+        "B": "Implante subdérmico de progestágeno.",
+        "C": "Anticonceptivos Orales Combinados (ACO) que contienen estrógenos y progestágenos.",
+        "D": "Preservativos masculinos y femeninos.",
+        "E": "Métodos de abstinencia periódica (Billing/Ogino)."
+      },
+      "correct": "C",
+      "comment": "El antecedente personal de enfermedad tromboembólica venosa (TVP/TEP) activa o pasada representa una contraindicación absoluta (Categoría 4 de la OMS) para el uso de anticonceptivos hormonales combinados (estrógenos + progestágenos), ya que el componente estrogénico incrementa exponencialmente el riesgo de un nuevo evento trombótico fatal."
+    },
+    {
+      "number": 591,
+      "code": "DIRESA26 P591",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "Un adulto procedente de un área rural de Puno es evaluado por presentar debilidad muscular progresiva descendente, visión doble (diplopía), disfagia (dificultad para tragar) y dificultad respiratoria severa, sin alteración del estado de conciencia ni fiebre. La familia refiere que hace 3 días consumieron conservas caseras de carne de cordero enlatadas artesanalmente. ¿Cuál es el diagnóstico clínico y toxicológico de esta emergencia neurológica paralítica?",
+      "options": {
+        "A": "Intoxicación por plaguicidas organofosforados.",
+        "B": "Síndrome de Guillain-Barré ascendente.",
+        "C": "Botulismo alimentario (intoxicación por la neurotoxina preformada de Clostridium botulinum).",
+        "D": "Envenenamiento por mordedura de serpiente venenosa.",
+        "E": "Accidente cerebrovascular troncoencefálico."
+      },
+      "correct": "C",
+      "comment": "El botulismo alimentario es una neurotoxicidad grave causada por la ingestión de la toxina preformada del Clostridium botulinum (común en conservas caseras mal esterilizadas). Provoca una parálisis flácida simétrica descendente que afecta los pares craneales (diplopía, disartria, disfagia) y puede llevar a la insuficiencia respiratoria por parálisis diafragmática, manteniendo la lucidez mental."
+    },
+    {
+      "number": 592,
+      "code": "DIRESA26 P592",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "En la evaluación de una gestante a término con sospecha de sufrimiento fetal agudo durante la labor de parto, la obstetra realiza una amnioscopia o valora el líquido amniótico tras la rotura de membranas. ¿Cómo se interpreta la presencia de 'Líquido amniótico claro' frente al 'Líquido amniótico con grumos o meconial fluido'?",
+      "options": {
+        "A": "El líquido claro indica sufrimiento fetal severo; el meconial indica bienestar absoluto.",
+        "B": "El líquido claro es el hallazgo normal que indica bienestar fetal respecto a hipoxia aguda; el líquido meconial (especialmente si es espeso) indica que el feto ha experimentado estrés o hipoxia, relajando el esfínter anal y expulsando meconio hacia el líquido amniótico.",
+        "C": "Ambos líquidos tienen exactamente el mismo significado pronóstico.",
+        "D": "El líquido claro indica obligatoriamente macrosomia fetal.",
+        "E": "El líquido meconial solo aparece en partos prematuros extremos."
+      },
+      "correct": "B",
+      "comment": "El líquido amniótico claro es signo de normalidad en la labor de parto. La presencia de meconio (emisión de la primera deposición fetal dentro del útero) es un reflejo de la madurez intestinal pero, sobre todo, es una respuesta a la hipoxia o estrés fetal agudo (que estimula el vago y relaja el esfínter anal), advirtiendo la necesidad de monitorización estricta."
+    },
+    {
+      "number": 593,
+      "code": "DIRESA26 P593",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "Un niño de 2 años es traído a consulta por presentar desde hace 3 días fiebre alta, irritabilidad y negativa a comer. Al examen de la cavidad oral, la obstetra observa pequeñas vesículas y úlceras dolorosas localizadas exclusivamente en la mucosa anterior de la boca (encías y paladar duro), acompañadas de encías muy inflamadas y sangrantes (Gingivoestomatitis herpética primoinfección). ¿Cuál es el agente etiológico causal más frecuente?",
+      "options": {
+        "A": "Virus Coxsackie A (causante de mano-pie-boca).",
+        "B": "Virus del Herpes Simple tipo 1 (VHS-1).",
+        "C": "Estreptococo beta-hemolítico del grupo A.",
+        "D": "Virus de Epstein-Barr.",
+        "E": "Cándida albicans (Muguet oral)."
+      },
+      "correct": "B",
+      "comment": "La primoinfección por el Virus del Herpes Simple tipo 1 (VHS-1) en lactantes y niños pequeños se manifiesta típicamente como una Gingivoestomatitis herpética aguda. Causa fiebre alta, dolor intenso, salivación profusa y múltiples vesículas/úlceras en encías y mucosa oral anterior, diferenciándose de la herpangina (Coxsackie), que afecta el paladar blando y la faringe posterior."
+    },
+    {
+      "number": 594,
+      "code": "DIRESA26 P594",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "Una gestante de 32 semanas acude a control prenatal con el resultado de una ecografía morfológica que reporta 'Polihidramnios severo' (Índice de Líquido Amniótico - ILA > 24 cm o Bolsas mayores de 8 cm). ¿Cuál de las siguientes malformaciones congénitas fetales altas del tubo digestivo o del sistema nervioso central se asocia clásicamente y con mayor frecuencia al desarrollo de polihidramnios?",
+      "options": {
+        "A": "Agenesia renal bilateral.",
+        "B": "Obstrucción urinaria baja (válvulas de uretra posterior).",
+        "C": "Atresia esofágica (con o sin fístula traqueoesofágica) o anencefalia, debido a la incapacidad del feto para deglutir y reabsorber el líquido amniótico.",
+        "D": "Onfalocele pequeño aislado.",
+        "E": "Labio leporino aislado sin paladar hendido."
+      },
+      "correct": "C",
+      "comment": "El líquido amniótico se recambia porque el feto lo deglute y luego lo elimina por la orina. Si existe una obstrucción alta que impida la deglución (como la Atresia Esofágica) o una falla en la deglución por defecto neurológico (como la Anencefalia), el feto deja de tragar líquido, acumulándose masivamente y produciendo Polihidramnios. Lo inverso ocurre en la agenesia renal (Oligohidramnios)."
+    },
+    {
+      "number": 595,
+      "code": "DIRESA26 P595",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "Un paciente procedente de una comunidad rural de Puno es diagnosticado con Brucelosis (Fiebre de Malta), tras consumir queso fresco de cabra sin pasteurizar. Acude por fiebre ondulante, sudoración profusa con olor peculiar, artralgias y hepatoesplenomegalia. ¿Cuál es el esquema farmacológico combinado de primera línea normado para el tratamiento de la brucelosis humana en adultos?",
+      "options": {
+        "A": "Amoxicilina sola por 7 días.",
+        "B": "Doxiciclina (100 mg c/12h por 6 semanas) asociada a Rifampicina (600 mg/día por 6 semanas) o Estreptomicina.",
+        "C": "Penicilina G benzatínica en dosis única.",
+        "D": "Ciprofloxacino en monoterapia por 3 días.",
+        "E": "Albendazol y Praziquantel."
+      },
+      "correct": "B",
+      "comment": "La Brucelosis es una zoonosis bacteriana intracelular sistémica (Brucella melitensis). Para evitar altas tasas de recaída, el tratamiento médico estándar exige terapia combinada prolongada por un mínimo de 6 semanas, utilizando Doxiciclina junto con Rifampicina (o aminoglucósidos como estreptomicina en las primeras semanas)."
+    },
+    {
+      "number": 596,
+      "code": "DIRESA26 P596",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "En la evaluación del bienestar fetal mediante el Monitoreo Fetal Electrónico (NST), se define una 'Aceleración Fetal' (marcador inequívoco de feto no acidótico y con sistema nervioso íntegro) como un incremento transitorio de la frecuencia cardíaca fetal por encima de la línea basal. ¿Cuál es la amplitud y duración normadas para considerar una aceleración como 'reactiva' en un feto a término (≥ 32 semanas)?",
+      "options": {
+        "A": "Aumento de al menos 5 lpm sobre la línea base, con duración de 5 segundos.",
+        "B": "Aumento de al menos 15 lpm sobre la línea base, con una duración de al menos 15 segundos (regla de los 15x15).",
+        "C": "Aumento de 30 lpm que dure exactamente 2 minutos.",
+        "D": "Cualquier aumento fugaz sin importar los latidos.",
+        "E": "Aumento de 10 lpm por 10 segundos."
+      },
+      "correct": "B",
+      "comment": "Criterio de reactividad en el NST para mayores de 32 semanas: la presencia de al menos 2 aceleraciones fetales en un periodo de 20 minutos, donde cada aceleración alcance un incremento de ≥ 15 latidos por minuto sobre la línea de base y dure al menos 15 segundos (regla de 15x15)."
+    },
+    {
+      "number": 597,
+      "code": "DIRESA26 P597",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "Una gestante de 39 semanas acude en trabajo de parto. Al realizar el tacto vaginal, la obstetra palpa una fontanela amplia y, por debajo de ella, la nariz, los ojos y la boca del feto. Las eminencias malares son palpables. ¿Cómo se diagnostica esta posición y presentación fetal anómala?",
+      "options": {
+        "A": "Presentación de cara (actitud de extensión máxima de la cabeza fetal).",
+        "B": "Presentación de frente.",
+        "C": "Presentación cefálica de vértice normal.",
+        "D": "Presentación de hombros en situación transversa.",
+        "E": "Presentación podálica incompleta."
+      },
+      "correct": "A",
+      "comment": "La Presentación de Cara ocurre por una extensión completa de la cabeza fetal (el occipucio toca la espalda del feto y la cara se presenta al canal del parto). Al tacto vaginal se palpan los elementos faciales (nariz, ojos, boca, reborde orbitario), diferenciándose de la frente donde solo se palpa la raíz nasal y la fontanela anterior."
+    },
+    {
+      "number": 598,
+      "code": "DIRESA26 P598",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "Durante el tercer periodo del parto (alumbramiento), tras la aplicación del MATEP (Oxitocina IM y tracción controlada), se expulsa la placenta completa. Sin embargo, a los pocos minutos, la paciente presenta un sangrado vaginal profuso y, al palpar el abdomen, el fondo uterino no se delimita adecuadamente y se observa una masa tumoral blanda que protruye a través del cérvix hacia la vagina. ¿Cuál es el diagnóstico de esta emergencia obstétrica dramática y rara?",
+      "options": {
+        "A": "Rotura uterina fúndica.",
+        "B": "Inversión Uterina Aguda (el útero se 'voltea' sobre sí mismo, saliendo el fondo hacia la vagina).",
+        "C": "Desprendimiento de mioma submucoso.",
+        "D": "Absceso del cérvix uterino.",
+        "E": "Placenta acreta perforante."
+      },
+      "correct": "B",
+      "comment": "La Inversión Uterina Aguda es una complicación grave del alumbramiento, a menudo precipitada por una tracción excesiva y descontrolada del cordón umbilical antes del desprendimiento placentario o por una fuerte presión fúndica (Maniobra de Credé). El útero se evagina parcial o totalmente, causando shock neurogénico e hipovolémico severo."
+    },
+    {
+      "number": 599,
+      "code": "DIRESA26 P599",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "En la consejería de anticoncepción en el puerperio, una puérpera que lacta exclusivamente a su bebé de 3 semanas en Puno consulta sobre la eficacia y el uso del dispositivo 'DIU de T de Cobre 380A'. Según los criterios de la OMS, ¿cuándo es el momento ideal recomendado para la inserción postparto de un DIU si no se realiza inmediatamente después de la placenta?",
+      "options": {
+        "A": "Únicamente a los 5 años postparto.",
+        "B": "Inserción postparto tardía o de intervalo: se puede realizar a partir de las 4 a 6 semanas postparto (puerperio tardío), una vez completada la involución uterina y descartada la infección.",
+        "C": "A las 48 horas exactas en el domicilio.",
+        "D": "Durante las primeras 2 horas del postparto inmediato obligatoriamente.",
+        "E": "Está prohibido en mujeres que dan de lactar."
+      },
+      "correct": "B",
+      "comment": "El DIU de cobre se puede insertar posparto de dos formas: inmediato (dentro de los 10 minutos post-alumbramiento, con mayor riesgo de expulsión) o posparto tardío / de intervalo, que se realiza idealmente a las 4-6 semanas postparto (puerperio mediato/tardío), aprovechando la visita de control puerperal cuando el útero ha involucionado."
+    },
+    {
+      "number": 600,
+      "code": "DIRESA26 P600",
+      "course": "Enfoque regional Puno",
+      "topic": "Enfoque regional Puno",
+      "question": "Una gestante de 37 semanas con diagnóstico de rotura prematura de membranas de 18 horas y sin dinámica uterina es evaluada en un hospital de la DIRESA Puno. No hay signos clínicos ni de laboratorio de infección ovular (corioamnionitis). ¿Cuál es la conducta obstétrica normada para optimizar los resultados perinatales en este escenario?",
+      "options": {
+        "A": "Realizar cesárea de emergencia de inmediato sin esperar.",
+        "B": "Mantener en reposo absoluto por 7 días administrando tocolíticos potentes.",
+        "C": "Inducción o conducción inmediata del trabajo de parto (o programación de interrupción) para disminuir drásticamente el riesgo de infección ascendente (sepsis neonatal y materna).",
+        "D": "Dar de alta domiciliaria con indicaciones de regresar ante contracciones.",
+        "E": "Realizar amniocentesis diaria sin inducir."
+      },
+      "correct": "C",
+      "comment": "En una gestante a término (≥ 37 semanas) con Rotura Prematura de Membranas (RPM), el riesgo de infección intrauterina (corioamnionitis) aumenta exponencialmente con el paso de las horas. Las guías del MINSA y internacionales establecen que a término no se debe esperar; se debe inducir o conducir el trabajo de parto de inmediato para prevenir la morbimortalidad infecciosa."
+    }
+  ]
+}

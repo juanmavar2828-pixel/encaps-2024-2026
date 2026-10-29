@@ -1,0 +1,1609 @@
+{
+  "schemaVersion": 1,
+  "bankId": "BALOTARIO_DIRESA_PUNO_2026_301_400",
+  "title": "Balotario del 301 al 400 · DIRESA Puno 2026",
+  "source": "Balotario Médicos Cirujanos y Obstetras · DIRESA Puno · Edición 2026 · PDF proporcionado por el usuario (sin verificación externa de claves)",
+  "questionCount": 100,
+  "questions": [
+    {
+      "number": 301,
+      "code": "DIRESA26 P301",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Durante la temporada de heladas en Puno, un niño de 2 años es llevado al Centro de Salud por presentar fiebre, tos y taquipnea. Al examen físico se evidencia una frecuencia respiratoria de 55 respiraciones por minuto y tiraje subcostal. Según los lineamientos AIEPI/MINSA, ¿cuál es el diagnóstico clínico y el signo cardinal utilizado para clasificar la severidad de esta Infección Respiratoria Aguda (IRA)?",
+      "options": {
+        "A": "Resfriado común; el signo cardinal es la tos seca.",
+        "B": "Asma bronquial; el signo cardinal son las sibilancias inspiratorias.",
+        "C": "Bronquiolitis aguda; el signo cardinal es la fiebre alta.",
+        "D": "Neumonía grave; el signo cardinal es el tiraje subcostal asociado a la taquipnea para la edad.",
+        "E": "Faringoamigdalitis purulenta; el signo cardinal es la polipnea térmica."
+      },
+      "correct": "D",
+      "comment": "En pediatría del primer nivel (AIEPI), la taquipnea (≥ 40 rpm en niños de 1 a 5 años) define la Neumonía. La presencia de tiraje subcostal (retracción de la pared torácica inferior) la clasifica inmediatamente como Neumonía Grave, requiriendo referirse y administrarse la primera dosis de antibiótico."
+    },
+    {
+      "number": 302,
+      "code": "DIRESA26 P302",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Un minero de 45 años residente de La Rinconada (5,100 m.s.n.m.) acude por cefalea intensa, tinnitus, parestesias y fatiga. Al examen físico destaca plétora facial, cianosis distal e ingurgitación yugular. Su laboratorio muestra una Hemoglobina de 23 g/dL. ¿Cuál es la base fisiopatológica primaria de este cuadro conocido como Mal de Montaña Crónico (Enfermedad de Monge)?",
+      "options": {
+        "A": "Vasodilatación pulmonar aguda por exposición al frío extremo.",
+        "B": "Hiperventilación sostenida que produce alcalosis metabólica compensatoria.",
+        "C": "Mutación genética del gen de la hemoglobina tipo S (anemia drepanocítica).",
+        "D": "Deshidratación severa por el aire seco de la altura.",
+        "E": "Hipoxia alveolar crónica que genera una pérdida de la respuesta ventilatoria y estimula una producción excesiva de eritropoyetina, causando policitemia severa e hipertensión pulmonar."
+      },
+      "correct": "E",
+      "comment": "El Mal de Montaña Crónico se produce por una hipoventilación alveolar crónica frente a la hipoxia de gran altitud. Esto genera hipoxemia severa que estimula los riñones a producir niveles excesivos de eritropoyetina, resultando en una policitemia exagerada (Hb > 21 g/dL), hiperviscosidad sanguínea e hipertensión pulmonar."
+    },
+    {
+      "number": 303,
+      "code": "DIRESA26 P303",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Un paciente varón de 22 años llega a emergencia con dolor abdominal de 12 horas de evolución. Inició en el epigastrio y migró a la fosa ilíaca derecha. Presenta náuseas, anorexia y fiebre leve. Durante el examen físico, el médico palpa la fosa ilíaca derecha y al soltar bruscamente la mano, el paciente experimenta un dolor agudo e intenso. ¿Cómo se denomina este signo clínico clásico de irritación peritoneal?",
+      "options": {
+        "A": "Signo de Murphy.",
+        "B": "Signo de Rovsing.",
+        "C": "Signo de Blumberg (Dolor a la descompresión o rebote).",
+        "D": "Signo de Psoas.",
+        "E": "Signo de McBurney."
+      },
+      "correct": "C",
+      "comment": "El dolor a la descompresión brusca en la fosa ilíaca derecha se conoce como Signo de Blumberg o dolor de rebote. Es un indicador clínico altamente específico de irritación peritoneal localizada (peritonitis focal), característico de la apendicitis aguda."
+    },
+    {
+      "number": 304,
+      "code": "DIRESA26 P304",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "En un puesto de salud, minutos después de administrarle Penicilina G Benzatínica, un adulto desarrolla hipotensión severa, broncoespasmo, estridor laríngeo y urticaria difusa. Se diagnostica choque anafiláctico. ¿Cuál es el fármaco de primera línea, la dosis y la vía de administración que salvan la vida del paciente?",
+      "options": {
+        "A": "Adrenalina (Epinefrina) acuosa al 1:1000, dosis de 0.3 a 0.5 mg vía intramuscular en la cara anterolateral del muslo.",
+        "B": "Clorfenamina 10 mg vía endovenosa lenta.",
+        "C": "Hidrocortisona 500 mg en bolo endovenoso.",
+        "D": "Salbutamol en nebulización continua.",
+        "E": "Dopamina en infusión endovenosa por bomba."
+      },
+      "correct": "A",
+      "comment": "La anafilaxia es una emergencia médica donde la Adrenalina intramuscular (en el vasto externo del muslo, por su rápida absorción) es el único tratamiento de primera línea que revierte el broncoespasmo y el colapso cardiovascular. Antihistamínicos y corticoides son de segunda línea (acción lenta)."
+    },
+    {
+      "number": 305,
+      "code": "DIRESA26 P305",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Durante la atención de un recién nacido de 40 semanas, el neonato se presenta flácido y en apnea. El médico realiza los pasos iniciales (calor, posicionar, despejar vía aérea, secar y estimular). Tras 30 segundos, el neonato continúa en apnea y su frecuencia cardíaca es de 80 latidos por minuto. Según el flujograma de Reanimación Neonatal (NRP), ¿cuál es el paso inmediato a seguir?",
+      "options": {
+        "A": "Iniciar compresiones torácicas (masaje cardíaco).",
+        "B": "Iniciar Ventilación a Presión Positiva (VPP) con máscara y bolsa autoinflable, usando aire ambiente (21% de oxígeno).",
+        "C": "Administrar adrenalina endovenosa por la vena umbilical.",
+        "D": "Intubar inmediatamente al neonato.",
+        "E": "Continuar estimulando el dorso del neonato por un minuto más."
+      },
+      "correct": "B",
+      "comment": "Si tras los pasos iniciales de reanimación (30 seg) el recién nacido está en apnea, respiración jadeante o tiene una Frecuencia Cardíaca menor a 100 latidos por minuto, el paso crítico inmediato es iniciar la Ventilación a Presión Positiva (VPP) para oxigenar y expandir los pulmones."
+    },
+    {
+      "number": 306,
+      "code": "DIRESA26 P306",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Un turista procedente de Lima llega en vuelo directo a Juliaca (3,800 m.s.n.m.). Durante su segunda noche presenta disnea grave de reposo, tos seca que evoluciona a expectoración asalmonada (rosada y espumosa), cianosis y crepitantes bilaterales a la auscultación. No tiene antecedentes cardíacos. ¿Cuál es el diagnóstico más probable y el pilar farmacológico específico de su tratamiento inicial (además del oxígeno y el descenso)?",
+      "options": {
+        "A": "Neumonía bacteriana fulminante; iniciar Ceftriaxona.",
+        "B": "Tromboembolismo pulmonar; iniciar Heparina.",
+        "C": "Infarto Agudo de Miocardio; iniciar Aspirina y Clopidogrel.",
+        "D": "Crisis de asma bronquial; iniciar corticoides endovenosos.",
+        "E": "Edema Agudo de Pulmón de Altura (EAPA); administrar Nifedipino como vasodilatador pulmonar."
+      },
+      "correct": "E",
+      "comment": "El Edema Agudo de Pulmón de Altura es una urgencia no cardiogénica causada por una vasoconstricción pulmonar hipóxica exagerada. El manejo fundamental es la administración de O2, el descenso urgente, y el Nifedipino (bloqueador de canales de calcio), que actúa como vasodilatador del lecho pulmonar reduciendo la hipertensión pulmonar."
+    },
+    {
+      "number": 307,
+      "code": "DIRESA26 P307",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Una mujer de 45 años, obesa, acude a urgencias por dolor continuo en el hipocondrio derecho irradiado a la escápula derecha, de 8 horas de evolución, asociado a náuseas y fiebre de 38°C, que inició tras consumir un plato típico alto en grasas. Presenta cese de la inspiración a la palpación profunda del reborde costal derecho. ¿Cuál es el diagnóstico clínico presuntivo y el examen de imagen inicial de elección?",
+      "options": {
+        "A": "Pancreatitis aguda; Tomografía Abdominal sin contraste.",
+        "B": "Úlcera péptica perforada; Radiografía simple de abdomen en bipedestación.",
+        "C": "Colecistitis aguda calculosa; Ecografía abdominal de vías biliares.",
+        "D": "Hepatitis viral aguda; Resonancia magnética hepática.",
+        "E": "Colangitis aguda; Colangiopancreatografía Retrógrada Endoscópica (CPRE)."
+      },
+      "correct": "C",
+      "comment": "La clínica describe el Signo de Murphy positivo (cese inspiratorio al palpar la vesícula inflamada), característico de la colecistitis aguda. La ecografía abdominal es el Gold Standard inicial por su alta sensibilidad, bajo costo y capacidad para visualizar cálculos, engrosamiento de pared vesicular y líquido perivesicular."
+    },
+    {
+      "number": 308,
+      "code": "DIRESA26 P308",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Un agricultor en Puno es traído a emergencia tras derramar accidentalmente plaguicidas agrícolas en su ropa. Presenta miosis puntiforme, sialorrea masiva (babeo), lagrimeo, fasciculaciones musculares, vómitos y bradicardia. Se diagnostica intoxicación por Órganos Fosforados. ¿Cuál es el antídoto específico de urgencia para revertir el síndrome muscarínico?",
+      "options": {
+        "A": "Atropina endovenosa, hasta lograr signos de atropinización (midriasis, sequedad de mucosas, taquicardia).",
+        "B": "Flumazenil endovenoso en bolo rápido.",
+        "C": "N-acetilcisteína oral o endovenosa.",
+        "D": "Naloxona en dosis repetidas.",
+        "E": "Bicarbonato de sodio al 8.4%."
+      },
+      "correct": "A",
+      "comment": "Los organofosforados inhiben irreversiblemente la acetilcolinesterasa, causando un exceso de acetilcolina. El síndrome muscarínico (miosis, bradicardia, broncorrea letal) se revierte con Atropina, un antagonista competitivo de los receptores muscarínicos, dosificando hasta secar las secreciones bronquiales (atropinización)."
+    },
+    {
+      "number": 309,
+      "code": "DIRESA26 P309",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Un lactante de 10 meses llega a emergencia con un cuadro de Enfermedad Diarreica Aguda (EDA) de 3 días. Al examen: está letárgico, presenta ojos muy hundidos, no puede beber y el signo del pliegue cutáneo regresa muy lentamente (> 2 segundos). ¿Cuál es la clasificación del estado de hidratación y el plan de tratamiento normado?",
+      "options": {
+        "A": "Deshidratación con shock hipovolémico; requiere reanimación con vasopresores.",
+        "B": "EDA sin deshidratación; manejo ambulatorio con Plan A.",
+        "C": "Deshidratación algún grado; terapia de rehidratación oral (TRO) en el establecimiento con Plan B.",
+        "D": "Deshidratación grave; requiere manejo inmediato con fluidoterapia endovenosa según Plan C (ej. Lactato de Ringer o Cloruro de Sodio al 0.9%).",
+        "E": "Deshidratación hipernatrémica severa; dar agua libre por sonda nasogástrica."
+      },
+      "correct": "D",
+      "comment": "La letargia/inconciencia, la incapacidad para beber, los ojos muy hundidos y el pliegue cutáneo muy lento son signos cardinales de Deshidratación Grave. Esta condición es una emergencia médica y su manejo es el Plan C: rehidratación endovenosa rápida con expansores isotónicos para prevenir o tratar el shock."
+    },
+    {
+      "number": 310,
+      "code": "DIRESA26 P310",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Un joven de 20 años con diagnóstico reciente de Diabetes Mellitus tipo 1 ingresa a emergencia con alteración del sensorio, aliento a manzanas (cetónico) y respiración rápida y profunda (Kussmaul). En la gasometría arterial se evidencia pH de 7.1 y bicarbonato de 10 mEq/L. Su glucosa capilar es de 450 mg/dL. ¿Cuál es el pilar inicial más urgente e importante en el manejo de esta Cetoacidosis Diabética (CAD)?",
+      "options": {
+        "A": "Administrar un bolo endovenoso rápido de insulina cristalina pura (50 unidades).",
+        "B": "Expansión enérgica del volumen intravascular mediante fluidoterapia con Cloruro de Sodio al 0.9% (solución salina isotónica).",
+        "C": "Administrar Bicarbonato de Sodio en bolo para corregir el pH.",
+        "D": "Infusión inmediata de Dextrosa al 5%.",
+        "E": "Administrar antibióticos de amplio espectro antes de cualquier fluido."
+      },
+      "correct": "B",
+      "comment": "En la Cetoacidosis Diabética, el paciente cursa con deshidratación profunda por diuresis osmótica. El paso número 1 y más crítico para restaurar la perfusión renal y tisular es la reposición intensiva de líquidos con suero fisiológico, antes incluso de iniciar la infusión continua de insulina."
+    },
+    {
+      "number": 311,
+      "code": "DIRESA26 P311",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Un varón de 65 años, poblador de una comunidad altoandina, con antecedente de estreñimiento crónico y dieta rica en papa y chuño, acude a emergencia por dolor abdominal tipo cólico intenso de 2 días de evolución, ausencia de deposiciones y flatos, y gran distensión abdominal asimétrica. Se le solicita una radiografía simple de abdomen en la que se observa la imagen clásica del 'Grano de Café' u 'Omega invertida' que ocupa casi todo el abdomen. ¿Cuál es el diagnóstico quirúrgico más probable?",
+      "options": {
+        "A": "Cáncer de colon derecho obstructivo.",
+        "B": "Obstrucción intestinal por bridas y adherencias.",
+        "C": "Vólvulo de sigmoides.",
+        "D": "Isquemia mesentérica aguda.",
+        "E": "Íleo paralítico metabólico por hipopotasemia."
+      },
+      "correct": "C",
+      "comment": "El vólvulo de sigmoides es la causa más común de obstrucción intestinal baja en la población andina (debido al dolicomegasigma andino adquirido por dieta rica en residuos vegetales y altitud). La imagen radiológica de un asa sigmoidea distendida en forma de 'U' invertida o 'grano de café' es patognomónica."
+    },
+    {
+      "number": 312,
+      "code": "DIRESA26 P312",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Un médico se encuentra solo en el tópico de un centro de salud rural cuando un adulto de 50 años sufre un colapso súbito. Al comprobar que no responde y no respira, inicia las maniobras de Reanimación Cardiopulmonar (RCP) básica. Según las guías vigentes de la AHA (American Heart Association), ¿cuál es la relación correcta de compresiones torácicas y ventilaciones para un reanimador en adultos?",
+      "options": {
+        "A": "30 compresiones por cada 2 ventilaciones.",
+        "B": "15 compresiones por cada 2 ventilaciones.",
+        "C": "5 compresiones por cada 1 ventilación.",
+        "D": "100 compresiones continuas sin ventilaciones en ningún momento.",
+        "E": "60 compresiones por cada 4 ventilaciones."
+      },
+      "correct": "A",
+      "comment": "Las directrices de Soporte Vital Básico (BLS) establecen universalmente que, para adultos en paro cardíaco, la relación de reanimación cardiopulmonar debe ser de 30 compresiones torácicas profundas y rápidas seguidas de 2 ventilaciones de rescate (30:2), hasta que llegue el DEA o ayuda avanzada."
+    },
+    {
+      "number": 313,
+      "code": "DIRESA26 P313",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Un niño de 3 años es traído a emergencia de madrugada por presentar tos 'perruna' (metálica), disfonía y estridor inspiratorio que empeora con el llanto. El cuadro inició hace 2 días como un resfrío común. Al examen físico está afebril y presenta leve tiraje supraesternal. Se diagnostica Laringotraqueítis aguda (Croup). ¿Cuál es el tratamiento antiinflamatorio de elección recomendado para reducir el edema subglótico?",
+      "options": {
+        "A": "Amoxicilina con Ácido Clavulánico por 7 días.",
+        "B": "Salbutamol en inhalador presurizado.",
+        "C": "Paracetamol condicional a la fiebre.",
+        "D": "Dexametasona en dosis única (oral o intramuscular) asociada a nebulización con Adrenalina si el estridor ocurre en reposo.",
+        "E": "Intubación endotraqueal inmediata en todos los casos."
+      },
+      "correct": "D",
+      "comment": "El Croup es de etiología viral (parainfluenza). El pilar del tratamiento es el uso de corticoides sistémicos (Dexametasona 0.15 - 0.6 mg/kg) por su prolongado efecto antiinflamatorio en la vía aérea superior. Si hay estridor en reposo (Croup moderado/severo), se asocia nebulización con Adrenalina racémica o estándar."
+    },
+    {
+      "number": 314,
+      "code": "DIRESA26 P314",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Un viajero llega a la región de Puno e inicia un proceso de aclimatación. Desde el punto de vista de la fisiología de la altura, ¿cuál es el PRIMER mecanismo compensatorio agudo que adopta el organismo humano al enfrentarse a la caída de la presión parcial de oxígeno ambiental (hipoxia hipobárica)?",
+      "options": {
+        "A": "Aumento masivo de la excreción renal de bicarbonato.",
+        "B": "Secreción de eritropoyetina y aumento de glóbulos rojos el mismo día.",
+        "C": "Vasodilatación sistémica generalizada.",
+        "D": "Disminución del gasto cardíaco para ahorrar energía.",
+        "E": "Aumento de la frecuencia y profundidad respiratoria (hiperventilación) estimulada por los quimiorreceptores periféricos, lo cual genera una alcalosis respiratoria secundaria."
+      },
+      "correct": "E",
+      "comment": "La respuesta aguda inicial (minutos a horas) a la hipoxia de altitud es el incremento de la ventilación pulmonar (hiperventilación hipóxica) mediada por los cuerpos carotídeos. Al hiperventilar, el cuerpo expulsa un exceso de CO2, provocando rápidamente una alcalosis respiratoria en la sangre."
+    },
+    {
+      "number": 315,
+      "code": "DIRESA26 P315",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Un paciente llega a trauma shock tras sufrir un accidente de tránsito con impacto frontal. Está hipotenso (PA 80/50), taquicárdico (FC 120), pálido y con el abdomen distendido. Para detectar rápidamente la presencia de líquido libre (sangre) en la cavidad peritoneal o pericárdica en un paciente hemodinámicamente inestable, ¿cuál es el examen diagnóstico de elección en la sala de emergencias?",
+      "options": {
+        "A": "Tomografía Axial Computarizada (TAC) de abdomen con contraste.",
+        "B": "Ecografía FAST (Focused Assessment with Sonography for Trauma).",
+        "C": "Radiografía simple de abdomen.",
+        "D": "Paracentesis exploratoria a ciegas.",
+        "E": "Resonancia magnética nuclear."
+      },
+      "correct": "B",
+      "comment": "El protocolo ATLS establece que el Eco-FAST es la herramienta diagnóstica inicial de elección en pacientes con trauma cerrado inestables hemodinámicamente. Es rápida, no invasiva, portátil y altamente sensible para detectar hemoperitoneo o taponamiento cardíaco sin trasladar al paciente."
+    },
+    {
+      "number": 316,
+      "code": "DIRESA26 P316",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Un paciente adulto sufre quemaduras por agua hirviendo en la cocina. A la evaluación en urgencias, el médico observa eritema y múltiples flictenas (ampollas) que abarcan toda la circunferencia de su miembro inferior derecho y toda la circunferencia de su brazo derecho. Utilizando la 'Regla de los Nueve' de Wallace, ¿cuál es el Porcentaje de Superficie Corporal Quemada (SCQ) estimado?",
+      "options": {
+        "A": "27%.",
+        "B": "18%.",
+        "C": "36%.",
+        "D": "9%.",
+        "E": "45%."
+      },
+      "correct": "A",
+      "comment": "Según la Regla de los 9 de Wallace para adultos: todo un miembro inferior (pierna) equivale al 18% de la SCQ, y todo un miembro superior (brazo completo) equivale al 9%. La suma (18% + 9%) da un total del 27% de Superficie Corporal Quemada."
+    },
+    {
+      "number": 317,
+      "code": "DIRESA26 P317",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Un escolar de 8 años con antecedentes de asma llega a urgencias con crisis asmática severa. Presenta sibilancias audibles a distancia, dificultad respiratoria severa (tiraje universal), incapacidad para pronunciar frases completas y una saturación de oxígeno de 86%. ¿Cuál es el manejo farmacológico de emergencia (rescate) inicial indicado?",
+      "options": {
+        "A": "Antibióticos endovenosos de amplio espectro (Ceftriaxona).",
+        "B": "Solo mucolíticos y antitusígenos.",
+        "C": "Oxigenoterapia para saturar >92%, administración repetida de un agonista Beta-2 de acción corta (Salbutamol) asociado a Bromuro de Ipratropio inhalado, y Corticoides sistémicos (oral o EV) tempranos.",
+        "D": "Intubación endotraqueal inmediata y ventilación mecánica.",
+        "E": "Administrar un corticoide inhalado de mantenimiento (Budesonida) y derivar a casa."
+      },
+      "correct": "C",
+      "comment": "En la crisis asmática severa, el manejo agresivo inmediato es fundamental: Oxígeno para revertir la hipoxemia, broncodilatación máxima combinando Salbutamol (beta-agonista) y Bromuro de Ipratropio (anticolinérgico), y corticoides sistémicos (Prednisona/Metilprednisolona) para revertir la inflamación."
+    },
+    {
+      "number": 318,
+      "code": "DIRESA26 P318",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Un paciente hipertenso crónico que abandonó su medicación acude a triaje con una presión arterial de 190/110 mmHg. Al ser evaluado exhaustivamente, está totalmente asintomático, sin signos de déficit neurológico, dolor torácico, disnea, ni alteraciones en el fondo de ojo o función renal. ¿Cuál es el diagnóstico clínico y el manejo indicado?",
+      "options": {
+        "A": "Emergencia hipertensiva; requiere ingreso a UCI e infusión de nitroprusiato endovenoso para bajar la presión en minutos.",
+        "B": "Urgencia hipertensiva; manejo ambulatorio o en observación bajando gradualmente la presión arterial en 24 a 48 horas mediante fármacos antihipertensivos vía oral (ej. Captopril, Amlodipino).",
+        "C": "Preeclampsia severa atípica; requiere sulfato de magnesio.",
+        "D": "Accidente cerebrovascular isquémico en curso; requiere tomografía inmediata.",
+        "E": "Shock distributivo crónico; administrar adrenalina."
+      },
+      "correct": "B",
+      "comment": "El diagnóstico diferencial clave es la presencia o ausencia de Daño a Órgano Blanco (DOB). Como está asintomático sin DOB, es una 'Urgencia Hipertensiva'. Bajar la presión de golpe por vía endovenosa está contraindicado porque causa isquemia cerebral o miocárdica; debe reducirse gradualmente con fármacos orales."
+    },
+    {
+      "number": 319,
+      "code": "DIRESA26 P319",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Un obrero de 40 años presenta desde hace 6 horas un aumento de volumen súbito y doloroso en la región inguinal derecha mientras levantaba un objeto pesado. A la exploración, se evidencia una tumoración inguinal tensa, muy dolorosa, irreductible, que además presenta cambios de coloración (violácea) en la piel que la recubre, asociado a vómitos y fiebre. ¿Cuál es el diagnóstico clínico y quirúrgico más preciso?",
+      "options": {
+        "A": "Hernia inguinal reducible asintomática.",
+        "B": "Hernia encarcelada sin compromiso vascular.",
+        "C": "Orquiepididimitis aguda.",
+        "D": "Hernia inguinal estrangulada (compromiso isquémico o necrótico del asa intestinal contenida).",
+        "E": "Hidrocele comunicante a tensión."
+      },
+      "correct": "D",
+      "comment": "Una hernia es irreductible cuando no puede ser devuelta a la cavidad (encarcelada). Si a esto se suma dolor extremo, cambios de coloración (isquemia, eritema violáceo) y signos de toxicidad sistémica (vómitos, fiebre), se denomina Hernia Estrangulada, que implica necrosis intestinal y es una emergencia quirúrgica inmediata."
+    },
+    {
+      "number": 320,
+      "code": "DIRESA26 P320",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Un paciente llega al centro de salud de una provincia altoandina indicando que hace 24 horas fue mordido en el muslo por una araña color marrón en el rincón oscuro de un depósito de leña. La lesión actual se caracteriza por dolor urente, un centro pálido isquémico rodeado por un halo cianótico y eritematoso (Placa Livedoide). ¿Cuál es el arácnido involucrado y el diagnóstico clínico?",
+      "options": {
+        "A": "Latrodectus mactans; Lactrodectismo severo.",
+        "B": "Lycosa raptoria; Necrosis por mordedura de tarántula.",
+        "C": "Anopheles darlingi; Lesión por vector tropical.",
+        "D": "Escorpión del género Tityus; Escorpionismo tóxico.",
+        "E": "Loxosceles laeta (araña casera o de los rincones); Loxoscelismo cutáneo."
+      },
+      "correct": "E",
+      "comment": "La 'placa livedoide' (isquemia central rodeada de halo equimótico y eritematoso causado por la enzima esfingomielinasa D de la ponzoña) y el contexto epidemiológico (rincones oscuros, araña marrón violinista) son patognomónicos del envenenamiento por Loxosceles laeta, endémica en Perú."
+    },
+    {
+      "number": 321,
+      "code": "DIRESA26 P321",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Un recién nacido a término, producto de un parto domiciliario en zona rural, es traído al Puesto de Salud a las 48 horas de vida. La madre refiere que tuvo rotura de membranas 24 horas antes del parto y fiebre. Al examen: el neonato está letárgico, presenta distermia (hipotermia de 35.5°C), rechazo al alimento y quejido respiratorio. ¿Cuál es el diagnóstico clínico más probable y el manejo antibiótico empírico inicial de elección?",
+      "options": {
+        "A": "Sepsis neonatal temprana; iniciar cobertura con Ampicilina + Gentamicina (o Amikacina).",
+        "B": "Neumonía aspirativa por meconio; iniciar solo Ceftriaxona.",
+        "C": "Hipoglucemia neonatal; administrar solo dextrosa en bolo.",
+        "D": "Meningitis aséptica; manejo expectante con antipiréticos.",
+        "E": "Tétanos neonatal; administrar Penicilina G Sódica + Inmunoglobulina antitetánica."
+      },
+      "correct": "A",
+      "comment": "Los factores de riesgo (RPM prolongado, corioamnionitis materna) y la clínica sistémica en las primeras 72 horas (letargia, distermia, rechazo oral) son indicativos de Sepsis Neonatal Temprana. Los patógenos más comunes son Streptococcus agalactiae y E. coli, cuyo manejo empírico estándar es Ampicilina (cubre Listeria y grampositivos) más un Aminoglucósido (cubre gramnegativos)."
+    },
+    {
+      "number": 322,
+      "code": "DIRESA26 P322",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Un turista limeño (sin aclimatación) viaja directamente a la meseta del Collao (4,000 m.s.n.m.). Al segundo día presenta cefalea severa que no cede con analgésicos, vómitos explosivos, confusión mental progresiva y ataxia en la marcha. Al examen de fondo de ojo se evidencia papiledema. ¿Cuál es la principal sospecha diagnóstica y su tratamiento de elección?",
+      "options": {
+        "A": "Edema Agudo de Pulmón de Altura; administrar Nifedipino y Oxígeno.",
+        "B": "Edema Cerebral de Altura (EACA); iniciar Dexametasona, oxigenoterapia y descenso inmediato.",
+        "C": "Accidente Cerebrovascular Isquémico; indicar fibrinolisis con Alteplasa.",
+        "D": "Meningitis bacteriana aguda; iniciar Ceftriaxona y Vancomicina.",
+        "E": "Mal de Montaña Agudo (Soroche) leve; indicar Acetazolamida y reposo."
+      },
+      "correct": "B",
+      "comment": "La evolución de un Soroche hacia la alteración del estado mental, ataxia de la marcha y papiledema son signos patognomónicos del Edema Cerebral de Altura (EACA), una emergencia neuroquirúrgica metabólica. Su tratamiento vital es el descenso urgente, oxígeno suplementario y Dexametasona (para reducir el edema vasogénico)."
+    },
+    {
+      "number": 323,
+      "code": "DIRESA26 P323",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Mujer de 42 años acude a la emergencia del Hospital de Juliaca por dolor cólico en hipocondrio derecho de 24 horas, fiebre de 38.5°C y Signo de Murphy positivo. El hemograma reporta leucocitosis de 16,000 cel/mm3. Según las Guías de Tokio 2018 (TG18) para Colecistitis Aguda, ¿qué criterio es indispensable para clasificar este caso como un 'Diagnóstico Definitivo'?",
+      "options": {
+        "A": "Presencia de ictericia y bilirrubina mayor a 5 mg/dL.",
+        "B": "Dolor abdominal de más de 48 horas de duración.",
+        "C": "Confirmación mediante un examen de imagen (Ecografía que demuestre engrosamiento de la pared vesicular > 4 mm, líquido perivesicular o cálculos impactados).",
+        "D": "Hemocultivo positivo a Escherichia coli.",
+        "E": "Elevación de la lipasa sérica al triple de su valor normal."
+      },
+      "correct": "C",
+      "comment": "Las Guías de Tokio (TG18) establecen que para un diagnóstico definitivo de Colecistitis Aguda se requiere: Signos locales (A: Murphy, masa), Signos sistémicos (B: fiebre, leucocitosis, PCR elevada) y confirmación por Imágenes (C: Ecografía u otra imagen con signos de inflamación aguda vesicular)."
+    },
+    {
+      "number": 324,
+      "code": "DIRESA26 P324",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Un varón de 30 años presenta fiebre de predominio nocturno, pérdida de peso, dolor pleurítico y tos de 3 semanas. La radiografía de tórax revela derrame pleural unilateral. Se le realiza toracocentesis, obteniendo líquido de color amarillo cetrino. Según los criterios de Light, es un exudado con predominio de linfocitos (linfomonicitario). El dosaje de Adenosín Deaminasa (ADA) en el líquido es de 60 U/L. En el contexto epidemiológico peruano, el diagnóstico más probable es:",
+      "options": {
+        "A": "Derrame paraneumónico complicado.",
+        "B": "Mesotelioma pleural maligno.",
+        "C": "Insuficiencia Cardíaca Congestiva (Derrame trasudativo).",
+        "D": "Pleuritis Tuberculosa.",
+        "E": "Embolia pulmonar."
+      },
+      "correct": "D",
+      "comment": "En países endémicos como Perú, un derrame pleural exudativo de predominio linfocitario, con glucosa baja o normal, y con niveles de ADA elevados (generalmente > 40 U/L), es altamente sugestivo e indicativo de inicio de tratamiento para Tuberculosis Pleural."
+    },
+    {
+      "number": 325,
+      "code": "DIRESA26 P325",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "En la carretera Puno-Juliaca, un paciente sufre un accidente automovilístico con trauma torácico contuso severo. Ingresa al centro de salud con gran dificultad respiratoria, cianosis, ingurgitación yugular bilateral, hipotensión profunda (PA 70/40) y taquicardia. A la auscultación, el hemitórax derecho presenta ausencia de murmullo vesicular y timpanismo a la percusión. La tráquea está desviada a la izquierda. ¿Cuál es el diagnóstico y la conducta terapéutica inmediata?",
+      "options": {
+        "A": "Taponamiento cardíaco; realizar pericardiocentesis de urgencia.",
+        "B": "Hemotórax masivo; transfundir 2 paquetes globulares y luego colocar tubo de drenaje.",
+        "C": "Contusión miocárdica; realizar ecocardiograma y administrar inotrópicos.",
+        "D": "Rotura diafragmática; solicitar Tomografía de tórax urgente.",
+        "E": "Neumotórax a Tensión; realizar descompresión inmediata con aguja/catéter grueso (toracostomía con aguja) en el 5to espacio intercostal línea media axilar o 2do espacio línea media clavicular, seguida de tubo de drenaje torácico."
+      },
+      "correct": "E",
+      "comment": "La triada de dificultad respiratoria, inestabilidad hemodinámica (shock obstructivo) e ingurgitación yugular, sumada a asimetría auscultatoria y desviación traqueal, diagnostica clínicamente el Neumotórax a Tensión. Es una emergencia letal que no requiere radiografía previa; se debe descomprimir de inmediato con aguja gruesa (ATLS)."
+    },
+    {
+      "number": 326,
+      "code": "DIRESA26 P326",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Un niño de 4 años en Puno cursa con Enfermedad Diarreica Aguda (EDA) caracterizada por deposiciones de escaso volumen con moco y sangre franca (disentería), fiebre de 39.5°C, dolor abdominal intenso tipo cólico y tenesmo. Ha presentado un episodio de convulsión tónico-clónica generalizada sin antecedentes previos. ¿Cuál es el patógeno bacteriano invasivo más frecuente y productor de neurotoxina que explica este cuadro?",
+      "options": {
+        "A": "Shigella spp.",
+        "B": "Vibrio cholerae.",
+        "C": "Giardia lamblia.",
+        "D": "Rotavirus.",
+        "E": "Staphylococcus aureus."
+      },
+      "correct": "A",
+      "comment": "La disentería bacteriana en niños, acompañada de fiebre alta, pujo, tenesmo y complicaciones del sistema nervioso central (como convulsiones o encefalopatía debido a la toxina Shiga o factores proinflamatorios), es el cuadro clásico de la infección invasiva por Shigella spp."
+    },
+    {
+      "number": 327,
+      "code": "DIRESA26 P327",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Un varón de 55 años, con antecedente de Diabetes Mellitus tipo 2 de 5 años de evolución, acude a consulta asintomático. Sus controles de Presión Arterial en tres visitas distintas muestran un promedio de 155/95 mmHg. El laboratorio indica microalbuminuria positiva. Para iniciar el tratamiento antihipertensivo, buscando doble beneficio (control tensional y nefroprotección), ¿qué familia de fármacos es la de primera línea recomendada?",
+      "options": {
+        "A": "Beta-bloqueadores (ej. Propranolol, Atenolol).",
+        "B": "Inhibidores de la Enzima Convertidora de Angiotensina (IECA, ej. Enalapril) o Antagonistas de los Receptores de Angiotensina II (ARA II, ej. Losartán).",
+        "C": "Diuréticos de asa a dosis altas (ej. Furosemida).",
+        "D": "Bloqueadores de canales de calcio no dihidropiridínicos (ej. Verapamilo).",
+        "E": "Alfa-agonistas de acción central (ej. Metildopa)."
+      },
+      "correct": "B",
+      "comment": "En pacientes con hipertensión y diabetes (con o sin nefropatía diabética temprana evidenciada por microalbuminuria), las guías clínicas (JNC-8, ADA, AHA/ACC) recomiendan fuertemente los IECAs o ARA II como terapia de primera línea por su demostrado efecto antiproteinúrico y nefroprotector."
+    },
+    {
+      "number": 328,
+      "code": "DIRESA26 P328",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Un poblador rural es rescatado tras permanecer expuesto a temperaturas bajo cero (-5°C) durante una tormenta de nieve. A su ingreso a urgencias está inconsciente, con pupilas midriáticas arreactivas y piel fría. Su temperatura corporal central es de 29°C (Hipotermia moderada-severa). Al realizarle un electrocardiograma (EKG), ¿qué alteración electrocardiográfica es patognomónica y se espera encontrar en la hipotermia sistémica?",
+      "options": {
+        "A": "Elevación del segmento ST con ondas Q patológicas.",
+        "B": "Depresión del segmento PR con alternancia eléctrica.",
+        "C": "Presencia de la onda J de Osborn (una deflexión positiva en la unión del complejo QRS y el segmento ST).",
+        "D": "Fibrilación auricular con respuesta ventricular rápida sostenida.",
+        "E": "Ondas T hiperagudas y picudas en todas las derivaciones precordiales."
+      },
+      "correct": "C",
+      "comment": "La onda J o de Osborn es una inscripción convexa positiva que ocurre en el punto J (unión del QRS y el ST) del EKG. Es un hallazgo altamente específico e indicativo de hipotermia corporal central (generalmente visible con T < 32°C)."
+    },
+    {
+      "number": 329,
+      "code": "DIRESA26 P329",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Un adulto mayor de 65 años, usuario crónico de AINEs por artrosis severa de rodilla, llega a emergencia con dolor abdominal de inicio súbito, 'en puñalada' en epigastrio, que rápidamente se hace generalizado. Al examen físico el paciente está inmóvil, taquicárdico, y el abdomen presenta rigidez extrema ('abdomen en tabla') con dolor difuso a la descompresión (Rebote positivo) y abolición de la matidez hepática. ¿Cuál es el diagnóstico más probable y el hallazgo esperado en una radiografía de tórax/abdomen en bipedestación?",
+      "options": {
+        "A": "Apendicitis aguda perforada; se observará un fecalito calcificado.",
+        "B": "Pancreatitis aguda necrotizante; se observará el signo del asa centinela.",
+        "C": "Infarto mesentérico; se observará neumatosis intestinal.",
+        "D": "Úlcera péptica perforada; se observará neumoperitoneo (aire libre subdiafragmático en forma de semiluna).",
+        "E": "Colecistitis aguda enfisematosa; se observará gas en la pared vesicular."
+      },
+      "correct": "D",
+      "comment": "El inicio brusco en puñalada, el antecedente de AINEs (riesgo de úlcera), el abdomen en tabla (peritonitis química inicial) y la pérdida de matidez hepática (Signo de Jobert) configuran el cuadro clásico de úlcera péptica perforada. El hallazgo radiológico confirmatorio rápido es el neumoperitoneo."
+    },
+    {
+      "number": 330,
+      "code": "DIRESA26 P330",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "En la evaluación nutricional de un niño de 2 años en un poblado de extrema pobreza, el médico observa letargia, edema bilateral con fóvea en miembros inferiores, descamación difusa de la piel ('dermatosis en pintura descascarada'), cabello ralo, seco y despigmentado ('Signo de la Bandera'), y hepatomegalia evidente. El peso para la talla está conservado (enmascarado por el edema). Este cuadro clínico corresponde a:",
+      "options": {
+        "A": "Desnutrición aguda tipo Marasmo.",
+        "B": "Escorbuto infantil por déficit de vitamina C.",
+        "C": "Raquitismo severo por déficit de vitamina D.",
+        "D": "Pelagra endémica por déficit de Niacina.",
+        "E": "Desnutrición aguda severa tipo Kwashiorkor (malnutrición predominantemente proteica)."
+      },
+      "correct": "E",
+      "comment": "El Kwashiorkor es la forma edematosa de la desnutrición severa, causada primariamente por un déficit crítico de proteínas (hipoalbuminemia severa), lo que genera edema, alteraciones en los anexos (piel y cabello despigmentado/rojizo) e infiltración grasa hepática, a diferencia del Marasmo que es deficiencia calórica pura (consunción visible, sin edema)."
+    },
+    {
+      "number": 331,
+      "code": "DIRESA26 P331",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Un varón de 75 años acude por tos productiva, fiebre y malestar general. Al evaluar sus constantes vitales, presenta Frecuencia Respiratoria de 32 rpm, Presión Arterial 110/70 mmHg, y leve desorientación temporoespacial. El laboratorio reporta Urea en 50 mg/dL (BUN elevado). Evaluando el riesgo de severidad de esta Neumonía Adquirida en la Comunidad (NAC) mediante el Score CURB-65, el paciente obtiene 4 puntos. ¿Cuál es el sitio de cuidado recomendado?",
+      "options": {
+        "A": "Ingreso hospitalario en sala de Medicina General o Evaluación para Cuidados Intensivos (UCI), debido al alto riesgo de mortalidad.",
+        "B": "Manejo ambulatorio con Macrólidos orales y control en 48 horas.",
+        "C": "Tratamiento en casa con Ceftriaxona intramuscular diaria.",
+        "D": "Observación en tópico de emergencia por 6 horas y alta si no requiere oxígeno.",
+        "E": "Aislamiento estricto domiciliario asumiendo Influenza estacional."
+      },
+      "correct": "A",
+      "comment": "El Score CURB-65 evalúa Confusión, Uremia, Frecuencia Respiratoria (≥30), Presión sanguínea (<90 sistólica o ≤60 diastólica) y Edad (≥65). Un puntaje de 3 o más indica neumonía severa con alta mortalidad (hasta 22%), por lo que es mandatorio el ingreso hospitalario urgente, frecuentemente en UCI."
+    },
+    {
+      "number": 332,
+      "code": "DIRESA26 P332",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Un adulto de 70 kg sufre quemaduras de 2do y 3er grado abarcando toda la parte anterior del tronco (tórax y abdomen) y todo el miembro superior derecho e izquierdo circunferencialmente. Según la 'Regla de los Nueve', esto suma un 36% de Superficie Corporal Quemada (SCQ). Aplicando la Fórmula de Parkland (4 ml x kg x %SCQ) para la resucitación hídrica con Ringer Lactato, el volumen total calculado para las primeras 24 horas es de 10,080 ml. ¿Cómo se debe administrar este volumen?",
+      "options": {
+        "A": "El 100% de los 10,080 ml se infunden en las primeras 8 horas.",
+        "B": "El 50% (5,040 ml) se infunde en las primeras 8 horas contadas desde el momento de la quemadura, y el otro 50% (5,040 ml) en las 16 horas siguientes.",
+        "C": "Volumen dividido en 24 partes iguales para pasar cada hora.",
+        "D": "Se administra todo en bolos rápidos hasta lograr una presión arterial normal.",
+        "E": "El 25% en las primeras 8 horas y el 75% en las siguientes 16 horas."
+      },
+      "correct": "B",
+      "comment": "La fórmula clásica de resucitación hídrica en quemados (Parkland) establece que la mitad (50%) del volumen total calculado debe reponerse rápidamente en las primeras 8 horas posteriores a la injuria térmica, y la mitad restante se pasa a un ritmo constante durante las siguientes 16 horas."
+    },
+    {
+      "number": 333,
+      "code": "DIRESA26 P333",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "En la medicina de altitud, el Edema Agudo de Pulmón de Altura (EAPA) es la principal causa de muerte relacionada con la altura. Su fisiopatología es muy distinta al edema agudo de pulmón cardiogénico. ¿Cuál de los siguientes enunciados describe correctamente el evento fisiopatológico central del EAPA?",
+      "options": {
+        "A": "Falla aguda del ventrículo izquierdo con presión capilar pulmonar de enclavamiento (Wedge) mayor a 25 mmHg.",
+        "B": "Vasodilatación pulmonar extrema por efecto térmico del frío de la puna.",
+        "C": "Vasoconstricción pulmonar hipóxica heterogénea y exagerada, que provoca hiperperfusión focal capilar, causando hipertensión pulmonar y 'falla por estrés capilar' (extravasación de líquido) con presión de cuña (Wedge) normal.",
+        "D": "Liberación masiva de histamina en el pulmón que genera broncoespasmo.",
+        "E": "Trombosis venosa profunda con múltiples microémbolos pulmonares."
+      },
+      "correct": "C",
+      "comment": "A diferencia del edema cardiogénico (donde falla la bomba izquierda), en el EAPA la hipoxia induce una vasoconstricción arterial pulmonar irregular. Las áreas que no se contraen reciben todo el flujo a altísima presión, lo que rompe mecánicamente la barrera alvéolo-capilar (stress failure), permitiendo el paso de líquido rico en proteínas al alveolo."
+    },
+    {
+      "number": 334,
+      "code": "DIRESA26 P334",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Un niño de 5 años es llevado a consultorio por presentar aumento de volumen en la región escrotal derecha. La madre refiere que la masa aumenta de tamaño cuando el niño llora, corre o tose, y disminuye o desaparece al acostarse en la noche. Al realizar la prueba de transiluminación, el resultado es negativo. El cirujano pediatra diagnostica Hernia Inguinal Indirecta. ¿Cuál es el defecto embriológico-anatómico subyacente que origina esta patología?",
+      "options": {
+        "A": "Debilidad de la fascia transversalis en el Triángulo de Hesselbach.",
+        "B": "Ausencia congénita del músculo cremáster.",
+        "C": "Rotura de la túnica albugínea testicular.",
+        "D": "Persistencia y permeabilidad del conducto peritoneo-vaginal (procesus vaginalis), que permite el paso de contenido intraabdominal hacia el canal inguinal y escroto.",
+        "E": "Acumulación idiopática exclusiva de líquido seroso alrededor del testículo."
+      },
+      "correct": "D",
+      "comment": "En pediatría, casi la totalidad de las hernias inguinales son de tipo indirecto y tienen un origen congénito. Se producen porque el conducto peritoneo- vaginal (que guía el descenso del testículo al escroto durante la gestación) no se oblitera/cierra al nacer, permitiendo que las asas intestinales protruyan a través de él."
+    },
+    {
+      "number": 335,
+      "code": "DIRESA26 P335",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "La Asociación Americana de Diabetes (ADA) establece criterios precisos para el diagnóstico de Diabetes Mellitus. De acuerdo con las guías vigentes, ¿cuál de las siguientes opciones constituye un criterio aislado que, al ser documentado y repetido (o con dos parámetros alterados en la misma muestra), confirma el diagnóstico de la enfermedad?",
+      "options": {
+        "A": "Glucosa plasmática en ayunas mayor a 100 mg/dL pero menor a 125 mg/dL.",
+        "B": "Hemoglobina Glicosilada (HbA1c) igual a 5.7%.",
+        "C": "Nivel elevado de Péptido C en suero.",
+        "D": "Presencia abundante de cuerpos cetónicos en el examen de orina.",
+        "E": "Glucosa plasmática en ayunas ≥ 126 mg/dL, o Glucosa plasmática a las 2 horas ≥ 200 mg/dL durante una TTOG (con 75g de glucosa), o HbA1c ≥ 6.5%, o una Glucosa al azar ≥ 200 mg/dL en un paciente con síntomas clásicos (poliuria, polidipsia, pérdida de peso)."
+      },
+      "correct": "E",
+      "comment": "Los 4 criterios diagnósticos de la ADA son universales: Glucosa basal ≥126 mg/dl (tras 8h ayuno), Glucosa ≥200 mg/dl a las 2h del Test de Tolerancia, HbA1c ≥6.5%, y Glucosa al azar ≥200 mg/dl en paciente con clínica cardinal. Salvo el último, requieren repetición o dos pruebas discordantes positivas para confirmación."
+    },
+    {
+      "number": 336,
+      "code": "DIRESA26 P336",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Un niño de 7 años acude a emergencia con exacerbación aguda de asma. Presenta sibilancias inspiratorias y espiratorias audibles, tiraje intercostal y frecuencia respiratoria de 40 rpm. Su saturación de oxígeno es de 88% a medio ambiente. Tras oxigenoterapia e inicio de broncodilatadores de acción rápida (Salbutamol inhalado), ¿cuál es el corticoide sistémico de elección, vía oral o endovenosa, indicado para revertir el componente inflamatorio agudo y prevenir recaídas?",
+      "options": {
+        "A": "Prednisona o Prednisolona vía oral (1-2 mg/kg/día), o Metilprednisolona endovenosa si la vía oral no es tolerada.",
+        "B": "Fluticasona en inhalador presurizado a dosis máxima.",
+        "C": "Montelukast 5 mg en tableta masticable.",
+        "D": "Omalizumab subcutáneo de urgencia.",
+        "E": "Dexametasona 0.6 mg/kg en dosis única exclusiva."
+      },
+      "correct": "A",
+      "comment": "En las crisis asmáticas moderadas a severas, el uso precoz de corticoides sistémicos (orales como la prednisona o prednisolona, o EV como hidrocortisona/metilprednisolona) acelera la resolución de la inflamación bronquial y reduce la tasa de hospitalización. La vía oral es tan efectiva como la parenteral si el paciente la tolera."
+    },
+    {
+      "number": 337,
+      "code": "DIRESA26 P337",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "En la evaluación rápida de un paciente adulto que llega a emergencia por una probable infección grave (ej. neumonía o ITU complicada), se recomienda utilizar el puntaje qSOFA (Quick SOFA) para identificar pre-hospitalariamente o en triaje a los pacientes con alto riesgo de mortalidad por sepsis o disfunción orgánica temprana. ¿Cuáles son los tres parámetros clínicos que evalúa el qSOFA?",
+      "options": {
+        "A": "Fiebre > 38°C, Leucocitosis > 12,000, Taquicardia > 90 lpm.",
+        "B": "Alteración del estado mental (Glasgow < 15), Frecuencia respiratoria ≥ 22 rpm, y Presión Arterial Sistólica ≤ 100 mmHg.",
+        "C": "Saturación de oxígeno < 90%, Frecuencia cardíaca > 100 lpm, y Diuresis nula.",
+        "D": "Ácido láctico > 2 mmol/L, Hipotensión, y Plaquetopenia.",
+        "E": "Edad > 65 años, Uso de ventilación mecánica, y Presión Arterial Media < 65 mmHg."
+      },
+      "correct": "B",
+      "comment": "El Consenso Sepsis-3 introdujo el qSOFA como herramienta rápida al pie de la cama. Un puntaje ≥ 2 de estos tres criterios clínicos simples (Alteración mental, Taquipnea ≥ 22, y PAS ≤ 100) predice fuertemente una mala evolución clínica en un paciente infectado."
+    },
+    {
+      "number": 338,
+      "code": "DIRESA26 P338",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Ingresa a la guardia un varón de 45 años, con antecedente de apendicectomía complicada hace 5 años. Refiere cuadro de 24 horas de dolor cólico peri- umbilical progresivo, vómitos de aspecto fecaloideo y ausencia absoluta de deposiciones y gases. El abdomen está muy distendido y timpánico, con ruidos hidroaéreos metálicos aumentados ('de lucha'). En la radiografía simple de abdomen en bipedestación se observan niveles hidroaéreos en 'escalera', válvulas conniventes (imagen en pila de monedas) en el centro del abdomen y ausencia de aire distal en colon y recto. ¿Cuál es la causa más probable de esta obstrucción intestinal?",
+      "options": {
+        "A": "Hernia umbilical encarcelada.",
+        "B": "Vólvulo de ciego.",
+        "C": "Bridas y adherencias intraabdominales postquirúrgicas.",
+        "D": "Impactación fecal en ampolla rectal.",
+        "E": "Tumor de colon sigmoides."
+      },
+      "correct": "C",
+      "comment": "La clínica y los hallazgos radiológicos (centralización de las asas dilatadas, válvulas conniventes) indican una obstrucción de intestino delgado típica. La causa mundial y estadísticamente más frecuente de obstrucción mecánica de intestino delgado en pacientes con antecedente de cirugía abdominal son las bridas y adherencias peritoneales."
+    },
+    {
+      "number": 339,
+      "code": "DIRESA26 P339",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Un varón de 65 años con antecedente de gastrectomía total hace 5 años acude por fatiga progresiva, parestesias en extremidades ('hormigueo'), marcha atáxica y glositis (lengua lisa y depapilada). El laboratorio evidencia Hemoglobina de 7.5 g/dL y un Volumen Corpuscular Medio (VCM) elevado de 118 fL (macrocitosis). En el frotis de sangre periférica resaltan neutrófilos hipersegmentados. ¿Cuál es la etiología principal de este tipo específico de anemia?",
+      "options": {
+        "A": "Sangrado digestivo oculto crónico.",
+        "B": "Intoxicación crónica por plomo.",
+        "C": "Deficiencia de ácido fólico de origen nutricional.",
+        "D": "Anemia Megaloblástica por deficiencia secundaria de Vitamina B12 (Cianocobalamina), derivada de la ausencia de factor intrínseco.",
+        "E": "Anemia hemolítica autoinmune."
+      },
+      "correct": "D",
+      "comment": "La anemia con VCM > 100 (macrocítica) y neutrófilos hipersegmentados es megaloblástica. La presencia clave de síntomas neurológicos (parestesias, ataxia) diferencia el déficit de Vitamina B12 del déficit de folatos. En este caso, la gastrectomía suprimió la producción de Factor Intrínseco necesario para absorber B12 en el íleon (fisiopatología similar a la Anemia Perniciosa)."
+    },
+    {
+      "number": 340,
+      "code": "DIRESA26 P340",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Un niño de 2 años, sin registro de vacunas, es traído al Puesto de Salud con fiebre alta continua (39-40°C) de 4 días de evolución, malestar general, y el clásico 'triple catarro': tos severa, coriza (secreción nasal) y conjuntivitis intensa. Al inspeccionar la mucosa oral, el médico detecta pequeñas manchas blancas con un halo rojizo a nivel de la cara interna de las mejillas frente a los molares (Manchas de Koplik). A las 24 horas inicia un exantema maculopapular eritematoso que comienza detrás de las orejas y se extiende céfalo-caudalmente. ¿Cuál es el diagnóstico clínico indiscutible?",
+      "options": {
+        "A": "Varicela zóster.",
+        "B": "Rubéola clásica.",
+        "C": "Exantema Súbito (Roséola infantil) por Herpesvirus humano 6.",
+        "D": "Eritema infeccioso (Quinta enfermedad) por Parvovirus B19.",
+        "E": "Sarampión."
+      },
+      "correct": "E",
+      "comment": "El pródromo febril intenso asociado al triple catarro (tos, coriza, conjuntivitis) y la presencia de las 'Manchas de Koplik' (enantema patognomónico que aparece 1-2 días antes del brote en la piel), seguido de la progresión céfalo- caudal de un exantema maculopapular que confluye, conforman el cuadro clínico clásico e inconfundible del Sarampión."
+    },
+    {
+      "number": 341,
+      "code": "DIRESA26 P341",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Un niño de 8 años procedente de una zona ganadera rural de Puno es traído a consulta por presentar fiebre prolongada, dolor en hipocondrio derecho y hepatomegalia. En sus exámenes de laboratorio destaca una eosinofilia masiva (mayor al 50%). La madre refiere que el niño suele consumir berros crudos cerca de las acequias. ¿Cuál es el diagnóstico parasitológico más probable y su tratamiento de elección?",
+      "options": {
+        "A": "Ascariasis; tratamiento con Albendazol.",
+        "B": "Hidatidosis hepática; tratamiento con Praziquantel.",
+        "C": "Fasciolosis aguda (infección por Fasciola hepatica); tratamiento con Triclabendazol.",
+        "D": "Giardiasis severa; tratamiento con Metronidazol.",
+        "E": "Teniasis; tratamiento con Niclosamida."
+      },
+      "correct": "C",
+      "comment": "La Fasciolosis es altamente endémica en el altiplano (Puno). La fase aguda o invasiva se caracteriza por la tríada de fiebre, hepatomegalia dolorosa y eosinofilia extrema, asociada al consumo de plantas acuáticas (berros) contaminadas con metacercarias. El fármaco de elección es el Triclabendazol."
+    },
+    {
+      "number": 342,
+      "code": "DIRESA26 P342",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Durante una cruda noche de invierno (helada), una familia andina es llevada de urgencia al centro de salud por los vecinos. Todos los miembros de la familia se encuentran letárgicos, con cefalea intensa, náuseas, vómitos y pérdida de conciencia. Al examen físico, llama la atención una coloración 'rojo cereza' en la piel y mucosas. Habían dejado encendida una estufa a leña (brasero) en su habitación sin ventilación. ¿Cuál es el diagnóstico clínico y el manejo inmediato?",
+      "options": {
+        "A": "Intoxicación por cianuro; administrar hidroxocobalamina.",
+        "B": "Intoxicación por monóxido de carbono (CO); retirar de la fuente de exposición y administrar Oxígeno normobárico al 100% mediante mascarilla con reservorio.",
+        "C": "Edema cerebral de altura masivo; administrar dexametasona.",
+        "D": "Intoxicación alimentaria por toxina botulínica; soporte ventilatorio.",
+        "E": "Neumonía atípica familiar; iniciar macrólidos."
+      },
+      "correct": "B",
+      "comment": "La intoxicación por monóxido de carbono es una emergencia frecuente en zonas frías por uso de braseros cerrados. El CO tiene una afinidad 200 veces mayor por la hemoglobina que el oxígeno, formando carboxihemoglobina (causante del color rojo cereza). El antídoto inmediato es el Oxígeno al 100% para desplazar al CO."
+    },
+    {
+      "number": 343,
+      "code": "DIRESA26 P343",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Mujer de 55 años acude a emergencia con dolor cólico en el cuadrante superior derecho del abdomen, fiebre de 39°C con escalofríos intensos e ictericia evidente en escleras. Este conjunto de signos y síntomas conforma la clásica Tríada de Charcot. ¿Cuál es el diagnóstico clínico más probable y la complicación mortal inminente si no se interviene?",
+      "options": {
+        "A": "Colecistitis aguda; complicación: peritonitis biliar.",
+        "B": "Pancreatitis biliar aguda; complicación: seudoquiste pancreático.",
+        "C": "Hepatitis A fulminante; complicación: encefalopatía hepática.",
+        "D": "Cáncer de cabeza de páncreas; complicación: metástasis pulmonar.",
+        "E": "Colangitis aguda (infección de la vía biliar ascendente); complicación inminente: shock séptico (Pentada de Reynolds)."
+      },
+      "correct": "E",
+      "comment": "La Tríada de Charcot (ictericia, dolor en CSD y fiebre con escalofríos) es indicativa de Colangitis Aguda, usualmente obstructiva por litiasis coledociana. Si progresa, se añaden hipotensión (shock) y alteración del sensorio, formando la Pentada de Reynolds, cuadro de altísima letalidad que requiere descompresión biliar urgente."
+    },
+    {
+      "number": 344,
+      "code": "DIRESA26 P344",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Ingresa a trauma shock un paciente varón de 30 años tras sufrir un Traumatismo Encéfalo Craneano (TEC) grave por accidente en motocicleta. Al evaluarlo, abre los ojos únicamente ante el estímulo doloroso, emite sonidos incomprensibles y presenta una respuesta motora de flexión anormal (decorticación). ¿Cuál es su puntuación en la Escala de Coma de Glasgow (GCS) y cuál es la indicación de vía aérea?",
+      "options": {
+        "A": "GCS de 10; administrar oxígeno por cánula binasal.",
+        "B": "GCS de 8; colocar máscara de Venturi.",
+        "C": "GCS de 6; indicación absoluta de intubación endotraqueal para protección de la vía aérea.",
+        "D": "GCS de 4; realizar traqueostomía de emergencia en el tópico.",
+        "E": "GCS de 7; indicación absoluta de intubación endotraqueal para asegurar y proteger la vía aérea."
+      },
+      "correct": "E",
+      "comment": "Puntaje GCS: Apertura ocular al dolor = 2; Respuesta verbal con sonidos incomprensibles = 2; Respuesta motora de decorticación (flexión anormal) = 3. Total = 7 puntos. Todo TEC grave con Glasgow menor o igual a 8 tiene indicación absoluta e inmediata de intubación endotraqueal."
+    },
+    {
+      "number": 345,
+      "code": "DIRESA26 P345",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "En la evaluación de un paciente adulto con Enfermedad Renal Crónica (ERC) avanzada estadio 5 en hemodiálisis, que no acudió a sus últimas sesiones, se documenta una frecuencia cardíaca de 45 latidos por minuto, debilidad muscular extrema y un electrocardiograma (EKG) con ondas T picudas y simétricas, aplanamiento de la onda P y ensanchamiento del QRS. El examen de sangre confirma un Potasio sérico de 7.5 mEq/L (Hiperkalemia severa). ¿Cuál es el tratamiento endovenoso INMEDIATO indicado para estabilizar la membrana del miocardiocito y prevenir una arritmia letal?",
+      "options": {
+        "A": "Furosemida 40 mg en bolo.",
+        "B": "Infusión de insulina regular con dextrosa (Solución polarizante).",
+        "C": "Gluconato de Calcio al 10% (estabilizador de membrana celular).",
+        "D": "Salbutamol en nebulización.",
+        "E": "Resinas de intercambio iónico por vía oral (Kayexalate)."
+      },
+      "correct": "C",
+      "comment": "En la hiperkalemia severa con cambios electrocardiográficos inminentes de paro cardíaco, la primera y más urgente medida es administrar sales de calcio (Gluconato o Cloruro de Calcio EV). El calcio no baja el nivel de potasio en sangre, pero antagoniza inmediatamente la toxicidad cardíaca estabilizando la membrana del miocito."
+    },
+    {
+      "number": 346,
+      "code": "DIRESA26 P346",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Una gestante de 32 semanas acude por presentar dolor abdominal agudo. Debido al crecimiento del útero, la anatomía de la cavidad abdominal se altera. Si esta paciente estuviera cursando con un cuadro de Apendicitis Aguda, ¿dónde se localizaría clínicamente el dolor a la palpación y cómo se modificaría el punto de McBurney?",
+      "options": {
+        "A": "El dolor se mantiene siempre en la fosa ilíaca derecha sin variaciones.",
+        "B": "El dolor se desplaza hacia la fosa ilíaca izquierda (Signo de Rovsing invertido).",
+        "C": "El dolor migra hacia la región pélvica profunda, simulando una infección urinaria.",
+        "D": "El apéndice y el ciego son desplazados hacia arriba y lateralmente por el útero grávido, por lo que el dolor apendicular se localizará en el flanco derecho o en el cuadrante superior derecho.",
+        "E": "El dolor se ubica exclusivamente en el epigastrio irradiado a la espalda."
+      },
+      "correct": "D",
+      "comment": "A partir del segundo y tercer trimestre del embarazo, el crecimiento uterino empuja al ciego y al apéndice cecal en sentido cefálico (hacia arriba) y lateral. Por ende, la clínica de la apendicitis aguda en gestantes avanzadas se presenta atípicamente con dolor en el flanco derecho o hipocondrio derecho."
+    },
+    {
+      "number": 347,
+      "code": "DIRESA26 P347",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Un niño de 18 meses es llevado a la urgencia luego de presentar una convulsión tónico-clónica generalizada que duró aproximadamente 3 minutos en su domicilio. A su llegada, el niño está somnoliento pero responde a estímulos, presenta fiebre de 39.5°C por una otitis media aguda, no tiene rigidez de nuca ni focalización neurológica, y es su primer episodio. ¿Cuál es el diagnóstico clínico más adecuado?",
+      "options": {
+        "A": "Epilepsia infantil de inicio temprano.",
+        "B": "Crisis febril simple.",
+        "C": "Meningoencefalitis bacteriana aguda.",
+        "D": "Crisis febril compleja o atípica.",
+        "E": "Síndrome de West."
+      },
+      "correct": "B",
+      "comment": "La Crisis Febril Simple se caracteriza por ocurrir en niños de 6 meses a 5 años, asociada a un alza térmica por causa extracraneal, ser tónico- clónica generalizada, durar menos de 15 minutos, no dejar secuelas neurológicas postictales prolongadas (no focaliza) y no repetir en 24 horas."
+    },
+    {
+      "number": 348,
+      "code": "DIRESA26 P348",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Un trabajador de construcción sufre un accidente por electrocución (quemadura por corriente de alto voltaje) al tocar un cable de media tensión. Entra a emergencia consciente pero con quemaduras de entrada y salida en extremidades. Además de la reanimación hídrica agresiva para prevenir el daño renal por mioglobinuria (rabdomiólisis), ¿cuál es el riesgo sistémico más agudo e inmediato que requiere monitorización cardíaca continua?",
+      "options": {
+        "A": "Desarrollo de insuficiencia respiratoria restrictiva.",
+        "B": "Trombosis venosa profunda masiva.",
+        "C": "Presencia de arritmias ventriculares letales (Fibrilación Ventricular) inducidas por el paso de la corriente eléctrica por el miocardio.",
+        "D": "Perforación gástrica aguda (Úlcera de Curling).",
+        "E": "Encefalopatía espongiforme aguda."
+      },
+      "correct": "C",
+      "comment": "El paso de corriente eléctrica de alto voltaje a través del cuerpo humano altera el sistema de conducción cardíaco. La principal causa de muerte súbita aguda en la electrocución son las arritmias ventriculares letales (fibrilación ventricular o asistolia), haciendo mandatorio el monitoreo EKG."
+    },
+    {
+      "number": 349,
+      "code": "DIRESA26 P349",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Un paciente varón de 60 años consulta por ganancia de peso progresiva, astenia extrema, estreñimiento, intolerancia al frío y voz ronca. Al examen presenta bradicardia (55 lpm), piel seca y áspera, y edema facial que no deja fóvea (mixedema). El perfil tiroideo revela una TSH muy elevada (45 mUI/L) y Tiroxina Libre (T4L) por debajo del rango normal. ¿Cuál es el diagnóstico clínico y hormonal definitivo?",
+      "options": {
+        "A": "Hipotiroidismo subclínico.",
+        "B": "Hipertiroidismo secundario.",
+        "C": "Hipotiroidismo primario manifiesto.",
+        "D": "Enfermedad de Graves-Basedow.",
+        "E": "Tiroiditis de De Quervain en fase aguda."
+      },
+      "correct": "C",
+      "comment": "La clínica de enlentecimiento metabólico (bradicardia, intolerancia al frío, mixedema) asociada a una T4 libre baja (falla de la glándula para producir hormona) y una TSH muy elevada (intento compensatorio de la hipófisis por retroalimentación negativa) definen el Hipotiroidismo Primario clásico."
+    },
+    {
+      "number": 350,
+      "code": "DIRESA26 P350",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "En la evaluación de un lactante varón de 4 meses con fiebre sin foco de 39°C de 48 horas de evolución, irritabilidad y vómitos, se sospecha de Infección del Tracto Urinario (ITU). Dado que el paciente no controla esfínteres, ¿cuál es el método 'Gold Standard' (más específico y libre de contaminación) para la obtención de orina para urocultivo en este grupo etario?",
+      "options": {
+        "A": "Recolección de orina con bolsa colectora perineal adherida por 2 horas.",
+        "B": "Punción suprapúbica o cateterismo vesical (sondaje uretral transitorio).",
+        "C": "Compresión vesical manual (Maniobra de Credé) hasta lograr la micción espontánea.",
+        "D": "Recolección de orina por chorro medio asistido por la madre.",
+        "E": "Exprimir el pañal húmedo directamente en el frasco estéril."
+      },
+      "correct": "B",
+      "comment": "En lactantes febriles que no controlan esfínteres, la recolección por bolsa tiene una altísima tasa de falsos positivos por contaminación de flora perineal. Las guías recomiendan el cateterismo vesical transitorio o la punción suprapúbica como métodos estériles de elección para confirmar la ITU."
+    },
+    {
+      "number": 351,
+      "code": "DIRESA26 P351",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Un niño de 8 años es traído al Puesto de Salud rural en Puno inmediatamente después de sufrir una mordedura por un perro callejero desconocido en la zona del rostro (mejilla y labio superior). La herida es profunda. Según la Norma Técnica de Rabia del MINSA, esta exposición se clasifica como GRAVE (por la cercanía al SNC y rica inervación). ¿Cuál es el manejo profiláctico completo normado e inmediato tras el lavado exhaustivo de la herida con agua y jabón?",
+      "options": {
+        "A": "Observar al perro por 10 días y solo vacunar si el animal muere.",
+        "B": "Iniciar inmediatamente la aplicación de la vacuna antirrábica de cultivo celular e infiltrar simultáneamente Suero Antirrábico (Inmunoglobulina Antirrábica Humana o Equina) en y alrededor de la herida.",
+        "C": "Suturar la herida estéticamente y administrar Amoxicilina profiláctica, sin vacuna.",
+        "D": "Administrar solo el Suero Antirrábico y esperar 15 días para iniciar la vacuna.",
+        "E": "Aislar al paciente e iniciar tratamiento con retrovirales."
+      },
+      "correct": "B",
+      "comment": "Las mordeduras en cara, cuello, cabeza, pulpejos o mordeduras múltiples/profundas por animal desconocido son exposiciones GRAVES al virus de la rabia. El virus viaja rápido al cerebro desde estas zonas. Por ello, la norma exige aplicar de urgencia tanto el esquema de vacuna antirrábica como la Inmunoglobulina (protección pasiva inmediata)."
+    },
+    {
+      "number": 352,
+      "code": "DIRESA26 P352",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "En la evaluación neurológica de una paciente puérpera de 2 días de evolución, que fue manejada por Preeclampsia Severa, la paciente presenta bruscamente pérdida de conocimiento seguida de convulsiones tónico-clónicas generalizadas. Su presión arterial en ese momento es de 180/115 mmHg. ¿Cómo se define clínicamente la aparición de estas convulsiones en el espectro de los trastornos hipertensivos del embarazo?",
+      "options": {
+        "A": "Epilepsia tardía del adulto.",
+        "B": "Síndrome HELLP inminente.",
+        "C": "Eclampsia.",
+        "D": "Crisis de histeria conversiva por estrés del parto.",
+        "E": "Encefalopatía hipertensiva primaria aislada."
+      },
+      "correct": "C",
+      "comment": "La Eclampsia se define estrictamente como la aparición de convulsiones tónico-clónicas generalizadas inexplicadas (y/o coma) en una paciente con preeclampsia (durante el embarazo, parto o puerperio) que no pueden ser atribuidas a otra causa neurológica. Es una emergencia crítica."
+    },
+    {
+      "number": 353,
+      "code": "DIRESA26 P353",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Un adolescente de 16 años presenta desde hace una semana tos seca exigente, dolor de garganta, malestar general, mialgias y fiebre de bajo grado. A la auscultación pulmonar se escuchan escasos crepitantes diseminados. La radiografía de tórax revela infiltrados retículo-nodulares intersticiales difusos bilaterales (disociación clínico-radiológica). ¿Cuál es el agente etiológico más probable de esta 'Neumonía Atípica' y su tratamiento antimicrobiano empírico de elección?",
+      "options": {
+        "A": "Streptococcus pneumoniae; Tratamiento: Penicilina o Amoxicilina altas dosis.",
+        "B": "Mycobacterium tuberculosis; Tratamiento: Esquema HREZ.",
+        "C": "Virus Sincitial Respiratorio; Tratamiento: Ribavirina aerosolizada.",
+        "D": "Mycoplasma pneumoniae; Tratamiento: Macrólidos (ej. Azitromicina o Claritromicina).",
+        "E": "Pseudomonas aeruginosa; Tratamiento: Ceftazidima endovenosa."
+      },
+      "correct": "D",
+      "comment": "El Mycoplasma pneumoniae es la causa más común de neumonía atípica en adolescentes y adultos jóvenes. Se caracteriza por síntomas constitucionales, tos seca persistente y una radiografía 'peor que la clínica'. Al no tener pared celular, no responde a los betalactámicos; el tratamiento de elección son los macrólidos."
+    },
+    {
+      "number": 354,
+      "code": "DIRESA26 P354",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Ingresa a la emergencia de cirugía un paciente joven tras sufrir una agresión con arma blanca en el abdomen. A la evaluación primaria (ABCDE), se encuentra hemodinámicamente estable, pero en el examen local de la pared abdominal se evidencia Evisceración del epiplón a través de la herida punzocortante. ¿Cuál es la conducta quirúrgica indicada?",
+      "options": {
+        "A": "Realizar limpieza profunda, reintroducir el epiplón a presión en el tópico y suturar la piel.",
+        "B": "Solicitar Tomografía de abdomen y observar evolución por 24 horas.",
+        "C": "Laparotomía exploradora de urgencia en sala de operaciones.",
+        "D": "Realizar lavado peritoneal diagnóstico (LPD) para decidir la cirugía.",
+        "E": "Cubrir con gasas, administrar antibióticos profilácticos y dar de alta."
+      },
+      "correct": "C",
+      "comment": "En trauma abdominal penetrante, la presencia de evisceración (salida de epiplón o asas intestinales a través de la herida), al igual que el shock o los signos de irritación peritoneal, son indicaciones absolutas de Laparotomía Exploradora inmediata, sin necesidad de imágenes adicionales."
+    },
+    {
+      "number": 355,
+      "code": "DIRESA26 P355",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Un paciente varón de 50 años, con estigmas de hepatopatía crónica (ictericia, ascitis, telangiectasias), ingresa a la emergencia por presentar tres episodios de hematemesis masiva (vómitos con sangre rutilante) y signos de shock hipovolémico. La principal sospecha clínica es Hemorragia Digestiva Alta por rotura de várices esofágicas. Además del soporte hemodinámico agresivo, ¿cuál es el tratamiento farmacológico endovenoso indicado para reducir la hipertensión portal aguda antes de la endoscopia?",
+      "options": {
+        "A": "Infusión alta dosis de Inhibidores de Bomba de Protones (Omeprazol).",
+        "B": "Administración de somatostatina, octreotide o terlipresina.",
+        "C": "Bolo de Vitamina K intramuscular profunda.",
+        "D": "Ácido tranexámico en vía central.",
+        "E": "Adrenalina endovenosa directa."
+      },
+      "correct": "B",
+      "comment": "En el sangrado variceal agudo del cirrótico, además de la reanimación volémica, se debe administrar tempranamente drogas esplácnicas vasoactivas (Terlipresina, Somatostatina o su análogo Octreotide) que causan vasoconstricción del lecho esplácnico, reduciendo significativamente el flujo sanguíneo y la presión portal, facilitando la hemostasia endoscópica posterior."
+    },
+    {
+      "number": 356,
+      "code": "DIRESA26 P356",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Al evaluar a un niño de 6 años que llega a urgencias por exacerbación asmática casi fatal, el médico nota que el paciente está somnoliento, sudoroso, con respiración paradójica abdominal y al auscultar el tórax encuentra 'Tórax Silente' (ausencia total de sibilancias y de murmullo vesicular). ¿Cómo se interpreta clínicamente este hallazgo auscultatorio?",
+      "options": {
+        "A": "Indica mejoría espectacular y resolución del broncoespasmo.",
+        "B": "El paciente está fingiendo la dificultad respiratoria (simulación).",
+        "C": "Indica una obstrucción bronquial tan severa e inminente paro respiratorio, que el flujo de aire es insuficiente incluso para generar el ruido de las sibilancias.",
+        "D": "Se trata de una consolidación neumónica masiva basal.",
+        "E": "Indica que el inhalador de Salbutamol ha provocado parálisis diafragmática."
+      },
+      "correct": "C",
+      "comment": "El 'tórax silente' en un paciente con crisis de asma severa es un signo de extrema gravedad y agotamiento respiratorio inminente (fatiga muscular). La broncoconstricción es tan crítica que no hay flujo aéreo turbulento suficiente para generar las clásicas sibilancias, requiriendo intervención avanzada inmediata (Asegurar vía aérea)."
+    },
+    {
+      "number": 357,
+      "code": "DIRESA26 P357",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Un niño es diagnosticado con Desnutrición Aguda Severa tipo Marasmo. Ingresa a la sala de recuperación nutricional y se inicia una alimentación rica en calorías de manera brusca tras un ayuno prolongado. Al tercer día, el niño presenta debilidad extrema, arritmias cardíacas y falla respiratoria. ¿Cuál es el trastorno metabólico- electrolítico central que caracteriza a este 'Síndrome de Realimentación' potencialmente letal?",
+      "options": {
+        "A": "Hipercalcemia masiva por sobreingesta de leche.",
+        "B": "Hipofosfatemia severa aguda (junto con hipopotasemia e hipomagnesemia) inducida por el aumento rápido de insulina.",
+        "C": "Cetoacidosis diabética transitoria.",
+        "D": "Hipernatremia por retención de sodio.",
+        "E": "Hipoglucemia refractaria severa."
+      },
+      "correct": "B",
+      "comment": "El Síndrome de Realimentación ocurre al reintroducir carbohidratos bruscamente en pacientes severamente desnutridos. El pico de insulina estimula la captación intracelular rápida de glucosa, fósforo, potasio y magnesio. Esto genera una caída abrupta de sus niveles séricos, siendo la hipofosfatemia la causa principal de la falla cardíaca y neuromuscular."
+    },
+    {
+      "number": 358,
+      "code": "DIRESA26 P358",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Paciente de 40 años, procedente del nivel del mar, llega al servicio de urgencias de Macusani (4,300 m.s.n.m.) por tos persistente. El médico de turno requiere diferenciar si el paciente cursa con Neumonía adquirida en la comunidad o con Edema Agudo de Pulmón de Altura (EAPA). ¿Cuál de los siguientes hallazgos clínicos/anamnésicos orientaría fuertemente hacia el diagnóstico de EAPA y no hacia una neumonía infecciosa?",
+      "options": {
+        "A": "Fiebre de 40°C desde hace 5 días.",
+        "B": "Expectoriación purulenta y verde maloliente.",
+        "C": "La rápida instauración del cuadro respiratorio grave dentro de los primeros 2 a 4 días de haber ascendido abruptamente a gran altitud, en un paciente previamente sano y sin síntomas de infección aguda prolongada.",
+        "D": "Consolidación localizada unilateral en el lóbulo inferior derecho a la percusión.",
+        "E": "Hemocultivo positivo a Streptococcus pneumoniae."
+      },
+      "correct": "C",
+      "comment": "La clave del EAPA es la relación temporal estricta con el ascenso rápido y reciente (usualmente dentro de las primeras 24 a 96 horas) en una persona no aclimatada, produciendo disnea de reposo y crepitantes parcheados difusos, a diferencia de la neumonía que tiene un pródromo infeccioso, secreciones purulentas y consolidaciones focales."
+    },
+    {
+      "number": 359,
+      "code": "DIRESA26 P359",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Un adulto mayor diabético, ingresado por Colecistitis aguda litiásica, rechaza la cirugía inicial. A las 72 horas presenta dolor continuo insoportable, fiebre en picos, defensa muscular generalizada (abdomen en tabla) y descompensación hemodinámica. La ecografía evidencia ruptura de la pared de la vesícula biliar y líquido libre purulento en la cavidad peritoneal. ¿Cuál es el diagnóstico quirúrgico de esta complicación severa?",
+      "options": {
+        "A": "Síndrome de Mirizzi.",
+        "B": "Fístula colecistoentérica (Íleo biliar).",
+        "C": "Peritonitis biliar secundaria a perforación de la vesícula biliar.",
+        "D": "Hidrops vesicular crónico.",
+        "E": "Cáncer de vesícula avanzado."
+      },
+      "correct": "C",
+      "comment": "La progresión de la isquemia e inflamación en una colecistitis aguda no tratada (especialmente en diabéticos y ancianos, propensos a gangrena vesicular) puede llevar a la perforación de la vesícula (Colecistitis perforada). La fuga de bilis y pus a la cavidad genera una peritonitis biliar secundaria fulminante, requiriendo cirugía de salvataje urgente."
+    },
+    {
+      "number": 360,
+      "code": "DIRESA26 P360",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Un lactante de 2 meses de edad, que aún no ha recibido sus vacunas, es traído al centro de salud por presentar desde hace 2 semanas 'ataques' de tos severa. La madre describe que tose en salvas repetidas hasta ponerse cianótico (morado) y que al finalizar la tos realiza una inspiración profunda y ruidosa que suena como un 'gallo'. Frecuentemente vomita al terminar de toser. ¿Cuál es el agente patógeno clásico responsable de este cuadro (Tos Ferina o Coqueluche) y su tratamiento de elección?",
+      "options": {
+        "A": "Haemophilus influenzae tipo b; tratamiento con Ceftriaxona.",
+        "B": "Virus Sincitial Respiratorio; tratamiento con Ribavirina.",
+        "C": "Bordetella pertussis; tratamiento con antibióticos macrólidos (ej. Azitromicina o Claritromicina).",
+        "D": "Streptococcus pneumoniae; tratamiento con Amoxicilina.",
+        "E": "Corynebacterium diphtheriae; tratamiento con Penicilina y Antitoxina."
+      },
+      "correct": "C",
+      "comment": "La clínica de tos paroxística (en salvas o quintosa), cianotizante, emetizante (vómitos post-tusígenos) y con estridor inspiratorio (gallo), en un lactante no inmunizado, es la presentación típica de la Tos Ferina, causada por la bacteria gramnegativa Bordetella pertussis. El tratamiento y profilaxis de contactos se realiza con macrólidos para erradicar el estado de portador y acortar la contagiosidad."
+    },
+    {
+      "number": 361,
+      "code": "DIRESA26 P361",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Un adulto mayor de 70 años con antecedente de tabaquismo pesado y EPOC acude a urgencias por exacerbación de disnea, fiebre y tos con esputo 'herrumbroso' (color óxido). En la radiografía de tórax se observa una condensación homogénea en el lóbulo inferior derecho con broncograma aéreo evidente. ¿Cuál es el agente etiológico bacteriano más frecuente causante de esta Neumonía Adquirida en la Comunidad (NAC) típica?",
+      "options": {
+        "A": "Haemophilus influenzae.",
+        "B": "Klebsiella pneumoniae.",
+        "C": "Streptococcus pneumoniae (Neumococo).",
+        "D": "Staphylococcus aureus.",
+        "E": "Mycoplasma pneumoniae."
+      },
+      "correct": "C",
+      "comment": "El Streptococcus pneumoniae es el patógeno bacteriano más común de la NAC típica en todas las edades (especialmente en ancianos y EPOC). La clínica clásica incluye inicio abrupto, fiebre alta, dolor pleurítico, esputo herrumbroso y consolidación lobar con broncograma aéreo en la radiografía."
+    },
+    {
+      "number": 362,
+      "code": "DIRESA26 P362",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Un paciente varón de 45 años, previamente sano, ingresa por emergencia tras un accidente de tránsito. En la valoración primaria (C), se detecta un sangrado arterial pulsátil severo en el muslo derecho. El paciente está confuso y diaforético. ¿Cuál es el paso INMEDIATO de reanimación según el protocolo ATLS en la revisión primaria?",
+      "options": {
+        "A": "Iniciar transfusión de paquete globular O negativo.",
+        "B": "Aplicar un torniquete de manera inmediata proximal a la herida para controlar la hemorragia exanguinante.",
+        "C": "Canalizar dos vías periféricas e iniciar infusión de cristaloides.",
+        "D": "Tomar radiografía de fémur para confirmar fractura.",
+        "E": "Solicitar evaluación por cirugía cardiovascular urgente."
+      },
+      "correct": "B",
+      "comment": "En el protocolo ATLS actualizado (concepto <C>ABCDE o XABCDE), el control de la hemorragia externa exanguinante (X) tiene prioridad absoluta incluso antes del manejo de la vía aérea (A), siendo el uso del torniquete la medida salvadora de primera línea para extremidades."
+    },
+    {
+      "number": 363,
+      "code": "DIRESA26 P363",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Un paciente de 60 años con fibrilación auricular crónica no anticoagulado presenta un dolor abdominal difuso periumbilical de instauración súbita e intensísima. Al examen físico inicial, el dolor es desproporcionado respecto a los hallazgos a la palpación (abdomen blando y depresible sin signos peritoneales claros al inicio). ¿Cuál es la sospecha diagnóstica principal que requiere una Angio-TAC urgente?",
+      "options": {
+        "A": "Apendicitis aguda de localización pélvica.",
+        "B": "Diverticulitis aguda no complicada.",
+        "C": "Isquemia Mesentérica Aguda (origen embólico).",
+        "D": "Cólico biliar por coledocolitiasis.",
+        "E": "Pancreatitis aguda edematosa."
+      },
+      "correct": "C",
+      "comment": "El dolor abdominal súbito, intensísimo y 'desproporcionado' a los hallazgos físicos (abdomen que no parece quirúrgico al inicio), en un paciente con factores de riesgo embólico (fibrilación auricular), es la presentación clásica de la Isquemia Mesentérica Aguda, una emergencia letal."
+    },
+    {
+      "number": 364,
+      "code": "DIRESA26 P364",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "En la evaluación de un neonato a las 24 horas de vida, la enfermera nota ictericia que abarca la cara, tronco y muslos (Zona III de Kramer). El tipo de sangre de la madre es O Rh positivo y el del niño es A Rh positivo. El hematocrito del niño es 45% y la bilirrubina total es de 16 mg/dL a predominio indirecto. ¿Cuál es la causa patológica más probable de esta hiperbilirrubinemia?",
+      "options": {
+        "A": "Ictericia fisiológica del recién nacido.",
+        "B": "Incompatibilidad de grupo sanguíneo ABO.",
+        "C": "Incompatibilidad de factor Rh (Isoinmunización Rh).",
+        "D": "Atresia de vías biliares.",
+        "E": "Ictericia por leche materna."
+      },
+      "correct": "B",
+      "comment": "Una ictericia de aparición temprana (primeras 24 horas) y con progresión rápida (nivel III de Kramer) es patológica. La combinación de madre grupo O y feto grupo A, B o AB predispone a la Incompatibilidad ABO, que causa hemólisis leve a moderada y aumento de bilirrubina indirecta. No es incompatibilidad Rh porque ambos son Rh positivos."
+    },
+    {
+      "number": 365,
+      "code": "DIRESA26 P365",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Un niño de 3 años es traído a emergencia por diarrea acuosa profusa (más de 10 cámaras al día) sin sangre, vómitos repetidos y fiebre leve, predominando en temporada de invierno/primavera. No hay antecedentes de viaje. ¿Cuál es el agente viral más frecuentemente asociado a este cuadro de gastroenteritis aguda deshidratante en la infancia, contra el cual existe vacuna en el calendario nacional?",
+      "options": {
+        "A": "Adenovirus entérico.",
+        "B": "Norovirus.",
+        "C": "Astrovirus.",
+        "D": "Rotavirus.",
+        "E": "Citomegalovirus."
+      },
+      "correct": "D",
+      "comment": "El Rotavirus es la causa viral más importante y frecuente de gastroenteritis aguda grave y deshidratante en lactantes y niños pequeños en todo el mundo. La diarrea es de tipo osmótico-acuosa severa. Por su impacto en la mortalidad, se introdujo la vacuna oral rutinaria en los calendarios de inmunización."
+    },
+    {
+      "number": 366,
+      "code": "DIRESA26 P366",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "En el manejo de un paciente con Cetoacidosis Diabética (CAD), luego de una adecuada reanimación con fluidos y durante la infusión continua de insulina endovenosa, se observa que la glucosa sérica ha descendido a 200 mg/dL. Sin embargo, el paciente aún mantiene un pH de 7.20 y anión gap elevado (acidosis persistente). ¿Cuál es la conducta terapéutica indicada en este momento para evitar la hipoglucemia y permitir que la insulina siga corrigiendo la acidosis?",
+      "options": {
+        "A": "Suspender inmediatamente la infusión de insulina.",
+        "B": "Añadir Dextrosa al 5% a la fluidoterapia endovenosa y mantener la infusión de insulina.",
+        "C": "Administrar Glucagón intramuscular.",
+        "D": "Cambiar la insulina endovenosa por metformina oral.",
+        "E": "Administrar bicarbonato de sodio en bolos rápidos."
+      },
+      "correct": "B",
+      "comment": "En la CAD, el objetivo de la insulina no es solo bajar la glucosa, sino detener la cetogénesis y corregir la acidosis. Cuando la glucosa baja a ≤ 200- 250 mg/dL pero la acidosis aún no se resuelve, se debe agregar Dextrosa a los sueros para poder mantener la insulina en infusión sin causar hipoglucemia letal."
+    },
+    {
+      "number": 367,
+      "code": "DIRESA26 P367",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Un minero de Puno acude a consulta por tos crónica de años de evolución y disnea de esfuerzo progresiva. Refiere haber trabajado en perforación de túneles (exposición a polvo de roca) durante 15 años sin equipo de protección. La radiografía de tórax revela un patrón reticulonodular difuso a predominio de campos superiores y calcificaciones hiliares 'en cáscara de huevo'. ¿Cuál es la neumoconiosis más probable y a qué infección se asocia frecuentemente?",
+      "options": {
+        "A": "Asbestosis; asociada a mesotelioma pleural.",
+        "B": "Bisinosis; asociada a neumonía por Mycoplasma.",
+        "C": "Silicosis; fuertemente asociada a un mayor riesgo de Tuberculosis pulmonar (Silicotuberculosis).",
+        "D": "Antracosis (pulmón del minero de carbón); asociada a aspergiloma.",
+        "E": "Bagasosis; asociada a micobacterias atípicas."
+      },
+      "correct": "C",
+      "comment": "La silicosis es la enfermedad pulmonar ocupacional típica en la minería de socavón (exposición a sílice cristalina libre). Se caracteriza radiológicamente por nódulos en campos superiores y ganglios hiliares en cáscara de huevo. Los pacientes con silicosis tienen un riesgo sumamente elevado (hasta 30 veces más) de desarrollar tuberculosis activa."
+    },
+    {
+      "number": 368,
+      "code": "DIRESA26 P368",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Una mujer de 35 años consulta por palpitaciones, pérdida de peso a pesar de aumento del apetito, nerviosismo, temblor fino de manos, sudoración excesiva y exoftalmos bilateral evidente. Al examen se palpa un bocio difuso indoloro. El perfil tiroideo confirmará Hipertiroidismo. ¿Cuál es la etiología autoinmune más frecuente de este síndrome, mediada por anticuerpos estimulantes del receptor de TSH (TSI)?",
+      "options": {
+        "A": "Bocio multinodular tóxico.",
+        "B": "Adenoma tiroideo tóxico (Enfermedad de Plummer).",
+        "C": "Tiroiditis de Hashimoto.",
+        "D": "Enfermedad de Graves-Basedow.",
+        "E": "Tiroiditis subaguda granulomatosa de De Quervain."
+      },
+      "correct": "D",
+      "comment": "La Enfermedad de Graves es la causa más común de hipertiroidismo en el adulto joven. Se caracteriza por la tríada clásica de bocio difuso, tirotoxicosis y oftalmopatía (exoftalmos). Su fisiopatología radica en anticuerpos (TSI) que simulan la acción de la TSH, estimulando continuamente a la glándula."
+    },
+    {
+      "number": 369,
+      "code": "DIRESA26 P369",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Ingresa a urgencias un paciente varón de 40 años que sufrió una herida penetrante por arma blanca en el cuarto espacio intercostal izquierdo, paraesternal. El paciente se encuentra pálido, taquicárdico, hipotenso (PA 80/50 mmHg), con ingurgitación yugular evidente y los ruidos cardíacos se auscultan muy apagados y lejanos (Triada de Beck). ¿Cuál es el diagnóstico clínico y la intervención que salva la vida de inmediato?",
+      "options": {
+        "A": "Hemotórax masivo; inserción de tubo de tórax.",
+        "B": "Taponamiento cardíaco pericárdico; realizar pericardiocentesis de urgencia seguida de toracotomía.",
+        "C": "Neumotórax a tensión; descompresión con aguja gruesa.",
+        "D": "Infarto agudo de miocardio transmural; terapia fibrinolítica.",
+        "E": "Ruptura aórtica traumática; clampaje aórtico prehospitalario."
+      },
+      "correct": "B",
+      "comment": "La tríada de Beck (hipotensión, ingurgitación yugular y ruidos cardíacos apagados) tras un trauma penetrante torácico anterior (en la 'zona de la caja' o área cardíaca) es patognomónica de Taponamiento Cardíaco. La sangre en el pericardio impide el llenado ventricular (shock obstructivo). La punción pericárdica guiada extrae la sangre y restituye el gasto cardíaco inmediatamente."
+    },
+    {
+      "number": 370,
+      "code": "DIRESA26 P370",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Un niño de 5 años es llevado a la posta médica de una comunidad altoandina con un cuadro de 24 horas de evolución consistente en fiebre de 39°C, odinofagia intensa, babeo constante (sialorrea) por incapacidad para tragar, y estridor inspiratorio suave. El niño adopta espontáneamente una postura sentada, inclinado hacia adelante con el cuello extendido ('posición de trípode'). Se sospecha Epiglotitis aguda. ¿Cuál es el manejo inicial primordial para este paciente en el primer nivel de atención antes de referirlo?",
+      "options": {
+        "A": "Examinar vigorosamente la faringe con un bajalenguas para confirmar el diagnóstico.",
+        "B": "Evitar causar ansiedad o llanto al niño, no manipular la vía aérea con bajalenguas y prepararse para asegurar la vía aérea (intubación o cricotiroidotomía) durante un traslado médico urgente y coordinado.",
+        "C": "Administrar salbutamol en inhalador y observar por 2 horas.",
+        "D": "Realizar un hisopado faríngeo profundo inmediatamente.",
+        "E": "Iniciar maniobras de Heimlich."
+      },
+      "correct": "B",
+      "comment": "La epiglotitis es una emergencia respiratoria letal por obstrucción supra-glótica completa inminente (causada clásicamente por H. influenzae tipo b). La regla de oro es NO manipular la faringe (el uso de bajalenguas puede precipitar espasmo laríngeo y paro respiratorio), mantener al niño tranquilo en la posición que él adopte y referir para manejo avanzado de la vía aérea."
+    },
+    {
+      "number": 371,
+      "code": "DIRESA26 P371",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Un adulto mayor de 72 años con antecedente de hipertensión de larga data acude a consulta por fatiga, edema de miembros inferiores progresivo y ortopnea (se ahoga al acostarse, necesitando usar 3 almohadas). Al examen físico se evidencia ingurgitación yugular y se auscultan crepitantes basales bilaterales y un tercer ruido cardíaco (ritmo de galope). ¿A qué síndrome clínico corresponde esta presentación?",
+      "options": {
+        "A": "Cor Pulmonale crónico puro.",
+        "B": "Tromboembolismo pulmonar recurrente.",
+        "C": "Insuficiencia Cardíaca Congestiva (ICC) global descompensada.",
+        "D": "Neumonía lobar bilateral por neumococo.",
+        "E": "Edema Agudo de Pulmón de Altura aislado."
+      },
+      "correct": "C",
+      "comment": "La combinación de signos de falla ventricular izquierda (ortopnea, crepitantes pulmonares, S3 galope) y falla ventricular derecha (edema maleolar, ingurgitación yugular) en un paciente con antecedente de daño estructural crónico (HTA) define el síndrome clínico de la Insuficiencia Cardíaca Congestiva global en fase de descompensación."
+    },
+    {
+      "number": 372,
+      "code": "DIRESA26 P372",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Una paciente puérpera de 30 años en Puno acude a los 5 días de un parto domiciliario. Presenta fiebre de 39°C, taquicardia, dolor en el hipogastrio y loquios de olor marcadamente fétido y purulento a la inspección vaginal. Al examen bimanual, el útero está subinvolucionado y es sumamente doloroso a la palpación. El diagnóstico más probable es:",
+      "options": {
+        "A": "Mastitis puerperal aguda.",
+        "B": "Infección del tracto urinario baja (Cistitis).",
+        "C": "Endometritis puerperal.",
+        "D": "Tromboembolismo venoso pélvico.",
+        "E": "Infección de herida episiorráfica exclusiva."
+      },
+      "correct": "C",
+      "comment": "La Endometritis puerperal es la infección polimicrobiana de la cavidad uterina postparto (frecuente en partos domiciliarios o con múltiples tactos). Se manifiesta clásicamente entre el 2do y 5to día postparto con fiebre, subinvolución uterina (útero grande y blando), dolor hipogástrico y loquios purulentos/fétidos. Constituye un cuadro de Sepsis Obstétrica."
+    },
+    {
+      "number": 373,
+      "code": "DIRESA26 P373",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Un niño de 6 años sufre una caída sobre el brazo extendido mientras jugaba en el colegio. Llega a emergencia con intenso dolor, deformidad 'en dorso de tenedor' de la muñeca izquierda y limitación funcional absoluta. En la radiografía se evidencia una fractura del radio distal con desplazamiento dorsal del fragmento distal. ¿Cómo se denomina clásicamente a esta fractura?",
+      "options": {
+        "A": "Fractura de Smith.",
+        "B": "Fractura de Colles.",
+        "C": "Fractura de Monteggia.",
+        "D": "Fractura de Galeazzi.",
+        "E": "Fractura supracondílea del húmero."
+      },
+      "correct": "B",
+      "comment": "La fractura de la metáfisis distal del radio con angulación/desplazamiento dorsal (posterior) del fragmento distal, que produce la clásica deformidad estética en 'dorso de tenedor' o bayoneta, se conoce como Fractura de Colles, siendo muy frecuente por caídas sobre la palma de la mano en extensión."
+    },
+    {
+      "number": 374,
+      "code": "DIRESA26 P374",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "En la evaluación de un paciente con sospecha de Meningitis Bacteriana Aguda (rigidez de nuca, cefalea, fiebre), se le realiza una punción lumbar para análisis de Líquido Cefalorraquídeo (LCR). ¿Cuál es el patrón citoquímico clásico que confirma la etiología bacteriana aguda frente a una etiología viral?",
+      "options": {
+        "A": "LCR cristal de roca, leucocitos normales, glucosa normal.",
+        "B": "Pleocitosis a predominio linfocitario, glucosa normal o levemente baja y proteínas elevadas.",
+        "C": "Pleocitosis marcada a predominio de polimorfonucleares (neutrófilos), hipoglucorraquia severa (glucosa < 40 mg/dL o < 50% de la glucemia) e hiperproteinorraquia franca.",
+        "D": "Hematíes abundantes, xantocromía, glucosa normal.",
+        "E": "Ausencia de células con bandas oligoclonales positivas."
+      },
+      "correct": "C",
+      "comment": "La meningitis bacteriana aguda (ej. por neumococo o meningococo) produce un LCR turbio o purulento con celularidad muy elevada (predominio abrumador de neutrófilos), elevación de proteínas y un consumo intenso de glucosa por las bacterias (hipoglucorraquia), a diferencia de las virales que son linfocitarias con glucosa normal."
+    },
+    {
+      "number": 375,
+      "code": "DIRESA26 P375",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Un adulto de 40 años presenta dolor anal intenso durante la defecación ('como si expulsara vidrios rotos') acompañado de sangrado rojo rutilante en escasa cantidad que mancha el papel higiénico. Por temor al dolor intenso, el paciente evita defecar, agravando su estreñimiento. A la inspección externa cuidadosa del margen anal, el médico observa un desgarro longitudinal en el canal anal posterior. ¿Cuál es el diagnóstico clínico más evidente?",
+      "options": {
+        "A": "Hemorroides internas prolapsadas de grado IV.",
+        "B": "Absceso perianal isquiorrectal.",
+        "C": "Fisura anal aguda.",
+        "D": "Fístula perianal compleja.",
+        "E": "Cáncer de recto inferior incipiente."
+      },
+      "correct": "C",
+      "comment": "La Fisura Anal es un desgarro del anodermo distal a la línea pectínea (90% en la línea media posterior). Se caracteriza patognomónicamente por un dolor atroz, punzante o cortante durante y minutos después de la defecación, asociado a rectorragia escasa, generando un círculo vicioso de espasmo del esfínter y constipación."
+    },
+    {
+      "number": 376,
+      "code": "DIRESA26 P376",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "En la evaluación de un recién nacido en su primera semana de vida, la madre refiere que el cordón umbilical aún no cae y nota secreción purulenta y maloliente en la base del muñón umbilical, rodeado de un halo eritematoso e induración de la piel peri-umbilical abdominal de 2 cm. El neonato está irritable y con febrícula. ¿Cuál es el diagnóstico más probable y la indicación terapéutica pertinente?",
+      "options": {
+        "A": "Granuloma umbilical benigno; cauterización con nitrato de plata en consulta.",
+        "B": "Persistencia del uraco; observación clínica por 6 meses.",
+        "C": "Onfalitis complicada con celulitis periumbilical; requiere hospitalización inmediata y antibióticos endovenosos.",
+        "D": "Hernia umbilical estrangulada; cirugía ambulatoria electiva.",
+        "E": "Infección superficial leve; lavado con alcohol de 70° y curación seca en casa."
+      },
+      "correct": "C",
+      "comment": "La onfalitis es la infección del muñón umbilical. Si la inflamación/eritema se extiende más allá de la base a la piel abdominal adyacente (celulitis), o hay síntomas sistémicos, existe un alto riesgo de progresión a sepsis neonatal o fascitis necrotizante. Es indicación de ingreso hospitalario urgente para antibioticoterapia sistémica."
+    },
+    {
+      "number": 377,
+      "code": "DIRESA26 P377",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Un paciente varón de 65 años con tabaquismo crónico, obesidad y dislipidemia acude a emergencia refiriendo dolor torácico opresivo de aparición súbita irradiado a mandíbula y brazo izquierdo, asociado a diaforesis profunda y náuseas. En el Electrocardiograma (EKG) de 12 derivaciones se evidencia Supradesnivel del Segmento ST (> 2 mm) en las derivaciones V1, V2, V3 y V4. ¿Cuál es el diagnóstico topográfico específico de este Infarto Agudo de Miocardio (IAM)?",
+      "options": {
+        "A": "IAM de cara inferior.",
+        "B": "IAM de cara lateral alta.",
+        "C": "IAM de cara anteroseptal.",
+        "D": "IAM de cara posterior estricta.",
+        "E": "IAM de ventrículo derecho aislado."
+      },
+      "correct": "C",
+      "comment": "En el EKG, las derivaciones precordiales V1 y V2 exploran el septo interventricular, mientras que V3 y V4 exploran la pared anterior del ventrículo izquierdo. El supradesnivel del ST en estas derivaciones localiza el infarto en la cara anteroseptal, área irrigada clásicamente por la arteria descendente anterior (ADA)."
+    },
+    {
+      "number": 378,
+      "code": "DIRESA26 P378",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Una paciente mujer de 25 años sexualmente activa acude por dolor en bajo vientre, flujo vaginal purulento abundante y fiebre. Al tacto vaginal bimanual, la ginecóloga despierta un intenso dolor al movilizar lateralmente el cuello uterino (Signo de Frenkel positivo) y a la palpación de los anexos. Ante la fuerte sospecha clínica de Enfermedad Pélvica Inflamatoria (EPI) aguda, ¿cuál de las siguientes opciones representa la secuela o complicación a largo plazo más importante si este cuadro no se trata oportunamente?",
+      "options": {
+        "A": "Desarrollo de cáncer de endometrio a futuro.",
+        "B": "Prolapso uterino de grado severo.",
+        "C": "Infertilidad tubárica secundaria (por adherencias y obstrucción de las trompas de Falopio) y un elevado riesgo de embarazo ectópico.",
+        "D": "Incontinencia urinaria de esfuerzo permanente.",
+        "E": "Menopausia prematura irreversible."
+      },
+      "correct": "C",
+      "comment": "La EPI es una infección ascendente del tracto genital superior (Chlamydia y Gonococo). La inflamación aguda causa daño cicatricial y adherencias en las trompas de Falopio. Las secuelas más graves a largo plazo son el dolor pélvico crónico, el alto riesgo de embarazo ectópico y la infertilidad por factor tubárico."
+    },
+    {
+      "number": 379,
+      "code": "DIRESA26 P379",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Un adulto joven con un Índice de Masa Corporal (IMC) de 35 kg/m2 (Obesidad grado II) acude a un centro de salud del nivel I-3 para evaluación para cirugía bariátrica. Como médico de primer nivel, ¿cuál de los siguientes enunciados define mejor una indicación universalmente aceptada para derivar al paciente a una evaluación especializada para Cirugía Bariátrica metabólica?",
+      "options": {
+        "A": "Todo paciente con un IMC mayor a 30 kg/m2 independientemente de comorbilidades.",
+        "B": "Pacientes con IMC > 40 kg/m2 o pacientes con IMC > 35 kg/m2 que presenten comorbilidades mayores severas (como diabetes mellitus tipo 2 mal controlada, HTA refractaria o apnea obstructiva del sueño) que no han respondido al tratamiento médico-dietético formal.",
+        "C": "Pacientes adolescentes con IMC de 28 kg/m2 con fines exclusivamente estéticos.",
+        "D": "Solo pacientes mayores de 65 años con osteoporosis leve.",
+        "E": "Cualquier paciente que lo solicite de manera privada sin evaluación psicológica previa."
+      },
+      "correct": "B",
+      "comment": "Las guías internacionales (NIH, ASMBS) establecen que la cirugía bariátrica está indicada clínicamente en pacientes con Obesidad Mórbida (IMC ≥ 40) o en aquellos con Obesidad Severa (IMC ≥ 35) que sufran comorbilidades significativas que pongan en riesgo su vida (Diabetes, AOS, enfermedad cardiovascular), tras fracaso del manejo conservador."
+    },
+    {
+      "number": 380,
+      "code": "DIRESA26 P380",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Una joven de 18 años residente en la ciudad de Puno acude a consulta externa refiriendo sangrado menstrual extremadamente abundante ('reglas que duran 10 días empapando toallas gruesas') desde su menarquia. Presenta equimosis fáciles en brazos y piernas al menor golpe. El médico sospecha de un trastorno de la hemostasia primaria. En el laboratorio, el recuento de plaquetas es normal (250,000 / uL), pero el Tiempo de Sangría está francamente prolongado. ¿Cuál es la enfermedad hemorrágica hereditaria más común que encaja con este perfil clínico-laboratorial?",
+      "options": {
+        "A": "Hemofilia A severa.",
+        "B": "Hemofilia B (Enfermedad de Christmas).",
+        "C": "Púrpura Trombocitopénica Inmune (PTI).",
+        "D": "Enfermedad de Von Willebrand.",
+        "E": "Coagulación Intravascular Diseminada (CID)."
+      },
+      "correct": "D",
+      "comment": "La Enfermedad de Von Willebrand es el trastorno hemorrágico hereditario más frecuente. Afecta la hemostasia primaria (adhesión plaquetaria), causando sangrados mucocutáneos (menorragia, epistaxis, equimosis). Típicamente, el recuento de plaquetas es normal, pero su función falla, evidenciándose por un Tiempo de Sangría prolongado (a diferencia de las hemofilias que afectan la coagulación secundaria y el TPTA)."
+    },
+    {
+      "number": 381,
+      "code": "DIRESA26 P381",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Un adulto mayor es diagnosticado con Fibrilación Auricular (FA) no valvular. Para decidir si el paciente requiere iniciar tratamiento anticoagulante crónico (ej. Warfarina o nuevos anticoagulantes orales) y prevenir eventos tromboembólicos como el Accidente Cerebrovascular Isquémico, ¿cuál es el score o escala clínica internacional que se debe aplicar obligatoriamente?",
+      "options": {
+        "A": "Score de Alvarado.",
+        "B": "Escala de Glasgow.",
+        "C": "Score CHA2DS2-VASc.",
+        "D": "Escala de Framingham.",
+        "E": "Score de Child-Pugh."
+      },
+      "correct": "C",
+      "comment": "El score CHA2DS2-VASc estratifica el riesgo tromboembólico en pacientes con Fibrilación Auricular. Evalúa factores como Insuficiencia Cardíaca, Hipertensión, Edad (≥75 años da 2 puntos), Diabetes, ACV previo (2 puntos), Enfermedad Vascular, Edad (65-74) y Sexo femenino. Un score ≥ 2 en varones o ≥ 3 en mujeres indica inicio de anticoagulación."
+    },
+    {
+      "number": 382,
+      "code": "DIRESA26 P382",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Durante el invierno en el altiplano puneño, un niño de 6 meses es traído a emergencia por presentar febrícula, rinorrea de 3 días y aparición reciente de tos exigente, taquipnea y sibilancias espiratorias difusas. Es su primer episodio de sibilancias. Al examen, presenta leve tiraje subcostal. No tiene antecedentes atópicos. ¿Cuál es el diagnóstico clínico más probable y su agente viral causal más frecuente?",
+      "options": {
+        "A": "Asma bronquial de inicio temprano; Rinovirus.",
+        "B": "Bronquiolitis aguda; Virus Sincitial Respiratorio (VSR).",
+        "C": "Neumonía bacteriana atípica; Mycoplasma pneumoniae.",
+        "D": "Croup (Laringotraqueobronquitis); Virus Parainfluenza.",
+        "E": "Tos ferina; Bordetella pertussis."
+      },
+      "correct": "B",
+      "comment": "La bronquiolitis es la inflamación aguda de los bronquiolos en lactantes (generalmente < 2 años). Clínicamente se define como el primer episodio de sibilancias asociado a un pródromo de infección respiratoria alta. El Virus Sincitial Respiratorio (VSR) es el causante del 70-80% de los casos."
+    },
+    {
+      "number": 383,
+      "code": "DIRESA26 P383",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Un paciente varón de 40 años, agricultor, acude por presentar una úlcera indolora en el antebrazo derecho de 2 meses de evolución. La lesión tiene bordes elevados, indurados y un fondo granulomatoso limpio (úlcera 'en sacabocado'). No hay fiebre. El paciente refiere haber sido picado por una 'manta blanca' o titira en los valles interandinos (Sandia). ¿Cuál es el diagnóstico más probable y el examen confirmatorio de elección?",
+      "options": {
+        "A": "Esporotricosis; Cultivo de secreción en agar Sabouraud.",
+        "B": "Úlcera de Buruli; Tinción de Ziehl-Neelsen.",
+        "C": "Leishmaniasis cutánea (Uta); Frotis directo del borde de la lesión para observación de amastigotes (o cultivo/PCR).",
+        "D": "Carcinoma basocelular; Biopsia excisional.",
+        "E": "Loxoscelismo cutáneo crónico; Prueba de ELISA para veneno."
+      },
+      "correct": "C",
+      "comment": "La leishmaniasis cutánea andina (Uta) es endémica en valles interandinos. Se transmite por el flebótomo (titira o manta blanca). La clínica clásica es una úlcera indolora de bordes levantados. El diagnóstico rápido y estándar en el primer nivel es el frotis del raspado del borde activo de la úlcera teñido con Giemsa para ver amastigotes."
+    },
+    {
+      "number": 384,
+      "code": "DIRESA26 P384",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Ingresa a trauma shock un paciente con politraumatismo severo. Al colocarle un catéter urinario (sonda Foley), se evidencia salida franca de sangre (hematuria macroscópica). El paciente tiene fractura de pelvis confirmada. ¿Qué estudio radiológico contrastado es el estándar de oro para diagnosticar una posible ruptura de la vejiga urinaria (extra o intraperitoneal)?",
+      "options": {
+        "A": "Ecografía renovesical.",
+        "B": "Urografía excretora intravenosa.",
+        "C": "Cistografía retrógrada (fluoroscópica o por TAC).",
+        "D": "Resonancia magnética pélvica.",
+        "E": "Cistoscopia flexible en emergencia."
+      },
+      "correct": "C",
+      "comment": "Ante la sospecha de trauma vesical (hematuria macroscópica asociada a fractura de pelvis), el estudio diagnóstico de elección es la cistografía retrógrada. Consiste en llenar pasiva y completamente la vejiga con contraste a través de la sonda Foley y obtener imágenes para visualizar directamente la fuga del contraste hacia la cavidad abdominal (intraperitoneal) o al espacio pélvico (extraperitoneal)."
+    },
+    {
+      "number": 385,
+      "code": "DIRESA26 P385",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Un recién nacido por parto vaginal prolongado presenta asimetría en los movimientos de los miembros superiores. El brazo derecho cuelga pegado al cuerpo, con el hombro en rotación interna, codo extendido, antebrazo pronado y la muñeca flexionada ('postura de propina de mesero'). El reflejo de prensión palmar está conservado. ¿Cuál es el diagnóstico neurológico de esta lesión del plexo braquial?",
+      "options": {
+        "A": "Parálisis de Klumpke (raíces C8-T1).",
+        "B": "Parálisis de Erb-Duchenne (raíces C5-C6).",
+        "C": "Fractura de clavícula derecha aislada.",
+        "D": "Lesión completa del nervio radial.",
+        "E": "Encefalopatía hipóxico-isquémica focal."
+      },
+      "correct": "B",
+      "comment": "La parálisis de Erb-Duchenne (lesión del tronco superior del plexo braquial, C5-C6) ocurre por distensión del cuello durante partos distócicos (distocia de hombros). Produce debilidad de los músculos del hombro y brazo, generando la típica postura en aducción, rotación interna y pronación ('propina de mesero'), conservando la función de la mano."
+    },
+    {
+      "number": 386,
+      "code": "DIRESA26 P386",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Un adulto joven de 25 años acude por dolor abdominal bajo irradiado a la región inguinal derecha, fiebre y disuria. Al tacto rectal, el médico palpa una próstata exquisitamente dolorosa, aumentada de tamaño y 'caliente'. Se sospecha Prostatitis Bacteriana Aguda. ¿Cuál de las siguientes maniobras o procedimientos está formalmente CONTRAINDICADO en la evaluación de este paciente?",
+      "options": {
+        "A": "Realizar un urocultivo de chorro medio.",
+        "B": "Iniciar terapia con fluoroquinolonas empíricamente.",
+        "C": "Realizar masaje prostático vigoroso para obtener secreción para cultivo.",
+        "D": "Tomar hemocultivos si hay fiebre alta.",
+        "E": "Realizar una ecografía pélvica suprapúbica."
+      },
+      "correct": "C",
+      "comment": "En la prostatitis bacteriana aguda, la glándula está intensamente inflamada y colonizada por bacterias. El masaje prostático está contraindicado porque es extremadamente doloroso y conlleva un altísimo riesgo de desencadenar bacteriemia y shock séptico al exprimir las bacterias hacia el torrente sanguíneo."
+    },
+    {
+      "number": 387,
+      "code": "DIRESA26 P387",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Un varón de 50 años en UCI desarrolla un Síndrome de Dificultad Respiratoria Aguda (SDRA) secundario a neumonía por COVID-19 grave. ¿Cuál es el criterio gasométrico clásico (Índice de oxigenación de Berlín) que define al SDRA moderado-severo cuando el paciente está bajo soporte ventilatorio?",
+      "options": {
+        "A": "Relación PaO2/FiO2 (Kirby) menor o igual a 200 mmHg, con PEEP ≥ 5 cmH2O.",
+        "B": "Gradiente alvéolo-arterial de oxígeno normal.",
+        "C": "Presión arterial de dióxido de carbono (PaCO2) mayor a 60 mmHg exclusivamente.",
+        "D": "Relación PaO2/FiO2 mayor a 400 mmHg.",
+        "E": "Saturación venosa central de oxígeno (ScvO2) < 50%."
+      },
+      "correct": "A",
+      "comment": "Los Criterios de Berlín clasifican la gravedad del SDRA según el grado de hipoxemia refractaria evaluada por el índice PaO2/FiO2 (PAFI). Un PAFI entre 200 y 100 mmHg define el SDRA Moderado, y un PAFI < 100 mmHg define el SDRA Severo (asumiendo un PEEP o CPAP ≥ 5 cmH2O y aparición aguda de infiltrados bilaterales no cardiogénicos)."
+    },
+    {
+      "number": 388,
+      "code": "DIRESA26 P388",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Una paciente de 35 años presenta amenorrea de 6 semanas, dolor pélvico intenso en fosa ilíaca izquierda y sangrado vaginal escaso oscuro. Llega a emergencia pálida, sudorosa, con taquicardia de 110 lpm y presión arterial de 90/60 mmHg. Al tacto vaginal hay dolor intenso a la movilización cervical. La prueba de embarazo (hCG) cualitativa es positiva. ¿Cuál es el diagnóstico presuntivo que representa una emergencia quirúrgica absoluta?",
+      "options": {
+        "A": "Amenaza de aborto.",
+        "B": "Embarazo ectópico roto (complicado).",
+        "C": "Enfermedad Pélvica Inflamatoria (EPI) severa.",
+        "D": "Quiste de ovario folicular roto.",
+        "E": "Miomatosis uterina sangrante."
+      },
+      "correct": "B",
+      "comment": "La tríada clásica de amenorrea, dolor pélvico y sangrado vaginal escaso, asociada a signos de descompensación hemodinámica (shock hipovolémico por hemoperitoneo) y prueba de embarazo positiva, es la presentación inequívoca de un Embarazo Ectópico Roto. Es una de las emergencias obstétricas más letales y requiere cirugía inmediata (laparotomía o laparoscopia exploradora)."
+    },
+    {
+      "number": 389,
+      "code": "DIRESA26 P389",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "En la evaluación de un electrocardiograma (EKG) de rutina, el médico observa complejos QRS estrechos que aparecen con total irregularidad (RR irregulares), ausencia absoluta de ondas P y presencia de ondas fibrilatorias minúsculas de base. La frecuencia ventricular es de 110 lpm. ¿Cuál es la arritmia cardíaca más frecuente que se describe en este trazado?",
+      "options": {
+        "A": "Aleteo (Flutter) auricular con bloqueo variable.",
+        "B": "Fibrilación Ventricular (FV).",
+        "C": "Taquicardia Sinusal.",
+        "D": "Fibrilación Auricular (FA).",
+        "E": "Bloqueo auriculoventricular de tercer grado."
+      },
+      "correct": "D",
+      "comment": "La Fibrilación Auricular se caracteriza por ser la arritmia 'irregularmente irregular'. Los hallazgos electrocardiográficos patognomónicos son la ausencia de ondas P definidas (reemplazadas por ondas 'f' de fibrilación) y un intervalo R-R completamente irregular, producto de la conducción caótica de los impulsos desde la aurícula."
+    },
+    {
+      "number": 390,
+      "code": "DIRESA26 P390",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Un escolar de 10 años es llevado por su madre por presentar edema bipalpebral y facial ('abogatado') de predominio matutino, orina de color 'lavado de carne' (macroscópicamente hematúrica), dolor de cabeza y presión arterial de 130/85 mmHg (hipertensión para su edad). La madre refiere que hace 2 semanas el niño tuvo una infección faríngea severa (amigdalitis pultácea) no tratada adecuadamente. ¿Cuál es el diagnóstico clínico más probable?",
+      "options": {
+        "A": "Síndrome Nefrótico idiopático (Cambios mínimos).",
+        "B": "Glomerulonefritis aguda postestreptocócica (Síndrome Nefrítico).",
+        "C": "Infección del tracto urinario alta (Pielonefritis).",
+        "D": "Insuficiencia Renal Crónica terminal.",
+        "E": "Púrpura de Schönlein-Henoch."
+      },
+      "correct": "B",
+      "comment": "El Síndrome Nefrítico clásico se presenta con la tríada de hematuria (orina oscura/lavado de carne), hipertensión arterial y edema (predominio facial leve). Si existe el antecedente de una infección faríngea (por Streptococcus pyogenes) ocurrida 1 a 3 semanas antes, el diagnóstico por excelencia es la Glomerulonefritis postestreptocócica, de origen inmunológico."
+    },
+    {
+      "number": 391,
+      "code": "DIRESA26 P391",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Un adulto mayor es diagnosticado con Cáncer de Colon localizado en el colon ascendente (derecho). Clínicamente, ¿cuál es la forma de presentación más frecuente de los tumores malignos del colon DERECHO, a diferencia de los tumores del colon izquierdo?",
+      "options": {
+        "A": "Obstrucción intestinal aguda temprana (heces acintadas).",
+        "B": "Rectorragia rutilante (sangre roja viva) al defecar.",
+        "C": "Anemia ferropénica crónica por sangrado oculto (astenia, palidez) y masa abdominal palpable.",
+        "D": "Perforación intestinal espontánea.",
+        "E": "Tenesmo rectal severo."
+      },
+      "correct": "C",
+      "comment": "El colon derecho tiene un diámetro mayor (ciego) y el contenido fecal es líquido. Por ello, los tumores aquí rara vez causan obstrucción temprana. En su lugar, se ulceran y sangran crónicamente de forma microscópica, presentando al paciente con anemia ferropénica inexplicada (palidez, fatiga) y a menudo una masa palpable en fosa ilíaca derecha. El colon izquierdo, al ser más estrecho, debuta frecuentemente con cuadros obstructivos."
+    },
+    {
+      "number": 392,
+      "code": "DIRESA26 P392",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Paciente varón de 40 años que acude a consulta por episodios repetitivos de pirosis intensa (ardor retroesternal) que empeora al acostarse, regurgitación ácida frecuente y eructos. No presenta disfagia ni pérdida de peso. El diagnóstico clínico es Enfermedad por Reflujo Gastroesofágico (ERGE). ¿Cuál es el tratamiento farmacológico inicial de elección para la cicatrización mucosa y alivio sintomático sostenido?",
+      "options": {
+        "A": "Antiácidos líquidos (Hidróxido de Aluminio y Magnesio) cada 8 horas exclusivamente.",
+        "B": "Inhibidores de la Bomba de Protones (IBP, ej. Omeprazol o Esomeprazol) diarios, de 30 a 60 minutos antes del desayuno.",
+        "C": "Procinéticos puros (ej. Metoclopramida) antes de las comidas.",
+        "D": "Antagonistas del receptor H2 (ej. Ranitidina) en altas dosis endovenosas.",
+        "E": "Antibióticos para erradicar Helicobacter pylori."
+      },
+      "correct": "B",
+      "comment": "Los Inhibidores de la Bomba de Protones (IBP) son el pilar del tratamiento médico del ERGE. Son los supresores de ácido gástrico más potentes y eficaces, logrando las tasas más altas de curación de la esofagitis erosiva y alivio sostenido de los síntomas. Deben tomarse en ayunas para maximizar su absorción y efecto sobre las bombas activas."
+    },
+    {
+      "number": 393,
+      "code": "DIRESA26 P393",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Una joven de 16 años es llevada a emergencia por su madre. La paciente presenta amenorrea primaria (nunca ha menstruado). Al examen físico, se observa que tiene desarrollo mamario normal, genitales externos femeninos normales, pero al examen ginecológico se constata la ausencia de vagina profunda y útero (agenesia mulleriana). Su cariotipo es 46,XX. ¿Cuál es el diagnóstico de este síndrome clínico?",
+      "options": {
+        "A": "Síndrome de Turner (45,X0).",
+        "B": "Síndrome de Insensibilidad a los Andrógenos (Feminización testicular).",
+        "C": "Himen imperforado.",
+        "D": "Síndrome de Mayer-Rokitansky-Küster-Hauser.",
+        "E": "Hiperplasia suprarrenal congénita."
+      },
+      "correct": "D",
+      "comment": "El Síndrome de Mayer-Rokitansky-Küster-Hauser se caracteriza por agenesia o hipoplasia severa de las estructuras derivadas de los conductos de Müller (útero, cérvix y dos tercios superiores de la vagina) en mujeres con cariotipo normal (46,XX) y función ovárica normal. Las pacientes desarrollan caracteres sexuales secundarios femeninos normales (mamas, vello) pero consultan por amenorrea primaria."
+    },
+    {
+      "number": 394,
+      "code": "DIRESA26 P394",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Un varón de 28 años llega a urgencias tras recibir una herida por proyectil de arma de fuego (bala) en el muslo derecho. La extremidad distal (pierna y pie) se encuentra fría, pálida, sin pulsos palpables (pedio y tibial posterior ausentes) y con alteración de la sensibilidad. ¿Cuáles son los hallazgos que configuran las famosas '5 P' de la isquemia arterial aguda grave?",
+      "options": {
+        "A": "Polidipsia, Poliuria, Polifagia, Pérdida de peso, Prurito.",
+        "B": "Pain (Dolor), Pallor (Palidez), Pulselessness (Ausencia de pulso), Parestesias (Entumecimiento) y Parálisis.",
+        "C": "Palidez, Petequias, Pápulas, Prurito, Placas.",
+        "D": "Presión alta, Pulso filiforme, Palpitaciones, Pánico, Palidez.",
+        "E": "Presencia de Pus, Pirexia (fiebre), Pústulas, Periostitis, Parálisis."
+      },
+      "correct": "B",
+      "comment": "La oclusión arterial aguda (por embolia, trombosis o trauma como en este caso) genera un cuadro de isquemia crítica. La clínica clásica se resume en la nemotecnia de las '5 P' (del inglés): Pain (dolor súbito y severo), Pallor (palidez cérea o cianosis moteada), Pulselessness (ausencia de pulsos distales), Paresthesias (alteración sensitiva neurológica) y Paralysis (pérdida de la función motora, signo de isquemia avanzada e inminente pérdida de la extremidad)."
+    },
+    {
+      "number": 395,
+      "code": "DIRESA26 P395",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Una paciente puérpera que se encuentra dando de lactar acude a los 15 días postparto por presentar dolor intenso, enrojecimiento, calor y un área de induración franca en el cuadrante superior externo de la mama derecha. La paciente cursa con fiebre de 39°C. Se diagnostica Mastitis Puerperal aguda infecciosa. ¿Cuál es la indicación médica adecuada respecto a la lactancia en el lado afectado?",
+      "options": {
+        "A": "Suspender permanentemente la lactancia de ambas mamas e iniciar fórmula.",
+        "B": "Extraer la leche de la mama afectada y desecharla inmediatamente.",
+        "C": "Continuar y fomentar la lactancia materna (o extracción frecuente de leche) de la mama afectada para asegurar el vaciamiento continuo y evitar la formación de un absceso, sumado al inicio de antibioticoterapia (ej. Dicloxacilina).",
+        "D": "Aplicar vendaje compresivo apretado sobre la mama afectada para frenar la producción de leche.",
+        "E": "Iniciar corticoides orales a altas dosis antes que antibióticos."
+      },
+      "correct": "C",
+      "comment": "La mastitis puerperal (comúnmente por Staphylococcus aureus) se asocia al éstasis (retención) de la leche. El pilar del tratamiento no es suspender la lactancia, sino todo lo contrario: promover el vaciamiento mamario frecuente y eficaz mediante la succión continua del bebé o extracción manual, lo que reduce la inflamación y previene que la infección se complique en un absceso mamario. Esto debe acompañarse de antibióticos sistémicos y analgésicos."
+    },
+    {
+      "number": 396,
+      "code": "DIRESA26 P396",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Un adulto mayor es diagnosticado con Osteoartritis (Artrosis) severa de cadera y rodilla bilaterales. Clínicamente, el dolor articular de este paciente se caracteriza clásicamente por:",
+      "options": {
+        "A": "Dolor que empeora con el reposo prolongado y despierta al paciente por la noche (dolor inflamatorio).",
+        "B": "Rigidez articular matutina severa que dura más de 2 horas tras despertar.",
+        "C": "Dolor de tipo mecánico: empeora con la actividad física, la carga de peso (caminar) y mejora significativamente con el reposo.",
+        "D": "Dolor migratorio y asimétrico que afecta muñecas y articulaciones metacarpofalángicas.",
+        "E": "Dolor asociado a fiebre recurrente y nódulos subcutáneos calientes."
+      },
+      "correct": "C",
+      "comment": "La osteoartritis es una enfermedad articular degenerativa, no sistémicamente inflamatoria. Su característica cardinal es el dolor 'mecánico', que se agrava con el uso de la articulación (caminar, subir escaleras) y se alivia con el descanso. La rigidez matutina es breve (menor a 30 minutos), a diferencia de la Artritis Reumatoide (enfermedad inflamatoria) donde la rigidez dura horas y el dolor empeora con el reposo."
+    },
+    {
+      "number": 397,
+      "code": "DIRESA26 P397",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "En la atención prehospitalaria o de urgencias, si se recibe a un paciente gran quemado (quemaduras térmicas de 2do y 3er grado >20% SCQ), ¿cuál es el fluido de cristaloides de primera elección recomendado universalmente (ej. Fórmula de Parkland o ATLS) para la resucitación inicial e hidratación agresiva?",
+      "options": {
+        "A": "Suero Glucosado o Dextrosa al 5%.",
+        "B": "Solución salina hipertónica al 3%.",
+        "C": "Ringer Lactato (Solución de Hartmann) por ser isotónica y aportar amortiguadores fisiológicos.",
+        "D": "Albúmina humana al 20% desde la primera hora.",
+        "E": "Agua destilada pura endovenosa."
+      },
+      "correct": "C",
+      "comment": "En las primeras 24 horas del paciente gran quemado, el objetivo es restaurar el volumen plasmático perdido en el tercer espacio sin causar una acidosis hiperclorémica. El Ringer Lactato es el fluido cristaloide de reanimación isotónico de elección, ya que su composición iónica se asemeja al plasma y el lactato actúa como buffer (amortiguador) hepático."
+    },
+    {
+      "number": 398,
+      "code": "DIRESA26 P398",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Una mujer gestante de 10 semanas acude por sangrado vaginal oscuro escaso. Al examen ginecológico (tacto vaginal), el orificio cervical interno (OCI) se encuentra completamente cerrado y el útero tiene un tamaño correspondiente a su edad gestacional. La ecografía pélvica confirma un embrión vivo con latidos cardíacos regulares. ¿Cuál es el diagnóstico obstétrico preciso de esta entidad?",
+      "options": {
+        "A": "Aborto inevitable.",
+        "B": "Amenaza de aborto.",
+        "C": "Aborto incompleto.",
+        "D": "Aborto diferido (missed abortion).",
+        "E": "Embarazo anembrionado."
+      },
+      "correct": "B",
+      "comment": "La presencia de sangrado vaginal en la primera mitad del embarazo, asociado a un cuello uterino cerrado (OCI cerrado) y con confirmación ecográfica de vitalidad embrionaria/fetal (latidos presentes), define el cuadro clínico de 'Amenaza de Aborto'. El tratamiento es médico (reposo pélvico, observación)."
+    },
+    {
+      "number": 399,
+      "code": "DIRESA26 P399",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Un varón de 40 años presenta dispepsia y dolor urente en epigastrio ('ardor'). Se le realiza una endoscopia digestiva alta y se diagnostica Úlcera Péptica duodenal activa. La biopsia antral resulta positiva para la presencia de la bacteria Helicobacter pylori. Según las guías internacionales y nacionales, ¿cuál es el esquema empírico inicial de 'Triple Terapia' estándar recomendado para erradicar este microorganismo?",
+      "options": {
+        "A": "Bismuto + Tetraciclina + Metronidazol por 3 días.",
+        "B": "Amoxicilina + Ácido Clavulánico + Ciprofloxacino por 7 días.",
+        "C": "Inhibidor de la Bomba de Protones (IBP) a doble dosis + Amoxicilina 1g c/12h + Claritromicina 500mg c/12h, administrados durante 10 a 14 días.",
+        "D": "Omeprazol solo por 30 días continuos.",
+        "E": "Ranitidina + Azitromicina + Doxiciclina por 5 días."
+      },
+      "correct": "C",
+      "comment": "El tratamiento de erradicación de primera línea más aceptado mundialmente para H. pylori es la Terapia Triple basada en IBP: un IBP (ej. Omeprazol 20mg c/12h o Pantoprazol) asociado a dos antibióticos de amplio espectro, clásicamente Amoxicilina y Claritromicina. La duración recomendada para lograr altas tasas de erradicación es de 10 a 14 días continuos."
+    },
+    {
+      "number": 400,
+      "code": "DIRESA26 P400",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Un recién nacido por cesárea a las 38 semanas presenta de inmediato dificultad respiratoria, taquipnea (70 rpm) y leve retracción intercostal. Nació de un embarazo sin complicaciones, líquido claro. La radiografía de tórax muestra hiperinsuflación, aumento de la trama vascular pulmonar e infiltrados perihiliares ('imagen en sol naciente'), además de líquido en las cisuras. El cuadro clínico es autolimitado y mejora significativamente con oxígeno en las siguientes 48 horas. ¿Cuál es el diagnóstico respiratorio neonatal más probable?",
+      "options": {
+        "A": "Enfermedad de Membrana Hialina (Síndrome de Dificultad Respiratoria tipo I).",
+        "B": "Síndrome de Aspiración Meconial (SAM).",
+        "C": "Taquipnea Transitoria del Recién Nacido (TTRN).",
+        "D": "Hernia Diafragmática Congénita.",
+        "E": "Neumonía bacteriana congénita precoz."
+      },
+      "correct": "C",
+      "comment": "La Taquipnea Transitoria del Recién Nacido (Síndrome de dificultad respiratoria tipo II) se presenta clásicamente en recién nacidos a término o casi a término, a menudo tras cesáreas electivas (sin trabajo de parto que facilite el aclaramiento de líquido). Su fisiopatología es el retraso en la absorción del líquido pulmonar fetal. Tiene evolución benigna (se resuelve en 2 a 3 días con soporte de O2) y la placa muestra hiperinsuflación y líquido cisural."
+    }
+  ]
+}

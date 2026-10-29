@@ -1,0 +1,1609 @@
+{
+  "schemaVersion": 1,
+  "bankId": "BALOTARIO_DIRESA_PUNO_2026_401_500",
+  "title": "Balotario del 401 al 500 · DIRESA Puno 2026",
+  "source": "Balotario Médicos Cirujanos y Obstetras · DIRESA Puno · Edición 2026 · PDF proporcionado por el usuario (sin verificación externa de claves)",
+  "questionCount": 100,
+  "questions": [
+    {
+      "number": 401,
+      "code": "DIRESA26 P401",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Una gestante de 38 semanas acude a un centro de salud del primer nivel en Puno con contracciones uterinas regulares y pérdida de líquido amniótico claro por vía vaginal desde hace 4 horas. Al examen: dilatación cervical de 6 cm, dinámica uterina adecuada y feto en cefálica. Según la Guía Técnica del MINSA, ¿cómo se denomina esta fase del parto y cuál es la frecuencia mínima con la que se debe auscultar la Frecuencia Cardíaca Fetal (FCF)?",
+      "options": {
+        "A": "Fase latente; auscultación de FCF cada 60 minutos.",
+        "B": "Fase activa del primer periodo del trabajo de parto; auscultación de FCF cada 30 minutos (y cada 5-15 minutos en el expulsivo).",
+        "C": "Periodo expulsivo; auscultación de FCF cada 2 horas.",
+        "D": "Inducción fallida; auscultación cada 10 minutos exclusivamente.",
+        "E": "Prodromos de labor; no requiere monitorización fetal."
+      },
+      "correct": "B",
+      "comment": "La fase activa se inicia a los 4 cm de dilatación cervical. Durante esta etapa, las normas técnicas exigen vigilar el bienestar fetal mediante la auscultación de la FCF al menos cada 30 minutos (durante y después de la contracción), y durante el periodo expulsivo cada 5 a 15 minutos."
+    },
+    {
+      "number": 402,
+      "code": "DIRESA26 P402",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Durante la atención de un parto eutócico en un puesto de salud rural, se produce una Hemorragia Posparto (HPP) masiva por Atonía Uterina. Se activa de inmediato la 'Clave Roja'. ¿Cuál es el orden de las medidas de primera línea que debe ejecutar el equipo de salud en los primeros minutos?",
+      "options": {
+        "A": "Iniciar transfusión sanguínea inmediata, suturar el cuello uterino y dar de alta.",
+        "B": "Masaje uterino externo, vaciamiento vesical (sondaje Foley), administración de uterotónicos (Oxitocina/Ergometrina/Misoprostol) y compresión bimanual del útero.",
+        "C": "Realizar histerectomía abdominal total de urgencia sin intentar tratamiento médico.",
+        "D": "Colocar a la paciente en posición de Trendelenburg y administrar antibióticos orales.",
+        "E": "Esperar a que la placenta se expulse sola por más de 2 horas."
+      },
+      "correct": "B",
+      "comment": "El manejo inicial de la HPP por atonía (Clave Roja) es secuencial y rápido: masaje uterino externo continuo, asegurar vías EV con cristaloides, vaciar la vejiga (para permitir la contracción uterina), administrar uterotónicos pautados (Oxitocina, Ergometrina o Misoprostol) y realizar compresión bimanual o aórtica si persiste."
+    },
+    {
+      "number": 403,
+      "code": "DIRESA26 P403",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Una gestante de 36 semanas acude a su control prenatal en la DIRESA Puno refiriendo que desde hace 2 horas presenta sangrado vaginal rojo rutilante, abundante, completamente INDOLORO y sin contracciones uterinas. Al examen general, la paciente está pálida, con funciones vitales estables. ¿Cuál es el diagnóstico presuntivo que debe descartarse urgentemente mediante ecografía y en la que está formalmente CONTRAINDICADO el tacto vaginal?",
+      "options": {
+        "A": "Desprendimiento prematuro de placenta normoinserta (DPP).",
+        "B": "Rotura uterina espontánea.",
+        "C": "Placenta Previa.",
+        "D": "Vasa previa rota.",
+        "E": "Amenaza de aborto tardío."
+      },
+      "correct": "C",
+      "comment": "El sangrado vaginal rojo brillante, indoloro, que aparece de forma insidiosa en la segunda mitad del embarazo, es la presentación clínica clásica de la Placenta Previa. El tacto vaginal está contraindicado de forma absoluta porque puede desencadenar una hemorragia catastrófica al desplazar los cotiledones placentarios."
+    },
+    {
+      "number": 404,
+      "code": "DIRESA26 P404",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "En la Atención Prenatal Reenfocada (APR), la administración de suplementos es obligatoria. A partir de qué semana de gestación está normada la administración profiláctica de Calcio (1 a 2 gramos diarios) a la gestante para prevenir trastornos hipertensivos (preeclampsia), especialmente en poblaciones con ingesta dietética baja de calcio?",
+      "options": {
+        "A": "Desde el primer día de la concepción (semana 1).",
+        "B": "A partir de la semana 20 de gestación hasta el parto.",
+        "C": "Únicamente en el puerperio inmediato.",
+        "D": "Desde la semana 36 hasta el nacimiento.",
+        "E": "Solo si la gestante presenta hipertensión arterial crónica previa."
+      },
+      "correct": "B",
+      "comment": "La Organización Mundial de la Salud (OMS) y el MINSA recomiendan la suplementación con calcio (1.5 a 2 g/día) a partir de la semana 20 de gestación hasta el final del embarazo, demostrando una reducción significativa en el riesgo de preeclampsia y morbimortalidad materna."
+    },
+    {
+      "number": 405,
+      "code": "DIRESA26 P405",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Una gestante de 35 semanas acude por dolor abdominal continuo de gran intensidad, hipertonía uterina severa ('útero en madera'), sangrado vaginal oscuro escaso y signos de sufrimiento fetal agudo (bradicardia fetal severa). La paciente es hipertensa crónica mal controlada. ¿Cuál es el diagnóstico obstétrico más probable?",
+      "options": {
+        "A": "Placenta previa oclusiva total.",
+        "B": "Desprendimiento Prematuro de Placenta (DPP) normoinserta.",
+        "C": "Rotura de vasa previa.",
+        "D": "Amenaza de parto inmaduro.",
+        "E": "Inversión uterina aguda."
+      },
+      "correct": "B",
+      "comment": "El DPP se caracteriza por sangrado oscuro (a menudo oculto), dolor abdominal sordo/continuo, hipertonía uterina (útero leñoso, rígido que no relaja entre contracciones) y sufrimiento fetal agudo, presentándose frecuentemente sobre antecedentes de trastornos hipertensivos o traumatismos."
+    },
+    {
+      "number": 406,
+      "code": "DIRESA26 P406",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Durante el manejo de una paciente con Preeclampsia Severa (Clave Azul), además de la administración de Sulfato de Magnesio para prevenir convulsiones y de Nifedipino para la presión arterial, ¿cuál es el criterio obstétrico definitivo para programar la interrupción del embarazo (terminación de la gestación) independiente de la edad gestacional?",
+      "options": {
+        "A": "Esperar indefectiblemente las 40 semanas de gestación.",
+        "B": "La estabilización hemodinámica materna y el control de la crisis; una vez estabilizada la madre, la preeclampsia severa es indicación de finalizar el embarazo (vía vaginal o cesárea según condiciones).",
+        "C": "Únicamente cuando la gestante expulse el tapón mucoso.",
+        "D": "Esperar a que la paciente presente su primera convulsión eklámptica.",
+        "E": "Suspender todo tratamiento y dar alta domiciliaria."
+      },
+      "correct": "B",
+      "comment": "El único tratamiento definitivo de la preeclampsia es el nacimiento del feto y la salida de la placenta. Ante un cuadro severo, una vez estabilizada la presión arterial y controlada la paciente con sulfato de magnesio, el objetivo primordial es culminar la gestación para evitar el daño multiorgánico materno o muerte fetal."
+    },
+    {
+      "number": 407,
+      "code": "DIRESA26 P407",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "En la evaluación ecográfica del primer trimestre de la gestación, la longitud cráneo-caudal (LCC o CRL) es el parámetro biométrico más preciso para determinar la Edad Gestacional. ¿En qué rango de semanas de embarazo es más confiable y exacta esta medición ecográfica?",
+      "options": {
+        "A": "Entre la semana 28 y la semana 40.",
+        "B": "Entre la semana 20 y la semana 24.",
+        "C": "Entre la semana 7 y la semana 13 con 6 días.",
+        "D": "Únicamente en el postérmino.",
+        "E": "En las primeras 4 semanas post-fecundación."
+      },
+      "correct": "C",
+      "comment": "La biometría fetal mediante la Longitud Cráneo-Caudal (LCC) en el primer trimestre (semanas 7 a 13.6) tiene un margen de error mínimo (de solo 3 a 5 días), considerándose el estándar de oro ecográfico para fechar con exactitud la edad gestacional."
+    },
+    {
+      "number": 408,
+      "code": "DIRESA26 P408",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Un obstetra atiende un parto domiciliario en una comunidad de Puno. Al tercer periodo del parto (alumbramiento), la placenta no se expulsa espontáneamente tras 30 minutos de manejo activo y se acompaña de sangrado vaginal moderado. Se diagnostica Retención Placentaria. ¿Cuál es el procedimiento obstétrico manual normado que debe realizarse para extraer la placenta?",
+      "options": {
+        "A": "Esperar pasivamente hasta 3 horas sin intervenir.",
+        "B": "Realizar compresión externa vigorosa del fondo uterino (Maniobra de Credé violenta).",
+        "C": "Extracción manual de placenta bajo adecuada analgesia/anestesia y asepsia, introduciendo la mano en la cavidad uterina.",
+        "D": "Administrar altas dosis de antibióticos orales y derivar a los 5 días.",
+        "E": "Tracción enérgica y violenta del cordón umbilical sin control."
+      },
+      "correct": "C",
+      "comment": "Ante una retención placentaria que no responde al manejo activo y sangra, el procedimiento de urgencia indicado es la Extracción Manual de Placenta. Se realiza introduciendo la mano con los dedos juntos en el útero, localizando el plano de clivaje entre la placenta y la pared uterina para desprenderla suavemente y extraerla."
+    },
+    {
+      "number": 409,
+      "code": "DIRESA26 P409",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "El método anticonceptivo de la Lactancia Amenorrea (MELA) es altamente efectivo si cumple estrictamente tres requisitos fisiológicos básicos establecidos por la OMS y el MINSA. ¿Cuáles son estos tres criterios indispensables?",
+      "options": {
+        "A": "Que la madre sea mayor de 30 años, tenga un hijo varón y duerma 8 horas.",
+        "B": "Que el lactante sea menor de 6 meses, que la madre presente amenorrea (no haya retornado la menstruación) y que realice lactancia materna exclusiva a demanda (día y noche, sin suplementos).",
+        "C": "Que la madre consuma anticonceptivos orales combinados en paralelo.",
+        "D": "Que el parto haya sido por cesárea programada.",
+        "E": "Que el bebé duerma toda la noche de corrido sin lactar."
+      },
+      "correct": "B",
+      "comment": "El MELA (Método de Amenorrea de la Lactancia) tiene una eficacia >98% como anticonceptivo natural durante los primeros 6 meses postparto, siempre y cuando se cumpla la 'tríada de oro': lactancia materna exclusiva (y a demanda), amenorrea absoluta y que el bebé tenga menos de 6 meses."
+    },
+    {
+      "number": 410,
+      "code": "DIRESA26 P410",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Durante el puerperio inmediato, al evaluar los 'loquios' (secreciones uterinas normales posparto), la obstetra identifica que entre el 4to y 10mo día postparto los loquios cambian de coloración a un tono rosado o blanquecino-amarillento, compuestos por moco, leucocitos y restos deciduales. ¿Cómo se denominan técnicamente estos loquios?",
+      "options": {
+        "A": "Loquios rubra.",
+        "B": "Loquios serosos o alba.",
+        "C": "Loquios purulentos patológicos.",
+        "D": "Hemorragia tardía secundaria.",
+        "E": "Loquios meconiales."
+      },
+      "correct": "B",
+      "comment": "La evolución normal de los loquios se clasifica por días: 1) Loquios rubra (rojos, días 1-3, sangre y restos); 2) Loquios serosos (rosados/marrones, días 4-10, exudado, moco y leucocitos); 3) Loquios alba (blanquecinos/amarillentos, días 11-21, tejido epitelial y leucocitos)."
+    },
+    {
+      "number": 411,
+      "code": "DIRESA26 P411",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "En la consejería de planificación familiar en el marco de los Criterios Médicos de Elegibilidad (CME) de la OMS, ¿cuál de los siguientes métodos anticonceptivos hormonales está catalogado como CATEGORÍA 1 (sin restricciones para su uso) en mujeres lactantes a partir de las 6 semanas postparto?",
+      "options": {
+        "A": "Anticonceptivos orales combinados (ACO con estrógenos y progestágenos).",
+        "B": "Anillo vaginal combinado.",
+        "C": "Anticonceptivos exclusivos de progestágeno (como la ampolla trimestral de Acetato de Medroxiprogesterona, la pildora de sola progestina o el implante subdérmico).",
+        "D": "Parches anticonceptivos transdérmicos combinados.",
+        "E": "Estrógenos equinos conjugados orales."
+      },
+      "correct": "C",
+      "comment": "Los anticonceptivos hormonales combinados (con estrógenos) están contraindicados o restringidos en la lactancia temprana (Categoría 3 o 4) porque disminuyen la producción de leche y aumentan el riesgo tromboembólico. En cambio, los anticonceptivos basados solo en progestágenos (iniectable trimestral, implantes, minipíldora) son Categoría 1 o 2 a partir de las 6 semanas posparto, siendo totalmente seguros."
+    },
+    {
+      "number": 412,
+      "code": "DIRESA26 P412",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Una gestante acude a su control prenatal en Puno y se le diagnostica infección urinaria alta (Pielonefritis aguda) a las 26 semanas de gestación. Presenta fiebre alta, escalofríos y dolor en la fosa renal (puño percusión positiva). Según los protocolos de atención materna, ¿cuál es el manejo inicial hospitalario mandatorio?",
+      "options": {
+        "A": "Manejo ambulatorio con Ciprofloxacino oral por 7 días.",
+        "B": "Hospitalización inmediata, hidratación parenteral estricta y administración de antibióticos endovenosos (ej. Cefalosporinas de 3era generación como Ceftriaxona).",
+        "C": "Inducción inmediata del parto por cesárea.",
+        "D": "Administrar solo antipiréticos y reposo en domicilio.",
+        "E": "Tratamiento con Tetraciclina oral."
+      },
+      "correct": "B",
+      "comment": "La pielonefritis aguda en la gestante es una condición grave que puede desencadenar sepsis, shock séptico y parto prematuro. El manejo exige hospitalización obligatoria, hidratación intravenosa y cobertura antibiótica parenteral con fármacos seguros en el embarazo (Ceftriaxona)."
+    },
+    {
+      "number": 413,
+      "code": "DIRESA26 P413",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Durante el trabajo de parto en un establecimiento I-4, al realizar el tacto vaginal, la obstetra palpa la fontanela mayor (anterior) en forma de rombo y la sutura sagital. ¿Qué presentación fetal se describe en este hallazgo clínico?",
+      "options": {
+        "A": "Presentación de cara.",
+        "B": "Presentación de frente.",
+        "C": "Presentación cefálica de vértice (occipucio bien flexionada).",
+        "D": "Presentación podálica franca.",
+        "E": "Presentación de hombros."
+      },
+      "correct": "B",
+      "comment": "En la presentación de frente, la cabeza fetal se encuentra en una actitud de deflexión moderada (ni flexionada ni extendida del todo). El punto de diagnóstico clínico al tacto vaginal es la palpación de la fontanela anterior (romboidea) y la raíz nasal (nasión), a diferencia del vértice donde se palpa el occipucio y la fontanela posterior (triangular)."
+    },
+    {
+      "number": 414,
+      "code": "DIRESA26 P414",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "En la prevención de defectos del tubo neural (como espina bífida y anencefalia), ¿cuál es la recomendación normada por el MINSA respecto a la suplementación con Ácido Fólico en mujeres en edad fértil que planean un embarazo o durante el periodo preconcepcional?",
+      "options": {
+        "A": "5 mg diarios iniciados recién al confirmar el atraso menstrual (semana 6).",
+        "B": "400 microgramos (0.4 mg) diarios por lo menos 3 meses antes de la concepción y durante el primer trimestre del embarazo.",
+        "C": "Una dosis única masiva de 10 mg al año.",
+        "D": "Solo suplementación dietética mediante consumo de cítricos.",
+        "E": "50 mg diarios durante todo el embarazo."
+      },
+      "correct": "B",
+      "comment": "La prevención primaria de los defectos del tubo neural requiere concentraciones adecuadas de folatos antes del cierre del tubo neural embrionario (que ocurre en las primeras 4 semanas de gestación). Por ello, la norma indica suplementar con 0.4 mg (400 mcg) diarios de ácido fólico al menos 3 meses antes de concebir y durante el primer trimestre."
+    },
+    {
+      "number": 415,
+      "code": "DIRESA26 P415",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Una paciente puérpera de 10 días acude por dolor mamario severo, zona indurada con eritema y fiebre de 39.5°C. Se diagnostica Absceso Mamario puerperal. Además del inicio de la antibioticoterapia específica contra Staphylococcus aureus, ¿qué procedimiento quirúrgico obstétrico menor es indispensable realizar en el establecimiento para la resolución del cuadro?",
+      "options": {
+        "A": "Mastectomía radical bilateral.",
+        "B": "Drenaje quirúrgico (incisión y evacuación del pus) bajo anestesia local, evitando la areola.",
+        "C": "Liguero compresivo de mamas sin vaciamiento.",
+        "D": "Legrado uterino instrumental.",
+        "E": "Colocación de prótesis de silicona."
+      },
+      "correct": "B",
+      "comment": "A diferencia de la mastitis (que solo requiere antibióticos y vaciamiento), el absceso mamario se caracteriza por una colección purulenta fluctuante. Su tratamiento definitivo exige el drenaje quirúrgico mediante una incisión radial (siguiendo los conductos galactóforos para no cortarlos), evacuación del material purulento y colocación de drenaje, asociado a antibióticos."
+    },
+    {
+      "number": 416,
+      "code": "DIRESA26 P416",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "En el control prenatal, la estimación de la edad gestacional mediante la 'Altura Uterina' medida con cinta métrica flexible (Maniobra de Puzos / Regla de Johnson o correlación centilada) es una herramienta clínica rápida. A las 20 semanas de gestación normal, ¿cuál es el valor aproximado esperado de la altura uterina?",
+      "options": {
+        "A": "10 a 12 cm, apenas palpable sobre la sínfisis púbica.",
+        "B": "Alrededor de 20 cm (al nivel de la cicatriz umbilical).",
+        "C": "35 a 38 cm (a nivel del apéndice xifoides).",
+        "D": "5 cm por debajo del ombligo.",
+        "E": "No es medible por cinta hasta las 28 semanas."
+      },
+      "correct": "B",
+      "comment": "La correlación clínica clásica de la altura uterina indica que entre las semanas 20 y 32 de gestación, la medida en centímetros coincide casi exactamente con las semanas de embarazo (± 2 cm). A las 20 semanas, el fondo uterino alcanza exactamente la cicatriz umbilical."
+    },
+    {
+      "number": 417,
+      "code": "DIRESA26 P417",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Durante el trabajo de parto, al evaluar la 'Dinámica Uterina' mediante la palpación manual durante 10 minutos completos, se considera que la labor de parto se encuentra en un régimen normosistólico (adecuado para un progreso normal) cuando se presentan:",
+      "options": {
+        "A": "1 a 2 contracciones en 10 minutos, de corta duración.",
+        "B": "3 a 5 contracciones en 10 minutos, con una duración de 40 a 60 segundos y buena intensidad.",
+        "C": "Más de 8 contracciones en 10 minutos (taquisistolia).",
+        "D": "Contracciones irregulares que desaparecen al reposo.",
+        "E": "Una sola contracción continua de 10 minutos (tetania uterina)."
+      },
+      "correct": "B",
+      "comment": "La dinámica uterina óptima y fisiológica en el trabajo de parto activo se define por la presencia de 3 a 5 contracciones en un periodo de 10 minutos, con una duración clínica de 40 a 60 segundos, tono uterino normal en reposo y buena intensidad (palpación dura). Menos de 3 es hiposistolia; más de 5 es taquisistolia."
+    },
+    {
+      "number": 418,
+      "code": "DIRESA26 P418",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Una gestante de 36 semanas acude a emergencia con contracciones uterinas dolorosas cada 3 minutos. Al examen ginecológico, el cuello uterino presenta borramiento del 80% y dilatación cervical de 8 cm. Las membranas amnióticas están integras. ¿Cuál es el diagnóstico obstétrico preciso?",
+      "options": {
+        "A": "Falsa labor de parto (Trabajo de parto falso).",
+        "B": "Amenaza de parto prematuro.",
+        "C": "Trabajo de parto en fase activa avanzada (segundo periodo del primer estadio o fase de aceleración máxima).",
+        "D": "Parto precipitado ya concluido.",
+        "E": "Distocia de hombros."
+      },
+      "correct": "C",
+      "comment": "La fase activa avanzada o de dilatación completa/cercana a ella se define cuando la gestante supera los 7-8 cm de dilatación cervical con contracciones regulares y dinámicas eficaces, camino a la fase expulsiva."
+    },
+    {
+      "number": 419,
+      "code": "DIRESA26 P419",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "En la atención del parto institucional, para la prevención activa de la Hemorragia Posparto (HPP) durante el tercer periodo del parto (alumbramiento), la guía técnica nacional recomienda la administración obligatoria de un fármaco uterotónico profiláctico. ¿Cuál es este fármaco, la dosis y el momento exacto de administración?",
+      "options": {
+        "A": "Metilergonovina 0.2 mg IM antes de que nazba la cabeza fetal.",
+        "B": "Oxitocina 10 UI por vía intramuscular (o endovenosa lenta), administrada inmediatamente después de la salida del hombro anterior del feto (o tras el nacimiento del recién nacido).",
+        "C": "Misoprostol 800 mcg vía oral a las 2 horas del parto.",
+        "D": "Cloruro de sodio al 0.9% en infusión lenta sin fármacos.",
+        "E": "Gluconato de calcio en bolo al cortar el cordón."
+      },
+      "correct": "B",
+      "comment": "El Manejo Activo del Tercer Periodo del Parto (MATEP) incluye tres pasos: 1) Administración de 10 UI de Oxitocina IM (o EV lenta) tras la salida del hombro anterior del feto; 2) Tracción controlada del cordón umbilical; 3) Masaje uterino externo post-alumbramiento. Esto reduce drásticamente la incidencia de HPP por atonía."
+    },
+    {
+      "number": 420,
+      "code": "DIRESA26 P420",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Una paciente puérpera de 3 semanas acude a consulta por fiebre de 38.5°C, dolor y enrojecimiento en la pantorrilla derecha, asociada a edema (hinchazón) y aumento de la temperatura local del miembro inferior, con signo de Homans positivo (dolor en la pantorrilla al realizar dorsiflexión pasiva del pie). ¿Cuál es la sospecha diagnóstica principal y el examen auxiliar inicial de elección?",
+      "options": {
+        "A": "Celulitis superficial de pierna; cultivo de piel.",
+        "B": "Trombosis Venosa Profunda (TVP); Ecografía Doppler venosa de miembros inferiores.",
+        "C": "Artritis séptica de rodilla; artrocentesis.",
+        "D": "Rotura fibrilar del gemelo; radiografía ósea.",
+        "E": "Neuropatía periférica puerperal; electromiografía."
+      },
+      "correct": "B",
+      "comment": "El estado de hipercoagulabilidad fisiológica del embarazo y puerperio, sumado a la estasis venosa, predispone a la Tromboembolismo Venoso (TEV). La clínica de edema unilateral de extremidad, dolor en pantorrilla y signo de Homans positivo es altamente sugerente de Trombosis Venosa Profunda (TVP), cuyo examen diagnóstico no invasivo inicial y de elección es el Ultrasonido Doppler venoso."
+    },
+    {
+      "number": 421,
+      "code": "DIRESA26 P421",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Una gestante de 37 semanas acude a un centro de salud del nivel I-4 por contracciones uterinas regulares. Durante el monitoreo fetal electrónico (Monitoreo No Estresante - NST), la obstetra identifica una deceleración que comienza al mismo tiempo que la contracción uterina y se recupera al finalizar la misma, con un descenso leve y simétrico de la frecuencia cardíaca. ¿Cómo se clasifica esta alteración del registro fetal y cuál es su significado fisiopatológico habitual?",
+      "options": {
+        "A": "Deceleración variable; compresión del cordón umbilical.",
+        "B": "Deceleración temprana (DIP I); compresión de la cabeza fetal durante la contracción uterina (reflejo vagal benigno).",
+        "C": "Deceleración tardía (DIP II); hipoxia uteroplacentaria grave.",
+        "D": "Taquicardia fetal severa por fiebre materna.",
+        "E": "Patrón sinusoidal asociado a anemia fetal severa."
+      },
+      "correct": "B",
+      "comment": "Las deceleraciones tempranas (DIP I) coinciden exactamente con el inicio y fin de la contracción uterina (imagen en espejo). Son benignas y reflejan compresión de la cabeza fetal contra el cuello uterino, desencadenando un reflejo vagal fisiológico que no denota hipoxia ni sufrimiento fetal."
+    },
+    {
+      "number": 422,
+      "code": "DIRESA26 P422",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "En la atención de un parto eutócico institucional, el tercer periodo del parto (alumbramiento) transcurre con normalidad aplicando el MATEP (Manejo Activo). Sin embargo, al inspeccionar cuidadosamente la placenta expulsada, la obstetra nota la ausencia de un cotiledón y fragmentos de membranas incompletas. ¿Cuál es el diagnóstico presuntivo y la conducta inmediata normada?",
+      "options": {
+        "A": "Placenta acreta; programar histerectomía de inmediato.",
+        "B": "Retención de restos placentarios; realizar revisión manual de cavidad uterina bajo asepsia y analgesia para extraer los fragmentos restantes y evitar hemorragia tardía.",
+        "C": "Dar de alta a la paciente y citar en 40 días.",
+        "D": "Administrar Ergonovina IM y esperar expulsión espontánea en el domicilio.",
+        "E": "Realizar legrado uterino sin anestesia en el mismo tópico."
+      },
+      "correct": "B",
+      "comment": "La inspección meticulosa de la placenta y membranas es obligatoria. La sospecha o evidencia de cotiledones faltantes o restos retenidos exige realizar una revisión instrumental o manual de la cavidad uterina para evacuar el tejido desidual o placentario remanente, previniendo la hemorragia puerperal secundaria y la endometritis."
+    },
+    {
+      "number": 423,
+      "code": "DIRESA26 P423",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Una gestante de 32 semanas acude a su control prenatal refiriendo disminución de movimientos fetales en las últimas 12 horas. Se le realiza un Monitoreo Fetal Electrónico (NST) que resulta 'No Reactivo' tras 40 minutos de trazo. ¿Cuál es el siguiente paso clínico inmediato que debe seguir el establecimiento de salud?",
+      "options": {
+        "A": "Dar de alta a la paciente y recomendarle comer chocolates.",
+        "B": "Realizar una prueba complementaria de mayor complejidad, como un Perfil Biofísico ecográfico o una Prueba de Tolosa/Contracciones, para valorar el bienestar fetal real.",
+        "C": "Inducir el parto por cesárea de emergencia de inmediato.",
+        "D": "Esperar 7 días para repetir el NST.",
+        "E": "Administrar corticoides y dar de alta."
+      },
+      "correct": "B",
+      "comment": "Un NST no reactivo no es sinónimo absoluto de sufrimiento fetal, pero indica un feto potencialmente en riesgo o en sueño profundo. El protocolo exige ampliar el estudio de bienestar fetal mediante pruebas de mayor sensibilidad, como el Perfil Biofísico ecográfico (PBF) o la prueba estresante."
+    },
+    {
+      "number": 424,
+      "code": "DIRESA26 P424",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Una puérpera a los 3 días de parto eutócico institucional presenta dolor mamario bilateral difuso, aumento de volumen de ambas mamas, calor local y febrícula de 37.8°C. Las mamas están turgentes pero con salida de leche fluida al presionar. ¿Cuál es el diagnóstico clínico más probable y su manejo indicado?",
+      "options": {
+        "A": "Mastitis infecciosa purulenta; iniciar Dicloxacilina.",
+        "B": "Ingurgitación mamaria fisiológica (bajada de la leche); manejo con compresas tibias antes de lactar, masajes suaves, vaciamiento frecuente y analgésicos condicionales.",
+        "C": "Absceso mamario bilateral; drenaje quirúrgico urgente.",
+        "D": "Galactocele infectado; punción aspirativa con aguja fina.",
+        "E": "Cáncer de mama inflamatorio del embarazo."
+      },
+      "correct": "B",
+      "comment": "La ingurgitación mamaria bilateral ocurre comúnmente entre el 2do y 4to día postparto por congestión vascular y linfática asociada al inicio de la secreción láctea masiva. Se diferencia de la mastitis infecciosa (unilateral, localizada, fiebre alta) en que es bilateral, simétrica y cede con el vaciamiento adecuado y calor local."
+    },
+    {
+      "number": 425,
+      "code": "DIRESA26 P425",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Durante el control prenatal de una gestante primigesta de 28 semanas, la obstetra registra su presión arterial en dos ocasiones separadas por 6 horas, obteniendo 140/90 mmHg y 145/95 mmHg respectivamente. No presenta proteinuria en tira reactiva ni edemas generalizados, y niega cefalea o trastornos visuales. ¿Cómo se clasifica este trastorno hipertensivo según los criterios obstétricos?",
+      "options": {
+        "A": "Hipertensión arterial crónica previa.",
+        "B": "Preeclampsia severa.",
+        "C": "Hipertensión gestacional (o inducida por el embarazo sin proteinuria).",
+        "D": "Eclampsia prodrómica.",
+        "E": "Hipertensión de bata blanca transitoria."
+      },
+      "correct": "C",
+      "comment": "La Hipertensión Gestacional se define como la aparición de hipertensión arterial (PAS ≥ 140 o PAD ≥ 90 mmHg) por primera vez después de la semana 20 de gestación, en una mujer previamente normotensa, pero sin proteinuria significativa ni daño a órgano blanco (de lo contrario, sería preeclampsia)."
+    },
+    {
+      "number": 426,
+      "code": "DIRESA26 P426",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Una gestante acude al centro de salud cursando la semana 34 de embarazo con contracciones uterinas regulares dolorosas. Al examen ginecológico, el cuello uterino presenta 80% de borramiento y 3 cm de dilatación. Las membranas amnióticas están integras. No hay signos de infección ni sangrado severo. ¿Cuál es el diagnóstico obstétrico y el objetivo farmacológico inicial prioritario en este escenario?",
+      "options": {
+        "A": "Trabajo de parto a término; acelerar el parto con oxitocina.",
+        "B": "Amenaza de parto prematuro (APP); frenar temporalmente la dinámica uterina con tocolíticos y administrar corticoides para maduración pulmonar fetal.",
+        "C": "Aborto inevitable; realizar legrado uterino.",
+        "D": "Óbito fetal; inducir el parto.",
+        "E": "Falsa labor; enviar a domicilio sin medicación."
+      },
+      "correct": "B",
+      "comment": "La Amenaza de Parto Prematuro (APP) entre las semanas 22 y 36.6 requiere una intervención oportuna: usar tocolíticos (como Nifedipino) para inhibir temporalmente las contracciones y ganar el tiempo necesario (48 horas) para completar la maduración pulmonar fetal con corticoides (Betametasona o Dexametasona)."
+    },
+    {
+      "number": 427,
+      "code": "DIRESA26 P427",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "En la atención inmediata del recién nacido en el centro de salud, tras el nacimiento y la evaluación inicial de que el bebé llora vigorosamente, respira bien y tiene buen tono muscular, ¿cuál es la primera práctica de intervención normada que debe realizarse antes de proceder a la antropometría (pesar y medir)?",
+      "options": {
+        "A": "Bañar al recién nacido con agua fría para estimular la respiración.",
+        "B": "Colocación inmediata del recién nacido sobre el tórax desnudo de la madre (contacto piel a piel) para favorecer la termorregulación, el vínculo y el inicio precoz de la lactancia materna.",
+        "C": "Administrar fórmula láctea en biberón.",
+        "D": "Trasladar al neonato a la nursery aislada de la madre por 6 horas.",
+        "E": "Aplicar gotas de nitrato de plata al 2% en los ojos de manera obligatoria."
+      },
+      "correct": "B",
+      "comment": "El contacto piel a piel inmediato y continuo (al menos por 50 a 60 minutos) en recién nacidos sanos es una intervención basada en evidencia que previene la hipotermia, estabiliza la glucemia, reduce el llanto y promueve el éxito de la lactancia materna exclusiva."
+    },
+    {
+      "number": 428,
+      "code": "DIRESA26 P428",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Una paciente usuaria del DIU de cobre (T de Cobre 380A) acude a consulta refiriendo que desde la inserción del dispositivo hace 3 meses presenta dolor cólico menstrual moderado y un incremento notable en la cantidad y duración de sus reglas (menorragia). ¿Cuál es la conducta de consejería y manejo clínico inicial apropiada por parte de la obstetra?",
+      "options": {
+        "A": "Retirar de inmediato el DIU y prohibir el uso de métodos intrauterinos para siempre.",
+        "B": "Explicar que el sangrado abundante y los cólicos leves son efectos secundarios frecuentes y benignos del DIU de cobre durante los primeros meses; si son bien tolerados, se puede recetar antiinflamatorios (AINEs como Ácido Mefenámico o Ibuprofeno) durante la menstruación para disminuir el sangrado y el dolor.",
+        "C": "Iniciar anticonceptivos orales combinados en altas dosis sin retirar el DIU.",
+        "D": "Derivar a cirugía de histerectomía total de urgencia.",
+        "E": "Realizar un legrado uterino diagnóstico en el tópico."
+      },
+      "correct": "B",
+      "comment": "El efecto colateral clásico del DIU de cobre es el aumento del flujo menstrual (menorragia) y la dismenorrea leve durante los primeros 3 a 6 meses de adaptación. Si la paciente no presenta anemia severa ni infección, el manejo consiste en consejería de reaseguro y el uso de AINEs (como el ácido mefenámico, que reduce la pérdida sanguínea menstrual)."
+    },
+    {
+      "number": 429,
+      "code": "DIRESA26 P429",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Una gestante de 11 semanas acude a emergencia con sangrado vaginal moderado y dolor cólico intenso en hipogastrio. Al examen ginecológico, el orificio cervical interno (OCI) se encuentra abierto y se visualizan restos ovulares en el canal cervical. ¿Cuál es el diagnóstico obstétrico preciso?",
+      "options": {
+        "A": "Amenaza de aborto.",
+        "B": "Aborto inevitable.",
+        "C": "Aborto incompleto.",
+        "D": "Aborto retenido.",
+        "E": "Embarazo ectópico integro."
+      },
+      "correct": "C",
+      "comment": "El Aborto Incompleto se caracteriza por la expulsión parcial de los productos de la concepción, con persistencia de restos en la cavidad uterina o el canal cervical, manifestándose clínicamente con sangrado persistente, dolor y OCI permeable."
+    },
+    {
+      "number": 430,
+      "code": "DIRESA26 P430",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "En la evaluación clínica de la pelvis materna para determinar el pronóstico del parto vaginal, ¿cuál de los siguientes diámetros del estrecho superior de la pelvis es el obstétricamente más importante y el que se utiliza como referencia para calcular el 'conjugado diagonal' mediante el tacto vaginal?",
+      "options": {
+        "A": "Diámetro transverso máximo.",
+        "B": "Diámetro bicipital.",
+        "C": "Conjugado obstétrico (o verdadero de Moir), delimitado entre el promontorio sacro y la cara posterior de la sínfisis púbica.",
+        "D": "Diámetro biciático.",
+        "E": "Diámetro interspinoso."
+      },
+      "correct": "C",
+      "comment": "El conjugado obstétrico (o verdadero) es el diámetro anteroposterior más corto del estrecho superior (mide aproximadamente 10.5 cm o más) y representa el límite espacial crítico por el que debe pasar la presentación fetal. Como no se puede medir directamente por tacto, se calcula indirectamente midiendo el conjugado diagonal y restándole 1.5 a 2 cm."
+    },
+    {
+      "number": 431,
+      "code": "DIRESA26 P431",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Durante el trabajo de parto, al evaluar los planos de Hodge para determinar el nivel de descenso de la presentación fetal (cabeza del feto), si el borde inferior del pubis coincide exactamente con la parte más saliente de la presentación fetal, ¿en qué plano de Hodge se encuentra el feto?",
+      "options": {
+        "A": "Primer plano de Hodge.",
+        "B": "Segundo plano de Hodge.",
+        "C": "Tercer plano de Hodge.",
+        "D": "Cuarto plano de Hodge.",
+        "E": "Por encima del estrecho superior."
+      },
+      "correct": "C",
+      "comment": "Los planos de Hodge dividen la pelvis en 4 niveles paralelos: 1er plano (borde superior del pubis al promontorio); 2do plano (borde inferior del pubis a S2); 3er plano (nivel de las espinas ciáticas, donde la presentación está 'encajada'); 4to plano (punta del coxis). El tercer plano coincide con la parte más baja de la presentación a nivel de las espinas ciáticas."
+    },
+    {
+      "number": 432,
+      "code": "DIRESA26 P432",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Una gestante multípara acude a control prenatal. En su historia clínica se observa que tuvo dos cesáreas anteriores previas. ¿Cuál es el riesgo obstétrico principal asociado a la presencia de múltiples cicatrices uterinas previas al enfrentarse a un nuevo embarazo?",
+      "options": {
+        "A": "Mayor probabilidad de diabetes gestacional temprana.",
+        "B": "Riesgo elevado de anomalías cromosómicas fetales.",
+        "C": "Aumento significativo del riesgo de Placenta Acreta (inserción anormal invasiva de la placenta en la cicatriz previa) y rotura uterina.",
+        "D": "Hipotiroidismo gestacional autoinmune.",
+        "E": "Crecimiento fetal intrauterino restringido simétrico."
+      },
+      "correct": "C",
+      "comment": "El antecedente de cirugías uterinas previas (especialmente cesáreas) daña el endometrio basal y miometrio. Esto genera el principal factor de riesgo para el espectro de Acretismo Placentario (placenta acreta, increta o percreta), donde la placenta invade anormalmente la pared uterina, además de aumentar el riesgo de rotura uterina durante la labor."
+    },
+    {
+      "number": 433,
+      "code": "DIRESA26 P433",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "En la atención de una emergencia obstétrica por Trastornos Hipertensivos (Clave Azul), si una paciente presenta un cuadro de Eclampsia (convulsiones tónico- clónicas), ¿cuál es la dosis de mantenimiento normada de Sulfato de Magnesio que debe administrarse tras haber aplicado la dosis de ataque?",
+      "options": {
+        "A": "1 gramo endovenoso cada minuto por 24 horas.",
+        "B": "1 a 2 gramos por hora en infusión continua endovenosa (o 5 gramos intramuscular cada 4 horas alternando glúteos, previa evaluación de reflejos).",
+        "C": "10 gramos por vía oral cada 12 horas.",
+        "D": "No requiere mantenimiento tras la dosis de ataque.",
+        "E": "20 gramos en bolo directo cada 6 horas."
+      },
+      "correct": "B",
+      "comment": "Tras la dosis de ataque de Sulfato de Magnesio (4g EV), el mantenimiento normado para prevenir nuevas crisis convulsivas es de 1 a 2 gramos por hora en infusión continua endovenosa (o esquema intramuscular de 5g c/4h), monitoreando estrictamente diuresis, reflejos patelares y frecuencia respiratoria."
+    },
+    {
+      "number": 434,
+      "code": "DIRESA26 P434",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Una mujer acude a consulta de planificación familiar solicitando un método anticonceptivo de larga duración (LARCs). Se le coloca un Implante Subdérmico de Etonogestrel (Implanon / Jadelle). ¿Cuál es el mecanismo de acción anticonceptivo principal de este dispositivo hormonal?",
+      "options": {
+        "A": "Inhibición de la ovulación, engrosamiento del moco cervical (impidiendo el paso de los espermatozoides) y atrofia endometrial.",
+        "B": "Destrucción directa de los espermatozoides en la cavidad vaginal por efecto espermicida del plástico.",
+        "C": "Inducción de contracciones uterinas continuas para expulsar el óvulo fecundado.",
+        "D": "Neutralización hormonal del pH ácido de la vagina.",
+        "E": "Bloqueo mecánico exclusivo del conducto deferente."
+      },
+      "correct": "A",
+      "comment": "Los implantes subdérmicos de progestágeno actúan principalmente inhibiendo la ovulación, espesando el moco cervical (creando una barrera infranqueable para los espermatozoides) y modificando el endometrio, volviéndolo atrófico e incapaz de permitir la implantación."
+    },
+    {
+      "number": 435,
+      "code": "DIRESA26 P435",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Durante el trabajo de parto, al realizar la evaluación clínica mediante las Maniobras de Leopold, la obstetra palpa el fondo uterino encontrando una masa blanda, irregular y depresible (pelota blanda). En el flanco derecho palpa una superficie dura, lisa y resistente (dorso), y en la sínfisis púbica percibe una masa dura, redondeada y balotable (cabeza fetal). ¿Qué situación, presentación y posición fetal describen estos hallazgos?",
+      "options": {
+        "A": "Situación transversa, presentación de hombro izquierdo.",
+        "B": "Situación longitudinal, presentación cefálica, dorso derecho.",
+        "C": "Situación longitudinal, presentación podálica, dorso izquierdo.",
+        "D": "Situación oblicua inestable.",
+        "E": "Embarazo gemelar bicorial."
+      },
+      "correct": "B",
+      "comment": "Análisis de las Maniobras de Leopold: 1era maniobra (fondo uterino con polo blando/nalgas) = presentación cefálica; 2da maniobra (dorso duro a la derecha y extremidades pequeñas a la izquierda) = dorso derecho; 3era/4ta maniobra (pelviana cefálica libre o encajada) confirma presentación cefálica en situación longitudinal."
+    },
+    {
+      "number": 436,
+      "code": "DIRESA26 P436",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Un recién nacido a término presenta a los 5 minutos de vida una frecuencia cardíaca de 120 lpm, respiración regular con llanto vigoroso, flexión activa de las extremidades, mueca y llanto ante el estímulo de la succión, y coloración rosada en todo el cuerpo (sin acrocianosis). ¿Cuál es el puntaje total del Test de Apgar a los 5 minutos?",
+      "options": {
+        "A": "Apgar de 6 puntos.",
+        "B": "Apgar de 8 puntos.",
+        "C": "Apgar de 10 puntos.",
+        "D": "Apgar de 5 puntos.",
+        "E": "Apgar de 7 puntos."
+      },
+      "correct": "C",
+      "comment": "Cálculo del Test de Apgar (5 min): 1) Frecuencia cardíaca >100 lpm = 2; 2) Esfuerzo respiratorio (llanto vigoroso) = 2; 3) Tono muscular (flexión activa) = 2; 4) Irritabilidad reflejo (estímulo con mueca/llanto) = 2; 5) Color (completamente rosado sin cianosis) = 2. Total = 10 / 10 puntos."
+    },
+    {
+      "number": 437,
+      "code": "DIRESA26 P437",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Una paciente puérpera de 7 días acude a consulta por dolor intenso, enrojecimiento y calor en la pantorrilla izquierda, con edema moderado. Se le realiza una ecografía Doppler venosa que confirma una Trombosis Venosa Profunda (TVP) distal de miembros inferiores. La paciente se encuentra lactando exclusivamente a su hijo de 7 días. ¿Cuál es el tratamiento anticoagulante de elección seguro y normado durante la lactancia materna?",
+      "options": {
+        "A": "Warfarina sódica a dosis altas desde el primer día.",
+        "B": "Anticoagulantes orales directos (Apixaban o Rivaroxaban) en dosis única.",
+        "C": "Heparinas de Bajo Peso Molecular (HBPM, ej. Enoxaparina subcutánea) o Heparina no fraccionada (las heparinas no se excretan en la leche materna y son seguras en la lactancia).",
+        "D": "Ácido acetilsalicílico (Aspirina) a dosis antiagregante.",
+        "E": "Fibrinolíticos sistémicos con Alteplasa."
+      },
+      "correct": "C",
+      "comment": "Las Heparinas de Bajo Peso Molecular (como la Enoxaparina) son de gran tamaño molecular y no se excretan en la leche materna, por lo que no ejercen efectos anticoagulantes en el lactante, constituyendo el tratamiento de elección para la TVP durante el embarazo y la lactancia (la warfarina también se puede usar, pero requiere monitoreo estricto de RIN)."
+    },
+    {
+      "number": 438,
+      "code": "DIRESA26 P438",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Durante el trabajo de parto en un centro de salud, se produce una Distocia de Hombros (la cabeza fetal ha salido, pero el hombro anterior queda impactado detrás de la sínfisis del pubis). ¿Cuál es la primera maniobra obstétrica sencilla y de rápida ejecución que debe realizar el equipo de salud (primer escalón de manejo)?",
+      "options": {
+        "A": "Maniobra de Zavanelli (reemplazo cefálico y cesárea de emergencia).",
+        "B": "Maniobra de McRoberts (hiperflexión y abducción extrema de las piernas de la madre sobre el abdomen).",
+        "C": "Sinfisiotomía quirúrgica abierta.",
+        "D": "Presión fúndica externa violenta.",
+        "E": "Extracción manual con fórceps medio."
+      },
+      "correct": "B",
+      "comment": "Ante una distocia de hombros, la primera maniobra recomendada por su alta tasa de éxito y facilidad es la Maniobra de McRoberts. Consiste en la hiperflexión de las piernas de la madre sobre su abdomen, lo que aplana el promontorio sacro y endereza el ángulo pélvico, desimpactando el hombro anterior sin requerir fuerza bruta."
+    },
+    {
+      "number": 439,
+      "code": "DIRESA26 P439",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Una gestante acude a su control prenatal en la DIRESA Puno. Se le realiza una ecografía obstétrica de rutina a las 32 semanas que reporta 'Placenta Previa Oclusiva Total'. ¿Cuál es la conducta obstétrica definitiva respecto a la vía de finalización del embarazo al llegar al término (37-38 semanas)?",
+      "options": {
+        "A": "Parto vaginal asistido con oxitocina.",
+        "B": "Parto vertical con adecuación intercultural.",
+        "C": "Cesárea electiva programada antes del inicio del trabajo de parto, debido a que la placenta ocluye totalmente el orificio cervical interno.",
+        "D": "Esperar parto espontáneo domiciliario.",
+        "E": "Inducción con prostaglandinas tópicas vaginales."
+      },
+      "correct": "C",
+      "comment": "La presencia de una placenta previa oclusiva (parcial o total) constituye una indicación absoluta y categórica de Cesárea Electiva programada (alrededor de la semana 37-38), ya que intentar un parto vaginal provocaría una hemorragia masiva incontrolable incompatible con la vida materna y fetal."
+    },
+    {
+      "number": 440,
+      "code": "DIRESA26 P440",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "En el manejo sindrómico de las Infecciones de Transmisión Sexual (ITS) en mujeres, si una paciente acude por Úlcera Genital (ej. sospecha de Sífilis o Chancro Blandos), ¿cuál es la pauta de tratamiento normada por el MINSA que debe aplicarse en la misma consulta clínica?",
+      "options": {
+        "A": "Administrar simultáneamente una dosis única de Penicilina G Benzatínica 2.4 millones UI IM (para sífilis) y Azitromicina 1g vía oral (para chancro blando), cubriendo las causas más comunes de úlceras genitales.",
+        "B": "Esperar 20 días el resultado de la serología antes de dar cualquier fármaco.",
+        "C": "Aplicar óvulos vaginales de Nistatina.",
+        "D": "Indicar únicamente baños de asiento con manzanilla fría.",
+        "E": "Derivar a cirugía plástica reconstructiva."
+      },
+      "correct": "A",
+      "comment": "El manejo sindrómico de úlceras genitales busca tratar en la primera visita las etiologías más frecuentes y graves (Treponema pallidum y Haemophilus ducreyi). Por ello, el protocolo estándar de primera línea del MINSA indica administrar de manera combinada Penicilina G Benzatínica y Azitromicina en la misma consulta."
+    },
+    {
+      "number": 441,
+      "code": "DIRESA26 P441",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Una gestante acude al Puesto de Salud de Juli con 39 semanas de embarazo en fase latente prolongada. La obstetra decide realizar el Test de Capurro a su recién nacido tras el parto para determinar la Edad Gestacional. ¿Cuáles son los cinco parámetros somáticos (físicos) que evalúa estrictamente el Test de Capurro?",
+      "options": {
+        "A": "Frecuencia cardíaca, esfuerzo respiratorio, tono muscular, reflejos y color.",
+        "B": "Peso al nacer, talla, perímetro cefálico, perímetro torácico y perímetro abdominal.",
+        "C": "Forma de la oreja (pabellón), tamaño de la glándula mamaria, formación del pezón, textura de la piel y pliegues plantares.",
+        "D": "Postura, ventana cuadrada (muñeca), rebote del brazo, ángulo poplíteo y maniobra de la bufanda.",
+        "E": "Reflejo de Moro, succión, prensión palmar, marcha automática y Babinski."
+      },
+      "correct": "C",
+      "comment": "El Test de Capurro Somático es la herramienta clínica neonatal rápida para calcular la edad gestacional basada en la madurez física. Evalúa 5 signos: la forma del pabellón auricular, el tamaño del nódulo mamario, la formación de la areola/pezón, la textura de la piel y la presencia de pliegues en la planta del pie."
+    },
+    {
+      "number": 442,
+      "code": "DIRESA26 P442",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Durante el seguimiento puerperal, la obstetra educa a la madre sobre los métodos anticonceptivos. Si una mujer NO está amamantando a su bebé (por ejemplo, en un escenario de madre con VIH donde la lactancia está contraindicada), ¿a partir de qué semana postparto se puede iniciar con seguridad el uso de Anticonceptivos Orales Combinados (ACO con estrógenos), según los Criterios Médicos de Elegibilidad de la OMS?",
+      "options": {
+        "A": "Inmediatamente después de la expulsión de la placenta.",
+        "B": "A las 24 horas postparto.",
+        "C": "A partir del 3er día (72 horas) postparto.",
+        "D": "A partir de la semana 3 (21 días) postparto, siempre que no tenga otros factores de riesgo de trombosis venosa profunda (TVP).",
+        "E": "A los 6 meses postparto exclusivamente."
+      },
+      "correct": "D",
+      "comment": "En mujeres que NO lactan, el inicio de estrógenos (ACO) antes de los 21 días postparto está contraindicado (Categoría 3/4) por el elevadísimo riesgo fisiológico de Tromboembolismo Venoso (TVP) inherente al puerperio temprano. Después del día 21, si no hay riesgos adicionales, se pueden iniciar (Categoría 2/1)."
+    },
+    {
+      "number": 443,
+      "code": "DIRESA26 P443",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Una primigesta de 36 semanas ingresa a emergencia con diagnóstico de Síndrome HELLP. El laboratorio reporta plaquetas en 80,000 /uL, TGO en 150 UI/L y TGP en 120 UI/L. Además de la plaquetopenia y la elevación de transaminasas, ¿qué alteración laboratorial es imprescindible para confirmar la 'H' del Síndrome HELLP (Hemólisis microangiopática)?",
+      "options": {
+        "A": "Elevación del ácido úrico sérico.",
+        "B": "Descenso marcado del fibrinógeno.",
+        "C": "Elevación del Lactato Deshidrogenasa (LDH > 600 UI/L), bilirrubina indirecta elevada y presencia de esquistocitos en el frotis periférico.",
+        "D": "Hipoglucemia severa.",
+        "E": "Elevación de la creatinina sérica > 1.5 mg/dL."
+      },
+      "correct": "C",
+      "comment": "El acrónimo HELLP significa: Hemolysis (Hemólisis), Elevated Liver enzymes (Transaminasas altas) y Low Platelets (Plaquetopenia). La hemólisis microangiopática se confirma laboratorialmente por el aumento de LDH (marcador de destrucción celular), bilirrubina a predominio indirecto y esquistocitos (glóbulos rojos rotos) en el frotis."
+    },
+    {
+      "number": 444,
+      "code": "DIRESA26 P444",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Durante el trabajo de parto, se produce el encajamiento de la presentación cefálica. ¿Cuándo se considera clínicamente, mediante tacto vaginal, que la cabeza fetal está 'encajada' en la pelvis materna?",
+      "options": {
+        "A": "Cuando el diámetro biparietal del feto atraviesa el estrecho inferior de la pelvis.",
+        "B": "Cuando la parte más prominente de la cabeza fetal alcanza el primer plano de Hodge (promontorio).",
+        "C": "Cuando el diámetro mayor de la presentación (biparietal) ha franqueado el estrecho superior de la pelvis, lo cual clínicamente corresponde a la parte más declive de la presentación a nivel de las espinas ciáticas (Tercer plano de Hodge o Estación 0 de DeLee).",
+        "D": "Cuando se visualiza el caput succedaneum en el introito vaginal.",
+        "E": "Cuando se rompen las membranas amnióticas (fuente)."
+      },
+      "correct": "C",
+      "comment": "El encajamiento es el mecanismo por el cual el diámetro biparietal del feto supera el estrecho superior pélvico. Al examen físico (tacto vaginal), esto se evidencia cuando el punto más declive (el vértice del cráneo) llega a la altura de las espinas ciáticas maternas (estación 0 o III plano de Hodge)."
+    },
+    {
+      "number": 445,
+      "code": "DIRESA26 P445",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Un recién nacido por cesárea debido a sufrimiento fetal agudo nace deprimido, sin esfuerzo respiratorio (apnea) y con frecuencia cardíaca de 80 latidos por minuto. Tras el paso 1 (pasos iniciales) y el paso 2 (Ventilación a Presión Positiva - VPP por 30 segundos), la frecuencia cardíaca disminuye a 50 latidos por minuto (bradicardia severa). Según el algoritmo de Reanimación Neonatal, ¿cuál es el paso número 3 inmediato a ejecutar?",
+      "options": {
+        "A": "Administrar 2 bolos de adrenalina endovenosa.",
+        "B": "Realizar intubación endotraqueal e iniciar de inmediato las Compresiones Torácicas coordinadas con la ventilación (relación 3 compresiones : 1 ventilación), aumentando el oxígeno al 100%.",
+        "C": "Administrar bicarbonato de sodio en la vena umbilical.",
+        "D": "Aplicar estimulación táctil vigorosa en la espalda por 1 minuto más.",
+        "E": "Trasladar inmediatamente a la incubadora de la UCI Neonatal."
+      },
+      "correct": "B",
+      "comment": "Si a pesar de una VPP efectiva (que expande el tórax) durante 30 segundos, la frecuencia cardíaca del neonato cae por debajo de 60 latidos por minuto, la indicación absoluta de reanimación avanzada es iniciar el Masaje Cardíaco (compresiones torácicas) coordinado con ventilación (3:1) y preferiblemente intubar."
+    },
+    {
+      "number": 446,
+      "code": "DIRESA26 P446",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "En la evaluación de la Estática Fetal mediante las Maniobras de Leopold, la 'Actitud' fetal se refiere a la relación que guardan entre sí las diferentes partes del cuerpo del feto. ¿Cuál es la actitud fetal fisiológica normal y más frecuente al término del embarazo?",
+      "options": {
+        "A": "Actitud de deflexión completa (cara).",
+        "B": "Actitud de flexión generalizada o actitud de apelotonamiento (mentón pegado al pecho, brazos cruzados sobre el tórax y muslos flexionados sobre el abdomen).",
+        "C": "Actitud de extensión máxima (cuello estirado).",
+        "D": "Actitud militar (cabeza recta).",
+        "E": "Actitud transversa."
+      },
+      "correct": "B",
+      "comment": "La actitud fetal fisiológica es la flexión universal o apelotonamiento activo. Esta postura ovoidea minimiza el volumen que ocupa el feto para adaptarse a la cavidad uterina, presentando así los diámetros más pequeños de su cabeza (suboccipitobregmático) al canal del parto."
+    },
+    {
+      "number": 447,
+      "code": "DIRESA26 P447",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Una paciente en el segundo día postparto acude preocupada porque sus senos están muy hinchados y dolorosos, y no logra que su recién nacido se agarre bien al pecho, el cual llora por hambre. La obstetra diagnostica 'Ingurgitación Mamaria Severa'. ¿Cuál es la técnica de manejo principal que debe enseñar a la madre para facilitar el agarre y aliviar el cuadro antes de cada mamada?",
+      "options": {
+        "A": "Aplicar compresas frías con hielo durante 30 minutos antes de lactar.",
+        "B": "Suspender las tomas por 24 horas y usar un extractor eléctrico a máxima potencia.",
+        "C": "Tomar antibióticos profilácticos y dar leche de fórmula al bebé.",
+        "D": "Realizar masajes suaves, aplicar paños tibios breves antes de la toma y utilizar la técnica de 'Presión Inversa Suavizante' (ablandar la areola exprimiendo un poco de leche manualmente) para que el bebé pueda prenderse adecuadamente.",
+        "E": "Vendar los senos fuertemente para evitar que baje más leche."
+      },
+      "correct": "D",
+      "comment": "En la ingurgitación severa, la areola se tensa y el pezón se aplana, impidiendo el agarre asimétrico profundo. El calor local breve ayuda a la vasodilatación y al reflejo de eyección, mientras que la extracción manual inicial (Presión Inversa) ablanda la zona areolar permitiendo que la boca del bebé cubra gran parte de la areola inferior."
+    },
+    {
+      "number": 448,
+      "code": "DIRESA26 P448",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Una gestante acude a su control prenatal en la semana 16. La obstetra necesita conocer un antecedente gineco-obstétrico clave: la fórmula obstétrica (G_ P____). La paciente refiere: 'He estado embarazada 4 veces en total (incluyendo el actual). Tuve 1 parto a término que está vivo, 1 parto prematuro a las 32 semanas (el bebé falleció al mes) y 1 aborto espontáneo a las 10 semanas'. ¿Cuál es la Fórmula Obstétrica (G_ P_ _ _ _) correcta de esta paciente?",
+      "options": {
+        "A": "G3 P1011",
+        "B": "G4 P2011",
+        "C": "G4 P1111",
+        "D": "G3 P1112",
+        "E": "G4 P1102"
+      },
+      "correct": "C",
+      "comment": "Desglose de la Fórmula: G (Gestaciones totales) = 4 (el actual + 3 previos). P (Partos): a) A término = 1. b) Prematuros = 1. c) Abortos/Ectópicos/Molas = 1. d) Hijos Vivos actualmente = 1 (el prematuro falleció, el término vive). Por lo tanto: G4 P 1 1 1 1."
+    },
+    {
+      "number": 449,
+      "code": "DIRESA26 P449",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "En la vigilancia del puerperio, la subinvolución uterina es un signo de alarma. Al realizar el examen físico a una puérpera a las 24 horas posteriores a un parto eutócico, ¿dónde se debe palpar anatómicamente el fondo uterino si la involución sigue un patrón fisiológico normal?",
+      "options": {
+        "A": "A nivel del apéndice xifoides.",
+        "B": "Dos dedos por encima del hueso pubis.",
+        "C": "Aproximadamente a la altura de la cicatriz umbilical (o un través de dedo por debajo de esta).",
+        "D": "A nivel del ombligo, pero desplazado fuertemente hacia el flanco derecho.",
+        "E": "Ya no debe ser palpable a nivel abdominal, solo pélvico."
+      },
+      "correct": "C",
+      "comment": "Inmediatamente tras el parto (y evacuado el globo de seguridad de Pinard), el útero se contrae firmemente. En las primeras 24 horas, el fondo uterino se palpa clásicamente a nivel del ombligo (o 1 cm por debajo). Luego, involuciona a razón de 1 a 2 cm por día. Si se palpa desviado hacia la derecha, suele ser por vejiga llena."
+    },
+    {
+      "number": 450,
+      "code": "DIRESA26 P450",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "En un Puesto de Salud del nivel I-2, se atiende un parto en fase expulsiva. Tras la salida de la cabeza fetal, la obstetra realiza la restitución y detecta que existe una circular de cordón umbilical apretada (tensa) alrededor del cuello del feto, la cual no puede ser deslizada por encima de la cabeza ni por los hombros. ¿Cuál es el procedimiento obstétrico inmediato a realizar?",
+      "options": {
+        "A": "Traccionar con fuerza extrema al feto para que el cordón se rompa solo.",
+        "B": "Empujar la cabeza fetal hacia adentro e intentar una cesárea.",
+        "C": "Pinzar (doble pinzamiento) el cordón umbilical en el segmento apretado y cortarlo entre las pinzas con tijera estéril, procediendo luego a la extracción de los hombros de inmediato.",
+        "D": "Esperar a que cese el latido del cordón antes de hacer cualquier cosa.",
+        "E": "Aplicar fórceps para rotar al feto."
+      },
+      "correct": "C",
+      "comment": "Si una circular de cordón al cuello (nudo apretado) impide el nacimiento de los hombros y no puede ser reducida (deslizada), constituye un riesgo de asfixia y desprendimiento placentario por tracción. La conducta es pinzar doblemente el cordón y cortarlo rápidamente en el perineo, naciendo el cuerpo del bebé ya liberado."
+    },
+    {
+      "number": 451,
+      "code": "DIRESA26 P451",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Un feto es evaluado mediante Cardiotocografía (NST) a las 38 semanas. En el trazo basal, se observa una 'Variabilidad Fetal' ausente o mínima (menor a 5 latidos por minuto), la cual persiste tras la estimulación vibroacústica, sin aceleraciones, y se asocia a deceleraciones tardías. Desde la fisiopatología fetal, la pérdida sostenida de la variabilidad de la frecuencia cardíaca es un indicador directo de:",
+      "options": {
+        "A": "Bienestar fetal óptimo y sueño tranquilo.",
+        "B": "Hipertensión arterial fetal transitoria.",
+        "C": "Hipoxia y acidosis metabólica fetal grave (depresión del Sistema Nervioso Central), indicando un alto riesgo de asfixia intrauterina o muerte inminente.",
+        "D": "Movimientos fetales excesivos (hipercinesia).",
+        "E": "Reacción vagal por compresión de la cabeza."
+      },
+      "correct": "C",
+      "comment": "La variabilidad normal (6-25 lpm) demuestra la interacción intacta entre el sistema simpático y parasimpático del SNC fetal. Una variabilidad ausente o persistentemente mínima (especialmente sin aceleraciones y con deceleraciones tardías) indica depresión profunda del SNC fetal por hipoxia crónica o acidosis severa, siendo indicación de extracción fetal urgente."
+    },
+    {
+      "number": 452,
+      "code": "DIRESA26 P452",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "En la evaluación obstétrica, la 'Situación Fetal' es un parámetro clave de la estática. ¿Cómo se define la situación fetal?",
+      "options": {
+        "A": "La parte del feto que toma contacto con el estrecho superior de la pelvis.",
+        "B": "La relación de la columna vertebral (dorso) del feto con los flancos de la madre.",
+        "C": "La relación entre el eje longitudinal de la madre (columna materna) y el eje longitudinal del feto.",
+        "D": "El grado de flexión de la cabeza fetal sobre el tórax.",
+        "E": "La altura a la que se encuentra la cabeza fetal respecto a las espinas ciáticas."
+      },
+      "correct": "C",
+      "comment": "La 'Situación' es la relación que existe entre el eje mayor (longitudinal) del feto y el eje mayor de la madre. Puede ser Longitudinal (ejes paralelos, 99% de los casos a término), Transversa (ejes perpendiculares, cruzan a 90 grados) u Oblicua (ejes se cruzan en un ángulo agudo)."
+    },
+    {
+      "number": 453,
+      "code": "DIRESA26 P453",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "En la atención pre-concepcional, una mujer de 25 años usuaria de Inyectable Anticonceptivo Trimestral (Acetato de Medroxiprogesterona de Depósito - DMPA) acude porque desea embarazarse. Ha recibido su última dosis hace 3 meses. ¿Qué información crucial debe brindar la obstetra respecto al retorno de su fertilidad?",
+      "options": {
+        "A": "La fertilidad retorna el mismo día en que se omite la siguiente inyección.",
+        "B": "El uso prolongado de DMPA produce esterilidad permanente en el 10% de los casos.",
+        "C": "Existe un retraso fisiológico y predecible en el retorno de la fertilidad; en promedio, la concepción puede tardar entre 6 a 10 meses (y hasta 18 meses) después de la última inyección, comparado con otros métodos.",
+        "D": "Debe someterse a fertilización in vitro de inmediato.",
+        "E": "Quedará embarazada inmediatamente, pero con alto riesgo de embarazo gemelar."
+      },
+      "correct": "C",
+      "comment": "A diferencia de la T de Cobre, las pastillas o los implantes (cuyo retorno a la fertilidad es casi inmediato al retirarlos), el inyectable trimestral (DMPA) tiene un efecto de depósito en el tejido adiposo. Esto genera una supresión ovárica prolongada, causando un retraso de varios meses en el retorno a la ovulación regular y fertilidad, lo cual debe advertirse a la usuaria."
+    },
+    {
+      "number": 454,
+      "code": "DIRESA26 P454",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Una gestante de 18 semanas que proviene de una comunidad de extrema pobreza en Puno acude a consulta por fatiga severa y palidez marcada. Se le diagnostica Anemia Severa (Hemoglobina 6.5 g/dL). Según la NTS 134, ¿cuál es el diagnóstico diferencial fisiológico del embarazo que causa un aparente 'descenso' de la hemoglobina, aunque en este caso la caída es patológica?",
+      "options": {
+        "A": "Policitemia vera inducida por estrógenos.",
+        "B": "Destrucción esplénica masiva de eritrocitos por el crecimiento uterino.",
+        "C": "Hemodilución fisiológica del embarazo (la expansión del volumen de plasma es proporcionalmente mayor que el aumento de la masa de glóbulos rojos, alcanzando su pico máximo al final del segundo trimestre).",
+        "D": "Desplazamiento de los glóbulos rojos al líquido amniótico.",
+        "E": "Sangrado retroplacentario silente en todas las gestantes."
+      },
+      "correct": "C",
+      "comment": "A partir de la semana 6 y con pico máximo a las 24-32 semanas, el volumen plasmático de la gestante aumenta hasta un 50%, mientras que la masa eritrocitaria aumenta solo un 20-30%. Esta desproporción causa una 'anemia dilucional o fisiológica'. Sin embargo, una caída a 6.5 g/dL es francamente patológica por deficiencia de hierro."
+    },
+    {
+      "number": 455,
+      "code": "DIRESA26 P455",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Un recién nacido en Puno es evaluado a la semana de vida por presentar 'Conjuntivitis Neonatal'. La madre relata que hace 2 días comenzó con secreción ocular abundante y párpados pegados. ¿Cuál es la medida profiláctica universal (Profilaxis Ocular) que la NTS de Atención Neonatal exige aplicar inmediatamente al nacer en todos los partos para prevenir la conjuntivitis gonocócica (Oftalmía Neonatorum), causa histórica de ceguera?",
+      "options": {
+        "A": "Gotas oftálmicas de Cloranfenicol, Tetraciclina al 1% o Eritromicina al 0.5% instiladas en ambos sacos conjuntivales dentro de la primera hora de vida.",
+        "B": "Inyección intravenosa de Penicilina cristalina.",
+        "C": "Lavado ocular exhaustivo solo con agua destilada y algodón seco.",
+        "D": "Administración oral de Azitromicina en jarabe pediátrico.",
+        "E": "Uso de colirios corticoides fluorados."
+      },
+      "correct": "A",
+      "comment": "La Profilaxis de Credé modificada (profilaxis oftálmica) es obligatoria y universal. Su objetivo es prevenir la grave oftalmía purulenta por Neisseria gonorrhoeae o Chlamydia trachomatis adquirida al paso por el canal del parto. Se utilizan macrólidos (eritromicina) o tetraciclinas tópicas dentro de la primera hora."
+    },
+    {
+      "number": 456,
+      "code": "DIRESA26 P456",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "En el trabajo de parto institucional, la dilatación cervical suele evaluarse mediante tacto vaginal. Para diagnosticar un 'Parto Prolongado' o falta de progresión, es crucial conocer la velocidad de dilatación. En la fase activa del parto de una mujer nulípara (primigesta), ¿cuál es la velocidad mínima normal esperada de dilatación cervical según los criterios de Friedman/OMS?",
+      "options": {
+        "A": "0.5 centímetros por cada 2 horas.",
+        "B": "Alrededor de 1.2 centímetros por hora (o al menos 1 cm/hora en la curva modificada de la OMS).",
+        "C": "3.5 centímetros por hora.",
+        "D": "5 centímetros por hora.",
+        "E": "La dilatación debe completarse totalmente en las primeras 2 horas."
+      },
+      "correct": "B",
+      "comment": "Clásicamente (Criterios de Friedman), la velocidad mínima de dilatación en la fase activa para una nulípara es de 1.2 cm/hora (y de 1.5 cm/hora en multíparas). La OMS simplificó este concepto en el partograma estableciendo una línea de alerta de avance de 1 centímetro por hora."
+    },
+    {
+      "number": 457,
+      "code": "DIRESA26 P457",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Una gestante de 39 semanas acude con contracciones frecuentes. A la evaluación, las membranas se rompen espontáneamente (Rotura de Membranas). Al realizar el tacto vaginal, la obstetra palpa una estructura pulsátil y similar a una cuerda blanda que se asoma por el orificio cervical por delante de la cabeza fetal. ¿Cuál es el diagnóstico de esta emergencia letal y cuál es la maniobra salvadora inmediata?",
+      "options": {
+        "A": "Placenta previa; solicitar transfusión y esperar.",
+        "B": "Prolapso de cordón umbilical; emergencia gravísima. La obstetra debe introducir la mano en vagina para empujar y sostener la cabeza fetal hacia arriba (descomprimiendo el cordón), mantener esta posición y trasladar de inmediato a sala de operaciones para cesárea de emergencia.",
+        "C": "Rotura de Vasa Previa; administrar oxitocina urgente.",
+        "D": "Circulares de cordón múltiples; indicar pujo inmediato para que el feto nazca rápido.",
+        "E": "Procúbito de cordón irrelevante; continuar con el parto eutócico en camilla."
+      },
+      "correct": "B",
+      "comment": "El Prolapso de Cordón (cordón por delante de la presentación con membranas rotas) causa la compresión inmediata de los vasos umbilicales entre la cabeza fetal y la pelvis materna, generando asfixia letal en minutos. La maniobra salvadora es elevar manualmente la presentación, colocar a la madre en Trendelenburg o genupectoral, y no retirar la mano hasta extraer al feto por cesárea."
+    },
+    {
+      "number": 458,
+      "code": "DIRESA26 P458",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Una mujer en edad fértil sufre una agresión sexual (violación). Acude al centro de salud 24 horas después del evento. Como parte de la atención integral (Kit de Emergencia) estipulada por el MINSA, ¿cuál es el manejo para prevenir un embarazo no deseado y hasta qué tiempo máximo post-evento es altamente efectivo?",
+      "options": {
+        "A": "Inyección de Acetato de Medroxiprogesterona; efectiva hasta 10 días post-evento.",
+        "B": "Anticoncepción Oral de Emergencia (AOE) con Levonorgestrel 1.5 mg en dosis única; máxima eficacia dentro de las primeras 72 a 120 horas post-evento (mientras antes, mejor).",
+        "C": "Colocación de T de Cobre; efectiva solo en las primeras 12 horas.",
+        "D": "Legrado uterino preventivo inmediato.",
+        "E": "No se puede prevenir, se debe esperar al retraso menstrual."
+      },
+      "correct": "B",
+      "comment": "La AOE (Píldora del Día Siguiente) a base de Levonorgestrel retrasa o inhibe la ovulación, impidiendo la fecundación. Su efectividad es superior al 95% si se toma en las primeras 24 horas, disminuyendo progresivamente, pero siendo útil y normada su administración hasta 5 días (120 horas) después del coito no protegido o violación."
+    },
+    {
+      "number": 459,
+      "code": "DIRESA26 P459",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Al evaluar el estrecho medio de la pelvis materna durante el trabajo de parto, el obstetra palpa las 'Espinas Ciáticas' prominentes. ¿Qué diámetro pélvico importante está delimitado por las dos espinas ciáticas (diámetro biciático) y cuánto mide fisiológicamente para permitir el paso fetal?",
+      "options": {
+        "A": "Es el diámetro más amplio de la pelvis, mide 13.5 cm.",
+        "B": "Es el diámetro obstétrico transverso más corto del canal del parto (a nivel del estrecho medio), midiendo aproximadamente 10 a 10.5 cm; valores menores causan detención del descenso.",
+        "C": "Es el diámetro anteroposterior del estrecho inferior, midiendo 9 cm.",
+        "D": "Corresponde al conjugado diagonal y mide 12 cm.",
+        "E": "Es el diámetro interespinoso anterior, midiendo 25 cm."
+      },
+      "correct": "B",
+      "comment": "El diámetro interespinoso o biciático (situado en el estrecho medio de la pelvis menor o verdadera) es el desfiladero más estrecho que debe atravesar la cabeza fetal durante su descenso (encajamiento). Una medida menor a 10 cm advierte sobre una pelvis 'estrecha o límite' que puede generar distocia (detención de la labor)."
+    },
+    {
+      "number": 460,
+      "code": "DIRESA26 P460",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Un recién nacido por parto eutócico institucional es clasificado mediante el sistema Cero (0), Uno (1) o Dos (2) de la prueba de Silverman-Andersen a los 10 minutos de vida, obteniendo un puntaje de CERO (0). ¿Qué nos indica fisiopatológicamente este resultado en la sala de partos?",
+      "options": {
+        "A": "Asfixia neonatal severa y muerte inminente.",
+        "B": "Depresión respiratoria moderada que requiere CPAP.",
+        "C": "Un patrón respiratorio totalmente normal, sin dificultad respiratoria (el recién nacido respira cómodamente y sin esfuerzo accesorio).",
+        "D": "Que el niño requiere intubación endotraqueal inmediata.",
+        "E": "Que el bebé padece de Síndrome de Aspiración Meconial."
+      },
+      "correct": "C",
+      "comment": "El Test de Silverman-Andersen evalúa el grado de Dificultad Respiratoria (evalúa aleteo nasal, quejido, tiraje intercostal, retracción xifoidea y disociación toracoabdominal). A diferencia del Apgar (donde un puntaje alto es mejor), en el Silverman el puntaje más bajo es el ideal. Un '0' indica ausencia total de dificultad respiratoria (patrón normal)."
+    },
+    {
+      "number": 461,
+      "code": "DIRESA26 P461",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Una gestante de 35 semanas con diagnóstico de Preeclampsia presenta súbitamente epigastralgia severa (dolor en 'boca del estómago') y dolor en el hipocondrio derecho. En el contexto de los Trastornos Hipertensivos del Embarazo, ¿qué refleja fisiopatológicamente la aparición clínica de este síntoma?",
+      "options": {
+        "A": "Distensión de la cápsula de Glisson por edema o hemorragia hepática subcapsular, advirtiendo un riesgo inminente de ruptura hepática.",
+        "B": "Espasmo agudo del esfínter de Oddi.",
+        "C": "Reflujo gastroesofágico severo por compresión del útero grávido.",
+        "D": "Contracciones uterinas atípicas irradiadas hacia el diafragma.",
+        "E": "Colecistitis aguda intercurrente sin relación con la preeclampsia."
+      },
+      "correct": "A",
+      "comment": "La epigastralgia o el dolor en el cuadrante superior derecho en una paciente preeclámptica es un síntoma de alarma (criterio de severidad) que traduce isquemia, edema o sangrado por debajo de la cápsula hepática (cápsula de Glisson), siendo el paso previo a la complicación letal de ruptura hepática (asociado frecuentemente al Síndrome HELLP)."
+    },
+    {
+      "number": 462,
+      "code": "DIRESA26 P462",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Una gestante de 28 semanas ingresa a la emergencia en fase activa de trabajo de parto pretérmino inminente que ya no puede ser detenido con tocolíticos. El médico indica la administración endovenosa de Sulfato de Magnesio. ¿Cuál es el objetivo clínico principal de este fármaco en este escenario y edad gestacional específica?",
+      "options": {
+        "A": "Acelerar la maduración pulmonar y producción de surfactante.",
+        "B": "Neuroprotección fetal (reducir significativamente el riesgo de parálisis cerebral severa y disfunción motora grave en el prematuro).",
+        "C": "Prevenir convulsiones maternas profilácticamente.",
+        "D": "Evitar la hemorragia intraventricular en la madre.",
+        "E": "Tratar una posible infección intraamniótica latente."
+      },
+      "correct": "B",
+      "comment": "Cuando un parto inminente ocurre antes de las 32 semanas de gestación, el Sulfato de Magnesio está normado y respaldado por evidencia sólida como agente neuroprotector fetal. Su administración reduce de manera importante el riesgo de parálisis cerebral infantil secundaria a la prematuridad extrema."
+    },
+    {
+      "number": 463,
+      "code": "DIRESA26 P463",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "En la fisiología normal de la lactancia materna durante el puerperio, existe un reflejo neuroendocrino esencial para que el recién nacido logre extraer la leche. ¿Cuál es la hormona responsable de la contracción de las células mioepiteliales de los alvéolos mamarios, provocando la eyección (salida) de la leche, estimulada por la succión del pezón?",
+      "options": {
+        "A": "Prolactina.",
+        "B": "Progesterona.",
+        "C": "Oxitocina.",
+        "D": "Estrógeno.",
+        "E": "Lactógeno placentario humano."
+      },
+      "correct": "C",
+      "comment": "La lactancia depende de dos hormonas principales: la Prolactina (que se encarga de la 'producción' o síntesis de la leche en el alveolo) y la Oxitocina (liberada por la neurohipófisis en respuesta a la succión), que provoca la contracción mioepitelial y la consecuente 'eyección o bajada' de la leche."
+    },
+    {
+      "number": 464,
+      "code": "DIRESA26 P464",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Una puérpera inmediata de parto vaginal macrosómico (bebé de 4,200 g) presenta sangrado rojo rutilante, continuo y abundante ('en canilla'). Al examen abdominal, la obstetra palpa el fondo uterino a nivel del ombligo, duro y firmemente contraído (globo de seguridad de Pinard presente). Descartada la atonía uterina, ¿cuál es la segunda causa más frecuente de Hemorragia Posparto (HPP) que debe buscarse y repararse de inmediato?",
+      "options": {
+        "A": "Atonía uterina refractaria.",
+        "B": "Retención de cotiledones o restos placentarios.",
+        "C": "Coagulación Intravascular Diseminada (CID).",
+        "D": "Desgarros y laceraciones del canal del parto (cérvix, vagina o periné).",
+        "E": "Rotura uterina fúndica."
+      },
+      "correct": "D",
+      "comment": "En la evaluación de las '4 T' de la Hemorragia Posparto (Tono, Trauma, Tejido, Trombina), si el útero tiene buen tono (está bien contraído), la causa del sangrado rutilante persistente suele ser el Trauma: desgarros del canal blando (cérvix o vagina), muy frecuentes en partos de fetos macrosómicos o partos instrumentados."
+    },
+    {
+      "number": 465,
+      "code": "DIRESA26 P465",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Una mujer de 22 años solicita la inserción de un Dispositivo Intrauterino (DIU) de cobre. Al realizar el examen pélvico bimanual previo, la obstetra evidencia flujo purulento abundante por el orificio cervical y gran dolor a la movilización del cuello uterino (clínica compatible con Enfermedad Pélvica Inflamatoria - EPI actual). Según los Criterios Médicos de Elegibilidad (CME) de la OMS, la inserción del DIU en esta paciente se clasifica como:",
+      "options": {
+        "A": "Categoría 1 (Sin restricciones).",
+        "B": "Categoría 2 (Los beneficios superan los riesgos).",
+        "C": "Categoría 3 (Riesgos superan los beneficios).",
+        "D": "Categoría 1, siempre y cuando se le den antibióticos el mismo día.",
+        "E": "Categoría 4 (Riesgo de salud inaceptable, contraindicación absoluta para la inserción)."
+      },
+      "correct": "E",
+      "comment": "La presencia de una Infección de Transmisión Sexual (ITS) purulenta actual o una Enfermedad Pélvica Inflamatoria (EPI) aguda purulenta es una Contraindicación Absoluta (Categoría 4) para la inserción de un DIU, ya que el procedimiento puede arrastrar las bacterias hacia la cavidad uterina sana y causar una sepsis pélvica grave."
+    },
+    {
+      "number": 466,
+      "code": "DIRESA26 P466",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Una gestante de 18 semanas es diagnosticada con una Infección del Tracto Urinario (ITU) sintomática en el centro de salud de Puno. ¿Qué familia de antibióticos de uso común está ABSOLUTAMENTE CONTRAINDICADA durante todo el embarazo debido a su toxicidad demostrada sobre el desarrollo del cartílago de crecimiento fetal (artropatía)?",
+      "options": {
+        "A": "Fluoroquinolonas (ej. Ciprofloxacino, Levofloxacino).",
+        "B": "Cefalosporinas de primera generación (ej. Cefalexina).",
+        "C": "Aminopenicilinas (ej. Amoxicilina).",
+        "D": "Macrodantina (Nitrofurantoína).",
+        "E": "Cefalosporinas de tercera generación (ej. Ceftriaxona)."
+      },
+      "correct": "A",
+      "comment": "Las fluoroquinolonas están contraindicadas (Categoría C de riesgo elevado) en la gestación y lactancia porque, en modelos experimentales, interfieren con la síntesis de colágeno y dañan irreversiblemente el cartílago de las articulaciones de carga en el feto en desarrollo."
+    },
+    {
+      "number": 467,
+      "code": "DIRESA26 P467",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Durante el primer control prenatal, el médico realiza la pelvimetría interna mediante el tacto vaginal. Al introducir los dedos índice y medio, la punta del dedo medio toca el promontorio sacro materno, mientras que el borde radial de la mano (o el dedo índice) hace tope con el borde inferior de la sínfisis púbica. La distancia medida en este procedimiento clínico corresponde al:",
+      "options": {
+        "A": "Conjugado obstétrico o verdadero.",
+        "B": "Conjugado diagonal.",
+        "C": "Diámetro biciático.",
+        "D": "Conjugado anatómico.",
+        "E": "Diámetro bituberoso isquiático."
+      },
+      "correct": "B",
+      "comment": "El conjugado diagonal es el único diámetro anteroposterior del estrecho superior que se puede medir directamente con los dedos a través del tacto vaginal (desde el promontorio hasta el borde inferior de la sínfisis púbica). Mide normalmente 12 cm, y al restarle 1.5 cm se estima el conjugado obstétrico útil."
+    },
+    {
+      "number": 468,
+      "code": "DIRESA26 P468",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Una paciente ingresa a emergencia con fiebre de 39°C, dolor pélvico irradiado a región lumbar y sangrado vaginal purulento maloliente, refiriendo antecedentes de maniobras abortivas clandestinas hace 3 días. El diagnóstico es Aborto Séptico. Se activa la Clave Amarilla y se inicia estabilización y triple terapia antibiótica endovenosa. Para controlar definitivamente el foco infeccioso y evitar el shock séptico, ¿cuál es la medida subsecuente indispensable?",
+      "options": {
+        "A": "Realizar histerectomía abdominal total de inmediato, sin intentar preservar el útero.",
+        "B": "Colocar un dispositivo intrauterino (DIU) liberador de hormonas.",
+        "C": "Evacuación de la cavidad uterina (mediante AMEU o Legrado Uterino) de forma oportuna, una vez estabilizada la paciente y bajo cobertura antibiótica.",
+        "D": "Administrar altas dosis de oxitocina en infusión por 24 horas y esperar expulsión.",
+        "E": "Lavado vaginal exhaustivo con solución de yodopovidona."
+      },
+      "correct": "C",
+      "comment": "En el aborto séptico, la sepsis es mantenida por el tejido necrótico e infectado retenido dentro del útero. El pilar del tratamiento, además del soporte y los antibióticos endovenosos de amplio espectro, es la evacuación uterina (Legrado o Aspiración Manual Endouterina - AMEU) para remover mecánicamente el foco infeccioso."
+    },
+    {
+      "number": 469,
+      "code": "DIRESA26 P469",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "En la interpretación de un registro cardiotocográfico (Monitoreo Fetal), la obstetra identifica deceleraciones repetidas de la frecuencia cardíaca fetal cuyo nadir (punto más bajo) ocurre DESPUÉS del acmé (punto máximo) de la contracción uterina, con un desfase y recuperación lenta. Este patrón patológico (Deceleración Tardía o DIP II) es un indicador clínico de:",
+      "options": {
+        "A": "Compresión fisiológica de la cabeza fetal.",
+        "B": "Compresión del cordón umbilical (funicular).",
+        "C": "Movimientos fetales vigorosos y saludables.",
+        "D": "Insuficiencia uteroplacentaria (hipoxia fetal y disminución de las reservas de oxígeno).",
+        "E": "Efecto secundario normal de la anestesia epidural materna."
+      },
+      "correct": "D",
+      "comment": "Las deceleraciones tardías (DIP II) son un signo ominoso. Ocurren cuando la contracción uterina restringe el flujo sanguíneo en una placenta que ya es insuficiente, provocando hipoxia fetal miocárdica (desfase con la contracción). Si son repetitivas, obligan a terminar el parto rápidamente por riesgo de asfixia o daño neurológico."
+    },
+    {
+      "number": 470,
+      "code": "DIRESA26 P470",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Una mujer de 30 años presenta un embarazo ectópico tubárico que requiere cirugía. En la historia clínica orientada, el médico indaga sobre los factores que predisponen a esta grave patología. De los siguientes antecedentes gineco-obstétricos, ¿cuál constituye el factor de riesgo de mayor peso epidemiológico para el desarrollo de un Embarazo Ectópico?",
+      "options": {
+        "A": "Uso de anticonceptivos orales combinados en el pasado.",
+        "B": "Haber tenido un parto gemelar prematuro previo.",
+        "C": "Antecedente de cesárea segmentaria transversa.",
+        "D": "Multiparidad (más de 4 partos normales).",
+        "E": "Antecedente de Enfermedad Pélvica Inflamatoria (EPI) o daño/cirugía tubárica previa."
+      },
+      "correct": "E",
+      "comment": "Cualquier condición que altere la anatomía, el peristaltismo o los cilios de las trompas de Falopio retrasa el transporte del óvulo fecundado hacia el útero. El antecedente de EPI (que causa adherencias y cicatrices tubáricas), los embarazos ectópicos previos o las cirugías tubáricas son los factores de riesgo más importantes."
+    },
+    {
+      "number": 471,
+      "code": "DIRESA26 P471",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Durante el control prenatal de una gestante de 34 semanas, la obstetra se ubica a la derecha de la paciente, mirando hacia su rostro, y palpa con ambas manos la parte superior del útero (el fondo uterino). Esta es la Primera Maniobra de Leopold. ¿Cuál es su objetivo diagnóstico principal?",
+      "options": {
+        "A": "Determinar la situación fetal (longitudinal, transversa u oblicua) y evaluar qué polo fetal (cefálico o podálico) ocupa el fondo uterino.",
+        "B": "Determinar la posición fetal (si el dorso está a la derecha o a la izquierda de la madre).",
+        "C": "Determinar el grado de encajamiento de la presentación en el canal pélvico.",
+        "D": "Determinar la actitud de la cabeza fetal (grado de flexión o extensión).",
+        "E": "Estimar la cantidad exacta de volumen de líquido amniótico residual."
+      },
+      "correct": "A",
+      "comment": "La 1era Maniobra de Leopold palpa el fondo del útero. Permite reconocer el polo fetal que se encuentra en la parte superior (las nalgas son grandes, blandas e irregulares; la cabeza es dura, redonda y balotea) y, con ello, inferir la Situación del feto (eje longitudinal vs transverso)."
+    },
+    {
+      "number": 472,
+      "code": "DIRESA26 P472",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Una gestante con diagnóstico conocido de VIH ingresa en trabajo de parto franco. Según su último control, tiene una Carga Viral alta (> 1000 copias/mL) y se decide culminar el parto por cesárea de emergencia. Según la NTS 169 de Prevención de Transmisión Vertical, para proteger al feto durante la cirugía, ¿qué fármaco antirretroviral se debe administrar de forma endovenosa a la madre idealmente 3 horas antes o durante la intervención?",
+      "options": {
+        "A": "Lamivudina en bolo rápido.",
+        "B": "Zidovudina (AZT) en infusión continua endovenosa.",
+        "C": "Efavirenz en tabletas diluidas.",
+        "D": "Nevirapina por vía intramuscular profunda.",
+        "E": "Dolutegravir tópico en la mucosa vaginal."
+      },
+      "correct": "B",
+      "comment": "En gestantes con VIH con carga viral no controlada (mayor a 1,000 copias o desconocida) que van a cesárea o parto, la NTS exige la administración de Zidovudina (AZT) endovenosa en infusión continua (dosis de carga seguida de mantenimiento) para saturar la placenta de antirretrovirales y bloquear la infección al feto durante la exposición sanguínea quirúrgica."
+    },
+    {
+      "number": 473,
+      "code": "DIRESA26 P473",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Una paciente es referida al hospital por una Hemorragia Posparto masiva. A su ingreso, la paciente presenta alteración severa de la conciencia (letargia o inconsciencia), palidez terrosa, sudoración fría, anuria (no orina) y una presión arterial sistólica menor a 70 mmHg con pulso filiforme. Según la clasificación de la pérdida de volumen en obstetricia (Clave Roja), ¿a qué grado de shock hipovolémico corresponde esta presentación clínica?",
+      "options": {
+        "A": "Shock compensado (Clase I).",
+        "B": "Shock leve (Clase II).",
+        "C": "Shock severo (Clase IV, pérdida de volemia mayor al 40%).",
+        "D": "Shock moderado (Clase III).",
+        "E": "Shock distributivo neurogénico."
+      },
+      "correct": "C",
+      "comment": "La pérdida masiva de sangre (generalmente > 2,000 mL o > 40% de la volemia) desencadena el Shock Severo. Sus signos cardinales son la alteración profunda del sensorio (letargia profunda/coma), presión arterial sistólica indetectable o <70 mmHg, pulso >140 o imperceptible, y falla renal aguda (anuria)."
+    },
+    {
+      "number": 474,
+      "code": "DIRESA26 P474",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "En la atención de un recién nacido a término (39 semanas) que nace llorando y con buen tono muscular, la guía técnica de atención integral recomienda realizar el 'Pinzamiento Tardío' del cordón umbilical. ¿Cuál es el beneficio fisiológico principal de esperar de 2 a 3 minutos (o hasta que deje de latir) para pinzar y cortar el cordón en este neonato?",
+      "options": {
+        "A": "Prevenir el tétanos neonatal.",
+        "B": "Evitar completamente la ictericia fisiológica del recién nacido.",
+        "C": "Disminuir el riesgo de rotura uterina espontánea en la madre.",
+        "D": "Asegurar un aporte adicional significativo de sangre y reservas de hierro (ferritina), previniendo la anemia durante los primeros 6 meses de vida.",
+        "E": "Acelerar el desprendimiento rápido y brusco de la placenta."
+      },
+      "correct": "D",
+      "comment": "El pinzamiento y corte tardío del cordón umbilical (esperar de 1 a 3 minutos) permite una transfusión placentaria fisiológica hacia el recién nacido, aportando hasta un 30% más de volumen sanguíneo y reservas de hierro fundamentales que previenen la anemia ferropénica en la infancia temprana."
+    },
+    {
+      "number": 475,
+      "code": "DIRESA26 P475",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "En el contexto preventivo de Salud Sexual y Reproductiva de la DIRESA Puno, se fomenta el uso del test de Inspección Visual con Ácido Acético (IVAA) como herramienta clínica rápida y económica para el tamizaje de lesiones precancerosas del cuello uterino en el primer nivel. ¿A qué grupo etario de mujeres está dirigido prioritariamente este tamizaje normado?",
+      "options": {
+        "A": "Mujeres adolescentes menores de 20 años.",
+        "B": "Gestantes en el tercer trimestre de embarazo exclusivamente.",
+        "C": "Mujeres menopáusicas mayores de 65 años.",
+        "D": "Mujeres sin antecedente de inicio de relaciones sexuales.",
+        "E": "Mujeres entre los 30 y 49 años de edad."
+      },
+      "correct": "E",
+      "comment": "La NTS del MINSA para la prevención del cáncer de cuello uterino establece que el IVAA (Inspección Visual con Ácido Acético) es el tamizaje de elección en el primer nivel de atención para la población femenina priorizada entre los 30 a 49 años, ya que en esta edad la zona de transformación cervical es visible y el riesgo de lesiones de alto grado es mayor."
+    },
+    {
+      "number": 476,
+      "code": "DIRESA26 P476",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Durante el manejo de una paciente con Preeclampsia Severa (Clave Azul) en la sala de observación, se mantiene una infusión continua de Sulfato de Magnesio. La obstetra de guardia debe evaluar rutinariamente signos de toxicidad por este ion. ¿Cuál de los siguientes es el PRIMER signo clínico que advierte sobre una hipermagnesemia tóxica, anticipándose a la depresión respiratoria o al paro cardíaco?",
+      "options": {
+        "A": "Desaparición (abolición) de los reflejos osteotendinosos profundos, como el reflejo rotuliano o patelar.",
+        "B": "Bradicardia sinusal menor a 40 latidos por minuto.",
+        "C": "Hematuria macroscópica masiva.",
+        "D": "Dilatación pupilar bilateral (midriasis arreactiva).",
+        "E": "Poliuria masiva con orina clara."
+      },
+      "correct": "A",
+      "comment": "El Sulfato de Magnesio deprime la unión neuromuscular. Los niveles terapéuticos son estrechos. El primer signo neurológico de toxicidad (niveles séricos entre 9 y 12 mg/dL) es la hiporreflexia que progresa a arreflexia (abolición del reflejo rotuliano). Si los niveles siguen subiendo (12-15 mg/dL), se produce la parálisis de los músculos respiratorios y apnea."
+    },
+    {
+      "number": 477,
+      "code": "DIRESA26 P477",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "En la atención institucional del parto eutócico en la actualidad, y de acuerdo con las recomendaciones conjuntas de la OMS y el MINSA respecto al uso de la 'Episiotomía' (incisión quirúrgica del periné), la directriz basada en evidencia indica que:",
+      "options": {
+        "A": "Debe realizarse de manera sistemática y rutinaria en absolutamente todas las primigestas para evitar prolapsos futuros.",
+        "B": "Su uso debe ser estrictamente restrictivo e individualizado, realizándose solo bajo indicaciones clínicas específicas (ej. sufrimiento fetal agudo que requiere parto rápido, parto instrumental con fórceps/espátulas, o riesgo inminente y comprobado de desgarro severo de tercer/cuarto grado).",
+        "C": "Se debe preferir siempre la incisión mediana recta sobre la mediolateral por tener menor riesgo de lesión del esfínter anal.",
+        "D": "Debe hacerse durante el acmé de la contracción, sin necesidad de emplear anestesia local infiltrativa.",
+        "E": "Es un procedimiento obsoleto y está legalmente prohibido en todo nivel de atención en el Perú."
+      },
+      "correct": "B",
+      "comment": "La evidencia científica ha demostrado que la episiotomía rutinaria no previene la incontinencia ni el prolapso, y por el contrario, aumenta el dolor, sangrado y riesgo de desgarros severos hacia el recto. Por tanto, su uso ha pasado a ser netamente 'restrictivo', limitándose a partos instrumentados, sufrimiento fetal o periné muy rígido con ruptura inminente."
+    },
+    {
+      "number": 478,
+      "code": "DIRESA26 P478",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Durante la atención del tercer periodo del parto (alumbramiento), la placenta no se desprende tras 45 minutos. La paciente comienza a presentar sangrado. Bajo analgesia, la obstetra procede a intentar la extracción manual de la placenta (Clave Roja activada). Sin embargo, al introducir la mano en la cavidad uterina, encuentra que es imposible hallar un plano de clivaje (separación) entre los cotiledones placentarios y la pared miometrial en una amplia zona. ¿De qué complicación obstétrica de alta letalidad se debe sospechar firmemente?",
+      "options": {
+        "A": "Inversión uterina aguda completa.",
+        "B": "Espasmo del anillo de contracción de Bandl.",
+        "C": "Acretismo placentario (Espectro de Placenta Acreta / Increta / Percreta).",
+        "D": "Útero bicorne didelfo no diagnosticado.",
+        "E": "Hematoma retroplacentario silente."
+      },
+      "correct": "C",
+      "comment": "Si no existe plano de clivaje anatómico entre la placenta y el miometrio, la tracción manual está contraindicada porque desgarrará el útero provocando una hemorragia exanguinante. Este hallazgo es el diagnóstico intraparto del Acretismo Placentario (ausencia de decidua basal), que requiere de inmediato detener la maniobra, soporte hemodinámico y programación urgente para histerectomía."
+    },
+    {
+      "number": 479,
+      "code": "DIRESA26 P479",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Una puérpera de 4 días acude al consultorio de lactancia llorando por un intenso dolor y la presencia de grietas profundas (fisuras) en ambos pezones al amamantar a su recién nacido. Al examen, no hay fiebre ni zonas de eritema o induración en las mamas (sin mastitis). En salud pública, ¿cuál es la causa más frecuente de este problema y la intervención prioritaria a recomendar?",
+      "options": {
+        "A": "Causa: Leche materna de mala calidad e irritante. Intervención: Suspender la lactancia y prescribir fórmula.",
+        "B": "Causa: Infección micótica profunda (Candidiasis). Intervención: Aplicar clotrimazol al 1% en crema tópica.",
+        "C": "Causa: Mordeduras intencionales del recién nacido. Intervención: Usar pezoneras de silicona de forma permanente.",
+        "D": "Causa: Mala técnica de agarre y posición al seno. Intervención: Observar y corregir la técnica de lactancia en consulta, asegurando un agarre asimétrico profundo donde el bebé introduzca gran parte de la areola (no solo el pezón) en su boca.",
+        "E": "Causa: Falta de lavado constante. Intervención: Lavar vigorosamente los pezones con jabón antiséptico y alcohol antes y después de cada toma."
+      },
+      "correct": "D",
+      "comment": "La inmensa mayoría de casos de dolor severo y grietas en los pezones durante los primeros días de puerperio son el resultado directo de una mala técnica de agarre (el bebé succiona solo la punta del pezón en lugar de englobar la areola, friccionando el tejido). Corregir la postura y el agarre es la medida curativa y preventiva más efectiva. El lavado con jabones está contraindicado pues reseca más la piel."
+    },
+    {
+      "number": 480,
+      "code": "DIRESA26 P480",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "La biomecánica del parto eutócico exige que el feto adapte sus diámetros a la morfología de la pelvis materna. En la fase activa del trabajo de parto normal, la presentación cefálica fetal realiza una serie secuencial de 'Movimientos Cardinales'. ¿Cuál es el movimiento clave que sigue inmediatamente al Descenso y Encajamiento de la cabeza en el estrecho superior, permitiendo que el feto presente su diámetro más pequeño (suboccipitobregmático) al canal del parto?",
+      "options": {
+        "A": "Extensión de la cabeza fetal.",
+        "B": "Rotación externa de restitución.",
+        "C": "Desprendimiento de los hombros.",
+        "D": "Expulsión total del cuerpo.",
+        "E": "Flexión de la cabeza fetal."
+      },
+      "correct": "E",
+      "comment": "Los movimientos cardinales del parto cefálico son: 1) Descenso, 2) Encajamiento, 3) Flexión, 4) Rotación interna, 5) Extensión, 6) Rotación externa (restitución) y 7) Expulsión. La Flexión ocurre inmediatamente después del encajamiento cuando la cabeza topa con la resistencia del piso pélvico; el feto pega el mentón al tórax, cambiando el diámetro de presentación de occipitofrontal (11.5 cm) al más favorable suboccipitobregmático (9.5 cm)."
+    },
+    {
+      "number": 481,
+      "code": "DIRESA26 P481",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Una gestante de 38 semanas con Preeclampsia Severa cursa con trabajo de parto activo. Tras el parto vaginal, presenta una Hemorragia Posparto por atonía uterina (Clave Roja). ¿Cuál de los siguientes fármacos uterotónicos de primera línea está ABSOLUTAMENTE CONTRAINDICADO en esta paciente debido a su patología de base?",
+      "options": {
+        "A": "Metilergonovina (Ergometrina) intramuscular.",
+        "B": "Oxitocina en infusión endovenosa.",
+        "C": "Misoprostol sublingual.",
+        "D": "Ácido Tranexámico endovenoso.",
+        "E": "Carbetocina intramuscular."
+      },
+      "correct": "A",
+      "comment": "La Metilergonovina (derivado del ergot) es un potente vasoconstrictor. En pacientes con trastornos hipertensivos del embarazo (preeclampsia, eclampsia o HTA crónica), su uso está formalmente contraindicado porque puede desencadenar crisis hipertensivas severas, espasmo vascular cerebral y ACV hemorrágico."
+    },
+    {
+      "number": 482,
+      "code": "DIRESA26 P482",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "En la Atención Prenatal Reenfocada en Puno, el tamizaje universal de Diabetes Mellitus Gestacional (DMG) es obligatorio entre las 24 y 28 semanas de gestación. Según la guía técnica del MINSA basada en los criterios IADPSG/ADA, ¿cuál es el examen de tamizaje y diagnóstico de un solo paso estandarizado para esta patología?",
+      "options": {
+        "A": "Prueba de O'Sullivan (carga de 50g de glucosa).",
+        "B": "Prueba de Tolerancia Oral a la Glucosa (PTOG) con carga de 75g de glucosa anhidra, midiendo glucemia basal, a la hora y a las 2 horas.",
+        "C": "Dosaje de Hemoglobina Glicosilada (HbA1c) en el tercer trimestre.",
+        "D": "Glucosa postprandial aleatoria mayor a 140 mg/dL.",
+        "E": "Curva de tolerancia con 100g de glucosa por 3 horas."
+      },
+      "correct": "B",
+      "comment": "El estándar actual avalado por el MINSA y la ADA para diagnosticar Diabetes Gestacional es la PTOG con 75g de glucosa (un solo paso) entre la semana 24 y 28. Basta que un solo valor esté alterado (Basal ≥92 mg/dL, a la 1h ≥180 mg/dL, o a las 2h ≥153 mg/dL) para confirmar el diagnóstico."
+    },
+    {
+      "number": 483,
+      "code": "DIRESA26 P483",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Una gestante de grupo sanguíneo O y factor Rh NEGATIVO acude a su control. Su esposo es Rh positivo. La prueba de Coombs Indirecto resulta NEGATIVA (no sensibilizada). ¿Cuál es la indicación profiláctica estandarizada para prevenir la Isoinmunización Rh materna que podría causar enfermedad hemolítica en el feto?",
+      "options": {
+        "A": "Administrar Gammaglobulina Anti-D a las 12 semanas de gestación.",
+        "B": "Realizar transfusión intrauterina preventiva al feto.",
+        "C": "Administrar una dosis profiláctica de Inmunoglobulina Anti-D a las 28 semanas de gestación, y una segunda dosis dentro de las 72 horas posparto (si se confirma que el recién nacido es Rh positivo).",
+        "D": "Dar corticoides en altas dosis durante todo el embarazo.",
+        "E": "No requiere profilaxis si es su primer embarazo."
+      },
+      "correct": "C",
+      "comment": "En gestantes Rh negativas no sensibilizadas (Coombs indirecto negativo), la profilaxis con Inmunoglobulina Anti-D (Rhogam) es mandatoria a las 28 semanas (pico de riesgo de microtransfusiones feto-maternas) y debe repetirse antes de las 72 horas del puerperio si el bebé nace Rh positivo, previniendo la isoinmunización para futuros embarazos."
+    },
+    {
+      "number": 484,
+      "code": "DIRESA26 P484",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Durante el Monitoreo Fetal Electrónico (Cardiotocografía) en un parto conducido con oxitocina, la obstetra evidencia un patrón patológico: Deceleraciones Tardías (DIP II) repetitivas, que ocurren en más del 50% de las contracciones, asociadas a variabilidad mínima de la línea base. ¿Cuál es la conducta obstétrica de emergencia que debe adoptarse?",
+      "options": {
+        "A": "Aumentar el goteo de oxitocina para acelerar el expulsivo.",
+        "B": "Realizar amniotomía (rotura de membranas) para ver color del líquido.",
+        "C": "Administrar analgesia epidural.",
+        "D": "Suspender inmediatamente la infusión de oxitocina, iniciar medidas de reanimación intrauterina (oxígeno materno, decúbito lateral izquierdo, fluidos) y preparar cesárea de emergencia por insuficiencia uteroplacentaria grave.",
+        "E": "Realizar la maniobra de Kristeller vigorosamente."
+      },
+      "correct": "D",
+      "comment": "Las deceleraciones tardías (DIP II) repetitivas con pérdida de variabilidad indican hipoxia fetal severa por insuficiencia placentaria. La acción inmediata es quitar el estrés uterino (detener oxitocina), mejorar la perfusión (lateralizar a la izquierda y dar O2) e intervenir quirúrgicamente (cesárea) para evitar la muerte o asfixia fetal."
+    },
+    {
+      "number": 485,
+      "code": "DIRESA26 P485",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Una joven de 16 años acude con amenorrea de 12 semanas, hiperémesis gravídica (vómitos incoercibles), sangrado vaginal indoloro y un útero palpable a la altura del ombligo (tamaño discordante, mayor al esperado). La ecografía pélvica no evidencia embrión ni latido, pero muestra una masa intrauterina ecogénica difusa con múltiples espacios quísticos. La Beta-hCG cuantitativa está por encima de 100,000 mUI/mL. ¿Cuál es el diagnóstico clínico y ecográfico?",
+      "options": {
+        "A": "Aborto retenido temprano.",
+        "B": "Embarazo gemelar dicigótico.",
+        "C": "Mioma submucoso degenerado.",
+        "D": "Coriocarcinoma uterino avanzado con metástasis.",
+        "E": "Enfermedad Trofoblástica Gestacional (Mola Hidatiforme); la ecografía muestra el clásico patrón en 'tormenta de nieve' o 'panal de abejas'."
+      },
+      "correct": "E",
+      "comment": "El crecimiento uterino exagerado, la hiperémesis (por altísimos niveles de hCG) y el sangrado vaginal en el primer/segundo trimestre sugieren Embarazo Molar. La ecografía confirma el diagnóstico al revelar un tejido trofoblástico hiperplásico vesiculado, descrito clásicamente como imagen en 'copos de nieve' o 'panal de abejas', sin estructuras fetales (en la mola completa)."
+    },
+    {
+      "number": 486,
+      "code": "DIRESA26 P486",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Una gestante multípara en labor de parto prolongada presenta un dolor pélvico extremadamente agudo e inquietud. A la exploración física, el útero está hipertónico, se palpa un anillo transversal grueso a nivel del segmento inferior (Anillo de Bandl) y los ligamentos redondos están tensos y dolorosos (Signo de Frommel). La paciente refiere un dolor que 'desgarra'. ¿Qué catástrofe obstétrica preanuncia este cuadro clínico (Síndrome de Bandl-Frommel-Landa)?",
+      "options": {
+        "A": "Inminencia de rotura uterina; requiere cesárea de máxima urgencia.",
+        "B": "Placenta previa sangrante.",
+        "C": "Desprendimiento Prematuro de Placenta (DPP) masivo.",
+        "D": "Embolia de líquido amniótico.",
+        "E": "Trabajo de parto en fase expulsiva normal."
+      },
+      "correct": "A",
+      "comment": "El Síndrome de Inminencia de Rotura Uterina se caracteriza por la retracción extrema del miometrio, formando un anillo patológico visible/palpable (Bandl) y el estiramiento máximo de los ligamentos redondos (Frommel). Advierte que la pared uterina está a punto de desgarrarse (rotura consumada), por lo que se debe inhibir las contracciones y operar inmediatamente."
+    },
+    {
+      "number": 487,
+      "code": "DIRESA26 P487",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "En el manejo de la Amenaza de Parto Prematuro, la tocolisis es fundamental para retrasar el nacimiento y permitir la maduración con corticoides. Según la guía del MINSA, el Nifedipino es el tocolítico oral de primera línea. ¿Cuál es su mecanismo de acción a nivel del músculo uterino (miometrio)?",
+      "options": {
+        "A": "Inhibe la enzima ciclooxigenasa (COX) disminuyendo las prostaglandinas.",
+        "B": "Bloquea los canales de calcio dependientes de voltaje, impidiendo la entrada de calcio al miocito y causando relajación del músculo liso uterino.",
+        "C": "Estimula los receptores beta-2 adrenérgicos produciendo broncodilatación y relajación.",
+        "D": "Bloquea competitivamente los receptores de oxitocina en la decidua.",
+        "E": "Aumenta la producción local de óxido nítrico."
+      },
+      "correct": "B",
+      "comment": "El Nifedipino es un calcioantagonista (bloqueador de canales de calcio). La contracción miometrial depende del influjo de calcio intracelular. Al bloquear esta entrada, el Nifedipino relaja el útero de manera efectiva y segura, con menos efectos adversos cardiovasculares graves que los beta-miméticos."
+    },
+    {
+      "number": 488,
+      "code": "DIRESA26 P488",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Una gestante de 20 semanas es diagnosticada con Sífilis (VDRL y FTA- ABS positivos) y recibe tratamiento con Penicilina G Benzatínica. Seis horas después de la inyección, presenta fiebre súbita de 39°C, escalofríos, mialgias, cefalea y contracciones uterinas leves. Sus signos vitales son estables, sin broncoespasmo ni rash severo. ¿Cuál es la entidad clínica más probable que explica esta reacción aguda, transitoria y benigna?",
+      "options": {
+        "A": "Choque anafiláctico a la penicilina.",
+        "B": "Sepsis por Treponema pallidum diseminado.",
+        "C": "Reacción de Jarisch-Herxheimer (por liberación de endotoxinas/lipoproteínas secundaria a la lisis masiva de los treponemas).",
+        "D": "Enfermedad del suero aguda.",
+        "E": "Corioamnionitis bacteriana precoz."
+      },
+      "correct": "C",
+      "comment": "La reacción de Jarisch-Herxheimer es una respuesta inflamatoria sistémica aguda (fiebre, mialgias, contracciones, taquicardia) que ocurre clásicamente en las primeras 24 horas de iniciar tratamiento antibiótico eficaz contra espiroquetas (como la sífilis). Se debe a la liberación masiva de antígenos al morir las bacterias. Es autolimitada y no es alergia a la penicilina; no se debe suspender el tratamiento."
+    },
+    {
+      "number": 489,
+      "code": "DIRESA26 P489",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Al realizar las maniobras de Leopold en una gestante a término, la obstetra se coloca mirando hacia los pies de la paciente, utiliza las puntas de los tres primeros dedos de ambas manos y ejerce presión profunda en dirección al eje de la entrada pélvica. ¿Qué evalúa específicamente esta 'Cuarta Maniobra de Leopold'?",
+      "options": {
+        "A": "El fondo uterino y la situación fetal.",
+        "B": "La posición del dorso fetal (derecha o izquierda).",
+        "C": "La cantidad de líquido amniótico.",
+        "D": "El grado de encajamiento de la presentación y su actitud (flexión o extensión de la cabeza).",
+        "E": "La vitalidad del feto mediante movimientos."
+      },
+      "correct": "D",
+      "comment": "La 4ta maniobra de Leopold es la única que se realiza de espaldas al rostro materno (mirando a sus pies). Permite palpar la prominencia cefálica (frente o nuca) confirmando la actitud fetal (flexión) y determinando si la presentación está libre o profundamente encajada en la pelvis."
+    },
+    {
+      "number": 490,
+      "code": "DIRESA26 P490",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Una paciente en su sexto día de puerperio tras una cesárea es tratada por Endometritis Puerperal con un esquema antibiótico endovenoso de amplio espectro (Clindamicina + Gentamicina) por 72 horas. A pesar del tratamiento adecuado y de tener el útero contraído y abdomen blando sin signos de peritonitis, la paciente continúa haciendo picos febriles altos diarios ('fiebre en agujas') y taquicardia sostenida. ¿Cuál es la complicación séptica oculta más probable (diagnóstico de exclusión en fiebre puerperal refractaria)?",
+      "options": {
+        "A": "Cistitis aguda leve.",
+        "B": "Infección por Clostridium difficile.",
+        "C": "Mastitis bilateral silente.",
+        "D": "Acretismo placentario tardío.",
+        "E": "Tromboflebitis pélvica séptica."
+      },
+      "correct": "E",
+      "comment": "La Tromboflebitis Pélvica Séptica se sospecha clásicamente en una puérpera (especialmente post-cesárea) que cursa con fiebre héctica persistente pese a recibir antibióticos de amplio espectro por más de 48-72h para una endometritis, pero con un examen abdominal y pélvico notablemente 'benigno' o anodino. Se confirma por TAC o Resonancia y requiere añadir Heparina al tratamiento."
+    },
+    {
+      "number": 491,
+      "code": "DIRESA26 P491",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Una mujer acude a emergencia con diagnóstico ecográfico de Embarazo Ectópico Tubárico no roto. El ginecólogo evalúa si la paciente es candidata para manejo médico conservador con Metotrexato (evitando cirugía). Según las guías clínicas, ¿cuáles son los criterios ideales que respaldan el uso seguro y efectivo del Metotrexato en este caso?",
+      "options": {
+        "A": "Saco gestacional < 4 cm, ausencia de actividad cardíaca embrionaria, paciente hemodinámicamente estable, sin dolor severo y con niveles de Beta-hCG < 5,000 UI/L.",
+        "B": "Presencia de líquido libre intraabdominal abundante y dolor pélvico extremo.",
+        "C": "Beta-hCG > 10,000 UI/L y saco gestacional de 6 cm.",
+        "D": "Feto vivo con latido cardíaco presente y paciente en shock leve.",
+        "E": "Paciente con insuficiencia renal o hepática severa concurrente."
+      },
+      "correct": "A",
+      "comment": "El tratamiento médico del embarazo ectópico con Metotrexato (antagonista del folato) requiere estrictos criterios de selección para evitar la rotura diferida: paciente absolutamente estable, sin signos de rotura, masa ectópica pequeña (< 3.5 a 4 cm), sin latido cardíaco fetal, con Beta-hCG preferentemente baja (< 5,000 mUI/mL) y con función renal/hepática normal."
+    },
+    {
+      "number": 492,
+      "code": "DIRESA26 P492",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Una paciente con Preeclampsia Severa cursa con síntomas neurosensoriales como escotomas centelleantes (ver luces intermitentes) y ceguera cortical transitoria. Fisiopatológicamente, ¿cuál es el mecanismo principal que explica estas alteraciones visuales graves en el síndrome preeclámptico?",
+      "options": {
+        "A": "Desprendimiento masivo bilateral de la retina.",
+        "B": "Vasoespasmo cerebral severo que genera isquemia local y edema vasogénico transitorio en la corteza occipital (Síndrome PRES - Encefalopatía Posterior Reversible).",
+        "C": "Hemorragia masiva del humor vítreo.",
+        "D": "Glaucoma agudo de ángulo cerrado inducido por el embarazo.",
+        "E": "Toxicidad directa del sulfato de magnesio sobre el nervio óptico."
+      },
+      "correct": "B",
+      "comment": "Las alteraciones visuales en la preeclampsia severa/eclampsia (visión borrosa, escotomas, ceguera cortical) derivan del intenso vasoespasmo endotelial que caracteriza a la enfermedad. Esto produce pérdida de la autorregulación vascular cerebral, edema vasogénico e isquemia local, principalmente en las regiones posteriores del cerebro (corteza occipital), cuadro conocido como Síndrome PRES."
+    },
+    {
+      "number": 493,
+      "code": "DIRESA26 P493",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "En la evaluación del partograma modificado de la OMS de una nulípara en trabajo de parto activo, la dilatación cervical alcanzó los 6 cm hace 3 horas. Al volver a examinarla actualmente, la dilatación permanece estancada exactamente en 6 cm, a pesar de tener buena dinámica uterina. ¿Cuál es el diagnóstico clínico obstétrico de este trastorno del progreso del parto?",
+      "options": {
+        "A": "Fase latente prolongada.",
+        "B": "Parto precipitado.",
+        "C": "Detención secundaria de la dilatación cervical (cese total de la dilatación durante 2 horas o más en la fase activa).",
+        "D": "Descenso prolongado de la cabeza fetal.",
+        "E": "Inercia uterina hiposistólica."
+      },
+      "correct": "C",
+      "comment": "En el partograma, un cese absoluto en el avance de la dilatación del cuello uterino durante un período de 2 horas o más, estando la paciente ya en fase activa del parto (> 4 cm), define la 'Detención Secundaria de la Dilatación'. Generalmente indica una desproporción cefalopélvica o distocia de posición."
+    },
+    {
+      "number": 494,
+      "code": "DIRESA26 P494",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "En la ecografía del primer trimestre (entre las 10 y 14 semanas) de un embarazo gemelar, el ecografista busca determinar la cigosidad y corionicidad. Observa una separación gruesa y en forma de cuña de tejido placentario que se extiende entre las membranas de los dos sacos gestacionales. Este hallazgo ecográfico patognomónico se conoce como el 'Signo del Lambda' o 'Pico gemelar'. ¿Qué tipo de embarazo múltiple confirma este signo?",
+      "options": {
+        "A": "Embarazo monocorial monoamniótico.",
+        "B": "Embarazo monocorial biamniótico.",
+        "C": "Fetus in fetu.",
+        "D": "Embarazo gemelar bicorial biamniótico (dos placentas y dos sacos).",
+        "E": "Mola hidatiforme parcial gemelar."
+      },
+      "correct": "D",
+      "comment": "El 'Signo del Lambda' o 'Twin Peak sign' es la proyección triangular de tejido coriónico entre las dos capas amnióticas. Su presencia en la ecografía del primer trimestre garantiza en un 100% que el embarazo gemelar es Bicorial (existen dos placentas separadas o fusionadas pero con corion independiente). Si las placentas fueran monocoriales, se vería el 'Signo de la T'."
+    },
+    {
+      "number": 495,
+      "code": "DIRESA26 P495",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Una gestante de 10 semanas acude por Hiperémesis Gravídica severa de tres semanas de evolución. Presenta pérdida del 10% de su peso corporal, deshidratación profunda e hipopotasemia. Al examen neurológico se evidencia confusión mental, ataxia en la marcha, nistagmo y oftalmoplejía. Esta grave complicación neurológica se denomina Encefalopatía de Wernicke. ¿Qué déficit vitamínico agudo causado por los vómitos prolongados es el responsable de este cuadro?",
+      "options": {
+        "A": "Vitamina C (Ácido ascórbico).",
+        "B": "Vitamina D (Colecalciferol).",
+        "C": "Vitamina B12 (Cianocobalamina).",
+        "D": "Vitamina B9 (Ácido Fólico).",
+        "E": "Vitamina B1 (Tiamina)."
+      },
+      "correct": "E",
+      "comment": "La Encefalopatía de Wernicke es una urgencia neurológica caracterizada por la tríada de confusión, oftalmoplejía/nistagmo y ataxia. Ocurre por déficit severo de Tiamina (Vitamina B1), que se agota rápidamente por los vómitos persistentes y el ayuno en la hiperémesis gravídica. Requiere reposición endovenosa de Tiamina ANTES de administrar cualquier fluido glucosado."
+    },
+    {
+      "number": 496,
+      "code": "DIRESA26 P496",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Al evaluar clínicamente la pelvis ósea de una gestante, la obstetra la clasifica según la morfología de Caldwell-Moloy. Determina que el estrecho superior tiene forma redondeada o de óvalo transverso leve, las espinas ciáticas no son prominentes, las paredes laterales son rectas y el arco subpúbico es amplio (mayor de 90°). ¿Cuál es la clasificación anatómica de esta pelvis, considerada la más favorable y clásica para el parto vaginal normal?",
+      "options": {
+        "A": "Pelvis Ginecoide.",
+        "B": "Pelvis Androide.",
+        "C": "Pelvis Antropoide.",
+        "D": "Pelvis Platipeloide.",
+        "E": "Pelvis en Embudo."
+      },
+      "correct": "A",
+      "comment": "La Pelvis Ginecoide se encuentra en aproximadamente el 50% de las mujeres. Es la pelvis 'femenina clásica', anatómica y biomecánicamente óptima para permitir el encajamiento, la rotación interna y la expulsión fetal, debido a su amplitud en todos los diámetros y su arco subpúbico ancho."
+    },
+    {
+      "number": 497,
+      "code": "DIRESA26 P497",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Una primigesta de 39 semanas de edad gestacional llega en fase activa del trabajo de parto (dilatación de 6 cm) a un centro de salud del nivel I-3. Al examen físico y ecográfico se constata que el feto se encuentra en Presentación Podálica (nalgas). Teniendo en cuenta la evidencia actual y los protocolos de seguridad perinatal, ¿cuál es la vía de finalización del parto más segura y normada para esta paciente?",
+      "options": {
+        "A": "Inducción acelerada con oxitocina a altas dosis para acortar el parto.",
+        "B": "Programar Cesárea Electiva inmediata, debido a la alta morbimortalidad perinatal (asfixia, prolapso de cordón, retención de cabeza última) asociada al parto vaginal podálico en primigestas a término.",
+        "C": "Intentar la maniobra de versión cefálica externa intraparto.",
+        "D": "Extracción fetal mediante el uso de fórceps o ventosa en nalgas.",
+        "E": "Parto domiciliario asistido por la familia."
+      },
+      "correct": "B",
+      "comment": "En primigestas con embarazo a término y feto único en presentación podálica, el estándar de cuidado global (respaldado por estudios como el Term Breech Trial) indica el parto por cesárea. El parto vaginal podálico conlleva riesgos inaceptables de retención de cabeza última, traumatismo obstétrico severo y mortalidad neonatal."
+    },
+    {
+      "number": 498,
+      "code": "DIRESA26 P498",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Durante el seguimiento de una gestante de 34 semanas, se produce la rotura espontánea de membranas (fuente). Inmediatamente, la paciente presenta sangrado vaginal rojo rutilante y el monitoreo fetal (NST) muestra un patrón de sufrimiento fetal agudo severo (patrón sinusoidal con bradicardia severa inminente) sin que la madre presente hipertonía uterina ni dolor. ¿Cuál es la entidad vascular placentaria que causa esta catástrofe por hemorragia directa del feto?",
+      "options": {
+        "A": "Acretismo placentario (Placenta increta).",
+        "B": "Desprendimiento prematuro de placenta leve.",
+        "C": "Rotura de Vasa Previa (vasos fetales aberrantes que cruzan libres sobre el orificio cervical interno, desgarrándose junto con las membranas).",
+        "D": "Rotura del útero en una cicatriz de cesárea anterior.",
+        "E": "Hemorragia por pólipo cervical benigno."
+      },
+      "correct": "C",
+      "comment": "La Vasa Previa ocurre cuando vasos umbilicales desprotegidos (sin gelatina de Wharton) cruzan las membranas por encima del orificio cervical. Al romperse la bolsa amniótica, estos vasos se desgarran. Es el feto el que sangra, no la madre. La hemorragia causa exanguinación fetal en minutos, caracterizándose por trazado sinusoidal en el NST y alta mortalidad si no se extrae por cesárea de emergencia máxima."
+    },
+    {
+      "number": 499,
+      "code": "DIRESA26 P499",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "En la consejería de Planificación Familiar post-aborto no complicado, una mujer de 28 años solicita un método reversible de larga duración (DIU). En su historia clínica, la paciente refiere sangrado vaginal intermenstrual abundante y postcoital de etiología no determinada (no ha sido evaluada por ginecología). Según los Criterios de la OMS, ¿cuál es la conducta ante la inserción del DIU?",
+      "options": {
+        "A": "Insertar el DIU y recetar hierro oral.",
+        "B": "Insertar un implante subdérmico el mismo día.",
+        "C": "Categoría 1, no hay restricciones en pacientes post-aborto.",
+        "D": "Es una Contraindicación (Categoría 4); no debe insertarse ningún DIU hasta que se estudie y descarte una patología grave subyacente que explique el sangrado vaginal de causa inexplicable (ej. cáncer de cérvix o endometrio).",
+        "E": "Recomendar la ligadura de trompas (AQV)."
+      },
+      "correct": "D",
+      "comment": "El sangrado vaginal de causa no explicada es una 'Bandera Roja' en ginecología. Insertar un dispositivo intrauterino (T de Cobre o DIU hormonal) está absolutamente contraindicado (Categoría 4) hasta que se realice una evaluación clínica (Papanicolaou, biopsia, ecografía) para descartar neoplasias malignas u otras patologías orgánicas severas."
+    },
+    {
+      "number": 500,
+      "code": "DIRESA26 P500",
+      "course": "Conocimientos para médico cirujano",
+      "topic": "Conocimientos para médico cirujano",
+      "question": "Una gestante de 26 semanas ingresa a la unidad de cuidados intensivos con diagnóstico de Pielonefritis aguda grave complicada. Se activa la 'Clave Amarilla' por sospecha de Sepsis Obstétrica. Durante el monitoreo horario de signos vitales e hipoperfusión, ¿cuál de los siguientes hallazgos clínicos/paraclínicos confirma el diagnóstico de progresión a 'Shock Séptico' a pesar de la resucitación adecuada con fluidos?",
+      "options": {
+        "A": "Temperatura de 38.5°C persistente.",
+        "B": "Leucocitosis de 15,000 / uL.",
+        "C": "Presencia de bacterias gramnegativas en el sedimento de orina.",
+        "D": "Taquicardia fetal de 165 lpm.",
+        "E": "Hipotensión sostenida (requerimiento de vasopresores para mantener una Presión Arterial Media PAM ≥ 65 mmHg) asociada a un nivel de lactato sérico elevado (> 2 mmol/L), evidenciando hipoperfusión celular crítica."
+      },
+      "correct": "E",
+      "comment": "Según los consensos internacionales (Sepsis-3) y protocolos obstétricos, el Shock Séptico se define como una sepsis que, a pesar de una adecuada reanimación con fluidos intravenosos, mantiene hipotensión arterial refractaria que exige drogas vasopresoras para alcanzar una PAM ≥ 65 mmHg, junto con marcadores de hipoxia celular profunda como el aumento del lactato sérico."
+    }
+  ]
+}

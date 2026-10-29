@@ -1,0 +1,1609 @@
+{
+  "schemaVersion": 1,
+  "bankId": "BALOTARIO_DIRESA_PUNO_2026_001_100",
+  "title": "Balotario del 1 al 100 · DIRESA Puno 2026",
+  "source": "Balotario Médicos Cirujanos y Obstetras · DIRESA Puno · Edición 2026 · PDF proporcionado por el usuario (sin verificación externa de claves)",
+  "questionCount": 100,
+  "questions": [
+    {
+      "number": 1,
+      "code": "DIRESA26 P001",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "Mujer gestante con eclampsia llega a un Puesto de Salud I-3. El médico de turno se niega a atenderla alegando que no son un hospital y no cuentan con sala de operaciones. Según la Ley General de Salud (N° 26842), ¿cuál es la responsabilidad legal de este acto?",
+      "options": {
+        "A": "Administrativa, por no derivar oportunamente al nivel I-4 a través del SAMU.",
+        "B": "Civil, únicamente si la paciente fallece durante el trayecto a otro centro.",
+        "C": "Todo establecimiento está obligado a prestar atención médico-quirúrgica de emergencia; su negativa constituye infracción grave e incurre en delito.",
+        "D": "Ninguna, el I-3 no tiene cartera de servicios aprobada para el manejo de eclampsia.",
+        "E": "Ética, sujeta exclusivamente a la evaluación del comité disciplinario del Colegio Médico."
+      },
+      "correct": "C",
+      "comment": "El Art. 39 de la Ley 26842 establece que toda persona tiene derecho a recibir atención de emergencia médica o quirúrgica en el establecimiento de salud más cercano. La negativa es penada por ley."
+    },
+    {
+      "number": 2,
+      "code": "DIRESA26 P002",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "Según la Ley del Servicio Civil (Ley N° 30057), un médico nombrado en el C.S. Acora abandona injustificadamente su guardia de 12 horas para atender pacientes en su consultorio privado. Al instaurarse el Procedimiento Administrativo Disciplinario (PAD), ¿cuál es la sanción máxima aplicable por esta falta?",
+      "options": {
+        "A": "Suspensión sin goce de remuneraciones por 365 días.",
+        "B": "Destitución del servicio civil e inhabilitación.",
+        "C": "Amonestación escrita con anotación permanente en el legajo.",
+        "D": "Rotación obligatoria a otro establecimiento de menor nivel resolutivo.",
+        "E": "Despido arbitrario con pago de indemnización proporcional."
+      },
+      "correct": "B",
+      "comment": "El abandono de cargo y el incumplimiento injustificado del horario de trabajo constituyen faltas de carácter disciplinario graves que conllevan a la destitución según la Ley 30057."
+    },
+    {
+      "number": 3,
+      "code": "DIRESA26 P003",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "Un obstetra de la Red de Salud Collao integra el comité de selección para la compra de ecógrafos y direcciona las bases para favorecer a una empresa de la que es accionista su hermano. Según la Ley N° 27815 (Código de Ética de la Función Pública), ¿qué prohibición específica ha vulnerado directamente?",
+      "options": {
+        "A": "Mantener intereses de conflicto.",
+        "B": "Obtener ventajas indebidas.",
+        "C": "Hacer mal uso de información privilegiada.",
+        "D": "Presionar, amenazar y/o acosar.",
+        "E": "Realizar proselitismo político."
+      },
+      "correct": "A",
+      "comment": "La ley prohíbe explícitamente mantener relaciones o aceptar situaciones en cuyo contexto sus intereses personales, laborales, económicos o financieros (incluyendo familiares) pudieran estar en conflicto con el cumplimiento de los deberes y funciones a su cargo."
+    },
+    {
+      "number": 4,
+      "code": "DIRESA26 P004",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "Conforme a la Ley de Trabajo del Médico Cirujano, la jornada ordinaria incluye el trabajo de guardia. Si un médico realiza una guardia nocturna en el Hospital Regional Manuel Núñez Butrón un día domingo (feriado no laborable), ¿cuál es el tratamiento legal de ese turno?",
+      "options": {
+        "A": "Se considera como hora ordinaria sin bonificación, al estar dentro del rol de turno.",
+        "B": "Debe ser compensado exclusivamente con un descanso físico de 48 horas.",
+        "C": "Se contabiliza doble estrictamente para el cálculo de su futura pensión de gracia.",
+        "D": "No forma parte de las 150 horas mensuales de jornada ordinaria por ser domingo.",
+        "E": "Constituye jornada extraordinaria y el profesional percibe una bonificación adicional a su remuneración."
+      },
+      "correct": "E",
+      "comment": "Las guardias hospitalarias realizadas los domingos y feriados se consideran extraordinarias y ameritan una bonificación diferenciada según el reglamento de la Ley de Trabajo Médico."
+    },
+    {
+      "number": 5,
+      "code": "DIRESA26 P005",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "La Ley de Trabajo del Obstetra (Ley N° 27853) establece su perfil profesional. En un Puesto de Salud rural en Puno, la obstetra de turno se enfrenta a un parto de término inminente. ¿Cuál es su competencia legal en este escenario según su ley de trabajo?",
+      "options": {
+        "A": "Derivar inmediatamente sin intervenir, por no ser un establecimiento con nivel quirúrgico.",
+        "B": "Asistir el parto solo en calidad de personal de apoyo bajo la supervisión del técnico de enfermería.",
+        "C": "Realizar una cesárea de emergencia en el establecimiento si el feto presenta bradicardia.",
+        "D": "Atención del parto normal, identificación temprana de signos de alarma y derivación oportuna de complicaciones.",
+        "E": "Delegar la atención integral del expulsivo a la partera tradicional de la comunidad."
+      },
+      "correct": "D",
+      "comment": "El artículo de competencias de la Ley del Obstetra señala claramente que su rol es la evaluación, diagnóstico y atención del embarazo, parto (eutócico/normal) y puerperio, así como la identificación de riesgos para la derivación."
+    },
+    {
+      "number": 6,
+      "code": "DIRESA26 P006",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "De acuerdo con la Ley General de Salud, ¿cuál de las siguientes afirmaciones sobre la prescripción de medicamentos es una obligación estricta para los médicos y obstetras en la DIRESA Puno?",
+      "options": {
+        "A": "Prescribir obligatoriamente el medicamento comercial más económico disponible en farmacia.",
+        "B": "Utilizar obligatoriamente la Denominación Común Internacional (DCI) en la receta médica.",
+        "C": "Entregar muestras médicas gratuitas como complemento obligatorio en cada consulta prenatal.",
+        "D": "Prescribir únicamente medicamentos del petitorio de su establecimiento, sin excepciones de emergencia.",
+        "E": "Validar toda receta de narcóticos con el sello y firma del director del centro de salud."
+      },
+      "correct": "B",
+      "comment": "El uso de la DCI (nombre genérico) en las prescripciones es obligatorio para todos los profesionales facultados para recetar, según modificaciones a la Ley 26842, para garantizar el derecho a la libre elección del paciente."
+    },
+    {
+      "number": 7,
+      "code": "DIRESA26 P007",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "En el marco del régimen disciplinario de SERVIR (Ley 30057), ¿qué órgano o figura administrativa es el competente para oficializar y firmar la sanción de \"Suspensión\" a un profesional de la salud de un Hospital Regional?",
+      "options": {
+        "A": "El Tribunal del Servicio Civil (TSC).",
+        "B": "El Director Regional de Salud en segunda instancia.",
+        "C": "El Jefe del Servicio o Departamento Médico.",
+        "D": "El Jefe de Recursos Humanos, o quien haga sus veces.",
+        "E": "El Gobernador Regional mediante Resolución Ejecutiva."
+      },
+      "correct": "D",
+      "comment": "En la fase sancionadora del PAD para amonestaciones escritas y suspensiones, el órgano sancionador es el Jefe de Recursos Humanos. El superior jerárquico actúa en apelaciones."
+    },
+    {
+      "number": 8,
+      "code": "DIRESA26 P008",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "Un médico del C.S. Ilave condiciona la entrega de certificados de discapacidad a que los usuarios firmen planillones en apoyo a un candidato político local. Según la Ley del Código de Ética de la Función Pública, este servidor vulnera directamente el deber de:",
+      "options": {
+        "A": "Discreción profesional.",
+        "B": "Transparencia ciudadana.",
+        "C": "Neutralidad.",
+        "D": "Eficiencia operativa.",
+        "E": "Uso adecuado de los bienes del Estado."
+      },
+      "correct": "C",
+      "comment": "El deber de Neutralidad exige actuar con absoluta imparcialidad, estando prohibido participar en actividades proselitistas o políticas utilizando el cargo, infraestructura o bienes del Estado."
+    },
+    {
+      "number": 9,
+      "code": "DIRESA26 P009",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "Respecto a la modalidad de trabajo de \"Retén\" estipulada en la normativa de Trabajo del Médico Cirujano, señale la afirmación correcta:",
+      "options": {
+        "A": "El médico debe permanecer en disponibilidad fuera del centro laboral para ser llamado por necesidad del servicio.",
+        "B": "Es de cumplimiento obligatorio presencial (12 horas) dentro del recinto hospitalario.",
+        "C": "Solo es aplicable legalmente para médicos residentes en etapa de formación de especialidad.",
+        "D": "Su programación es honorífica y no genera derecho a remuneración ni descanso compensatorio.",
+        "E": "Exime automáticamente al profesional de la obligación de realizar guardias diurnas."
+      },
+      "correct": "A",
+      "comment": "El retén es una modalidad donde el médico no permanece físicamente en el hospital, pero está disponible localizablemente fuera de su jornada ordinaria para acudir de inmediato en caso de emergencia."
+    },
+    {
+      "number": 10,
+      "code": "DIRESA26 P010",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "En un Puesto de Salud de la zona aymara, la obstetra rechaza categóricamente asistir un parto en posición vertical, argumentando que su formación fue occidental, pese a que la gestante lo exige por costumbre. Legalmente, y en el marco de la gestión en salud pública:",
+      "options": {
+        "A": "La profesional tiene razón; el parto vertical no tiene amparo legal ni normativo en el MINSA.",
+        "B": "La autonomía del profesional de salud prima sobre la elección cultural del paciente en todos los escenarios.",
+        "C": "Incurre en negligencia médica sujeta a denuncia penal y retiro de la colegiatura.",
+        "D": "La obstetra debe retener a la paciente e inmovilizarla para forzar el parto horizontal por su seguridad.",
+        "E": "Vulnera el enfoque de interculturalidad e irrespeta la adecuación cultural del parto amparada en normativas de MINSA."
+      },
+      "correct": "E",
+      "comment": "El MINSA cuenta con la Norma Técnica de Atención del Parto Vertical con Adecuación Intercultural (NTS 160-MINSA/2020), que obliga a los establecimientos y profesionales a respetar la adecuación cultural elegida por la gestante."
+    },
+    {
+      "number": 11,
+      "code": "DIRESA26 P011",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "La Ley General de Salud (Ley 26842) protege rigurosamente la confidencialidad de la historia clínica. ¿En qué escenario un médico en Puno está facultado legalmente para revelar información diagnóstica sin el consentimiento del paciente?",
+      "options": {
+        "A": "Por mandato de la autoridad judicial competente que lo ordene.",
+        "B": "Por solicitud escrita de un medio de comunicación de investigación local.",
+        "C": "Por pedido verbal del alcalde distrital ante rumores de brotes epidemiológicos.",
+        "D": "Cuando el empleador del paciente lo solicita formalmente para justificar ausencias.",
+        "E": "En ningún caso, el secreto profesional en la salud es absoluto y sin excepciones en el Perú."
+      },
+      "correct": "A",
+      "comment": "La Ley 26842 establece excepciones al secreto profesional, siendo las principales: cuando el paciente autoriza, por mandato de ley (notificación obligatoria de ciertas enfermedades epidemiológicas), o por mandato judicial."
+    },
+    {
+      "number": 12,
+      "code": "DIRESA26 P012",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "Según el Reglamento de la Ley N° 30057, SERVIR, ¿cuál es la \"medida cautelar\" que la autoridad puede aplicar a un obstetra durante un PAD si su permanencia en el puesto pone en riesgo las pruebas o el desarrollo de las investigaciones?",
+      "options": {
+        "A": "Inhabilitación temporal y retención de su título profesional.",
+        "B": "Retención preventiva del 50% de sus haberes mensuales.",
+        "C": "Clausura inmediata de su consultorio o clínica particular.",
+        "D": "Suspensión definitiva del registro en el colegio profesional respectivo.",
+        "E": "Exoneración de la obligación de asistir al centro de trabajo o rotación a otro puesto."
+      },
+      "correct": "E",
+      "comment": "Las medidas cautelares en un PAD, para no vulnerar la presunción de inocencia, consisten en rotar al servidor a otra área o exonerarlo de asistir, pero manteniendo intacto su derecho a remuneración hasta que concluya el proceso."
+    },
+    {
+      "number": 13,
+      "code": "DIRESA26 P013",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "Un Director de Red de Salud en Puno oculta deliberadamente los informes de las auditorías de muertes maternas ocurridas en su jurisdicción para evitar que bajen los indicadores de desempeño de su gestión. Según la Ley N° 27815 (Código de Ética), ¿qué principio transgrede flagrantemente?",
+      "options": {
+        "A": "Equidad comunitaria.",
+        "B": "Respeto al ciudadano.",
+        "C": "Transparencia.",
+        "D": "Lealtad al Estado.",
+        "E": "Idoneidad técnica."
+      },
+      "correct": "C",
+      "comment": "La Transparencia obliga a que la información pública y los actos de la administración sean accesibles. Ocultar información estadística en salud atenta contra este principio."
+    },
+    {
+      "number": 14,
+      "code": "DIRESA26 P014",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "Sobre el \"descanso compensatorio posguardia\" contemplado en la normativa de trabajo para médicos y obstetras del sector público: Si el profesional realiza una guardia nocturna, ¿qué corresponde legalmente?",
+      "options": {
+        "A": "Descanso físico solo la tarde del día posterior.",
+        "B": "Descanso físico el día calendario inmediato siguiente.",
+        "C": "Un bono económico equivalente al doble de la guardia, sin derecho a descanso.",
+        "D": "Descanso acumulable exclusivamente a sus vacaciones anuales correspondientes.",
+        "E": "Descanso de 48 horas continuas, fraccionables según necesidad."
+      },
+      "correct": "B",
+      "comment": "Toda guardia nocturna de 12 horas presenciales ininterrumpidas otorga el derecho a descanso físico compensatorio el día calendario inmediatamente siguiente para la recuperación del profesional."
+    },
+    {
+      "number": 15,
+      "code": "DIRESA26 P015",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "De acuerdo a la Ley de Trabajo del Obstetra (Ley N° 27853) y su reglamento, ¿cuál de las siguientes opciones representa una prohibición durante el ejercicio de sus funciones en los establecimientos de salud?",
+      "options": {
+        "A": "Realizar docencia universitaria superior en sus horas libres.",
+        "B": "Prescribir suplementación profiláctica de hierro y ácido fólico a gestantes.",
+        "C": "Realizar atenciones prenatales reenfocadas en establecimientos I-2.",
+        "D": "Realizar intervenciones quirúrgicas mayores u obstétricas instrumentadas (ej. fórceps, cesáreas).",
+        "E": "Brindar consejería integral en planificación familiar y entrega de métodos anticonceptivos."
+      },
+      "correct": "D",
+      "comment": "El perfil del obstetra es clínico y preventivo-promocional. Las intervenciones quirúrgicas mayores y el uso de instrumentos obstétricos para partos distócicos son competencia exclusiva del médico cirujano (ginecólogo)."
+    },
+    {
+      "number": 16,
+      "code": "DIRESA26 P016",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "En una epidemia de dengue reportada en la selva puneña (San Gabán), la DIRESA dictamina medidas sanitarias de fumigación domiciliaria. Un grupo de vecinos se opone tajantemente alegando invasión a la propiedad privada. Según la Ley General de Salud, ¿qué potestad tiene la Autoridad de Salud?",
+      "options": {
+        "A": "Ceder ante la negativa, pues prima la inviolabilidad del domicilio por sobre la salud colectiva.",
+        "B": "Solicitar a los vecinos que contraten fumigadoras privadas certificadas.",
+        "C": "Las medidas sanitarias son meras recomendaciones, no de acatamiento obligatorio.",
+        "D": "Expropiar las viviendas temporalmente mediante orden del Gobierno Regional.",
+        "E": "La Autoridad de Salud puede disponer el ingreso a los predios e inclusive solicitar el auxilio de la fuerza pública para resguardar la salud de la población."
+      },
+      "correct": "E",
+      "comment": "En situaciones de emergencia sanitaria o epidemia (como riesgo inminente), la Ley 26842 otorga facultades extraordinarias a la Autoridad de Salud, incluyendo el allanamiento sanitario con apoyo policial si hay resistencia."
+    },
+    {
+      "number": 17,
+      "code": "DIRESA26 P017",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "En el subsistema de Gestión del Rendimiento de SERVIR, si un médico cirujano de un centro de salud rural obtiene una calificación oficial de \"Personal de Desempeño Sujeto a Observación\" por dos años consecutivos en sus evaluaciones, ¿qué consecuencia aplica según la norma?",
+      "options": {
+        "A": "Su cese o desvinculación definitiva de la entidad pública.",
+        "B": "Una reducción del 30% de su remuneración mensual.",
+        "C": "Su traslado a un puesto directivo para cambiar su perfil.",
+        "D": "Ascenso automático al nivel superior en la carrera médica.",
+        "E": "Exoneración de evaluaciones durante los siguientes 3 años."
+      },
+      "correct": "A",
+      "comment": "Según la Ley del Servicio Civil, obtener calificación \"sujeto a observación\" en dos evaluaciones anuales consecutivas (después de haber pasado por capacitación entre ambas) es causal de término del vínculo laboral."
+    },
+    {
+      "number": 18,
+      "code": "DIRESA26 P018",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "Un obstetra de la DIRESA Puno utiliza en repetidas ocasiones la ambulancia del Estado, fuera de los horarios de guardia y sin reportar emergencia alguna, para transportar cajas de cerámica y materiales de construcción a su domicilio. ¿Qué deber o principio del Código de Ética ha quebrado de forma principal?",
+      "options": {
+        "A": "Imparcialidad.",
+        "B": "Tolerancia.",
+        "C": "Eficiencia en la atención.",
+        "D": "Uso adecuado de los bienes del Estado.",
+        "E": "Solidaridad institucional."
+      },
+      "correct": "D",
+      "comment": "El deber de \"Uso adecuado de los bienes del Estado\" obliga al servidor público a emplear los recursos e infraestructuras asignados únicamente para el desempeño de las funciones institucionales, nunca para beneficio personal."
+    },
+    {
+      "number": 19,
+      "code": "DIRESA26 P019",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "La Ley de Trabajo del Médico Cirujano reconoce derechos vinculados a los riesgos de la profesión. ¿A qué beneficio laboral tiene derecho un médico que labora permanentemente en la sala de Rayos X o expuesto a fuentes radioactivas?",
+      "options": {
+        "A": "Derecho a doble aguinaldo en julio y diciembre.",
+        "B": "Derecho a descansos físicos adicionales (vacaciones profilácticas) o bonificaciones por riesgo, según reglamento.",
+        "C": "Pensión de gracia vitalicia a los 10 años de servicio continuos.",
+        "D": "Exoneración total del pago del Impuesto a la Renta.",
+        "E": "Derecho a rechazar el uso del mandil de plomo si firma consentimiento informado."
+      },
+      "correct": "B",
+      "comment": "El personal médico y paramédico expuesto a radiaciones ionizantes tiene derecho normado a licencias y descansos profilácticos adicionales a los 30 días de vacaciones de ley, para prevenir daño acumulativo a su salud."
+    },
+    {
+      "number": 20,
+      "code": "DIRESA26 P020",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "La Función Rectora en Salud es ejercida por el MINSA. En el contexto de Puno, si la DIRESA emite una directiva local que contradice abiertamente la Norma Técnica Nacional (por ejemplo, eliminando una vacuna del esquema regular para ahorrar presupuesto), ¿cuál es la situación legal de esa directiva?",
+      "options": {
+        "A": "Es válida por la autonomía presupuestal del Gobierno Regional.",
+        "B": "Es válida porque el Gobernador Regional tiene rango equivalente a un Ministro en su territorio.",
+        "C": "Es nula, ya que el MINSA es la Autoridad Nacional en Salud y sus políticas nacionales son de cumplimiento obligatorio por los Gobiernos Regionales.",
+        "D": "Es válida temporalmente hasta que sea demandada ante el Tribunal Constitucional.",
+        "E": "Solo es válida si cuenta con la firma de aprobación del Decano del Colegio Médico de Puno."
+      },
+      "correct": "C",
+      "comment": "A pesar de la descentralización, la Ley Orgánica del Poder Ejecutivo y la Ley General de Salud dictaminan que las Políticas Nacionales, Normas Técnicas y Esquemas Nacionales emitidos por el MINSA (Rectoría) no pueden ser contravenidos por gobiernos subnacionales."
+    },
+    {
+      "number": 21,
+      "code": "DIRESA26 P021",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "Un Director de una Red de Salud en Puno, amparándose en la escasez de personal por la lejanía, contrata directamente a su cuñado como chofer de la ambulancia del establecimiento. Según la normativa de SERVIR y el Código de Ética de la Función Pública, esta acción configura:",
+      "options": {
+        "A": "Una falta leve por no realizar concurso público, subsanable con la aprobación de Recursos Humanos.",
+        "B": "Un acto válido bajo la figura de 'contratación directa por emergencia sanitaria o necesidad de servicio'.",
+        "C": "Una falta muy grave por nepotismo, causal de destitución del cargo directivo.",
+        "D": "Una contravención al principio de Idoneidad, sancionable solo con amonestación escrita.",
+        "E": "Un delito penal exclusivo, que no tiene repercusión en la vía administrativa disciplinaria."
+      },
+      "correct": "C",
+      "comment": "El nepotismo (contratar o influir para contratar a parientes hasta el cuarto grado de consanguinidad o segundo de afinidad, como el cuñado) es una falta administrativa muy grave contemplada en la Ley del Servicio Civil y leyes especiales, sancionada con destitución."
+    },
+    {
+      "number": 22,
+      "code": "DIRESA26 P022",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "De acuerdo con la Ley General de Salud (Ley N° 26842), si un paciente adulto, en pleno uso de sus facultades mentales, se niega a recibir una transfusión sanguínea en un hospital de Juliaca, argumentando motivos religiosos, pese a que su vida corre peligro, ¿cómo debe proceder el médico tratante?",
+      "options": {
+        "A": "Administrar la transfusión bajo sedación, primando el derecho a la vida establecido en la Constitución.",
+        "B": "Respetar la decisión del paciente, asegurándose de que firme el formato de negativa de tratamiento e informando de los riesgos.",
+        "C": "Solicitar una orden judicial de emergencia para obligar al paciente a recibir la transfusión.",
+        "D": "Involucrar a los familiares para que ellos autoricen el procedimiento por encima de la voluntad del paciente.",
+        "E": "Trasladar obligatoriamente al paciente a un establecimiento privado para evitar problemas médico-legales."
+      },
+      "correct": "B",
+      "comment": "La Ley 26842 establece el derecho de toda persona a negarse a recibir tratamiento médico o quirúrgico. El médico debe respetar esta decisión, documentándola adecuadamente mediante el consentimiento/disentimiento informado."
+    },
+    {
+      "number": 23,
+      "code": "DIRESA26 P023",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "Según la Ley de Trabajo del Médico Cirujano, ¿cómo está estructurada legalmente la progresión o ascenso en la carrera médica para los profesionales del sector público?",
+      "options": {
+        "A": "Se estructura en 5 niveles, y el ascenso se realiza por evaluación técnica y tiempo mínimo de permanencia en cada nivel (5 años).",
+        "B": "Se estructura en 3 niveles, y el ascenso es automático cada 3 años de servicio ininterrumpido.",
+        "C": "Depende exclusivamente del nivel resolutivo del establecimiento de salud donde labora el profesional.",
+        "D": "Se estructura en grados jerárquicos militares equivalentes, ascendiendo cada 4 años mediante un examen de suficiencia.",
+        "E": "No existen niveles; la carrera médica es plana y solo aumentan las bonificaciones por años de servicio (quinquenios)."
+      },
+      "correct": "A",
+      "comment": "La Ley de Trabajo Médico y su reglamento establecen que la línea de carrera comprende 5 niveles, exigiendo un tiempo mínimo de permanencia de 5 años en cada nivel y evaluación favorable para ascender al siguiente."
+    },
+    {
+      "number": 24,
+      "code": "DIRESA26 P024",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "Una obstetra del Centro de Salud de Sandia receta antibióticos sistémicos de amplio espectro (Ceftriaxona endovenosa) a una paciente no gestante por una infección urinaria complicada, al no encontrarse el médico en el establecimiento. De acuerdo a la Ley de Trabajo del Obstetra (Ley 27853):",
+      "options": {
+        "A": "Actuó correctamente, amparada en la necesidad de atención rural.",
+        "B": "Ha excedido sus competencias legales, incurriendo en ejercicio ilegal de la medicina, ya que no le corresponde el manejo de antibióticos sistémicos en no gestantes.",
+        "C": "Actuó legalmente si deja constancia de la ausencia del médico en la historia clínica.",
+        "D": "Su acción es válida, pues el petitorio farmacológico obstétrico incluye antibióticos endovenosos para todo público.",
+        "E": "Solo cometió una falta administrativa leve por no consultar telefónicamente con un médico del hospital regional."
+      },
+      "correct": "B",
+      "comment": "La Ley 27853 delimita las competencias del obstetra a la atención de la mujer en la etapa preconcepcional, concepcional y postconcepcional. La prescripción de antibióticos para patologías clínicas generales excede sus funciones y configura ejercicio ilegal de la medicina."
+    },
+    {
+      "number": 25,
+      "code": "DIRESA26 P025",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "En el marco del Procedimiento Administrativo Disciplinario (PAD) regulado por la Ley SERVIR, ¿cuál es el plazo de 'prescripción' para que Recursos Humanos inicie un PAD contra un médico por una falta administrativa desde el momento en que la oficina toma conocimiento del hecho?",
+      "options": {
+        "A": "30 días hábiles.",
+        "B": "6 meses.",
+        "C": "1 año calendario.",
+        "D": "3 años.",
+        "E": "Las faltas disciplinarias en el sector salud son imprescriptibles."
+      },
+      "correct": "C",
+      "comment": "Según la Ley 30057 (SERVIR), la potestad disciplinaria para iniciar el PAD prescribe al año calendario desde que Recursos Humanos (o quien haga sus veces) toma conocimiento del hecho; o a los 3 años desde que se cometió la falta, si no hubo conocimiento previo."
+    },
+    {
+      "number": 26,
+      "code": "DIRESA26 P026",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "Una empresa farmacéutica ofrece costear todos los gastos de viaje, estadía y un estipendio económico a los médicos de la DIRESA Puno para que asistan a un congreso en Europa, a cambio de recetar preferentemente sus productos. Según el Código de Ética de la Función Pública, aceptar este ofrecimiento vulnera directamente la prohibición de:",
+      "options": {
+        "A": "Hacer mal uso de información privilegiada.",
+        "B": "Obtener ventajas indebidas.",
+        "C": "Ejercicio inadecuado del cargo.",
+        "D": "Presionar o amenazar a terceros.",
+        "E": "Falta de lealtad al Estado."
+      },
+      "correct": "B",
+      "comment": "El artículo 8 del Código de Ética prohíbe obtener o procurar beneficios o ventajas indebidas, para sí o para otros, mediante el uso de su cargo, autoridad o influencia, incluyendo recibir dádivas, compensaciones o favores que comprometan su objetividad."
+    },
+    {
+      "number": 27,
+      "code": "DIRESA26 P027",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "La Ley General de Salud establece normativas estrictas respecto al certificado de defunción. En una comunidad altoandina donde no existe médico cirujano en un radio de varias horas, ¿quién es el profesional legalmente facultado para constatar el fallecimiento y expedir el certificado?",
+      "options": {
+        "A": "Únicamente el fiscal provincial de turno.",
+        "B": "El juez de paz letrado de la jurisdicción.",
+        "C": "El enfermero, la obstetra o el profesional de la salud de mayor jerarquía que labora en la localidad.",
+        "D": "El técnico de enfermería del Puesto de Salud I-1.",
+        "E": "Nadie, el cadáver debe ser trasladado obligatoriamente a la capital provincial para que un médico lo firme."
+      },
+      "correct": "C",
+      "comment": "La Ley 26842 estipula que, a falta de médico en la localidad donde ocurre el fallecimiento, el certificado de defunción puede ser expedido por el profesional de salud que lo haya constatado, o en su defecto, por la autoridad política o judicial."
+    },
+    {
+      "number": 28,
+      "code": "DIRESA26 P028",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "Sobre la jornada laboral estipulada en la Ley de Trabajo Médico, ¿cuál es el porcentaje máximo legal de la jornada ordinaria mensual (150 horas) que un médico asistente de consulta externa puede destinar a actividades administrativas, docentes o de investigación?",
+      "options": {
+        "A": "No está permitido, el 100% debe ser exclusivamente labor asistencial.",
+        "B": "Hasta el 10% de su jornada mensual.",
+        "C": "Hasta el 20% de su jornada mensual.",
+        "D": "Hasta el 50% si cuenta con la aprobación del Jefe de Departamento.",
+        "E": "Queda a libre albedrío del médico cirujano según sus necesidades."
+      },
+      "correct": "C",
+      "comment": "El Reglamento de la Ley de Trabajo del Médico Cirujano indica que dentro de la jornada ordinaria, los médicos asistentes dedicarán no menos del 80% del tiempo a la atención directa y un máximo del 20% para actividades de docencia, investigación y administrativas."
+    },
+    {
+      "number": 29,
+      "code": "DIRESA26 P029",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "Un obstetra que labora en el área de planificación familiar en Puno filtra a la prensa local el historial reproductivo y las atenciones de una conocida autoridad municipal. ¿Qué sanción o repercusión puede enfrentar según la conjunción de la Ley General de Salud y la Ley SERVIR?",
+      "options": {
+        "A": "Ninguna, si la autoridad es un personaje público sujeto al escrutinio ciudadano.",
+        "B": "Solo una amonestación verbal del director de la Red de Salud.",
+        "C": "Un PAD que podría derivar en destitución por vulnerar el secreto profesional, además de responsabilidad civil y penal.",
+        "D": "Rotación permanente a labores exclusivamente administrativas sin acceso a historias clínicas.",
+        "E": "Suspensión temporal de sueldo por 15 días hábiles."
+      },
+      "correct": "C",
+      "comment": "Romper el secreto profesional y divulgar información confidencial de un paciente (protegido por la Ley 26842) constituye una falta disciplinaria gravísima que amerita destitución bajo la Ley SERVIR, sin perjuicio de las sanciones penales (violación del secreto profesional) y civiles."
+    },
+    {
+      "number": 30,
+      "code": "DIRESA26 P030",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "En la Ley del Servicio Civil (Ley 30057), ¿qué tipo de sanción disciplinaria NO requiere la instauración previa de un Procedimiento Administrativo Disciplinario (PAD) formal con fase instructiva, sino que es impuesta de manera directa y rápida por el jefe inmediato?",
+      "options": {
+        "A": "La Amonestación Escrita.",
+        "B": "La Suspensión temporal de 1 a 30 días.",
+        "C": "La Amonestación Verbal.",
+        "D": "La Inhabilitación temporal por 1 año.",
+        "E": "Ninguna sanción disciplinaria requiere PAD en el sector público."
+      },
+      "correct": "C",
+      "comment": "Según SERVIR, la Amonestación Verbal es la única sanción que es impuesta de manera directa por el jefe inmediato, no requiere PAD previo, se da de forma personal, reservada y no se inscribe en el legajo del servidor."
+    },
+    {
+      "number": 31,
+      "code": "DIRESA26 P031",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "De acuerdo con el Código de Ética de la Función Pública, el principio que obliga al servidor a actuar con absoluta rectitud, honradez y honestidad, desechando todo provecho o ventaja personal, se denomina:",
+      "options": {
+        "A": "Idoneidad.",
+        "B": "Veracidad.",
+        "C": "Probidad.",
+        "D": "Lealtad y Obediencia.",
+        "E": "Justicia y Equidad."
+      },
+      "correct": "C",
+      "comment": "El principio de Probidad (Art. 6 del Código de Ética) se define exactamente como la actuación con rectitud, honradez y honestidad, buscando siempre el interés general y desechando provechos personales."
+    },
+    {
+      "number": 32,
+      "code": "DIRESA26 P032",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "Bajo la Ley de Trabajo del Obstetra, si una profesional es designada como Jefa del Servicio de Obstetricia de un Hospital Nivel II-1, el tiempo dedicado a sus labores estrictamente administrativas y de gestión de jefatura:",
+      "options": {
+        "A": "No está contabilizado dentro de las 150 horas de su jornada, debiendo realizarlas ad honorem.",
+        "B": "Forma parte del 100% de su jornada ordinaria legal y genera derecho a la bonificación por jefatura.",
+        "C": "Debe realizarse exclusivamente durante los turnos de guardia nocturna.",
+        "D": "Implica su renuncia obligatoria e inmediata a cualquier otro cargo docente universitario.",
+        "E": "No puede exceder las 10 horas semanales bajo ninguna circunstancia."
+      },
+      "correct": "B",
+      "comment": "La norma indica que para los cargos de jefatura (directivos o gerenciales), la jornada se cumple íntegramente (100%) dentro del marco de sus funciones administrativas y de conducción, reconociéndosele las bonificaciones por el cargo correspondientes."
+    },
+    {
+      "number": 33,
+      "code": "DIRESA26 P033",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "La DIRESA Puno implementa un proceso de evaluación del desempeño (Subsistema de Gestión del Rendimiento). Un médico general en su primer año de nombramiento se niega a participar argumentando que las evaluaciones atentan contra su estabilidad laboral. Según la Ley SERVIR:",
+      "options": {
+        "A": "Tiene derecho a negarse, pues la evaluación es de carácter voluntario.",
+        "B": "La evaluación de desempeño es obligatoria, y la negativa injustificada se considera como una calificación de 'Personal de desempeño sujeto a observación'.",
+        "C": "El médico puede ser eximido si cuenta con el aval del Sindicato Médico Nacional.",
+        "D": "La Ley SERVIR no se aplica a médicos cirujanos en lo referente a evaluación de desempeño.",
+        "E": "La falta de participación conlleva a una multa económica del 10% de su salario."
+      },
+      "correct": "B",
+      "comment": "En el régimen SERVIR, las evaluaciones de desempeño son obligatorias. El reglamento estipula que la negativa o inasistencia injustificada a la evaluación genera automáticamente la calificación más baja ('sujeto a observación')."
+    },
+    {
+      "number": 34,
+      "code": "DIRESA26 P034",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "Según la Ley General de Salud, ¿en cuál de los siguientes casos es jurídicamente OBLIGATORIA la realización de una necropsia de ley, incluso con la oposición de los familiares del fallecido?",
+      "options": {
+        "A": "En todo paciente fallecido en un Puesto de Salud nivel I-2, independientemente de la causa.",
+        "B": "En muertes por enfermedades terminales documentadas (ej. cáncer en fase IV) ocurridas en domicilio.",
+        "C": "Cuando la muerte se produce como resultado de un accidente, homicidio, suicidio, o existan indicios de criminalidad.",
+        "D": "En muertes maternas ocurridas durante el puerperio tardío por causas obstétricas indirectas.",
+        "E": "En fallecimientos por enfermedades infecciosas tropicales (ej. malaria grave) comprobadas por laboratorio."
+      },
+      "correct": "C",
+      "comment": "La Ley 26842 establece la obligatoriedad de la necropsia médico- legal (autopsia clínica) cuando la muerte es súbita sin causa clínica conocida, o cuando haya sospecha o evidencia de criminalidad, accidentes o violencia."
+    },
+    {
+      "number": 35,
+      "code": "DIRESA26 P035",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "En la celebración del 'Día de la Medicina Peruana' (5 de octubre), un médico de Puno es programado para laborar en su turno de guardia diurna de emergencia. De acuerdo con la Ley de Trabajo Médico, ¿cuál es el beneficio normativo para ese día?",
+      "options": {
+        "A": "El profesional tiene derecho a descansar sin reemplazo, quedando el servicio desatendido.",
+        "B": "El día es considerado laborable ordinario y no genera ningún beneficio adicional.",
+        "C": "Es un feriado no laborable; si el médico asiste por necesidad del servicio, el turno se computa como trabajo extraordinario.",
+        "D": "Se le otorga automáticamente 3 días de descanso físico compensatorio la semana siguiente.",
+        "E": "El profesional recibe el triple de su remuneración diaria."
+      },
+      "correct": "C",
+      "comment": "El reglamento de la Ley de Trabajo Médico reconoce el Día de la Medicina como feriado no laborable para los médicos cirujanos. Si por necesidad de servicio asistencial o de emergencia deben laborar, este trabajo genera una compensación económica (bonificación) o descanso físico."
+    },
+    {
+      "number": 36,
+      "code": "DIRESA26 P036",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "Un médico residente en Puno observa que su tutor maltrata verbalmente a los pacientes de forma sistemática. Según el deber de 'Transparencia' y 'Ejercicio Adecuado del Cargo' (Ley 27815), ¿cuál es la conducta ética y legal esperada del residente?",
+      "options": {
+        "A": "Encubrir el hecho para mantener la armonía institucional y aprobar la especialidad.",
+        "B": "Denunciar los actos de maltrato ante las autoridades competentes del establecimiento.",
+        "C": "Aplicar el mismo trato para unificar los criterios del departamento.",
+        "D": "Abandonar la residencia médica sin previo aviso para no ser cómplice.",
+        "E": "Intervenir físicamente contra el tutor en presencia del paciente."
+      },
+      "correct": "B",
+      "comment": "Todo servidor público tiene la obligación ética y administrativa de denunciar ante las autoridades competentes los actos de corrupción, abusos o faltas graves cometidos por otros servidores, protegiendo los derechos de los usuarios."
+    },
+    {
+      "number": 37,
+      "code": "DIRESA26 P037",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "En un distrito rural de Puno azotado por las heladas, la DIRESA emite una directiva para iniciar profilaxis obligatoria y vacunación. Un médico promueve activamente en sus redes sociales locales que las vacunas del MINSA son un 'invento para controlar a la población', causando pánico y rechazo vecinal. Desde la óptica disciplinaria de SERVIR, esto representa:",
+      "options": {
+        "A": "Un ejercicio válido de su libertad de expresión amparado constitucionalmente.",
+        "B": "Una falta leve por desalineamiento de políticas de comunicación.",
+        "C": "Una falta disciplinaria grave por atentar contra los intereses del Estado y la salud pública, contraviniendo sus funciones.",
+        "D": "Un conflicto ético interno que solo puede ser juzgado por el Colegio Médico del Perú.",
+        "E": "Un mérito por promover el cuestionamiento científico en la población."
+      },
+      "correct": "C",
+      "comment": "Difundir desinformación que boicotea directamente las políticas públicas y las campañas sanitarias de la entidad donde labora, poniendo en riesgo a la población, constituye una grave inobservancia a los deberes del servidor público."
+    },
+    {
+      "number": 38,
+      "code": "DIRESA26 P038",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "Con relación a los derechos de los usuarios de los servicios de salud (Ley 26842), ¿cuál es la regla general sobre la presencia de terceros (ej. estudiantes, visitantes) durante el examen médico o el tratamiento clínico de un paciente en un Hospital Docente?",
+      "options": {
+        "A": "Es de libre acceso, por ser una institución con convenio universitario docente.",
+        "B": "Se requiere contar obligatoriamente con el consentimiento previo del paciente para la presencia de personas no implicadas directamente en su atención.",
+        "C": "El médico tratante es quien decide unilateralmente si permite el ingreso de alumnos.",
+        "D": "Está totalmente prohibida la presencia de estudiantes en el área de hospitalización, incluso con permiso.",
+        "E": "Los estudiantes pueden estar presentes siempre y cuando permanezcan en absoluto silencio."
+      },
+      "correct": "B",
+      "comment": "La Ley General de Salud protege el pudor y la intimidad del paciente. Ninguna persona ajena a la atención médica o de investigación clínica (incluyendo estudiantes de medicina) puede estar presente sin el consentimiento explícito del paciente."
+    },
+    {
+      "number": 39,
+      "code": "DIRESA26 P039",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "Bajo la normativa de Gestión de Recursos Humanos (SERVIR), la 'Etapa de Inducción' para un médico cirujano o un obstetra recién nombrado en la DIRESA Puno tiene como objetivo principal:",
+      "options": {
+        "A": "Poner a prueba los conocimientos clínicos básicos mediante un examen de ingreso.",
+        "B": "Asegurar que el nuevo servidor comprenda la cultura organizacional, las políticas institucionales y sus funciones específicas antes de asumir el cargo de manera plena.",
+        "C": "Filtrar a los candidatos con enfermedades preexistentes mediante exámenes médicos ocupacionales prolongados.",
+        "D": "Otorgar un periodo de gracia donde los errores médicos no tengan sanción legal.",
+        "E": "Obligar al servidor a memorizar la escala remunerativa institucional."
+      },
+      "correct": "B",
+      "comment": "La inducción es un proceso del Subsistema de Capacitación/Gestión del Empleo orientado a facilitar la adaptación del nuevo servidor a la institución, brindándole información sobre la entidad, sus derechos, deberes y el rol que desempeñará."
+    },
+    {
+      "number": 40,
+      "code": "DIRESA26 P040",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "Según la Ley de Trabajo del Obstetra (Ley 27853), el trabajo de 'Guardia Comunitario' se refiere a:",
+      "options": {
+        "A": "El patrullaje sanitario con las rondas campesinas para buscar pacientes con TBC.",
+        "B": "La permanencia física del profesional en el establecimiento I-1 de 8:00 pm a 8:00 am.",
+        "C": "Las acciones extramurales orientadas a la promoción de la salud y prevención de riesgos, fuera del horario regular, en la jurisdicción del centro de salud.",
+        "D": "El retén hospitalario para emergencias quirúrgicas masivas.",
+        "E": "Exclusivamente la entrega de métodos anticonceptivos puerta a puerta."
+      },
+      "correct": "C",
+      "comment": "La normativa de salud para el primer nivel de atención define las guardias comunitarias como aquellas labores extramurales y preventivo- promocionales organizadas y ejecutadas en la comunidad, especialmente para zonas rurales y vulnerables."
+    },
+    {
+      "number": 41,
+      "code": "DIRESA26 P041",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "Un paciente es llevado por sus familiares a un Hospital Regional en Puno cursando un brote psicótico severo y con actitudes autoagresivas. La familia exige su internamiento en contra de su voluntad. Según la Ley General de Salud (Ley 26842), ¿cuándo procede el internamiento involuntario por salud mental?",
+      "options": {
+        "A": "Únicamente cuando existe una orden judicial de restricción de la libertad.",
+        "B": "Cuando la junta directiva del hospital lo aprueba por votación unánime.",
+        "C": "Está prohibido en todos los casos; el paciente psiquiátrico siempre debe firmar el consentimiento.",
+        "D": "Cuando exista riesgo inminente de daño grave para sí mismo o para terceros, debidamente certificado por un médico psiquiatra.",
+        "E": "Cuando los familiares directos firmen una carta notarial asumiendo la responsabilidad civil."
+      },
+      "correct": "D",
+      "comment": "La Ley 26842 y la Ley de Salud Mental establecen como excepción al consentimiento informado el internamiento involuntario exclusivamente ante riesgo inminente de daño a sí mismo o a terceros, bajo estricto criterio médico."
+    },
+    {
+      "number": 42,
+      "code": "DIRESA26 P042",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "Bajo el perfil profesional establecido en la Ley de Trabajo del Obstetra (Ley N° 27853), al momento de brindar atenciones preventivo-promocionales y asistir partos eutócicos en un centro de salud del primer nivel, ¿cómo ejerce sus funciones este profesional?",
+      "options": {
+        "A": "Con total autonomía científica, técnica y administrativa en el área de su competencia.",
+        "B": "Con autonomía técnica, pero siempre bajo supervisión presencial del médico cirujano.",
+        "C": "Como personal auxiliar que ejecuta indicaciones médicas delegadas.",
+        "D": "Sujeto exclusivamente a los manuales de enfermería del establecimiento.",
+        "E": "De forma independiente solo si el establecimiento es de categoría I-1."
+      },
+      "correct": "A",
+      "comment": "El artículo de competencias de la Ley del Obstetra le reconoce expresamente la autonomía científica, técnica y administrativa en el ejercicio de su profesión dentro del ámbito de la salud sexual, reproductiva y atención del parto normal."
+    },
+    {
+      "number": 43,
+      "code": "DIRESA26 P043",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "Un médico que ha sido nombrado en la DIRESA Puno (régimen del Gobierno Regional) firma en paralelo un contrato asistencial a tiempo completo en un policlínico de EsSalud en Juliaca. De acuerdo a la Constitución y la Ley SERVIR, esto constituye una falta que acarrea:",
+      "options": {
+        "A": "Suspensión temporal hasta que regularice su horario en ambas entidades.",
+        "B": "Amonestación escrita, siempre y cuando no exista cruce de horarios en sus turnos.",
+        "C": "Rotación inmediata a otra región para evitar el conflicto de intereses.",
+        "D": "Descuento del 50% de sus haberes en la entidad de menor jerarquía.",
+        "E": "Destitución por percibir doble remuneración del Estado, al no ser una excepción legal (docencia o dietas)."
+      },
+      "correct": "E",
+      "comment": "La prohibición de percibir doble remuneración del Estado (doble percepción) es constitucional e infracción gravísima en SERVIR, siendo sancionada con destitución. Solo se exceptúan la función docente y las dietas por participación en directorios."
+    },
+    {
+      "number": 44,
+      "code": "DIRESA26 P044",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "Un médico integrante de la comisión evaluadora para la adjudicación de plazas SERUMS regional filtra discretamente el balotario de evaluación a un amigo cercano que dirige una academia de preparación médica. Según el Código de Ética de la Función Pública (Ley 27815), ¿qué prohibición transgrede?",
+      "options": {
+        "A": "Ejercicio inadecuado del cargo.",
+        "B": "Presionar o amenazar a postulantes.",
+        "C": "Hacer mal uso de información privilegiada.",
+        "D": "Realizar proselitismo político o institucional.",
+        "E": "Faltar al respeto de los ciudadanos."
+      },
+      "correct": "C",
+      "comment": "Proporcionar información estatal de acceso restringido o confidencial (como exámenes o balotarios) para beneficiar a terceros o a entidades privadas configura el mal uso de información privilegiada, sancionable administrativamente."
+    },
+    {
+      "number": 45,
+      "code": "DIRESA26 P045",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "En un hospital de apoyo de la región Puno, la dirección intenta programar guardias nocturnas obligatorias a todo el cuerpo médico. Según el Reglamento de la Ley de Trabajo del Médico Cirujano, ¿cuál es la disposición respecto a la obligatoriedad de estas guardias según la edad?",
+      "options": {
+        "A": "Son obligatorias para todo el personal nombrado hasta su fecha de jubilación.",
+        "B": "Son obligatorias hasta los 50 años de edad; a partir de esa edad, el profesional puede solicitar su exoneración.",
+        "C": "Son voluntarias a partir de los 40 años o 15 años de servicio ininterrumpido.",
+        "D": "Solo son obligatorias para los médicos residentes y médicos generales, no para especialistas.",
+        "E": "Quedan a potestad del jefe de departamento, sin importar la edad del profesional."
+      },
+      "correct": "B",
+      "comment": "La normativa del trabajo médico establece que las guardias hospitalarias son de carácter obligatorio para garantizar la continuidad del servicio, pero exime del derecho a exigir exoneración a los profesionales mayores de 50 años."
+    },
+    {
+      "number": 46,
+      "code": "DIRESA26 P046",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "Una ONG internacional busca realizar un ensayo clínico probando un nuevo suplemento antianémico en niños de comunidades aymaras. Según la Ley General de Salud, además del consentimiento informado de los padres, ¿qué requisito institucional es imperativo?",
+      "options": {
+        "A": "La autorización de la Autoridad Nacional de Salud (MINSA) y la opinión favorable de un Comité de Ética en Investigación.",
+        "B": "El permiso exclusivo de las rondas campesinas y del teniente gobernador.",
+        "C": "La aprobación del Colegio Médico del Perú sede Puno como única instancia.",
+        "D": "Una resolución ejecutiva del Gobierno Regional de Puno declarando de interés el estudio.",
+        "E": "No se requieren permisos adicionales si el suplemento es de donación internacional."
+      },
+      "correct": "A",
+      "comment": "La Ley 26842 establece que toda investigación en seres humanos (ensayos clínicos) debe contar estrictamente con la autorización de la DIGEMID/MINSA (Autoridad Nacional) y la aprobación de un Comité Institucional de Ética en Investigación."
+    },
+    {
+      "number": 47,
+      "code": "DIRESA26 P047",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "De acuerdo con la Ley del Servicio Civil (Ley 30057), ¿en qué circunstancia se produce indefectiblemente el término del vínculo laboral (cese definitivo) de un médico o servidor civil nombrado en la DIRESA por límite de edad?",
+      "options": {
+        "A": "Al cumplir los 60 años para mujeres y 65 para varones.",
+        "B": "Cuando cumple 30 años de servicio ininterrumpido al Estado, independientemente de la edad.",
+        "C": "A los 65 años de edad cumplidos de forma general sin excepciones.",
+        "D": "Por jubilación obligatoria y automática al cumplir los 70 años de edad.",
+        "E": "Cuando el médico decide iniciar sus trámites en la ONP/AFP de manera voluntaria a los 55 años."
+      },
+      "correct": "D",
+      "comment": "La norma matriz del empleo público y la Constitución señalan que la edad máxima para laborar en el Estado es de 70 años, constituyendo causal de cese automático por límite de edad."
+    },
+    {
+      "number": 48,
+      "code": "DIRESA26 P048",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "Una obstetra de la Red de Salud Melgar, que se encuentra cursando la semana 26 de embarazo, solicita formalmente ser eximida de realizar las guardias nocturnas en su centro de salud. Según el marco legal vigente de los profesionales de salud:",
+      "options": {
+        "A": "Su solicitud es improcedente porque el embarazo no es considerado una enfermedad invalidante.",
+        "B": "Debe compensar las horas no laboradas en el turno de noche con guardias diurnas durante los domingos.",
+        "C": "Solo procede si presenta un certificado de embarazo de alto riesgo emitido por junta médica.",
+        "D": "Corresponde que se le asigne la mitad de las guardias y el pago de un bono por riesgo obstétrico.",
+        "E": "Tiene el derecho legal a ser exonerada de la programación de guardias a partir del sexto mes de gestación."
+      },
+      "correct": "E",
+      "comment": "Tanto el reglamento de la Ley de Trabajo del Médico como del Obstetra contemplan el derecho de las mujeres gestantes a ser exoneradas de las guardias nocturnas a partir del sexto mes de embarazo para proteger el binomio madre-niño."
+    },
+    {
+      "number": 49,
+      "code": "DIRESA26 P049",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "Un servidor de la DIRESA Puno, que habitualmente llega tarde a su Puesto de Salud, pide a su compañero que marque su asistencia biométrica (con fotocheck) a las 8:00 am, mientras él llega a las 9:30 am. Según el Código de Ética (Ley N° 27815), ambos vulneran principalmente el principio de:",
+      "options": {
+        "A": "Eficiencia.",
+        "B": "Veracidad.",
+        "C": "Equidad.",
+        "D": "Respeto.",
+        "E": "Discreción."
+      },
+      "correct": "B",
+      "comment": "El principio de Veracidad obliga al servidor a expresarse con autenticidad en las relaciones con su institución. Alterar o falsear los registros oficiales de asistencia institucional es una flagrante falta a este principio."
+    },
+    {
+      "number": 50,
+      "code": "DIRESA26 P050",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "El manejo del dolor en pacientes oncológicos terminales en Puno requiere analgésicos opioides. Según la Ley General de Salud, ¿cuál es el plazo de validez para el despacho en farmacia de una receta especial que prescribe estupefacientes (ej. Morfina)?",
+      "options": {
+        "A": "24 horas desde la fecha de expedición.",
+        "B": "Siete (7) días calendario.",
+        "C": "Tres (3) días desde la fecha de su expedición.",
+        "D": "Quince (15) días hábiles.",
+        "E": "Treinta (30) días, similar a cualquier receta de antibióticos."
+      },
+      "correct": "C",
+      "comment": "Por medidas de control y fiscalización sanitaria de sustancias estupefacientes, la normativa derivada de la Ley 26842 establece que las recetas especiales para estos productos tienen una validez de 3 días calendarios para ser atendidas en farmacia."
+    },
+    {
+      "number": 51,
+      "code": "DIRESA26 P051",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "La Ley de Trabajo del Médico Cirujano promueve la descentralización. Si un médico decide laborar en establecimientos ubicados en zonas calificadas como de menor desarrollo relativo o zonas de frontera (como algunas provincias de Puno), ¿a qué derecho legal específico accede?",
+      "options": {
+        "A": "A bonificaciones económicas excepcionales y a puntaje preferencial en los concursos de asenso o residentado médico.",
+        "B": "A exención total del pago de impuestos a la renta de quinta categoría.",
+        "C": "A ser ascendido automáticamente cada año calendario.",
+        "D": "A trabajar a medio tiempo (75 horas) manteniendo la remuneración de tiempo completo.",
+        "E": "A nombramiento directo y definitivo en los primeros 3 meses de servicio sin concurso."
+      },
+      "correct": "A",
+      "comment": "La norma contempla estímulos y bonificaciones especiales para profesionales que laboran en zonas de frontera, alto andinas o de menor desarrollo, incluyendo un porcentaje extra de puntaje en concursos públicos y procesos de especialización."
+    },
+    {
+      "number": 52,
+      "code": "DIRESA26 P052",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "Durante el desarrollo de un PAD bajo la Ley SERVIR por abandono de cargo, el proceso se divide en fase instructiva y sancionadora. En caso de que la falta califique para una posible DESTITUCIÓN, ¿qué figura actúa como 'Órgano Instructor'?",
+      "options": {
+        "A": "El Tribunal del Servicio Civil (TSC).",
+        "B": "El Director General de la Red de Salud.",
+        "C": "El Jefe inmediato del servidor procesado.",
+        "D": "El Jefe de la Oficina de Recursos Humanos o quien haga sus veces.",
+        "E": "El Procurador Público del Ministerio de Salud."
+      },
+      "correct": "D",
+      "comment": "Para casos cuya sanción tentativa sea la destitución, el jefe de Recursos Humanos asume el rol de Órgano Instructor (quien investiga y propone la sanción), siendo el titular de la entidad (Director/Gerente) el Órgano Sancionador."
+    },
+    {
+      "number": 53,
+      "code": "DIRESA26 P053",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "En la región Puno se confirma por laboratorio el primer caso autóctono de rabia humana tras la mordedura de un can. Según la Ley General de Salud, ¿cuál es la obligación ineludible de los médicos y centros de salud que atienden o diagnostican el caso?",
+      "options": {
+        "A": "Tratar el caso con absoluta reserva sin informar al estado para proteger la confidencialidad de la familia.",
+        "B": "Informar primero a los medios de comunicación locales para alertar a la ciudadanía rural.",
+        "C": "Iniciar una cuarentena militar en todo el distrito de residencia del paciente.",
+        "D": "Publicar los datos del paciente en el portal de transparencia del Gobierno Regional.",
+        "E": "Efectuar la notificación obligatoria e inmediata, bajo responsabilidad, a la Autoridad de Salud de su jurisdicción."
+      },
+      "correct": "E",
+      "comment": "El artículo 76 de la Ley 26842 establece la Notificación Obligatoria de enfermedades transmisibles o epidémicas. El silencio o la omisión por parte del profesional de la salud acarrea responsabilidades legales."
+    },
+    {
+      "number": 54,
+      "code": "DIRESA26 P054",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "El director de un hospital, al ser inquirido por la prensa respecto a la presunta escasez de camas UCI y oxígeno, declara públicamente que 'tienen abastecimiento total', sabiendo que los reportes internos indican un colapso inminente. Según el Código de Ética (Ley 27815), esta acción transgrede directamente el deber de:",
+      "options": {
+        "A": "Ejercicio adecuado del cargo.",
+        "B": "Discreción institucional.",
+        "C": "Transparencia.",
+        "D": "Probidad ciudadana.",
+        "E": "Neutralidad técnica."
+      },
+      "correct": "C",
+      "comment": "El deber de Transparencia obliga a brindar y facilitar información fidedigna, completa y oportuna sobre el accionar del Estado. Engañar u ocultar la realidad operativa vulnera este deber fundamental."
+    },
+    {
+      "number": 55,
+      "code": "DIRESA26 P055",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "De acuerdo con el reglamento de la Ley de Trabajo del Obstetra (Ley 27853), dentro de las funciones de salud pública, ¿cuál es una atribución de gestión y planificación asignada a estos profesionales en los entes rectores (como DIRESAs)?",
+      "options": {
+        "A": "Aprobar el presupuesto anual para la compra de equipamiento pesado en salas de cirugía general.",
+        "B": "Formular, ejecutar, monitorear y evaluar políticas, planes y programas de salud sexual y reproductiva a nivel local, regional y nacional.",
+        "C": "Dictaminar las medidas de cerco epidemiológico en casos de tuberculosis multidrogorresistente.",
+        "D": "Certificar oficialmente el estado de invalidez de trabajadores mineros en la región.",
+        "E": "Conducir los programas de sanidad animal y zoonosis en comunidades andinas."
+      },
+      "correct": "B",
+      "comment": "El perfil administrativo y gerencial del obstetra lo faculta legalmente para liderar y gestionar todo lo concerniente a estrategias sanitarias de salud sexual, planificación familiar y salud materno-perinatal en la gestión pública."
+    },
+    {
+      "number": 56,
+      "code": "DIRESA26 P056",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "En un accidente de tránsito en Juliaca, un joven paciente fallece por trauma craneoencefálico grave. Al revisar su DNI, este no consigna ninguna declaración a favor ni en contra de la donación de órganos. Según la Ley General de Salud y la Ley de Donación, ¿qué aplica legalmente en el Perú?",
+      "options": {
+        "A": "Se le presume donante, procediéndose a la ablación salvo que los familiares directos presentes se opongan expresamente.",
+        "B": "La omisión en el DNI equivale a una negativa rotunda y absoluta a la donación.",
+        "C": "El cuerpo pasa a ser propiedad del Estado para fines de docencia universitaria.",
+        "D": "El fiscal de turno tiene la potestad única de autorizar la extracción de órganos sin consultar a la familia.",
+        "E": "Solo procede si el párroco de la comunidad avala la donación post mortem."
+      },
+      "correct": "A",
+      "comment": "En Perú, la legislación en salud incorpora la 'presunción legal de donación'. Si no hay constancia de negativa en vida (DNI o acta), se asume que es donante, aunque en la práctica la autoridad médica solicita el aval de la familia directa."
+    },
+    {
+      "number": 57,
+      "code": "DIRESA26 P057",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "La Ley de Trabajo del Médico Cirujano y su reglamento regulan los tipos de jornada. Si un médico firma un contrato a 'tiempo parcial' para el turno de consultorios externos, ¿cuál es la duración legal estipulada para esta modalidad mensual?",
+      "options": {
+        "A": "50 horas mensuales.",
+        "B": "75 horas mensuales.",
+        "C": "100 horas mensuales.",
+        "D": "150 horas mensuales (modalidad remota).",
+        "E": "Queda libre al pacto entre la dirección del hospital y el médico."
+      },
+      "correct": "B",
+      "comment": "La jornada ordinaria completa del médico es de 150 horas al mes (6 horas diarias). El trabajo a tiempo parcial (medio tiempo) corresponde legal y proporcionalmente a 75 horas al mes."
+    },
+    {
+      "number": 58,
+      "code": "DIRESA26 P058",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "En un centro de salud rural, una enfermera SERUMS interpone una denuncia formal con pruebas fehacientes contra el médico jefe por actos reiterados de hostigamiento sexual. Concluido el PAD bajo los lineamientos de SERVIR y las leyes pertinentes, ¿cuál es la medida disciplinaria aplicable?",
+      "options": {
+        "A": "Suspensión temporal por un máximo de 60 días sin goce de haber.",
+        "B": "Amonestación escrita y la rotación de la servidora SERUMS a otro puesto para protegerla.",
+        "C": "Traslado del médico jefe a la sede administrativa de la DIRESA.",
+        "D": "Destitución del servicio civil e inhabilitación para el ejercicio de la función pública.",
+        "E": "Multa equivalente a tres (3) Unidades Impositivas Tributarias (UIT)."
+      },
+      "correct": "D",
+      "comment": "El hostigamiento sexual en el ámbito laboral estatal está catalogado como falta disciplinaria de la más alta gravedad en la Ley SERVIR y leyes especiales, sancionándose inexorablemente con la destitución y consiguiente inhabilitación."
+    },
+    {
+      "number": 59,
+      "code": "DIRESA26 P059",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "Un ex director de hospital en Puno, 10 meses después de haber renunciado a su cargo, asume como abogado patrocinador de una empresa farmacéutica para demandar al Gobierno Regional por una licitación que él mismo impulsó. Según la Ley N° 27815 (Código de Ética), esta conducta:",
+      "options": {
+        "A": "Es legal, porque como ya renunció no tiene ningún vínculo con el Estado.",
+        "B": "Es válida, pues ampara el derecho constitucional al libre ejercicio de la profesión.",
+        "C": "Sería ilegal solo si aún cobrara pensión de cesantía de la DIRESA.",
+        "D": "Está permitida siempre que no utilice información de las historias clínicas.",
+        "E": "Constituye una prohibición ética, ya que la prohibición de patrocinar intereses en contra del Estado perdura hasta un año después de concluido el cargo."
+      },
+      "correct": "E",
+      "comment": "El Código de Ética de la Función Pública estipula que las prohibiciones (especialmente el patrocinio de intereses contrapuestos o el uso de información) subsisten incluso hasta un (1) año después del cese o término del vínculo laboral con el Estado."
+    },
+    {
+      "number": 60,
+      "code": "DIRESA26 P060",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "La DIRESA detecta que una emisora radial local en Puno publicita y fomenta el consumo de un antibiótico inyectable (venta bajo receta médica) describiéndolo como la 'cura mágica para el friaje'. Según la Ley General de Salud (Ley 26842) respecto a la publicidad, esto:",
+      "options": {
+        "A": "Es legal siempre que se incluya al final la frase 'Consulte a su médico'.",
+        "B": "Está permitido solo en provincias declaradas en emergencia sanitaria por heladas.",
+        "C": "Está terminantemente prohibido, pues la publicidad masiva de medicamentos de venta bajo receta está proscrita; esta se dirige exclusivamente a profesionales prescriptores.",
+        "D": "Es válido si la radio cuenta con licencia del Ministerio de Transportes y Comunicaciones.",
+        "E": "Solo es falta ética de la radio, sin potestad sancionadora por parte del MINSA o DIRESA."
+      },
+      "correct": "C",
+      "comment": "La Ley 26842 es tajante al prohibir la publicidad en medios masivos de comunicación de productos farmacéuticos que requieren receta médica para su expendio. Esta promoción está restringida a revistas o vademécums médicos y de farmacia."
+    },
+    {
+      "number": 61,
+      "code": "DIRESA26 P061",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "Un médico que ejerce el cargo de Director de la Red de Salud San Román otorga directamente la buena pro para la adquisición de equipos de protección personal a una empresa cuya gerente general es su cónyuge. Según el Código de Ética (Ley N° 27815), ¿qué prohibición ha vulnerado?",
+      "options": {
+        "A": "Mantener intereses de conflicto.",
+        "B": "Hacer mal uso de información privilegiada.",
+        "C": "Ejercicio inadecuado del cargo por nepotismo.",
+        "D": "Obtener ventajas indebidas.",
+        "E": "Proselitismo institucional."
+      },
+      "correct": "A",
+      "comment": "Vulneró explícitamente la prohibición de mantener conflictos de intereses al participar en una decisión de gestión en la que existen intereses económicos familiares directos, debiendo haberse inhibido."
+    },
+    {
+      "number": 62,
+      "code": "DIRESA26 P062",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "Una gestante en una comunidad de Puno llega a la emergencia de un establecimiento nivel II-1 con diagnóstico de embarazo ectópico roto y shock hipovolémico severo. El médico ginecólogo interviene quirúrgicamente, produciéndose la interrupción del embarazo. Según la Ley General de Salud, este acto médico:",
+      "options": {
+        "A": "Es considerado homicidio culposo si no se consultó antes a una junta médica.",
+        "B": "Es lícito y no punible, por tratarse de un aborto terapéutico practicado para salvar la vida de la madre.",
+        "C": "Requiere autorización judicial previa a la intervención quirúrgica.",
+        "D": "Conlleva responsabilidad civil administrativa para el establecimiento.",
+        "E": "Solo es lícito si se comprueba malformación congénita incompatible con la vida."
+      },
+      "correct": "B",
+      "comment": "La Ley 26842 y el Código Penal establecen que el aborto terapéutico es el único no punible legalmente cuando es practicado por un médico con consentimiento (o en emergencia extrema) y es el único medio para salvar la vida de la gestante."
+    },
+    {
+      "number": 63,
+      "code": "DIRESA26 P063",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "Un médico cirujano de un establecimiento I-4 en Ilave gana una plaza de residentado médico bajo la modalidad de 'destaque con goce de haber', financiada por la DIRESA Puno. Al finalizar sus 3 años de especialización, ¿cuál es su obligación legal según las normas del residentado y trabajo médico?",
+      "options": {
+        "A": "Asumir obligatoriamente la dirección de la red de salud local.",
+        "B": "Laborar ad honorem por un año en el hospital nivel III-1 más cercano.",
+        "C": "Prestar servicios en su entidad de origen por un periodo no menor al doble del tiempo que duró su formación.",
+        "D": "Renunciar al Estado para trabajar en el sector privado devolviendo el costo de la formación.",
+        "E": "Ninguna, puede rotar libremente a otra región inmediatamente después de titularse."
+      },
+      "correct": "C",
+      "comment": "El marco normativo del residentado médico y SERVIR exige que quienes se formen con financiamiento y plaza del Estado deben retornar a su plaza de origen por el doble del tiempo que duró su especialización."
+    },
+    {
+      "number": 64,
+      "code": "DIRESA26 P064",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "En el ejercicio de sus funciones en un centro de salud del primer nivel, y de acuerdo con el Petitorio Nacional Único de Medicamentos Esenciales (PNUME), ¿cuál es el alcance legal de la prescripción farmacológica para un obstetra en el Perú?",
+      "options": {
+        "A": "Solo puede recetar analgésicos paracetamol e ibuprofeno en casos de fiebre.",
+        "B": "No está facultado para emitir recetas médicas, debiendo referir todo requerimiento al médico.",
+        "C": "Puede prescribir cualquier tipo de antibiótico de amplio espectro en gestantes.",
+        "D": "Puede prescribir suplementos (hierro, ácido fólico), uterotónicos, anestésicos locales para episiotomía, anticonceptivos y tratamientos para ITS no complicadas.",
+        "E": "Solo está autorizado a recetar medicinas naturales e insumos del parto tradicional."
+      },
+      "correct": "D",
+      "comment": "La Ley de Trabajo del Obstetra le reconoce la capacidad de prescripción de medicamentos específicos dentro de su competencia: atención preconcepcional, prenatal, parto, puerperio y planificación familiar."
+    },
+    {
+      "number": 65,
+      "code": "DIRESA26 P065",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "Un servidor público del sector salud en Puno ya cuenta con una sanción firme de suspensión sin goce de remuneraciones por 30 días, impuesta el año anterior. Si este año comete una nueva infracción disciplinaria calificada legalmente como 'Grave', ¿cuál es el tratamiento según la Ley SERVIR?",
+      "options": {
+        "A": "Se le aplica la misma suspensión de 30 días.",
+        "B": "Se reduce la sanción por el principio de humanidad.",
+        "C": "Se le deriva al fuero penal por habitualidad.",
+        "D": "Se le descuenta el 100% de su CTS acumulada.",
+        "E": "La sanción se agrava a destitución del servicio civil debido a la reincidencia."
+      },
+      "correct": "E",
+      "comment": "El reglamento de la Ley 30057 establece que la reincidencia en la comisión de faltas graves es un criterio para agravar la sanción, procediéndose en este caso al nivel máximo: la destitución."
+    },
+    {
+      "number": 66,
+      "code": "DIRESA26 P066",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "Durante el proceso de elecciones regionales, una obstetra nombrada asiste a una manifestación de un candidato político utilizando el mandil, fotocheck y un chaleco oficial de la DIRESA Puno. Según el Código de Ética de la Función Pública, ha transgredido directamente el deber de:",
+      "options": {
+        "A": "Neutralidad.",
+        "B": "Respeto institucional.",
+        "C": "Lealtad y obediencia.",
+        "D": "Probidad ciudadana.",
+        "E": "Transparencia."
+      },
+      "correct": "A",
+      "comment": "El deber de Neutralidad prohíbe participar en actividades políticas, proselitistas o partidarias utilizando el cargo, infraestructura, bienes o indumentaria del Estado."
+    },
+    {
+      "number": 67,
+      "code": "DIRESA26 P067",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "Un médico general del Hospital Manuel Núñez Butrón firma un certificado de descanso médico por 'lumbalgia aguda' a un amigo que no está enfermo, solo para que este justifique su inasistencia al trabajo. Legalmente, respecto a la Ley General de Salud, ¿qué implica este acto?",
+      "options": {
+        "A": "Es una falta administrativa leve si el descanso no supera los 3 días.",
+        "B": "Constituye un delito de expedición de certificado médico falso y una infracción ética muy grave.",
+        "C": "Es un acto legal amparado en el secreto profesional del médico.",
+        "D": "Solo es sancionable si el paciente labora en la misma institución de salud.",
+        "E": "Corresponde solo al Colegio Médico imponer una multa pecuniaria."
+      },
+      "correct": "B",
+      "comment": "La Ley 26842 establece la obligatoriedad de expedir certificados acordes a la verdad clínica. Emitir un documento falso es un delito tipificado en el Código Penal y causal de destitución."
+    },
+    {
+      "number": 68,
+      "code": "DIRESA26 P068",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "Con relación a la 'Jornada Extraordinaria' de los médicos cirujanos que laboran en los establecimientos del Estado en Puno, si realizan guardia reten o retén hospitalario en un día declarado feriado nacional (ej. 28 de julio), ¿cómo se compensa?",
+      "options": {
+        "A": "No se compensa, es considerado un aporte solidario al Estado.",
+        "B": "Se descuenta de las horas mensuales ordinarias programadas del mes siguiente.",
+        "C": "Se remunera como guardia extraordinaria con la bonificación diferencial correspondiente establecida en la ley.",
+        "D": "Solo se compensa con 24 horas libres, perdiendo la bonificación.",
+        "E": "Genera derecho a un incremento del 10% en el sueldo base permanente."
+      },
+      "correct": "C",
+      "comment": "Las guardias realizadas los domingos y feriados no laborables tienen la naturaleza jurídica de trabajo en jornada extraordinaria y son remuneradas con una bonificación porcentual adicional según el nivel de carrera."
+    },
+    {
+      "number": 69,
+      "code": "DIRESA26 P069",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "En un Puesto de Salud nivel I-2 ubicado en un distrito rural de Puno donde laboran un médico SERUMS, una enfermera técnica y una obstetra nombrada con especialidad en salud pública, ¿quién está facultado legalmente para ejercer la Jefatura del establecimiento?",
+      "options": {
+        "A": "Exclusivamente el médico SERUMS, por ser el único profesional con formación médica.",
+        "B": "Solamente el médico jefe de la Microrred desde la capital provincial.",
+        "C": "Un administrador de carrera designado desde el Gobierno Regional.",
+        "D": "La obstetra o cualquier profesional de la salud de mayor jerarquía, experiencia o nivel de carrera en el establecimiento.",
+        "E": "La autoridad política comunal (teniente gobernador) asume administrativamente."
+      },
+      "correct": "D",
+      "comment": "Las normas de categorización del MINSA y las leyes de profesionales de la salud permiten que los puestos de salud del primer nivel sean dirigidos por obstetras, enfermeros o médicos, priorizando a los nombrados y con perfil de gestión."
+    },
+    {
+      "number": 70,
+      "code": "DIRESA26 P070",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "El Subsistema de Gestión del Rendimiento (Ley SERVIR) implementado en las redes de salud tiene como finalidad fundamental:",
+      "options": {
+        "A": "Crear un mecanismo rápido para facilitar despidos masivos del sector salud.",
+        "B": "Generar bonos económicos mensuales equivalentes a 1 UIT para los servidores sobresalientes.",
+        "C": "Estandarizar los horarios de entrada y salida del personal administrativo y asistencial.",
+        "D": "Auditar financieramente a los directores de los hospitales regionales.",
+        "E": "Identificar, reconocer y promover el aporte de los servidores a los objetivos institucionales, así como evidenciar sus necesidades de capacitación."
+      },
+      "correct": "E",
+      "comment": "La filosofía de SERVIR no es punitiva, sino orientada al desarrollo. Su objetivo principal es medir el desempeño para mejorar la gestión pública y determinar quiénes necesitan programas de formación o desarrollo."
+    },
+    {
+      "number": 71,
+      "code": "DIRESA26 P071",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "El Gobierno Regional de Puno designa como Director Ejecutivo de un importante Hospital a un médico recién titulado que no cuenta con la experiencia en gestión pública exigida en el Manual de Perfiles de Puestos (MPP). Si el médico acepta el cargo, ¿qué principio del Código de Ética (Ley 27815) transgrede directamente?",
+      "options": {
+        "A": "Idoneidad.",
+        "B": "Solidaridad técnica.",
+        "C": "Transparencia directiva.",
+        "D": "Economía presupuestal.",
+        "E": "Eficiencia."
+      },
+      "correct": "A",
+      "comment": "La Idoneidad es la aptitud técnica, legal y moral indispensable para el ejercicio de la función pública. Aceptar un cargo para el que no se reúnen los requisitos legales o técnicos vulnera este principio básico."
+    },
+    {
+      "number": 72,
+      "code": "DIRESA26 P072",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "Un ciudadano atropellado es ingresado en estado inconsciente a la clínica privada más cercana en Juliaca. El administrador exige a los paramédicos del SAMU un depósito en efectivo o tarjeta de crédito antes de recibirlo en el área de Trauma Shock. Según la Ley General de Salud, esta exigencia:",
+      "options": {
+        "A": "Es válida, ya que los establecimientos privados tienen autonomía comercial garantizada por la Constitución.",
+        "B": "Constituye una infracción muy grave a la ley, pues la atención de emergencia es obligatoria e incondicionada en cualquier centro público o privado.",
+        "C": "Es legal siempre y cuando la clínica no cuente con convenio con el Seguro Integral de Salud (SIS).",
+        "D": "Solo es sancionable si el paciente fallece en la puerta de la clínica.",
+        "E": "Es correcta; el SAMU debió trasladarlo exclusivamente a un hospital del MINSA."
+      },
+      "correct": "B",
+      "comment": "El Art. 39 de la Ley 26842 obliga a todo establecimiento de salud, sea público o privado, a prestar atención de emergencia médica o quirúrgica incondicionada mientras subsista el peligro de muerte o riesgo inminente."
+    },
+    {
+      "number": 73,
+      "code": "DIRESA26 P073",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "Para que un médico cirujano en la región Puno logre ascender formalmente en la Línea de Carrera Profesional y acceder al siguiente Nivel (por ejemplo, del Nivel I al Nivel II), ¿qué requerimiento establece la Ley de Trabajo Médico?",
+      "options": {
+        "A": "Que transcurran 10 años continuos sin haber recibido amonestaciones verbales.",
+        "B": "Ser promovido por designación directa del Gobernador Regional a solicitud del Sindicato.",
+        "C": "Haber cumplido 5 años en el nivel anterior y aprobar el proceso de evaluación que considere formación, capacitación, docencia y tiempo de servicio.",
+        "D": "Presentar una tesis de grado para obtener una nueva especialidad clínica.",
+        "E": "Renunciar al puesto actual y postular nuevamente a través de concurso público nacional."
+      },
+      "correct": "C",
+      "comment": "El ascenso no es únicamente por antigüedad. Requiere un tiempo mínimo (5 años) y una calificación curricular mediante concurso de méritos interno en la DIRESA, valorando producción científica, capacitación y desempeño."
+    },
+    {
+      "number": 74,
+      "code": "DIRESA26 P074",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "Una licenciada en Obstetricia llega de otra región para ocupar una plaza ganada por concurso en la Red de Salud Puno. Muestra su título universitario a nombre de la nación, pero menciona que por falta de dinero no está inscrita ni habilitada en el Colegio de Obstetras del Perú. Según la Ley 27853 y normativas conexas:",
+      "options": {
+        "A": "Puede iniciar sus labores si presenta una declaración jurada de inscripción en trámite.",
+        "B": "Está facultada para laborar, pero solo en el área de admisión y triaje.",
+        "C": "Puede ejercer, pero se le retendrá el 10% de su sueldo hasta que pague la colegiatura.",
+        "D": "No puede ejercer la profesión ni laborar en el Estado; la colegiatura y la habilidad profesional son requisitos indispensables e ineludibles.",
+        "E": "La DIRESA está obligada a pagarle la colegiatura por tratarse de un cargo público."
+      },
+      "correct": "D",
+      "comment": "Tanto la Ley del Trabajo Médico como la del Obstetra, y los estatutos de SERVIR, exigen la colegiatura y la habilidad vigente (emitida por el colegio profesional) como requisito legal insalvable para ejercer legalmente en el territorio peruano."
+    },
+    {
+      "number": 75,
+      "code": "DIRESA26 P075",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "Durante una epidemia de Infecciones Respiratorias en Puno, los médicos y obstetras solicitan a la DIRESA capacitación urgente en el manejo de nuevos ventiladores mecánicos asignados. La oficina de recursos humanos les deniega el pedido argumentando que en el régimen SERVIR la capacitación es un privilegio, no un deber institucional. Esta afirmación es:",
+      "options": {
+        "A": "Verdadera, solo los cargos directivos tienen derecho a capacitación estatal.",
+        "B": "Verdadera, los profesionales deben capacitarse con su propio presupuesto y en su tiempo libre.",
+        "C": "Falsa, pero la entidad tiene la potestad de cobrar el curso a los trabajadores mediante descuento por planilla.",
+        "D": "Verdadera, la capacitación en dispositivos médicos depende únicamente del proveedor privado.",
+        "E": "Falsa, la capacitación es un deber de la entidad y un derecho del servidor civil, estando orientada a mejorar el desempeño y cerrar brechas institucionales."
+      },
+      "correct": "E",
+      "comment": "La Ley 30057 establece el Subsistema de Capacitación, garantizando que esta es un derecho del trabajador (no un privilegio) y una inversión prioritaria del Estado para la mejora continua del servicio público."
+    },
+    {
+      "number": 76,
+      "code": "DIRESA26 P076",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "En un centro de salud de una provincia aymara, un obstetra levanta la voz y trata despectivamente a una gestante debido a que ella 'no le entiende bien el castellano' al momento de darle las indicaciones post-atención. Según la Ley N° 27815 (Código de Ética), ha vulnerado el deber de:",
+      "options": {
+        "A": "Respeto, incurriendo en trato discriminatorio e ignorando el enfoque intercultural.",
+        "B": "Eficiencia, por perder el tiempo en explicar varias veces lo mismo.",
+        "C": "Idoneidad clínica.",
+        "D": "Lealtad comunitaria.",
+        "E": "Transparencia institucional."
+      },
+      "correct": "A",
+      "comment": "El deber de 'Respeto' obliga al servidor a tratar a los ciudadanos con absoluta dignidad, tolerancia y cordialidad, siendo inaceptable cualquier tipo de discriminación por idioma, origen etnocultural o nivel socioeconómico."
+    },
+    {
+      "number": 77,
+      "code": "DIRESA26 P077",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "Una adolescente de 16 años acude sin acompañante al consultorio de planificación familiar de un CS I-3 en Puno, solicitando orientación y métodos anticonceptivos (preservativos y píldoras). De acuerdo con la Ley General de Salud y la norma técnica vigente del MINSA, el profesional de la salud:",
+      "options": {
+        "A": "Debe llamar inmediatamente a la policía y al fiscal de familia.",
+        "B": "Debe brindarle la orientación integral, la provisión del método anticonceptivo y garantizar la confidencialidad de la atención.",
+        "C": "Solo puede darle charlas, pero está prohibido entregarle insumos hasta que cumpla 18 años.",
+        "D": "Debe notificar obligatoriamente a los padres mediante carta firmada por la jefatura.",
+        "E": "Puede recetarlos solo si la paciente demuestra que se encuentra emancipada o casada."
+      },
+      "correct": "B",
+      "comment": "Las modificaciones a la Ley 26842 y las NTS de Salud Sexual y Reproductiva reconocen el derecho de las y los adolescentes a recibir orientación y métodos anticonceptivos sin barreras, primando la confidencialidad para evitar el embarazo adolescente."
+    },
+    {
+      "number": 78,
+      "code": "DIRESA26 P078",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "Con relación al descanso vacacional contemplado en la Ley de Trabajo del Médico Cirujano y su reglamento para los profesionales del Estado, es correcto afirmar que:",
+      "options": {
+        "A": "Dura 15 días hábiles al año y no se puede fraccionar bajo ninguna circunstancia.",
+        "B": "Son 60 días calendario debido al desgaste físico y mental de la profesión.",
+        "C": "Son 30 días calendario por año de servicio, los cuales pueden ser fraccionados a solicitud del trabajador, siempre que haya acuerdo con la entidad.",
+        "D": "Se pierden automáticamente si no se toman dentro del año que corresponden, sin derecho a pago.",
+        "E": "Es otorgado sin goce de haber si el médico tiene menos de 5 años de servicio."
+      },
+      "correct": "C",
+      "comment": "Todos los profesionales de salud nombrados en el sector público tienen derecho a 30 días calendario de descanso vacacional remunerado por cada año de servicios, permitiéndose su fraccionamiento en periodos menores según el marco de SERVIR (mínimo de 7 días consecutivos para un bloque)."
+    },
+    {
+      "number": 79,
+      "code": "DIRESA26 P079",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "Una obstetra asiste un parto en un Puesto de Salud rural que súbitamente se complica con una Hemorragia Posparto (HPP) severa por atonía uterina. El médico responsable de la microrred se encuentra a 3 horas de distancia. Según su Ley de Trabajo (Ley 27853) y las NTS de emergencias obstétricas, ¿cómo debe actuar la profesional?",
+      "options": {
+        "A": "Realizar una histerectomía de emergencia (cirugía mayor) en el puesto de salud.",
+        "B": "Esperar la llegada del médico para no invadir competencias, limitándose a observar los signos vitales.",
+        "C": "Derivar a la paciente inmediatamente sin colocar vías ni oxitocina, para no arriesgarse a denuncias.",
+        "D": "Activar la Clave Roja, ejecutar las maniobras salvadoras (compresión bimanual, oxitocina/ergometrina IV), estabilizar y transferir acompañando a la paciente al hospital.",
+        "E": "Suspender la atención y reportar el caso a auditoría materna del Gobierno Regional."
+      },
+      "correct": "D",
+      "comment": "En caso de emergencias obstétricas inminentes, la obstetra está facultada y obligada a intervenir realizando los procedimientos salvadores estipulados en las NTS (manejo activo del alumbramiento, claves) y gestionar la referencia inmediata."
+    },
+    {
+      "number": 80,
+      "code": "DIRESA26 P080",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "Un médico cirujano nombrado históricamente bajo el régimen del Decreto Legislativo N° 276 decide postular y ganar un concurso de traslado al nuevo régimen de la Ley del Servicio Civil (Ley 30057) en la DIRESA Puno. ¿En qué grupo o categoría de servidores se clasifica ahora bajo esta ley?",
+      "options": {
+        "A": "Servidor Público de Libre Designación y Remoción.",
+        "B": "Empleado de Confianza.",
+        "C": "Funcionario Público Estructural.",
+        "D": "Servidor civil de actividades complementarias (tercerizado).",
+        "E": "Servidor Civil de Carrera."
+      },
+      "correct": "E",
+      "comment": "Según la estructura de la Ley 30057, los profesionales de la salud, médicos y especialistas que ingresan por concurso y desarrollan labores misionales de línea en la entidad pertenecen al grupo de 'Servidores Civiles de Carrera', gozando de progresión, evaluación y protección contra el despido arbitrario."
+    },
+    {
+      "number": 81,
+      "code": "DIRESA26 P081",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "Según la Ley General de Salud (Ley 26842), si un paciente atendido en el Hospital de Macusani solicita formalmente una copia de su historia clínica para una segunda opinión en Lima, ¿cuál es el procedimiento legal correspondiente?",
+      "options": {
+        "A": "Entregar el documento original al paciente firmando un acta de compromiso de devolución.",
+        "B": "Denegar la solicitud, pues la historia clínica es propiedad exclusiva e intransferible del médico tratante.",
+        "C": "Remitir la historia clínica directamente al nuevo hospital en Lima sin entregársela al paciente.",
+        "D": "Entregar al paciente copia íntegra de su historia clínica, asumiendo este el costo de la reproducción, manteniendo el hospital la custodia del documento original.",
+        "E": "Solicitar previamente una orden del juez de paz letrado para liberar cualquier dato clínico."
+      },
+      "correct": "D",
+      "comment": "La Ley General de Salud ampara el derecho del paciente a exigir copia de su historia clínica y epicrisis, asumiendo el costo de reproducción. Sin embargo, el documento original permanece siempre bajo la custodia y propiedad del establecimiento de salud."
+    },
+    {
+      "number": 82,
+      "code": "DIRESA26 P082",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "En el marco de la Ley del Servicio Civil (Ley 30057), si un obstetra nombrado en un Puesto de Salud de frontera acumula más de tres (3) días consecutivos de inasistencia injustificada a su centro de labores, ¿cuál es la consecuencia directa?",
+      "options": {
+        "A": "La instauración de un PAD que tiene como posible sanción la destitución por la causal de abandono de cargo.",
+        "B": "El descuento económico proporcional exclusivamente, sin ninguna sanción administrativa disciplinaria.",
+        "C": "Una amonestación escrita firmada por el director de la red, que prescribe a los 6 meses.",
+        "D": "Su traslado forzoso a una plaza administrativa en la capital de la región.",
+        "E": "Suspensión temporal de la colegiatura por parte del Colegio Profesional."
+      },
+      "correct": "A",
+      "comment": "La Ley SERVIR establece como falta disciplinaria grave el ausentarse injustificadamente por más de tres días consecutivos (o cinco días alternados en un semestre), lo cual configura la causal de abandono de cargo, sancionable hasta con la destitución."
+    },
+    {
+      "number": 83,
+      "code": "DIRESA26 P083",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "Un jefe de microrred de salud utiliza sistemáticamente el presupuesto de la 'caja chica' de la institución para costear sus almuerzos diarios y gastos personales de movilidad en días libres. Según la Ley N° 27815 (Código de Ética), ha vulnerado flagrantemente el deber de:",
+      "options": {
+        "A": "Ejercicio Adecuado del Cargo.",
+        "B": "Uso Adecuado de los Bienes del Estado.",
+        "C": "Discreción profesional.",
+        "D": "Equidad institucional.",
+        "E": "Lealtad a la Nación."
+      },
+      "correct": "B",
+      "comment": "El deber de Uso Adecuado de los Bienes del Estado exige proteger y conservar los recursos financieros y materiales asignados, utilizándolos única y exclusivamente para el desempeño de las funciones de la entidad, nunca para fines particulares."
+    },
+    {
+      "number": 84,
+      "code": "DIRESA26 P084",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "Si un médico cirujano que labora en un centro de salud del nivel I-3 adquiere Tuberculosis (TBC) en el ejercicio directo de sus funciones clínicas, ¿qué derecho le asiste según la Ley de Trabajo del Médico Cirujano?",
+      "options": {
+        "A": "Ser cesado automáticamente con una pensión de invalidez reducida.",
+        "B": "Pagar obligatoriamente sus propios tratamientos, ya que el riesgo es inherente a la profesión.",
+        "C": "Acceder al tratamiento integral gratuito y a los subsidios por enfermedad ocupacional o profesional amparados por la ley.",
+        "D": "Exigir el ascenso inmediato al nivel máximo de la carrera médica como indemnización.",
+        "E": "Ser derivado únicamente a establecimientos privados con cargo al seguro domiciliario."
+      },
+      "correct": "C",
+      "comment": "La normativa de trabajo médico y las leyes de salud ocupacional garantizan la cobertura total (tratamiento, subsidios, descanso médico) cuando un profesional de la salud adquiere una enfermedad infectocontagiosa producto de su labor asistencial (enfermedad ocupacional)."
+    },
+    {
+      "number": 85,
+      "code": "DIRESA26 P085",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "En la atención prenatal reenfocada, la obstetra del puesto de salud rural I- 2 de Juli evidencia que una gestante requiere evaluación de bienestar fetal de rutina. Según la Ley de Trabajo del Obstetra, ¿cuál es su competencia legal en este caso?",
+      "options": {
+        "A": "Solo puede usar el estetoscopio de Pinard, estando prohibido el uso de tecnología.",
+        "B": "Debe derivar siempre a la gestante a la capital para que el médico le indique los exámenes.",
+        "C": "Realizar una ecografía obstétrica morfológica avanzada y emitir el diagnóstico definitivo de malformaciones.",
+        "D": "Prescribir recetas de antibióticos profilácticos antes de solicitar cualquier análisis.",
+        "E": "Tiene la competencia de prescribir, solicitar e interpretar exámenes de laboratorio clínico y apoyo al diagnóstico ecográfico obstétrico básico."
+      },
+      "correct": "E",
+      "comment": "El perfil profesional del obstetra incluye explícitamente la competencia para indicar y solicitar exámenes de laboratorio, ecografías obstétricas de despistaje y evaluar los resultados para el diagnóstico oportuno del bienestar materno-fetal."
+    },
+    {
+      "number": 86,
+      "code": "DIRESA26 P086",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "Bajo las reglas del Procedimiento Administrativo Disciplinario (PAD) de la Ley SERVIR, si a un médico se le impone la sanción de 'Suspensión sin goce de remuneraciones por 60 días', ¿qué plazo legal tiene para presentar su recurso de apelación?",
+      "options": {
+        "A": "3 días hábiles desde el inicio del proceso.",
+        "B": "10 días calendario desde la ocurrencia de la falta.",
+        "C": "15 días hábiles contados a partir del día siguiente de la notificación formal de la sanción.",
+        "D": "30 días hábiles directamente ante el Poder Judicial.",
+        "E": "Las suspensiones temporales no son apelables en la vía administrativa."
+      },
+      "correct": "C",
+      "comment": "La Ley 30057 establece que todo servidor civil tiene un plazo improrrogable de quince (15) días hábiles, luego de haber sido notificado formalmente con el acto administrativo que lo sanciona, para interponer un recurso de reconsideración o apelación."
+    },
+    {
+      "number": 87,
+      "code": "DIRESA26 P087",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "En un hospital referencial de Puno, se busca realizar la ablación de órganos de un paciente en ventilación mecánica tras un grave trauma craneal. Según la Ley General de Salud, ¿quiénes deben certificar la muerte encefálica indispensable para este procedimiento?",
+      "options": {
+        "A": "Únicamente el médico de turno en la UCI.",
+        "B": "El fiscal de prevención del delito y un juez de paz.",
+        "C": "Una junta compuesta por tres médicos cirujanos generales y el párroco local.",
+        "D": "El director del establecimiento de salud (o quien este delegue) y un médico especialista en neurología o neurocirugía.",
+        "E": "El director regional de salud y el jefe de asesoría legal del hospital."
+      },
+      "correct": "D",
+      "comment": "La Ley de Donación y Trasplante de Órganos (y la Ley 26842) exigen rigurosamente que la comprobación de la muerte encefálica sea certificada y suscrita conjuntamente por el director del hospital y un especialista neurólogo o neurocirujano."
+    },
+    {
+      "number": 88,
+      "code": "DIRESA26 P088",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "Aquel principio del Código de Ética (Ley N° 27815) que insta al servidor público a adecuar su conducta al estricto cumplimiento de la Constitución y de las leyes, garantizando que en todas las fases del proceso de toma de decisiones se respeten los derechos ciudadanos, se denomina:",
+      "options": {
+        "A": "Respeto.",
+        "B": "Probidad.",
+        "C": "Eficiencia.",
+        "D": "Idoneidad.",
+        "E": "Veracidad."
+      },
+      "correct": "A",
+      "comment": "El Principio de Respeto (Art. 6 del Código de Ética) obliga a todo servidor a acatar la Constitución y las Leyes, y a garantizar el respeto a los derechos de los ciudadanos y de los demás servidores públicos."
+    },
+    {
+      "number": 89,
+      "code": "DIRESA26 P089",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "Sobre el tope de turnos de guardia hospitalaria remunerada, ¿qué indica la normativa vigente para los médicos cirujanos en establecimientos del sector público?",
+      "options": {
+        "A": "Pueden realizar guardias ilimitadas siempre que haya necesidad de servicio.",
+        "B": "Se establece un tope de hasta cinco (5) a siete (7) guardias nocturnas al mes, pudiendo ampliarse a 10 solo por necesidad de servicio debidamente sustentada y con disponibilidad presupuestal.",
+        "C": "El límite legal innegociable es de dos (2) guardias al mes.",
+        "D": "El médico residente asume las guardias de los médicos asistentes superando las 15 al mes.",
+        "E": "Solo pueden programarse en días domingos y feriados, sumando 4 al mes."
+      },
+      "correct": "B",
+      "comment": "La norma que aprueba el pago de guardias establece un tope general para el pago de horas extraordinarias de guardia asistencial, limitándose usualmente de 5 a 7 al mes por profesional, siendo necesaria una resolución de dirección para exceder este tope hasta 10 por déficit crítico de especialistas."
+    },
+    {
+      "number": 90,
+      "code": "DIRESA26 P090",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "Frente a un caso de Puerperio Complicado con Sepsis Puerperal (Clave Amarilla) en un centro de salud sin médico de turno, ¿cuál es la competencia inmediata de la obstetra antes de la referencia?",
+      "options": {
+        "A": "Aplicar solo antipiréticos orales y esperar al día siguiente.",
+        "B": "Retener a la paciente para realizar un legrado uterino instrumentado.",
+        "C": "Exigir que los familiares consigan una ambulancia privada.",
+        "D": "Inyectar corticoides para maduración pulmonar.",
+        "E": "Activar la clave amarilla, canalizar vía endovenosa, iniciar la administración de antibióticos de amplio espectro normados (ej. Ampicilina, Gentamicina, Clindamicina o Metronidazol) y referir de emergencia."
+      },
+      "correct": "E",
+      "comment": "La NTS de Manejo de Emergencias Obstétricas faculta y obliga al profesional obstetra a activar las claves, colocar vías, iniciar la hidratación y aplicar la terapia antibiótica de primera línea o ataque inmediato para estabilizar la sepsis puerperal antes de transferir a la paciente."
+    },
+    {
+      "number": 91,
+      "code": "DIRESA26 P091",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "Una menor de 14 años es traída por vecinos a la emergencia del Centro de Salud con un trauma abdominal cerrado y hemorragia interna inminente. Los padres no se encuentran en el distrito y no pueden ser ubicados. Según la Ley General de Salud:",
+      "options": {
+        "A": "El médico debe intervenir inmediatamente en salvaguarda de la vida y salud de la paciente, eximiéndose de la exigencia del consentimiento informado de los padres.",
+        "B": "El médico debe esperar hasta 24 horas para localizar a los padres antes de operar.",
+        "C": "Está prohibido tocar a la menor sin autorización fiscal, incurriendo en secuestro si lo hace.",
+        "D": "Solo se puede intervenir si los vecinos firman asumiendo la patria potestad.",
+        "E": "Se debe derivar a la menor a un centro del INABIF para que ellos autoricen."
+      },
+      "correct": "A",
+      "comment": "La excepción primordial al consentimiento informado o autorización de los representantes legales en la Ley General de Salud (Art. 4) es la 'situación de emergencia', donde el profesional debe intervenir inmediatamente para salvar la vida o prevenir un daño grave e irreversible."
+    },
+    {
+      "number": 92,
+      "code": "DIRESA26 P092",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "Bajo la normativa de la Ley SERVIR, ¿cuál de los siguientes órganos de un hospital asume la función de Segunda Instancia (y agota la vía administrativa) al resolver un recurso de apelación contra una sanción de Destitución?",
+      "options": {
+        "A": "La oficina de Recursos Humanos.",
+        "B": "El Gobernador Regional de Puno.",
+        "C": "El Tribunal del Servicio Civil (TSC).",
+        "D": "El juzgado laboral transitorio.",
+        "E": "El Ministerio de Salud a través del Procurador Público."
+      },
+      "correct": "C",
+      "comment": "El Tribunal del Servicio Civil (TSC) es un órgano nacional independiente que actúa como última y segunda instancia administrativa para resolver las apelaciones interpuestas por servidores civiles contra actos referidos a destituciones o suspensiones graves."
+    },
+    {
+      "number": 93,
+      "code": "DIRESA26 P093",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "Un Director Ejecutivo de Red de Salud contrata para el puesto de administrador de la sede a un candidato basándose únicamente en que pertenecen al mismo partido político gobernante en la región, ignorando a profesionales con mejor perfil técnico. Según el Código de Ética (Ley 27815), esta acción atenta contra el deber de:",
+      "options": {
+        "A": "Veracidad procedimental.",
+        "B": "Ejercicio de la discrecionalidad.",
+        "C": "Salvaguarda del secreto de Estado.",
+        "D": "Imparcialidad en el cumplimiento de funciones.",
+        "E": "Tolerancia religiosa."
+      },
+      "correct": "D",
+      "comment": "El deber de Imparcialidad exige que el servidor actúe con absoluta objetividad en sus decisiones, sin conceder preferencias o privilegios ilícitos a organizaciones políticas, asociaciones u otros intereses ajenos al mérito o al interés público."
+    },
+    {
+      "number": 94,
+      "code": "DIRESA26 P094",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "Un médico de guardia en la emergencia del Hospital de Ilave se niega a brindar atención a un presunto delincuente herido de bala escoltado por la policía, alegando objeción de conciencia moral. Según la Ley General de Salud, esta negativa es:",
+      "options": {
+        "A": "Lícita, ya que el médico puede elegir a sus pacientes según sus creencias.",
+        "B": "Ilícita e inaplicable; la objeción de conciencia no exime al médico de su deber legal y ético de atender situaciones de emergencia médica ni permite discriminar por condición legal o social.",
+        "C": "Válida temporalmente hasta que llegue el fiscal de turno a interrogarlo.",
+        "D": "Lícita si el médico delegó la labor al personal técnico de enfermería.",
+        "E": "Sujeta a evaluación exclusiva del Comisario Policial sectorial."
+      },
+      "correct": "B",
+      "comment": "La Ley General de Salud y el Código de Ética del Colegio Médico son claros: en situación de emergencia con riesgo de vida, el deber de auxilio es absoluto. La objeción de conciencia no procede en emergencias, urgencias, o para denegar atención por razones discriminatorias."
+    },
+    {
+      "number": 95,
+      "code": "DIRESA26 P095",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "Respecto al Certificado de Nacido Vivo (CNV) en los centros asistenciales de Puno, la Ley de Trabajo del Obstetra (Ley 27853) y las directivas de RENIEC establecen que:",
+      "options": {
+        "A": "Su expedición es exclusiva y excluyente del médico pediatra.",
+        "B": "El obstetra solo puede expedirlo si labora en un establecimiento privado.",
+        "C": "Es un trámite netamente administrativo que realiza el personal de estadística o admisión.",
+        "D": "Está prohibido para partos domiciliarios independientemente de quién lo atienda.",
+        "E": "El obstetra tiene la competencia y obligación legal de expedir y firmar el CNV de los recién nacidos producto de los partos que haya atendido."
+      },
+      "correct": "E",
+      "comment": "La ley faculta plenamente al obstetra, como profesional de la salud responsable de la atención del parto eutócico, a certificar el hecho vital mediante la expedición oficial del Certificado de Nacido Vivo (CNV) en el sistema en línea o físico."
+    },
+    {
+      "number": 96,
+      "code": "DIRESA26 P096",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "Durante una inspección a una clínica particular en Puno, DIGEMID encuentra medicamentos en exhibición con fecha de vencimiento caducada hace 8 meses y otros con el rótulo de 'Prohibida su venta - Muestra Médica'. Según la Ley General de Salud, ¿qué implica esto jurídicamente?",
+      "options": {
+        "A": "Es una simple amonestación por falta de orden en los anaqueles.",
+        "B": "Solo implica el retiro de los productos y una disculpa pública.",
+        "C": "Está permitido para reducir los costos de atención de pacientes de extrema pobreza.",
+        "D": "Constituye una infracción grave y un delito contra la salud pública, sujeto al decomiso, cierre del local y denuncia penal a los responsables.",
+        "E": "Es responsabilidad única del laboratorio que fabricó los medicamentos."
+      },
+      "correct": "D",
+      "comment": "La Ley 26842 penaliza y prohíbe terminantemente la tenencia, dispensación o comercialización de productos farmacéuticos expirados, adulterados, falsificados o provenientes de muestras médicas o donaciones (institucionales), considerándolo un delito contra la salud pública."
+    },
+    {
+      "number": 97,
+      "code": "DIRESA26 P097",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "El área de recursos humanos abre un Procedimiento Administrativo Disciplinario (PAD) a un médico. Según la Ley SERVIR, para garantizar el derecho al debido proceso, ¿cuál es el plazo mínimo que se le debe otorgar al servidor para presentar sus 'Descargos' por escrito desde que es notificado con la imputación de cargos?",
+      "options": {
+        "A": "Cinco (5) días hábiles, prorrogables previa solicitud sustentada.",
+        "B": "Veinticuatro (24) horas improrrogables.",
+        "C": "Un (1) mes calendario completo.",
+        "D": "Cuarenta y ocho (48) horas.",
+        "E": "Quince (15) días hábiles sin opción a prórroga."
+      },
+      "correct": "A",
+      "comment": "El Reglamento de la Ley 30057 (SERVIR) establece que en la fase instructiva, una vez notificado el servidor, este cuenta con un plazo no menor de cinco (5) días hábiles para presentar sus descargos y medios probatorios, el cual puede ser ampliado si lo solicita."
+    },
+    {
+      "number": 98,
+      "code": "DIRESA26 P098",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "Un laboratorio oftalmológico le regala pasajes de avión internacionales a un médico de la DIRESA por haber logrado la meta de prescribir 1,000 unidades de sus gotas oculares en el mes. Al aceptar el viaje, ¿qué prohibición ética vulnera directamente el médico (Ley 27815)?",
+      "options": {
+        "A": "Falta de lealtad constitucional.",
+        "B": "Obtener beneficios o ventajas indebidas producto de su función.",
+        "C": "Proselitismo en agravio del Estado.",
+        "D": "Uso de información clasificada.",
+        "E": "Ejercicio inadecuado de la docencia."
+      },
+      "correct": "B",
+      "comment": "El Código de Ética prohíbe taxativamente aceptar compensaciones, donaciones, obsequios o favores (ventajas indebidas) por parte de personas o empresas, que comprometan la objetividad del servidor en el cumplimiento de sus funciones (como direccionar recetas)."
+    },
+    {
+      "number": 99,
+      "code": "DIRESA26 P099",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "La remuneración de un médico cirujano en el Estado está compuesta por diferentes conceptos. Según su Ley de Trabajo, ¿qué característica diferencial tiene el pago del trabajo en 'Jornada Extraordinaria' (Guardias) frente a su remuneración principal?",
+      "options": {
+        "A": "No está sujeta a descuentos por Impuesto a la Renta bajo ningún motivo.",
+        "B": "Forma parte del cálculo para la Compensación por Tiempo de Servicios (CTS) y aguinaldos.",
+        "C": "Es un concepto remunerativo variable, no pensionable y que se calcula como un porcentaje de la remuneración principal, diferenciado por día y turno.",
+        "D": "Se abona obligatoriamente en cuentas bancarias distintas a la de planilla.",
+        "E": "Es el mismo monto fijo nacional, sin importar si el médico es nivel I o nivel V."
+      },
+      "correct": "C",
+      "comment": "Las bonificaciones por guardia hospitalaria (trabajo extraordinario) no tienen carácter pensionable y su cálculo varía porcentualmente según el nivel remunerativo del médico y el tipo de guardia (diurna, nocturna, domingos y feriados)."
+    },
+    {
+      "number": 100,
+      "code": "DIRESA26 P100",
+      "course": "Gestión y empleo público",
+      "topic": "Gestión y empleo público",
+      "question": "Al implementar el 'Subsistema de Gestión del Empleo' regulado por SERVIR en la DIRESA Puno, ¿cuál es la duración legal del 'Periodo de Prueba' para un médico u obstetra que ingresa por concurso público y asume el nuevo régimen?",
+      "options": {
+        "A": "Un año lectivo completo.",
+        "B": "30 días calendario.",
+        "C": "No existe periodo de prueba para profesionales de la salud en el Estado.",
+        "D": "Seis (6) meses para puestos regulares y un (1) año para cargos gerenciales.",
+        "E": "Tres (3) meses, al término de los cuales, si su evaluación es favorable, adquiere la protección contra el despido arbitrario."
+      },
+      "correct": "E",
+      "comment": "La Ley 30057 determina que el periodo de prueba para los servidores civiles regulares que ganan un concurso de méritos es de tres (3) meses (pudiendo ser hasta 6 para directivos). Superado este, alcanzan la estabilidad laboral del régimen civil de carrera."
+    }
+  ]
+}

@@ -1,0 +1,1289 @@
+{
+  "schemaVersion": 1,
+  "bankId": "BALOTARIO_DIRESA_PUNO_2026_101_200",
+  "title": "Balotario del 101 al 200 · DIRESA Puno 2026",
+  "source": "Balotario Médicos Cirujanos y Obstetras · DIRESA Puno · Edición 2026 · PDF proporcionado por el usuario (sin verificación externa de claves)",
+  "questionCount": 80,
+  "questions": [
+    {
+      "number": 101,
+      "code": "DIRESA26 P101",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "En el Modelo de Cuidado Integral de Salud por Curso de Vida (MCI), durante la atención integral de un niño en un establecimiento I-3 de Juli, se requiere evaluar las redes de apoyo extrafamiliar y las relaciones de la familia con su entorno (escuela, comunidad, centro de salud). ¿Qué instrumento es el metodológicamente adecuado para graficar esta dinámica?",
+      "options": {
+        "A": "El ecomapa.",
+        "B": "El familiograma estructural.",
+        "C": "El APGAR familiar.",
+        "D": "El genograma tridimensional.",
+        "E": "La ficha de tamizaje de riesgos de la ficha familiar."
+      },
+      "correct": "A",
+      "comment": "El ecomapa es el instrumento sociosanitario diseñado específicamente para identificar y visualizar gráficamente los recursos, el apoyo social y las interacciones extrafamiliares de la familia con su entorno institucional y comunitario."
+    },
+    {
+      "number": 102,
+      "code": "DIRESA26 P102",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "Según el Análisis de Situación de Salud (ASIS) de la región Puno, ¿cuál es el principal 'determinante estructural' que perpetúa las altas tasas de desnutrición crónica y anemia infantil en las zonas rurales altoandinas?",
+      "options": {
+        "A": "El consumo exclusivo de carbohidratos (papa y chuño) en la dieta diaria.",
+        "B": "La distribución desigual del ingreso, la exclusión social y el bajo nivel educativo materno.",
+        "C": "La alta prevalencia de infecciones parasitarias e hídricas por falta de saneamiento.",
+        "D": "El inadecuado lavado de manos antes de la preparación de los alimentos.",
+        "E": "La falta de suplementación con sulfato ferroso en los puestos de salud."
+      },
+      "correct": "B",
+      "comment": "Según el modelo de la OMS, los determinantes 'estructurales' son aquellos factores socioeconómicos y políticos fundamentales (ingreso, educación, clase social, etnia). La dieta, los parásitos y el saneamiento son determinantes 'intermediarios' (circunstancias materiales y conductuales)."
+    },
+    {
+      "number": 103,
+      "code": "DIRESA26 P103",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "En vigilancia epidemiológica, ocurre un conglomerado inusual de casos febriles ictéricos en San Gabán (selva de Puno) donde no se registraban casos similares hace 5 años. La Red de Salud debe clasificar el evento. ¿Cuál es la definición epidemiológica estricta de 'Brote'?",
+      "options": {
+        "A": "La presencia constante y sostenida de una enfermedad dentro de una zona geográfica definida.",
+        "B": "La propagación de una enfermedad nueva a través de varios países o continentes simultáneamente.",
+        "C": "El incremento inusual de casos de una enfermedad por encima de lo esperado en un área geográficamente delimitada y en un tiempo determinado.",
+        "D": "La aparición de una sola defunción por una causa desconocida en un hospital de nivel referencial.",
+        "E": "El aumento de la tasa de letalidad de una enfermedad endémica estacional sin aumento de la incidencia."
+      },
+      "correct": "C",
+      "comment": "Un brote epidemiológico se define clásicamente como la aparición repentina e inusual de casos de una enfermedad en un número superior al esperado (exceso de incidencia) en un tiempo y área geográfica delimitados, o la aparición de un solo caso de una enfermedad erradicada."
+    },
+    {
+      "number": 104,
+      "code": "DIRESA26 P104",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "Se atiende un parto domiciliario en la provincia de Sandia que culmina en Muerte Materna directa por hemorragia posparto. Según la Directiva Sanitaria de Vigilancia Epidemiológica del MINSA, ¿en qué plazo y cómo debe realizarse la notificación de este evento a la Red de Salud y la DIRESA?",
+      "options": {
+        "A": "Mensualmente, consolidado en el reporte HIS regular.",
+        "B": "Semanalmente, al cierre de la semana epidemiológica los días sábados.",
+        "C": "Dentro de las primeras 48 horas mediante informe escrito de auditoría médica.",
+        "D": "De forma inmediata, dentro de las primeras 24 horas de conocido el caso por cualquier vía de comunicación rápida.",
+        "E": "En un plazo de 7 días hábiles tras confirmar la causa básica de muerte con necropsia."
+      },
+      "correct": "D",
+      "comment": "La muerte materna es un evento de notificación obligatoria e INMEDIATA en el Perú. Todo establecimiento o personal de salud que tome conocimiento debe reportarlo dentro de las 24 horas de ocurrido, para iniciar la investigación clínico-epidemiológica."
+    },
+    {
+      "number": 105,
+      "code": "DIRESA26 P105",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "Al evaluar los determinantes sociales de la salud en una comunidad aymara afectada recurrentemente por las heladas, el factor 'material de construcción de la vivienda (adobe sin aislamiento térmico) y hacinamiento' se clasifica según el modelo de la OMS como:",
+      "options": {
+        "A": "Un determinante estructural macroeconómico.",
+        "B": "Un factor de riesgo genético y biológico.",
+        "C": "Un determinante social de tipo psicosocial.",
+        "D": "Un determinante conductual o estilo de vida.",
+        "E": "Un determinante intermediario de tipo circunstancia material."
+      },
+      "correct": "E",
+      "comment": "Dentro del modelo de determinantes sociales de la salud, las condiciones físicas de vida, el tipo de vivienda, el entorno laboral y el saneamiento barrial constituyen los 'Determinantes Intermediarios' catalogados como 'Circunstancias Materiales'."
+    },
+    {
+      "number": 106,
+      "code": "DIRESA26 P106",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "Para el análisis epidemiológico de Infecciones Respiratorias Agudas (IRAs) en menores de 5 años durante la temporada de friaje en Puno, la DIRESA utiliza el Canal Endémico. Si durante la semana epidemiológica actual el número de casos se ubica exactamente entre el Cuartil 1 (Q1) y la Mediana (Q2), ¿en qué zona endémica se encuentra la región?",
+      "options": {
+        "A": "Zona de Seguridad.",
+        "B": "Zona de Éxito.",
+        "C": "Zona de Alerta.",
+        "D": "Zona de Epidemia.",
+        "E": "Zona de Endemia Critica."
+      },
+      "correct": "A",
+      "comment": "En el canal endémico: por debajo de Q1 es Zona de Éxito; entre Q1 y Q2 (mediana) es Zona de Seguridad; entre Q2 y Q3 es Zona de Alerta; y por encima de Q3 es Zona de Epidemia o Brote."
+    },
+    {
+      "number": 107,
+      "code": "DIRESA26 P107",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "Dentro del componente de 'Provisión de Servicios' del MCI (Modelo de Cuidado Integral), la estrategia operativa de 'Sectorización' en un puesto de salud rural nivel I-2 tiene como propósito principal:",
+      "options": {
+        "A": "Dividir al personal de salud en turnos de mañana y tarde para no saturar el establecimiento.",
+        "B": "Delimitar territorial y demográficamente a la población asignada para facilitar el mapeo, la asignación de responsabilidades y la intervención comunitaria extramural.",
+        "C": "Segmentar a los pacientes según su capacidad de pago y tipo de seguro de salud (SIS vs EsSalud).",
+        "D": "Agrupar únicamente a los pacientes con enfermedades crónicas para su control mensual.",
+        "E": "Distribuir los medicamentos de farmacia según el presupuesto asignado por el gobierno central."
+      },
+      "correct": "B",
+      "comment": "La sectorización es la base operativa del primer nivel de atención. Consiste en delimitar un espacio geográfico y su población, asignando un equipo de salud responsable (mapeo, croquis, censo local) para garantizar la cobertura de intervenciones preventivas y continuas."
+    },
+    {
+      "number": 108,
+      "code": "DIRESA26 P108",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "Un indicador sanitario de alto impacto en el ASIS de Puno es la mortalidad materna. Epidemiológicamente, para calcular la 'Razón de Mortalidad Materna', el numerador es el número de muertes maternas, ¿cuál es el denominador poblacional que se utiliza universalmente?",
+      "options": {
+        "A": "El número total de Mujeres en Edad Fértil (MEF) en un área y año determinados.",
+        "B": "El número total de embarazos confirmados (incluyendo abortos) en ese año.",
+        "C": "El número total de nacidos vivos registrados en esa misma área geográfica y año.",
+        "D": "El total de la población femenina de la región censada en ese año.",
+        "E": "El número de partos atendidos exclusivamente en establecimientos de salud del Estado."
+      },
+      "correct": "C",
+      "comment": "La Razón de Mortalidad Materna se calcula dividiendo el número de muertes maternas (directas e indirectas) entre el número de nacidos vivos en el mismo periodo y lugar, expresado usualmente por cada 100,000 nacidos vivos."
+    },
+    {
+      "number": 109,
+      "code": "DIRESA26 P109",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "En un puesto de salud, el médico jefe reporta un aumento de Enfermedades Diarreicas Agudas (EDAs) en la población pediátrica. Para determinar analíticamente el riesgo poblacional, se decide calcular la 'Tasa de Incidencia'. ¿Qué mide específicamente este indicador epidemiológico?",
+      "options": {
+        "A": "La proporción total de personas enfermas (casos nuevos y antiguos) en un momento específico.",
+        "B": "El grado de letalidad o mortalidad de la diarrea en los niños afectados.",
+        "C": "El número total de consultas médicas generadas en el mes por causa de la diarrea.",
+        "D": "La velocidad de aparición o número de casos nuevos de una enfermedad en una población en riesgo durante un periodo de tiempo específico.",
+        "E": "La prevalencia puntual de deshidratación severa en el servicio de emergencia."
+      },
+      "correct": "D",
+      "comment": "La incidencia mide el riesgo de enfermar. Representa exclusivamente los 'casos nuevos' que aparecen en una población en riesgo durante un intervalo de tiempo, a diferencia de la prevalencia que suma casos nuevos y antiguos."
+    },
+    {
+      "number": 110,
+      "code": "DIRESA26 P110",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "Según el modelo de determinantes sociales de la salud impulsado por la OMS y el MINSA, el 'Sistema de Salud' en sí mismo (es decir, el acceso a los puestos de salud en Puno, la calidad de la atención y la dotación de insumos médicos) está catalogado como:",
+      "options": {
+        "A": "Un determinante estructural político.",
+        "B": "Un determinante biológico de resistencia.",
+        "C": "Un determinante social subyacente absoluto.",
+        "D": "Un factor no modificable a corto plazo.",
+        "E": "Un determinante intermediario, ya que media entre las condiciones estructurales de la sociedad y la exposición o vulnerabilidad individual a la enfermedad."
+      },
+      "correct": "E",
+      "comment": "El sistema de salud es un determinante social 'intermediario'. Aunque su acceso depende de factores estructurales (políticas de estado, economía), actúa directamente proveyendo curación, prevención o rehabilitación frente a la vulnerabilidad de las personas."
+    },
+    {
+      "number": 111,
+      "code": "DIRESA26 P111",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "La DIRESA Puno despliega brigadas para realizar un cerco epidemiológico en tres cuadras a la redonda del domicilio de un niño diagnosticado con Sarampión. Desde la óptica de la salud pública, el objetivo principal de esta intervención comunitaria es:",
+      "options": {
+        "A": "Interrumpir la cadena de transmisión limitando el contacto entre personas susceptibles y posibles casos asintomáticos o en periodo de incubación, mediante vacunación de bloqueo o aislamiento.",
+        "B": "Fumigar las viviendas para eliminar los vectores alados transmisores del virus.",
+        "C": "Evaluar la infraestructura sanitaria de las viviendas para el registro del ASIS regional.",
+        "D": "Evitar que los medios de comunicación ingresen a la zona para no generar pánico social.",
+        "E": "Cuantificar exclusivamente la tasa de mortalidad en el radio afectado."
+      },
+      "correct": "A",
+      "comment": "El cerco epidemiológico busca contener un brote (especialmente de enfermedades altamente contagiosas como el sarampión) interviniendo rápidamente sobre los susceptibles y los contactos para romper la cadena de transmisión de la triada epidemiológica."
+    },
+    {
+      "number": 112,
+      "code": "DIRESA26 P112",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "En el contexto del ASIS (Análisis de Situación de Salud) de la región Puno, la actual 'Transición Demográfica' se evidencia principalmente por la combinación progresiva de los siguientes fenómenos poblacionales:",
+      "options": {
+        "A": "Un aumento drástico de la tasa de fecundidad y una caída de la esperanza de vida al nacer.",
+        "B": "Una disminución paulatina de la tasa global de fecundidad acompañada de un incremento sostenido en la esperanza de vida y el consecuente envejecimiento poblacional.",
+        "C": "Una migración masiva exclusiva desde la selva hacia la sierra sin alteración de las tasas de natalidad.",
+        "D": "El predominio absoluto y estancado de la población menor de 15 años sin crecimiento de adultos mayores.",
+        "E": "El aumento exponencial de la mortalidad infantil junto con la estabilización de la fecundidad."
+      },
+      "correct": "B",
+      "comment": "La transición demográfica en el Perú (y sus regiones) se caracteriza por el paso de altas tasas de natalidad y mortalidad a bajas tasas de ambas. Esto genera una reducción en el número de hijos por mujer (fecundidad) y mayor longevidad (envejecimiento)."
+    },
+    {
+      "number": 113,
+      "code": "DIRESA26 P113",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "Una comunidad rural en Puno sufre un brote de Rabia Humana transmitida por mordedura de murciélago (vampiro). El epidemiólogo reporta que se registraron 5 casos confirmados y, lamentablemente, 5 muertes. El indicador epidemiológico que refleja esta proporción (5/5) y que mide la gravedad intrínseca del daño es:",
+      "options": {
+        "A": "La Tasa de Incidencia Acumulada.",
+        "B": "La Tasa de Prevalencia de Periodo.",
+        "C": "La Tasa de Letalidad.",
+        "D": "La Tasa de Mortalidad General.",
+        "E": "El Riesgo Atribuible Poblacional."
+      },
+      "correct": "C",
+      "comment": "La Tasa de Letalidad mide la proporción de casos fatales en relación al total de personas que padecen una enfermedad específica (Muertos por enf. X / Total de enfermos por X). En la rabia humana clínica, la letalidad es cercana al 100%."
+    },
+    {
+      "number": 114,
+      "code": "DIRESA26 P114",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "En la implementación del Modelo de Cuidado Integral (MCI), el equipo de salud realiza una visita domiciliaria a una gestante adolescente. Durante la entrevista, la obstetra identifica severos conflictos, rechazo y violencia verbal entre los padres de la menor hacia ella. Metodológicamente, esta disfuncionalidad se debe registrar en:",
+      "options": {
+        "A": "La curva de crecimiento pondoestatural.",
+        "B": "El reverso de la tarjeta de control prenatal exclusivamente en observaciones.",
+        "C": "El cuaderno de quejas y sugerencias del establecimiento.",
+        "D": "El Familiograma, trazando líneas quebradas o en zigzag entre las representaciones gráficas de los miembros en conflicto.",
+        "E": "El gráfico de APGAR familiar, mediante barras de colores."
+      },
+      "correct": "D",
+      "comment": "El familiograma (o genograma) es la herramienta estructural de la ficha familiar que no solo muestra la composición de la familia (cuadrados, círculos), sino que utiliza simbología de líneas (continuas, dobles, quebradas/zigzag) para representar la calidad de las interacciones y vínculos afectivos/conflictivos."
+    },
+    {
+      "number": 115,
+      "code": "DIRESA26 P115",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "La DIRESA Puno está evaluando utilizar un nuevo hemoglobinómetro portátil (tamizaje rápido) en colegios primarios de la región altoandina para detectar anemia. Para que el uso masivo de esta prueba tenga éxito en salud pública, se requiere que tenga alta 'Sensibilidad'. Esto significa que la prueba debe ser capaz de:",
+      "options": {
+        "A": "Identificar correctamente a los niños completamente sanos (verdaderos negativos).",
+        "B": "Predecir la gravedad clínica exacta y el tipo de anemia (ferropénica o megaloblástica).",
+        "C": "Funcionar sin calibración a más de 4,000 metros sobre el nivel del mar.",
+        "D": "Ser la prueba de 'Gold Standard' y reemplazar definitivamente al examen de ferritina en sangre venosa.",
+        "E": "Identificar correctamente a la mayor proporción posible de niños que verdaderamente tienen la enfermedad (altos verdaderos positivos) generando muy pocos falsos negativos."
+      },
+      "correct": "E",
+      "comment": "En epidemiología, la 'Sensibilidad' de una prueba es la probabilidad de que la prueba clasifique correctamente como positivo a un individuo verdaderamente enfermo. Una prueba muy sensible no deja escapar enfermos (ideal para tamizaje)."
+    },
+    {
+      "number": 116,
+      "code": "DIRESA26 P116",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "En terminología de control de enfermedades infecciosas, cuando la Red de Salud aísla estrictamente en un ambiente hospitalario a un paciente con Tuberculosis Extensamente Resistente (XDR) y, al mismo tiempo, restringe los desplazamientos y vigila en sus domicilios a los familiares sanos expuestos; a esta segunda medida aplicada a las personas sanas se le denomina:",
+      "options": {
+        "A": "Cuarentena.",
+        "B": "Inmunidad comunitaria.",
+        "C": "Cerco terapéutico secundario.",
+        "D": "Vigilancia centinela permanente.",
+        "E": "Desinfección concurrente."
+      },
+      "correct": "A",
+      "comment": "Epidemiológicamente, el 'Aislamiento' se aplica a las personas enfermas o infectadas confirmadas, mientras que la 'Cuarentena' es la restricción de actividades y separación de personas sanas que presumiblemente han estado expuestas a un caso contagioso, durante el periodo máximo de incubación."
+    },
+    {
+      "number": 117,
+      "code": "DIRESA26 P117",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "De acuerdo con el enfoque del ASIS y la medicina de altura, uno de los factores que agrava la mortalidad por Neumonía en menores de 5 años durante las heladas en Puno (sobre los 3,800 m.s.n.m.) no es solo la virulencia del patógeno, sino la altitud. ¿Qué mecanismo epidemiológico-fisiopatológico explica el aumento del riesgo de muerte en este contexto geográfico?",
+      "options": {
+        "A": "El frío extremo congela directamente los alveolos causando necrosis instantánea del parénquima pulmonar.",
+        "B": "La menor presión barométrica y la consiguiente menor presión parcial de oxígeno ambiental (hipoxia hipobárica) reducen dramáticamente la reserva de oxígeno del niño frente al proceso infeccioso obstructivo.",
+        "C": "Los virus respiratorios a gran altitud mutan aceleradamente debido a la radiación ultravioleta.",
+        "D": "El aire seco de la altura impide la formación de anticuerpos IgG en la mucosa bronquial.",
+        "E": "La policitemia compensatoria inactiva los antibióticos recetados en el primer nivel de atención."
+      },
+      "correct": "B",
+      "comment": "En Puno, la hipoxia de altitud (menor presión parcial de O2) hace que los niños tengan menor tolerancia a la hipoxemia aguda causada por la condensación pulmonar en una neumonía, acelerando la claudicación respiratoria y aumentando la mortalidad respecto al nivel del mar."
+    },
+    {
+      "number": 118,
+      "code": "DIRESA26 P118",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "En el marco del Modelo de Cuidado Integral por Curso de Vida (MCI), ¿cómo se define normativa y operativamente el 'Paquete de Cuidado Integral de Salud' que se oferta en los establecimientos de primer nivel?",
+      "options": {
+        "A": "El listado exclusivo de medicamentos gratuitos financiados por el SIS para afiliados de extrema pobreza.",
+        "B": "El conjunto de vacunas obligatorias que deben aplicarse antes de que el menor cumpla un año de edad.",
+        "C": "El conjunto articulado de intervenciones de promoción, prevención, recuperación y rehabilitación que el Estado garantiza y agrupa según la etapa de vida (niño, adolescente, joven, adulto y adulto mayor).",
+        "D": "El manual de procedimientos quirúrgicos para emergencias obstétricas en zonas rurales.",
+        "E": "La dotación mensual de insumos médicos enviada por la DIRESA a las microrredes de salud."
+      },
+      "correct": "C",
+      "comment": "El Paquete de Cuidados Integrales es el núcleo del MCI. Supera la atención de la enfermedad para ofrecer un grupo estandarizado de intervenciones preventivas, promocionales y recuperativas diseñadas específicamente para las necesidades de cada etapa del ciclo vital."
+    },
+    {
+      "number": 119,
+      "code": "DIRESA26 P119",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "El reporte epidemiológico del Área de Salud Ambiental de la Red de Salud indica que, durante el periodo de siembra, el 'Índice Endémico' (razón de incidencia estandarizada) de intoxicaciones por plaguicidas agrícolas en la provincia superó el valor de 1 (IE > 1). ¿Cómo se interpreta correctamente este resultado?",
+      "options": {
+        "A": "La letalidad por intoxicación ha disminuido en la población afectada.",
+        "B": "Significa que las campañas de protección laboral con EPPs fueron 100% efectivas.",
+        "C": "La incidencia de intoxicaciones observada es exactamente igual a la históricamente esperada (normalidad).",
+        "D": "Existe un exceso de riesgo estadístico; es decir, el número de casos de intoxicación observados en la población es mayor a lo esperado epidemiológicamente para ese periodo.",
+        "E": "Se ha erradicado el uso de plaguicidas tóxicos en toda la microrred."
+      },
+      "correct": "D",
+      "comment": "El Índice Endémico (o Razón de Incidencia Estandarizada - RIE) compara los casos observados contra los casos esperados. Un valor igual a 1 indica que son iguales. Un valor mayor a 1 (ej. 1.5) indica que hay un 50% más de casos de lo esperado (exceso de riesgo o epidemia)."
+    },
+    {
+      "number": 120,
+      "code": "DIRESA26 P120",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "Según las redes de salud de Puno, las 'prácticas culturales y el arraigo de saberes tradicionales' (como la preferencia por la posición de cuclillas en el parto) son elementos clave en la salud. Dentro del marco conceptual de la Comisión sobre Determinantes Sociales de la Salud (OMS), la cohesión social, la cultura y el empoderamiento comunitario se ubican como factores que influyen en:",
+      "options": {
+        "A": "El genotipo individual heredable de las comunidades andinas.",
+        "B": "Las condiciones exclusivamente patológicas y bacteriológicas del puerperio.",
+        "C": "La geografía física del entorno altitudinal.",
+        "D": "La distribución de la carga viral en brotes epidémicos.",
+        "E": "El contexto social y la posición psicosocial, actuando como determinantes intermediarios que modulan la respuesta del individuo frente a las vulnerabilidades estructurales."
+      },
+      "correct": "E",
+      "comment": "El capital social, la cultura comunitaria y las redes de apoyo (cohesión social) son considerados determinantes intermediarios psicosociales y socioculturales, ya que amortiguan el impacto de las desigualdades socioeconómicas y determinan las conductas de búsqueda de salud."
+    },
+    {
+      "number": 121,
+      "code": "DIRESA26 P121",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "En la sala situacional de la DIRESA Puno, el epidemiólogo expone que la 'Tasa de Mortalidad Infantil' (TMI) de la región ha disminuido levemente respecto al año anterior. ¿Qué componentes etarios abarca estrictamente el cálculo de la Tasa de Mortalidad Infantil?",
+      "options": {
+        "A": "Todos los niños menores de 5 años fallecidos.",
+        "B": "Todos los niños fallecidos desde el nacimiento hasta exactamente los 11 meses y 29 días de vida.",
+        "C": "Únicamente los recién nacidos fallecidos durante los primeros 28 días de vida (periodo neonatal).",
+        "D": "Los niños fallecidos entre 1 y 4 años de edad.",
+        "E": "Los fetos nacidos muertos (mortinatos) sumados a los fallecidos en la primera semana."
+      },
+      "correct": "B",
+      "comment": "La Tasa de Mortalidad Infantil mide específicamente las defunciones de niños ocurridas durante su primer año de vida (menores de 1 año) por cada 1,000 nacidos vivos."
+    },
+    {
+      "number": 122,
+      "code": "DIRESA26 P122",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "Al aplicar el Modelo de Cuidado Integral (MCI) en la familia de un paciente con tuberculosis en Ilave, el médico aplica el instrumento 'APGAR Familiar'. Si el puntaje total obtenido es de 3 puntos, ¿cuál es la interpretación clínica y la conducta a seguir?",
+      "options": {
+        "A": "Familia altamente funcional; se cita en un año para control regular.",
+        "B": "Disfunción familiar leve; se sugiere apoyo social comunitario.",
+        "C": "Disfunción familiar severa; requiere intervención inmediata por psicología o asistencia social para abordar la crisis.",
+        "D": "Confirma el diagnóstico de tuberculosis MDR en el paciente índice.",
+        "E": "Familia con recursos económicos suficientes; no requiere afiliación al SIS."
+      },
+      "correct": "C",
+      "comment": "En la escala de APGAR Familiar, una puntuación de 0 a 3 indica disfunción familiar severa. Este hallazgo obliga al equipo de salud a priorizar intervenciones psicosociales y de soporte, ya que compromete la adherencia al tratamiento."
+    },
+    {
+      "number": 123,
+      "code": "DIRESA26 P123",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "El Análisis de Situación de Salud (ASIS) local revela que el 60% de las gestantes de un distrito en Puno no acude a sus controles prenatales por falta de carreteras y transporte público. Según el enfoque de la OMS, este determinante social pertenece a la categoría de:",
+      "options": {
+        "A": "Determinantes Biológicos.",
+        "B": "Determinantes Estructurales.",
+        "C": "Determinantes Intermediarios (Circunstancias Materiales - Entorno).",
+        "D": "Determinantes Conductuales.",
+        "E": "Factores Genéticos."
+      },
+      "correct": "C",
+      "comment": "La infraestructura del entorno físico, como la falta de carreteras, transporte o saneamiento, se clasifica como una 'circunstancia material' dentro de los determinantes sociales intermediarios que limitan el acceso a la salud."
+    },
+    {
+      "number": 124,
+      "code": "DIRESA26 P124",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "En la vigilancia epidemiológica de enfermedades prevenibles por vacunación, la DIRESA notifica un caso probable de Difteria. ¿Qué tipo de vigilancia epidemiológica debe activarse inmediatamente frente a este evento de notificación obligatoria?",
+      "options": {
+        "A": "Vigilancia Pasiva rutinaria a fin de mes.",
+        "B": "Vigilancia Centinela solo en hospitales referenciales.",
+        "C": "Vigilancia Activa, con búsqueda intencionada de casos y contactos en la comunidad y establecimientos.",
+        "D": "Vigilancia Sindrómica mediante algoritmos digitales.",
+        "E": "Vigilancia Ambiental exclusiva de cuerpos de agua."
+      },
+      "correct": "C",
+      "comment": "Ante enfermedades erradicadas o en vías de eliminación (como difteria, polio o sarampión), la detección de un solo caso probable exige activar la Vigilancia Activa, movilizando equipos para buscar febriles o casos sospechosos en la comunidad."
+    },
+    {
+      "number": 125,
+      "code": "DIRESA26 P125",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "Dentro de la provisión de cuidados del MCI, la etapa de vida 'Adolescente' comprende edades específicas. Según la normativa del MINSA para la atención integral, ¿qué rango etario define esta etapa?",
+      "options": {
+        "A": "De 10 a 14 años.",
+        "B": "De 12 a 17 años, 11 meses y 29 días.",
+        "C": "De 10 a 19 años.",
+        "D": "De 15 a 24 años.",
+        "E": "De 13 a 18 años."
+      },
+      "correct": "B",
+      "comment": "La normativa técnica peruana (MCI) define operativamente la Etapa de Vida Adolescente desde los 12 años hasta los 17 años, 11 meses y 29 días. A partir de los 18, inicia la etapa Joven."
+    },
+    {
+      "number": 126,
+      "code": "DIRESA26 P126",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "Un brote de Dengue en una zona endémica requiere calcular la 'Tasa de Ataque' para planificar los insumos. ¿Qué representa epidemiológicamente la Tasa de Ataque?",
+      "options": {
+        "A": "La proporción de mosquitos Aedes aegypti infectados con el virus.",
+        "B": "Una tasa de prevalencia puntual durante un periodo epidémico.",
+        "C": "Una tasa de incidencia acumulada utilizada específicamente en situaciones de brote o epidemia, expresada generalmente en porcentaje.",
+        "D": "La velocidad con la que los pacientes se complican a dengue grave.",
+        "E": "El número total de fallecidos sobre la población general."
+      },
+      "correct": "C",
+      "comment": "La Tasa de Ataque es un tipo especial de incidencia acumulada que se usa exclusivamente en epidemias o brotes agudos para medir el riesgo que tiene una población de contraer la enfermedad durante el periodo corto que dura el brote."
+    },
+    {
+      "number": 127,
+      "code": "DIRESA26 P127",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "En la evaluación de la salud materno-infantil en Puno, se analiza el concepto de 'Mortalidad Perinatal'. Epidemiológicamente, las muertes perinatales incluyen:",
+      "options": {
+        "A": "Únicamente los fallecimientos ocurridos durante el trabajo de parto.",
+        "B": "Las defunciones fetales tardías (mortinatos a partir de las 22 o 28 semanas) más las defunciones neonatales tempranas (hasta los 7 días de vida).",
+        "C": "Todos los abortos espontáneos ocurridos en el primer trimestre.",
+        "D": "Las defunciones neonatales tardías (hasta los 28 días de vida).",
+        "E": "Las muertes maternas ocurridas durante el puerperio inmediato."
+      },
+      "correct": "B",
+      "comment": "La Mortalidad Perinatal abarca el periodo de mayor riesgo alrededor del parto, sumando las muertes fetales tardías (fetos nacidos muertos después de las 22 semanas o 500g) y las muertes de los recién nacidos durante la primera semana de vida (0 a 7 días)."
+    },
+    {
+      "number": 128,
+      "code": "DIRESA26 P128",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "Durante el Análisis de Situación de Salud (ASIS) de la Red de Salud Melgar, se elabora un 'Mapa de Riesgo'. El principal valor de esta herramienta para la gestión pública local es:",
+      "options": {
+        "A": "Geolocalizar exclusivamente las farmacias privadas para la venta de insumos.",
+        "B": "Visualizar espacialmente la distribución de la población vulnerable, los peligros (ej. zonas de heladas, inundaciones) y los recursos de salud disponibles en el territorio.",
+        "C": "Delimitar las zonas donde no se cobrará por atenciones particulares.",
+        "D": "Ubicar únicamente los domicilios de las gestantes para la entrega de regalos institucionales.",
+        "E": "Planificar las rutas de evacuación militar."
+      },
+      "correct": "B",
+      "comment": "El mapa de riesgo es una representación cartográfica esencial en el ASIS que permite a los gestores visualizar dónde se superponen las amenazas ambientales/sociales y la población vulnerable, facilitando la toma de decisiones preventivas."
+    },
+    {
+      "number": 129,
+      "code": "DIRESA26 P129",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "Según el enfoque de Determinantes Sociales de la Salud, la 'Gobernanza global, las políticas macroeconómicas y el estado de bienestar' de un país conforman:",
+      "options": {
+        "A": "Los determinantes intermediarios.",
+        "B": "El contexto socioeconómico y político.",
+        "C": "Las circunstancias materiales.",
+        "D": "Los factores conductuales.",
+        "E": "Los factores psicosociales."
+      },
+      "correct": "B",
+      "comment": "En el modelo de la Comisión de la OMS, estos factores de nivel macro, que engloban las leyes, políticas públicas y tratados económicos internacionales, forman el 'contexto socioeconómico y político', el estrato más profundo de los determinantes estructurales."
+    },
+    {
+      "number": 130,
+      "code": "DIRESA26 P130",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "En epidemiología, la capacidad de un agente infeccioso (ej. Mycobacterium tuberculosis) para producir enfermedad clínica en una persona previamente infectada se denomina:",
+      "options": {
+        "A": "Infectividad.",
+        "B": "Inmunogenicidad.",
+        "C": "Patogenicidad.",
+        "D": "Virulencia.",
+        "E": "Antigenicidad."
+      },
+      "correct": "C",
+      "comment": "La Patogenicidad es la capacidad del agente para producir enfermedad clínica manifiesta (síntomas) en los individuos infectados. Se diferencia de la Infectividad (capacidad de alojarse/multiplicarse) y de la Virulencia (capacidad de causar casos graves o fatales)."
+    },
+    {
+      "number": 131,
+      "code": "DIRESA26 P131",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "La Ficha Familiar es un instrumento clave en el Modelo de Cuidado Integral (MCI). Su principal utilidad no es archivar datos clínicos, sino:",
+      "options": {
+        "A": "Servir como historia clínica de emergencia individual.",
+        "B": "Identificar los determinantes sociales, riesgos familiares y el ciclo vital de la familia para programar intervenciones sociosanitarias.",
+        "C": "Reemplazar el padrón nominal de niños menores de un año.",
+        "D": "Registrar exclusivamente el nivel socioeconómico para el cobro de tarifas.",
+        "E": "Elaborar las recetas médicas grupales."
+      },
+      "correct": "B",
+      "comment": "La ficha familiar permite caracterizar el perfil demográfico, estructural y de riesgos (vivienda, saneamiento, disfunción) del grupo familiar, constituyendo el insumo básico para que el equipo de salud planifique el Plan de Atención Integral a la Familia (PAIFAM)."
+    },
+    {
+      "number": 132,
+      "code": "DIRESA26 P132",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "Al analizar la curva epidémica de un brote de Enfermedad Transmitida por Alimentos (ETA) luego de una festividad patronal en Puno, se observa un ascenso rápido de casos y un descenso igual de rápido (forma de campana estrecha). Esto caracteriza típicamente a:",
+      "options": {
+        "A": "Una epidemia propagada o de fuente persona a persona.",
+        "B": "Una epidemia de fuente común puntual.",
+        "C": "Una endemia estacional persistente.",
+        "D": "Un brote nosocomial de larga duración.",
+        "E": "Una epidemia de fuente común continua."
+      },
+      "correct": "B",
+      "comment": "Una curva epidémica con un pico explosivo y rápido descenso indica que todos los casos se expusieron simultáneamente al mismo agente causal (ej. un alimento contaminado en una fiesta) en un corto periodo de tiempo (fuente común puntual)."
+    },
+    {
+      "number": 133,
+      "code": "DIRESA26 P133",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "El Modelo de Cuidado Integral de Salud por Curso de Vida (MCI) incorpora cuatro dimensiones o ejes de atención. ¿Cuáles son estas dimensiones inseparables en la atención?",
+      "options": {
+        "A": "Prevención, Tratamiento, Hospitalización y Referencia.",
+        "B": "Promoción de la salud, Prevención de riesgos/enfermedades, Recuperación (tratamiento) y Rehabilitación.",
+        "C": "Clínica, Quirúrgica, Pediátrica y Geriátrica.",
+        "D": "Domiciliaria, Comunitaria, Institucional y Nacional.",
+        "E": "Diagnóstico, Receta, Seguimiento y Alta médica."
+      },
+      "correct": "B",
+      "comment": "Las cuatro dimensiones prestacionales del MCI abarcan todo el espectro del proceso salud-enfermedad: Promoción (mejorar determinantes), Prevención (evitar daño), Recuperación (curar o mitigar daño) y Rehabilitación (recuperar capacidad funcional)."
+    },
+    {
+      "number": 134,
+      "code": "DIRESA26 P134",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "En la Región Puno, el reporte epidemiológico muestra una 'Prevalencia' del 50% de Anemia en niños de 6 a 35 meses. Si un gerente de salud implementa un nuevo tratamiento altamente efectivo que cura la anemia rápidamente, pero no mejora los factores causales (no previenen casos nuevos), ¿qué efecto tendrá a mediano plazo en los indicadores?",
+      "options": {
+        "A": "Aumentará la incidencia pero disminuirá la letalidad.",
+        "B": "Disminuirá la incidencia, pero la prevalencia se mantendrá alta.",
+        "C": "Aumentarán tanto la incidencia como la prevalencia.",
+        "D": "Disminuirá la prevalencia, pero la incidencia de casos nuevos seguirá siendo alta.",
+        "E": "No habrá ningún impacto en las tasas epidemiológicas."
+      },
+      "correct": "D",
+      "comment": "Al curar más rápido a los enfermos, salen del 'estanque' de casos prevalentes, disminuyendo la prevalencia. Sin embargo, si no se previenen las causas (hierro, dieta, parásitos), los casos nuevos seguirán apareciendo (incidencia alta)."
+    },
+    {
+      "number": 135,
+      "code": "DIRESA26 P135",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "Dentro de los Determinantes Sociales de la Salud, la 'Posición Socioeconómica' se determina por tres indicadores clásicos principales que ubican a un individuo en la jerarquía social. ¿Cuáles son?",
+      "options": {
+        "A": "Ingreso económico, educación y ocupación.",
+        "B": "Raza, género y orientación política.",
+        "C": "Lugar de nacimiento, estado civil y religión.",
+        "D": "Hábitos dietéticos, sedentarismo y consumo de alcohol.",
+        "E": "Acceso a agua potable, luz eléctrica y saneamiento."
+      },
+      "correct": "A",
+      "comment": "La tríada clásica que define la posición socioeconómica de una persona (determinante estructural) es su nivel de ingresos, el grado de educación alcanzado y el tipo de ocupación/empleo que desempeña."
+    },
+    {
+      "number": 136,
+      "code": "DIRESA26 P136",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "Al notificar los casos de Infecciones Respiratorias Agudas (IRAs) y Neumonías en la Red Nacional de Epidemiología (RENACE) durante la campaña de heladas, ¿cuál es la periodicidad requerida para el envío de información del nivel local al nivel superior?",
+      "options": {
+        "A": "Reporte trimestral con el consolidado del presupuesto.",
+        "B": "Notificación quincenal de casos leves y aguda de muertes.",
+        "C": "Notificación semanal, respetando los cortes de las semanas epidemiológicas.",
+        "D": "Reporte diario al cierre del turno de guardia nocturna.",
+        "E": "Notificación anual al finalizar el invierno."
+      },
+      "correct": "C",
+      "comment": "La vigilancia rutinaria de las IRAs y neumonías (que no constituyen muertes inmediatas o brotes inusuales) se consolida y reporta obligatoriamente cada semana epidemiológica (que va de domingo a sábado) en el sistema de notificación nacional."
+    },
+    {
+      "number": 137,
+      "code": "DIRESA26 P137",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "El análisis de situación de salud (ASIS) identifica a las 'Enfermedades No Transmisibles' (ENT) en aumento en la población adulta de Puno. El principal determinante modificable (factor de riesgo conductual) común para la hipertensión arterial, diabetes tipo 2 y obesidad es:",
+      "options": {
+        "A": "El consumo de agua hervida no clorada.",
+        "B": "La exposición laboral a metales pesados en minería.",
+        "C": "La altura superior a los 3,500 m.s.n.m.",
+        "D": "Los hábitos dietéticos inadecuados (alto consumo de sodio, grasas saturadas) y el sedentarismo.",
+        "E": "El estrés psicosocial generado por los programas televisivos."
+      },
+      "correct": "D",
+      "comment": "Las Enfermedades No Transmisibles comparten factores de riesgo conductuales comunes y altamente modificables, siendo la dieta malsana, la inactividad física (sedentarismo) y el consumo de tabaco/alcohol los determinantes centrales de la epidemia de ENT."
+    },
+    {
+      "number": 138,
+      "code": "DIRESA26 P138",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "Bajo la normativa del Modelo de Cuidado Integral (MCI), el cuidado de la salud mental debe estar integrado obligatoriamente desde:",
+      "options": {
+        "A": "Los hospitales psiquiátricos de nivel nacional exclusivamente.",
+        "B": "Los hospitales de nivel III-1.",
+        "C": "El primer nivel de atención, a través de centros de salud comunitarios y tamizajes en los paquetes de cuidado integral.",
+        "D": "Únicamente en los consultorios privados de psicología.",
+        "E": "A partir del diagnóstico de psicosis severa."
+      },
+      "correct": "C",
+      "comment": "La reforma del MCI y la Ley de Salud Mental exigen la descentralización del cuidado de salud mental, estableciendo que la promoción, prevención (tamizaje de violencia, depresión) y tratamiento inicial deben brindarse prioritariamente en el primer nivel de atención."
+    },
+    {
+      "number": 139,
+      "code": "DIRESA26 P139",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "En epidemiología y salud pública, el 'Riesgo Relativo' (RR) es una medida de asociación clave. Si un estudio en Puno muestra que el RR de padecer cáncer de cuello uterino en mujeres que no se realizaron Papanicolaou es de 3.5 en comparación con las que sí lo hicieron, esto significa que:",
+      "options": {
+        "A": "La prueba de Papanicolaou causa un 3.5% de muertes.",
+        "B": "Las mujeres que no se tamizan tienen 3.5 veces más riesgo o probabilidad de desarrollar la enfermedad frente a las que sí se tamizan.",
+        "C": "Es 3.5 veces más barato curar a una paciente tamizada.",
+        "D": "El Papanicolaou tiene una sensibilidad del 35%.",
+        "E": "El 3.5% de las mujeres tamizadas resultarán con cáncer."
+      },
+      "correct": "B",
+      "comment": "El Riesgo Relativo mide la fuerza de la asociación entre un factor (falta de tamizaje) y una enfermedad. Un RR de 3.5 indica que el grupo expuesto al riesgo tiene una probabilidad 3.5 veces mayor de enfermar que el grupo no expuesto."
+    },
+    {
+      "number": 140,
+      "code": "DIRESA26 P140",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "En un Puesto de Salud, se requiere organizar los 'Cuidados Extramurales' que plantea el MCI. ¿Cuál de las siguientes actividades corresponde a una intervención extramural pura en salud pública?",
+      "options": {
+        "A": "La realización de ecografías obstétricas en el tópico de emergencia.",
+        "B": "La toma de muestras de Papanicolaou en el consultorio de ginecología.",
+        "C": "La atención del parto eutócico en la sala de expulsivo.",
+        "D": "El taller de sesiones demostrativas de preparación de alimentos ricos en hierro en el local comunal del distrito.",
+        "E": "La entrega de medicamentos en la farmacia del centro de salud."
+      },
+      "correct": "D",
+      "comment": "Los cuidados extramurales son aquellos que el equipo de salud desarrolla fuera de las paredes del establecimiento (en el territorio, familia, escuela, comunidad) orientados principalmente a la promoción de la salud, prevención y articulación social."
+    },
+    {
+      "number": 161,
+      "code": "DIRESA26 P161",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "En la sala situacional de Puno se discute la diferencia conceptual entre Endemia y Epidemia respecto a las Infecciones Respiratorias Agudas (IRAs). ¿Cuál es la principal característica epidemiológica que define a una 'Endemia'?",
+      "options": {
+        "A": "La aparición repentina de una enfermedad completamente desconocida en la región.",
+        "B": "La diseminación de una enfermedad a través de múltiples países y continentes.",
+        "C": "La presencia habitual, constante o esperada de una enfermedad dentro de una zona geográfica durante todo el año o en temporadas específicas.",
+        "D": "El incremento explosivo del número de casos por encima del canal endémico.",
+        "E": "La letalidad del 100% en la población afectada en un periodo corto."
+      },
+      "correct": "C",
+      "comment": "La endemia es la presencia continua y sostenida de una enfermedad o agente infeccioso dentro de una zona geográfica determinada (es la tasa de casos 'esperada' y habitual). La epidemia, por el contrario, es el exceso repentino de esos casos."
+    },
+    {
+      "number": 162,
+      "code": "DIRESA26 P162",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "Como parte del Paquete de Cuidado Integral del Niño, la aplicación de la vacuna BCG (Bacilo de Calmette-Guérin) al recién nacido es obligatoria. Desde el enfoque de salud pública y epidemiología, ¿cuál es el objetivo primordial de esta vacuna en el Perú?",
+      "options": {
+        "A": "Prevenir de por vida la infección tuberculosa latente en el adulto.",
+        "B": "Proteger exclusivamente contra las formas clínicas graves de la tuberculosis infantil, como la meningitis tuberculosa y la TBC miliar.",
+        "C": "Erradicar el Mycobacterium tuberculosis del medio ambiente.",
+        "D": "Generar anticuerpos IgG que cruzan la placenta en futuros embarazos.",
+        "E": "Curar a los recién nacidos que hayan adquirido tuberculosis congénita."
+      },
+      "correct": "B",
+      "comment": "La vacuna BCG no previene la infección inicial ni la TBC pulmonar del adulto, pero es altamente eficaz en salud pública para evitar la diseminación hematógena temprana y prevenir las formas graves y fatales en los niños (miliar y meníngea)."
+    },
+    {
+      "number": 163,
+      "code": "DIRESA26 P163",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "Al investigar un caso de rabia silvestre en una comunidad de Puno, el epidemiólogo debe identificar los componentes de la cadena de transmisión. En el caso específico del virus de la rabia transmitido por murciélagos hematófagos, ¿qué rol cumple este animal en la cadena epidemiológica?",
+      "options": {
+        "A": "Es únicamente un fómite inanimado.",
+        "B": "Es el huésped definitivo donde el virus realiza su reproducción sexual.",
+        "C": "Es el huésped susceptible terminal.",
+        "D": "Es un vector mecánico pasivo.",
+        "E": "Es el reservorio natural y, a la vez, la fuente de infección directa para el humano."
+      },
+      "correct": "E",
+      "comment": "En la rabia silvestre, el murciélago hematófago actúa tanto como reservorio (donde el virus vive y se multiplica) como fuente de infección, transmitiendo el virus directamente al humano a través de la saliva durante la mordedura."
+    },
+    {
+      "number": 164,
+      "code": "DIRESA26 P164",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "Al actualizar el familiograma de una familia en el Puesto de Salud, la obstetra traza tres líneas continuas paralelas entre el símbolo de la madre y el de su hija adolescente. Según la simbología internacional, este gráfico representa:",
+      "options": {
+        "A": "Una relación o vínculo familiar estrecho, intenso o fusionado.",
+        "B": "Una relación conflictiva y violenta.",
+        "C": "Un quiebre o ruptura definitiva del vínculo familiar (distanciamiento).",
+        "D": "Que ambas padecen la misma enfermedad hereditaria.",
+        "E": "Una adopción legal en curso."
+      },
+      "correct": "A",
+      "comment": "En el familiograma, la dinámica y calidad de las relaciones se expresan con líneas. Una línea simple es relación normal, dos líneas es estrecha, tres líneas es muy estrecha o fusionada (simbiótica). Una línea quebrada indica conflicto."
+    },
+    {
+      "number": 165,
+      "code": "DIRESA26 P165",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "Según el informe clásico de Marc Lalonde (que sentó las bases de los determinantes de la salud), existen cuatro grandes campos. ¿Cuál de estos campos se demostró que es el principal responsable de la morbilidad y mortalidad en las sociedades modernas, pero paradójicamente recibe la menor parte del presupuesto de salud?",
+      "options": {
+        "A": "La biología humana (genética).",
+        "B": "El medio ambiente (físico y social).",
+        "C": "El sistema de organización de los servicios de salud (hospitales).",
+        "D": "Los estilos de vida (conductas, hábitos y decisiones personales).",
+        "E": "El cambio climático global."
+      },
+      "correct": "D",
+      "comment": "Lalonde demostró que los estilos de vida y conductas insanas (dieta, sedentarismo, tabaco) causan más del 40% de las muertes y enfermedades, mientras que el sistema de salud (que recibe >90% del presupuesto) impacta mucho menos en la salud global."
+    },
+    {
+      "number": 166,
+      "code": "DIRESA26 P166",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "El ASIS de la Red de Salud reporta la 'Tasa de Mortalidad Neonatal'. Epidemiológicamente, ¿qué periodo específico de vida abarca estrictamente el numerador de este indicador?",
+      "options": {
+        "A": "Desde las 22 semanas de gestación hasta el nacimiento.",
+        "B": "Desde el nacimiento (día 0) hasta cumplidos los 28 días de vida extrauterina.",
+        "C": "Desde el primer mes de vida hasta los 11 meses y 29 días.",
+        "D": "Únicamente las primeras 24 horas de vida (mortalidad neonatal precocísima).",
+        "E": "Desde el nacimiento hasta el primer año escolar."
+      },
+      "correct": "B",
+      "comment": "La mortalidad neonatal comprende las defunciones de nacidos vivos que ocurren durante los primeros 28 días completos de vida (que puede subdividirse en precoz: hasta los 7 días, y tardía: de 7 a 28 días)."
+    },
+    {
+      "number": 167,
+      "code": "DIRESA26 P167",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "En la provisión de cuidados a la gestante, el MCI establece la administración de la vacuna dTpa (difteria, tétanos y tos ferina acelular) durante el embarazo. El propósito de salud pública de esta intervención es proteger directamente al recién nacido mediante la transferencia de anticuerpos maternos. ¿Cuál es la edad gestacional óptima normada para su aplicación?",
+      "options": {
+        "A": "En el primer trimestre, entre las semanas 8 y 12.",
+        "B": "Inmediatamente después del parto (puerperio inmediato).",
+        "C": "Durante el tercer trimestre, idealmente entre las semanas 27 y 36 de gestación.",
+        "D": "Exclusivamente en la última semana antes de la fecha probable de parto.",
+        "E": "Antes de la concepción, durante la consejería preconcepcional."
+      },
+      "correct": "C",
+      "comment": "La vacunación con dTpa en el embarazo busca maximizar la transferencia pasiva de anticuerpos (IgG) a través de la placenta hacia el feto. El pico de transferencia ocurre cuando se vacuna a la madre entre la semana 27 y 36, protegiendo al niño de la tos ferina neonatal."
+    },
+    {
+      "number": 168,
+      "code": "DIRESA26 P168",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "En el proceso de elaboración del ASIS, una vez identificados todos los problemas de salud de Puno (anemia, TBC, accidentes, cáncer), el comité debe priorizarlos. El criterio de priorización denominado 'Trascendencia' se refiere a:",
+      "options": {
+        "A": "La viabilidad política y económica de solucionar el problema.",
+        "B": "El número absoluto de personas afectadas (incidencia o prevalencia pura).",
+        "C": "La existencia de intervenciones médicas costo-efectivas para la enfermedad.",
+        "D": "El impacto social, la severidad del daño (letalidad/discapacidad) y la carga emocional o económica que la enfermedad genera en la comunidad.",
+        "E": "La distribución geográfica homogénea del problema en toda la región."
+      },
+      "correct": "D",
+      "comment": "En la matriz de priorización (Método de Hanlon o similar), la 'Magnitud' es el número de afectados, la 'Factibilidad' es la posibilidad de resolverlo, y la 'Trascendencia' es la gravedad, letalidad, discapacidad y el impacto social del problema."
+    },
+    {
+      "number": 169,
+      "code": "DIRESA26 P169",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "Para que la 'Ficha Familiar' sea un instrumento verdaderamente útil en la gestión territorial del Modelo de Cuidado Integral (MCI), el MINSA recomienda que la actualización de la información de los determinantes y riesgos de la familia se realice:",
+      "options": {
+        "A": "Por lo menos una vez al año (anualmente), o cada vez que ocurra un evento importante en la familia (nacimiento, muerte, cambio de domicilio).",
+        "B": "Exclusivamente durante la primera consulta de apertura de la historia clínica.",
+        "C": "Solamente cuando el jefe de familia lo solicite por escrito.",
+        "D": "Diario, mediante llamadas telefónicas de la técnica de enfermería.",
+        "E": "Cada 5 años coincidiendo con los censos nacionales de INEI."
+      },
+      "correct": "A",
+      "comment": "La ficha familiar es un instrumento dinámico. Las normas del MINSA indican que el PAIFAM (Plan de Atención Integral a la Familia) y la actualización de riesgos en la ficha familiar deben revisarse y actualizarse como mínimo anualmente o ante eventos vitales."
+    },
+    {
+      "number": 170,
+      "code": "DIRESA26 P170",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "Si la DIRESA Puno quiere medir la 'carga' de una enfermedad crónica, como la Diabetes Mellitus tipo 2 en la población adulta de la ciudad de Juliaca para planificar el presupuesto anual de medicamentos hipoglucemiantes, ¿qué indicador epidemiológico es el más útil?",
+      "options": {
+        "A": "Tasa de letalidad por diabetes.",
+        "B": "Tasa de incidencia estacional acumulada.",
+        "C": "Tasa de ataque secundaria.",
+        "D": "Riesgo Atribuible Poblacional.",
+        "E": "Tasa de Prevalencia."
+      },
+      "correct": "E",
+      "comment": "La Tasa de Prevalencia mide la proporción total de personas enfermas (casos nuevos + casos antiguos acumulados) en un momento dado. Es el indicador ideal para estimar la carga de enfermedades crónicas de larga duración y calcular el presupuesto para su tratamiento sostenido."
+    },
+    {
+      "number": 171,
+      "code": "DIRESA26 P171",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "Un equipo de salud pública realiza una encuesta y tamizaje en un solo día a todos los trabajadores del mercado central para conocer simultáneamente cuántos tienen obesidad y cuántos consumen gaseosas diarias. Este diseño epidemiológico que toma una 'fotografía del momento' se denomina:",
+      "options": {
+        "A": "Estudio transversal o de prevalencia.",
+        "B": "Estudio de cohortes prospectivo.",
+        "C": "Estudio de casos y controles.",
+        "D": "Ensayo clínico controlado ciego.",
+        "E": "Estudio longitudinal retrospectivo."
+      },
+      "correct": "A",
+      "comment": "Los estudios transversales (cross-sectional) miden la exposición y el efecto (enfermedad) al mismo tiempo en una población definida. Son rápidos, económicos y sirven para determinar la prevalencia de una condición en un momento exacto (como una foto)."
+    },
+    {
+      "number": 172,
+      "code": "DIRESA26 P172",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "En el contexto de la prevención de la Sífilis Congénita y Materna, el indicador de proceso más importante que evalúa la Red de Salud para asegurar el corte de transmisión vertical durante el control prenatal es:",
+      "options": {
+        "A": "El número de preservativos entregados mensualmente en el establecimiento.",
+        "B": "El porcentaje de gestantes con parto vertical institucional.",
+        "C": "La cantidad de penicilina cristalina intravenosa aplicada a los adultos mayores.",
+        "D": "El número de ecografías transvaginales realizadas en el primer trimestre.",
+        "E": "El porcentaje de gestantes tamizadas con pruebas rápidas (PR Sífilis/VIH) preferentemente en el primer trimestre del embarazo."
+      },
+      "correct": "E",
+      "comment": "Para la eliminación de la transmisión materno-infantil (sífilis y VIH), el estándar de oro en salud pública es alcanzar altas coberturas de tamizaje temprano (primer trimestre) mediante pruebas duales, garantizando tratamiento oportuno con penicilina benzatínica."
+    },
+    {
+      "number": 173,
+      "code": "DIRESA26 P173",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "La Carta de Ottawa (1986) es el documento fundacional de la 'Promoción de la Salud'. ¿Cuál de las siguientes acciones representa una línea de acción principal de la Promoción de la Salud orientada a intervenir sobre los determinantes sociales en Puno?",
+      "options": {
+        "A": "La construcción de más hospitales oncológicos de alta tecnología.",
+        "B": "El desarrollo de políticas públicas sanas, la creación de entornos favorables y el fortalecimiento de la acción comunitaria (empoderamiento).",
+        "C": "La prescripción exclusiva de medicamentos genéricos en el primer nivel.",
+        "D": "La distribución de panfletos sobre enfermedades a pacientes en salas de espera.",
+        "E": "El pago de bonos económicos a médicos que laboren en zonas rurales."
+      },
+      "correct": "B",
+      "comment": "Las cinco áreas de acción de Ottawa son: construir políticas públicas saludables, crear entornos que apoyen la salud, fortalecer la acción comunitaria, desarrollar habilidades personales y reorientar los servicios de salud (hacia la prevención)."
+    },
+    {
+      "number": 174,
+      "code": "DIRESA26 P174",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "En el análisis de un brote epidémico de Influenza en Puno, se calculó que la 'Tasa de Letalidad' fue del 2%. ¿Qué significa matemáticamente esta cifra para la población?",
+      "options": {
+        "A": "Que el 2% de toda la población de Puno falleció durante el brote.",
+        "B": "Que de cada 100 personas expuestas al virus de la Influenza, 2 se contagiaron.",
+        "C": "Que de cada 100 personas enfermas (casos confirmados) de Influenza en ese brote, 2 fallecieron a causa de esta enfermedad.",
+        "D": "Que el 2% de los fallecidos totales del año en Puno murieron de Influenza.",
+        "E": "Que la enfermedad se transmite con un 2% de velocidad más rápida que la variante anterior."
+      },
+      "correct": "C",
+      "comment": "La Tasa de Letalidad es una proporción que mide la severidad de una enfermedad. Relaciona el número de defunciones por una causa específica entre el total de casos diagnosticados con esa misma enfermedad (Defunciones por enfermedad X / Enfermos de X)."
+    },
+    {
+      "number": 175,
+      "code": "DIRESA26 P175",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "Al evaluar el desempeño de la DIRESA Puno en la reducción de la anemia infantil, se utilizan indicadores de 'Estructura', 'Proceso' y 'Resultado/Impacto'. ¿Cuál de los siguientes es un indicador de RESULTADO o IMPACTO?",
+      "options": {
+        "A": "El número de chispitas o jarabes de hierro distribuidos a los puestos de salud (estructura/insumo).",
+        "B": "El porcentaje de médicos y obstetras capacitados en lactancia materna (proceso).",
+        "C": "El número de visitas domiciliarias realizadas a niños con anemia en el mes (proceso).",
+        "D": "La disminución porcentual de la prevalencia de anemia y desnutrición crónica en niños menores de 36 meses en la región.",
+        "E": "La cantidad de hemoglobinómetros comprados y calibrados en el año (estructura)."
+      },
+      "correct": "D",
+      "comment": "En la evaluación de programas de salud, los indicadores de 'impacto' o 'resultado final' miden el cambio real en el estado de salud de la población (reducción de morbilidad, mortalidad o prevalencia) atribuible a las intervenciones realizadas."
+    },
+    {
+      "number": 176,
+      "code": "DIRESA26 P176",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "La anemia en niños menores de 3 años en Puno es un problema de salud pública severo. Al analizar su epidemiología bajo el modelo multicausal de la triada ecológica, ¿qué característica diferencial tiene frente a una enfermedad como la tuberculosis?",
+      "options": {
+        "A": "La anemia ferropénica infantil en esta zona es multicausal y carencial (deficiencia nutricional, prácticas alimentarias, parasitosis concomitantes), sin un único agente infeccioso causal primario como en la TBC.",
+        "B": "La anemia es transmitida de persona a persona mediante gotitas de Flügge.",
+        "C": "El reservorio de la anemia es exclusivamente el ganado vacuno.",
+        "D": "La anemia tiene un periodo de incubación exacto de 14 días.",
+        "E": "Solo se cura mediante el aislamiento del niño anémico."
+      },
+      "correct": "A",
+      "comment": "La anemia nutricional o ferropénica carece de la cadena epidemiológica infecciosa clásica (no hay un patógeno contagioso único). Su origen radica en una red de causalidad: determinantes sociales, dietas pobres en hierro, infecciones a repetición que agotan reservas y malabsorción."
+    },
+    {
+      "number": 177,
+      "code": "DIRESA26 P177",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "Dentro del Modelo de Cuidado Integral (MCI), el eje o componente de 'Organización de la Provisión' establece cómo se ofertan los servicios a la población. Normativamente, la provisión de cuidados se debe organizar garantizando que la atención sea:",
+      "options": {
+        "A": "Exclusivamente intramural, dentro del horario de 8 a 14 horas.",
+        "B": "Mixta, articulando la oferta intramural (en el establecimiento) con la atención extramural (comunidad, escuelas, domicilios) y con adecuación cultural.",
+        "C": "Centralizada únicamente en el Hospital de contingencia regional.",
+        "D": "Totalmente privatizada a través de clínicas particulares afiliadas.",
+        "E": "Subcontratada a ONGs locales en zonas de extrema pobreza."
+      },
+      "correct": "B",
+      "comment": "La Organización de la Provisión de Cuidados en el MCI exige salir del modelo recuperativo hospitalocéntrico. Implica acercar la salud a la familia y la comunidad combinando el trabajo dentro (intramural) y fuera (extramural) del establecimiento, con pertinencia intercultural."
+    },
+    {
+      "number": 178,
+      "code": "DIRESA26 P178",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "En Puno se aplica una prueba rápida de tamizaje masivo para COVID-19 en un mercado. Un poblador obtiene un resultado positivo y le pregunta al médico: '¿Qué probabilidad hay de que yo realmente esté enfermo si la prueba salió positiva?'. En epidemiología clínica, esta probabilidad se denomina:",
+      "options": {
+        "A": "Sensibilidad diagnóstica.",
+        "B": "Especificidad poblacional.",
+        "C": "Eficiencia de la prueba.",
+        "D": "Valor Predictivo Negativo (VPN).",
+        "E": "Valor Predictivo Positivo (VPP)."
+      },
+      "correct": "E",
+      "comment": "El Valor Predictivo Positivo (VPP) responde exactamente a esa pregunta clínica: es la probabilidad que tiene una persona con resultado positivo en una prueba de estar verdaderamente enferma. Depende mucho de la prevalencia de la enfermedad en esa población."
+    },
+    {
+      "number": 179,
+      "code": "DIRESA26 P179",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "El enfoque de 'Equidad en Salud' propuesto por la Comisión de Determinantes Sociales de la OMS exige abordar 'las causas de las causas'. Si el problema directo son las infecciones respiratorias en época de friaje, abordar las 'causas de las causas' implica:",
+      "options": {
+        "A": "Comprar únicamente más antibióticos e inhaladores para el mes de julio.",
+        "B": "Entregar folletos sobre el uso de paracetamol en idiomas nativos.",
+        "C": "Implementar políticas multisectoriales de vivienda (aislamiento térmico), mejorar los ingresos familiares y el acceso a combustibles limpios para calefacción.",
+        "D": "Castigar a los médicos que no cumplan sus guardias nocturnas.",
+        "E": "Limitarse a notificar los casos sospechosos en el sistema RENACE."
+      },
+      "correct": "C",
+      "comment": "Abordar las causas de las causas significa no quedarse en el factor biológico inmediato (el virus o el frío), sino intervenir a nivel estructural y de políticas públicas en los determinantes socioeconómicos que causan la vulnerabilidad de esa población (vivienda precaria, pobreza)."
+    },
+    {
+      "number": 180,
+      "code": "DIRESA26 P180",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "En la vigilancia epidemiológica de la salud materno-perinatal, ante la ocurrencia de una Muerte Fetal Tardía en un hospital de la DIRESA Puno, ¿qué acción sanitaria es de cumplimiento obligatorio para el comité local según la normativa nacional?",
+      "options": {
+        "A": "Ocultar el caso para evitar procesos legales contra el equipo de guardia.",
+        "B": "Despedir automáticamente a la obstetra de turno.",
+        "C": "Entregar el cuerpo a la familia sin emitir el certificado médico de defunción.",
+        "D": "Realizar obligatoriamente la auditoría médica perinatal (Comité de Prevención de Mortalidad Materno Perinatal) para identificar factores determinantes y deficiencias en la atención.",
+        "E": "Referir el caso directamente al Colegio Médico sin intervención hospitalaria."
+      },
+      "correct": "D",
+      "comment": "Toda muerte materna y perinatal (fetal tardía o neonatal) debe ser investigada y discutida obligatoriamente por el Comité de Auditoría en Salud Materno Perinatal del establecimiento o red. Su objetivo no es punitivo, sino identificar nudos críticos, demoras y proponer mejoras preventivas."
+    },
+    {
+      "number": 181,
+      "code": "DIRESA26 P181",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "Durante la atención de un recién nacido en un Puesto de Salud de Sandia, el personal nota dificultad para succionar y rigidez generalizada (sospecha de Tétanos Neonatal). Al ser una enfermedad en fase de erradicación, ¿qué tipo de notificación epidemiológica corresponde?",
+      "options": {
+        "A": "Notificación consolidada mensual.",
+        "B": "Notificación inmediata (dentro de las 24 horas) de manera individualizada.",
+        "C": "Notificación semanal al cierre del periodo epidemiológico.",
+        "D": "Notificación negativa al finalizar el mes.",
+        "E": "No requiere notificación hasta confirmar por laboratorio."
+      },
+      "correct": "B",
+      "comment": "El tétanos neonatal es un evento de notificación obligatoria e inmediata. Todo caso sospechoso debe reportarse dentro de las 24 horas para desencadenar la investigación del caso, la búsqueda activa y las medidas de control en la comunidad."
+    },
+    {
+      "number": 182,
+      "code": "DIRESA26 P182",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "El Modelo de Cuidado Integral (MCI) organiza los paquetes de atención según las etapas del curso de vida. ¿Cuál es el rango de edad que define normativamente a la Etapa de Vida 'Joven' en el Perú?",
+      "options": {
+        "A": "De 15 a 24 años.",
+        "B": "De 18 a 29 años, 11 meses y 29 días.",
+        "C": "De 20 a 35 años.",
+        "D": "De 14 a 21 años.",
+        "E": "De 17 a 25 años."
+      },
+      "correct": "B",
+      "comment": "El MINSA establece operativamente la Etapa de Vida Joven desde los 18 años cumplidos hasta los 29 años, 11 meses y 29 días. A partir de los 30 años inicia la Etapa de Vida Adulto."
+    },
+    {
+      "number": 183,
+      "code": "DIRESA26 P183",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "En el ASIS de Puno, para medir la verdadera 'Carga de Enfermedad' que generan las enfermedades crónicas y los accidentes, se utiliza un indicador que combina los años de vida perdidos por muerte prematura y los años vividos con discapacidad. Este indicador se denomina:",
+      "options": {
+        "A": "Tasa de Mortalidad Estandarizada.",
+        "B": "Años de Vida Ajustados por Calidad (AVAC).",
+        "C": "Años de Vida Saludable (AVISA) o DALYs (por sus siglas en inglés).",
+        "D": "Esperanza de Vida al Nacer.",
+        "E": "Tasa Global de Fecundidad."
+      },
+      "correct": "C",
+      "comment": "Los AVISA (Años de Vida Saludable perdidos) miden la carga de enfermedad sumando los años perdidos por muerte prematura (AVP) y los años vividos con discapacidad (AVD), brindando una visión integral del impacto de una patología en la población."
+    },
+    {
+      "number": 184,
+      "code": "DIRESA26 P184",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "Al evaluar la efectividad de las medidas de control de la rabia canina en una provincia, la red de salud emite una 'Notificación Negativa' semanal. ¿Qué significa epidemiológicamente este procedimiento?",
+      "options": {
+        "A": "Que el sistema de vigilancia ha colapsado y no hay datos.",
+        "B": "Que los casos reportados fueron descartados por laboratorio.",
+        "C": "Que se reporta oficialmente la ausencia (cero casos) de la enfermedad sujeta a vigilancia durante esa semana, demostrando que el sistema está activo.",
+        "D": "Que los casos ocurrieron en otra jurisdicción y se derivaron.",
+        "E": "Que el personal de salud se niega a enviar la información."
+      },
+      "correct": "C",
+      "comment": "La notificación negativa es el reporte obligatorio de 'cero casos' de una enfermedad bajo vigilancia. Es fundamental porque evidencia que el establecimiento está vigilando activamente y certifica que realmente no hubo casos (silencio epidemiológico documentado)."
+    },
+    {
+      "number": 185,
+      "code": "DIRESA26 P185",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "En el modelo de determinantes sociales de salud de Dahlgren y Whitehead, las 'redes comunitarias y el apoyo social' (como las rondas campesinas o los clubes de madres en Puno) se ubican en qué nivel de influencia?",
+      "options": {
+        "A": "En el núcleo central inmodificable (edad, sexo, genética).",
+        "B": "En el nivel de los estilos de vida del individuo.",
+        "C": "En el nivel de las influencias sociales y comunitarias.",
+        "D": "En las condiciones de vida y de trabajo.",
+        "E": "En las condiciones socioeconómicas, culturales y ambientales generales (macro)."
+      },
+      "correct": "C",
+      "comment": "En el modelo de capas de cebolla de Dahlgren y Whitehead, el nivel intermedio corresponde a las 'redes sociales y comunitarias', que actúan como factores protectores (cohesión social) frente a las presiones del entorno y los estilos de vida."
+    },
+    {
+      "number": 186,
+      "code": "DIRESA26 P186",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "En la vigilancia epidemiológica de la Infección por VIH en gestantes, si una paciente en su primer control prenatal presenta una sola prueba rápida reactiva para VIH, epidemiológicamente se clasifica como:",
+      "options": {
+        "A": "Caso descartado.",
+        "B": "Caso confirmado.",
+        "C": "Caso probable o sospechoso (requiere prueba confirmatoria o segunda prueba diagnóstica).",
+        "D": "Falso positivo definitivo.",
+        "E": "Portador asintomático no transmisor."
+      },
+      "correct": "C",
+      "comment": "Una sola prueba rápida reactiva (de tamizaje) no hace el diagnóstico definitivo. Se clasifica como caso probable/reactivo y requiere obligatoriamente una segunda prueba (otra prueba rápida de diferente principio, o confirmatoria) según el algoritmo del MINSA."
+    },
+    {
+      "number": 187,
+      "code": "DIRESA26 P187",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "La elaboración del Plan de Atención Integral a la Familia (PAIFAM) es el núcleo del trabajo con familias en el MCI. ¿Cuál es el paso crítico para garantizar el éxito y la adherencia de la familia a este plan?",
+      "options": {
+        "A": "Imponer estrictamente las normas médicas y dietéticas.",
+        "B": "La concertación y negociación de 'Acuerdos' compartidos entre el equipo de salud y la familia para la modificación de riesgos.",
+        "C": "Entregar medicamentos gratuitos para todo el año.",
+        "D": "Derivar a todos los miembros directamente al hospital regional.",
+        "E": "Obligar a la familia a firmar un pagaré en caso de incumplimiento."
+      },
+      "correct": "B",
+      "comment": "El PAIFAM no es una receta impuesta. Su éxito radica en el enfoque participativo: el personal de salud y la familia negocian y establecen acuerdos viables y compromisos mutuos para modificar los factores de riesgo identificados en el familiograma y ecomapa."
+    },
+    {
+      "number": 188,
+      "code": "DIRESA26 P188",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "En el análisis de determinantes sociales, se adopta la estrategia de 'Salud en Todas las Políticas'. En el contexto de Puno, un ejemplo claro de la aplicación de esta estrategia para reducir las IRAs graves sería:",
+      "options": {
+        "A": "Aumentar el horario de atención médica en los puestos de salud de 12 a 24 horas.",
+        "B": "El trabajo multisectorial donde el Ministerio de Vivienda implementa casitas calientes (aislamiento térmico) y el Ministerio de Energía provee cocinas mejoradas.",
+        "C": "Distribuir exclusivamente jarabes para la tos en colegios.",
+        "D": "Contratar más pediatras para el Hospital Regional.",
+        "E": "Vacunar al 100% del personal de salud contra la influenza."
+      },
+      "correct": "B",
+      "comment": "La 'Salud en Todas las Políticas' reconoce que la salud se crea fuera de los hospitales. Implica la acción coordinada de otros sectores (Vivienda, Educación, Agricultura) para abordar los determinantes estructurales (frío intradomiciliario, humo) que causan la enfermedad."
+    },
+    {
+      "number": 189,
+      "code": "DIRESA26 P189",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "Al utilizar el 'Canal Endémico' para vigilar los casos de Diarrea (EDAs) en el verano altiplánico, si la línea de la curva epidémica actual se sitúa por debajo de la curva del Cuartil 1 (Límite Inferior Esperado), se concluye que la región está en:",
+      "options": {
+        "A": "Zona de Epidemia.",
+        "B": "Zona de Alerta.",
+        "C": "Zona de Seguridad.",
+        "D": "Zona de Éxito.",
+        "E": "Zona de Endemia Critica."
+      },
+      "correct": "D",
+      "comment": "En la interpretación del Canal Endémico, la 'Zona de Éxito' se ubica por debajo del primer cuartil (Q1), indicando que el número de casos está en el nivel más bajo histórico y las medidas preventivas están funcionando óptimamente."
+    },
+    {
+      "number": 190,
+      "code": "DIRESA26 P190",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "Un médico de familia del primer nivel debe realizar 'Prevención Terciaria' en un paciente de 60 años con Diabetes Mellitus tipo 2 y pie diabético incipiente. Esta intervención consiste en:",
+      "options": {
+        "A": "Fomentar la dieta saludable para evitar que la familia desarrolle diabetes.",
+        "B": "Realizar tamizaje de glucosa a los vecinos del paciente.",
+        "C": "Tratamiento rehabilitador, curaciones avanzadas y prevención de amputaciones para limitar el daño y la discapacidad ya instalada.",
+        "D": "Iniciar metformina cuando el paciente recién es diagnosticado.",
+        "E": "Recomendar la vacunación antitetánica."
+      },
+      "correct": "C",
+      "comment": "La prevención terciaria se aplica cuando la enfermedad ya ha provocado daños o secuelas (pie diabético). Su objetivo es limitar la discapacidad, rehabilitar al paciente y prevenir complicaciones peores (como la amputación o la muerte)."
+    },
+    {
+      "number": 191,
+      "code": "DIRESA26 P191",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "El enfoque de 'Interculturalidad en Salud' que promueve la DIRESA Puno (por ejemplo, en el parto vertical con adecuación cultural) busca resolver principalmente un problema estructural del sistema de salud que afecta los indicadores maternos. ¿Cuál es este problema?",
+      "options": {
+        "A": "El alto costo de las camas quirúrgicas ginecológicas.",
+        "B": "La falta de conocimiento anatómico del obstetra.",
+        "C": "La barrera de acceso sociocultural y el trato deshumanizado que alejan a la gestante rural del parto institucional.",
+        "D": "El exceso de anestesia epidural en los hospitales del Estado.",
+        "E": "La incompatibilidad de los medicamentos modernos con la altitud."
+      },
+      "correct": "C",
+      "comment": "La principal causa de morbilidad y mortalidad materna en zonas andinas ha sido el parto domiciliario inseguro motivado por el rechazo cultural al modelo médico occidental (frío, horizontal, sin familiares). La adecuación intercultural rompe esa barrera atrayendo el parto al centro de salud."
+    },
+    {
+      "number": 192,
+      "code": "DIRESA26 P192",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "En epidemiología, para medir la fuerza de asociación en un estudio de 'Cohortes' (donde se sigue a un grupo expuesto y a otro no expuesto hacia el futuro), el estimador estadístico clásico utilizado es:",
+      "options": {
+        "A": "El Odds Ratio (Razón de Momios).",
+        "B": "El Riesgo Relativo (RR).",
+        "C": "El Índice Endémico.",
+        "D": "La Tasa de Letalidad.",
+        "E": "La Razón de Mortalidad Proporcional."
+      },
+      "correct": "B",
+      "comment": "En los estudios prospectivos o de cohortes (donde se calcula la incidencia directa), la medida de asociación de elección es el Riesgo Relativo (RR). El Odds Ratio (OR) se usa preferentemente en estudios retrospectivos de Casos y Controles."
+    },
+    {
+      "number": 193,
+      "code": "DIRESA26 P193",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "Según el ASIS de las regiones del sur andino, la causa directa más frecuente de Muerte Materna es:",
+      "options": {
+        "A": "El aborto terapéutico.",
+        "B": "La sepsis puerperal por retención de restos.",
+        "C": "La hemorragia obstétrica grave (principalmente posparto).",
+        "D": "Los trastornos hipertensivos del embarazo (Preeclampsia/Eclampsia).",
+        "E": "El embolismo de líquido amniótico."
+      },
+      "correct": "C",
+      "comment": "A nivel nacional, y especialmente en zonas rurales/andinas donde ocurren partos domiciliarios o demoras en la referencia, la Hemorragia Obstétrica (Clave Roja) sigue siendo la primera causa directa de muerte materna, seguida muy de cerca por los trastornos hipertensivos."
+    },
+    {
+      "number": 194,
+      "code": "DIRESA26 P194",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "El paquete preventivo para la Etapa de Vida 'Adulto' (30 a 59 años) incluye la captación oportuna de factores de riesgo de Enfermedades No Transmisibles. ¿Cuál es el examen o tamizaje primordial exigido normativamente en este grupo poblacional?",
+      "options": {
+        "A": "Tamizaje de hiperplasia prostática benigna desde los 30 años.",
+        "B": "Evaluación odontológica para ortodoncia.",
+        "C": "Medición de la agudeza visual y auditiva mensual.",
+        "D": "Medición anual de la Presión Arterial y tamizaje de Índice de Masa Corporal (IMC).",
+        "E": "Electroencefalograma anual obligatorio."
+      },
+      "correct": "D",
+      "comment": "En la etapa adulta, la prevención secundaria de enfermedades cardiovasculares y metabólicas es crítica. La medición del IMC, el perímetro abdominal y la presión arterial son los tamizajes universales y obligatorios en el paquete de cuidados del adulto."
+    },
+    {
+      "number": 195,
+      "code": "DIRESA26 P195",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "En la vigilancia de las Infecciones Asociadas a la Atención de la Salud (IAAS), un neonato desarrolla sepsis clínica a los 10 días de haber nacido en el hospital y permanecer internado en UCIN. Epidemiológicamente, esta infección se clasifica como:",
+      "options": {
+        "A": "Infección connatal o vertical.",
+        "B": "Infección asociada a la atención de salud (nosocomial).",
+        "C": "Infección comunitaria adquirida tempranamente.",
+        "D": "Infección latente.",
+        "E": "Infección iatrogénica inevitable."
+      },
+      "correct": "B",
+      "comment": "Se considera IAAS (o nosocomial) a aquella infección que no estaba presente ni en periodo de incubación al momento del ingreso hospitalario, y que suele manifestarse luego de las 48-72 horas de hospitalización (como en este caso a los 10 días)."
+    },
+    {
+      "number": 196,
+      "code": "DIRESA26 P196",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "Si una prueba rápida de antígeno para diagnosticar un virus respiratorio en Puno tiene un 'Valor Predictivo Negativo' (VPN) del 95%, ¿cómo debe interpretar el médico este resultado para su paciente?",
+      "options": {
+        "A": "Si la prueba sale positiva, hay un 95% de certeza de que tiene el virus.",
+        "B": "La prueba falla el 95% de las veces en la sierra.",
+        "C": "Si la prueba sale negativa, existe una probabilidad del 95% de que el paciente verdaderamente NO esté enfermo (esté sano).",
+        "D": "El 95% de las personas sanas tendrán una prueba positiva.",
+        "E": "La prevalencia de la enfermedad en la comunidad es del 95%."
+      },
+      "correct": "C",
+      "comment": "El Valor Predictivo Negativo (VPN) es la probabilidad post-prueba de que un individuo con un resultado negativo esté verdaderamente libre de la enfermedad. Brinda seguridad clínica para descartar el diagnóstico."
+    },
+    {
+      "number": 197,
+      "code": "DIRESA26 P197",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "Un indicador sociodemográfico clave en el ASIS es la 'Razón de Dependencia Demográfica'. Este indicador relaciona a la población económicamente inactiva (dependiente) con la población potencialmente activa. ¿Qué grupos etarios conforman el numerador (los dependientes)?",
+      "options": {
+        "A": "Únicamente los menores de 5 años.",
+        "B": "Las mujeres gestantes y los ancianos.",
+        "C": "La población menor de 15 años y la población de 65 años a más.",
+        "D": "Todos los escolares de 6 a 17 años.",
+        "E": "Solo los jubilados mayores de 70 años."
+      },
+      "correct": "C",
+      "comment": "La Razón de Dependencia se calcula sumando a la población infantil (<15 años) y a los adultos mayores (65 años a más) como dependientes, dividiéndolos entre la población en edad productiva (15 a 64 años)."
+    },
+    {
+      "number": 198,
+      "code": "DIRESA26 P198",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "La DIRESA Puno realiza la 'Vigilancia Epidemiológica Centinela' de la Influenza. ¿Cuál es la característica principal de la vigilancia centinela frente a la vigilancia universal?",
+      "options": {
+        "A": "Vigila todos los casos que ocurren en el 100% de los establecimientos de salud del país.",
+        "B": "Es exclusiva para la vigilancia entomológica de mosquitos.",
+        "C": "Se realiza solo a través de reportes de los líderes comunitarios.",
+        "D": "Se basa en la recolección de datos de alta calidad en un número seleccionado y representativo de establecimientos o grupos poblacionales (sitios centinela) para extrapolar tendencias.",
+        "E": "Solo registra los casos que terminan en muerte (letalidad)."
+      },
+      "correct": "D",
+      "comment": "La vigilancia centinela no busca contar todos los casos (no es universal). Busca monitorear de manera profunda y con soporte de laboratorio (alta calidad) la tendencia, serotipos y comportamiento de una enfermedad en sitios estratégicos y representativos."
+    },
+    {
+      "number": 199,
+      "code": "DIRESA26 P199",
+      "course": "Salud pública y epidemiología",
+      "topic": "Salud pública y epidemiología",
+      "question": "El personal de salud del C.S. Capachica ejecuta el 'Eje de Intervención en la Comunidad' del MCI. ¿Qué actividad es propia de este eje poblacional/comunitario?",
+      "options": {
+        "A": "La nebulización de un niño asmático en emergencia.",
+        "B": "La capacitación de docentes y creación de quioscos escolares saludables en la institución educativa local.",
+        "C": "La sutura de una herida cortante en el tópico.",
+        "D": "La toma de hemograma completo en el laboratorio.",
+        "E": "El cobro de los formatos de afiliación al Seguro Integral de Salud."
+      },
+      "correct": "B",
+      "comment": "Las intervenciones en la comunidad y entornos (escuelas, municipios, mercados) son parte de la Promoción de la Salud. Buscar la certificación de 'Escuelas Saludables' o trabajar con docentes es una actividad pura del eje comunitario del MCI."
+    },
+    {
+      "number": 200,
+      "code": "DIRESA26 P200",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "La Atención Primaria de Salud (APS), concepto matriz del Modelo de Cuidado Integral, fue definida originalmente en la Declaración de Alma-Ata (1978). ¿Cuál de los siguientes es el enfoque central de la APS?",
+      "options": {
+        "A": "Proveer atención médica elemental de baja calidad solo para poblaciones pobres.",
+        "B": "Centralizar la atención en hospitales de tercer nivel con equipos de resonancia magnética.",
+        "C": "Promover la asistencia sanitaria esencial, basada en métodos prácticos, científicamente fundados y socialmente aceptables, puesta al alcance de todos mediante su plena participación.",
+        "D": "Reemplazar la figura del médico por el chamán o curandero tradicional.",
+        "E": "Garantizar la gratuidad absoluta de cirugías estéticas y paliativas."
+      },
+      "correct": "C",
+      "comment": "La APS no es 'medicina pobre para pobres', ni se limita al primer nivel. Es una estrategia global integral y equitativa que busca llevar asistencia esencial y científicamente válida a individuos y familias con su participación y a un costo sostenible."
+    }
+  ]
+}

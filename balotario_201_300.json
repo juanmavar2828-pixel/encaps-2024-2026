@@ -1,0 +1,1289 @@
+{
+  "schemaVersion": 1,
+  "bankId": "BALOTARIO_DIRESA_PUNO_2026_201_300",
+  "title": "Balotario del 201 al 300 · DIRESA Puno 2026",
+  "source": "Balotario Médicos Cirujanos y Obstetras · DIRESA Puno · Edición 2026 · PDF proporcionado por el usuario (sin verificación externa de claves)",
+  "questionCount": 80,
+  "questions": [
+    {
+      "number": 201,
+      "code": "DIRESA26 P201",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "Según la NTS N° 134-MINSA para el manejo preventivo y terapéutico de la anemia, un recién nacido prematuro (32 semanas) en el Hospital de Juliaca requiere iniciar la suplementación profiláctica con hierro. ¿A qué edad cronológica y en qué dosis debe iniciarla?",
+      "options": {
+        "A": "A los 30 días de nacido, con una dosis de 2 mg/kg/día de hierro elemental en gotas.",
+        "B": "A los 6 meses de edad, con 1 mg/kg/día de hierro elemental.",
+        "C": "A los 4 meses de edad, junto con el inicio de la alimentación complementaria.",
+        "D": "Al nacer, inmediatamente después del corte del cordón, con 3 mg/kg/día.",
+        "E": "A los 15 días de nacido, con micronutrientes en polvo (chispitas)."
+      },
+      "correct": "A",
+      "comment": "La norma técnica establece que los niños con bajo peso al nacer o prematuros agotan sus reservas de hierro más rápido, por lo que deben iniciar la suplementación profiláctica tempranamente a los 30 días de nacidos, a dosis de 2 mg/kg/día hasta los 5 meses."
+    },
+    {
+      "number": 202,
+      "code": "DIRESA26 P202",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "En la campaña de vacunación escolar en Puno, según la actualización de la Norma Técnica de Inmunizaciones, ¿cuál es el esquema normado actual para la vacuna contra el Virus del Papiloma Humano (VPH)?",
+      "options": {
+        "A": "Tres dosis intramusculares exclusivas para niñas de 12 años.",
+        "B": "Dosis única para niñas y niños de 9 a 13 años (quinto grado de primaria).",
+        "C": "Dos dosis con intervalo de 6 meses solo para niñas menores de 10 años.",
+        "D": "Dosis única exclusiva para adolescentes varones de 15 años.",
+        "E": "Cuatro dosis subcutáneas independientemente de la edad o el sexo."
+      },
+      "correct": "B",
+      "comment": "El MINSA actualizó el esquema de vacunación contra el VPH pasando a una dosis única (ampliando la protección equitativa) dirigida tanto a niñas como a niños en el rango de edad de 9 a 13 años."
+    },
+    {
+      "number": 203,
+      "code": "DIRESA26 P203",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "La NTS N° 104-MINSA de Prevención y Control de la Tuberculosis establece criterios claros de captación. En un Puesto de Salud del nivel I-1, ¿cuál es la definición operativa estándar para captar a un 'Sintomático Respiratorio' en la población general?",
+      "options": {
+        "A": "Persona con tos seca y pérdida de peso mayor a 5 kg en el último mes.",
+        "B": "Persona con fiebre nocturna y hemoptisis evidente por más de 7 días.",
+        "C": "Persona que presenta tos y expectoración por 15 días a más.",
+        "D": "Paciente con diagnóstico previo de neumonía que no responde a penicilina.",
+        "E": "Cualquier persona con antecedente de familiar fallecido por TBC, aunque no tenga tos."
+      },
+      "correct": "C",
+      "comment": "La definición universal de captación en salud pública para TBC es el 'Sintomático Respiratorio' (SR), definido como toda persona que presenta tos con flema (expectoración) por 15 días o más, a quien debe solicitarse obligatoriamente baciloscopia."
+    },
+    {
+      "number": 204,
+      "code": "DIRESA26 P204",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "Al servicio de emergencia de un hospital en Puno ingresa una gestante en trabajo de parto en fase de expulsivo. No cuenta con controles prenatales y se le realiza una prueba rápida de VIH que resulta reactiva. En este 'Escenario 3', la norma técnica (NTS 169) indica el siguiente manejo respecto a la lactancia y el recién nacido:",
+      "options": {
+        "A": "Permitir lactancia materna exclusiva por 6 meses y dar nevirapina al recién nacido.",
+        "B": "Suspender la lactancia solo si la carga viral supera las 1000 copias e iniciar fórmula.",
+        "C": "Suspender la lactancia, no dar ningún antirretroviral al bebé hasta confirmar con Western Blot.",
+        "D": "Evitar y suspender totalmente la lactancia materna (reemplazar por sucedáneo), realizar clampaje inmediato del cordón e iniciar profilaxis antirretroviral al recién nacido (Zidovudina + Lamivudina + Nevirapina).",
+        "E": "Permitir la lactancia mixta y vacunar inmediatamente con BCG al recién nacido."
+      },
+      "correct": "D",
+      "comment": "El Escenario 3 (madre diagnosticada en el parto sin TARV previo) es de altísimo riesgo de transmisión vertical. La NTS exige clampaje inmediato, suspensión absoluta y permanente de la lactancia materna, contraindicar la BCG e iniciar profilaxis triple al neonato."
+    },
+    {
+      "number": 205,
+      "code": "DIRESA26 P205",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "De acuerdo con la Norma Técnica de Atención Integral de Salud Materna (NTS 105), en el primer control prenatal precoz, además del tamizaje de VIH y Sífilis, ¿qué batería de exámenes de laboratorio básicos es obligatorio solicitar?",
+      "options": {
+        "A": "Perfil hepático, perfil lipídico y radiografía de tórax.",
+        "B": "Ecografía Doppler fetal, anticuerpos antinucleares (ANA) y PCR.",
+        "C": "Tomografía pélvica, prueba de esfuerzo cardíaco y TSH.",
+        "D": "Dosaje de progesterona, estradiol y prolactina sérica.",
+        "E": "Hemoglobina, Grupo sanguíneo y factor Rh, Glucosa en ayunas y Examen completo de orina."
+      },
+      "correct": "E",
+      "comment": "La batería básica de laboratorio normada para el primer trimestre busca detectar los riesgos más prevalentes: anemia (Hb), isoinmunización (Grupo/Rh), diabetes gestacional (Glucosa) e infecciones urinarias asintomáticas (Examen de orina)."
+    },
+    {
+      "number": 206,
+      "code": "DIRESA26 P206",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "En el C.S. Acora, se diagnostica anemia leve (Hb 10.5 g/dL ajustada a la altitud) a un niño de 14 meses. Según la NTS 134, ¿cuál es el esquema de tratamiento terapéutico indicado para este menor?",
+      "options": {
+        "A": "Hierro elemental a dosis de 3 mg/kg/día durante 6 meses continuos.",
+        "B": "Una ampolla de hierro sacarato intramuscular mensual por 3 meses.",
+        "C": "Hierro elemental a dosis de 6 mg/kg/día durante 1 mes.",
+        "D": "Suplementación con un sobre de micronutrientes (chispitas) interdiario por 6 meses.",
+        "E": "Derivar obligatoriamente a pediatría en hospital de nivel III para transfusión."
+      },
+      "correct": "A",
+      "comment": "El tratamiento de la anemia leve/moderada en niños de 6 a 35 meses se realiza con hierro en gotas o jarabe (polimaltosado o sulfato) a dosis terapéutica de 3 mg/kg/día por un periodo sostenido de 6 meses para reponer las reservas de ferritina."
+    },
+    {
+      "number": 207,
+      "code": "DIRESA26 P207",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "Una gestante de 37 semanas con Preeclampsia Severa ingresa a un establecimiento nivel I-4 activando la 'Clave Azul'. Según los lineamientos nacionales, la prevención de las convulsiones eclampsia requiere impregnación con Sulfato de Magnesio al 20%. ¿Cuál es la dosis de ataque normada?",
+      "options": {
+        "A": "1 gramo EV en 60 minutos.",
+        "B": "4 gramos EV (20 cc) administrados lentamente en 20 minutos.",
+        "C": "10 gramos IM en glúteo profundo (5g en cada nalga).",
+        "D": "8 gramos EV en bolo directo en 1 minuto.",
+        "E": "2 gramos diluidos en 1 litro de suero fisiológico a 10 gotas por minuto."
+      },
+      "correct": "B",
+      "comment": "El esquema de Zuspan estandarizado en la Clave Azul indica una dosis de ataque de 4g de Sulfato de Magnesio (4 ampollas de 10ml al 20% son 20cc = 4g) diluidos, a pasar en 20 minutos para evitar toxicidad respiratoria o cardíaca."
+    },
+    {
+      "number": 208,
+      "code": "DIRESA26 P208",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "En el diagnóstico de Tuberculosis, la NTS 104 prioriza el uso de la Prueba Molecular Rápida (Xpert MTB/RIF) como prueba inicial en poblaciones de alto riesgo (como pacientes con VIH, contactos de TBC resistente o personas privadas de libertad). Esta prueba permite detectar simultáneamente a la bacteria y la resistencia genética a:",
+      "options": {
+        "A": "Isoniazida exclusivamente.",
+        "B": "Pirazinamida y Etambutol.",
+        "C": "Rifampicina.",
+        "D": "Estreptomicina y Kanamicina.",
+        "E": "Fluoroquinolonas."
+      },
+      "correct": "C",
+      "comment": "La tecnología Xpert MTB/RIF detecta en menos de dos horas el ADN del complejo Mycobacterium tuberculosis y simultáneamente las mutaciones genéticas que confieren resistencia a la Rifampicina (el fármaco núcleo del esquema sensible)."
+    },
+    {
+      "number": 209,
+      "code": "DIRESA26 P209",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "Durante el seguimiento de control de vacunas, una madre acude tarde con su bebé a la aplicación de la vacuna contra el Rotavirus (que previene diarreas graves). Según la NTS de Inmunizaciones, ¿cuál es la edad máxima permitida para aplicar la PRIMERA dosis de rotavirus?",
+      "options": {
+        "A": "11 meses y 29 días.",
+        "B": "1 año de edad.",
+        "C": "8 meses exactos.",
+        "D": "5 meses y 29 días.",
+        "E": "2 meses de edad sin excepciones."
+      },
+      "correct": "D",
+      "comment": "Por el riesgo de invaginación intestinal, la vacuna oral de rotavirus tiene límites estrictos: la primera dosis debe administrarse como máximo hasta los 5 meses y 29 días; la segunda dosis como máximo hasta los 7 meses y 29 días."
+    },
+    {
+      "number": 210,
+      "code": "DIRESA26 P210",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "Al realizar el tamizaje de hemoglobina con hemoglobinómetro a una gestante en la provincia de San Antonio de Putina (altitud 3,800 m.s.n.m.), el equipo marca 14.0 g/dL. Según la NTS, ¿qué se debe hacer operativamente con este valor debido a la altitud?",
+      "options": {
+        "A": "Multiplicarlo por 2 para compensar la hipoxia.",
+        "B": "Sumarle 3.0 g/dL debido a la mayor oxigenación del aire.",
+        "C": "Dividirlo entre el factor barométrico local.",
+        "D": "Registrarlo exactamente como aparece, la altitud no afecta la hemoglobina.",
+        "E": "Restarle el factor de ajuste por altitud (ej. -3.2 g/dL) a la cifra observada, para obtener la hemoglobina real ajustada y definir si hay anemia."
+      },
+      "correct": "E",
+      "comment": "A grandes altitudes, la hipoxia crónica estimula la eritropoyesis (aumento compensatorio de glóbulos rojos). Por ello, el valor leído en el equipo está 'falsamente elevado'. Se debe restar un factor de ajuste según la altitud para diagnosticar anemia correctamente."
+    },
+    {
+      "number": 211,
+      "code": "DIRESA26 P211",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "La Norma Técnica para la Atención del Parto Vertical con Adecuación Intercultural (NTS 160) fundamenta el uso de la posición vertical o cuclillas. Clínicamente, ¿cuál es la ventaja fisiológica de esta posición frente a la posición horizontal tradicional?",
+      "options": {
+        "A": "Disminuye la compresión aortocava mejorando la oxigenación fetal, incrementa los diámetros pélvicos y optimiza la fuerza de gravedad y la prensa abdominal.",
+        "B": "Permite al obstetra realizar la maniobra de Kristeller con mayor facilidad.",
+        "C": "Previene obligatoriamente el desgarro perineal de tercer grado.",
+        "D": "Facilita la administración de anestesia peridural continua.",
+        "E": "Evita el contacto de la madre con bacterias del suelo pélvico."
+      },
+      "correct": "A",
+      "comment": "El parto vertical tiene evidencia científica a su favor: la gravedad ayuda al descenso fetal, se amplían los diámetros de la pelvis ósea (hasta 2 cm más), y al evitar la posición supina se elimina el síndrome de compresión de la vena cava, asegurando buena perfusión al feto."
+    },
+    {
+      "number": 212,
+      "code": "DIRESA26 P212",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "En el Escenario 1 de prevención de transmisión vertical del VIH (Madre con diagnóstico previo y que recibe TARV con carga viral indetectable), ¿cuál es la profilaxis antirretroviral (ARV) indicada para el recién nacido expuesto?",
+      "options": {
+        "A": "Tres antirretrovirales: Zidovudina, Lamivudina y Lopinavir por 6 meses.",
+        "B": "Un solo antirretroviral: Zidovudina (AZT) en jarabe durante 4 semanas.",
+        "C": "No requiere profilaxis al tener la madre carga viral indetectable.",
+        "D": "Nevirapina sola por 1 año.",
+        "E": "Zidovudina endovenosa aplicada únicamente en la primera hora de vida."
+      },
+      "correct": "B",
+      "comment": "Al estar la madre controlada (Escenario 1, bajo riesgo), el recién nacido solo requiere monoterapia profiláctica preventiva con Zidovudina (AZT) vía oral durante 4 semanas, iniciada dentro de las primeras horas de vida."
+    },
+    {
+      "number": 213,
+      "code": "DIRESA26 P213",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "Un niño de 3 años, asintomático, es contacto intradomiciliario de su padre, quien ha sido diagnosticado con TBC Pulmonar Sensible (frotis positivo). Según la NTS 104 de TBC, ¿cuál es la indicación preventiva obligatoria para este niño, previa descarte de enfermedad activa?",
+      "options": {
+        "A": "Vacunarlo inmediatamente con una segunda dosis de BCG.",
+        "B": "Administrarle el esquema TBC sensible completo por prevención.",
+        "C": "Iniciar Terapia Preventiva con Isoniazida (TPI) a dosis de 10 mg/kg/día durante 6 meses.",
+        "D": "Aislarlo preventivamente en un hospital pediátrico por 30 días.",
+        "E": "Ninguna, solo se observa clínicamente cada mes."
+      },
+      "correct": "C",
+      "comment": "En menores de 5 años que son contactos de un caso índice de TBC pulmonar sensible (y en quienes se ha descartado la enfermedad), es mandatorio indicar la Terapia Preventiva (Quimioprofilaxis) con Isoniazida por 6 meses para prevenir la infección primaria o su progresión."
+    },
+    {
+      "number": 214,
+      "code": "DIRESA26 P214",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "En el Esquema Nacional de Vacunación, la vacuna Antiamarílica (que previene la Fiebre Amarilla, vital en la ceja de selva de Puno) se administra rutinariamente a los niños a qué edad, y cuántas dosis requiere de por vida?",
+      "options": {
+        "A": "A los 2 meses de edad, requiere refuerzos cada 5 años.",
+        "B": "A los 6 meses de edad, 3 dosis intramusculares.",
+        "C": "A los 5 años cumplidos al ingresar al colegio.",
+        "D": "A los 15 meses de edad, siendo una dosis única válida de por vida.",
+        "E": "Solo a las gestantes en el tercer trimestre de embarazo."
+      },
+      "correct": "D",
+      "comment": "El esquema regular del MINSA indica la aplicación de la vacuna antiamarílica a los 15 meses de edad. Es una vacuna de virus vivos atenuados y su dosis única confiere inmunidad de por vida."
+    },
+    {
+      "number": 215,
+      "code": "DIRESA26 P215",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "Una gestante de 16 semanas acude a su control prenatal. Su hemoglobina ajustada es de 12.0 g/dL (No tiene anemia). Según la NTS 134, ¿cómo debe ser su suplementación profiláctica obligatoria a partir de la semana 14?",
+      "options": {
+        "A": "No requiere ningún suplemento si no tiene anemia.",
+        "B": "Hierro polimaltosado 120 mg/día hasta el parto.",
+        "C": "Solo tabletas de Calcio 2g diarios.",
+        "D": "Tres sobrecitos de micronutrientes diarios en las comidas principales.",
+        "E": "Tabletas que aporten 60 mg de hierro elemental y 400 ug de Ácido Fólico, diariamente hasta el parto y durante 30 días en el puerperio."
+      },
+      "correct": "E",
+      "comment": "La suplementación profiláctica universal (sin anemia) en gestantes arranca a la semana 14. La dosis normada es 1 tableta diaria que contenga 60 mg de hierro elemental más 400 microgramos de ácido fólico, hasta los primeros 30 días posparto."
+    },
+    {
+      "number": 216,
+      "code": "DIRESA26 P216",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "Frente a un cuadro de Hemorragia Posparto (HPP) por atonía uterina en un Centro de Salud (activación de Clave Roja), el manejo farmacológico uterotónico de primera línea normado por el MINSA incluye la compresión bimanual y:",
+      "options": {
+        "A": "La administración de Oxitocina en infusión continua endovenosa (20 a 40 UI en 1 litro de suero).",
+        "B": "La aplicación de Adrenalina intracardíaca.",
+        "C": "La inyección de Ácido Tranexámico exclusivamente, sin uterotónicos.",
+        "D": "El uso de Gluconato de Calcio en bolo rápido.",
+        "E": "La administración de Sulfato de Magnesio al 20%."
+      },
+      "correct": "A",
+      "comment": "El tratamiento medicamentoso principal de la atonía uterina es el uso agresivo de uterotónicos. La Oxitocina es el fármaco de elección, iniciándose en infusión endovenosa rápida para lograr la retracción del músculo uterino y cohibir el sangrado."
+    },
+    {
+      "number": 217,
+      "code": "DIRESA26 P217",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "Según la NTS para la prevención de la anemia en el niño, a un lactante nacido a término y con adecuado peso al nacer, que viene recibiendo lactancia materna exclusiva, ¿a qué edad exacta se le debe realizar su PRIMER tamizaje de hemoglobina por protocolo?",
+      "options": {
+        "A": "A los 2 meses de vida junto con su primera pentavalente.",
+        "B": "A los 6 meses de edad (previo al inicio de la suplementación terapéutica o profiláctica continuada).",
+        "C": "A los 12 meses de edad, al cumplir el año.",
+        "D": "Inmediatamente al nacer con sangre del talón.",
+        "E": "A los 30 días de vida."
+      },
+      "correct": "B",
+      "comment": "Los niños a término (sin bajo peso) tienen reservas de hierro que duran unos meses. La norma indica que el primer dosaje de hemoglobina obligatorio para despistaje de anemia se realiza a los 6 meses de edad."
+    },
+    {
+      "number": 218,
+      "code": "DIRESA26 P218",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "Según la NTS 169 de Prevención de Transmisión Materno Infantil del VIH, si una gestante en trabajo de parto en un nivel I-3 presenta una primera prueba rápida para VIH con resultado Reactivo, la conducta inmediata para confirmar e iniciar medidas es:",
+      "options": {
+        "A": "Enviar la muestra al Instituto Nacional de Salud (INS) para prueba de Inmunofluorescencia y esperar 7 días.",
+        "B": "Exigir que el esposo se realice la prueba; si es negativo, se descarta el caso.",
+        "C": "Realizar inmediatamente una SEGUNDA prueba rápida de diferente fabricante o principio; si esta también es Reactiva, se considera diagnóstico confirmado para el parto y se inicia protocolo (cesárea/TARV).",
+        "D": "Aplicar una dosis de penicilina benzatínica como profilaxis cruzada.",
+        "E": "Tomar muestra para carga viral y no hacer nada hasta tener el resultado."
+      },
+      "correct": "C",
+      "comment": "En el contexto de una gestante (especialmente en labor), no se puede esperar pruebas de laboratorio lentas. El algoritmo diagnóstico aprueba el uso de dos pruebas rápidas consecutivas (de distinto fabricante); si ambas son reactivas, se confirma el VIH e inician medidas de inmediato."
+    },
+    {
+      "number": 219,
+      "code": "DIRESA26 P219",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "El esquema de tratamiento de primera línea para Tuberculosis Sensible en adultos consta de dos fases. Según la NTS 104 del MINSA, ¿cómo se compone la estructura farmacológica y de dosificación de este esquema?",
+      "options": {
+        "A": "6 meses solo con Isoniazida y Rifampicina en dosis diarias.",
+        "B": "Fase intensiva mensual (diaria) y fase de continuación semanal (1 vez por semana).",
+        "C": "Tratamiento inyectable exclusivo con Estreptomicina por 2 meses.",
+        "D": "Fase intensiva: 2 meses con Isoniazida, Rifampicina, Pirazinamida y Etambutol diario (50 dosis). Fase continuación: 4 meses con Isoniazida y Rifampicina, 3 veces por semana (54 dosis).",
+        "E": "Fase intensiva de 4 meses y fase de continuación de 8 meses con quinolonas."
+      },
+      "correct": "D",
+      "comment": "El esquema pan-sensible normado se abrevia como 2 HREZ / 4 H3R3. Son 2 meses de tratamiento diario (lunes a sábado) con 4 drogas bactericidas/bacteriostáticas, seguido de 4 meses de mantenimiento con 2 drogas administradas lunes, miércoles y viernes."
+    },
+    {
+      "number": 220,
+      "code": "DIRESA26 P220",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "En el calendario nacional de inmunizaciones, la vacuna Pentavalente se aplica en tres dosis a menores de 1 año (a los 2, 4 y 6 meses). ¿Qué enfermedades previene simultáneamente esta vacuna?",
+      "options": {
+        "A": "Sarampión, Rubéola, Parotiditis, Polio y Rotavirus.",
+        "B": "Varicela, Neumococo, Fiebre Amarilla, Hepatitis A y B.",
+        "C": "Dengue, Malaria, Tifoidea, Cólera y Rabia.",
+        "D": "COVID-19, Influenza, Sincitial Respiratorio, Adenovirus y Rinovirus.",
+        "E": "Difteria, Tétanos, Tos Ferina (Pertussis), Hepatitis B y enfermedad por Haemophilus influenzae tipo b."
+      },
+      "correct": "E",
+      "comment": "La vacuna Pentavalente líquida infantil es una combinación que inmuniza contra cinco patógenos: Corynebacterium diphtheriae, Clostridium tetani, Bordetella pertussis, el Virus de la Hepatitis B y la bacteria Haemophilus influenzae tipo b (causante de meningitis y neumonías graves)."
+    },
+    {
+      "number": 221,
+      "code": "DIRESA26 P221",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "Un niño de 18 meses acude a su control CPN en Puno. Según el calendario vigente de la Norma Técnica de Inmunizaciones, ¿qué vacuna le corresponde recibir a esta edad como primer refuerzo?",
+      "options": {
+        "A": "Primer refuerzo de Pentavalente.",
+        "B": "Primer refuerzo de vacuna oral contra la Polio (APO) y primer refuerzo de la vacuna DPT (Difteria, Pertussis, Tétanos).",
+        "C": "Primera dosis de vacuna contra SPR (Sarampión, Papera, Rubéola).",
+        "D": "Primer refuerzo de vacuna contra la Hepatitis B.",
+        "E": "Primera dosis de vacuna contra la Fiebre Amarilla."
+      },
+      "correct": "B",
+      "comment": "A los 18 meses (1 año y 6 meses), el esquema nacional estipula la aplicación de dos vacunas de refuerzo fundamentales: el primer refuerzo de APO (Antipolio Oral) y el primer refuerzo de DPT."
+    },
+    {
+      "number": 222,
+      "code": "DIRESA26 P222",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "Según la NTS 134 de Manejo de la Anemia, el Sulfato Ferroso en gotas es el medicamento de elección en el primer nivel. Sin embargo, en niños que presentan intolerancia gastrointestinal severa demostrada (vómitos constantes, diarrea) al sulfato ferroso, la norma indica cambiar el tratamiento a:",
+      "options": {
+        "A": "Transfusión de paquete globular.",
+        "B": "Ácido fólico en jarabe exclusivamente.",
+        "C": "Complejo B intramuscular diluido.",
+        "D": "Hierro Polimaltosado en gotas o jarabe.",
+        "E": "Suspensión total del hierro hasta que el niño cumpla 3 años."
+      },
+      "correct": "D",
+      "comment": "El hierro polimaltosado tiene la misma eficacia que el sulfato ferroso, pero presenta una tolerancia gastrointestinal significativamente mejor (menos irritación gástrica, no mancha los dientes), siendo la alternativa oficial ante intolerancia."
+    },
+    {
+      "number": 223,
+      "code": "DIRESA26 P223",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "Durante un control prenatal en una gestante de 28 semanas, la obstetra identifica signos de Preeclampsia Severa. Decide activar la 'Clave Azul' y referir a la paciente. ¿Qué medicamento antihipertensivo de primera línea, vía oral, debe administrar (si el paciente está consciente) para controlar la crisis hipertensiva antes de la referencia?",
+      "options": {
+        "A": "Losartán 50 mg vía oral.",
+        "B": "Enalapril 20 mg sublingual.",
+        "C": "Nifedipino de acción rápida (10 mg) vía oral.",
+        "D": "Furosemida 40 mg endovenosa.",
+        "E": "Nitroprusiato de sodio en infusión."
+      },
+      "correct": "C",
+      "comment": "En la Clave Azul, para el manejo agudo de la crisis hipertensiva (PA ≥ 160/110 mmHg), el hipotensor de primera línea normado (por su disponibilidad y rapidez) es el Nifedipino de 10 mg vía oral, repitiendo según presión, evitando la vía sublingual."
+    },
+    {
+      "number": 224,
+      "code": "DIRESA26 P224",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "En la NTS 104 para Tuberculosis, ¿cómo se define el 'Fracaso Terapéutico' en un paciente que está recibiendo el esquema sensible (primera línea)?",
+      "options": {
+        "A": "Paciente que abandona el tratamiento por más de 30 días consecutivos.",
+        "B": "Paciente que presenta baciloscopia (frotis) o cultivo positivo a partir del cuarto (4to) mes de tratamiento.",
+        "C": "Paciente que fallece durante el primer mes de tratamiento.",
+        "D": "Paciente que desarrolla reacciones adversas graves (RAFA) a la isoniazida.",
+        "E": "Paciente cuya baciloscopia es negativa al terminar los 6 meses."
+      },
+      "correct": "B",
+      "comment": "El fracaso al esquema con medicamentos de primera línea se declara cuando el paciente, habiendo tenido buena adherencia, mantiene (o vuelve a presentar) baciloscopias o cultivos positivos a partir del cuarto mes de iniciado el tratamiento, sugiriendo resistencia."
+    },
+    {
+      "number": 225,
+      "code": "DIRESA26 P225",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "Una gestante que vive a 4,000 m.s.n.m. en Macusani acude a su control. La NTS 160 (Atención del Parto con Adecuación Intercultural) promueve el respeto de las costumbres andinas. Durante la fase de dilatación, si la gestante lo solicita y no hay contraindicación médica, ¿qué práctica tradicional está permitida y recomendada por la norma?",
+      "options": {
+        "A": "La administración de infusiones de hierbas uterotónicas (ej. ruda o matico) para acelerar el parto.",
+        "B": "La realización de masajes abdominales enérgicos (manteo) para acomodar al feto.",
+        "C": "Permitir la ingesta de líquidos azucarados (mates tibios), la deambulación libre y la compañía de un familiar o partera tradicional.",
+        "D": "Realizar el parto obligatoriamente en el domicilio sin presencia de personal de salud.",
+        "E": "Realizar la maniobra de Kristeller ayudada por la partera comunitaria."
+      },
+      "correct": "C",
+      "comment": "La adecuación intercultural respeta el pudor (ambiente cálido), permite la ingesta de líquidos (mates), la deambulación (que ayuda al descenso), y el acompañamiento afectivo. Las maniobras externas (manteo) o hierbas uterotónicas están proscritas por riesgo de ruptura uterina."
+    },
+    {
+      "number": 226,
+      "code": "DIRESA26 P226",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "Respecto al tamizaje de Sífilis en la gestante, la NTS N° 105 y NTS N° 114 establecen que a toda embarazada se le debe realizar una Prueba Rápida Treponémica en la primera consulta. Si el resultado es REACTIVO (positivo), ¿cuál es la conducta inmediata que debe tomar el obstetra en ese mismo momento?",
+      "options": {
+        "A": "Esperar el resultado de la prueba RPR o VDRL (no treponémica) para iniciar cualquier tratamiento.",
+        "B": "Derivar a la paciente a un hospital de tercer nivel y suspender sus controles.",
+        "C": "Solicitar prueba de campo oscuro y citar en 15 días.",
+        "D": "Administrar la primera dosis de Penicilina G Benzatínica 2.4 millones UI intramuscular e iniciar la búsqueda y tratamiento del contacto sexual.",
+        "E": "Iniciar tratamiento con Azitromicina oral por ser menos dolorosa."
+      },
+      "correct": "D",
+      "comment": "Para prevenir la sífilis congénita, la norma indica que ante una primera prueba rápida treponémica reactiva en la gestante, NO se debe esperar confirmación para iniciar el tratamiento. Se aplica inmediatamente la Penicilina Benzatínica."
+    },
+    {
+      "number": 227,
+      "code": "DIRESA26 P227",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "En la campaña nacional de vacunación, se indica la aplicación de la vacuna contra el Neumococo. Según el esquema de inmunizaciones para adultos mayores (de 60 años a más), ¿cuántas dosis y con qué frecuencia se debe administrar esta vacuna?",
+      "options": {
+        "A": "Una dosis anual cada invierno.",
+        "B": "Tres dosis separadas por un mes cada una.",
+        "C": "Una sola dosis única en la vida.",
+        "D": "Una dosis cada 5 años.",
+        "E": "Solo se administra si el adulto mayor es diabético."
+      },
+      "correct": "C",
+      "comment": "En el esquema peruano, la vacuna antineumocócica para los adultos mayores de 60 años se administra en una sola dosis única. Solo las vacunas de influenza requieren aplicación anual."
+    },
+    {
+      "number": 228,
+      "code": "DIRESA26 P228",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "Ante un diagnóstico de Anemia Moderada (Hb 8.5 g/dL ajustada) en una gestante de 20 semanas, la NTS 134 modifica el esquema de suplementación profiláctica hacia un esquema terapéutico. ¿Cuál es la dosis de tratamiento indicada?",
+      "options": {
+        "A": "Hierro elemental 120 mg + 800 ug de Ácido fólico diario (equivalente a 2 tabletas) por 6 meses.",
+        "B": "Transfusión sanguínea obligatoria de 2 paquetes globulares.",
+        "C": "Hierro endovenoso 1000 mg en dosis única.",
+        "D": "Reducir la dosis a 30 mg de hierro para evitar estreñimiento.",
+        "E": "1 tableta interdiaria de 60 mg de hierro."
+      },
+      "correct": "A",
+      "comment": "Cuando la gestante tiene anemia confirmada (leve o moderada), la dosis de hierro debe duplicarse respecto a la profilaxis. El tratamiento normado es 120 mg de hierro elemental diarios (generalmente repartidos en 2 tomas) junto con ácido fólico."
+    },
+    {
+      "number": 229,
+      "code": "DIRESA26 P229",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "Una gestante acude al centro de salud Puno con rotura prematura de membranas y fiebre, diagnosticándose Sepsis Obstétrica (Corioamnionitis). Se activa la 'Clave Amarilla'. La norma estipula iniciar antibioticoterapia empírica de amplio espectro dentro de la primera hora. El esquema clásico de primera línea normado es:",
+      "options": {
+        "A": "Ciprofloxacino oral.",
+        "B": "Amoxicilina sola endovenosa.",
+        "C": "Ceftriaxona + Doxiciclina oral.",
+        "D": "Ampicilina + Gentamicina + Clindamicina (o Metronidazol) vía endovenosa.",
+        "E": "Penicilina G Sódica en bolo único."
+      },
+      "correct": "D",
+      "comment": "La Clave Amarilla exige cobertura antibiótica contra cocos grampositivos, gramnegativos y anaerobios del tracto genital. El esquema de triple terapia (Ampicilina/Penicilina + Aminoglucósido + Clindamicina/Metronidazol) es el estándar inicial antes de referir."
+    },
+    {
+      "number": 230,
+      "code": "DIRESA26 P230",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "Un trabajador del Puesto de Salud sufre un accidente punzocortante con una aguja utilizada en un paciente con VIH (Escenario de Exposición Ocupacional). Según la NTS N° 169 (VIH), la Profilaxis Post Exposición (PPE) debe iniciarse idealmente dentro de las primeras horas. ¿Cuál es el tiempo máximo de eficacia para iniciar la PPE?",
+      "options": {
+        "A": "Hasta 24 horas después, pasada esta ventana no tiene efecto.",
+        "B": "Dentro de las primeras 72 horas (3 días) post exposición.",
+        "C": "Después de 7 días, cuando la carga viral sea detectable.",
+        "D": "Solo si la prueba rápida del trabajador sale positiva al mes.",
+        "E": "Hasta 30 días posteriores al accidente."
+      },
+      "correct": "B",
+      "comment": "La profilaxis post exposición (PPE) con antirretrovirales debe iniciarse lo antes posible, idealmente dentro de las primeras 2 a 6 horas. Su eficacia disminuye rápidamente y NO se recomienda su inicio después de transcurridas 72 horas del accidente."
+    },
+    {
+      "number": 231,
+      "code": "DIRESA26 P231",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "En la evaluación de un Sintomático Respiratorio en Puno, se le solicitan dos muestras de esputo para baciloscopia (frotis). ¿Cómo indica la NTS 104 que deben recolectarse y entregarse estas muestras para optimizar su rendimiento?",
+      "options": {
+        "A": "Las dos muestras deben tomarse juntas el mismo día en la mañana en la casa del paciente.",
+        "B": "La primera muestra se toma en el momento de la consulta o captación, y la segunda muestra el paciente la recolecta en ayunas al despertar al día siguiente y la lleva al centro de salud.",
+        "C": "Solo se toma una muestra si el paciente no sabe escupir.",
+        "D": "Deben tomarse mediante hisopado faríngeo profundo.",
+        "E": "Se toman con diferencia de una semana exacta entre cada muestra."
+      },
+      "correct": "B",
+      "comment": "Para asegurar calidad y no perder al paciente, la norma estandariza que la muestra 1 se toma 'en el momento' (in situ) bajo supervisión, y se le entrega un envase para que la muestra 2 la recolecte a la mañana siguiente (esputo matutino, más concentrado)."
+    },
+    {
+      "number": 232,
+      "code": "DIRESA26 P232",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "El control de crecimiento y desarrollo (CRED) es vital en la prevención de la anemia (NTS 134). En un niño menor de 1 año (lactante de 0 a 11 meses), ¿cuál es la periodicidad mínima de controles CRED requerida por norma para considerarlo 'con controles completos'?",
+      "options": {
+        "A": "2 controles al año.",
+        "B": "4 controles al año (trimestrales).",
+        "C": "6 controles al año (bimestrales).",
+        "D": "11 controles al año (uno mensual).",
+        "E": "15 controles al año."
+      },
+      "correct": "D",
+      "comment": "El esquema CRED para el menor de 1 año (que es la etapa de mayor velocidad de crecimiento y riesgo) exige controles rigurosos. La norma técnica estipula 11 controles en total durante el primer año (uno cada mes a partir del primer mes de vida)."
+    },
+    {
+      "number": 233,
+      "code": "DIRESA26 P233",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "La vacuna contra la Influenza estacional se aplica anualmente debido a las mutaciones del virus (deriva antigénica). Según la NTS de Inmunizaciones, en la población infantil pediátrica, ¿a partir de qué edad cronológica está normada la aplicación de la primera dosis de vacuna contra la Influenza pediátrica?",
+      "options": {
+        "A": "A los 2 meses de edad.",
+        "B": "A los 6 meses de edad (con una segunda dosis al mes siguiente).",
+        "C": "Al año de edad, junto con la SPR.",
+        "D": "A los 2 años cumplidos.",
+        "E": "Solo a partir de los 5 años en edad escolar."
+      },
+      "correct": "B",
+      "comment": "El esquema de inmunización nacional inicia la vacunación contra la influenza estacional a los 6 meses de edad (primera dosis de 0.25 ml), requiriendo una segunda dosis al mes (a los 7 meses) para completar la inmunidad en el primer año."
+    },
+    {
+      "number": 234,
+      "code": "DIRESA26 P234",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "Una gestante de 12 semanas con VIH recibe TARV y presenta una carga viral de 50 copias/ml (indetectable). De acuerdo con la NTS 169, respecto a la vía de culminación del parto para prevenir la transmisión vertical, la indicación médica correcta es:",
+      "options": {
+        "A": "Realizar cesárea electiva obligatoria a las 38 semanas, independientemente de la carga viral.",
+        "B": "Inducir el parto vaginal con oxitocina a las 36 semanas.",
+        "C": "Permitir el parto vaginal, si no existen contraindicaciones obstétricas, siempre que la gestante tenga carga viral indetectable (<1000 copias/ml) documentada cerca del parto.",
+        "D": "Realizar cesárea de emergencia solo si rompe membranas.",
+        "E": "Realizar el parto en el domicilio para evitar el estigma."
+      },
+      "correct": "C",
+      "comment": "Las últimas actualizaciones de la NTS de VIH establecen que, si la gestante es adherente al TARV y mantiene carga viral indetectable (Escenario 1), el riesgo de transmisión es mínimo, permitiéndose el parto por vía vaginal si la evaluación obstétrica lo avala."
+    },
+    {
+      "number": 235,
+      "code": "DIRESA26 P235",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "La Norma Técnica de Atención Materna (NTS 105) señala el uso del Partograma de la OMS para vigilar el trabajo de parto. ¿En qué momento clínico exacto el profesional debe iniciar el registro gráfico de la dilatación cervical en la línea de alerta del partograma?",
+      "options": {
+        "A": "Cuando la paciente ingresa a emergencia quejándose de dolor.",
+        "B": "Desde el inicio de la fase latente (0 a 3 cm de dilatación).",
+        "C": "Al iniciar la fase activa del trabajo de parto (a partir de los 4 cm de dilatación cervical).",
+        "D": "Solo cuando la dilatación supera los 8 cm (fase de transición).",
+        "E": "Una vez que ocurre la rotura artificial de membranas."
+      },
+      "correct": "C",
+      "comment": "El partograma modificado de la OMS se inicia (punto cero en la línea de alerta) estrictamente cuando la gestante entra en la Fase Activa del trabajo de parto, lo cual se define clínicamente al alcanzar los 4 cm de dilatación cervical."
+    },
+    {
+      "number": 236,
+      "code": "DIRESA26 P236",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "En la evaluación de un recién nacido en Puno, se busca prevenir la Enfermedad Hemorrágica del Recién Nacido. Según la NTS de Atención Integral Neonatal, ¿qué profilaxis se debe aplicar universalmente dentro de las primeras dos horas de nacido?",
+      "options": {
+        "A": "Inyección intramuscular de Vitamina K (Fitomenadiona) 1 mg en el muslo.",
+        "B": "Aplicación de gotas oftálmicas de Cloranfenicol.",
+        "C": "Suplementación oral con Vitamina A.",
+        "D": "Administración de factor VIII de coagulación.",
+        "E": "Inyección de 10 mg de hierro dextrán."
+      },
+      "correct": "A",
+      "comment": "Todo recién nacido tiene deficiencia fisiológica de factores de coagulación dependientes de vitamina K. La norma exige aplicar 1 mg (0.5 mg si es prematuro) de Vitamina K intramuscular (tercio medio cara anterolateral del muslo) para prevenir el sangrado."
+    },
+    {
+      "number": 237,
+      "code": "DIRESA26 P237",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "El esquema para la Tuberculosis Multidrogorresistente (MDR) es más prolongado y complejo que el esquema sensible. Según la NTS 104, el diseño del esquema empírico o estandarizado para MDR se construye basándose en un principio farmacológico de:",
+      "options": {
+        "A": "Usar una sola droga potente (monoterapia) a dosis muy altas.",
+        "B": "Usar al menos cuatro (4) drogas antituberculosas de segunda línea a las cuales el bacilo sea probable o demostradamente sensible, incluyendo una fluoroquinolona y un inyectable.",
+        "C": "Duplicar la dosis de isoniazida y rifampicina por 12 meses.",
+        "D": "Emplear exclusivamente antibióticos macrólidos como la azitromicina.",
+        "E": "Iniciar cirugía torácica en el primer mes."
+      },
+      "correct": "B",
+      "comment": "Para tratar la TBC MDR (resistente a Isoniazida y Rifampicina), la norma estipula estructurar regímenes que contengan al menos 4 medicamentos eficaces de segunda línea, siendo pilares fundamentales el uso de fluoroquinolonas (Levofloxacino) y, según el caso, agentes inyectables o nuevos fármacos orales."
+    },
+    {
+      "number": 238,
+      "code": "DIRESA26 P238",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "Una gestante acude al Puesto de Salud de Coata (nivel I-1). La NTS 105 de Atención Materna indica que toda gestante debe recibir profilaxis o tratamiento antitetánico. ¿Cuántas dosis de vacuna antitetánica (dT adulto) se requieren en el embarazo si la paciente no tiene vacunas previas demostrables?",
+      "options": {
+        "A": "Una sola dosis al momento del parto.",
+        "B": "Dos dosis, con un intervalo mínimo de 4 semanas (1 mes) entre la primera y la segunda dosis, asegurando que la última sea antes del parto.",
+        "C": "Tres dosis mensuales en el último trimestre.",
+        "D": "No se aplica vacuna antitetánica, solo suero hiperinmune.",
+        "E": "Cinco dosis aplicadas cada semana."
+      },
+      "correct": "B",
+      "comment": "Para conferir protección contra el tétanos materno y neonatal a una gestante no vacunada previamente, la norma exige aplicar dos dosis de la vacuna dT (Difteria-Tétanos) separadas por un intervalo mínimo de 4 semanas, de preferencia en el segundo/tercer trimestre."
+    },
+    {
+      "number": 239,
+      "code": "DIRESA26 P239",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "El control post-tratamiento de la anemia en un niño de 18 meses (NTS 134) es crucial. Una vez que el niño ha completado los 6 meses de tratamiento terapéutico con hierro y su hemoglobina ha superado los 11.0 g/dL, ¿qué indica la norma técnica?",
+      "options": {
+        "A": "Se le da de alta definitiva y no vuelve al centro de salud.",
+        "B": "Pasa a recibir tratamiento con transfusiones mensuales.",
+        "C": "El niño debe continuar con una suplementación preventiva o profiláctica con hierro (chispitas o gotas) hasta que cumpla los 36 meses de edad.",
+        "D": "Se le prohíbe comer alimentos ricos en hierro para no causar hemocromatosis.",
+        "E": "Se repite el tratamiento terapéutico de 6 meses por si acaso."
+      },
+      "correct": "C",
+      "comment": "Al curarse la anemia (fin del tratamiento), el niño no es dado de alta nutricional. Para evitar recaídas (altamente frecuentes), la norma establece que debe engancharse en el esquema de suplementación profiláctica hasta que cumpla los 3 años."
+    },
+    {
+      "number": 240,
+      "code": "DIRESA26 P240",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "Frente a un choque hemorrágico por Retención Placentaria (Clave Roja) en un Puesto I-2 en Puno, antes de la derivación al hospital, la estabilización hemodinámica inicial (reposición de volumen) se debe realizar normativamente con:",
+      "options": {
+        "A": "Exclusivamente sangre total donada por los familiares en el puesto.",
+        "B": "Dextrosa al 5% a chorro.",
+        "C": "Infusión de dos vías periféricas de grueso calibre con Cristaloides (Cloruro de Sodio 0.9% o Lactato de Ringer) pasando retos de fluidos a chorro.",
+        "D": "Suero glucosado hipertónico al 33%.",
+        "E": "Agua destilada con cloruro de potasio."
+      },
+      "correct": "C",
+      "comment": "La reanimación inicial y prioritaria en la Clave Roja (shock hipovolémico) es la restitución del volumen intravascular. Esto se logra canalizando 2 vías endovenosas gruesas (N° 18 o 16) e infundiendo cristaloides isotónicos (NaCl 0.9% o Lactato de Ringer) a chorro."
+    },
+    {
+      "number": 241,
+      "code": "DIRESA26 P241",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "De acuerdo con el esquema de vacunación del MINSA (NTS de Inmunizaciones), ¿a qué edad exacta se administra la vacuna contra la Varicela en los niños menores de 5 años?",
+      "options": {
+        "A": "A los 2 meses de vida junto con la pentavalente.",
+        "B": "A los 12 meses (1 año) cumplidos.",
+        "C": "A los 2 años de edad.",
+        "D": "Únicamente en la etapa escolar a los 7 años.",
+        "E": "A los 6 meses de edad en temporada de invierno."
+      },
+      "correct": "B",
+      "comment": "La vacuna contra la varicela forma parte del esquema regular y está normada para ser aplicada en una dosis única a los 12 meses (1 año) de edad del infante."
+    },
+    {
+      "number": 242,
+      "code": "DIRESA26 P242",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "Según la NTS 134 para la prevención y control de la anemia, ¿cuál es la periodicidad con la que se debe realizar el control y tamizaje de hemoglobina en un niño que ya superó la anemia y se encuentra en la etapa de suplementación preventiva (de 12 a 35 meses)?",
+      "options": {
+        "A": "Cada 6 meses.",
+        "B": "Cada mes obligatoriamente.",
+        "C": "Una vez al año.",
+        "D": "Cada 3 meses.",
+        "E": "Solo cuando presente síntomas de palidez."
+      },
+      "correct": "A",
+      "comment": "La norma técnica estipula que a los niños de 12 a 35 meses que reciben suplementación preventiva se les debe realizar el control y tamizaje de hemoglobina cada seis (6) meses para verificar que no hayan recaído en anemia."
+    },
+    {
+      "number": 243,
+      "code": "DIRESA26 P243",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "En la atención de una emergencia obstétrica por Trastornos Hipertensivos del Gestación (Clave Azul), si la paciente presenta eclampsia (convulsiones) o intoxicación por sobredosis de Sulfato de Magnesio (depresión respiratoria, ausencia de reflejos rotulianos), ¿cuál es el antídoto específico normado que debe administrarse de inmediato por vía endovenosa lenta?",
+      "options": {
+        "A": "Naloxona hidrocloruro.",
+        "B": "Gluconato de Calcio al 10% (1 ampolla de 10 ml en 3 minutos).",
+        "C": "Atropina sulfato.",
+        "D": "Flumazenil.",
+        "E": "Adrenalina acuosa."
+      },
+      "correct": "B",
+      "comment": "El antídoto específico y de uso obligatorio ante la intoxicación por Sulfato de Magnesio (evidenciada por pérdida de reflejos patelares y depresión respiratoria < 12 respiraciones por minuto) es el Gluconato de Calcio al 10% (10 ml EV lento)."
+    },
+    {
+      "number": 244,
+      "code": "DIRESA26 P244",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "En el manejo de la Tuberculosis Pulmonar con resistencia a Isoniazida pero sensible a Rifampicina (monorresistencia a H), la NTS 104 establece un esquema normado modificado. ¿Cuál es la duración total estándar de este esquema de tratamiento?",
+      "options": {
+        "A": "3 meses.",
+        "B": "6 meses con Rifampicina, Etambutol, Pirazinamida y Fluoroquinolona (ej. Levofloxacino).",
+        "C": "18 meses continuos.",
+        "D": "9 meses con adición de estreptomicina diaria.",
+        "E": "24 meses supervisados."
+      },
+      "correct": "B",
+      "comment": "Ante la resistencia comprobada a la Isoniazida, el esquema normado reemplaza este fármaco y extiende o adecúa el tratamiento con drogas de primera línea asociadas a una fluoroquinolona (como Levofloxacino) por un periodo estándar de 6 meses."
+    },
+    {
+      "number": 245,
+      "code": "DIRESA26 P245",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "Una madre gestante acude al Puesto de Salud para su inmunización contra la Difteria y el Tétanos (dT adulto). Si la paciente refiere haber recibido sus tres dosis completas de vacuna antitetánica hace 3 años en su anterior embarazo, ¿cuál es la conducta normada según el esquema de vacunación en gestantes?",
+      "options": {
+        "A": "Reiniciar todo el esquema de 3 dosis desde cero.",
+        "B": "Administrar una sola dosis de refuerzo de dT en el presente embarazo.",
+        "C": "Aplicar 5 dosis consecutivas mensuales.",
+        "D": "No vacunar por estar protegida de por vida.",
+        "E": "Administrar inmunoglobulina humana antitetánica."
+      },
+      "correct": "B",
+      "comment": "Si la gestante cuenta con antecedentes de vacunación previa completa y documentada (esquema completo previo), solo requiere una (1) dosis de refuerzo de vacuna dT en el embarazo actual para asegurar anticuerpos protectores para el neonato."
+    },
+    {
+      "number": 246,
+      "code": "DIRESA26 P246",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "En la NTS 169 de Prevención de la Transmisión Materno Infantil del VIH, ¿cuándo está totalmente CONTRAINDICADA la lactancia materna en una madre viviendo con VIH en el Perú?",
+      "options": {
+        "A": "Nunca está contraindicada; la lactancia es obligatoria.",
+        "B": "Solo cuando el bebé presenta diarrea aguda.",
+        "C": "Siempre y en todos los casos; la lactancia materna está absoluta y permanentemente contraindicada en madres con VIH en el país, debiendo usar sucedáneos (fórmula).",
+        "D": "Únicamente durante los primeros 3 meses de vida.",
+        "E": "Solo si la madre tiene más de 35 años de edad."
+      },
+      "correct": "C",
+      "comment": "A diferencia de guías internacionales en países de bajos recursos donde se valora la lactancia con antiretrovirales, la norma técnica nacional del Perú establece que la lactancia materna por madres con VIH está contraindicada de manera absoluta y permanente, garantizando el Estado la leche maternizada (sucedáneo) gratuita."
+    },
+    {
+      "number": 247,
+      "code": "DIRESA26 P247",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "El control de crecimiento y desarrollo (CRED) evalúa el desarrollo psicomotor del niño. Según las normas técnicas del MINSA, ¿a qué edad exacta se debe aplicar obligatoriamente el Test de Evaluación del Desarrollo Psicomotor (TEDPI) o la EEDP?",
+      "options": {
+        "A": "Solo cuando el niño ingresa a la escuela primaria a los 6 años.",
+        "B": "En hitos específicos del desarrollo estipulados en la norma (ej. a los 1, 2, 3, 4, 6, 9, 12, 18, 24, 30 y 36 meses).",
+        "C": "Exclusivamente si la madre reporta que el niño no camina al año.",
+        "D": "Una vez a los 5 años de edad.",
+        "E": "Cada semana durante el primer año de vida."
+      },
+      "correct": "B",
+      "comment": "El desarrollo psicomotor se evalúa sistemáticamente en edades clave establecidas por el programa CRED (por ejemplo, a los 1, 2, 3, 4, 6, 9, 12, 18, 24, 30 y 36 meses) mediante instrumentos estandarizados como la EEDP y el TEPSI."
+    },
+    {
+      "number": 248,
+      "code": "DIRESA26 P248",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "En la atención de una emergencia obstétrica por Clave Roja (Hemorragia Posparto), si el uso de uterotónicos de primera línea y la compresión bimanual no logran detener la atonía uterina, ¿qué procedimiento médico quirúrgico temporal de urgencia está normado realizar en el establecimiento antes o durante la referencia?",
+      "options": {
+        "A": "Histerectomía radical abdominal inmediata obligatoria en el puesto de salud I- 1.",
+        "B": "Colocación de un balón de taponamiento uterino (ej. Balón de Bakri o casero con condón y sonda Foley).",
+        "C": "Legrado uterino instrumental sin anestesia.",
+        "D": "Lavado peritoneal diagnóstico con solución salina fría.",
+        "E": "Embolización de arterias uterinas por radiología intervencionista en el puesto I- 3."
+      },
+      "correct": "B",
+      "comment": "El taponamiento uterino con balón (dispositivo comercial o balón hidrostático artesanal con condón y sonda Foley) es una maniobra altamente efectiva y normada como medida temporal de salvataje para cohibir hemorragias por atonía refractaria mientras se prepara la referencia."
+    },
+    {
+      "number": 249,
+      "code": "DIRESA26 P249",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "En relación al diagnóstico de Tuberculosis Pulmonar en niños menores de 10 años, la obtención de muestras de esputo por expectoración es sumamente difícil. Según la NTS 104, ¿cuál es el procedimiento auxiliar estandarizado recomendado para obtener una muestra respiratoria adecuada en este grupo pediátrico?",
+      "options": {
+        "A": "Tomografía computarizada de alta resolución sin contraste.",
+        "B": "Aspirado gástrico matutino (en ayunas) o inducción de esputo mediante solución salina hipertónica nebulizada.",
+        "C": "Biopsia pulmonar abierta obligatoria.",
+        "D": "Prueba de tuberculina (PPD) exclusivamente.",
+        "E": "Examen de heces seriado para buscar bacilos deglutidos."
+      },
+      "correct": "B",
+      "comment": "Como los niños pequeños degluten las secreciones, el método estándar normado para obtener muestras para baciloscopia o cultivo en menores que no expectoran es el aspirado gástrico (realizado temprano en la mañana antes de que el niño ingiera alimentos) o la inducción de esputo."
+    },
+    {
+      "number": 250,
+      "code": "DIRESA26 P250",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "El esquema regular de vacunación contempla la aplicación de la vacuna contra la Fiebre Amarilla. Si por error se le administra esta vacuna (virus vivo atenuado) a una mujer que cursa las primeras semanas de gestación sin saberlo, ¿cuál es la conducta recomendada por la NTS de Inmunizaciones?",
+      "options": {
+        "A": "Inducir obligatoriamente la interrupción terapéutica del embarazo por riesgo absoluto de malformaciones.",
+        "B": "Administrar gammaglobulina hiperinmune para neutralizar el virus vacunal.",
+        "C": "Informar a la paciente con base científica sobre la evidencia actual (los estudios no muestran incremento de riesgo teratogénico comprobado), realizar seguimiento clínico estricto del embarazo y NO se recomienda aborto por esta causa.",
+        "D": "Realizar una histerectomía de emergencia.",
+        "E": "Sancionar al personal de salud y aislar a la gestante."
+      },
+      "correct": "C",
+      "comment": "Aunque las vacunas de virus vivos están contraindicadas en embarazadas por precaución teórica, la evidencia epidemiológica internacional y nacional recopilada indica que la administración accidental de fiebre amarilla en gestantes no ha demostrado teratogenicidad fetal, por lo que no está indicado el aborto."
+    },
+    {
+      "number": 251,
+      "code": "DIRESA26 P251",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "Según la NTS 134, ¿cuál es la dosis de suplementación profiláctica con hierro elemental normada para un lactante nacido a término con peso adecuado, que se inicia estrictamente a partir de los 6 meses de edad?",
+      "options": {
+        "A": "1 mg/kg/día de hierro elemental hasta cumplir los 12 meses.",
+        "B": "3 mg/kg/día durante 6 meses.",
+        "C": "10 mg diarios fijos sin importar el peso.",
+        "D": "50 mg semanales en dosis única.",
+        "E": "No requiere profilaxis si consume leche materna."
+      },
+      "correct": "A",
+      "comment": "Para los lactantes nacidos a término con peso normal, la suplementación profiláctica preventiva contra la anemia se inicia a los 6 meses de edad a una dosis de 1 mg/kg/día de hierro elemental hasta completar los 12 meses."
+    },
+    {
+      "number": 252,
+      "code": "DIRESA26 P252",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "Una gestante de 34 semanas acude a emergencia con presión arterial de 170/110 mmHg, cefalea intensa, visión borrosa y clonus positivo (++). Se diagnostica Preeclampsia Severa con signos de gravedad. ¿Cuál es el examen de laboratorio o ecográfico prioritario que debe realizarse de urgencia para descartar sufrimiento fetal agudo y evaluar el bienestar materno?",
+      "options": {
+        "A": "Perfil lipídico completo y colesterol total.",
+        "B": "Radiografía de columna lumbosacra.",
+        "C": "Ecografía obstétrica de perfil biofísico y/o monitoreo electrónico fetal (NST), además de hemograma, plaquetas, creatinina y transaminasas.",
+        "D": "Prueba de tolerancia a la glucosa oral.",
+        "E": "Biopsia de vellosidades coriales."
+      },
+      "correct": "C",
+      "comment": "Ante la preeclampsia severa, se requiere valorar el daño a órganos blanco maternos (plaquetas, función renal y hepática) y asegurar el bienestar fetal inmediato mediante monitoreo electrónico fetal (NST) o perfil biofísico ecográfico."
+    },
+    {
+      "number": 253,
+      "code": "DIRESA26 P253",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "En la estrategia de control de la Tuberculosis, ¿qué significa el término 'Tratamiento Directamente Observado' (DOTS / TAES) normado por el Ministerio de Salud?",
+      "options": {
+        "A": "Que el paciente toma sus pastillas solo cuando se acuerda en su casa.",
+        "B": "Que un profesional de salud, un agente comunitario o un líder capacitado presencia físicamente la ingestión de cada una de las dosis de medicamentos por parte del paciente.",
+        "C": "Que las pastillas se entregan en una bolsa una vez al mes sin supervisión.",
+        "D": "Que el tratamiento se administra exclusivamente por vía intravenosa en el hospital.",
+        "E": "Que el paciente es vigilado mediante cámaras de seguridad en su domicilio."
+      },
+      "correct": "B",
+      "comment": "El TAES (Tratamiento Acortado Estrictamente Supervizado / DOTS) es la piedra angular de la estrategia mundial y nacional contra la TBC. Exige que la toma de cada dosis sea observada directamente por personal de salud o un promotor capacitado para asegurar adherencia y evitar farmacorresistencia."
+    },
+    {
+      "number": 254,
+      "code": "DIRESA26 P254",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "En relación al calendario de inmunizaciones, ¿a qué edad se aplica la vacuna contra el Sarampión, Paperas y Rubéola (SPR) en su SEGUNDA dosis según la NTS vigente?",
+      "options": {
+        "A": "A los 6 meses de edad.",
+        "B": "A los 12 meses (1ra dosis) y a los 18 meses (2da dosis).",
+        "C": "A los 5 años de edad (al ingreso escolar).",
+        "D": "A los 12 años junto con el VPH.",
+        "E": "Solo en campañas para adultos jóvenes."
+      },
+      "correct": "B",
+      "comment": "El esquema regular del MINSA establece que la primera dosis de SPR se aplica a los 12 meses (1 año) y la segunda dosis de refuerzo se administra a los 18 meses (1 año y 6 meses) de edad."
+    },
+    {
+      "number": 255,
+      "code": "DIRESA26 P255",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "Una gestante acude a su control prenatal en la DIRESA Puno portando resultados de laboratorio con diagnóstico de Infección del Tracto Urinario (ITU) asintomática. Según la NTS 105 de Atención Materna, ¿cuál es la conducta obligatoria a seguir?",
+      "options": {
+        "A": "No requiere tratamiento si no presenta dolor al orinar (es asintomática).",
+        "B": "Indicar antibiótico terapia empírica adecuada (según urocultivo o pautas normadas) para prevenir complicaciones graves como pielonefritis, parto prematuro o bajo peso al nacer.",
+        "C": "Esperar al tercer trimestre para iniciar antibióticos.",
+        "D": "Recomendar solo abundante líquido y control en 3 meses.",
+        "E": "Derivar obligatoriamente a urología quirúrgica."
+      },
+      "correct": "B",
+      "comment": "La bacteriuria asintomática en la gestante conlleva un riesgo altísimo de desencadenar pielonefritis aguda, rotura prematura de membranas y parto prematuro. La norma exige su tratamiento antibiótico oportuno y urocultivo de control."
+    },
+    {
+      "number": 256,
+      "code": "DIRESA26 P256",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "En el manejo sindrómico de las Infecciones de Transmisión Sexual (ITS) normado por el MINSA, si una paciente acude con cuadro clínico de 'Flujo Vaginal anormal' (cervicitis/vaginitis), ¿cómo orienta la norma la prescripción terapéutica?",
+      "options": {
+        "A": "Esperar obligatoriamente 15 días el resultado de cultivo de secreción.",
+        "B": "Tratar simultáneamente con medicamentos específicos para los agentes causales más frecuentes (ej. Trichomonas, Candida y Vaginosis bacteriana / Chlamydia / Gonorreno) en la misma consulta, sin esperar exámenes de laboratorio.",
+        "C": "Administrar únicamente analgésicos orales.",
+        "D": "Derivar a cirugía laparoscópica.",
+        "E": "Prohibir el uso de cualquier fármaco durante la gestación."
+      },
+      "correct": "B",
+      "comment": "El manejo sindrómico de las ITS se basa en tratar los síndromes clínicos desde el primer contacto (primera consulta) cubriendo los patógenos más probables mediante esquemas preestablecidos por el MINSA, evitando la pérdida de seguimiento del paciente."
+    },
+    {
+      "number": 257,
+      "code": "DIRESA26 P257",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "Según la NTS 134, ¿cuál es la concentración y presentación recomendada de los suplementos de Hierro Polimaltosado o Sulfato Ferroso destinados para el tratamiento de la anemia en niños menores de 3 años?",
+      "options": {
+        "A": "Tabletas masticables de 500 mg.",
+        "B": "Gotas (50 mg/ml) o Jarabe (25 mg/5ml) de hierro elemental.",
+        "C": "Cápsulas de liberación prolongada de 300 mg.",
+        "D": "Ampollas intravenosas de hierro dextrán.",
+        "E": "Polvo en sobres de uso tópico."
+      },
+      "correct": "B",
+      "comment": "Para facilitar la dosificación exacta calculada por peso corporal (mg/kg/día) en lactantes y niños pequeños, la norma técnica establece el uso de presentaciones líquidas: gotas (generalmente 50 mg de hierro elemental por ml) o jarabe."
+    },
+    {
+      "number": 258,
+      "code": "DIRESA26 P258",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "Una gestante de 38 semanas con antecedentes de dos cesáreas anteriores acude en trabajo de parto activo a un hospital de Puno. Súbitamente presenta dolor abdominal intenso continuo, cese de contracciones, sangrado vaginal escuro y signos de shock con alteración de la frecuencia cardíaca fetal. Se sospecha una Ruptura Uterina. ¿Cuál es el nivel de atención y la conducta quirúrgica urgente?",
+      "options": {
+        "A": "Manejo ambulatorio con analgésicos en puesto I-1.",
+        "B": "Esperar parto vaginal espontáneo con monitoreo estricto.",
+        "C": "Emergencia quirúrgica absoluta en establecimiento con capacidad resolutiva (quirófano); laparotomía exploratoria urgente para histerectomía o reparación uterina y estabilización.",
+        "D": "Administrar oxitocina en altas dosis para expulsar el feto.",
+        "E": "Realizar amniocentesis descompresiva."
+      },
+      "correct": "C",
+      "comment": "La ruptura uterina es una catástrofe obstétrica con altísima mortalidad materna y fetal. Requiere manejo quirúrgico de emergencia inmediata (laparotomía exploratoria) para extraer al feto, controlar la hemorragia masiva y realizar histerectomía o rafia uterina."
+    },
+    {
+      "number": 259,
+      "code": "DIRESA26 P259",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "En relación al manejo de contactos de pacientes con Tuberculosis Multidrogorresistente (TBC MDR), la NTS 104 estipula que los contactos estrechos (especialmente menores de 5 años o inmunosuprimidos) deben ser evaluados rigurosamente y recibir:",
+      "options": {
+        "A": "Tratamiento automático con el esquema MDR completo.",
+        "B": "Evaluaciones clínicas seriadas, descartando enfermedad activa mediante cultivos y pruebas moleculares, y seguimiento estrecho por el especialista, evitando profilaxia ciega con drogas de segunda línea sin confirmación.",
+        "C": "Vacunación obligatoria con BCG repetida.",
+        "D": "Alta médica inmediata sin exámenes.",
+        "E": "Exclusión social de la comunidad."
+      },
+      "correct": "B",
+      "comment": "A diferencia de la TBC sensible (donde se da quimioprofilaxis con isoniazida a menores de 5 años), en contactos de TBC MDR no existe un esquema profiláctico estándar universal aprobado con fármacos de segunda línea, por lo que la norma exige vigilancia clínica estricta y descarte rápido ante cualquier síntoma."
+    },
+    {
+      "number": 260,
+      "code": "DIRESA26 P260",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "En la campaña de vacunación contra la Polio, el MINSA utiliza tanto la vacuna Antipolio Inactivada (APV / IPV inyectable) como la vacuna Antipolio Oral (APO bivalente). ¿Cuál es la razón sanitaria principal por la cual se introdujo la vacuna IPV inyectable en el esquema regular antes de las dosis orales?",
+      "options": {
+        "A": "Es más barata de producir que las gotas orales.",
+        "B": "Evita por completo el rarísimo riesgo de poliomielitis paralítica asociada a la vacuna (VAPP) generado por el componente oral vivo, asegurando una primovacunación segura.",
+        "C": "Reemplaza la necesidad de aplicar la vacuna pentavalente.",
+        "D": "Se administra exclusivamente a adultos mayores de 60 años.",
+        "E": "Elimina la necesidad de cadena de frío."
+      },
+      "correct": "B",
+      "comment": "La estrategia global de erradicación de la polio incorporó dosis iniciales de vacuna inactivada (IPV, virus muerto) para inducir inmunidad sistémica sin riesgo de la poliomielitis paralítica asociada a la vacuna (VAPP) que ocasionalmente provocaba la vacuna oral viva (APO)."
+    },
+    {
+      "number": 281,
+      "code": "DIRESA26 P281",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "Una gestante de 14 semanas es diagnosticada con Tuberculosis Pulmonar Sensible. El médico debe iniciar el esquema de tratamiento antituberculoso estándar (Fase 1: HREZ). ¿Cuál de los siguientes fármacos antituberculosos clásicos está ABSOLUTAMENTE CONTRAINDICADO durante el embarazo por su potencial teratogénico y debe evitarse?",
+      "options": {
+        "A": "Isoniazida.",
+        "B": "Pirazinamida.",
+        "C": "Etambutol.",
+        "D": "Estreptomicina.",
+        "E": "Rifampicina."
+      },
+      "correct": "D",
+      "comment": "La Estreptomicina (un aminoglucósido) atraviesa la barrera placentaria y está formalmente contraindicada en el embarazo porque produce ototoxicidad fetal severa (daño del VIII par craneal) y nefrotoxicidad."
+    },
+    {
+      "number": 282,
+      "code": "DIRESA26 P282",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "En la vigilancia de hijos de madres con VIH, ¿cuál es la prueba de laboratorio de elección estipulada en la NTS 169 para realizar el diagnóstico temprano de infección por VIH en un lactante menor de 18 meses?",
+      "options": {
+        "A": "Prueba rápida de anticuerpos de tercera generación.",
+        "B": "Western Blot para VIH-1 y VIH-2.",
+        "C": "Prueba virológica: Reacción en Cadena de la Polimerasa (PCR) ADN o ARN proviral.",
+        "D": "Conteo absoluto de Linfocitos T CD4+.",
+        "E": "Prueba de Inmunofluorescencia Indirecta (IFI)."
+      },
+      "correct": "C",
+      "comment": "En menores de 18 meses NO se pueden usar pruebas serológicas (pruebas rápidas, ELISA o Western Blot) porque los anticuerpos IgG maternos cruzan la placenta y darían falsos positivos. Se debe buscar directamente el virus mediante PCR."
+    },
+    {
+      "number": 283,
+      "code": "DIRESA26 P283",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "Durante el control CRED en un puesto de salud (nivel I-1) en Puno, se diagnostica Anemia Severa (Hb < 7.0 g/dL) a un lactante de 4 meses de edad. Según la NTS 134, ¿cuál es la conducta terapéutica inmediata que debe tomar el personal del primer nivel?",
+      "options": {
+        "A": "Iniciar hierro en gotas a dosis de 6 mg/kg/día.",
+        "B": "Administrar una transfusión de sangre total en el tópico del puesto de salud.",
+        "C": "Entregar 2 sobres de micronutrientes diarios.",
+        "D": "Iniciar hierro polimaltosado y citar en 7 días para ver tolerancia.",
+        "E": "Referir al niño de manera inmediata a un establecimiento de salud de mayor complejidad (Hospital) para evaluación y manejo especializado."
+      },
+      "correct": "E",
+      "comment": "La NTS 134 es estricta: todo niño menor de 6 meses con diagnóstico de anemia, así como cualquier niño con Anemia Severa, no debe ser manejado empíricamente en el primer nivel; requiere referencia inmediata para descartar causas graves y recibir manejo especializado u hospitalario."
+    },
+    {
+      "number": 284,
+      "code": "DIRESA26 P284",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "En el marco de la Norma Técnica de Inmunizaciones, la vacuna contra el Virus del Papiloma Humano (VPH) requiere una técnica de administración específica. ¿Cuál es la vía y el sitio de aplicación normados?",
+      "options": {
+        "A": "Vía Intramuscular (IM) en el músculo deltoides (tercio superior del brazo).",
+        "B": "Vía Subcutánea en la región peri-umbilical.",
+        "C": "Vía Intradérmica en el tercio superior del brazo derecho.",
+        "D": "Vía Intramuscular en la cara anterolateral del muslo.",
+        "E": "Vía Oral mediante gotas líquidas."
+      },
+      "correct": "A",
+      "comment": "La vacuna contra el VPH se administra por vía intramuscular. Al estar dirigida a niños y niñas de 9 a 13 años (donde el deltoides ya está suficientemente desarrollado), el sitio anatómico de elección es la región deltoidea del brazo."
+    },
+    {
+      "number": 285,
+      "code": "DIRESA26 P285",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "Para garantizar un ambiente térmico neutro que prevenga la hipotermia neonatal y promueva el apego, la NTS 160 (Adecuación Intercultural del Parto) y la NTS de Atención Neonatal exigen que la sala de partos mantenga una temperatura ambiental estrictamente controlada. ¿Cuál es el rango normado?",
+      "options": {
+        "A": "Entre 18°C y 22°C.",
+        "B": "No menor de 24°C (idealmente entre 24°C y 26°C).",
+        "C": "Entre 30°C y 35°C (ambiente sobrecalentado).",
+        "D": "Igual a la temperatura corporal de la madre (37°C).",
+        "E": "No requiere control en regiones tropicales."
+      },
+      "correct": "B",
+      "comment": "Para prevenir la pérdida de calor por convección y radiación en el recién nacido húmedo (especialmente crítico en el clima frío de Puno), la norma exige que la sala de partos o atención neonatal tenga ventanas cerradas y una temperatura ambiental mínima de 24°C."
+    },
+    {
+      "number": 286,
+      "code": "DIRESA26 P286",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "Un paciente con TBC presenta parestesias (adormecimiento y hormigueo) en manos y pies (Neuropatía periférica) inducidas por la toxicidad de la Isoniazida. Según la NTS 104, ¿qué suplemento vitamínico se prescribe para prevenir y tratar esta reacción adversa?",
+      "options": {
+        "A": "Vitamina B6 (Piridoxina).",
+        "B": "Vitamina B12 (Cianocobalamina).",
+        "C": "Vitamina C (Ácido ascórbico).",
+        "D": "Vitamina K (Fitomenadiona).",
+        "E": "Vitamina B1 (Tiamina)."
+      },
+      "correct": "A",
+      "comment": "La Isoniazida interfiere con el metabolismo de la piridoxina (Vitamina B6). Su déficit causa neuropatía periférica. La NTS 104 indica la administración profiláctica o terapéutica de Piridoxina (50 mg/día) en pacientes con riesgo o síntomas."
+    },
+    {
+      "number": 287,
+      "code": "DIRESA26 P287",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "Durante la consejería nutricional obligatoria (NTS 134) a una madre en Puno que administra gotas de hierro a su bebé, la enfermera debe indicarle evitar ciertos alimentos inmediatamente antes o después de la toma, ya que son 'inhibidores' severos de la absorción del hierro. ¿Cuál de los siguientes es un inhibidor?",
+      "options": {
+        "A": "Jugo de naranja (Vitamina C).",
+        "B": "Papilla de hígado de pollo.",
+        "C": "Sangrecita de res.",
+        "D": "Infusiones (mate de anís, té, manzanilla) y lácteos (calcio).",
+        "E": "Puré de zanahoria (Vitamina A)."
+      },
+      "correct": "D",
+      "comment": "Los fitatos, los taninos y polifenoles (presentes en el té, mate, infusiones herbales) y el Calcio (presente en la leche y yogur) bloquean la absorción del hierro no hemínico a nivel intestinal y nunca deben mezclarse con los suplementos de hierro."
+    },
+    {
+      "number": 288,
+      "code": "DIRESA26 P288",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "Una gestante con VIH se encuentra en su semana 37. Según sus últimos exámenes, presenta una Carga Viral de 15,000 copias/ml (no indetectable). Para minimizar el riesgo de transmisión vertical durante el nacimiento, ¿qué vía de parto estipula la NTS 169?",
+      "options": {
+        "A": "Parto vaginal inducido inmediatamente.",
+        "B": "Cesárea electiva programada a las 38 semanas de gestación (antes del inicio del trabajo de parto y con membranas íntegras).",
+        "C": "Parto vaginal instrumental usando fórceps para acortar el expulsivo.",
+        "D": "Cesárea de emergencia únicamente si el feto presenta sufrimiento fetal.",
+        "E": "Parto vertical con episiotomía amplia obligatoria."
+      },
+      "correct": "B",
+      "comment": "Si la carga viral es desconocida o mayor a 1,000 copias/ml cerca del parto, la gestante está en alto riesgo de transmisión. La norma exige programar una cesárea electiva a las 38 semanas para evitar el trabajo de parto y la ruptura de membranas que exponen al feto."
+    },
+    {
+      "number": 289,
+      "code": "DIRESA26 P289",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "En la vacunación contra la Polio, ¿en qué pacientes está formalmente CONTRAINDICADA la administración de la vacuna Antipolio Oral (APO) en gotas, debiendo reemplazarse todas sus dosis por la vacuna inyectable (IPV)?",
+      "options": {
+        "A": "Niños que nacieron prematuros.",
+        "B": "Niños con diagnóstico de anemia severa.",
+        "C": "Niños con inmunodeficiencias severas comprobadas (ej. VIH en estadio SIDA) o que conviven con personas inmunosuprimidas.",
+        "D": "Niños que presentaron fiebre leve tras la dosis previa.",
+        "E": "Niñas adolescentes."
+      },
+      "correct": "C",
+      "comment": "La vacuna APO está compuesta por virus vivos atenuados que se excretan en las heces. En pacientes inmunosuprimidos o sus contactos, el virus vacunal puede causar poliomielitis paralítica (VAPP). Por ello, en ellos solo se usa IPV (virus inactivado/muerto)."
+    },
+    {
+      "number": 290,
+      "code": "DIRESA26 P290",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "En la evaluación del puerperio inmediato (primeras 2 a 24 horas posparto) según la NTS 105, la obstetra debe vigilar rigurosamente la aparición de 'Signos de Alarma'. ¿Cuál de los siguientes constituye un signo de alarma crítico que requiere acción médica inmediata?",
+      "options": {
+        "A": "Presencia de calostro en las mamas.",
+        "B": "Eliminación de loquios hemáticos en cantidad moderada (similar a una regla normal).",
+        "C": "Dolor pélvico leve tipo cólico ('entuertos') al dar de lactar.",
+        "D": "Micción espontánea a las 4 horas del parto.",
+        "E": "Sangrado vaginal abundante que empapa un apósito sanitario (toalla) en menos de 15 minutos, con presencia de coágulos grandes."
+      },
+      "correct": "E",
+      "comment": "El sangrado vaginal masivo que satura una toalla en menos de 15- 20 minutos es el signo clínico cardinal de Hemorragia Posparto (la primera causa de muerte materna). Los entuertos y loquios moderados son procesos fisiológicos normales."
+    },
+    {
+      "number": 291,
+      "code": "DIRESA26 P291",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "Un paciente culmina sus 6 meses de tratamiento para Tuberculosis Pulmonar Sensible. Según la clasificación de 'Condición de Egreso' de la NTS 104, ¿qué criterios clínicos y bacteriológicos debe cumplir para que sea registrado como 'Curado'?",
+      "options": {
+        "A": "Concluir el esquema de tratamiento programado completo y contar con un resultado de baciloscopia de esputo negativo en el último mes de tratamiento y en al menos una ocasión anterior.",
+        "B": "Terminar el tratamiento, aunque la última baciloscopia sea positiva débil.",
+        "C": "Presentar mejoría de la tos en los primeros 2 meses, sin necesidad de controles de esputo finales.",
+        "D": "Haber aumentado de peso y presentar radiografía de tórax completamente limpia.",
+        "E": "Tener un cultivo negativo solo en el primer mes de iniciado el tratamiento."
+      },
+      "correct": "A",
+      "comment": "La definición operativa de 'Curado' exige dos condiciones obligatorias: cumplir todas las dosis del esquema y tener confirmación bacteriológica de la eliminación del bacilo (baciloscopia negativa al final y al menos otra negativa durante el seguimiento)."
+    },
+    {
+      "number": 292,
+      "code": "DIRESA26 P292",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "Dentro de la atención prenatal reenfocada, la NTS 105 recomienda la realización de ecografías obstétricas de rutina. ¿En qué rango de edad gestacional es fundamental realizar la 'Ecografía Genética' para medir la translucencia nucal y buscar el hueso nasal (marcadores de aneuploidías)?",
+      "options": {
+        "A": "Entre las semanas 8 y 10.",
+        "B": "Entre las semanas 20 y 24.",
+        "C": "Entre las semanas 11 y 13 con 6 días.",
+        "D": "Entre las semanas 32 y 36.",
+        "E": "En cualquier momento del segundo trimestre."
+      },
+      "correct": "C",
+      "comment": "La ventana temporal estricta para evaluar adecuadamente los marcadores ecográficos de cromosomopatías (como el Síndrome de Down midiendo la translucencia nucal) es entre la semana 11 y la semana 13 con 6 días, cuando el feto tiene una longitud cráneo-caudal (LCC) específica."
+    },
+    {
+      "number": 293,
+      "code": "DIRESA26 P293",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "En la atención inmediata del recién nacido expuesto al VIH (madre con diagnóstico confirmado), el personal de salud en sala de partos debe aplicar una medida de bioseguridad profiláctica inmediata que difiere del manejo de un parto habitual. ¿Cuál es?",
+      "options": {
+        "A": "Promover el contacto piel a piel durante 2 horas sin limpiarlo.",
+        "B": "Realizar pinzamiento tardío del cordón umbilical esperando que deje de latir.",
+        "C": "Evitar siempre el secado del recién nacido.",
+        "D": "Iniciar lactancia en la primera hora para traspasar anticuerpos protectores.",
+        "E": "Realizar el baño del recién nacido de manera precoz (inmediata) con agua y jabón para retirar sangre y fluidos maternos."
+      },
+      "correct": "E",
+      "comment": "Para minimizar el tiempo de exposición de la piel y mucosas del recién nacido a la sangre y secreciones cérvico-vaginales maternas infectadas con VIH, la NTS ordena el baño temprano e inmediato con agua y jabón clorado o suave, suspendiendo el apego inicial si retrasa esta higiene."
+    },
+    {
+      "number": 294,
+      "code": "DIRESA26 P294",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "Una gestante inicia tratamiento terapéutico para Anemia con 120 mg de hierro elemental diario. Según la NTS 134, ¿en qué momento exacto se debe realizar el primer control de laboratorio (dosaje de hemoglobina) para verificar la respuesta al tratamiento?",
+      "options": {
+        "A": "A las 24 horas de la primera tableta.",
+        "B": "A los 7 días de iniciado el tratamiento.",
+        "C": "A los 6 meses de tratamiento ininterrumpido.",
+        "D": "A las 4 semanas (1 mes) de iniciado el tratamiento.",
+        "E": "Solo al momento del parto en el hospital."
+      },
+      "correct": "D",
+      "comment": "La norma establece que el seguimiento terapéutico exige un dosaje de hemoglobina cada 4 semanas para evaluar la adherencia y la eficacia (se espera una subida de al menos 1 g/dL mensual). Si no hay respuesta, se investigan otras causas o mala técnica de toma."
+    },
+    {
+      "number": 295,
+      "code": "DIRESA26 P295",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "De acuerdo a la Norma Técnica Nacional de Inmunizaciones, la vacuna contra el Neumococo (que previene neumonías graves y meningitis) en la población pediátrica se administra en un esquema de tres (3) dosis. ¿Cuáles son las edades de aplicación normadas?",
+      "options": {
+        "A": "Al nacimiento, a los 2 meses y a los 4 meses.",
+        "B": "A los 2 meses (1ra), a los 4 meses (2da) y a los 12 meses de edad (3ra dosis).",
+        "C": "A los 6 meses, a los 12 meses y a los 18 meses.",
+        "D": "A los 4 meses, a los 6 meses y a los 2 años.",
+        "E": "Solo se aplican dos dosis a los 2 y 6 meses."
+      },
+      "correct": "B",
+      "comment": "El esquema oficial peruano para la vacuna antineumocócica pediátrica comprende dos dosis primarias (a los 2 y 4 meses de vida) y una tercera dosis de refuerzo al cumplir el año de edad (12 meses)."
+    },
+    {
+      "number": 296,
+      "code": "DIRESA26 P296",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "El área de Control de Infecciones establece medidas de bioseguridad frente a la Tuberculosis (precauciones de transmisión por vía aérea). En el entorno hospitalario o de consultorio, ¿cuál es el uso correcto normado de mascarillas?",
+      "options": {
+        "A": "El paciente tosedor debe usar respirador N95 y el personal de salud no requiere protección.",
+        "B": "Ambos, paciente y personal, deben usar mascarillas de tela comunitaria de 3 pliegues.",
+        "C": "El paciente tosedor debe usar Mascarilla Quirúrgica Simple (para bloquear la emisión de gotitas/aerosoles), y el personal de salud debe usar obligatoriamente Respirador N95 (para filtrar los aerosoles del ambiente).",
+        "D": "El personal de salud usa mascarilla quirúrgica simple y el paciente usa respirador N95.",
+        "E": "No se usan mascarillas si las ventanas están abiertas."
+      },
+      "correct": "C",
+      "comment": "La mascarilla quirúrgica simple en el paciente (control de fuente) atrapa la humedad y frena la expulsión de bacilos al toser. El personal sano usa N95 porque esta mascarilla especializada filtra el 95% de las micropartículas (aerosoles) ya suspendidas en el aire."
+    },
+    {
+      "number": 297,
+      "code": "DIRESA26 P297",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "La NTS 114 para Sífilis Materna establece el tratamiento con Penicilina G Benzatínica como único fármaco capaz de prevenir la sífilis congénita. Si una gestante con sífilis refiere ser alérgica a la penicilina, ¿cuál es el procedimiento clínico normado?",
+      "options": {
+        "A": "Administrar Ceftriaxona endovenosa por 10 días.",
+        "B": "Recetar Doxiciclina vía oral en su reemplazo.",
+        "C": "Tratarla con Clindamicina en óvulos vaginales.",
+        "D": "Internar a la gestante, realizar un procedimiento de desensibilización a la penicilina en un hospital con UCI y administrar el esquema con Penicilina G Benzatínica.",
+        "E": "Suspender el tratamiento y tratar solo al niño al nacer."
+      },
+      "correct": "D",
+      "comment": "No existe alternativa antibiótica probada que cruce bien la placenta y erradique eficazmente el treponema en el feto. Por tanto, ante alergia confirmada, la gestante debe ser referida para desensibilización bajo monitoreo estricto y luego recibir penicilina."
+    },
+    {
+      "number": 298,
+      "code": "DIRESA26 P298",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "Un niño en tratamiento terapéutico por anemia ferropénica acude a su control al segundo mes. Su hemoglobina ha subido de 10.0 a 11.5 g/dL (valor normal). La madre solicita que se le suspenda el hierro porque 'el niño ya sanó'. Según la NTS 134, la conducta de la enfermera debe ser:",
+      "options": {
+        "A": "Explicarle que el tratamiento debe durar exactamente 6 meses continuos, sin interrupciones, para llenar las reservas de hierro (ferritina) en el hígado, aunque la hemoglobina en sangre ya sea normal.",
+        "B": "Darle el alta y suspender inmediatamente el sulfato ferroso.",
+        "C": "Reducir la dosis a la mitad y suspender a la semana.",
+        "D": "Cambiar el hierro por vitaminas del complejo B.",
+        "E": "Transfundir al niño para consolidar el tratamiento."
+      },
+      "correct": "A",
+      "comment": "El criterio de ALTA para el tratamiento de la anemia exige dos condiciones concurrentes: que la hemoglobina alcance valores normales (Hb ≥ 11 g/dL) Y que el paciente haya completado los 6 meses de tratamiento ininterrumpido. Suspender antes genera recaídas rápidas por falta de reservas."
+    },
+    {
+      "number": 299,
+      "code": "DIRESA26 P299",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "La Norma Técnica de VIH en adultos (NTS 169) indica el inicio de Quimioprofilaxis Primaria para prevenir Infecciones Oportunistas cuando el sistema inmune del paciente está severamente deprimido (Linfocitos CD4 < 200 cel/mm3). ¿Qué fármaco se indica para prevenir la Neumonía por Pneumocystis jirovecii y Toxoplasmosis cerebral?",
+      "options": {
+        "A": "Fluconazol 150 mg diario.",
+        "B": "Azitromicina 1200 mg semanal.",
+        "C": "Isoniazida 300 mg diario.",
+        "D": "Aciclovir 400 mg cada 8 horas.",
+        "E": "Cotrimoxazol (Sulfametoxazol / Trimetoprima) en tabletas de 800/160 mg diarias."
+      },
+      "correct": "E",
+      "comment": "El Cotrimoxazol (TMP/SMX) profiláctico es la medida estándar de oro para prevenir la neumonía por Pneumocystis jirovecii y la toxoplasmosis en pacientes con infección por VIH avanzada (CD4 por debajo de 200)."
+    },
+    {
+      "number": 300,
+      "code": "DIRESA26 P300",
+      "course": "Normas técnicas de salud",
+      "topic": "Normas técnicas de salud",
+      "question": "Durante una campaña de inmunizaciones en Puno, un niño presenta anafilaxia severa 30 minutos después de recibir una vacuna. Esto constituye un ESAVI (Evento Supuestamente Atribuido a la Vacunación e Inmunización) SEVERO. Según la directiva nacional, ¿en qué plazo máximo de tiempo se debe notificar este evento al sistema de epidemiología?",
+      "options": {
+        "A": "Mensualmente en el reporte regular.",
+        "B": "Notificación obligatoria de forma INMEDIATA (dentro de las primeras 24 a 48 horas) llenando la Ficha Fármaco-Epidemiológica para iniciar la investigación respectiva.",
+        "C": "A los 7 días hábiles.",
+        "D": "Solo si la familia entabla una demanda judicial.",
+        "E": "Al finalizar el año estadístico."
+      },
+      "correct": "B",
+      "comment": "Un ESAVI Severo (que pone en riesgo la vida, causa hospitalización, discapacidad o muerte) desencadena una alerta sanitaria. Obliga a una notificación inmediata en las primeras 24 horas y el inicio de la investigación dentro de las 48 horas para descartar fallas en el lote o errores programáticos."
+    }
+  ]
+}
