@@ -1,0 +1,201 @@
+{
+  "bankId": "ENCAPS_2025_I",
+  "examType": "Medicina-I, cuadernillo del usuario",
+  "source": "PDF encaps 2025-I claves.pdf, 06 abril 2025, preguntas 11–15",
+  "range": "011-015",
+  "status": "desarrollo_razonado_pendiente_cotejo_claves_oficiales_e_integracion_en_app",
+  "questions": [
+    {
+      "number": 11,
+      "topic": "Transición epidemiológica y doble carga de enfermedad",
+      "question": "Se define como transición epidemiológica al proceso de paso del predominio de enfermedades …… a la preponderancia de las enfermedades...",
+      "options": {
+        "A": "degenerativas / infecciosas.",
+        "B": "crónicas / infecciosas.",
+        "C": "infecciosas / crónicas.",
+        "D": "infecciosas / prevalentes."
+      },
+      "correct": "C",
+      "temario": "La transición epidemiológica es el cambio histórico de patrones de mortalidad y morbilidad, desde mayor peso de enfermedades infecciosas, nutricionales y maternoinfantiles hacia enfermedades crónicas no transmisibles, como enfermedad cardiovascular, diabetes y cáncer. Se vincula con cambios demográficos, urbanización, saneamiento, vacunación y estilos de vida. No implica desaparición de infecciones: pueden coexistir tuberculosis, dengue y enfermedades crónicas (doble carga). Diferenciar de transición demográfica: cambios en natalidad, mortalidad y envejecimiento poblacional.",
+      "fundamento": "La secuencia clásica es de enfermedades infecciosas hacia crónicas, alternativa C.",
+      "analisis": {
+        "A": "Invierte la dirección clásica de transición.",
+        "B": "También invierte la dirección.",
+        "C": "Expresa el paso de predominio infeccioso hacia cronicidad.",
+        "D": "Prevalente es una medida epidemiológica, no una categoría etiológica comparable."
+      },
+      "perlas": [
+        "Transición epidemiológica: infecciosas → crónicas.",
+        "La coexistencia produce doble carga epidemiológica."
+      ],
+      "refuerzo": [
+        {
+          "caso": "País reduce mortalidad infantil y aumenta proporción de fallecimientos cardiovasculares.",
+          "clave": "Transición epidemiológica."
+        },
+        {
+          "caso": "Región enfrenta simultáneamente dengue y diabetes.",
+          "clave": "Doble carga de enfermedad."
+        },
+        {
+          "caso": "Población muestra mayor esperanza de vida y menor fecundidad.",
+          "clave": "Transición demográfica."
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "topic": "Interculturalidad y deshidratación infantil: negociación terapéutica segura",
+      "question": "Madre quechua hablante de 30 años, tiene niño de un año con diarrea y deshidratación; ella niega su atención en el establecimiento de salud, porque según su creencia el caso corresponde a “susto” y lo debe atender el curandero. ¿Cómo procedes ante este caso?",
+      "options": {
+        "A": "Solicitar al presidente de la comunidad que intervenga",
+        "B": "Llegas a un acuerdo en la terapia del niño, respetando sus creencias",
+        "C": "Discrepas con su decisión porque no es correcto",
+        "D": "Constatar con la policía y la autoridad comunal"
+      },
+      "correct": "B",
+      "temario": "La atención intercultural reconoce explicaciones tradicionales de enfermedad y construye acuerdos sin abandonar el deber de proteger al menor. En diarrea infantil evaluar gravedad por estado general, ojos, sed, pliegue cutáneo y perfusión; iniciar rehidratación oral con SRO cuando sea apropiada, mantener alimentación y lactancia, administrar zinc según esquema, y derivar/rehidratar por vía IV de inmediato si hay deshidratación grave o choque. Explicar signos de alarma en idioma comprensible, con intérprete si procede, y explorar prácticas tradicionales que no retrasen ni sustituyan atención urgente. El respeto cultural no autoriza posponer tratamiento vital: si el niño corre peligro inmediato y persiste rechazo, activar vías de protección conforme a normativa y contexto.",
+      "fundamento": "El abordaje inicial más pertinente es diálogo y acuerdo terapéutico respetuoso, manteniendo medidas necesarias para seguridad del niño.",
+      "analisis": {
+        "A": "Autoridad comunal puede ayudar en mediación con consentimiento, pero no reemplaza comunicación directa.",
+        "B": "Negocia tratamiento eficaz sin descalificar creencias.",
+        "C": "Confrontación favorece desconfianza y rechazo.",
+        "D": "Intervención coercitiva inicial no es proporcional sin valorar peligro y alternativas."
+      },
+      "perlas": [
+        "Interculturalidad ≠ aceptar demora peligrosa de tratamiento.",
+        "Diarrea con deshidratación: clasificar gravedad e iniciar rehidratación."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Niño con diarrea y signos de deshidratación leve, familia atribuye al susto.",
+          "clave": "SRO, consejería en quechua y acuerdo respetuoso."
+        },
+        {
+          "caso": "Niño letárgico, pulso débil y relleno capilar lento.",
+          "clave": "Tratar como emergencia; rehidratación y referencia."
+        },
+        {
+          "caso": "Familia desea ritual tradicional sin suspender SRO.",
+          "clave": "Compatibilizar práctica segura y tratamiento efectivo."
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "topic": "Historia clínica: plazo para entregar copia autenticada y epicrisis",
+      "question": "¿Cuál es el plazo máximo en días para entregar copia autenticada de la historia clínica y epicrisis, cuando el usuario de salud o su representante legal lo solicite?",
+      "options": {
+        "A": "5",
+        "B": "7",
+        "C": "10",
+        "D": "3"
+      },
+      "correct": "A",
+      "temario": "El derecho de acceso a la información clínica permite al paciente o representante autorizado solicitar copia de historia clínica y epicrisis, con resguardo de identidad y confidencialidad. La referencia peruana de derechos de usuarios y reglamentación establece un plazo máximo de cinco días hábiles para facilitar copia de historia clínica y epicrisis, sin perjuicio de reglas específicas de archivo, autenticación y costos de reproducción que procedan. Es importante distinguir días hábiles de calendarios y diferenciar esta entrega del plazo general de transparencia administrativa, que puede ser distinto. Antes de uso operativo, verificar el reglamento y su redacción vigente.",
+      "fundamento": "La opción A (5) corresponde al plazo indicado en la regla nacional habitual para copia de historia clínica y epicrisis, entendido como días hábiles.",
+      "analisis": {
+        "A": "Es la cifra del plazo máximo específico.",
+        "B": "No corresponde al plazo señalado en el marco normativo de acceso clínico.",
+        "C": "Puede confundirse con otros procedimientos administrativos.",
+        "D": "No corresponde a la cifra del procedimiento descrito."
+      },
+      "alerta": "Cotejar literal normativo y clave oficial antes de usar el ítem como referencia legal definitiva.",
+      "perlas": [
+        "Acceso clínico y confidencialidad deben garantizarse simultáneamente.",
+        "No confundir plazo específico de historia clínica con trámites generales."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Paciente pide copia de epicrisis para continuar tratamiento.",
+          "clave": "Tramitar entrega en plazo específico, tras verificación de identidad."
+        },
+        {
+          "caso": "Tercero no autorizado solicita historia clínica completa.",
+          "clave": "Exigir representación o fundamento legal válido."
+        },
+        {
+          "caso": "Funcionario revela historia clínica durante trámite.",
+          "clave": "Infringe deber de confidencialidad."
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "topic": "Salud adolescente: frecuencia de tamizaje de hemoglobina",
+      "question": "Dentro del paquete preventivo de salud del adolescente. ¿Cuántas mediciones al año de hemoglobina debe realizarse?",
+      "options": {
+        "A": "1",
+        "B": "6",
+        "C": "4",
+        "D": "2"
+      },
+      "correct": "A",
+      "temario": "El control preventivo integral de adolescentes identifica anemia y factores de riesgo relacionados con crecimiento acelerado, menstruación, alimentación insuficiente y pérdidas sanguíneas. La hemoglobina permite pesquisa de anemia, considerando altitud al interpretar valores y ajustes exigidos por la normativa local; el diagnóstico etiológico requiere contexto, hemograma e investigación de deficiencia de hierro u otras causas. El examen apunta a una determinación de hemoglobina al año dentro del paquete preventivo, pero la periodicidad puede variar por condiciones clínicas y cambios normativos. Una persona con anemia diagnosticada requiere controles de respuesta terapéutica adicionales, que no son equivalentes al tamizaje periódico.",
+      "fundamento": "La opción A, una medición anual, es la respuesta razonada para el paquete preventivo general del adolescente; requiere cotejo con la norma específica de 2025.",
+      "analisis": {
+        "A": "Periodicidad anual planteada en el paquete preventivo.",
+        "B": "Seis mediciones serían controles clínicos intensivos, no tamizaje general.",
+        "C": "Cuatro controles anuales no son el esquema preventivo general descrito.",
+        "D": "Dos pueden ser necesarias en determinados contextos o controles terapéuticos, no la respuesta general propuesta."
+      },
+      "alerta": "Clave provisional: revisar texto exacto del paquete preventivo adolescente vigente para 2025.",
+      "perlas": [
+        "Tamizaje anual no equivale a seguimiento de anemia en tratamiento.",
+        "Interpretar Hb con atención a la altitud en Perú."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Adolescente sano sin anemia previa acude a control integral.",
+          "clave": "Tamizaje de Hb según periodicidad preventiva vigente."
+        },
+        {
+          "caso": "Adolescente con anemia ferropénica tratada hace un mes.",
+          "clave": "Seguimiento terapéutico distinto del control preventivo anual."
+        },
+        {
+          "caso": "Adolescente que vive en altitud con Hb limítrofe.",
+          "clave": "Aplicar criterios/ajustes normativos pertinentes a altitud."
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "topic": "Planeamiento estratégico CEPLAN: análisis de situación actual",
+      "question": "El análisis de la situación actual es una fase del planeamiento estratégico. ¿En qué fase del ciclo se encuentra?",
+      "options": {
+        "A": "4",
+        "B": "3",
+        "C": "2",
+        "D": "1"
+      },
+      "correct": "D",
+      "temario": "El ciclo de planeamiento estratégico en la metodología CEPLAN incluye conocimiento integral de la realidad, futuro deseado, políticas/planes coordinados y seguimiento/evaluación para la mejora continua. Analizar situación actual equivale al diagnóstico inicial o conocimiento de la realidad, que describe problemas, necesidades, capacidades, actores y tendencias con evidencia cuantitativa y cualitativa. A partir de allí se construyen escenarios y prioridades estratégicas, y después se articulan decisiones y monitoreo. La numeración depende de versión del marco metodológico; el enunciado usa el esquema en que el análisis situacional corresponde a fase 1.",
+      "fundamento": "El análisis de la realidad es el punto de partida del ciclo, opción D (fase 1).",
+      "analisis": {
+        "A": "Fase posterior asociada a seguimiento/evaluación en esquema de cuatro fases.",
+        "B": "No representa el diagnóstico inicial.",
+        "C": "Etapa posterior centrada en proyección o futuro deseado según metodología.",
+        "D": "La primera fase identifica y analiza la situación actual."
+      },
+      "perlas": [
+        "Primero diagnosticar, luego definir futuro deseado y acciones.",
+        "ASIS en salud alimenta decisiones del planeamiento estratégico."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Red identifica brechas de personal, prevalencia de anemia y riesgos territoriales.",
+          "clave": "Análisis de situación actual, fase inicial."
+        },
+        {
+          "caso": "Equipo define cómo desea que esté el territorio en 2035.",
+          "clave": "Formulación de futuro deseado."
+        },
+        {
+          "caso": "Institución revisa indicadores y corrige intervenciones.",
+          "clave": "Seguimiento y evaluación."
+        }
+      ]
+    }
+  ]
+}
