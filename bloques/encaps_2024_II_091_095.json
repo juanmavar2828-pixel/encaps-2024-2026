@@ -1,0 +1,154 @@
+{
+  "bankId": "ENCAPS_2024_II",
+  "source": "Cuadernillo 5960598-medicina-i.pdf, examen SERUMS-MINSA 01/09/2024, página 10. Claves razonadas sin solucionario oficial.",
+  "range": "091-095",
+  "format": "breve",
+  "status": "pendiente_cotejo_oficial_e_integracion",
+  "questions": [
+    {
+      "number": 91,
+      "topic": "Enfermedad de Carrión por Bartonella bacilliformis",
+      "question": "Paciente de 20 años procedente de Camporedondo - Amazonas, presenta fiebre, ictericia y decaimiento hace 10 días acude a emergencia por escalofríos. Examen: PA: 100/70 mmHg, FC: 90 X’, Sat O2: 96% T°: 37,8 °C; AR: MV pasa en ACP; hígado: 15 cm de span. Laboratorio: formas cocobacilares de Bartonella. ¿Cuál es su diagnóstico?",
+      "options": {
+        "A": "Dengue",
+        "B": "Enfermedad de carrión",
+        "C": "Leptospirosis",
+        "D": "Malaria Vivax"
+      },
+      "correct": "B",
+      "temario": "La enfermedad de Carrión es causada por Bartonella bacilliformis y puede producir fiebre, anemia hemolítica e ictericia en fase aguda.",
+      "fundamento": "La identificación de Bartonella y el contexto epidemiológico apoyan enfermedad de Carrión.",
+      "analisis": {
+        "A": "No explica Bartonella en laboratorio.",
+        "B": "Diagnóstico etiológico concordante.",
+        "C": "Puede cursar con ictericia, pero no explica Bartonella.",
+        "D": "Se demuestra con Plasmodium, no Bartonella."
+      },
+      "perlas": [
+        "Bartonella bacilliformis → enfermedad de Carrión."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Paciente de zona endémica presenta fiebre, anemia e identificación de Bartonella.",
+          "clave": "Fase aguda de enfermedad de Carrión."
+        }
+      ]
+    },
+    {
+      "number": 92,
+      "topic": "ESAVI grave por hospitalización",
+      "question": "Mujer de 30 años que, al día siguiente de recibir la vacuna contra la neumonía, refiere fiebre, cefalea y mialgias; dos días después presenta vómitos y diarrea. Sin evidencia de mejora, consulta en un centro de salud y se decide su internamiento. ¿Qué tipo de ESAVI es?",
+      "options": {
+        "A": "Grave",
+        "B": "No grave",
+        "C": "Leve",
+        "D": "Moderado"
+      },
+      "correct": "A",
+      "temario": "En vigilancia de ESAVI, la hospitalización o prolongación de hospitalización es criterio de gravedad, sin demostrar por sí misma causalidad vacunal.",
+      "fundamento": "El internamiento clasifica al evento como ESAVI grave.",
+      "analisis": {
+        "A": "Hospitalización es criterio de ESAVI grave.",
+        "B": "No corresponde por el internamiento.",
+        "C": "No corresponde pese a síntomas inicialmente inespecíficos.",
+        "D": "La clasificación grave prevalece por hospitalización."
+      },
+      "perlas": [
+        "ESAVI grave ≠ reacción necesariamente causada por vacuna."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Evento temporal posterior a vacuna requiere hospitalización.",
+          "clave": "Notificar como ESAVI grave e investigar causalidad."
+        }
+      ]
+    },
+    {
+      "number": 93,
+      "topic": "Gobernanza en salud pública",
+      "question": "¿Cuál de los siguientes enunciados está implicado en la gobernanza en salud pública?",
+      "options": {
+        "A": "Formación de todo tipo de capital",
+        "B": "Transparencia sin rendición de cuentas",
+        "C": "Visión estratégica y ética de la salud",
+        "D": "Responsabilidad de los actores institucionales exclusivamente"
+      },
+      "correct": "C",
+      "temario": "La gobernanza sanitaria implica liderazgo, visión estratégica, principios éticos, transparencia, rendición de cuentas y participación de distintos actores.",
+      "fundamento": "La visión estratégica y ética es compatible con una gobernanza sólida.",
+      "analisis": {
+        "A": "No representa un principio específico de gobernanza sanitaria.",
+        "B": "La transparencia debe acompañarse de rendición de cuentas.",
+        "C": "Expresa orientación estratégica y ética.",
+        "D": "La responsabilidad no corresponde únicamente a actores institucionales."
+      },
+      "perlas": [
+        "Gobernanza = visión + participación + transparencia + rendición de cuentas."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Autoridades planifican decisiones sanitarias con participación y criterios éticos.",
+          "clave": "Buena gobernanza en salud."
+        }
+      ]
+    },
+    {
+      "number": 94,
+      "topic": "Inducción al puesto en la gestión de recursos humanos",
+      "question": "¿Cuál es la gestión del proceso que permite a las entidades socializar y facilitar la interrelación y adaptación de manera planificada de las personas que ingresan a un puesto de la entidad, de forma que se le brinde la información relacionada al funcionamiento general del estado, a su institución, a sus normas internas y a su puesto?",
+      "options": {
+        "A": "Capacitación",
+        "B": "Reunión",
+        "C": "Inducción",
+        "D": "Taller"
+      },
+      "correct": "C",
+      "temario": "La inducción incorpora al trabajador recién ingresado y le comunica las funciones, normas, cultura institucional y reglas del servicio.",
+      "fundamento": "La adaptación planificada del personal nuevo corresponde al proceso de inducción.",
+      "analisis": {
+        "A": "Desarrolla competencias, no equivale necesariamente al ingreso.",
+        "B": "Actividad puntual sin programa de adaptación.",
+        "C": "Proceso de ingreso y familiarización.",
+        "D": "Metodología de capacitación."
+      },
+      "perlas": [
+        "Ingreso de personal → inducción."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Nuevo médico recibe orientación sobre funciones y normas de la entidad.",
+          "clave": "Inducción."
+        }
+      ]
+    },
+    {
+      "number": 95,
+      "topic": "Caso índice en vigilancia epidemiológica",
+      "question": "Nos reportan casos de tos ferina en una comunidad de la selva hace 3 días, es el primer caso que es captado por el servicio de salud. ¿A qué tipo de caso corresponde?",
+      "options": {
+        "A": "Sospechoso",
+        "B": "Índice",
+        "C": "Primario",
+        "D": "Secundario"
+      },
+      "correct": "B",
+      "temario": "Caso índice es el primer caso reconocido o detectado por el sistema en una investigación. Caso primario es el que introduce la enfermedad en el grupo y no necesariamente coincide con el primero detectado.",
+      "fundamento": "La expresión «primer caso que es captado por el servicio de salud» define caso índice.",
+      "analisis": {
+        "A": "Depende de criterios clínicos, no del orden de detección.",
+        "B": "Primer caso identificado por vigilancia.",
+        "C": "Primer infectado o introductor, no necesariamente primer detectado.",
+        "D": "Adquiere la infección de otro caso."
+      },
+      "perlas": [
+        "Índice = primero identificado; primario = primero en la cadena de transmisión."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Vigilancia identifica a una persona enferma y luego halla otros casos anteriores.",
+          "clave": "La primera detectada es caso índice, no necesariamente primario."
+        }
+      ]
+    }
+  ]
+}
