@@ -1,0 +1,179 @@
+{
+  "bankId": "ENCAPS_2025_II",
+  "source": "PDF aportado: Evaluación SERUMS MINSA Medicina I, 24-08-2025, preguntas 86–90",
+  "range": "086-090",
+  "status": "desarrollo_razonado_pendiente_cotejo_claves_oficiales_e_integracion_en_banco",
+  "questions": [
+    {
+      "number": 86,
+      "topic": "Inmunizaciones: prevención de tos ferina en menor de cuatro años",
+      "question": "En un establecimiento de salud de primer nivel recibes un escolar de 4 años en consulta. ¿Cuáles son las vacunas que previenen la tos ferina en este escolar?",
+      "options": {
+        "A": "DPT 3 dosis, pentavalente 2 dosis",
+        "B": "DPT 2 dosis, SPR 1 dosis",
+        "C": "DPT 2 dosis, pentavalente 3 dosis",
+        "D": "DPT 1 dosis, SPR 2 dosis"
+      },
+      "correct": "C",
+      "temario": "La tos ferina es causada por Bordetella pertussis y puede producir tos paroxística, gallo inspiratorio, vómitos postusígenos y apnea en lactantes. En el esquema histórico de Perú pertinente al ítem, la vacuna pentavalente (incluye DPT-HepB-Hib) tiene tres dosis primarias y la DPT dos refuerzos (18 meses y 4 años). Los calendarios pueden modificarse: corroborar esquema vigente en la fecha de atención antes de decidir vacunación. La SPR previene sarampión, parotiditis y rubéola, no pertussis.",
+      "fundamento": "La única opción que contiene las tres dosis primarias de pentavalente y dos refuerzos DPT es C.",
+      "analisis": {
+        "A": "Invierte recuento de pentavalente y DPT.",
+        "B": "SPR no protege contra tos ferina.",
+        "C": "Corresponde al esquema histórico evaluado.",
+        "D": "SPR tampoco previene tos ferina."
+      },
+      "refuerzo": [
+        {
+          "caso": "Lactante requiere serie primaria de vacuna que incluye pertussis.",
+          "clave": "Revisar pentavalente u otras formulaciones del esquema vigente."
+        },
+        {
+          "caso": "Niño de 4 años con vacunación completa según calendario tradicional.",
+          "clave": "Reconocer refuerzo DPT de los 4 años."
+        },
+        {
+          "caso": "Niño recibe SPR.",
+          "clave": "Protege contra sarampión, parotiditis y rubéola; no tos ferina."
+        }
+      ]
+    },
+    {
+      "number": 87,
+      "topic": "Participación comunitaria de agentes comunitarios de salud",
+      "question": "Al fortalecer el trabajo de los promotores de salud/agentes comunitarios de salud, generando mecanismos de participación activa en las estrategias de salud locales; se debe realizar:",
+      "options": {
+        "A": "Reorientar los servicios de salud con enfoque de promoción de la salud",
+        "B": "Reorientación de la inversión hacia la promoción de la salud y el desarrollo local",
+        "C": "Mejorar las condiciones del medio ambiente",
+        "D": "Promover la participación comunitaria conducente al ejercicio de la ciudadanía"
+      },
+      "correct": "D",
+      "temario": "La participación comunitaria en promoción de salud permite que vecinos y agentes comunitarios identifiquen necesidades, codiseñen acciones, vigilen resultados y ejerzan derechos y deberes ciudadanos. No basta convocar a campañas: se busca organización, protagonismo y capacidad de decisión. Los agentes comunitarios son un puente entre comunidad y servicios, con formación y límites claros para detectar signos de alarma, orientar y referir. Reorientación de servicios, inversión y ambientes son líneas distintas aunque complementarias.",
+      "fundamento": "El caso enfatiza mecanismos de participación activa de promotores y agentes, coincidiendo directamente con la alternativa D.",
+      "analisis": {
+        "A": "Describe adecuación de oferta institucional, no el mecanismo comunitario central.",
+        "B": "Aborda asignación de recursos, no participación directa.",
+        "C": "Es un objetivo ambiental de promoción.",
+        "D": "Articula agentes comunitarios, ciudadanía y participación en decisiones locales."
+      },
+      "refuerzo": [
+        {
+          "caso": "Promotores priorizan con vecinos problemas de anemia infantil.",
+          "clave": "Participación comunitaria."
+        },
+        {
+          "caso": "La red redistribuye presupuesto hacia educación sanitaria.",
+          "clave": "Reorientación de inversión."
+        },
+        {
+          "caso": "Centro amplía horario para acceso de trabajadores.",
+          "clave": "Reorientación de servicios."
+        }
+      ]
+    },
+    {
+      "number": 88,
+      "topic": "Atención primaria de salud: principio de integralidad",
+      "question": "Los cuidados vinculados a la promoción, prevención, recuperación y rehabilitación es un principio básico de la Atención Primaria de Salud. ¿A qué principio se refiere?",
+      "options": {
+        "A": "Universalidad",
+        "B": "Equidad en salud",
+        "C": "Calidad",
+        "D": "Integralidad"
+      },
+      "correct": "D",
+      "temario": "La integralidad en Atención Primaria de Salud cubre necesidades biopsicosociales de persona, familia y comunidad, a lo largo del curso de vida. Integra promoción, prevención, atención de enfermedad, recuperación, rehabilitación y, según necesidades, cuidados paliativos. Universalidad es acceso para todos; equidad ajusta recursos según necesidades; calidad se refiere a atención segura, efectiva y centrada en la persona. Integralidad no equivale a fragmentación por programas ni a mera suma de consultas.",
+      "fundamento": "La combinación de promoción, prevención, recuperación y rehabilitación define atención integral.",
+      "analisis": {
+        "A": "Abarca a toda la población, pero no define amplitud de cuidados.",
+        "B": "Considera desigualdades de necesidades y acceso.",
+        "C": "Evalúa seguridad y efectividad de prestaciones.",
+        "D": "Integra las dimensiones de cuidado de salud."
+      },
+      "refuerzo": [
+        {
+          "caso": "Centro brinda vacunas, control de DM2 y rehabilitación.",
+          "clave": "Integralidad."
+        },
+        {
+          "caso": "Atención accesible a toda la población sin exclusión.",
+          "clave": "Universalidad."
+        },
+        {
+          "caso": "Se asignan brigadas adicionales a zonas remotas.",
+          "clave": "Equidad."
+        }
+      ]
+    },
+    {
+      "number": 89,
+      "topic": "Prediabetes: glucosa alterada en ayunas y confirmación diagnóstica",
+      "question": "Varón de 50 años obeso, somnoliento, IMC 32, glucemia plasmática en ayunas 120 mg/dL. ¿Cuál es el siguiente paso más adecuado para el diagnóstico?",
+      "options": {
+        "A": "Realizar un dosaje de hemoglogina glicosialda",
+        "B": "Realizar un test de tolerancia a la glucosa",
+        "C": "Repetir el examen de glicemia plasmática",
+        "D": "Realizar un dosaje de insulina plasmática"
+      },
+      "correct": "B",
+      "temario": "Glucosa plasmática en ayunas de 120 mg/dL se ubica en glucosa alterada en ayunas/prediabetes bajo criterios ADA (100–125 mg/dL) y también supera umbral OMS de 110 mg/dL. Diabetes requiere glucosa ayunas ≥126 mg/dL, HbA1c ≥6,5% con método estandarizado, glucosa 2 h de PTOG ≥200 mg/dL o glucosa casual ≥200 con síntomas clásicos; sin hiperglucemia inequívoca se confirma con una segunda prueba. La PTOG 75 g identifica intolerancia a la glucosa y puede revelar diabetes no detectada en ayunas. HbA1c también es alternativa diagnóstica válida; la pregunta no delimita norma ni finalidad de distinguir intolerancia y diabetes, así que B es razonada, no inequívoca.",
+      "fundamento": "La PTOG ayuda a caracterizar disglicemia y detectar intolerancia a glucosa; sin embargo A y C pueden ser apropiadas según objetivo clínico. Verificar solución oficial.",
+      "analisis": {
+        "A": "HbA1c aporta evaluación diagnóstica válida y riesgo; plausible.",
+        "B": "PTOG identifica intolerancia y diabetes pese a ayuno inferior a 126; respuesta razonada.",
+        "C": "Repetición de glucosa es pertinente para corroborar valor alterado, pero no identifica tolerancia poscarga.",
+        "D": "Insulinemia no es prueba estándar para diagnosticar diabetes/prediabetes."
+      },
+      "alerta": "Pregunta con más de un paso defendible; no memorizar PTOG como única prueba posible.",
+      "refuerzo": [
+        {
+          "caso": "Ayunas 118 mg/dL, PTOG a 2 h 168 mg/dL.",
+          "clave": "Intolerancia a la glucosa (prediabetes)."
+        },
+        {
+          "caso": "Ayunas 132 mg/dL en paciente asintomático.",
+          "clave": "Confirmar diagnóstico con segunda prueba válida."
+        },
+        {
+          "caso": "PTOG 2 horas 215 mg/dL.",
+          "clave": "Criterio diagnóstico de diabetes, confirmar si procede."
+        }
+      ]
+    },
+    {
+      "number": 90,
+      "topic": "Accidente cerebrovascular agudo y emergencia neurológica",
+      "question": "Varón de 68 años con HTA mal controlada, cefalea progresiva, deterioro de conciencia, hemiparesia derecha y Glasgow 9, PA 180/95 mmHg. ¿Conducta?",
+      "options": {
+        "A": "Realizar pruebas de laboratorio",
+        "B": "Observación y monitoreo",
+        "C": "Referir a centro hospitalario",
+        "D": "Control gasométrico"
+      },
+      "correct": "C",
+      "temario": "Déficit neurológico focal agudo y deterioro del sensorio sugieren accidente cerebrovascular (isquémico o hemorrágico), que no puede diferenciarse sin tomografía cerebral urgente. Evaluar ABC, vía aérea por GCS 9 y tendencia clínica, glucemia capilar para descartar mimetizadores, saturación, presión arterial, hora de última vez visto sano y escala neurológica. No administrar antiagregantes ni fibrinolíticos sin excluir hemorragia y comprobar criterios. Priorizar traslado con soporte a establecimiento con neuroimagen y capacidad resolutiva. La presión no debe reducirse bruscamente sin indicación específica.",
+      "fundamento": "El compromiso neurológico severo requiere referencia hospitalaria inmediata, con estabilización durante traslado.",
+      "analisis": {
+        "A": "Los análisis complementan, pero no deben retrasar tomografía ni traslado.",
+        "B": "Observar en primer nivel es insuficiente ante Glasgow 9 y hemiparesia.",
+        "C": "Permite evaluación neurológica urgente, neuroimagen y tratamiento según causa.",
+        "D": "Gasometría puede ser útil según compromiso respiratorio, no reemplaza atención de ictus."
+      },
+      "refuerzo": [
+        {
+          "caso": "Hemiparesia súbita con glucemia 45 mg/dL.",
+          "clave": "Corregir hipoglucemia y reevaluar déficit como potencial imitador de ictus."
+        },
+        {
+          "caso": "Cefalea explosiva y compromiso de conciencia.",
+          "clave": "Sospechar hemorragia intracraneal; neuroimagen urgente."
+        },
+        {
+          "caso": "Afasia de comienzo reciente, hora de inicio conocida.",
+          "clave": "Activar código ictus y evaluación de reperfusión si elegible."
+        }
+      ]
+    }
+  ]
+}
