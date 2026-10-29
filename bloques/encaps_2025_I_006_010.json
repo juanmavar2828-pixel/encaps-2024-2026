@@ -1,0 +1,201 @@
+{
+  "bankId": "ENCAPS_2025_I",
+  "examType": "Medicina-I, cuadernillo aportado",
+  "source": "PDF del usuario: ENCAPS 2025-I Medicina I 06 de abril 2025, preguntas 6–10",
+  "range": "006-010",
+  "status": "desarrollo_razonado_pendiente_cotejo_claves_oficiales_e_integracion_en_app",
+  "questions": [
+    {
+      "number": 6,
+      "topic": "Farmacovigilancia: sospecha de reacción adversa a metamizol en gestante",
+      "question": "Milena, una obstetra serumista coloca una ampolla intramuscular de metamizol a una gestante que viene con fiebre, minutos después siente mareos, nauseas y se observa en la zona de aplicación un rash; por tanto ella debe consignar en la historia clínica de manera obligatoria las sospechas de reacciones adversas y reportarlas en el formato correspondiente y remitirlo al comité de ...... y tecnovigilancia de la IPRESS en los plazos correspondientes.",
+      "options": {
+        "A": "auditoría interna",
+        "B": "auditoría externa",
+        "C": "control interno",
+        "D": "farmacovigilancia"
+      },
+      "correct": "D",
+      "temario": "La farmacovigilancia comprende detección, evaluación, comprensión y prevención de reacciones adversas a medicamentos (RAM) y otros problemas asociados. Una sospecha de RAM se registra en historia clínica y se notifica mediante los canales institucionales establecidos; la causalidad definitiva no es requisito para notificar. El inicio rápido de mareo, náuseas y exantema tras un fármaco obliga primero a evaluar gravedad: presión arterial, estado respiratorio, compromiso cutáneo generalizado y posibilidad de anafilaxia. Si existe anafilaxia, administrar adrenalina intramuscular oportunamente según protocolo y soporte ABC, sin retrasar tratamiento por formularios. Diferenciar farmacovigilancia de tecnovigilancia, que se centra en dispositivos médicos. En embarazo, reevaluar indicación y seguridad de cada medicamento.",
+      "fundamento": "La frase institucional se completa 'comité de farmacovigilancia y tecnovigilancia'. La obligación de reportar sospechas de RAM corresponde a farmacovigilancia.",
+      "analisis": {
+        "A": "Auditoría interna revisa procesos, no es el comité receptor específico de notificaciones de RAM.",
+        "B": "Auditoría externa tampoco designa la estructura de notificación.",
+        "C": "Control interno supervisa gestión, sin sustituir farmacovigilancia.",
+        "D": "Es el sistema de vigilancia de seguridad de medicamentos."
+      },
+      "perlas": [
+        "Sospecha de RAM basta para notificar; no esperar prueba de causalidad.",
+        "Primero estabilizar al paciente; después completar notificación."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Tras antibiótico, paciente desarrolla urticaria y broncoespasmo.",
+          "clave": "Sospechar anafilaxia, tratar inmediatamente y notificar RAM."
+        },
+        {
+          "caso": "Glucómetro defectuoso entrega mediciones erróneas.",
+          "clave": "Corresponde a tecnovigilancia de dispositivo médico."
+        },
+        {
+          "caso": "Paciente presenta rash leve tras nuevo fármaco.",
+          "clave": "Documentar y notificar sospecha de RAM."
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "topic": "Metodología de investigación: construcción de la pregunta",
+      "question": "Al llegar a su comunidad de SERUMS observa que hay baja adherencia a la lactancia materna por lo cual plantea hacer una investigación sobre factores asociados a lactancia materna. ¿Qué debe realizar en primer lugar para su estudio?",
+      "options": {
+        "A": "Definir sus instrumentos de medición",
+        "B": "Revisar literatura científica sobre el tema",
+        "C": "Elaborar su pregunta de investigación",
+        "D": "Elegir los objetivos de estudio"
+      },
+      "correct": "C",
+      "temario": "El proceso de investigación parte de identificar y delimitar un problema, formular una pregunta investigable y definir población, variables, contexto y resultados. La pregunta puede estructurarse con PEO (población, exposición, desenlace) para estudios observacionales; ejemplo: en madres de menores de seis meses, ¿qué factores se asocian con lactancia materna exclusiva? Después se revisa literatura para identificar vacíos y refinar pregunta, se establecen objetivos e hipótesis cuando correspondan, diseño, muestreo, instrumentos válidos y plan de análisis. En la práctica la búsqueda bibliográfica puede preceder o acompañar formulación; el ítem examina secuencia didáctica en que la pregunta dirige pasos posteriores.",
+      "fundamento": "La alternativa C explicita el primer paso operativo que organiza objetivos y mediciones. La revisión bibliográfica es también temprana, pero su función principal aquí es afinar la pregunta.",
+      "analisis": {
+        "A": "Instrumentos se eligen después de definir qué variables medir.",
+        "B": "Paso temprano e importante; puede anteceder refinamiento, pero no sustituye formular pregunta de estudio.",
+        "C": "Define el problema preciso y orienta objetivos, diseño y variables.",
+        "D": "Los objetivos se derivan de la pregunta previamente formulada."
+      },
+      "alerta": "Secuencia pedagógica no es rígida: revisar literatura puede ocurrir antes de cerrar la pregunta. Clave razonada pendiente de cotejo oficial.",
+      "perlas": [
+        "Pregunta específica precede elección de instrumentos.",
+        "PEO: población, exposición, outcome/desenlace."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Serumista desea investigar anemia infantil sin definir grupo etario.",
+          "clave": "Delimitar población y elaborar pregunta."
+        },
+        {
+          "caso": "Estudio de lactancia ya define pregunta y objetivos.",
+          "clave": "Elegir diseño e instrumentos validados."
+        },
+        {
+          "caso": "Se encuentran estudios similares con variables no consideradas.",
+          "clave": "Refinar pregunta con revisión bibliográfica."
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "topic": "Planeamiento público: estrategias institucionales y alineamiento de objetivos",
+      "question": "Si se orienta la formulación y actualización de las políticas y los planes en todos los niveles del gobierno, se refiere a ...…, a las cuales debe alinear sus objetivos operativos.",
+      "options": {
+        "A": "desarrollos institucionales",
+        "B": "estrategias institucionales",
+        "C": "acciones institucionales",
+        "D": "organizaciones institucionales"
+      },
+      "correct": "B",
+      "temario": "El planeamiento en gestión pública articula políticas y objetivos estratégicos de distintos niveles con decisiones institucionales y acciones operativas. Las estrategias establecen enfoques para alcanzar objetivos y orientan priorización de acciones, recursos y seguimiento. En el sistema peruano CEPLAN deben distinguirse objetivos estratégicos institucionales, acciones estratégicas institucionales del PEI y actividades operativas del POI; los objetivos operativos deben mantener coherencia con la planificación superior. El ítem usa una formulación que no reproduce una definición normativa inequívoca, por lo que la elección debe cotejarse con texto fuente oficial en vez de memorizarlo como regla universal.",
+      "fundamento": "Entre las expresiones ofrecidas, 'estrategias institucionales' es la aproximación conceptual más cercana a directrices a las cuales se alinean objetivos operativos.",
+      "analisis": {
+        "A": "Expresión amplia que no designa la categoría de alineamiento estratégico.",
+        "B": "Una estrategia orienta decisiones y despliegue operativo, aunque no se ha identificado norma literal de origen.",
+        "C": "Las acciones institucionales desarrollan una estrategia; la denominación puede tener sentido normativo específico en CEPLAN.",
+        "D": "Son entidades o estructuras, no políticas orientadoras de objetivos operativos."
+      },
+      "alerta": "Clave provisional: terminología potencialmente ambigua respecto de 'acciones estratégicas institucionales' de CEPLAN. Verificar solución oficial.",
+      "perlas": [
+        "PEI orienta estrategia institucional; POI programa actividades y recursos.",
+        "No confundir objetivo estratégico, acción estratégica y actividad operativa."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Red sanitaria fija objetivo de reducir anemia y prioriza intervenciones.",
+          "clave": "Articulación de objetivos y estrategias."
+        },
+        {
+          "caso": "Centro programa visitas domiciliarias y presupuesto trimestral.",
+          "clave": "Programación operativa POI."
+        },
+        {
+          "caso": "Institución formula acciones para mejorar acceso y cobertura.",
+          "clave": "Despliegue de estrategia hacia actividad operativa."
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "topic": "Control glucémico en diabetes tipo 2: metas individualizadas de HbA1c",
+      "question": "En el manejo integral de una paciente de 50 años con diabetes mellitus tipo II. ¿Qué valor de hemoglobina glicosilada indica un control metabólico óptimo?",
+      "options": {
+        "A": "< 7.5%",
+        "B": "< 7%",
+        "C": "< 6.5%",
+        "D": "< 6%"
+      },
+      "correct": "B",
+      "temario": "La HbA1c refleja glucemia media de aproximadamente dos a tres meses, con mayor peso de semanas recientes. Para la mayoría de adultos con diabetes tipo 2 no gestantes, una meta general de HbA1c menor de 7% equilibra prevención de complicaciones microvasculares e hipoglucemia. En pacientes jóvenes y con bajo riesgo de hipoglucemia puede considerarse menos de 6,5%; en fragilidad, comorbilidad importante o limitado pronóstico, metas menos estrictas. Para interpretar HbA1c considerar anemia, hemoglobinopatías, transfusión, enfermedad renal avanzada y alteraciones de vida eritrocitaria, que pueden producir discrepancias con glucosa real. Control integral incluye PA, lípidos, albuminuria, ojos, pies y autocuidado.",
+      "fundamento": "Sin datos que indiquen objetivo intensivo o flexible, la meta estándar es HbA1c <7%, alternativa B.",
+      "analisis": {
+        "A": "Puede ser meta flexible para ciertos pacientes, no la general óptima.",
+        "B": "Meta convencional de control para la mayoría de adultos no gestantes.",
+        "C": "Meta intensiva individualizable, no universal.",
+        "D": "Objetivo excesivamente estricto para uso general, con riesgo de hipoglucemia si el tratamiento la provoca."
+      },
+      "perlas": [
+        "HbA1c <7% es meta general, no cifra obligatoria para todos.",
+        "Anemia y ERC avanzada pueden distorsionar HbA1c."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Adulto 50 años con DM2 sin comorbilidad y bajo riesgo de hipoglucemia.",
+          "clave": "Meta general HbA1c <7%."
+        },
+        {
+          "caso": "Adulto mayor frágil con hipoglucemias recurrentes.",
+          "clave": "Individualizar meta menos estricta."
+        },
+        {
+          "caso": "Persona con anemia severa y HbA1c discordante con glucemias.",
+          "clave": "Interpretar con cautela y usar monitoreo glucémico."
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "topic": "Parto vertical, interculturalidad y autonomía de la gestante",
+      "question": "Llega al centro materno una gestante proveniente del sur de nuestro país, quién solicita tener un parto vertical. Como profesional de la salud. ¿Cómo procedería para atender y responder al requerimiento de la paciente?",
+      "options": {
+        "A": "Persuadir su deseo",
+        "B": "Denegarle la atención",
+        "C": "Respetar su pedido",
+        "D": "Enviarla a otro establecimiento"
+      },
+      "correct": "C",
+      "temario": "La atención materna con pertinencia cultural reconoce preferencias, idioma, posición de parto, acompañamiento y autonomía. Ante solicitud de parto vertical, informar posibilidades, evaluar estado obstétrico y seguridad, disponer equipo y personal capacitado, y facilitar posición elegida siempre que no exista contraindicación clínica. El consentimiento informado y la dignidad no dependen del origen de la mujer. La posición no debe imponerse ni negarse por estereotipos. La derivación se plantea solo si la capacidad resolutiva es insuficiente o existen complicaciones, con estabilización y coordinación. La práctica se integra a vigilancia de bienestar maternofetal y manejo oportuno de emergencias.",
+      "fundamento": "Respetar el pedido de la gestante representa autonomía y pertinencia cultural; la implementación debe garantizar seguridad clínica.",
+      "analisis": {
+        "A": "Persuadir para abandonar su preferencia sin razón clínica vulnera autonomía.",
+        "B": "Negar atención por preferencia cultural es discriminatorio.",
+        "C": "Permite decisión informada y atención intercultural segura.",
+        "D": "Derivar automáticamente no corresponde si el establecimiento puede atender de forma segura."
+      },
+      "perlas": [
+        "Parto vertical es opción informada, no obligación cultural.",
+        "Seguridad obstétrica y respeto de preferencias son complementarios."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Gestante sin complicaciones solicita parto en cuclillas.",
+          "clave": "Facilitar posición vertical si hay capacidad segura."
+        },
+        {
+          "caso": "Paciente prefiere decúbito lateral tras consejería.",
+          "clave": "Respetar elección individual."
+        },
+        {
+          "caso": "Complicación fetal requiere atención quirúrgica no disponible.",
+          "clave": "Estabilizar y referir según protocolos, explicando motivos."
+        }
+      ]
+    }
+  ]
+}
