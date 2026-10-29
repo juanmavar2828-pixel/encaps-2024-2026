@@ -1,0 +1,156 @@
+{
+  "bankId": "ENCAPS_2024_II",
+  "source": "Cuadernillo original MEDICINA-I, SERUMS-MINSA, 01/09/2024, página 7. Claves razonadas, no oficiales.",
+  "range": "061-065",
+  "format": "breve",
+  "status": "pendiente_cotejo_claves_e_integracion",
+  "questions": [
+    {
+      "number": 61,
+      "topic": "Pruebas de cribado: aceptabilidad",
+      "question": "De los factores relativos a las pruebas; el que se relaciona con la operatividad de las pruebas es la…",
+      "options": {
+        "A": "sensibilidad.",
+        "B": "susceptibilidad.",
+        "C": "validez.",
+        "D": "aceptabilidad."
+      },
+      "correct": "D",
+      "temario": "La aceptabilidad de una prueba refleja si usuarios y personal están dispuestos a realizarla; condiciona la implementación operativa de programas de cribado.",
+      "fundamento": "Entre las opciones, aceptabilidad es el factor operativo de la prueba.",
+      "analisis": {
+        "A": "Mide detección de verdaderos enfermos.",
+        "B": "No es índice operativo estándar de la prueba.",
+        "C": "Evalúa capacidad para medir o clasificar correctamente.",
+        "D": "Condiciona uso real de la prueba."
+      },
+      "perlas": [
+        "Prueba eficaz pero no aceptada = poca cobertura."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Una prueba dolorosa tiene baja participación poblacional pese a buena precisión.",
+          "clave": "Problema de aceptabilidad."
+        }
+      ]
+    },
+    {
+      "number": 62,
+      "topic": "Vías de cuidados integrales en redes integradas",
+      "question": "Herramienta de gestión para los cuidados integrales en la RIS, que define las condiciones necesarias para asegurar la integralidad y longitudinalidad, de las personas, familias y comunidades en diferentes escenarios. ¿A qué corresponde?",
+      "options": {
+        "A": "Modelo de cuidado integral",
+        "B": "Vías de cuidados integrales de salud",
+        "C": "Equipo multidisciplinario de salud",
+        "D": "Modelo de atención integral"
+      },
+      "correct": "B",
+      "temario": "Las vías de cuidado integral organizan las prestaciones y condiciones necesarias para continuidad, integralidad y coordinación en las Redes Integradas de Salud.",
+      "fundamento": "La descripción de una herramienta de gestión que operacionaliza cuidados corresponde a las vías de cuidados integrales.",
+      "analisis": {
+        "A": "Marco general de cuidado.",
+        "B": "Herramienta que organiza rutas de atención y continuidad.",
+        "C": "Grupo de profesionales, no herramienta de gestión.",
+        "D": "Modelo conceptual, no vía operativa."
+      },
+      "alerta": "Clave razonada; cotejar la definición textual en la norma MINSA aplicable.",
+      "perlas": [
+        "Modelo define enfoque; vías organizan recorridos de atención."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Una RIS fija rutas de referencia y seguimiento del paciente crónico.",
+          "clave": "Vías de cuidado integral."
+        }
+      ]
+    },
+    {
+      "number": 63,
+      "topic": "Diagnóstico organizacional: FODA",
+      "question": "El equipo de gestión de la calidad de un establecimiento de salud, desea hacer un plan de mejora continua de los servicios del establecimiento. Para tal fin, indica a los jefes de cada servicio realizar un diagnóstico situacional de su área como línea de base; teniendo en cuenta aspectos de análisis de intorno, entorno. ¿Qué herramienta utilizaría Ud. para realizar el diagnóstico situacional?",
+      "options": {
+        "A": "Matriz de la problematización",
+        "B": "FODA",
+        "C": "Matriz de causa efecto",
+        "D": "Árbol de problemas"
+      },
+      "correct": "B",
+      "temario": "FODA combina fortalezas y debilidades internas con oportunidades y amenazas externas, útil para diagnóstico situacional.",
+      "fundamento": "Análisis interno y externo identifica matriz FODA.",
+      "analisis": {
+        "A": "Identifica problemas, sin dividir entorno y condiciones internas.",
+        "B": "Evalúa fortalezas, oportunidades, debilidades y amenazas.",
+        "C": "Explora causas de un problema.",
+        "D": "Ordena causas y efectos."
+      },
+      "perlas": [
+        "FODA: F y D internas; O y A externas."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Servicio reconoce personal entrenado y escasez de insumos junto a nuevas alianzas regionales.",
+          "clave": "Aplicar FODA."
+        }
+      ]
+    },
+    {
+      "number": 64,
+      "topic": "Prediabetes por glucosa en ayunas",
+      "question": "La pre diabetes se puede identificar a través de la glicemia en ayunas con un valor entre ...... mg/dl.",
+      "options": {
+        "A": "130-200",
+        "B": "60 - 80",
+        "C": "200 - 250",
+        "D": "100-125"
+      },
+      "correct": "D",
+      "temario": "La glucemia alterada en ayunas se sitúa en 100–125 mg/dl según criterios ADA; a partir de 126 mg/dl requiere confirmación diagnóstica cuando corresponda.",
+      "fundamento": "100–125 mg/dl es el rango esperado de prediabetes.",
+      "analisis": {
+        "A": "Incluye niveles diagnósticos de diabetes.",
+        "B": "Valores normales o bajos.",
+        "C": "Rango de hiperglucemia marcada.",
+        "D": "Glucosa alterada en ayunas."
+      },
+      "perlas": [
+        "Ayunas 100–125 = prediabetes; ≥126 = criterio de diabetes."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Paciente asintomático tiene glucemia en ayunas 112 mg/dl.",
+          "clave": "Prediabetes según criterio ADA."
+        }
+      ]
+    },
+    {
+      "number": 65,
+      "topic": "Responsabilidad por asignación irregular de funciones",
+      "question": "El director de la DIRIS descubre que un personal CAS contratado como técnico asistencial y estudiante de una carrera universitaria de salud, viene realizando actividades de un profesional; al ser descubierto indica que dichas funciones fueron otorgadas por su jefe inmediato superior. ¿A quién se debe sancionar?",
+      "options": {
+        "A": "Al responsable de recursos humanos",
+        "B": "Al responsable de la DIRIS",
+        "C": "Al jefe del establecimiento de salud",
+        "D": "Al jefe inmediato"
+      },
+      "correct": "D",
+      "temario": "La asignación de funciones profesionales a personal no habilitado exige determinar responsabilidades administrativas según competencia, orden efectivamente impartida y procedimiento disciplinario.",
+      "fundamento": "La opción D identifica al superior que asignó funciones incompatibles con el cargo; toda sanción requiere investigación y debido procedimiento.",
+      "analisis": {
+        "A": "No consta participación directa de RR. HH.",
+        "B": "La dirección no es responsable automáticamente por jerarquía.",
+        "C": "No se demuestra que sea quien impartió la orden.",
+        "D": "Es quien habría autorizado las funciones irregulares."
+      },
+      "alerta": "No cabe sanción automática; comprobar la responsabilidad disciplinaria individual conforme a norma.",
+      "perlas": [
+        "Asignar funciones fuera de competencia no habilita ejercicio profesional."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Jefe dispone que técnico ejecute actos reservados a profesional colegiado.",
+          "clave": "Investigar responsabilidad del jefe que impartió orden y del ejecutor según hechos."
+        }
+      ]
+    }
+  ]
+}
