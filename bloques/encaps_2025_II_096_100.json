@@ -1,0 +1,183 @@
+{
+  "bankId": "ENCAPS_2025_II",
+  "source": "PDF del usuario: Evaluación SERUMS-MINSA Medicina I 24/08/2025 preguntas 96–100",
+  "range": "096-100",
+  "status": "desarrollo_razonado_pendiente_cotejo_claves_oficiales_e_integracion_en_banco",
+  "questions": [
+    {
+      "number": 96,
+      "topic": "Plan de Salud Local y gestión participativa CLAS",
+      "question": "Es el documento de gestión participativa y concertada de vigencia anual, elaborado bajo conducción de CLAS y jefes de establecimientos según normas MINSA, que orienta intervenciones a necesidades locales priorizadas. ¿Cuál es?",
+      "options": {
+        "A": "Análisis situacional en salud",
+        "B": "Plan de salud local",
+        "C": "Promoción de la salud",
+        "D": "Sistema de vigilancia"
+      },
+      "correct": "B",
+      "temario": "El Plan de Salud Local (PSL) es instrumento anual participativo para priorizar problemas sanitarios del ámbito, definir actividades, responsables y metas en cogestión con la comunidad y las asociaciones CLAS. Se sustenta en diagnóstico territorial, características de población, recursos y determinantes. Diferenciar del ASIS, que proporciona diagnóstico; de vigilancia, que detecta y sigue eventos; y de promoción, que constituye un campo de intervención. La gobernanza requiere rendición de cuentas y seguimiento de resultados.",
+      "fundamento": "La referencia a vigencia anual, CLAS y priorización concertada identifica directamente el Plan de Salud Local.",
+      "analisis": {
+        "A": "Aporta evidencia diagnóstica, pero no es el plan anual concertado.",
+        "B": "Es el instrumento de gestión local solicitado.",
+        "C": "Conjunto de intervenciones, no documento de gestión.",
+        "D": "Proceso de seguimiento epidemiológico, no plan anual CLAS."
+      },
+      "refuerzo": [
+        {
+          "caso": "CLAS define metas anuales para disminuir anemia infantil.",
+          "clave": "Plan de Salud Local."
+        },
+        {
+          "caso": "Equipo describe distribución de anemia, dengue y desnutrición.",
+          "clave": "ASIS."
+        },
+        {
+          "caso": "Establecimiento reporta casos semanales de enfermedad sujeta a vigilancia.",
+          "clave": "Sistema de vigilancia epidemiológica."
+        }
+      ]
+    },
+    {
+      "number": 97,
+      "topic": "Esquema de inmunizaciones: influenza en lactante de seis meses",
+      "question": "Lactante masculino eutrófico de seis meses, con esquema actualizado, acude para su próxima inmunización. ¿Qué le corresponde?",
+      "options": {
+        "A": "2da dosis de influenza",
+        "B": "1ra dosis de influenza",
+        "C": "1ra dosis de vacuna sarampión, paperas, rubéola (SPR)",
+        "D": "Dosis única vacuna antiamarílica (AMA)"
+      },
+      "correct": "B",
+      "temario": "La vacuna contra influenza inactivada se indica a partir de los seis meses. Para un niño pequeño que la recibe por primera vez, el esquema histórico contempla dos dosis separadas por al menos cuatro semanas, con ajustes según edad, antecedentes y normativa vigente. A los seis meses corresponde primera dosis; la segunda se programa después. SPR suele comenzar más adelante, y antiamarílica depende de edad e indicación geográfica según esquema nacional. Siempre revisar el calendario MINSA vigente en la fecha de atención.",
+      "fundamento": "A los seis meses, sin registro previo de vacuna influenza, corresponde iniciar con la primera dosis.",
+      "analisis": {
+        "A": "La segunda dosis requiere haber recibido la primera previamente.",
+        "B": "Es el inicio de inmunización antigripal en esta edad.",
+        "C": "SPR no corresponde habitualmente a seis meses en esquema rutinario.",
+        "D": "La vacuna antiamarílica no es la dosis rutinaria indicada a los seis meses."
+      },
+      "refuerzo": [
+        {
+          "caso": "Niño de seis meses nunca vacunado contra influenza.",
+          "clave": "Primera dosis contra influenza."
+        },
+        {
+          "caso": "Lactante recibió primera dosis de influenza hace cinco semanas.",
+          "clave": "Valorar segunda dosis según esquema."
+        },
+        {
+          "caso": "Niño de un año acude para vacunas habituales.",
+          "clave": "Revisar esquema nacional de SPR y otras vacunas por edad."
+        }
+      ]
+    },
+    {
+      "number": 98,
+      "topic": "Epidemiología para movilización social y gestión de recursos",
+      "question": "Serumista presenta a municipalidad, comunidad y DIRIS aumento de nuevos diagnósticos de VIH en jóvenes y solicita apoyo para construir un área de atención. ¿Para qué sirve la información epidemiológica recogida?",
+      "options": {
+        "A": "Consolidar el compromiso de la lucha contra el VIH",
+        "B": "Movilizar a la comunidad y pedir recursos",
+        "C": "Identificar los factores causales",
+        "D": "Saber la magnitud de la epidemia del VIH"
+      },
+      "correct": "B",
+      "temario": "La información epidemiológica permite cuantificar magnitud y tendencia de problemas, caracterizar poblaciones afectadas, priorizar intervenciones, orientar presupuestos y evaluar impacto. En este caso se presenta evidencia de aumento de diagnósticos a autoridades y comunidad para justificar infraestructura y recursos: función de abogacía sanitaria, movilización intersectorial y gestión basada en datos. La incidencia de diagnósticos no equivale necesariamente a incidencia real de infección si cambió el acceso al tamizaje; interpretar denominadores y tendencia.",
+      "fundamento": "El uso explícito es sustentar solicitud de apoyo e inversión; la opción B coincide con esa aplicación práctica.",
+      "analisis": {
+        "A": "Puede fortalecer compromiso, pero el objetivo descrito es conseguir recursos.",
+        "B": "Utiliza evidencia para movilización y solicitud de recursos.",
+        "C": "No se presenta estudio analítico causal.",
+        "D": "Cuantificar magnitud es paso previo, pero aquí se usa información para decisión de recursos."
+      },
+      "refuerzo": [
+        {
+          "caso": "Red utiliza mapa de casos de dengue para solicitar brigadas.",
+          "clave": "Asignación de recursos mediante información epidemiológica."
+        },
+        {
+          "caso": "Equipo calcula tasa de nuevos diagnósticos de VIH por año.",
+          "clave": "Descripción de tendencia y magnitud."
+        },
+        {
+          "caso": "Investigadores comparan factores de exposición entre casos y controles.",
+          "clave": "Investigación etiológica analítica."
+        }
+      ]
+    },
+    {
+      "number": 99,
+      "topic": "Hepatitis A y síndrome ictérico pediátrico",
+      "question": "Niño de diez años con astenia, ictericia cutánea y escleral, y acolia; sin otros datos epidemiológicos. ¿Diagnóstico más probable?",
+      "options": {
+        "A": "Paludismo",
+        "B": "Dengue con signos de alarma",
+        "C": "Hepatitis A",
+        "D": "Hepatitis B"
+      },
+      "correct": "C",
+      "temario": "La hepatitis A es infección viral fecal-oral, frecuente en población pediátrica no inmunizada; puede producir pródromo de astenia, malestar y luego ictericia, coluria y heces hipocolóricas o acólicas. Acolia refleja disminución de pigmentos biliares intestinales y obliga descartar colestasis u obstrucción, no es exclusiva de hepatitis A. Confirmación mediante anti-HAV IgM e interpretación clínica, perfil hepático, bilirrubinas y estudios adicionales según signos de alarma. Hepatitis B también puede presentarse con ictericia: la edad y prevalencia no son pruebas etiológicas. Malaria hemolítica puede causar ictericia, pero acolia es menos típica.",
+      "fundamento": "Entre las opciones y con contexto pediátrico, hepatitis A es diagnóstico epidemiológicamente plausible; no queda demostrada sin serología y evaluación hepática.",
+      "analisis": {
+        "A": "Puede provocar ictericia hemolítica, pero la acolia sugiere componente hepatobiliar.",
+        "B": "No se describen fiebre u otros signos de dengue y acolia no es característica central.",
+        "C": "Cuadro compatible con hepatitis viral aguda pediátrica, especialmente A.",
+        "D": "Diagnóstico diferencial real, pero sin antecedentes ni pruebas que lo favorezcan."
+      },
+      "alerta": "Ítem clínicamente insuficiente para confirmar etiología de hepatitis; acolia persistente requiere descartar obstrucción biliar.",
+      "refuerzo": [
+        {
+          "caso": "Niño con ictericia y anti-HAV IgM positiva.",
+          "clave": "Hepatitis A aguda."
+        },
+        {
+          "caso": "Paciente con ictericia, coluria y HBsAg reactivo más anti-HBc IgM.",
+          "clave": "Hepatitis B aguda."
+        },
+        {
+          "caso": "Niño con acolia persistente y dilatación de vía biliar.",
+          "clave": "Evaluar causa obstructiva de colestasis."
+        }
+      ]
+    },
+    {
+      "number": 100,
+      "topic": "Parto vertical y pertinencia cultural",
+      "question": "Mujer andina quechuahablante de 39,4 semanas, controles prenatales normales y embarazo sin alteraciones, acude para parto. ¿Qué modalidad promueve para interculturalidad?",
+      "options": {
+        "A": "Cesárea",
+        "B": "Parto domiciliario",
+        "C": "Parto horizontal",
+        "D": "Parto vertical"
+      },
+      "correct": "D",
+      "temario": "La atención del parto con pertinencia cultural considera idioma, creencias, elección informada de posiciones, acompañamiento, privacidad y comunicación respetuosa sin sacrificar seguridad maternofetal. El parto vertical es una modalidad institucional que puede responder a preferencias de muchas gestantes andinas; no debe imponerse por su identidad cultural. Debe ofrecerse información, evaluar riesgo obstétrico, garantizar personal preparado y disponibilidad de manejo de complicaciones/referencia. Cesárea solo por indicación obstétrica; parto domiciliario no es sustituto de un parto institucional seguro.",
+      "fundamento": "El caso busca reconocer la modalidad de parto vertical como práctica de adecuación intercultural, opción D.",
+      "analisis": {
+        "A": "No indicada solo por identidad cultural ni por embarazo normal.",
+        "B": "El domicilio no asegura capacidad para emergencias; no es la adaptación institucional buscada.",
+        "C": "Es opción posible si la mujer la elige, pero no la modalidad destacada por el examen.",
+        "D": "Modalidad de parto institucional pertinente cuando es elección informada y segura."
+      },
+      "perlas": [
+        "Parto vertical debe ofrecerse, no imponerse.",
+        "Pertinencia cultural + consentimiento + seguridad clínica."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Gestante de bajo riesgo solicita parir en cuclillas.",
+          "clave": "Facilitar posición vertical con equipo capacitado."
+        },
+        {
+          "caso": "Gestante solicita posición horizontal por comodidad.",
+          "clave": "Respetar su elección; no imponer parto vertical."
+        },
+        {
+          "caso": "Aparece sufrimiento fetal y necesidad de intervención urgente.",
+          "clave": "Priorizar manejo obstétrico apropiado y comunicación comprensible."
+        }
+      ]
+    }
+  ]
+}
