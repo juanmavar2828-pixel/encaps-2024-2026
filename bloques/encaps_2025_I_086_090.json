@@ -1,0 +1,180 @@
+{
+  "bankId": "ENCAPS_2025_I",
+  "source": "PDF encaps 2025-I claves.pdf, SERUMS MINSA Medicina I 6 abril 2025",
+  "range": "086-090",
+  "status": "desarrollo_razonado_pendiente_cotejo_claves_oficiales_e_integracion_en_app",
+  "questions": [
+    {
+      "number": 86,
+      "topic": "Tamizaje: sensibilidad y falsos negativos",
+      "question": "Una prueba de screening que tiene muy baja sensibilidad, tiene mayor probabilidad de clasificar a sujetos enfermos como sanos. ¿Qué tipo de resultado es?",
+      "options": {
+        "A": "Sensibilidad ineficiente",
+        "B": "Falso positivo",
+        "C": "Falso negativo",
+        "D": "Valor predictivo positivo"
+      },
+      "correct": "C",
+      "temario": "Sensibilidad = VP/(VP+FN), proporción de enfermos correctamente detectados. La baja sensibilidad incrementa los falsos negativos: enfermos con resultados negativos. Especificidad = VN/(VN+FP); el valor predictivo positivo depende de prevalencia. Las pruebas de tamizaje buscan sensibilidad suficiente para minimizar omisiones, equilibrando falsos positivos.",
+      "fundamento": "Enfermo clasificado como sano es falso negativo.",
+      "analisis": {
+        "A": "Describe baja calidad del test, no clasificación individual.",
+        "B": "Sano clasificado como enfermo.",
+        "C": "Enfermo clasificado como sano.",
+        "D": "Proporción de verdaderos enfermos entre pruebas positivas."
+      },
+      "refuerzo": [
+        {
+          "caso": "100 enfermos y 60 test positivos",
+          "clave": "sensibilidad 60%, 40 falsos negativos."
+        },
+        {
+          "caso": "Persona sana con resultado positivo",
+          "clave": "falso positivo."
+        },
+        {
+          "caso": "60 enfermos entre 80 resultados positivos",
+          "clave": "VPP 75%."
+        }
+      ]
+    },
+    {
+      "number": 87,
+      "topic": "Funciones Esenciales: acceso equitativo a servicios integrales de calidad",
+      "question": "Las acciones para mejorar la calidad de la atención orientados a mejorar la experiencia y la confianza de las personas, las familias y las comunidades en los servicios de salud, más allá de la optimización de los procesos, se enmarca dentro de las Funciones Esenciales de Salud Pública. ¿A qué función corresponde?",
+      "options": {
+        "A": "Asegurar el acceso y el uso racional de medicamentos",
+        "B": "Acceso equitativo a servicios de salud integrales y de calidad",
+        "C": "Financiamiento de la salud eficiente y equitativo",
+        "D": "Desarrollo de recursos humanos para la salud"
+      },
+      "correct": "B",
+      "temario": "Las FESP renovadas integran el acceso equitativo a servicios integrales y de calidad. Calidad abarca seguridad, efectividad, oportunidad, experiencia, confianza, comunicación culturalmente apropiada y continuidad, no solo indicadores técnicos. Reducir barreras geográficas, económicas y lingüísticas mejora la accesibilidad efectiva. Medicamentos, financiamiento y recursos humanos son determinantes o funciones distintas aunque complementarias.",
+      "fundamento": "El enunciado prioriza experiencia, confianza y calidad integral de servicios.",
+      "analisis": {
+        "A": "Foco específico en medicamentos.",
+        "B": "Coincide con calidad y acceso integral.",
+        "C": "Trata mecanismos de financiamiento.",
+        "D": "Se concentra en capacitación y disponibilidad de personal."
+      },
+      "refuerzo": [
+        {
+          "caso": "Centro implementa intérpretes y reduce esperas",
+          "clave": "acceso y calidad."
+        },
+        {
+          "caso": "Red revisa prescripción de antibióticos",
+          "clave": "uso racional de medicamentos."
+        },
+        {
+          "caso": "Gerencia capacita personal",
+          "clave": "desarrollo de recursos humanos."
+        }
+      ]
+    },
+    {
+      "number": 88,
+      "topic": "Confirmación diagnóstica de hipertensión con MAPA",
+      "question": "Paciente mujer de 50 años, afroamericana, últimamente ha presentado zumbido de oído y visión borrosa, niega antecedentes personales patológicos. Examen: LOTEP, BEG, BEN, BEH; FC: 80X'; FR: 20X'; T°: 37°C; PA: 140/90mmHg, IMC: 32. ¿Cuál es la conducta ideal a seguir?",
+      "options": {
+        "A": "Iniciar tratamiento farmacológico",
+        "B": "Realizar una nueva toma de PA",
+        "C": "Confirmar presunción diagnóstica con AMPA",
+        "D": "Confirmar presunción diagnóstica con MAPA"
+      },
+      "correct": "D",
+      "temario": "Ante una toma de PA elevada se repite medición estandarizada con descanso y manguito adecuado; luego, si se puede, se confirma fuera del consultorio mediante monitoreo ambulatorio (MAPA) o domiciliario (AMPA). MAPA aporta cifras durante día y noche y puede identificar hipertensión de bata blanca o nocturna. AMPA es otra estrategia aceptada. No iniciar fármacos de forma automática con una lectura aislada sin emergencia. La visión borrosa exige descartar alteración aguda de órganos si hay otros datos de alarma.",
+      "fundamento": "MAPA es confirmación robusta y figura como opción D, pero repetir PA y AMPA también pueden ser apropiadas; clave provisional.",
+      "analisis": {
+        "A": "Sin valoración confirmatoria puede ser precipitado.",
+        "B": "Repetir correctamente la PA es parte del abordaje inicial.",
+        "C": "AMPA es alternativa válida de confirmación.",
+        "D": "MAPA ofrece confirmación ambulatoria y patrón nocturno."
+      },
+      "refuerzo": [
+        {
+          "caso": "PA 150/95 en consulta y normal en domicilio",
+          "clave": "sospechar bata blanca."
+        },
+        {
+          "caso": "MAPA con cifras nocturnas elevadas",
+          "clave": "hipertensión nocturna."
+        },
+        {
+          "caso": "PA 210/120 con focalidad neurológica",
+          "clave": "emergencia."
+        }
+      ],
+      "alerta": "Clave razonada provisional; verificar solucionario. El enunciado admite matices clínicos."
+    },
+    {
+      "number": 89,
+      "topic": "Acceso a servicios de salud de adulto mayor sin documentación",
+      "question": "Personal de serenazgo, lleva al centro de salud a un paciente adulto mayor con problemas de salud y sin familiares, presenta indigencia y sin documentos. ¿Qué derecho se le atribuye?",
+      "options": {
+        "A": "Acceso a servicios de salud",
+        "B": "Acceso a la información",
+        "C": "Recuperación",
+        "D": "Consentimiento informado"
+      },
+      "correct": "A",
+      "temario": "Toda persona debe acceder a evaluación de salud conforme a necesidad sin discriminación por indigencia, ausencia de familiares o documentos, especialmente ante emergencia. Se debe hacer triaje, atender problemas clínicos y articular con trabajo social para identificación, cobertura y continuidad. La ausencia de familiares no equivale a incapacidad de consentir. Información, recuperación y consentimiento también son derechos, pero el caso enfatiza barreras de acceso al servicio.",
+      "fundamento": "La barrera descrita es acceder a atención pese a falta de documentos y recursos.",
+      "analisis": {
+        "A": "Es el derecho principal del caso.",
+        "B": "Derecho importante, distinto de la barrera inicial.",
+        "C": "Objetivo de atención, pero menos específico.",
+        "D": "No se discute rechazo o autorización de un procedimiento."
+      },
+      "refuerzo": [
+        {
+          "caso": "Adulto inconsciente sin DNI",
+          "clave": "atención inmediata."
+        },
+        {
+          "caso": "Paciente competente sin familia",
+          "clave": "consentir por sí mismo."
+        },
+        {
+          "caso": "Adulto indigente tras alta",
+          "clave": "coordinar continuidad con trabajo social."
+        }
+      ]
+    },
+    {
+      "number": 90,
+      "topic": "Inicio de higiene oral y cepillado dental infantil",
+      "question": "¿Cuándo indicaría usted iniciar la higiene oral para generar el hábito saludable del cepillado dental?",
+      "options": {
+        "A": "A partir del año de vida",
+        "B": "Al completar su dentadura decidua",
+        "C": "En cualquier momento de la vida",
+        "D": "Durante los primeros seis meses de vida"
+      },
+      "correct": "D",
+      "temario": "La educación de higiene oral inicia desde los primeros meses. El cepillado de dientes comienza con la erupción del primer diente, frecuentemente alrededor de seis meses, con ayuda cuidadora y pasta fluorada en cantidad apropiada para edad. La erupción varía: no se debe cepillar dientes inexistentes ni esperar hasta los doce meses si ya erupcionaron. Cuidadores deben recibir consejo sobre azúcares y prevención de caries. La opción de seis meses aproxima la edad típica, pero la regla clínica es primera erupción.",
+      "fundamento": "La opción D representa inicio precoz, alrededor de la primera erupción; clínicamente la referencia correcta es el primer diente.",
+      "analisis": {
+        "A": "Puede retrasar cepillado si hay dientes antes del año.",
+        "B": "Esperar dentición completa es demasiado tarde.",
+        "C": "Siempre puede iniciarse, pero pregunta por edad ideal.",
+        "D": "Representa los meses tempranos de aparición del primer diente."
+      },
+      "refuerzo": [
+        {
+          "caso": "Lactante seis meses con primer incisivo",
+          "clave": "comenzar cepillado."
+        },
+        {
+          "caso": "Lactante cinco meses sin dientes",
+          "clave": "consejería; iniciar cepillado al erupcionar."
+        },
+        {
+          "caso": "Niño dos años sin rutina oral",
+          "clave": "empezar ahora con supervisión."
+        }
+      ],
+      "alerta": "Clave razonada provisional; verificar solucionario. El enunciado admite matices clínicos."
+    }
+  ]
+}
