@@ -1,0 +1,200 @@
+{
+  "bankId": "ENCAPS_2025_I",
+  "examType": "Medicina-I, cuadernillo aportado",
+  "source": "PDF encaps 2025-I claves.pdf, examen 06 abril 2025, preguntas 16–20",
+  "range": "016-020",
+  "status": "desarrollo_razonado_pendiente_cotejo_claves_oficiales_e_integracion_en_app",
+  "questions": [
+    {
+      "number": 16,
+      "topic": "Referencia y contrarreferencia: condición de paciente mejorado",
+      "question": "Un paciente fue referido para evaluación y tratamiento por una probable gastritis a un nivel de atención superior. Se resolvió su problema de salud de manera parcial, continuando su tratamiento en su establecimiento de origen. ¿En qué condición considera fue contrarreferido?",
+      "options": {
+        "A": "Curado",
+        "B": "Retiro voluntario",
+        "C": "Mejorado",
+        "D": "Deserción"
+      },
+      "correct": "C",
+      "temario": "El sistema de referencia y contrarreferencia asegura continuidad entre establecimientos según capacidad resolutiva. La referencia traslada temporalmente la responsabilidad clínica a un nivel capaz de atender una necesidad; la contrarreferencia informa diagnóstico, procedimientos, recomendaciones y continuidad. Una persona 'mejorada' presenta resolución parcial de su problema, con necesidad de seguir tratamiento y seguimiento en establecimiento de origen. 'Curado' supone resolución del problema; 'retiro voluntario' y 'deserción' implican interrupción o salida, no respuesta terapéutica parcial. Debe enviarse información oportuna, resultados e indicaciones para evitar duplicación de pruebas o pérdida de seguimiento.",
+      "fundamento": "La resolución parcial con continuación del tratamiento corresponde a 'mejorado'.",
+      "analisis": {
+        "A": "Curación implica resolución, no mejoría parcial.",
+        "B": "No existe retiro por decisión del paciente.",
+        "C": "Respuesta correcta: evolución favorable parcial con continuidad terapéutica.",
+        "D": "No hay abandono de la atención."
+      },
+      "perlas": [
+        "Contrarreferencia es continuidad asistencial, no simple retorno físico.",
+        "Mejorado no equivale a curado."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Paciente con neumonía estabilizada continúa antibióticos en posta.",
+          "clave": "Contrarreferido mejorado."
+        },
+        {
+          "caso": "Lesión tratada y resuelta, sin tratamiento pendiente.",
+          "clave": "Contrarreferido curado."
+        },
+        {
+          "caso": "Paciente deja hospital contra recomendación médica.",
+          "clave": "Retiro voluntario; requiere registro y consejería."
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "topic": "Consentimiento informado en intervenciones escolares en menores",
+      "question": "Salud Escolar lleva a cabo la vacunación masiva, descarte de anemia, cuidado de la salud bucal, desparasitación a los alumnos de las IE públicas. En cumplimiento al derecho de ......, se hace de conocimiento a los padres de familia quienes firman y el personal interviene atendiendo.",
+      "options": {
+        "A": "beneficencia",
+        "B": "justicia",
+        "C": "consentimiento informado",
+        "D": "autorización"
+      },
+      "correct": "C",
+      "temario": "El consentimiento informado es un proceso de comunicación por el que una persona o representante legal autoriza una intervención tras recibir información comprensible sobre finalidad, beneficios, riesgos y alternativas. En menores, generalmente corresponde autorización del padre, madre o representante conforme normativa y tipo de procedimiento; incluir asentimiento del menor según madurez. Un formulario firmado documenta el proceso, pero no lo sustituye. En campañas escolares deben aclararse procedimientos específicos, privacidad de datos, posibilidad de preguntas y mecanismos ante eventos adversos. Diferenciar derecho al consentimiento informado de una autorización puramente administrativa.",
+      "fundamento": "El enunciado menciona comunicación previa y firma de responsables antes de intervenciones de salud, lo que apunta al derecho al consentimiento informado.",
+      "analisis": {
+        "A": "Beneficencia exige actuar en beneficio, pero no es la autorización informada.",
+        "B": "Justicia exige trato equitativo.",
+        "C": "Concepto ético-jurídico central solicitado.",
+        "D": "Autorización es manifestación documental o acto concreto, pero 'derecho al consentimiento informado' es la formulación más completa."
+      },
+      "alerta": "La opción D es próxima en contexto de menores; verificar cómo la norma escolar distingue autorización y consentimiento.",
+      "perlas": [
+        "Firma ≠ consentimiento si no hubo información y comprensión.",
+        "Menores: representación legal y asentimiento según madurez."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Colegio solicita firma de padres sin explicar vacuna.",
+          "clave": "Debe brindarse información; firma aislada es insuficiente."
+        },
+        {
+          "caso": "Adolescente pregunta por efectos adversos antes de intervención.",
+          "clave": "Explicación comprensible y participación del menor."
+        },
+        {
+          "caso": "Padre autoriza examen de hemoglobina tras conocer finalidad y riesgos.",
+          "clave": "Consentimiento informado por representante."
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "topic": "Análisis estadístico inferencial y pruebas de asociación",
+      "question": "Luego de la recolección y procesamiento de datos de su estudio para investigar si hay asociación entre el alcoholismo y la violencia familiar en adultos varones de su comunidad. ¿Qué análisis estadístico llevará a cabo?",
+      "options": {
+        "A": "Inferencial",
+        "B": "Descriptivo",
+        "C": "Inductivo",
+        "D": "Probabilístico"
+      },
+      "correct": "A",
+      "temario": "Estadística descriptiva resume distribución de datos mediante frecuencias, porcentajes y medidas de tendencia central; estadística inferencial evalúa hipótesis y estima parámetros o asociaciones con intervalos de confianza. Para asociación entre dos variables categóricas puede emplearse chi-cuadrado o Fisher cuando frecuencias esperadas son pequeñas; la fuerza de asociación depende de diseño: razón de prevalencias u odds ratio en transversal, odds ratio en casos-controles, riesgo relativo en cohorte. Considerar confusión y temporabilidad: una asociación transversal no demuestra causalidad. La selección del test depende de escala, distribución, independencia y tamaño muestral.",
+      "fundamento": "Investigar asociación entre alcoholismo y violencia exige procedimientos de inferencia estadística, opción A.",
+      "analisis": {
+        "A": "Contrasta hipótesis y cuantifica incertidumbre de asociaciones.",
+        "B": "Describe datos sin probar inferencia sobre asociación.",
+        "C": "Inducción es razonamiento general, no clase formal de análisis estadístico en este ítem.",
+        "D": "Probabilístico describe métodos de selección/modelación, no el análisis solicitado."
+      },
+      "perlas": [
+        "Descriptiva: ¿cuánto? Inferencial: ¿hay asociación y con qué incertidumbre?",
+        "Asociación estadística no equivale a causalidad."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Comparar 18/100 expuestos versus 7/100 no expuestos.",
+          "clave": "Inferencia de asociación; elegir prueba según frecuencias esperadas."
+        },
+        {
+          "caso": "Calcular porcentaje de participantes que consumen alcohol.",
+          "clave": "Análisis descriptivo."
+        },
+        {
+          "caso": "Estudio transversal encuentra OR 2,5 ajustado.",
+          "clave": "Asociación, sin inferir por sí sola causalidad."
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "topic": "Epidemiología de brotes: tasa de ataque",
+      "question": "En una institución educativa primaria de 100 alumnos, se presenta un brote de varicela con 50 casos. ¿Cuál es el indicador y el valor que corresponde para caracterizar el riesgo?",
+      "options": {
+        "A": "Tasa de prevalencia, 500 x 1000 hab",
+        "B": "Razón de prevalencia, 50%",
+        "C": "Tasa de incidencia, 50%",
+        "D": "Tasa de ataque, 50%"
+      },
+      "correct": "D",
+      "temario": "La tasa de ataque es una proporción de incidencia acumulada utilizada en brotes: casos nuevos durante periodo delimitado divididos entre población susceptible/expuesta al inicio, multiplicado por cien. En el examen se considera a los 100 escolares como población en riesgo: 50 casos/100 alumnos = 50%. En investigación real debe ajustar denominador por inmunidad previa, exposición y definición de caso; la tasa de ataque es una proporción, pese a su nombre convencional de 'tasa'. La tasa de ataque secundaria se calcula entre contactos susceptibles de casos primarios excluyendo casos primarios del denominador apropiado.",
+      "fundamento": "50/100 equivale a 50%; en brotes el indicador específico de riesgo es tasa de ataque.",
+      "analisis": {
+        "A": "Aunque 500 por 1000 es numéricamente equivalente, no es el indicador de elección de riesgo de brote.",
+        "B": "Razón de prevalencia compara prevalencias entre grupos; no una proporción simple.",
+        "C": "Incidencia acumulada es concepto general, pero 'tasa de ataque' es el nombre específico del brote.",
+        "D": "Indicador y valor solicitados para brote escolar."
+      },
+      "perlas": [
+        "Ataque = casos nuevos / personas en riesgo ×100.",
+        "En brotes, distinguir ataque primario y secundario."
+      ],
+      "refuerzo": [
+        {
+          "caso": "30 enfermos entre 120 comensales de una pollada.",
+          "clave": "Tasa de ataque 25%."
+        },
+        {
+          "caso": "8 contactos enferman entre 40 contactos susceptibles de casos índice.",
+          "clave": "Tasa de ataque secundaria 20%, si denominador y casos cumplen definición."
+        },
+        {
+          "caso": "Se cuentan todos los enfermos presentes hoy en un distrito.",
+          "clave": "Prevalencia, no tasa de ataque."
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "topic": "Deontología profesional: normas y garantías del ejercicio ético",
+      "question": "Cuenta con las herramientas administrativas para garantizar que la profesión se ejerza de manera ética. Este enunciado pertenece a la:",
+      "options": {
+        "A": "Deontología",
+        "B": "Responsabilidad",
+        "C": "Comisión de ética",
+        "D": "Moral"
+      },
+      "correct": "A",
+      "temario": "La deontología comprende deberes y normas que regulan ejercicio de una profesión. En medicina se expresa en códigos de ética y deontología, deber de secreto profesional, competencia, respeto a autonomía y manejo de conflictos de interés, con mecanismos colegiales o institucionales de supervisión. La ética reflexiona sobre qué es correcto y por qué; la moral incluye valores y costumbres compartidas. Una comisión de ética es un órgano particular que puede deliberar o supervisar, pero no es todo el marco normativo. La responsabilidad profesional se relaciona con consecuencias y cumplimiento de deberes.",
+      "fundamento": "El enunciado refiere a marco de deberes, reglas y mecanismos para asegurar conducta profesional ética: deontología.",
+      "analisis": {
+        "A": "Sistema normativo de deberes y estándares profesionales.",
+        "B": "Deber de responder por actos y consecuencias, no marco completo.",
+        "C": "Órgano que aplica o discute criterios éticos, no disciplina general.",
+        "D": "Conjunto de valores y normas sociales, más amplio y sin especificidad administrativa."
+      },
+      "perlas": [
+        "Ética reflexiona; deontología formaliza deberes profesionales.",
+        "Código deontológico no reemplaza razonamiento ético ante dilemas."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Médico revisa código colegial sobre confidencialidad.",
+          "clave": "Deontología profesional."
+        },
+        {
+          "caso": "Comité hospitalario discute dilema de rechazo terapéutico.",
+          "clave": "Deliberación ética institucional."
+        },
+        {
+          "caso": "Profesional responde por error negligente.",
+          "clave": "Responsabilidad profesional."
+        }
+      ]
+    }
+  ]
+}
