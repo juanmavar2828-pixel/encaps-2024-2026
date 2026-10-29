@@ -1,0 +1,199 @@
+{
+  "bankId": "ENCAPS_2025_II",
+  "source": "PDF proporcionado: Evaluación SERUMS MINSA Medicina I, 24 agosto de 2025, preguntas 91–95",
+  "range": "091-095",
+  "status": "desarrollo_razonado_pendiente_cotejo_claves_oficiales_e_integracion_en_banco",
+  "questions": [
+    {
+      "number": 91,
+      "topic": "Epidemiología: incidencia elevada con prevalencia baja",
+      "question": "Luego de evaluar la situación de salud de la comunidad, ¿qué enfermedad cumple alta incidencia y baja prevalencia simultáneamente?",
+      "options": {
+        "A": "Crisis de ansiedad",
+        "B": "Resfriado común",
+        "C": "Diabetes mellitus",
+        "D": "Hipertensión arterial"
+      },
+      "correct": "B",
+      "temario": "Incidencia es aparición de casos nuevos en población y periodo definidos; prevalencia representa casos existentes en un momento o periodo. En condiciones relativamente estables, prevalencia ≈ incidencia × duración media. Enfermedades agudas frecuentes y breves, como el resfriado común, generan numerosos episodios nuevos pero cada episodio dura pocos días; su prevalencia puntual puede ser relativamente baja respecto de su incidencia anual. Diabetes e hipertensión duran años y acumulan casos. La comparación depende del periodo de medición: un resfriado puede presentar prevalencia elevada durante brotes estacionales.",
+      "fundamento": "El resfriado común combina alta frecuencia de episodios nuevos y corta duración. Es el ejemplo clásico de incidencia elevada con prevalencia comparativamente menor.",
+      "analisis": {
+        "A": "Las crisis pueden ser breves, pero no constituyen el ejemplo poblacional más claro de incidencia alta.",
+        "B": "Enfermedad aguda frecuente y autolimitada; respuesta razonada.",
+        "C": "Enfermedad crónica que suele acumular prevalencia.",
+        "D": "Condición crónica de larga duración y prevalencia elevada."
+      },
+      "perlas": [
+        "Prevalencia ≈ incidencia × duración en estado estable.",
+        "Duración breve reduce casos activos en un momento dado."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Infección respiratoria con miles de casos por año que duran cinco días.",
+          "clave": "Incidencia alta, prevalencia puntual relativamente limitada."
+        },
+        {
+          "caso": "Enfermedad crónica con supervivencia prolongada.",
+          "clave": "Se acumula prevalencia."
+        },
+        {
+          "caso": "Tratamiento que prolonga supervivencia sin curar enfermedad.",
+          "clave": "Puede aumentar prevalencia."
+        }
+      ]
+    },
+    {
+      "number": 92,
+      "topic": "VIH recién diagnosticado: inicio de TAR y terapia preventiva de tuberculosis",
+      "question": "Paciente de 20 años con diagnóstico VIH hace siete días, asintomático. Dos pruebas GeneXpert de esputo negativas, Rx normal, CD4 450 células/mL, HBsAg y VDRL negativos, evaluado por psicología. ¿Conducta terapéutica?",
+      "options": {
+        "A": "Evaluación por oftalmología",
+        "B": "Iniciar terapia antirretroviral e iniciar terapia preventiva de TB",
+        "C": "Consejería de soporte sobre VIH",
+        "D": "Iniciar profilaxis con cotrimoxazol"
+      },
+      "correct": "B",
+      "temario": "La terapia antirretroviral (TAR) se recomienda a todas las personas con VIH, independientemente de CD4, tan pronto como sea factible tras diagnóstico y evaluación. La terapia preventiva de tuberculosis (TPT) se considera en personas con VIH una vez descartada TB activa y evaluadas contraindicaciones/interacciones, con esquemas según normativa nacional y resistencia del caso fuente si aplica. Radiografía y Xpert negativos ayudan, pero la exclusión de TB activa integra síntomas, antecedentes, epidemiología y juicio clínico. Con CD4 450 y ausencia de otros criterios, cotrimoxazol no se indica automáticamente para profilaxis primaria de infecciones oportunistas. Vigilar función renal/hepática y hepatitis B según régimen de TAR.",
+      "fundamento": "TAR inmediata más evaluación/inicio de TPT tras excluir TB activa corresponde a la alternativa B. La información del caso apoya bajo riesgo de enfermedad TB activa, aunque debe comprobarse evaluación clínica completa.",
+      "analisis": {
+        "A": "Oftalmología no sustituye inicio de TAR, ni es rutinaria por CD4 450 sin síntomas.",
+        "B": "Combina tratamiento de VIH y prevención de TB.",
+        "C": "Consejería es complementaria y no debe reemplazar tratamiento.",
+        "D": "Con CD4 450 sin otras indicaciones, no corresponde profilaxis universal."
+      },
+      "perlas": [
+        "Toda persona con VIH debe acceder a TAR, independientemente de CD4.",
+        "Antes de TPT: descartar TB activa."
+      ],
+      "refuerzo": [
+        {
+          "caso": "VIH nuevo, CD4 600, paciente asintomático.",
+          "clave": "Ofrecer TAR sin esperar inmunodeficiencia."
+        },
+        {
+          "caso": "VIH con tos, fiebre y pérdida de peso.",
+          "clave": "Investigar TB activa antes de TPT."
+        },
+        {
+          "caso": "VIH con CD4 muy bajo y riesgo de neumonía por Pneumocystis.",
+          "clave": "Evaluar cotrimoxazol según criterios aplicables."
+        }
+      ]
+    },
+    {
+      "number": 93,
+      "topic": "Promoción de la salud: intersectorialidad frente a participación comunitaria",
+      "question": "Para abordar violencia familiar, médico se reúne con director de colegio, teniente alcalde, comisario y párroco y acuerdan acciones conjuntas. ¿Qué estrategia se cumple?",
+      "options": {
+        "A": "Comunicación social",
+        "B": "Participación ciudadana",
+        "C": "Intersectorialidad",
+        "D": "Empoderamiento social"
+      },
+      "correct": "C",
+      "temario": "La intersectorialidad es cooperación coordinada de instituciones y sectores diferentes para afrontar determinantes complejos. En violencia familiar, salud, educación, municipalidad, policía y organizaciones comunitarias coordinan prevención, protección, detección y rutas de atención, evitando revictimización. Participación ciudadana se refiere a intervención de la población en decisiones; comunicación social transmite mensajes; empoderamiento desarrolla capacidad de actuar y decidir. La participación de distintos actores sociales no elimina responsabilidades legales de protección ni confidencialidad de las víctimas.",
+      "fundamento": "La reunión conjunta de salud, educación, seguridad y autoridad local expresa acción intersectorial.",
+      "analisis": {
+        "A": "Podría utilizarse para campañas, pero no describe acuerdos institucionales.",
+        "B": "La comunidad puede participar, aunque el elemento central es coordinación entre sectores.",
+        "C": "Diferentes sectores establecen acciones comunes.",
+        "D": "No se describe fortalecimiento directo de poder de decisión de población."
+      },
+      "perlas": [
+        "Intersectorialidad = varias instituciones/sectores con objetivo sanitario común.",
+        "Violencia familiar exige coordinación y seguridad de la persona afectada."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Salud y educación diseñan prevención de violencia en escuelas.",
+          "clave": "Intersectorialidad."
+        },
+        {
+          "caso": "Vecinos votan prioridades del centro de salud.",
+          "clave": "Participación ciudadana."
+        },
+        {
+          "caso": "Campaña radial informa rutas de denuncia.",
+          "clave": "Comunicación social."
+        }
+      ]
+    },
+    {
+      "number": 94,
+      "topic": "Participación social y vigilancia ciudadana de servicios sanitarios",
+      "question": "Usuarios de Pichanaqui desean mejoras en centro de salud I y participar en espacios de control social. ¿Cómo mejorar su involucramiento?",
+      "options": {
+        "A": "Mejorando los instrumentos jurídicos",
+        "B": "Dar opinión sobre trabajo de serumistas",
+        "C": "Procesos de capacitación para miembros de la comunidad",
+        "D": "Participación de la comunidad para ejercer vigilancia sobre la gestión"
+      },
+      "correct": "D",
+      "temario": "El control social en salud es participación informada de la población para supervisar calidad, oportunidad, uso de recursos, compromisos y rendición de cuentas de los servicios públicos. Puede darse mediante veedurías, comités, espacios de participación y mecanismos de atención de reclamos, con salvaguardas de privacidad y no interferencia en decisiones clínicas individuales. La capacitación ciudadana aumenta capacidades para vigilancia y es un medio, mientras ejercer vigilancia sobre la gestión es la manifestación directa del objetivo descrito. Las autoridades deben responder de forma transparente y proteger datos personales.",
+      "fundamento": "La pregunta enfatiza espacios de control social; ejercer vigilancia sobre gestión es la respuesta más directa.",
+      "analisis": {
+        "A": "Mejoras normativas pueden facilitar, pero no representan intervención directa de usuarios.",
+        "B": "Opinar de un trabajador no equivale a vigilancia sistemática de gestión.",
+        "C": "Capacitación es mecanismo habilitador muy pertinente; no sustituye el ejercicio del control.",
+        "D": "Describe participación en vigilancia de gestión sanitaria."
+      },
+      "alerta": "C es una estrategia plausible para aumentar involucramiento; D expresa la finalidad explícita de control social. Verificar clave oficial.",
+      "perlas": [
+        "Control social: vigilancia de gestión y rendición de cuentas.",
+        "Capacitar es medio; vigilar de forma organizada es ejercicio de participación."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Comité ciudadano revisa cumplimiento de compromisos de atención.",
+          "clave": "Vigilancia social de la gestión."
+        },
+        {
+          "caso": "Vecinos reciben formación sobre indicadores y derechos de usuarios.",
+          "clave": "Fortalecimiento de capacidades para participación."
+        },
+        {
+          "caso": "Usuarios evalúan demoras institucionales mediante mecanismo transparente.",
+          "clave": "Control social sin acceder a historias clínicas privadas."
+        }
+      ]
+    },
+    {
+      "number": 95,
+      "topic": "Planeamiento estratégico participativo y basado en evidencia",
+      "question": "Proceso sistemático, cíclico y continuo, político, técnico y participativo con múltiples actores, sustentado en análisis de situación actual y futura para implementar objetivos del Plan Estratégico de Desarrollo Nacional. ¿De qué se trata?",
+      "options": {
+        "A": "Planeamiento estratégico",
+        "B": "Identificación de indicadores",
+        "C": "Plan de salud",
+        "D": "Análisis de la situación actual"
+      },
+      "correct": "A",
+      "temario": "El planeamiento estratégico en gestión pública articula diagnóstico de la realidad, construcción del futuro deseado, formulación de objetivos y acciones, planes coordinados y seguimiento/evaluación. Es un proceso continuo, participativo y basado en evidencia; no se reduce a redactar un documento ni a calcular indicadores. En el Perú, CEPLAN orienta la articulación de planes institucionales y sectoriales con el Plan Estratégico de Desarrollo Nacional. La identificación de indicadores y ASIS son componentes o insumos del proceso, no el proceso íntegro.",
+      "fundamento": "La definición incluye dimensiones políticas, técnicas, participativas y ciclo completo de planificación: planeamiento estratégico.",
+      "analisis": {
+        "A": "Abarca formulación, ejecución, coordinación y seguimiento estratégico.",
+        "B": "Es una actividad instrumental del planeamiento.",
+        "C": "Es un tipo de documento específico de sector salud.",
+        "D": "Corresponde solo a una fase de diagnóstico."
+      },
+      "perlas": [
+        "Planeamiento = proceso; plan = instrumento resultante.",
+        "Diagnóstico, objetivos, acciones, seguimiento y evaluación forman un ciclo."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Entidad define futuro deseado y objetivos a mediano plazo.",
+          "clave": "Planeamiento estratégico."
+        },
+        {
+          "caso": "Equipo calcula razón de mortalidad y cobertura.",
+          "clave": "Indicadores para diagnóstico y seguimiento."
+        },
+        {
+          "caso": "Se compara desempeño con metas e introducen ajustes.",
+          "clave": "Seguimiento/evaluación del ciclo estratégico."
+        }
+      ]
+    }
+  ]
+}
