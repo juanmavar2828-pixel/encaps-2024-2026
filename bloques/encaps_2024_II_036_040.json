@@ -1,0 +1,157 @@
+{
+  "bankId": "ENCAPS_2024_II",
+  "source": "PDF original 5960598-medicina-i.pdf, SERUMS MINSA Medicina I, 01/09/2024, página 4",
+  "range": "036-040",
+  "format": "breve",
+  "status": "desarrollo_razonado_pendiente_validacion_e_integracion",
+  "questions": [
+    {
+      "number": 36,
+      "topic": "Perfil de puesto y propósito funcional",
+      "question": "Para conocer y saber cuáles son las funciones, objetivos y la necesidad de contar con determinado puesto, es necesario identificar el propósito del puesto con las preguntas siguientes:",
+      "options": {
+        "A": "¿Qué formación?, ¿Dónde?, ¿Para qué?, ¿De acuerdo a qué perfil?",
+        "B": "¿Qué sabe?, ¿Dónde?, ¿Para cuándo?, ¿De acuerdo con qué?",
+        "C": "¿Qué habilidades?, ¿Dónde?, ¿Para qué?, ¿De acuerdo con qué?",
+        "D": "¿Qué hace?, ¿Dónde?, ¿Para qué?, ¿De acuerdo con qué?"
+      },
+      "correct": "D",
+      "temario": "El propósito de un puesto describe qué hace, en qué ámbito, para qué finalidad y conforme a qué normas o criterios. Formación y habilidades son requisitos, no el propósito funcional.",
+      "fundamento": "D formula la acción, ámbito, finalidad y referencia normativa del puesto.",
+      "analisis": {
+        "A": "Indaga requisitos académicos.",
+        "B": "No determina la función principal.",
+        "C": "Se centra en habilidades.",
+        "D": "Define actividad, ámbito, finalidad y marco."
+      },
+      "perlas": [
+        "Propósito del puesto = qué hace + dónde + para qué + conforme a qué."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Se redacta la misión de un responsable de farmacia.",
+          "clave": "Describir qué realiza y para qué, no solo sus títulos."
+        }
+      ]
+    },
+    {
+      "number": 37,
+      "topic": "Sífilis congénita: tratamiento del recién nacido",
+      "question": "Puérpera con diagnóstico confirmatorio de sífilis; tratamiento incompleto; al recién nacido se considera neonato con sífilis congénita. ¿Cuál es la acción a seguir?",
+      "options": {
+        "A": "Tratamiento alternativo",
+        "B": "Derivar a establecimiento resolutivo",
+        "C": "Tratamiento farmacológico inmediato",
+        "D": "Evaluación diagnostica confirmatoria"
+      },
+      "correct": "C",
+      "temario": "El tratamiento materno incompleto aumenta riesgo de sífilis congénita. El recién nacido requiere valoración integral y tratamiento con penicilina según clasificación clínica, serologías y norma; las pruebas no deben retrasar una intervención indicada.",
+      "fundamento": "La opción C prioriza tratamiento inmediato del neonato considerado caso de sífilis congénita.",
+      "analisis": {
+        "A": "No se indica un esquema alternativo de entrada.",
+        "B": "Referencia puede ser necesaria según capacidad, sin retrasar manejo.",
+        "C": "Tratamiento oportuno es prioridad.",
+        "D": "La evaluación complementa, pero no debe postergar tratamiento indicado."
+      },
+      "perlas": [
+        "Sífilis materna insuficientemente tratada: evaluar y tratar oportunamente al RN."
+      ],
+      "refuerzo": [
+        {
+          "caso": "RN de madre con sífilis y tratamiento inadecuado.",
+          "clave": "Evaluar e iniciar esquema neonatal indicado sin demoras."
+        }
+      ]
+    },
+    {
+      "number": 38,
+      "topic": "Tuberculosis: neuropatía por isoniazida",
+      "question": "En la actividad de entrega de producto e información, dentro del proceso de dispensación farmacéutica de medicamentos de primera línea para la tuberculosis. ¿Cuál es una reacción adversa que debería de advertirse al paciente?",
+      "options": {
+        "A": "Nefrotoxicidad por rifampicina",
+        "B": "Trombocitopenia por linezolid",
+        "C": "Neuritis óptica por pirazinamida",
+        "D": "Neuritis periférica por isoniazida"
+      },
+      "correct": "D",
+      "temario": "Isoniazida puede producir neuropatía periférica por interferencia con metabolismo de piridoxina. Se indica vitamina B6 en personas con riesgo según protocolo. Neuritis óptica se asocia típicamente a etambutol.",
+      "fundamento": "Isoniazida se vincula a neuritis periférica, opción D.",
+      "analisis": {
+        "A": "Rifampicina tiene otros efectos más característicos; nefrotoxicidad es infrecuente.",
+        "B": "Linezolid no es fármaco habitual de primera línea para TB sensible.",
+        "C": "Neuritis óptica corresponde típicamente a etambutol.",
+        "D": "Asociación farmacológica correcta."
+      },
+      "perlas": [
+        "Isoniazida → neuropatía; etambutol → neuritis óptica."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Paciente en isoniazida refiere hormigueo en pies.",
+          "clave": "Investigar neuropatía periférica y necesidad de piridoxina."
+        }
+      ]
+    },
+    {
+      "number": 39,
+      "topic": "Indicador de disponibilidad óptima de medicamentos esenciales",
+      "question": "Durante la evaluación realizada de indicadores de gestión de medicamentos esenciales. ¿Cuál debe ser el valor de disponibilidad óptimo esperado que debe obtener la farmacia?",
+      "options": {
+        "A": "75% a 80%",
+        "B": "90% a 100%",
+        "C": "80% a 85%",
+        "D": "85% a 89%"
+      },
+      "correct": "B",
+      "temario": "La disponibilidad de medicamentos se expresa como proporción de productos esenciales disponibles. El examen sitúa el nivel óptimo en 90–100%; un valor alto reduce interrupciones de tratamiento.",
+      "fundamento": "Entre los intervalos propuestos, B corresponde al nivel óptimo esperado.",
+      "analisis": {
+        "A": "Disponibilidad insuficiente.",
+        "B": "Intervalo óptimo esperado por el ítem.",
+        "C": "Inferior al óptimo.",
+        "D": "Inferior al 90%."
+      },
+      "alerta": "Cotejar umbral exacto con manual SISMED o indicador MINSA vigente en 2024.",
+      "perlas": [
+        "Disponibilidad = productos disponibles / productos evaluados × 100."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Farmacia tiene 95 de 100 medicamentos trazadores disponibles.",
+          "clave": "Disponibilidad del 95%."
+        }
+      ]
+    },
+    {
+      "number": 40,
+      "topic": "Dengue con signos de alarma",
+      "question": "Paciente de 30 años procedente de zona infestada por Aedes aegypti, presenta hace 5 días fiebre y dolor muscular, además se agrega dolor abdominal y plaquetas: 80,000/dl. ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Dengue con signos de alarma",
+        "B": "Dengue grave",
+        "C": "Dengue",
+        "D": "Dengue sin signos de alarma"
+      },
+      "correct": "A",
+      "temario": "En dengue, dolor abdominal intenso o continuo es signo de alarma, especialmente cerca de la defervescencia. La trombocitopenia orienta al seguimiento, pero no define dengue grave sin choque, hemorragia grave o afectación orgánica severa.",
+      "fundamento": "El dolor abdominal sumado al cuadro compatible orienta a dengue con signos de alarma.",
+      "analisis": {
+        "A": "Compatible con aparición de alarma abdominal.",
+        "B": "No se documentan criterios de gravedad.",
+        "C": "No incorpora la estratificación del riesgo.",
+        "D": "Omite el signo de alarma."
+      },
+      "alerta": "El enunciado dice solo «dolor abdominal»; la definición clínica exige que sea intenso o continuo. Clave A como intención probable del examen.",
+      "perlas": [
+        "Dengue: alarma abdominal; dengue grave requiere fuga plasmática severa, sangrado grave o daño orgánico."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Día 5 de dengue: dolor abdominal intenso y vómitos persistentes.",
+          "clave": "Dengue con signos de alarma; evaluación inmediata."
+        }
+      ]
+    }
+  ],
+  "semester": "2024-II"
+}
