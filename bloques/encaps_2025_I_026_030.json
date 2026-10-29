@@ -1,0 +1,202 @@
+{
+  "bankId": "ENCAPS_2025_I",
+  "examType": "Medicina-I, PDF proporcionado",
+  "source": "encaps 2025-I claves.pdf, examen SERUMS MINSA Medicina I, 06-04-2025 preguntas 26-30",
+  "range": "026-030",
+  "status": "desarrollo_razonado_pendiente_cotejo_claves_oficiales_e_integracion_en_app",
+  "questions": [
+    {
+      "number": 26,
+      "topic": "Infraestructura sanitaria de categoría I-3 y gestión de residuos",
+      "question": "Para elaborar los planos de un futuro establecimiento de salud I-3, se reúne el equipo de salud. ¿Qué ambiente es necesario según normativa?",
+      "options": {
+        "A": "Zona de selección de residuos sólidos",
+        "B": "Depósito y lavado de carros",
+        "C": "Zona de almacenamiento de residuos contaminados",
+        "D": "Área de internamiento"
+      },
+      "correct": "C",
+      "temario": "Los establecimientos de salud deben incluir ambientes para gestión segura de residuos según volumen, riesgo y capacidad resolutiva. La segregación se realiza en el punto de generación, con recipientes identificados; el almacenamiento intermedio o final exige áreas apropiadas según normativa y características del establecimiento. Las categorías I-3 corresponden al primer nivel y no se definen por internamiento; en comparación, I-4 incluye internamiento según la categorización tradicional. La expresión exacta de espacios requeridos debe contrastarse con la norma técnica de infraestructura aplicable a I-3.",
+      "fundamento": "La alternativa C describe un ambiente para almacenamiento diferenciado de residuos potencialmente contaminados, requerido por seguridad sanitaria, pero la denominación y obligatoriedad precisas necesitan cotejo de la norma técnica.",
+      "analisis": {
+        "A": "La segregación ocurre en el punto de generación; una zona exclusiva de selección no describe necesariamente un ambiente normativo.",
+        "B": "El lavado de carros puede pertenecer a otras instalaciones de mayor capacidad y no constituye el criterio central del ítem.",
+        "C": "Es la opción razonada más compatible con manejo sanitario de residuos; requiere cotejo normativo literal.",
+        "D": "Internamiento no caracteriza a un establecimiento I-3."
+      },
+      "alerta": "Clave provisional: verificar la norma de infraestructura I-3 y la exigencia específica del ambiente antes de considerarla oficial.",
+      "perlas": [
+        "Segregación de residuos: en el lugar de generación.",
+        "I-3: primer nivel sin internamiento como rasgo definitorio."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Diseñan un centro I-3 y prevén flujo de residuos biocontaminados.",
+          "clave": "Separar circuitos y prever almacenamiento seguro según norma."
+        },
+        {
+          "caso": "Se mezclan cortopunzantes con papel limpio.",
+          "clave": "Falla en segregación al momento de generación."
+        },
+        {
+          "caso": "Proyecto contempla hospitalización para partos y atención continua.",
+          "clave": "Revaluar categoría y cartera de servicios requerida."
+        }
+      ]
+    },
+    {
+      "number": 27,
+      "topic": "Ética y veracidad del informe social ante violencia sexual de menor",
+      "question": "Después de brindar una atención por violencia sexual a una paciente de 13 años, se debe presentar un informe social, requerido por las autoridades del Poder Judicial. Si hay información que faltan a la verdad está cometiendo actos en contra de:",
+      "options": {
+        "A": "Justicia",
+        "B": "Ética",
+        "C": "Responsabilidad",
+        "D": "Beneficencia"
+      },
+      "correct": "B",
+      "temario": "Los informes clínicos y sociales emitidos ante requerimiento judicial deben ser objetivos, completos en lo relevante, veraces y trazables, distinguiendo hechos observados, relato de la paciente e inferencias del profesional. Consignar datos falsos vulnera obligaciones éticas y puede generar responsabilidades legales; evitar interpretar un informe profesional como prueba automática de veracidad o culpabilidad. En niñas y adolescentes víctimas de violencia sexual se prioriza seguridad, atención integral oportuna, privacidad y prevención de revictimización, cumpliendo canales de notificación/protección pertinentes. La justicia y responsabilidad también se ven comprometidas, pero la pregunta busca la categoría general de rectitud profesional.",
+      "fundamento": "Incorporar información falsa contradice el deber ético de veracidad del profesional.",
+      "analisis": {
+        "A": "La falsedad puede afectar decisiones justas, pero no es la categoría general más directa.",
+        "B": "Infringe ética profesional y deber de veracidad.",
+        "C": "La responsabilidad también está implicada, pero describe obligación de responder por actos.",
+        "D": "Beneficencia es actuar buscando beneficio del paciente; no identifica específicamente falsedad documental."
+      },
+      "perlas": [
+        "Informe: separar relato, observación y juicio profesional.",
+        "Evitar revictimización y proteger confidencialidad de menores."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Trabajadora social escribe lesiones que no constató.",
+          "clave": "Falta a veracidad y ética profesional."
+        },
+        {
+          "caso": "Médico transcribe literalmente relato de una adolescente identificando su fuente.",
+          "clave": "Documentación objetiva que diferencia testimonio de constatación."
+        },
+        {
+          "caso": "Se comparte informe sensible sin fundamento legal.",
+          "clave": "Riesgo de vulneración de confidencialidad."
+        }
+      ]
+    },
+    {
+      "number": 28,
+      "topic": "Evento adverso grave: notificación y seguridad del paciente",
+      "question": "Usted se entera que en un EESS administraron una medicación que produjo un daño discapacitante en un paciente. ¿Qué medida inmediata hubiera tomado para manejar esta situación?",
+      "options": {
+        "A": "Informar a los familiares",
+        "B": "Mejorar el proceso de atención sanitaria en EESS",
+        "C": "Notificarlo al nivel inmediato superior",
+        "D": "Medidas de mejora en el EESS"
+      },
+      "correct": "C",
+      "temario": "Un daño discapacitante tras medicación constituye posible evento adverso grave que exige primero atención y estabilización clínica, documentación íntegra y notificación oportuna conforme al sistema institucional de seguridad del paciente y farmacovigilancia si se sospecha reacción adversa a medicamento. La notificación activa investigación, análisis de factores contribuyentes y acciones preventivas sin atribuir culpa antes del análisis. La comunicación honesta con paciente y representante apropiado es importante, con autorización y respeto de confidencialidad. La revisión de proceso y mejora del establecimiento siguen a la respuesta inmediata.",
+      "fundamento": "Entre las opciones, la notificación a la autoridad correspondiente es la medida inmediata de gestión que permite activar respuesta al evento.",
+      "analisis": {
+        "A": "Comunicar de manera adecuada es importante, pero no sustituye notificación y manejo institucional.",
+        "B": "Es consecuencia del análisis posterior, no primera medida de gestión.",
+        "C": "Activa registro y respuesta ante un evento adverso grave.",
+        "D": "Las medidas correctivas se diseñan tras evaluación del evento."
+      },
+      "alerta": "La atención y estabilización de la persona afectada tienen prioridad clínica; no figuran entre las opciones.",
+      "perlas": [
+        "Evento grave: atender primero, registrar y notificar sin demora.",
+        "Notificar eventos busca aprendizaje y prevención de recurrencias."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Error de medicación produce insuficiencia respiratoria.",
+          "clave": "Estabilizar, documentar y activar notificación inmediata."
+        },
+        {
+          "caso": "Comité identifica etiquetado confuso como factor contribuyente.",
+          "clave": "Rediseño de sistema y barreras de seguridad."
+        },
+        {
+          "caso": "Sospecha de reacción anafiláctica tras antibiótico.",
+          "clave": "Tratamiento urgente y farmacovigilancia."
+        }
+      ]
+    },
+    {
+      "number": 29,
+      "topic": "Síndrome genitourinario de la menopausia y tratamiento vaginal",
+      "question": "Mujer de 52 años acude al establecimiento refiriendo sequedad vaginal y dispareunia desde hace unos 6 meses, tiene antecedente de menopausia hace un año. ¿Cuál es la conducta más apropiada para esta paciente?",
+      "options": {
+        "A": "Prescribir terapia de reemplazo hormonal",
+        "B": "Recomendar uso de lubricante vaginal",
+        "C": "Referir a especialista de ginecología",
+        "D": "Prescribir estrógeno local vaginal"
+      },
+      "correct": "D",
+      "temario": "El síndrome genitourinario de la menopausia resulta de descenso estrogénico, con cambios de epitelio vaginal, aumento de pH, sequedad, ardor, dispareunia y eventualmente síntomas urinarios. El examen requiere descartar infección, lesiones, sangrado posmenopáusico y otras causas. Lubricantes durante relaciones y humectantes vaginales son medidas iniciales útiles especialmente en síntomas leves; ante síntomas persistentes o moderados-intensos, el estrógeno vaginal a dosis baja es eficaz y produce mínima absorción sistémica. La terapia hormonal sistémica se reserva cuando hay indicaciones adicionales como síntomas vasomotores relevantes; no es necesaria para síntomas genitourinarios aislados. La elección requiere preferencias, antecedentes y contraindicaciones individuales.",
+      "fundamento": "Para sequedad y dispareunia persistentes posmenopáusicas, estrógeno vaginal local es opción específica eficaz; los lubricantes también son razonables como inicio, por lo que cotejar clave oficial.",
+      "analisis": {
+        "A": "Exposición sistémica innecesaria si solo presenta síntomas vaginales.",
+        "B": "Medida no hormonal válida como primera línea, especialmente si síntomas leves; distractor clínicamente plausible.",
+        "C": "No es obligatoria referencia sin señales de alarma o fracaso terapéutico.",
+        "D": "Tratamiento dirigido a atrofia genitourinaria persistente."
+      },
+      "alerta": "La severidad y preferencias no están definidas; B también puede ser elección inicial correcta. Clave D provisional hasta cotejo oficial.",
+      "perlas": [
+        "Sequedad + dispareunia tras menopausia sugieren síndrome genitourinario.",
+        "Lubricantes/humectantes en cuadros leves; estrógeno vaginal para síntomas persistentes."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Mujer con sequedad leve durante relaciones sin otros síntomas.",
+          "clave": "Lubricante y/o humectante como primera opción."
+        },
+        {
+          "caso": "Paciente con dispareunia persistente y atrofia vaginal evidente.",
+          "clave": "Evaluar estrógeno vaginal local."
+        },
+        {
+          "caso": "Mujer posmenopáusica con sangrado vaginal nuevo.",
+          "clave": "Investigar antes de atribuir a atrofia."
+        }
+      ]
+    },
+    {
+      "number": 30,
+      "topic": "Medicamentos esenciales y selección basada en evidencia",
+      "question": "¿Cuáles son los medicamentos y productos biológicos que cubren la mayor parte de la morbilidad en el país, que luego de una evaluación técnica especializada multidisciplinaria han demostrado ser seguros, eficaces, costo-efectivos y deben estar disponibles en todo momento?",
+      "options": {
+        "A": "Genéricos",
+        "B": "Comunes",
+        "C": "Básicos",
+        "D": "Esenciales"
+      },
+      "correct": "D",
+      "temario": "Los medicamentos esenciales satisfacen necesidades prioritarias de salud de la población y se seleccionan considerando carga de enfermedad, eficacia, seguridad, calidad y costo-efectividad. Deben estar disponibles en sistemas funcionales de salud, con suministro suficiente, dosis y formas farmacéuticas adecuadas y precio accesible. En Perú la selección se expresa mediante el Petitorio Nacional Único de Medicamentos Esenciales, con actualizaciones periódicas. 'Genérico' se refiere a denominación o equivalencia del producto, no a su prioridad sanitaria; un fármaco esencial puede ser genérico, pero ambas nociones no son sinónimas. La selección técnica se complementa con uso racional y farmacovigilancia.",
+      "fundamento": "La definición corresponde a medicamentos esenciales, alternativa D.",
+      "analisis": {
+        "A": "Genérico no identifica por sí solo necesidad sanitaria prioritaria.",
+        "B": "Comunes carece del significado técnico de selección del petitorio.",
+        "C": "Básicos es denominación inespecífica frente al término normativo exacto.",
+        "D": "Medicamentos esenciales se eligen por necesidades prioritarias y evaluación técnica."
+      },
+      "perlas": [
+        "Esencial = prioridad sanitaria, eficacia, seguridad y costo-efectividad.",
+        "Medicamento genérico no es sinónimo de esencial."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Equipo actualiza selección nacional de fármacos por carga de enfermedad.",
+          "clave": "Petitorio de medicamentos esenciales."
+        },
+        {
+          "caso": "Dos productos tienen igual principio activo y calidad demostrada.",
+          "clave": "Considerar equivalencia y uso racional; no basta para llamarlos esenciales."
+        },
+        {
+          "caso": "Centro sufre desabastecimiento de fármaco del petitorio.",
+          "clave": "Problema de acceso a medicamento esencial."
+        }
+      ]
+    }
+  ]
+}
