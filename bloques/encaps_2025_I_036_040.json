@@ -1,0 +1,202 @@
+{
+  "bankId": "ENCAPS_2025_I",
+  "source": "PDF encaps 2025-I claves.pdf, SERUMS MINSA Medicina I del 6 de abril de 2025, preguntas 36-40",
+  "range": "036-040",
+  "status": "desarrollo_razonado_pendiente_cotejo_claves_oficiales_e_integracion_en_app",
+  "questions": [
+    {
+      "number": 36,
+      "topic": "DIGEMID, CENARES y rectoría farmacéutica",
+      "question": "El Ministerio de Salud a través de ...... es responsable de distribuir, difundir, dirigir, supervisar, monitorear y evaluar los medicamentos en los sectores públicos y privados.",
+      "options": {
+        "A": "DIGEMID",
+        "B": "CENARES",
+        "C": "DIGESA",
+        "D": "CENSOPAS"
+      },
+      "correct": "A",
+      "temario": "La Dirección General de Medicamentos, Insumos y Drogas (DIGEMID) es la autoridad nacional vinculada a regulación, control y vigilancia de medicamentos y productos sanitarios en el Perú. Sus funciones comprenden políticas regulatorias, registro sanitario, farmacovigilancia, fiscalización y promoción del uso racional. CENARES cumple funciones de abastecimiento y distribución pública de recursos estratégicos, mientras DIGESA se concentra en salud ambiental e inocuidad alimentaria, y CENSOPAS en salud ocupacional y protección del ambiente para la salud. El verbo 'distribuir' del enunciado puede confundirse con la logística de CENARES: no debe interpretarse como que DIGEMID distribuye físicamente todos los medicamentos.",
+      "fundamento": "Entre las alternativas, DIGEMID es la autoridad que dirige, supervisa y evalúa el ámbito de medicamentos en sectores públicos y privados; la redacción original combina atribuciones regulatorias y logísticas.",
+      "analisis": {
+        "A": "Autoridad de regulación y vigilancia farmacéutica a escala nacional.",
+        "B": "Gestiona abastecimiento y distribución de recursos estratégicos públicos, no regula globalmente ambos sectores.",
+        "C": "Autoridad asociada a salud ambiental y alimentos.",
+        "D": "Centro de referencia ligado a salud ocupacional y protección ambiental."
+      },
+      "alerta": "El enunciado usa 'distribuir', competencia logística más asociada a CENARES; clave razonada A, pendiente cotejo literal.",
+      "perlas": [
+        "DIGEMID regula y vigila; CENARES abastece.",
+        "Farmacovigilancia corresponde a vigilancia de seguridad de medicamentos."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Un fármaco necesita evaluación para obtener registro sanitario.",
+          "clave": "Autoridad regulatoria: DIGEMID."
+        },
+        {
+          "caso": "Hospital público requiere abastecimiento centralizado de medicamentos.",
+          "clave": "Función logística de CENARES, según esquema de abastecimiento."
+        },
+        {
+          "caso": "Se investiga riesgo sanitario de alimentos procesados.",
+          "clave": "Competencia vinculada a DIGESA."
+        }
+      ]
+    },
+    {
+      "number": 37,
+      "topic": "Cáncer de cuello uterino: manejo de citología cervical anormal",
+      "question": "Mujer de 55 años, señala que su esposo se hizo prueba de papilomavirus y salió positiva. Acude a control al centro materno y le realizan tamizaje con PAP que salió positivo. ¿Qué prueba está en el siguiente paso en el flujograma de atención de cáncer de cuello uterino?",
+      "options": {
+        "A": "Curetaje endocervical",
+        "B": "Colposcopía",
+        "C": "Nuevo PAP",
+        "D": "Tomar biopsias"
+      },
+      "correct": "B",
+      "temario": "La citología de Papanicolaou anormal requiere clasificación del resultado (ASC-US, LSIL, HSIL, sospecha glandular, etc.), edad, antecedentes y, cuando corresponda, prueba de VPH para definir seguimiento o referencia. En algoritmos tradicionales, un PAP positivo de relevancia se evalúa mediante colposcopía para identificar áreas sospechosas y realizar biopsia dirigida si está indicada. Un resultado 'PAP positivo' sin categoría citológica es insuficiente para definir un algoritmo universal: determinadas alteraciones menores admiten seguimiento o triaje según guías. La prueba del esposo no sustituye evaluación propia de la paciente ni modifica automáticamente el manejo.",
+      "fundamento": "La opción B representa la evaluación diagnóstica habitual posterior a citología positiva en el flujograma simplificado del examen.",
+      "analisis": {
+        "A": "Curetaje endocervical es procedimiento selectivo según hallazgos y criterios, no primer paso general.",
+        "B": "Permite visualizar cuello uterino y dirigir biopsia cuando procede.",
+        "C": "Repetir citología puede ser válido para categorías concretas, pero no equivale al siguiente paso general del algoritmo simplificado.",
+        "D": "La biopsia suele dirigirse por colposcopía o lesión visible; no se indica sin evaluación."
+      },
+      "alerta": "Falta tipo de alteración citológica. Verificar ruta de la norma aplicable al examen antes de asumir colposcopía para cualquier PAP anormal.",
+      "perlas": [
+        "PAP es tamizaje; colposcopía y biopsia complementan confirmación según riesgo.",
+        "La conducta depende de categoría citológica, edad y pruebas de VPH."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Citología HSIL en mujer adulta.",
+          "clave": "Referencia a evaluación colposcópica y manejo según guía."
+        },
+        {
+          "caso": "Colposcopía identifica lesión acetoblanca sospechosa.",
+          "clave": "Biopsia dirigida cuando corresponda."
+        },
+        {
+          "caso": "Citología con alteración leve y prueba VPH negativa.",
+          "clave": "Aplicar algoritmo de seguimiento basado en riesgo, no asumir biopsia inmediata."
+        }
+      ]
+    },
+    {
+      "number": 38,
+      "topic": "Categorización de establecimientos de salud: I-3",
+      "question": "Un serumista está trabajando en un establecimiento de salud con población asignada, que cuenta con médico cirujano, profesionales de enfermería, obstetricia y personal técnico de enfermería. Según su cartera de servicios. ¿Cuál es el nivel de atención en el que se encuentra?",
+      "options": {
+        "A": "I-3",
+        "B": "I-1",
+        "C": "I-2",
+        "D": "I-4"
+      },
+      "correct": "A",
+      "temario": "En la categorización tradicional del primer nivel peruano, I-1 brinda atenciones básicas; I-2 incluye consulta externa médica; I-3 corresponde a un centro de salud con mayor dotación profesional, prestaciones ambulatorias y apoyo diagnóstico según requisitos; I-4 agrega capacidad de internamiento. La sola presencia de médico, enfermería y obstetricia no demuestra por sí misma todos los requisitos de categoría I-3: se consideran UPSS, capacidad resolutiva, equipamiento, personal y cartera. El enunciado parece emplear perfiles de equipo como pista para I-3 y debe contrastarse con los estándares normativos.",
+      "fundamento": "La composición interdisciplinaria descrita es la pista del examen para I-3, aunque la clasificación formal exige información adicional.",
+      "analisis": {
+        "A": "Respuesta esperada razonada por perfil de establecimiento con equipo profesional diverso.",
+        "B": "Categoría de menor capacidad resolutiva, generalmente sin dotación del equipo descrito.",
+        "C": "Dispone de consulta médica, por lo que es alternativa plausible si no constan prestaciones I-3.",
+        "D": "Implica internamiento y mayores prestaciones, no descritos."
+      },
+      "alerta": "La cartera de servicios no se detalla. I-2 frente a I-3 puede ser ambiguo sin UPSS y apoyo diagnóstico; cotejo oficial pendiente.",
+      "perlas": [
+        "Categoría formal no depende solo de contar profesionales.",
+        "I-4 incorpora internamiento dentro del primer nivel tradicional."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Puesto con consulta médica y sin otros apoyos ampliados.",
+          "clave": "Evaluar I-2 según requisitos."
+        },
+        {
+          "caso": "Centro con profesionales diversos, laboratorio y prestaciones ampliadas.",
+          "clave": "Compatible con I-3 si cumple norma."
+        },
+        {
+          "caso": "Centro con internamiento y capacidad obstétrica correspondiente.",
+          "clave": "Evaluar I-4."
+        }
+      ]
+    },
+    {
+      "number": 39,
+      "topic": "Funciones esenciales de salud pública: acceso e intervenciones territoriales",
+      "question": "El C.S. Paz, ha sectorizado su jurisdicción para realizar intervenciones de promoción y prevención basados en el Modelo de Cuidado Integral de la Familia y Comunidad por Curso de Vida. En el marco de las Funciones Esenciales de la Salud Pública renovada, esta acción corresponde a la etapa de:",
+      "options": {
+        "A": "Evaluación",
+        "B": "Acceso",
+        "C": "Asignación de recursos",
+        "D": "Desarrollo de políticas"
+      },
+      "correct": "B",
+      "temario": "El marco renovado de Funciones Esenciales de Salud Pública articula evaluación de necesidades y capacidades, desarrollo de políticas, asignación de recursos y acceso a intervenciones y servicios. Sectorizar un ámbito sanitario para ejecutar promoción y prevención bajo un modelo territorial busca llevar prestaciones a población y reducir barreras, asociándose con el componente de acceso. Sin embargo, la sectorización también puede ser una herramienta previa de planificación y asignación territorial de recursos; se distingue finalidad de intervención real frente al mero diagnóstico o presupuesto. El Modelo de Cuidado Integral por Curso de Vida enfatiza personas, familias y comunidades y continuidad preventiva.",
+      "fundamento": "La finalidad descrita es ejecutar acciones de promoción y prevención en sectores poblacionales; en el esquema simplificado encaja con acceso.",
+      "analisis": {
+        "A": "Evaluación comprende analizar situación y desempeño, no implementar las prestaciones descritas.",
+        "B": "Etapa orientada a acceso equitativo a servicios e intervenciones.",
+        "C": "La sectorización puede apoyar distribución de recursos, pero no es el objetivo explícito final.",
+        "D": "No se formula una política nueva; se implementa un modelo establecido."
+      },
+      "alerta": "Clave razonada basada en finalidad de intervención; verificar clasificación literal del esquema de FESP renovadas.",
+      "perlas": [
+        "Acceso: servicios e intervenciones llegan efectivamente a población.",
+        "La sectorización es instrumento territorial, no un resultado en sí."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Se identifican brechas y perfil epidemiológico de todos los sectores.",
+          "clave": "Evaluación de necesidades."
+        },
+        {
+          "caso": "Se organizan visitas preventivas casa por casa en sectores priorizados.",
+          "clave": "Acceso a intervenciones de salud."
+        },
+        {
+          "caso": "Gobierno destina presupuesto y personal según brechas.",
+          "clave": "Asignación de recursos."
+        }
+      ]
+    },
+    {
+      "number": 40,
+      "topic": "Metodología de investigación: matriz de consistencia",
+      "question": "En el proceso de redacción del informe final de su estudio transversal analítico sobre la relación entre la ingesta de bebidas gaseosas y sobrepeso; usted desea que todas las secciones tengan coherencia entre sí. ¿Qué herramienta debe usar para verificarla?",
+      "options": {
+        "A": "Matriz de consistencia",
+        "B": "Lista de verificación",
+        "C": "Revisión de Turniting",
+        "D": "Matriz de operacionalización"
+      },
+      "correct": "A",
+      "temario": "La matriz de consistencia conecta problema, pregunta, objetivos, hipótesis cuando procedan, variables, diseño y método de análisis para verificar coherencia lógica del proyecto o informe. En estudio transversal analítico, la variable exposición (consumo de gaseosas) y desenlace (sobrepeso) deben tener definiciones medibles, unidad de observación, instrumento y plan estadístico adecuados. La matriz de operacionalización detalla cómo medir constructos e indicadores, pero no evalúa por sí sola la correspondencia global de secciones. Una lista de verificación (por ejemplo STROBE para observacionales) sirve para calidad de reporte; Turnitin se relaciona con similitud textual, no consistencia metodológica.",
+      "fundamento": "La herramienta diseñada para comprobar alineamiento de problema, objetivos, hipótesis y metodología es la matriz de consistencia.",
+      "analisis": {
+        "A": "Evalúa coherencia integral entre componentes de investigación.",
+        "B": "Puede revisar requisitos de presentación, pero no reemplaza alineamiento estructurado.",
+        "C": "Herramienta de similitud de textos, no de congruencia metodológica.",
+        "D": "Describe variables, dimensiones e indicadores; más acotada."
+      },
+      "perlas": [
+        "Matriz de consistencia = problema ↔ objetivos ↔ hipótesis ↔ método.",
+        "Operacionalización = cómo medir cada variable."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Objetivo habla de obesidad pero variable resultado mide presión arterial.",
+          "clave": "Detectar incoherencia con matriz de consistencia."
+        },
+        {
+          "caso": "Se define consumo semanal de gaseosas en mL y frecuencia.",
+          "clave": "Matriz de operacionalización de variables."
+        },
+        {
+          "caso": "Autores revisan cumplimiento de reporte de estudio observacional.",
+          "clave": "Lista STROBE; diferente de consistencia."
+        }
+      ]
+    }
+  ]
+}
