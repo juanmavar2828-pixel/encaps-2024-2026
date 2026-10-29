@@ -356,6 +356,46 @@ async function init(){
     }catch(err){console.warn('Banco ENCAPS 2026-I no disponible: se conserva la copia local anterior',err)}
   }
 
+  // ENCAPS 2024-II: veinte bloques, 100 preguntas, sin alterar otros bancos.
+  if(!retiredBanks.has('ENCAPS_2024_II')&&(location.protocol==='http:'||location.protocol==='https:')){
+    try{
+      const paths=Array.from({length:20},(_,i)=>
+        './bloques/encaps_2024_II_'+String(i*5+1).padStart(3,'0')+'_'+String(i*5+5).padStart(3,'0')+'.json');
+      const responses=await Promise.all(paths.map(path=>fetch(path,{cache:'no-store'})));
+      if(responses.some(response=>!response.ok))throw new Error('Falta un bloque del ENCAPS 2024-II');
+      const parts=await Promise.all(responses.map(response=>response.json()));
+      if(parts.some(part=>part.bankId!=='ENCAPS_2024_II'))throw new Error('Identificador de bloque 2024-II incorrecto');
+      const originals=parts.flatMap(part=>Array.isArray(part.questions)?part.questions:[]);
+      if(originals.length!==100||new Set(originals.map(q=>q.number)).size!==100
+         ||originals.some(q=>!Number.isInteger(q.number)||q.number<1||q.number>100))
+        throw new Error('ENCAPS 2024-II debe contener los números 1 a 100 sin duplicados');
+      const questions=originals.sort((a,b)=>a.number-b.number).map(q=>{
+        const key=q.correct||'PENDIENTE';
+        if(key!=='PENDIENTE'&&!q.options?.[key])throw new Error('Clave inválida 2024-II P'+q.number);
+        const alert=q.alerta||(!q.correct?'Clave pendiente de verificación oficial.':'');
+        const why=[q.fundamento,q.temario,'ALTERNATIVAS',...Object.entries(q.analisis||{}).map(([letter,reason])=>letter+': '+reason),alert?'ADVERTENCIA: '+alert:''].filter(Boolean).join('\n\n');
+        return {number:q.number,code:'ENCAPS24-II P'+String(q.number).padStart(3,'0'),
+          course:'Medicina Humana',topic:q.topic||'',question:q.question,options:q.options,
+          correct:key,comment:why,pearl:(q.perlas||[]).join(' '),keywords:[],
+          estadoClave:!q.correct?'pendiente_sin_calificacion':alert?'razonada_con_alerta':'razonada_pendiente_cotejo_oficial',
+          lesson:{respuesta_resumida:key==='PENDIENTE'?'Clave pendiente de cotejo':key+'. '+q.options[key],
+            razonamiento:q.fundamento||'',temario:[q.temario||''],
+            por_que_no_las_otras:q.analisis||{},perla:(q.perlas||[]).join(' '),
+            trampas:alert?[alert]:[],
+            refuerzo:(q.refuerzo||[]).map(item=>({enunciado:item.caso,respuesta:item.clave})),
+            repaso_activo:(q.refuerzo||[]).map(item=>item.caso+' — '+item.clave)}
+        };
+      });
+      const bank2024={schemaVersion:1,bankId:'ENCAPS_2024_II',
+        title:'ENCAPS 2024-II · Medicina Humana',
+        source:'SERUMS MINSA · 1 de septiembre de 2024 · versión Medicina I · claves razonadas',
+        questionCount:100,questions};
+      validateBank(bank2024);
+      await put('banks',bank2024);
+      bs=await getAll('banks');
+    }catch(err){console.warn('Banco ENCAPS 2024-II no disponible; se conserva cualquier copia local',err)}
+  }
+
   // ENCAPS 2025-I y 2025-II: carga progresiva de los veinte bloques de cinco preguntas.
   // Conserva bankId y code para preservar el progreso en IndexedDB.
   if(location.protocol==='http:'||location.protocol==='https:'){
