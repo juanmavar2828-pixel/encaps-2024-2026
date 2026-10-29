@@ -1,0 +1,155 @@
+{
+  "bankId": "ENCAPS_2024_II",
+  "source": "Cuadernillo Medicina I del SERUMS-MINSA, 01/09/2024, página 6; el PDF no incorpora clave oficial",
+  "range": "056-060",
+  "format": "breve",
+  "status": "claves_razonadas_pendientes_cotejo_e_integracion",
+  "questions": [
+    {
+      "number": 56,
+      "topic": "Diarrea persistente",
+      "question": "La definición de caso de enfermedad diarreica persistente, es la que se presenta con un cuadro diarreico que inicia con una diarrea aguda infecciosa, pero se prolonga por ...... días o más.",
+      "options": {
+        "A": "14",
+        "B": "21",
+        "C": "10",
+        "D": "07"
+      },
+      "correct": "A",
+      "temario": "La diarrea persistente comienza como episodio agudo y dura 14 días o más.",
+      "fundamento": "El punto de corte es 14 días.",
+      "analisis": {
+        "A": "Definición correcta.",
+        "B": "Supera el umbral.",
+        "C": "No alcanza el umbral.",
+        "D": "No alcanza el umbral."
+      },
+      "perlas": [
+        "Persistente ≥14 días."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Niño presenta deposiciones líquidas desde hace 16 días.",
+          "clave": "Diarrea persistente."
+        }
+      ]
+    },
+    {
+      "number": 57,
+      "topic": "Genograma familiar",
+      "question": "¿Es un instrumento que facilita el enfoque sistémico familiar en atención a la persona y proporciona una visión rápida e integrada de los problemas biomédicos y psicosociales, además de establecer las relaciones familiares?",
+      "options": {
+        "A": "Tipología familiar",
+        "B": "Círculo familiar",
+        "C": "Apgar familiar",
+        "D": "Genograma"
+      },
+      "correct": "D",
+      "temario": "El genograma representa estructura, vínculos y antecedentes de salud de una familia a lo largo de generaciones.",
+      "fundamento": "La representación integrada de relaciones y antecedentes corresponde al genograma.",
+      "analisis": {
+        "A": "Clasifica tipos familiares.",
+        "B": "Explora proximidad o percepción de vínculos.",
+        "C": "Evalúa funcionamiento familiar.",
+        "D": "Dibuja estructura, relaciones y problemas familiares."
+      },
+      "perlas": [
+        "Genograma = mapa familiar multigeneracional."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Médico registra diabetes en tres generaciones y vínculos entre familiares.",
+          "clave": "Genograma."
+        }
+      ]
+    },
+    {
+      "number": 58,
+      "topic": "Paso transplacentario de fármacos",
+      "question": "¿Cuál de los siguientes fármacos atraviesa la barrera placentaria y tiene riesgo de alcanzar concentraciones elevadas en el feto?",
+      "options": {
+        "A": "Amoxicilina",
+        "B": "Diazepam",
+        "C": "Omeprazol",
+        "D": "Fluconazol"
+      },
+      "correct": "B",
+      "temario": "El diazepam es lipofílico, atraviesa la placenta y puede acumularse en el feto; la exposición cercana al parto puede causar sedación y depresión respiratoria neonatal.",
+      "fundamento": "Diazepam presenta paso placentario relevante y potencial de acumulación fetal.",
+      "analisis": {
+        "A": "Cruza la placenta, pero no es la asociación clásica con acumulación fetal.",
+        "B": "Benzodiacepina lipofílica con paso placentario.",
+        "C": "No es la mejor alternativa para acumulación fetal.",
+        "D": "También cruza la placenta, con riesgos dependientes de dosis y exposición."
+      },
+      "alerta": "La pregunta no es exclusiva: varios fármacos atraviesan placenta. B es la respuesta razonada más probable; cotejar solucionario.",
+      "perlas": [
+        "Diazepam: paso placentario y depresión neonatal."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Gestante recibe benzodiacepina próxima al parto; neonato presenta hipotonía.",
+          "clave": "Considerar exposición fetal a diazepam."
+        }
+      ]
+    },
+    {
+      "number": 59,
+      "topic": "Criterios de causalidad de Bradford Hill",
+      "question": "¿Cuál es el criterio epidemiológico de causalidad, que define que la coherencia interna de la asociación depende de la existencia de una relación unidireccional de la curva de dosis-respuesta entre el factor y la enfermedad?",
+      "options": {
+        "A": "Ausencia de distorsiones metodológicas",
+        "B": "Gradiente biológico",
+        "C": "Consistencia de los resultados",
+        "D": "Evidencia experimental"
+      },
+      "correct": "B",
+      "temario": "El gradiente biológico expresa un cambio en frecuencia o intensidad de enfermedad según nivel de exposición; es un criterio que puede reforzar inferencia causal.",
+      "fundamento": "La relación dosis-respuesta corresponde al gradiente biológico.",
+      "analisis": {
+        "A": "Trata sesgos.",
+        "B": "Relación exposición-respuesta.",
+        "C": "Reproducción de asociación en distintos estudios.",
+        "D": "Cambios tras manipulación experimental."
+      },
+      "perlas": [
+        "Más dosis → mayor efecto: gradiente biológico."
+      ],
+      "refuerzo": [
+        {
+          "caso": "A mayor exposición acumulada a tabaco, mayor riesgo observado.",
+          "clave": "Gradiente biológico."
+        }
+      ]
+    },
+    {
+      "number": 60,
+      "topic": "Ruptura uterina intraparto",
+      "question": "Gestante de 25 años G1P000; EG: 40 semanas por FUR, en período expulsivo hace 2 horas. Examen: FC: 84 X’; FR: 22X’; T°: 36.6 °C; PA: 100/60 mmHg. Examen: AU: 36 cm. Feto: LCD. FCF: 132 X’. MF: ++/++. TV: D:10 cm; I: 100%; AP: -2; M: rotas (LM Fluido); VPPF: OIIA. A la reevaluación: FC: 112 X’; FR: 25 X’; T°: 36.6 °C; PA: 80/50 mmHg. Las contracciones uterinas han cesado y se palpan partes fetales fácilmente. FCF: 86 X’. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Parto obstruido",
+        "B": "Muerte fetal",
+        "C": "Trabajo de parto disfuncional",
+        "D": "Ruptura uterina"
+      },
+      "correct": "D",
+      "temario": "La cesación brusca de contracciones, shock materno, partes fetales fácilmente palpables y bradicardia fetal sugieren ruptura uterina, emergencia obstétrica que requiere reanimación y cirugía inmediata.",
+      "fundamento": "La combinación de colapso materno y pérdida de actividad uterina es característica de ruptura.",
+      "analisis": {
+        "A": "Obstrucción por sí sola no explica colapso brusco.",
+        "B": "Existe bradicardia fetal, no muerte documentada.",
+        "C": "No explica shock y partes fetales palpables.",
+        "D": "Integra todos los signos de alarma."
+      },
+      "perlas": [
+        "Ruptura uterina: shock + cesan contracciones + bradicardia fetal."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Parturienta presenta dolor súbito, hipotensión y pérdida de estación fetal.",
+          "clave": "Sospechar ruptura uterina y activar cirugía de emergencia."
+        }
+      ]
+    }
+  ]
+}
