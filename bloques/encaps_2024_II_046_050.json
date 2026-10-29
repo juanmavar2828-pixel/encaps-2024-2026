@@ -1,0 +1,155 @@
+{
+  "bankId": "ENCAPS_2024_II",
+  "source": "Cuadernillo aportado 5960598-medicina-i.pdf · SERUMS MINSA Medicina I · 01/09/2024 · página 5",
+  "range": "046-050",
+  "format": "breve",
+  "status": "claves_razonadas_pendientes_cotejo_oficial_e_integracion",
+  "questions": [
+    {
+      "number": 46,
+      "topic": "Método científico en investigación",
+      "question": "Una investigación es un proceso sistemático, organizado y objetivo, destinado a responder a una pregunta. El término sistemático significa que se aplica...",
+      "options": {
+        "A": "el método epidemiológico.",
+        "B": "el método científico.",
+        "C": "el método clínico.",
+        "D": "el método hipotético."
+      },
+      "correct": "B",
+      "temario": "Una investigación sistemática sigue etapas ordenadas del método científico, desde plantear el problema hasta analizar y comunicar resultados.",
+      "fundamento": "Sistemático implica aplicar el método científico.",
+      "analisis": {
+        "A": "Método especializado para problemas poblacionales.",
+        "B": "Marco general de investigación.",
+        "C": "Enfoque del diagnóstico y atención clínica.",
+        "D": "Expresión parcial, no denominación general."
+      },
+      "perlas": [
+        "Investigación sistemática = método científico."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Investigador plantea hipótesis, mide variables y analiza resultados.",
+          "clave": "Aplica el método científico."
+        }
+      ]
+    },
+    {
+      "number": 47,
+      "topic": "Prevención secundaria: criterios para programas",
+      "question": "Para recomendar la puesta en marcha de un programa de prevención secundaria respecto a un problema de salud determinado. ¿Cuál es uno de los tres grupos principales de factores a tener en cuenta?",
+      "options": {
+        "A": "Relativos al problema de salud",
+        "B": "Relacionados al contexto",
+        "C": "Enfocados en tratamiento",
+        "D": "Enfocados en rehabilitación"
+      },
+      "correct": "A",
+      "temario": "Antes de implementar cribado se considera importancia y evolución del problema de salud, desempeño de la prueba, recursos y manejo disponible.",
+      "fundamento": "Los factores relativos al problema de salud integran los criterios para implantar prevención secundaria.",
+      "analisis": {
+        "A": "Incluye relevancia y evolución natural de la enfermedad.",
+        "B": "El contexto importa, pero el ítem apunta a la clasificación general.",
+        "C": "El tratamiento es un componente, no el grupo enunciado.",
+        "D": "Rehabilitación es prevención terciaria."
+      },
+      "alerta": "Clave razonada, pendiente de comprobar la clasificación de tres grupos usada por el examen.",
+      "perlas": [
+        "Prevención secundaria: detectar tempranamente en personas sin diagnóstico conocido."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Se evalúa si un cáncer tiene fase detectable antes de síntomas.",
+          "clave": "Criterio relativo al problema de salud."
+        }
+      ]
+    },
+    {
+      "number": 48,
+      "topic": "Hiperpotasemia por bloqueo del sistema renina-angiotensina",
+      "question": "Mujer de 75 años con diagnóstico de insuficiencia cardiaca y diabetes mellitus 2, recibiendo el siguiente tratamiento farmacológico: losartán 50 mg c/24 h, espironolactona 25 mg c/24 h, bisoprolol 5 mg c/24 h, metformina 850 mg c/24 h. Resultados de control de laboratorio: Na: 140 mEq/L, K: 6.3 mEq/L, glucosa: 90 mg/dL. ¿Cuáles son los fármacos responsables del problema electrolítico?",
+      "options": {
+        "A": "Losartán - espironolactona",
+        "B": "Bisoprolol - espironolactona",
+        "C": "Metformina - espironolactona",
+        "D": "Losartán - metformina"
+      },
+      "correct": "A",
+      "temario": "Losartán bloquea receptores de angiotensina II y disminuye aldosterona; espironolactona antagoniza aldosterona. Ambos reducen excreción renal de potasio y aumentan riesgo de hiperpotasemia.",
+      "fundamento": "La combinación losartán y espironolactona explica mejor K de 6,3 mEq/L.",
+      "analisis": {
+        "A": "Ambos favorecen retención de potasio.",
+        "B": "Bisoprolol no es la combinación causal principal.",
+        "C": "Metformina no provoca típicamente hiperpotasemia por este mecanismo.",
+        "D": "Omite espironolactona."
+      },
+      "perlas": [
+        "ARA-II + espironolactona = riesgo de hiperpotasemia."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Paciente en ARA-II y antagonista de aldosterona presenta K 6,2.",
+          "clave": "Hiperpotasemia potencialmente grave: ECG y evaluación urgente."
+        }
+      ]
+    },
+    {
+      "number": 49,
+      "topic": "Autonomía y enfoque intercultural en anticoncepción",
+      "question": "Paciente, quechua hablante de 44 años aún fértil, madre de 6 hijos, con enfermedad de hipertensión arterial, se niega a utilizar métodos anticonceptivos. ¿Qué acción debe tomar con respecto a este caso?",
+      "options": {
+        "A": "Llamar a su pareja para que decida por ella",
+        "B": "Persuadirla a que utilice anticonceptivos",
+        "C": "Respetar su decisión",
+        "D": "Solicitar evaluación psicológica"
+      },
+      "correct": "C",
+      "temario": "La paciente conserva autonomía reproductiva. Corresponde informar en idioma comprensible sobre riesgos, opciones y beneficios, resolver dudas sin coacción y respetar su negativa.",
+      "fundamento": "La decisión informada de la paciente debe respetarse.",
+      "analisis": {
+        "A": "Sustituye indebidamente su autonomía.",
+        "B": "Persuasión coercitiva no procede.",
+        "C": "Respeta decisión autónoma.",
+        "D": "Negativa no implica alteración psicológica."
+      },
+      "perlas": [
+        "Consejería informada sí; coerción anticonceptiva no."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Usuaria rechaza anticoncepción tras recibir explicación en quechua.",
+          "clave": "Documentar y respetar decisión; ofrecer seguimiento."
+        }
+      ]
+    },
+    {
+      "number": 50,
+      "topic": "Intoxicación por organofosforados: atropina",
+      "question": "Paciente varón de 35 años que trabaja habitualmente en el sector agrícola, acude junto a su familiar al centro de salud donde realiza su SERUMS, manifestando desorientación, mareos, bradicardia, dificultad respiratoria y relajación de esfínteres. El familiar manifiesta que el paciente estaba manipulando plaguicidas y parte de este se derramó en gran parte de su vestimenta. ¿Cuál es el tratamiento de primera línea?",
+      "options": {
+        "A": "Atropina",
+        "B": "Flumazenil",
+        "C": "Adrenalina",
+        "D": "Naloxona"
+      },
+      "correct": "A",
+      "temario": "La exposición a plaguicidas con bradicardia, secreciones y síntomas colinérgicos sugiere intoxicación por organofosforados o carbamatos. Priorizar protección del equipo, retirar ropa contaminada, descontaminar, vía aérea y atropina; considerar oximas según agente.",
+      "fundamento": "Atropina revierte manifestaciones muscarínicas peligrosas, sobre todo broncorrea y broncoespasmo.",
+      "analisis": {
+        "A": "Antídoto muscarínico prioritario.",
+        "B": "Antagonista de benzodiacepinas.",
+        "C": "No trata el toxíndrome colinérgico como primera línea.",
+        "D": "Antagonista opioide."
+      },
+      "perlas": [
+        "Plaguicida + bradicardia + broncorrea = atropina y soporte respiratorio."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Agricultor expuesto a pesticida presenta miosis, sialorrea y broncoespasmo.",
+          "clave": "Iniciar atropinización y descontaminación segura."
+        }
+      ]
+    }
+  ]
+}
