@@ -1,0 +1,155 @@
+{
+  "bankId": "ENCAPS_2024_I",
+  "source": "Cuadernillo original Medicina I SERUMS MINSA 01/09/2024, páginas 2–3",
+  "range": "021-025",
+  "format": "breve",
+  "status": "pendiente_integracion_y_cotejo_de_claves",
+  "questions": [
+    {
+      "number": 21,
+      "topic": "Contrataciones públicas: indagación de mercado",
+      "question": "El jefe de logística de un establecimiento de salud realizará la compra de un dispositivo médico para la entidad. ¿Cuántas cotizaciones en su estudio de mercado como mínimo debe contar?",
+      "options": {
+        "A": "8",
+        "B": "3",
+        "C": "5",
+        "D": "1"
+      },
+      "correct": null,
+      "temario": "La indagación de mercado busca información para estimar valor y condiciones de contratación. El mínimo de cotizaciones depende del procedimiento y de la regulación vigente en 2024; el PDF no aporta la disposición legal que fija un número.",
+      "fundamento": "No se asigna clave sin verificar la regla de 2024 aplicable al procedimiento descrito.",
+      "analisis": {
+        "A": "No existe sustento en el enunciado para exigir ocho.",
+        "B": "Tres se usa en algunas prácticas, pero no equivale necesariamente a obligación normativa.",
+        "C": "No se sustenta exigir cinco.",
+        "D": "Una cotización puede integrar la indagación, pero no se demuestra que sea el mínimo exigido."
+      },
+      "alerta": "Clave pendiente de cotejo normativo y solucionario de septiembre de 2024.",
+      "perlas": [
+        "Cotización y estudio de mercado no son sinónimos."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Logística obtiene precios de catálogo y proveedores.",
+          "clave": "Documentar indagación conforme al procedimiento vigente."
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "topic": "Confiabilidad de instrumentos",
+      "question": "En toda medición o instrumento de recolección de datos; el grado en el que un instrumento produce resultados consistentes y coherentes. ¿A qué requisito esencial corresponde?",
+      "options": {
+        "A": "Confiabilidad",
+        "B": "Validez",
+        "C": "Honestidad",
+        "D": "Objetividad"
+      },
+      "correct": "A",
+      "temario": "Confiabilidad es reproducibilidad o consistencia de resultados; validez indica si el instrumento mide aquello que pretende medir.",
+      "fundamento": "Resultados consistentes y coherentes = confiabilidad.",
+      "analisis": {
+        "A": "Consistencia de mediciones.",
+        "B": "Exactitud respecto del constructo.",
+        "C": "Valor ético.",
+        "D": "Menor influencia del evaluador."
+      },
+      "perlas": [
+        "Confiabilidad = consistencia; validez = medir lo correcto."
+      ],
+      "refuerzo": [
+        {
+          "caso": "La misma escala arroja resultados similares en repetición estable.",
+          "clave": "Confiabilidad test-retest."
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "topic": "Promoción de autocuidado y autoexamen de mama",
+      "question": "El médico SERUMS del puesto de salud, organiza un taller para autoexamen de mama con las mujeres del comedor popular de su distrito; allí explica la técnica del autoexamen y factores de riesgo para cáncer de mama. ¿Qué fomenta esta intervención?",
+      "options": {
+        "A": "Rehabilitación",
+        "B": "Tratamiento",
+        "C": "Autocuidado",
+        "D": "Diagnóstico"
+      },
+      "correct": "C",
+      "temario": "La educación y participación informada fomentan autocuidado. El autoexamen no reemplaza estrategias de tamizaje ni diagnóstico clínico indicadas según riesgo y edad.",
+      "fundamento": "Enseñar reconocimiento corporal y riesgos promueve autocuidado.",
+      "analisis": {
+        "A": "No hay discapacidad a rehabilitar.",
+        "B": "No se ofrece terapia.",
+        "C": "Promueve acciones personales de cuidado.",
+        "D": "Un taller no confirma enfermedad."
+      },
+      "perlas": [
+        "Educación en salud ≠ prueba diagnóstica."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Mujeres aprenden a reconocer cambios mamarios y cuándo consultar.",
+          "clave": "Autocuidado."
+        }
+      ]
+    },
+    {
+      "number": 24,
+      "topic": "Diseños experimentales y causalidad",
+      "question": "¿Cuáles son los estudios prospectivos de mayor calidad de evidencia, donde el investigador controla el factor de estudio?",
+      "options": {
+        "A": "Experimentales",
+        "B": "Cohortes",
+        "C": "Analíticos",
+        "D": "Descriptivos"
+      },
+      "correct": "A",
+      "temario": "En estudios experimentales el investigador asigna la intervención; un ensayo clínico aleatorizado bien realizado puede ofrecer evidencia causal sólida. La cohorte es observacional.",
+      "fundamento": "El control/asignación del factor de estudio caracteriza al diseño experimental.",
+      "analisis": {
+        "A": "Investigador asigna intervención.",
+        "B": "Observa exposición sin asignarla.",
+        "C": "Categoría general que comprende distintos diseños.",
+        "D": "Describe frecuencia y distribución."
+      },
+      "perlas": [
+        "Asignación de intervención = experimental."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Investigador asigna aleatoriamente dos tratamientos.",
+          "clave": "Ensayo experimental."
+        }
+      ]
+    },
+    {
+      "number": 25,
+      "topic": "MOF y perfil del puesto",
+      "question": "En un establecimiento de salud, se decide la contratación de recursos humanos. Por lo que se requiere definir adecuadamente el perfil del cargo. ¿Cuál es el documento de gestión que va a guiar los elementos de contratación?",
+      "options": {
+        "A": "POI",
+        "B": "MAPRO",
+        "C": "CAP",
+        "D": "MOF"
+      },
+      "correct": "D",
+      "temario": "El Manual de Organización y Funciones (MOF) describe funciones, responsabilidades y requisitos de cargos en el marco administrativo clásico. El CAP registra puestos, el POI programa actividades y el MAPRO sistematiza procedimientos. En sistemas de gestión de recursos humanos más recientes también existen perfiles de puestos y documentos equivalentes.",
+      "fundamento": "Entre las opciones, MOF es el documento que describe funciones y requisitos del cargo.",
+      "analisis": {
+        "A": "Programa acciones institucionales.",
+        "B": "Describe procedimientos.",
+        "C": "Ordena cargos o plazas.",
+        "D": "Detalla funciones y perfil del cargo."
+      },
+      "perlas": [
+        "MOF: funciones; CAP: cargos; POI: actividades."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Se necesita identificar funciones exigidas al responsable de farmacia.",
+          "clave": "Consultar perfil y manual de funciones aplicable."
+        }
+      ]
+    }
+  ]
+}
