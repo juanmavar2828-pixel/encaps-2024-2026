@@ -1,0 +1,199 @@
+{
+  "bankId": "ENCAPS_2025_I",
+  "source": "PDF proporcionado por el usuario: Evaluación SERUMS MINSA MEDICINA-I 6 de abril de 2025 preguntas 81–85",
+  "range": "081-085",
+  "status": "desarrollo_razonado_pendiente_cotejo_claves_oficiales_e_integracion_en_app",
+  "questions": [
+    {
+      "number": 81,
+      "topic": "Número reproductivo básico R0 y transmisión de fiebre amarilla",
+      "question": "En el centro de salud de Lamas, reportan que un varón de 30 años, presenta fiebre, malestar general, sangrado y shock. Se informa que han aparecido muchos más casos en estos días y se sospecha de un brote de fiebre amarilla. Siendo Ro: el número promedio de casos nuevos que genera un caso dado a lo largo de un período infeccioso. ¿Cuál es el Ro que se espera tener en brote de fiebre amarilla?",
+      "options": {
+        "A": "Ro > 0.5",
+        "B": "Ro > 1",
+        "C": "Ro = 0",
+        "D": "Ro < 1"
+      },
+      "correct": "B",
+      "temario": "R0 representa el número promedio de infecciones secundarias que ocasiona un caso en una población completamente susceptible bajo condiciones definidas. R0 > 1 permite crecimiento de transmisión; R0 < 1 implica que las cadenas tienden a extinguirse, y R0 = 1 señala equilibrio aproximado. En la práctica, la dinámica observada depende del número reproductivo efectivo Rt, que cambia por inmunidad, vacunación, densidad vectorial y condiciones ambientales. La fiebre amarilla es una arbovirosis transmitida por mosquitos, con ciclos selvático y urbano; el número reproductivo depende también de la ecología vectorial. El síndrome de fiebre, hemorragia y choque requiere atención urgente, vigilancia y confirmación diagnóstica; no permite deducir un valor numérico concreto de R0.",
+      "fundamento": "En un brote con aumento sostenido de casos se espera transmisión efectiva superior al umbral de uno; entre las alternativas la mejor es B. El enunciado mezcla R0 y dinámica real de brote, para la cual es más preciso Rt.",
+      "analisis": {
+        "A": "Mayor de 0,5 incluye valores menores de uno, que no aseguran crecimiento.",
+        "B": "Mayor de uno es umbral clásico para propagación sostenida.",
+        "C": "Cero supone ausencia de casos secundarios.",
+        "D": "Menor de uno tiende a declive de transmisión."
+      },
+      "perlas": [
+        "R0 > 1: potencial de expansión en población susceptible.",
+        "Rt es más apropiado para describir propagación real durante un brote."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Infección tiene R0 2,5 en población susceptible.",
+          "clave": "Un caso genera 2,5 infecciones secundarias en promedio."
+        },
+        {
+          "caso": "Tras vacunación y control vectorial, Rt baja a 0,7.",
+          "clave": "La transmisión tenderá a disminuir."
+        },
+        {
+          "caso": "Hay varios casos de fiebre amarilla con ictericia y sangrado.",
+          "clave": "Atención urgente, notificación e investigación epidemiológica."
+        }
+      ]
+    },
+    {
+      "number": 82,
+      "topic": "Accidente ocupacional por pinchazo: primeros auxilios y profilaxis VIH",
+      "question": "En el centro de salud, al colocar un inyectable intramuscular a un paciente, el personal se pincha el dedo pulgar. El status VIH del paciente es desconocido. ¿Qué acciones debe realizarse inmediatamente?",
+      "options": {
+        "A": "Realizarse serologías para VIH basal, a las 6 semanas y a los 3 meses",
+        "B": "Lavarse la herida con agua y tomar los antirretrovirales lo antes posible",
+        "C": "Se valora la severidad del accidente ocupacional",
+        "D": "Se debe iniciar los ARV a las 72 horas post-exposición"
+      },
+      "correct": "B",
+      "temario": "Una exposición percutánea a sangre exige lavado inmediato con agua y jabón, sin exprimir herida ni aplicar sustancias cáusticas, notificación del accidente y evaluación urgente del riesgo. Se investiga el estado VIH de la fuente cuando sea posible, tipo y profundidad de lesión, presencia de sangre y características del dispositivo; también evaluar hepatitis B y C y vacunación del trabajador. La profilaxis posexposición VIH se inicia lo antes posible cuando esté indicada, idealmente en horas y no después de esperar 72 horas; no es obligatoria en toda punción cuando la fuente es desconocida, pues depende de evaluación individual. Las pruebas basales y posteriores son necesarias, pero no sustituyen medidas inmediatas. La opción B recoge lavado y rapidez de eventual PEP, aunque redactada como si todos debieran recibir antirretrovirales.",
+      "fundamento": "B es la alternativa que reúne lavado inmediato e inicio temprano de antirretrovirales cuando proceda. El inicio de PEP requiere valorar riesgo sin demorar injustificadamente.",
+      "analisis": {
+        "A": "Seguimiento serológico importante, pero omite primeros auxilios y valoración urgente.",
+        "B": "Contiene lavado inmediato y concepto de PEP precoz, con salvedad de indicación individual.",
+        "C": "Valorar severidad es esencial, pero la primera acción física es lavar.",
+        "D": "No se espera hasta las 72 horas; ese plazo es límite de inicio habitual, no momento recomendado."
+      },
+      "alerta": "PEP antirretroviral NO es automática ante todas las exposiciones con fuente desconocida. El ítem simplifica el manejo.",
+      "perlas": [
+        "Pinchazo: lavar, reportar, evaluar PEP inmediatamente.",
+        "72 horas no es momento para esperar; PEP se inicia cuanto antes si indicada."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Enfermero se pincha con aguja usada y la fuente tiene VIH confirmado.",
+          "clave": "Lavar, reportar y evaluar/iniciar PEP urgente."
+        },
+        {
+          "caso": "Exposición a fuente desconocida con aguja superficial.",
+          "clave": "Evaluación individual del riesgo y de necesidad de PEP."
+        },
+        {
+          "caso": "Trabajador vacunado contra VHB sufre pinchazo.",
+          "clave": "Verificar estado de protección y evaluar VIH, VHB y VHC."
+        }
+      ]
+    },
+    {
+      "number": 83,
+      "topic": "Causalidad de tuberculosis: agente necesario pero no suficiente",
+      "question": "En la enfermedad de la Tuberculosis, la presencia del agente infeccioso (Mycobacterium tuberculosis), corresponde a una causa...",
+      "options": {
+        "A": "no necesaria pero suficiente.",
+        "B": "de tipo ambiental.",
+        "C": "necesaria y suficiente.",
+        "D": "necesaria pero no suficiente."
+      },
+      "correct": "D",
+      "temario": "En epidemiología, una causa necesaria debe estar presente para que se produzca el desenlace definido; una causa suficiente por sí sola produce inevitablemente dicho desenlace. Para tuberculosis causada por Mycobacterium tuberculosis, la infección con el agente es necesaria en el modelo clásico, pero no suficiente: muchas personas infectadas nunca desarrollan enfermedad activa. Influyen dosis y condiciones de exposición, inmunidad celular, VIH, desnutrición, diabetes, edad y otros factores. El modelo de causas componentes describe conjuntos causales y permite diferenciar infección latente de enfermedad clínica. La presencia del bacilo en una muestra también requiere interpretación según método y contexto clínico.",
+      "fundamento": "La enfermedad requiere el agente, pero la exposición/infección no implica desarrollo inevitable de TB activa: causa necesaria y no suficiente.",
+      "analisis": {
+        "A": "No refleja papel etiológico del agente.",
+        "B": "El bacilo es agente biológico, no condición ambiental.",
+        "C": "La infección puede permanecer latente; no siempre progresa a enfermedad.",
+        "D": "Refleja interacción del bacilo y susceptibilidad del huésped."
+      },
+      "perlas": [
+        "Infección TB no equivale a enfermedad TB activa.",
+        "Causa necesaria ≠ suficiente."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Persona con IGRA positivo permanece asintomática por años.",
+          "clave": "Infección sin enfermedad activa: bacilo no fue causa suficiente."
+        },
+        {
+          "caso": "Paciente con VIH tiene mayor riesgo de progresión a TB activa.",
+          "clave": "La inmunosupresión modifica susceptibilidad."
+        },
+        {
+          "caso": "Se investiga una enfermedad multifactorial sin agente único indispensable.",
+          "clave": "Diferenciar componente causal de causa necesaria."
+        }
+      ]
+    },
+    {
+      "number": 84,
+      "topic": "Equidad en salud y diferencias injustas y evitables",
+      "question": "¿A qué corresponde la siguiente definición?: “Es la condición ideal en la población en la que todos tienen la oportunidad de acceder al cuidado de su salud y acceder a atenciones de salud, en el momento que lo requiera, y que no sea alterada por razones evitables y por tanto injustas”",
+      "options": {
+        "A": "Calidad",
+        "B": "Equidad en salud",
+        "C": "Integralidad",
+        "D": "Universalidad"
+      },
+      "correct": "B",
+      "temario": "La equidad en salud busca ausencia de desigualdades evitables e injustas en resultados, oportunidades y acceso a cuidados. No significa entregar idénticos recursos a todas las personas, sino responder proporcionalmente a necesidades y barreras, por ejemplo distancia, lengua, discapacidad o pobreza. La universalidad refiere cobertura o derecho para todas las personas; integralidad aborda promoción, prevención, tratamiento, rehabilitación y continuidad; calidad implica atención segura, efectiva y centrada en la persona. El término 'evitables e injustas' es pista conceptual específica de inequidad.",
+      "fundamento": "La definición alude explícitamente a desigualdades evitables e injustas, núcleo del concepto de equidad.",
+      "analisis": {
+        "A": "Calidad describe características de la atención brindada.",
+        "B": "Equidad busca eliminar desigualdades injustas y evitables.",
+        "C": "Integralidad integra diversas prestaciones y necesidades.",
+        "D": "Universalidad plantea cobertura para todos, pero no explicita barreras y diferencias injustas."
+      },
+      "perlas": [
+        "Inequidad = diferencia evitable e injusta.",
+        "Equidad no es lo mismo que igualdad de insumos."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Posta envía brigadas extras a caseríos aislados.",
+          "clave": "Medida orientada a equidad de acceso."
+        },
+        {
+          "caso": "Toda persona está formalmente afiliada al sistema.",
+          "clave": "Universalidad de cobertura, no prueba por sí sola equidad."
+        },
+        {
+          "caso": "Centro brinda prevención, tratamiento y rehabilitación.",
+          "clave": "Integralidad."
+        }
+      ]
+    },
+    {
+      "number": 85,
+      "topic": "Enfoques de investigación: cuantitativo versus diseño observacional",
+      "question": "Para investigar la relación entre la anemia y la talla de niños de 5° grado de primaria de un colegio, usted acude un día de la semana para medir la Hb y talla a todos ellos. ¿Qué enfoque de investigación está realizando?",
+      "options": {
+        "A": "Mixto",
+        "B": "Observacional",
+        "C": "Cualitativo",
+        "D": "Cuantitativo"
+      },
+      "correct": "D",
+      "temario": "El enfoque cuantitativo usa variables expresadas numéricamente, procedimientos de medición estandarizada y análisis estadístico. Medir hemoglobina y talla para explorar asociación corresponde a enfoque cuantitativo; temporalmente, si se realiza en un solo momento, es transversal, y por intervención es observacional. Estos términos pertenecen a dimensiones diferentes: enfoque (cuantitativo/cualitativo/mixto), diseño (transversal, cohorte, casos-controles, experimental) y condición de intervención (observacional/experimental). Un enfoque mixto exige integrar datos cualitativos y cuantitativos, no solamente dos variables numéricas. Considerar ética de investigación en escolares y ajuste interpretativo de hemoglobina a condiciones pertinentes.",
+      "fundamento": "El enunciado pregunta por 'enfoque', no por diseño; Hb y talla son mediciones numéricas, por lo que D es la opción más específica.",
+      "analisis": {
+        "A": "No existe recolección e integración de información cualitativa.",
+        "B": "También describe estudio sin intervención, pero corresponde a categoría de diseño, no enfoque.",
+        "C": "No se exploran significados o discursos mediante técnicas cualitativas.",
+        "D": "Utiliza medición numérica y análisis de asociación."
+      },
+      "perlas": [
+        "Enfoque cuantitativo ≠ diseño observacional: se pueden aplicar ambos.",
+        "Dos medidas numéricas no constituyen enfoque mixto."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Encuesta mide Hb, talla e IMC y calcula correlaciones.",
+          "clave": "Enfoque cuantitativo."
+        },
+        {
+          "caso": "Entrevistas exploran creencias alimentarias de cuidadores.",
+          "clave": "Enfoque cualitativo."
+        },
+        {
+          "caso": "Se combinan entrevistas y medidas antropométricas con integración de resultados.",
+          "clave": "Enfoque mixto."
+        }
+      ]
+    }
+  ]
+}
