@@ -76,6 +76,24 @@ button,input,select{font:inherit} button{cursor:pointer}.wrap{max-width:980px;ma
 .encapsDeep{margin-top:17px;padding:14px;border:1px solid #a9c6f2;background:#f2f7ff;border-radius:16px}.encapsDeep h3{font-size:17px;margin:0 0 10px}
 .encapsDeep details{margin:8px 0;padding:8px 12px;background:white;border:1px solid #dbe7f8;border-radius:11px}.encapsDeep summary{cursor:pointer;font-weight:800;line-height:1.4}.encapsDeepBody{white-space:pre-wrap;line-height:1.6;font-size:14px;padding-top:9px}.encapsDeepBody p{margin:6px 0 13px}.encapsPearl{padding:12px;border-radius:12px;background:#e8f4ce;line-height:1.5}.encapsExercise{margin:9px 0;padding:12px;border:1px dashed #bdd1ee;border-radius:11px}.encapsLessonNote{margin-top:12px;padding:12px;background:#fff7e6;border-radius:10px}#encapsKeyInfo p{margin:7px 0;line-height:1.5}
 </style>
+
+<style id="mobileStudyNavigation2026">
+/* Botón de avance siempre visible en tablet y móvil después de responder, sin scroll al pie. */
+.mobileStudyNav{display:none}
+@media (max-width: 1024px){
+  #quiz.studyAnswered:not(.hidden){padding-bottom:calc(90px + env(safe-area-inset-bottom, 0px))}
+  #quiz.studyAnswered:not(.hidden) .mobileStudyNav{
+    display:flex;position:fixed;left:0;right:0;bottom:0;z-index:110;
+    padding:10px max(14px, env(safe-area-inset-right, 0px)) calc(10px + env(safe-area-inset-bottom, 0px)) max(14px, env(safe-area-inset-left, 0px));
+    background:rgba(248,251,255,.97);border-top:1px solid #c5d4e7;
+    box-shadow:0 -6px 22px rgba(23,50,79,.13);
+  }
+  #quiz .mobileStudyNext{width:100%;min-height:52px;border:0;border-radius:14px;
+    background:#215fc0;color:white;font:700 16px inherit;letter-spacing:.1px;
+    font-family:inherit;font-size:16px;font-weight:700;cursor:pointer}
+  #quiz .mobileStudyNext:active{background:#15478e}
+}
+</style>
 </head>
 <body>
 <div class="wrap">
@@ -150,6 +168,9 @@ button,input,select{font:inherit} button{cursor:pointer}.wrap{max-width:980px;ma
       <div id="feedback" class="feedback hidden"></div>
       <div class="nav"><button class="btn ghost" onclick="prevQuestion()">← Anterior</button><button class="btn" id="nextBtn" onclick="nextQuestion()">Siguiente →</button></div>
       <div class="qmap-wrap"><div class="qmap-head"><b>Mapa de preguntas</b><span class="tiny" id="qMapLegend">🟢 correcta · 🔴 fallada · blanco pendiente</span></div><div id="questionMap" class="qmap"></div></div>
+    </div>
+    <div class="mobileStudyNav" aria-label="Navegación rápida de estudio">
+      <button class="mobileStudyNext" id="mobileStudyNext" type="button" onclick="nextQuestion()">Siguiente pregunta →</button>
     </div>
   </section>
 
@@ -827,6 +848,8 @@ function openResultQuestion(i){if(i<0||i>=session.items.length)return;session.in
 function scrollToQuestionStart(){const el=document.getElementById('qMeta')||document.getElementById('qText');if(!el)return;el.scrollIntoView({behavior:'auto',block:'start',inline:'nearest'});}
 function renderQuestion(){
  const r=current();if(!r){goHome();return} const {bank,q}=r;const id=qid(bank.bankId,q.code);const saved=session.answers?.[id]||null;const concealed=isRealExamSession()&&!session.finished&&!session.examCommitted;
+ document.getElementById('quiz').classList.toggle('studyAnswered',!!saved&&!isRealExamSession()&&!session.finished);
+ const mobileNext=document.getElementById('mobileStudyNext');if(mobileNext)mobileNext.textContent=session.index===session.items.length-1?'Ver resultados →':'Siguiente pregunta →';
  document.getElementById('modePill').textContent=session.mode;
  document.getElementById('qMeta').innerHTML=`${escapeHtml(bankTitle(bank))} · ${escapeHtml(q.code)} · Pregunta ${session.index+1} de ${session.items.length}${saved?' · <span class="answered-badge">respuesta guardada</span>':''}${concealed?' · 🎓 respuestas ocultas hasta finalizar':''}${q.correct==='PENDIENTE'?' · ⚠ Clave pendiente, no calificable':''}`;
  document.getElementById('quizBar').style.width=((session.index+1)/session.items.length*100)+'%';
@@ -864,7 +887,7 @@ async function answer(letter){
  }
  if(session.answers?.[id])return;const ok=letter===q.correct;session.answers=session.answers||{};session.answers[id]={letter,ok,answeredAt:now};
  await applyChoiceToProgress(bank,q,letter,now,session.mode,session.sessionId,true);await saveCurrentSession();
- showSavedAnswer(session.answers[id],false);updateSessionHud();renderQuestionMap();renderHomeStatsOnly();
+ showSavedAnswer(session.answers[id],false);document.getElementById('quiz').classList.add('studyAnswered');updateSessionHud();renderQuestionMap();renderHomeStatsOnly();
 }
 async function recordDailyErrorReview(p){
  if(p.wrongCount<=0)return;const t=today();settings.dailyCounts=settings.dailyCounts||{};settings.dailyCounts[t]=(settings.dailyCounts[t]||0)+1;
