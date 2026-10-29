@@ -1,0 +1,155 @@
+{
+  "bankId": "ENCAPS_2024_II",
+  "source": "Cuadernillo Medicina I, SERUMS MINSA 01/09/2024, página 6",
+  "range": "051-055",
+  "format": "breve",
+  "status": "claves_razonadas_pendientes_cotejo_oficial_e_integracion",
+  "questions": [
+    {
+      "number": 51,
+      "topic": "Requisitos de instrumentos de medición",
+      "question": "Toda medición o instrumento de recolección de datos debe reunir tres requisitos esenciales:",
+      "options": {
+        "A": "Confidencial, válido y objetivo",
+        "B": "Imparcial, equitativo y honesto",
+        "C": "Privado, secreto y reservado",
+        "D": "Seguro, reservado y protegido"
+      },
+      "correct": null,
+      "temario": "Los tres requisitos metodológicos clásicos son confiabilidad, validez y objetividad. Ninguna alternativa los enumera exactamente; A sustituye confiabilidad por confidencialidad.",
+      "fundamento": "No se fija respuesta al faltar una alternativa plenamente correcta. La A es la más cercana, pero metodológicamente incorrecta.",
+      "analisis": {
+        "A": "Incluye validez y objetividad, pero no confiabilidad.",
+        "B": "Criterios éticos, no los tres requisitos.",
+        "C": "Privacidad no establece calidad de medición.",
+        "D": "Seguridad no establece calidad de medición."
+      },
+      "alerta": "Ítem defectuoso o transcrito así en el PDF; verificar clave oficial antes de calificar.",
+      "perlas": [
+        "Instrumento = confiabilidad + validez + objetividad."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Una escala obtiene resultados estables y mide el constructo indicado.",
+          "clave": "Confiabilidad y validez."
+        }
+      ]
+    },
+    {
+      "number": 52,
+      "topic": "Vaginosis bacteriana",
+      "question": "Joven de 24 años, G2P1011, acude por presentar secreción vaginal líquida, grisácea, pegajosa, abundante y con mal olor; no uso de MAC. AMEU hace un año. Examen: FC: 72 X’; FR: 17 X’; T°: 36.5 °C; PA: 110/60 mmHg. Especuloscopía: hallazgos congruentes con los descritos. Prueba de aminas con KOH presente (a pescado). ¿Cuál es el diagnóstico?",
+      "options": {
+        "A": "Uretritis",
+        "B": "Vaginosis bacteriana",
+        "C": "Tricomoniasis",
+        "D": "Candidiasis"
+      },
+      "correct": "B",
+      "temario": "El flujo grisáceo, olor a pescado y prueba de aminas positiva orientan a vaginosis bacteriana; completar criterios de Amsel según disponibilidad.",
+      "fundamento": "Olor característico con KOH positivo y flujo grisáceo = vaginosis bacteriana.",
+      "analisis": {
+        "A": "No explica flujo vaginal típico.",
+        "B": "Cuadro clínico característico.",
+        "C": "Suele asociar flujo espumoso e inflamación.",
+        "D": "Predominan prurito y flujo grumoso."
+      },
+      "perlas": [
+        "Olor a pescado + KOH = vaginosis bacteriana."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Flujo homogéneo, pH >4,5 y prueba de aminas positiva.",
+          "clave": "Vaginosis bacteriana."
+        }
+      ]
+    },
+    {
+      "number": 53,
+      "topic": "Revisión sistemática y evidencia secundaria",
+      "question": "Un estudio de investigación, que no se realiza sobre datos primarios, sino que utiliza los datos recogidos previamente en otros estudios. ¿A qué tipo de estudio hace referencia?",
+      "options": {
+        "A": "Cohortes",
+        "B": "Analítico",
+        "C": "Descriptivo",
+        "D": "Revisión sistemática"
+      },
+      "correct": "D",
+      "temario": "La revisión sistemática sintetiza estudios existentes mediante pregunta, búsqueda y selección explícitas, sin recolectar datos primarios de pacientes.",
+      "fundamento": "Reutiliza y sintetiza resultados de investigaciones previas.",
+      "analisis": {
+        "A": "Generalmente recopila datos de cohortes observadas.",
+        "B": "Clasificación amplia, no tipo específico.",
+        "C": "Clasificación de finalidad, no síntesis secundaria.",
+        "D": "Investigación secundaria sistemática."
+      },
+      "perlas": [
+        "Revisión sistemática = síntesis estructurada de estudios."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Investigadores reúnen ensayos previos con criterios predefinidos.",
+          "clave": "Revisión sistemática."
+        }
+      ]
+    },
+    {
+      "number": 54,
+      "topic": "Incidencia y riesgo absoluto",
+      "question": "En una comunidad se desea evaluar la incidencia de una determinada enfermedad. ¿Cuál de las medidas de efecto se debe aplicar?",
+      "options": {
+        "A": "Riesgo absoluto",
+        "B": "Odds Ratio",
+        "C": "Riesgo relativo",
+        "D": "Número de pacientes necesario a tratar (NNT)"
+      },
+      "correct": "A",
+      "temario": "El riesgo absoluto (incidencia acumulada) expresa la probabilidad de desarrollar un evento durante un periodo entre sujetos inicialmente libres de enfermedad. RR y OR comparan grupos.",
+      "fundamento": "Para cuantificar nuevos casos en una población de riesgo, corresponde riesgo absoluto.",
+      "analisis": {
+        "A": "Estima incidencia acumulada.",
+        "B": "Medida relativa de asociación.",
+        "C": "Cociente de riesgos entre dos grupos.",
+        "D": "Mide efecto clínico de una intervención."
+      },
+      "perlas": [
+        "Incidencia acumulada = casos nuevos / población en riesgo inicial."
+      ],
+      "refuerzo": [
+        {
+          "caso": "20 casos nuevos entre 1000 personas inicialmente sanas.",
+          "clave": "Riesgo absoluto = 2% en el periodo."
+        }
+      ]
+    },
+    {
+      "number": 55,
+      "topic": "Glimepirida y sulfonilureas",
+      "question": "Paciente que acude a su establecimiento de salud, con una glicemia en ayudas de 201 mg/dl, baja de peso, polidipsia y polifagia; el médico diagnostica diabetes mellitus tipo 2, indicando glimepirida. ¿A qué familia de drogas antidiabéticas pertenece?",
+      "options": {
+        "A": "Glitazonas",
+        "B": "Glifozinas",
+        "C": "Sulfonilureas",
+        "D": "Metformina"
+      },
+      "correct": "C",
+      "temario": "Glimepirida es una sulfonilurea: estimula liberación de insulina al cerrar canales de potasio ATP-dependientes de la célula beta. Puede causar hipoglucemia y aumento de peso.",
+      "fundamento": "Glimepirida pertenece a las sulfonilureas.",
+      "analisis": {
+        "A": "Glitazonas sensibilizan a insulina vía PPARγ.",
+        "B": "Gliflozinas inhiben SGLT2.",
+        "C": "Familia correcta.",
+        "D": "Biguanida; no es clase de glimepirida."
+      },
+      "perlas": [
+        "Glimepirida = sulfonilurea = riesgo de hipoglucemia."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Paciente toma glimepirida y presenta sudoración y glucosa de 54 mg/dl.",
+          "clave": "Hipoglucemia asociada a sulfonilurea."
+        }
+      ]
+    }
+  ]
+}
