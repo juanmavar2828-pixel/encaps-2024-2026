@@ -1,0 +1,199 @@
+{
+  "bankId": "ENCAPS_2025_I",
+  "source": "PDF del usuario: SERUMS MINSA Medicina I, 6 de abril de 2025, preguntas 96–100",
+  "range": "096-100",
+  "status": "desarrollo_razonado_pendiente_cotejo_claves_oficiales_e_integracion_en_app",
+  "questions": [
+    {
+      "number": 96,
+      "topic": "Confidencialidad y secreto profesional",
+      "question": "Un servidor público, brinda información de un diagnóstico médico, a personas de la comunidad. ¿Qué principio ético está vulnerando?",
+      "options": {
+        "A": "Individualidad",
+        "B": "Respeto",
+        "C": "Seguridad",
+        "D": "Confidencialidad"
+      },
+      "correct": "D",
+      "temario": "La confidencialidad exige proteger la información clínica identificable obtenida durante la atención. El secreto profesional alcanza diagnósticos, antecedentes, resultados y circunstancias conocidas por razón de la labor. Comunicar un diagnóstico a vecinos sin autorización ni fundamento legal válido vulnera la privacidad y puede generar discriminación. El acceso a historias clínicas debe limitarse al personal autorizado que lo necesita para atender o cumplir funciones legales. Las excepciones a la confidencialidad deben tener base normativa y aplicarse de forma proporcional, divulgando solo lo imprescindible. En la práctica se debe resguardar también el uso de mensajería, pantallas y conversaciones en espacios públicos.",
+      "fundamento": "La divulgación no autorizada de un diagnóstico a terceros viola directamente la confidencialidad.",
+      "analisis": {
+        "A": "Individualidad reconoce particularidades personales, pero no identifica específicamente el deber de reserva.",
+        "B": "El respeto es principio general que resulta afectado, pero el término preciso es confidencialidad.",
+        "C": "La seguridad en atención abarca prevención de daños, no es el principio central del caso.",
+        "D": "Obliga a no revelar información clínica a terceros sin autorización o fundamento legítimo."
+      },
+      "perlas": [
+        "El diagnóstico es dato sensible protegido.",
+        "Solo compartir información con autorización o justificación legal aplicable."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Trabajador comenta en una tienda el estado VIH de un paciente.",
+          "clave": "Vulneración de confidencialidad."
+        },
+        {
+          "caso": "Profesional comparte datos clínicos necesarios con equipo tratante autorizado.",
+          "clave": "Uso asistencial legítimo sujeto a reserva."
+        },
+        {
+          "caso": "Se publica una foto de historia clínica con nombre visible.",
+          "clave": "Exposición de datos personales y falta de confidencialidad."
+        }
+      ]
+    },
+    {
+      "number": 97,
+      "topic": "Prevención de caídas y seguimiento del adulto mayor frágil",
+      "question": "Se requiere implementar un plan de cuidado integral de salud del adulto mayor para la prevención de caídas. ¿Qué acción de cuidados será recomendable implementar en adultos mayores frágiles?",
+      "options": {
+        "A": "Completar los esquemas de vacunación",
+        "B": "Consejería para realizar ejercicio físico",
+        "C": "Descarte de enfermedades crónicas",
+        "D": "Implementar visitas domiciliarias periódicas"
+      },
+      "correct": "D",
+      "temario": "La fragilidad implica menor reserva fisiológica y mayor riesgo de caídas, discapacidad y hospitalización. En el primer nivel, las visitas domiciliarias periódicas permiten evaluar riesgos ambientales —alfombras sueltas, obstáculos, iluminación, escaleras—, adherencia, polifarmacia, hipotensión ortostática, visión, marcha y necesidad de ayudas técnicas. Un programa de prevención también incluye ejercicio multicomponente individualizado, en especial equilibrio y fortalecimiento, y revisión de fármacos. El ejercicio es una estrategia eficaz, pero en adultos mayores frágiles debe adaptarse a tolerancia y seguridad. La pregunta enfatiza un plan de cuidado integral y seguimiento de la persona frágil; la clave D es razonada aunque B también aporta prevención.",
+      "fundamento": "Las visitas periódicas facilitan identificación de riesgos domiciliarios y seguimiento integral del adulto mayor frágil.",
+      "analisis": {
+        "A": "Vacunación es cuidado preventivo general, sin acción directa principal sobre caídas.",
+        "B": "Ejercicio adaptado reduce caídas y también es clínicamente valioso; no excluye D.",
+        "C": "Detectar comorbilidad puede identificar causas, pero no constituye por sí solo programa domiciliario de prevención.",
+        "D": "Permite evaluar hogar y dar continuidad al cuidado de una persona frágil."
+      },
+      "alerta": "B es intervención preventiva sustentada para caídas; clave D provisional por énfasis en fragilidad y cuidado integral domiciliario. Cotejar solucionario.",
+      "perlas": [
+        "Prevenir caídas exige evaluar marcha, fármacos y domicilio.",
+        "Ejercicios de fuerza y equilibrio deben individualizarse."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Adulto frágil tropieza con cables y alfombras en casa.",
+          "clave": "Visita domiciliaria para modificar peligros ambientales."
+        },
+        {
+          "caso": "Adulto mayor con debilidad y balance alterado sin contraindicaciones.",
+          "clave": "Plan de ejercicio supervisado de fuerza y equilibrio."
+        },
+        {
+          "caso": "Paciente presenta mareos al incorporarse tras antihipertensivos.",
+          "clave": "Valorar hipotensión ortostática y revisar medicación."
+        }
+      ]
+    },
+    {
+      "number": 98,
+      "topic": "Determinantes sociales intermedios: violencia interpersonal",
+      "question": "Mujer de 22 años víctima de violencia física, es derivada por la fiscalía para su atención integral en el establecimiento de salud. El área de psicología luego de la evaluación, inicia su plan de atención integral que constará de 10 sesiones. ¿Qué tipo de determinante social de la salud se está abordando?",
+      "options": {
+        "A": "Estructural",
+        "B": "Intermedio",
+        "C": "Comercial",
+        "D": "Económico"
+      },
+      "correct": "B",
+      "temario": "El marco de determinantes sociales distingue factores estructurales —contexto político, políticas públicas, estratificación y posición socioeconómica— de determinantes intermedios, que incluyen condiciones materiales, circunstancias psicosociales, comportamientos, factores biológicos y aspectos del sistema de salud. La violencia interpersonal y sus consecuencias psicológicas se relacionan directamente con circunstancias psicosociales intermedias; también pueden estar influidas por desigualdades estructurales de género y poder. La atención psicológica aborda consecuencias y recuperación, pero no elimina por sí sola todas las causas sociales de la violencia. El manejo requiere evaluación de seguridad, atención informada por trauma, medidas de protección y articulación con justicia y redes de apoyo.",
+      "fundamento": "La exposición a violencia y la afectación psicosocial tratadas en el caso se sitúan en determinantes intermedios.",
+      "analisis": {
+        "A": "Factores estructurales como desigualdad de género influyen, pero la situación inmediata es psicosocial.",
+        "B": "Incluye circunstancias psicosociales como violencia y sus consecuencias.",
+        "C": "No se describe influencia de productos o estrategias comerciales.",
+        "D": "Los recursos económicos pueden influir, pero no son la categoría concreta descrita."
+      },
+      "perlas": [
+        "Estructural: distribución de poder y recursos; intermedio: exposición material y psicosocial.",
+        "Atención a víctimas exige seguridad, privacidad y prevención de revictimización."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Paciente sufre estrés y lesiones por violencia de pareja.",
+          "clave": "Determinantes intermedios psicosociales."
+        },
+        {
+          "caso": "Normas laborales discriminatorias afectan acceso de mujeres a recursos.",
+          "clave": "Determinante estructural."
+        },
+        {
+          "caso": "Campaña de marketing promueve consumo nocivo de un producto.",
+          "clave": "Determinante comercial."
+        }
+      ]
+    },
+    {
+      "number": 99,
+      "topic": "Sífilis primaria: chancro y pruebas serológicas",
+      "question": "Varón de 20 años, señala haber tenido RS con pareja desconocida hace un mes y no acude al EESS para ser evaluado. Trae resultado de VDRL: 16 diluciones. FTA- ABS (+). Examen Físico: PA: 110/70 mmHg, FC: 85 X', FR: 14X', afebril; en REG, con úlcera genital, no presenta ronchas en manos y plantas de pies. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Gonorrea",
+        "B": "Sífilis primaria",
+        "C": "Herpes genital",
+        "D": "Infección por clamydia"
+      },
+      "correct": "B",
+      "temario": "La sífilis es infección por Treponema pallidum. La fase primaria suele presentarse tras un periodo de incubación de unas semanas con chancro genital, por lo general indoloro, y adenopatía regional; los rasgos clínicos pueden variar. El VDRL es prueba no treponémica cuantitativa que refleja actividad y permite seguimiento; una titulación '16 diluciones' suele referirse a 1:16, aunque debe registrarse el reporte literal del laboratorio. FTA-ABS es prueba treponémica reactiva que apoya infección, pero puede permanecer positiva después del tratamiento. No hay signos típicos de sífilis secundaria como exantema palmoplantar. Conviene verificar historia de tratamientos previos, otras ITS y realizar tratamiento oportuno según estadio y normativa. Una úlcera no distingue por sí sola sífilis de herpes, chancroide u otras causas.",
+      "fundamento": "Úlcera genital posterior a exposición sexual con VDRL reactivo y FTA-ABS positivo, sin manifestaciones de secundaria, orienta a sífilis primaria.",
+      "analisis": {
+        "A": "Gonorrea suele producir uretritis y secreción, no chancro típico.",
+        "B": "Compatible con úlcera de inoculación y serología para sífilis.",
+        "C": "Herpes suele presentar vesículas y úlceras dolorosas; las pruebas mostradas orientan a sífilis.",
+        "D": "Clamidia suele causar uretritis o infección asintomática, no este patrón serológico."
+      },
+      "perlas": [
+        "FTA-ABS confirma exposición/infección treponémica, no mide respuesta terapéutica.",
+        "VDRL cuantitativo sirve para seguimiento de títulos."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Paciente presenta úlcera genital indolora y serología treponémica reactiva.",
+          "clave": "Considerar sífilis primaria."
+        },
+        {
+          "caso": "Paciente tratado por sífilis mantiene FTA-ABS positivo.",
+          "clave": "Puede persistir positividad treponémica tras tratamiento."
+        },
+        {
+          "caso": "Paciente con erupción en palmas y plantas y VDRL reactivo.",
+          "clave": "Considerar sífilis secundaria."
+        }
+      ]
+    },
+    {
+      "number": 100,
+      "topic": "Prevención terciaria: reducir secuelas y discapacidad",
+      "question": "¿Cuál es el tipo de prevención cuyo objetivo es disminuir el avance y las complicaciones de la enfermedad establecida, mediante acciones orientadas a disminuir las secuelas y la discapacidad?",
+      "options": {
+        "A": "Secundaria",
+        "B": "Terciaria",
+        "C": "Cuaternaria",
+        "D": "Primaria"
+      },
+      "correct": "B",
+      "temario": "Los niveles clásicos de prevención se distinguen por momento y objetivo. Primaria previene aparición de enfermedad mediante vacunación y reducción de factores de riesgo. Secundaria detecta enfermedad temprana e interviene oportunamente, por ejemplo tamizaje indicado. Terciaria actúa cuando la enfermedad está establecida, para disminuir complicaciones, discapacidad y secuelas y recuperar la funcionalidad mediante tratamiento integral y rehabilitación. Cuaternaria procura evitar sobrediagnóstico, sobretratamiento y daños de intervenciones innecesarias. En diabetes, la prevención terciaria incluye manejo de pie diabético, reducción de complicaciones y rehabilitación cuando procede; el control de factores de riesgo puede participar en distintos niveles según el contexto.",
+      "fundamento": "El enunciado describe limitación de secuelas y discapacidad de enfermedad establecida: prevención terciaria.",
+      "analisis": {
+        "A": "Secundaria busca detección temprana y tratamiento precoz.",
+        "B": "Busca reducir complicaciones, secuelas y discapacidad.",
+        "C": "Previene iatrogenia y atención innecesaria.",
+        "D": "Evita aparición inicial de enfermedad."
+      },
+      "perlas": [
+        "Primaria evita aparición; secundaria detecta temprano; terciaria limita secuelas.",
+        "Cuaternaria protege frente a intervenciones innecesarias."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Paciente con secuelas de ACV recibe rehabilitación motora.",
+          "clave": "Prevención terciaria."
+        },
+        {
+          "caso": "Tamizaje identifica cáncer en etapa temprana.",
+          "clave": "Prevención secundaria."
+        },
+        {
+          "caso": "Se evita antibiótico innecesario en infección viral.",
+          "clave": "Prevención cuaternaria."
+        }
+      ]
+    }
+  ]
+}
