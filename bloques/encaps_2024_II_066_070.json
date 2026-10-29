@@ -1,0 +1,157 @@
+{
+  "bankId": "ENCAPS_2024_II",
+  "source": "Cuadernillo SERUMS-MINSA Medicina I de 01/09/2024, página 7; sin solucionario oficial",
+  "range": "066-070",
+  "format": "breve",
+  "status": "claves_razonadas_pendientes_de_cotejo_e_integracion",
+  "questions": [
+    {
+      "number": 66,
+      "topic": "Historia natural de enfermedad: período prodrómico",
+      "question": "¿Cuál es la etapa donde el curso de la enfermedad va desde el influjo de los factores causales hasta las primeras manifestaciones clínicas inespecíficas?",
+      "options": {
+        "A": "Subclínica",
+        "B": "Prepatogénica",
+        "C": "Prodrómica",
+        "D": "Clínica"
+      },
+      "correct": null,
+      "temario": "La fase subclínica comprende cambios patológicos antes de síntomas; la prodrómica es cuando aparecen manifestaciones inespecíficas. El enunciado mezcla ambos límites y no identifica inequívocamente una sola fase.",
+      "fundamento": "La mención a primeras manifestaciones inespecíficas sugiere período prodrómico (C), pero el intervalo desde factores causales abarca fases anteriores; se requiere cotejo.",
+      "analisis": {
+        "A": "Incluye el período sin síntomas hasta la aparición inicial.",
+        "B": "Precede al inicio de enfermedad.",
+        "C": "Corresponde a primeros síntomas inespecíficos.",
+        "D": "Es demasiado general."
+      },
+      "alerta": "Clave pendiente: redacción temporal ambigua.",
+      "perlas": [
+        "Subclínica: sin síntomas; pródromos: síntomas inespecíficos."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Paciente inicia malestar inespecífico antes de signos específicos.",
+          "clave": "Fase prodrómica."
+        }
+      ]
+    },
+    {
+      "number": 67,
+      "topic": "Acreditación I-4 y macroprocesos",
+      "question": "¿Cuántos macroprocesos se evalúan para la acreditación de un establecimiento del primer nivel de atención I-4?",
+      "options": {
+        "A": "18",
+        "B": "28",
+        "C": "22",
+        "D": "20"
+      },
+      "correct": null,
+      "temario": "El número de macroprocesos depende del listado de estándares de acreditación aplicable a la categoría I-4 en el año del examen.",
+      "fundamento": "El cuadernillo no incluye tabla de macroprocesos ni solucionario; no se asigna un número sin verificarlos.",
+      "analisis": {
+        "A": "Requiere cotejo del listado oficial.",
+        "B": "Requiere cotejo del listado oficial.",
+        "C": "Requiere cotejo del listado oficial.",
+        "D": "Requiere cotejo del listado oficial."
+      },
+      "alerta": "Clave pendiente de confirmación normativa.",
+      "perlas": [
+        "Categoría I-4: comprobar estándares por categoría antes de memorizar cantidades."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Equipo de calidad prepara autoevaluación de un centro I-4.",
+          "clave": "Aplicar listado oficial de estándares y macroprocesos para esa categoría."
+        }
+      ]
+    },
+    {
+      "number": 68,
+      "topic": "Estudio descriptivo transversal y magnitud de enfermedad",
+      "question": "Para determinar la magnitud de la faringoamigdalitis aguda en la población pediátrica de su localidad utilizando los criterios de Centor. ¿Qué tipo de estudio usaría?",
+      "options": {
+        "A": "Analítico experimentale",
+        "B": "Descriptivo transversal",
+        "C": "Analítico observacional",
+        "D": "Descriptivo longitudinal"
+      },
+      "correct": "B",
+      "temario": "La magnitud de un problema en población en un momento o período acotado se estima con estudio descriptivo transversal. Centor ayuda a clasificar probabilidad clínica, no define el diseño epidemiológico.",
+      "fundamento": "Medir frecuencia poblacional sin intervención ni seguimiento corresponde a transversal descriptivo.",
+      "analisis": {
+        "A": "Intervendría sobre una exposición.",
+        "B": "Estima frecuencia en un corte.",
+        "C": "Compara asociaciones entre variables.",
+        "D": "Implica observaciones a lo largo del tiempo."
+      },
+      "perlas": [
+        "Magnitud/prevalencia → transversal; incidencia → seguimiento."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Se evalúa a escolares durante una semana para cuantificar faringitis.",
+          "clave": "Descriptivo transversal."
+        }
+      ]
+    },
+    {
+      "number": 69,
+      "topic": "VACAM en establecimiento I-1",
+      "question": "Adulto mayor acude a un establecimiento de salud I-1, se le capta para realizar su cuidado integral. ¿Qué tipo de valoración clínica del adulto mayor (VACAM) le corresponde?",
+      "options": {
+        "A": "Integral",
+        "B": "Breve",
+        "C": "Completa",
+        "D": "Corta"
+      },
+      "correct": "B",
+      "temario": "La valoración clínica del adulto mayor puede adecuarse a la capacidad resolutiva del establecimiento. En el primer nivel I-1 la opción esperada es VACAM breve.",
+      "fundamento": "El enunciado pregunta por modalidad inicial en I-1; se propone breve.",
+      "analisis": {
+        "A": "Término general, no modalidad esperada.",
+        "B": "Alternativa esperada para I-1.",
+        "C": "Evaluación más extensa.",
+        "D": "No es la denominación seleccionada."
+      },
+      "alerta": "Confirmar la denominación y correspondencia por categoría en norma técnica MINSA del año 2024.",
+      "perlas": [
+        "VACAM: valoración funcional y clínica acorde con el nivel de atención."
+      ],
+      "refuerzo": [
+        {
+          "caso": "En puesto I-1 se inicia valoración de adulto mayor recién captado.",
+          "clave": "Realizar VACAM correspondiente al primer nivel y referir según hallazgos."
+        }
+      ]
+    },
+    {
+      "number": 70,
+      "topic": "Bioética: autonomía en relación médico-paciente",
+      "question": "En la relación clínica médico-paciente de acuerdo a la ética. ¿Cuál es el principio que rige?",
+      "options": {
+        "A": "Jurisprudencia",
+        "B": "Justicia",
+        "C": "Autonomía",
+        "D": "No-maleficencia"
+      },
+      "correct": "C",
+      "temario": "La autonomía reconoce la capacidad del paciente para decidir libremente tras información suficiente; el vínculo médico-paciente también se rige por beneficencia, no maleficencia y justicia.",
+      "fundamento": "La pregunta apunta al respeto de la decisión del paciente: autonomía.",
+      "analisis": {
+        "A": "No es un principio bioético.",
+        "B": "Distribución equitativa de recursos y cargas.",
+        "C": "Respeto a decisiones informadas.",
+        "D": "Deber de no causar daño."
+      },
+      "perlas": [
+        "Autonomía = decisión informada; no maleficencia = no causar daño."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Paciente competente rechaza procedimiento después de comprender riesgos.",
+          "clave": "Respetar autonomía y documentar decisión."
+        }
+      ]
+    }
+  ]
+}
