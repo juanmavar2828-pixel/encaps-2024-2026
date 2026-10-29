@@ -1,0 +1,156 @@
+{
+  "bankId": "ENCAPS_2024_II",
+  "source": "Cuadernillo SERUMS MINSA Medicina-I, 1 de septiembre de 2024, páginas 10–11, sin solucionario oficial",
+  "range": "096-100",
+  "format": "breve",
+  "status": "claves_razonadas_pendientes_cotejo_e_integracion",
+  "questions": [
+    {
+      "number": 96,
+      "topic": "Uso racional de medicamentos",
+      "question": "¿Cómo se define cuando los pacientes reciben la medicación adecuada a sus necesidades clínicas, en las dosis correspondientes a sus requisitos individuales, durante un período de tiempo adecuado y al menor costo posible para ellos y para la comunidad?",
+      "options": {
+        "A": "Estudios clínicos",
+        "B": "Seguimiento farmacoterapéutico",
+        "C": "Uso racional de medicamentos",
+        "D": "Atención farmacéutica"
+      },
+      "correct": "C",
+      "temario": "Uso racional implica elegir medicamento, dosis, duración y costo apropiados para cada paciente.",
+      "fundamento": "El enunciado reproduce la definición clásica de uso racional de medicamentos.",
+      "analisis": {
+        "A": "Investiga intervenciones, no define uso adecuado.",
+        "B": "Monitoriza farmacoterapia individual.",
+        "C": "Definición correcta.",
+        "D": "Incluye servicios farmacéuticos más amplios."
+      },
+      "perlas": [
+        "Racional = fármaco correcto, dosis correcta, tiempo correcto y menor costo razonable."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Se receta antibiótico solo cuando está indicado y por duración apropiada.",
+          "clave": "Uso racional de medicamentos."
+        }
+      ]
+    },
+    {
+      "number": 97,
+      "topic": "Variables cuantitativas discretas",
+      "question": "En bioestadística, las observaciones cuantitativas que brindan datos discretos corresponden a ...",
+      "options": {
+        "A": "valor que se puede dividir en fracciones entre dos puntos cualquiera.",
+        "B": "un número infinito de fracciones entre dos puntos de la escala.",
+        "C": "valor que se puede dividir en infinitos valores entre dos puntos cualquiera.",
+        "D": "valores individuales que sólo aceptan números enteros."
+      },
+      "correct": "D",
+      "temario": "Los datos discretos proceden de conteos y adoptan valores separados, habitualmente enteros; los continuos admiten fracciones.",
+      "fundamento": "La opción D describe el ejemplo habitual de variables cuantitativas discretas.",
+      "analisis": {
+        "A": "Describe continuidad.",
+        "B": "Describe infinitos valores intermedios.",
+        "C": "Describe continuidad.",
+        "D": "Describe conteos enteros."
+      },
+      "perlas": [
+        "Discreta = contar; continua = medir."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Número de hijos por familia: 0, 1, 2, 3.",
+          "clave": "Variable cuantitativa discreta."
+        }
+      ]
+    },
+    {
+      "number": 98,
+      "topic": "ESAVI coincidente",
+      "question": "Cuando el evento definitivamente no está relacionado a la vacuna y se identifica una etiología o patología que explica de manera razonable el cuadro clínico (enfermedad producida por otra etiología). ¿A qué tipo de ESAVI corresponde?",
+      "options": {
+        "A": "Inmunización",
+        "B": "Evento no concluyente",
+        "C": "Evento coincidente",
+        "D": "RAM"
+      },
+      "correct": "C",
+      "temario": "ESAVI coincidente es un evento posterior a inmunización cuya causa se atribuye a otro proceso sin relación causal con la vacuna.",
+      "fundamento": "La causa alternativa identificada caracteriza un evento coincidente.",
+      "analisis": {
+        "A": "No es una clasificación causal específica.",
+        "B": "Implica insuficiencia de evidencia para concluir.",
+        "C": "Evento temporalmente asociado pero causalmente independiente.",
+        "D": "RAM es categoría farmacológica diferente."
+      },
+      "perlas": [
+        "Después de vacunar no implica causado por la vacuna."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Se diagnostica infección viral independiente tras vacunación.",
+          "clave": "ESAVI coincidente si la evaluación causal lo confirma."
+        }
+      ]
+    },
+    {
+      "number": 99,
+      "topic": "Autonomía y consentimiento informado adolescente",
+      "question": "En consulta a paciente adolescente el médico realiza la evaluación antropométrica; al tomar pliegues cutáneos y perímetros, no realiza consentimiento informado. ¿Qué principio ético está vulnerando?",
+      "options": {
+        "A": "Beneficencia",
+        "B": "Justicia",
+        "C": "No maleficencia",
+        "D": "Autonomía"
+      },
+      "correct": "D",
+      "temario": "La autonomía exige informar y obtener autorización apropiada antes de procedimientos, considerando madurez, asentimiento adolescente y reglas de representación aplicables.",
+      "fundamento": "Omitir la información y autorización afecta la autonomía.",
+      "analisis": {
+        "A": "Se refiere a procurar beneficio.",
+        "B": "Se refiere a equidad.",
+        "C": "Se refiere a evitar daño.",
+        "D": "Protege decisión informada."
+      },
+      "alerta": "No todos los procedimientos antropométricos requieren consentimiento escrito; el examen alude al proceso de información y autorización.",
+      "perlas": [
+        "Autonomía = decisión informada; consentimiento no siempre equivale a formulario escrito."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Adolescente no recibe información sobre evaluación física antes de realizarla.",
+          "clave": "Respetar autonomía y obtener autorización pertinente."
+        }
+      ]
+    },
+    {
+      "number": 100,
+      "topic": "Consumo de sodio recomendado por OMS",
+      "question": "¿Cuál es la cantidad de consumo de sodio recomendado por la Organización Mundial de la Salud (OMS) y la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO)?",
+      "options": {
+        "A": "8 mg/día",
+        "B": "<5 g/día",
+        "C": ">7 g/día",
+        "D": "6 g/día"
+      },
+      "correct": "B",
+      "temario": "La OMS recomienda menos de 2 g diarios de sodio, equivalentes a menos de 5 g de sal por día en adultos. El enunciado confunde sodio con sal.",
+      "fundamento": "Entre las alternativas, <5 g/día corresponde a sal, no a sodio elemental: B es la intención probable del examen.",
+      "analisis": {
+        "A": "8 mg de sodio es extremadamente bajo.",
+        "B": "Corresponde al límite recomendado de sal.",
+        "C": "Es superior al límite de sal.",
+        "D": "Supera el valor recomendado de sal."
+      },
+      "alerta": "Clave B provisional por error de unidad/concepto en el enunciado: 5 g de SAL equivalen aproximadamente a 2 g de SODIO.",
+      "perlas": [
+        "OMS: <2 g sodio/día = <5 g sal/día."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Paciente pregunta el máximo recomendado de sal de mesa.",
+          "clave": "Menos de 5 gramos diarios."
+        }
+      ]
+    }
+  ]
+}
