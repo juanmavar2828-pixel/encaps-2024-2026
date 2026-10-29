@@ -375,11 +375,11 @@ async function init(){
         if(originales.length!==100)throw new Error('El banco debe contener 100 preguntas: '+originales.length);
         const preguntas=originales.map((q,i)=>{
           const opciones=q.options||{};
-          // Pregunta 1 del 2025-II: respuesta provisional D, no oficial.
-          const clave=q.correct||((convocatoria==='II'&&q.number===1)?'D':null);
-          if(!clave||!opciones[clave])throw new Error('Clave no validable en pregunta '+q.number);
+          // Las preguntas sin clave se incluyen para lectura, pero no se califican con una respuesta inventada.
+          const clave=q.correct||'PENDIENTE';
+          if(clave!=='PENDIENTE'&&!opciones[clave])throw new Error('Clave no validable en pregunta '+q.number);
           const comentario=[q.fundamento,q.temario,'ANÁLISIS DE ALTERNATIVAS',...Object.entries(q.analisis||{}).map(([k,v])=>k+': '+v),q.alerta?'ADVERTENCIA: '+q.alerta:''].filter(Boolean).join('\\n\\n');
-          const leccion={respuesta_resumida:clave+'. '+opciones[clave],razonamiento:q.fundamento||'',temario:[q.temario||''],por_que_no_las_otras:q.analisis||{},perla:(q.perlas||[]).join(' '),trampas:q.alerta?[q.alerta]:[],refuerzo:(q.refuerzo||[]).map(c=>({enunciado:c.caso,respuesta:c.clave})),repaso_activo:(q.refuerzo||[]).map(c=>c.caso+' — '+c.clave)};
+          const leccion={respuesta_resumida:clave==='PENDIENTE'?'Clave pendiente de validación':clave+'. '+opciones[clave],razonamiento:q.fundamento||'',temario:[q.temario||''],por_que_no_las_otras:q.analisis||{},perla:(q.perlas||[]).join(' '),trampas:q.alerta?[q.alerta]:[],refuerzo:(q.refuerzo||[]).map(c=>({enunciado:c.caso,respuesta:c.clave})),repaso_activo:(q.refuerzo||[]).map(c=>c.caso+' — '+c.clave)};
           return {number:q.number||i+1,code:'ENCAPS25-'+convocatoria+' P'+String(q.number||i+1).padStart(3,'0'),course:'Medicina Humana',topic:q.topic||'',question:q.question,options:opciones,correct:clave,comment:comentario,pearl:(q.perlas||[]).join(' '),keywords:[],estadoClave:q.correct?'razonada_pendiente_cotejo_oficial':'provisional_no_verificada',lesson:leccion};
         });
         const newBank={schemaVersion:1,bankId:id,title:'ENCAPS 2025-'+convocatoria+' · Medicina Humana',source:'SERUMS MINSA Medicina I · '+(convocatoria==='I'?'06 abril 2025':'24 agosto 2025')+' · claves razonadas pendientes de cotejo',questionCount:100,questions:preguntas};
@@ -788,7 +788,7 @@ function scrollToQuestionStart(){const el=document.getElementById('qMeta')||docu
 function renderQuestion(){
  const r=current();if(!r){goHome();return} const {bank,q}=r;const id=qid(bank.bankId,q.code);const saved=session.answers?.[id]||null;const concealed=isRealExamSession()&&!session.finished&&!session.examCommitted;
  document.getElementById('modePill').textContent=session.mode;
- document.getElementById('qMeta').innerHTML=`${escapeHtml(bankTitle(bank))} · ${escapeHtml(q.code)} · Pregunta ${session.index+1} de ${session.items.length}${saved?' · <span class="answered-badge">respuesta guardada</span>':''}${concealed?' · 🎓 respuestas ocultas hasta finalizar':''}`;
+ document.getElementById('qMeta').innerHTML=`${escapeHtml(bankTitle(bank))} · ${escapeHtml(q.code)} · Pregunta ${session.index+1} de ${session.items.length}${saved?' · <span class="answered-badge">respuesta guardada</span>':''}${concealed?' · 🎓 respuestas ocultas hasta finalizar':''}${q.correct==='PENDIENTE'?' · ⚠ Clave pendiente, no calificable':''}`;
  document.getElementById('quizBar').style.width=((session.index+1)/session.items.length*100)+'%';
  document.getElementById('qText').innerHTML=(saved&&!concealed)?highlightQuestion(q.question,q.keywords):escapeHtml(q.question);
  const p=progress.get(id);document.getElementById('favBtn').textContent=p?.favorite?'★':'☆';
@@ -815,7 +815,7 @@ async function applyChoiceToProgress(bank,q,letter,now,mode,sessionId,countDaily
  progress.set(id,p);await put('progress',p);if(countDaily)await recordDailyErrorReview(p);return p;
 }
 async function answer(letter){
- const r=current();if(!r)return;if(session.paused)return toast('Primero reanuda el simulacro.');if(session.finished)return toast('Esta vuelta ya terminó. Puedes revisar tus respuestas o iniciar una nueva vuelta.');const {bank,q}=r;const id=qid(bank.bankId,q.code);if(!q.options[letter])return;const now=new Date().toISOString();
+ const r=current();if(!r)return;if(session.paused)return toast('Primero reanuda el simulacro.');if(session.finished)return toast('Esta vuelta ya terminó. Puedes revisar tus respuestas o iniciar una nueva vuelta.');const {bank,q}=r;const id=qid(bank.bankId,q.code);if(!q.options[letter])return;if(q.correct==='PENDIENTE')return toast('Esta pregunta conserva su clave pendiente; no se califica hasta validarla.');const now=new Date().toISOString();
  if(isRealExamSession()){
    session.answers=session.answers||{};session.answers[id]={letter,answeredAt:now};
    await saveCurrentSession();
