@@ -356,6 +356,40 @@ async function init(){
     }catch(err){console.warn('Banco ENCAPS 2026-I no disponible: se conserva la copia local anterior',err)}
   }
 
+  // ENCAPS 2025-I y 2025-II: carga progresiva de los veinte bloques de cinco preguntas.
+  // Conserva bankId y code para preservar el progreso en IndexedDB.
+  if(location.protocol==='http:'||location.protocol==='https:'){
+    for(const convocatoria of ['I','II']){
+      const id='ENCAPS_2025_'+convocatoria;
+      if(retiredBanks.has(id))continue;
+      try{
+        const paths=Array.from({length:20},(_,i)=>{
+          const a=String(i*5+1).padStart(3,'0');
+          const b=String(i*5+5).padStart(3,'0');
+          return './bloques/encaps_2025_'+convocatoria+'_'+a+'_'+b+'.json';
+        });
+        const respuestas=await Promise.all(paths.map(p=>fetch(p,{cache:'no-store'})));
+        if(respuestas.some(r=>!r.ok))throw new Error('Faltan archivos de bloques 2025-'+convocatoria);
+        const partes=await Promise.all(respuestas.map(r=>r.json()));
+        const originales=partes.flatMap(p=>Array.isArray(p.questions)?p.questions:[]);
+        if(originales.length!==100)throw new Error('El banco debe contener 100 preguntas: '+originales.length);
+        const preguntas=originales.map((q,i)=>{
+          const opciones=q.options||{};
+          // Pregunta 1 del 2025-II: respuesta provisional D, no oficial.
+          const clave=q.correct||((convocatoria==='II'&&q.number===1)?'D':null);
+          if(!clave||!opciones[clave])throw new Error('Clave no validable en pregunta '+q.number);
+          const comentario=[q.fundamento,q.temario,'ANÁLISIS DE ALTERNATIVAS',...Object.entries(q.analisis||{}).map(([k,v])=>k+': '+v),q.alerta?'ADVERTENCIA: '+q.alerta:''].filter(Boolean).join('\\n\\n');
+          const leccion={respuesta_resumida:clave+'. '+opciones[clave],razonamiento:q.fundamento||'',temario:[q.temario||''],por_que_no_las_otras:q.analisis||{},perla:(q.perlas||[]).join(' '),trampas:q.alerta?[q.alerta]:[],refuerzo:(q.refuerzo||[]).map(c=>({enunciado:c.caso,respuesta:c.clave})),repaso_activo:(q.refuerzo||[]).map(c=>c.caso+' — '+c.clave)};
+          return {number:q.number||i+1,code:'ENCAPS25-'+convocatoria+' P'+String(q.number||i+1).padStart(3,'0'),course:'Medicina Humana',topic:q.topic||'',question:q.question,options:opciones,correct:clave,comment:comentario,pearl:(q.perlas||[]).join(' '),keywords:[],estadoClave:q.correct?'razonada_pendiente_cotejo_oficial':'provisional_no_verificada',lesson:leccion};
+        });
+        const newBank={schemaVersion:1,bankId:id,title:'ENCAPS 2025-'+convocatoria+' · Medicina Humana',source:'SERUMS MINSA Medicina I · '+(convocatoria==='I'?'06 abril 2025':'24 agosto 2025')+' · claves razonadas pendientes de cotejo',questionCount:100,questions:preguntas};
+        validateBank(newBank);
+        await put('banks',newBank);
+      }catch(err){console.warn('No se pudo integrar ENCAPS '+id+'. Se conserva cualquier banco local existente.',err)}
+    }
+    bs=await getAll('banks');
+  }
+
   // Balotario DIRESA Puno 2026: conservar preguntas, claves y justificaciones originales,
   // con módulos de 100 números y sin reemplazar los bancos ENCAPS existentes.
   if(location.protocol==='http:'||location.protocol==='https:'){
