@@ -1,0 +1,203 @@
+{
+  "bankId": "ENCAPS_2025_I",
+  "examType": "Medicina-I, cuadernillo adjunto",
+  "source": "PDF encaps 2025-I claves.pdf, 06 abril 2025, preguntas 31-35",
+  "range": "031-035",
+  "status": "desarrollo_razonado_pendiente_cotejo_claves_oficiales_e_integracion_en_app",
+  "questions": [
+    {
+      "number": 31,
+      "topic": "Atención integral del adulto mayor y enfoque de derechos",
+      "question": "Usted trabaja en un centro de salud y advierte que la población que acude son personas adultas mayores en un 80%. ¿Qué medida inicial puede tomar para mejorar su atención?",
+      "options": {
+        "A": "Tener un enfoque de derechos",
+        "B": "Favorecer la participación de la familia",
+        "C": "Promover la educación en la comunidad",
+        "D": "Fortalecer su equipo multidisciplinario"
+      },
+      "correct": "A",
+      "temario": "El enfoque de derechos en atención de personas adultas mayores parte de dignidad, autonomía, accesibilidad, no discriminación por edad y participación en decisiones. En el primer nivel se recomienda identificar barreras físicas, sensoriales y comunicativas, facilitar continuidad de atención, valorar capacidad funcional, riesgo de caídas, polifarmacia y redes de apoyo. La familia y el equipo multidisciplinario pueden mejorar resultados, pero deben respetar preferencias del paciente y no reemplazar su capacidad de decisión. Dado que el enunciado no define presupuesto, cartera ni déficits de personal, elegir una medida inicial general basada en derechos es razonable, aunque fortalecer el equipo también sería operativo.",
+      "fundamento": "A es una respuesta razonada porque orienta toda la organización de la atención hacia el respeto y acceso de una población mayoritaria adulta mayor.",
+      "analisis": {
+        "A": "Marco transversal inicial para una atención accesible, digna y no discriminatoria.",
+        "B": "Es útil como apoyo, pero no debe desplazar autonomía de la persona mayor.",
+        "C": "Educación comunitaria es intervención posterior y complementaria.",
+        "D": "Equipo multidisciplinario puede ser prioritario si existen brechas, pero estas no están explicitadas."
+      },
+      "alerta": "Ítem amplio; A y D son propuestas plausibles. Clave provisional hasta cotejo oficial.",
+      "perlas": [
+        "Edad avanzada no implica incapacidad para decidir.",
+        "Valoración funcional y accesibilidad deben integrarse a la atención."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Paciente mayor con hipoacusia no entiende indicaciones.",
+          "clave": "Ajustar comunicación y verificar comprensión como parte del enfoque de derechos."
+        },
+        {
+          "caso": "Familia decide tratamiento sin consultar a adulto mayor competente.",
+          "clave": "Respetar autonomía y consentimiento."
+        },
+        {
+          "caso": "Centro atiende muchos adultos mayores con caídas recurrentes.",
+          "clave": "Articular evaluación multidisciplinaria de riesgo y movilidad."
+        }
+      ]
+    },
+    {
+      "number": 32,
+      "topic": "Custodia y responsabilidad por historias clínicas",
+      "question": "¿Quién es el responsable frente a la pérdida de la totalidad o parte de la historia clínica en el proceso de atención de salud?",
+      "options": {
+        "A": "Quien la entregó por última vez",
+        "B": "Jefe de archivo de historias clínicas",
+        "C": "Jefe del establecimiento de salud",
+        "D": "Quien la recibió por última vez"
+      },
+      "correct": "D",
+      "temario": "La historia clínica es documento médico-legal confidencial y su conservación exige trazabilidad durante préstamo, traslado, atención, devolución y archivo. Quien recibe su custodia durante un proceso asistencial asume deber de protección y entrega oportuna, documentándose movimiento en registros. La responsabilidad institucional por implementar procedimientos y sistemas de seguridad recae además en la IPRESS y sus responsables según normativa; no confundir esa responsabilidad organizacional con custodia directa del último receptor. En casos de extravío corresponde búsqueda documentada, comunicación según procedimientos y medidas para proteger continuidad asistencial y datos personales.",
+      "fundamento": "La pregunta se restringe a pérdida durante proceso de atención: el último receptor registrado es el responsable directo de la custodia, opción D, sujeto a verificación de texto normativo.",
+      "analisis": {
+        "A": "La entrega registrada normalmente traslada custodia al receptor.",
+        "B": "Archivo responde por conservación en su ámbito, pero no necesariamente durante préstamo asistencial.",
+        "C": "Existe responsabilidad de gestión general, distinta de custodia material en proceso.",
+        "D": "Identifica al último custodio material durante la atención."
+      },
+      "alerta": "Necesita cotejo del artículo exacto de la NTS de gestión de historia clínica; no equiparar automáticamente custodio con responsabilidad legal final.",
+      "perlas": [
+        "Registrar entrega y recepción de historias clínicas.",
+        "Confidencialidad también incluye prevenir pérdida o acceso no autorizado."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Servicio recibe historia clínica prestada y no la devuelve.",
+          "clave": "Revisar registro de entrega y último custodio."
+        },
+        {
+          "caso": "Archivo pierde expediente que nunca fue prestado.",
+          "clave": "Investigar custodia en archivo y responsabilidad institucional."
+        },
+        {
+          "caso": "Registro electrónico permite identificar accesos no autorizados.",
+          "clave": "Usar trazabilidad y auditoría de acceso."
+        }
+      ]
+    },
+    {
+      "number": 33,
+      "topic": "Determinantes globales de salud: pobreza, conflictos y crisis psicosociales",
+      "question": "La salud pública está afectada por sobrepoblación mundial, grandes conflictos políticos-sociales y la pobreza creciente; como consecuencia inicial de estos fenómenos. ¿Qué ocurre principalmente?",
+      "options": {
+        "A": "La aparición de enfermedades epidémicas",
+        "B": "El surgimiento de nuevas enfermedades",
+        "C": "El aumento en la incidencia de enfermedades",
+        "D": "Las crisis psicosociales"
+      },
+      "correct": "D",
+      "temario": "Los conflictos, desplazamiento, empobrecimiento y presión demográfica alteran redes familiares, seguridad, empleo y acceso a cuidados; generan estrés, duelo, violencia, inseguridad alimentaria y crisis psicosociales. Estas condiciones también incrementan riesgo de enfermedades transmisibles y crónicas, pero no implican necesariamente aparición de patógenos nuevos. Los efectos se manifiestan de forma simultánea y varían por territorio. La respuesta de salud pública combina atención psicosocial, protección social, continuidad de servicios, vigilancia, alojamiento y agua segura. El enunciado 'consecuencia inicial' es inespecífico y no permite establecer un orden causal universal.",
+      "fundamento": "D es interpretación razonada de efecto social inmediato de pobreza y conflictos; sin embargo C también podría resultar plausible y requiere cotejo de clave oficial.",
+      "analisis": {
+        "A": "Brotes pueden ocurrir por desplazamiento y hacinamiento, pero no son inevitables.",
+        "B": "No todo conflicto causa nuevas enfermedades.",
+        "C": "Mayor incidencia de enfermedades es consecuencia posible, aunque no necesariamente la inicial predominante.",
+        "D": "Describe perturbación inmediata del bienestar individual, familiar y comunitario."
+      },
+      "alerta": "Pregunta conceptualmente ambigua; no existe secuencia universal entre crisis psicosociales y aumento de incidencia.",
+      "perlas": [
+        "Conflictos y pobreza son determinantes sociales de salud.",
+        "Evitar inferir causalidad inevitable a partir de problemas globales."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Desplazados presentan ansiedad, duelo y pérdida de apoyo social.",
+          "clave": "Crisis psicosocial."
+        },
+        {
+          "caso": "Albergue hacinado sin agua segura presenta diarreas.",
+          "clave": "Riesgo de brote por condiciones materiales."
+        },
+        {
+          "caso": "Desempleo y pobreza dificultan continuidad de tratamiento crónico.",
+          "clave": "Determinantes sociales que agravan resultados sanitarios."
+        }
+      ]
+    },
+    {
+      "number": 34,
+      "topic": "Medidas de morbilidad: incidencia y prevalencia",
+      "question": "Para medir el riesgo de una enfermedad en la comunidad, se utilizan medidas de morbilidad como la incidencia que mide la …... y la prevalencia que mide la …… de la enfermedad.",
+      "options": {
+        "A": "virulencia / frecuencia",
+        "B": "proporción / frecuencia",
+        "C": "velocidad / magnitud",
+        "D": "casos antiguos / casos nuevos"
+      },
+      "correct": "C",
+      "temario": "La incidencia cuantifica aparición de casos nuevos durante un periodo: la incidencia acumulada estima probabilidad de enfermar en población en riesgo y la tasa de incidencia expresa velocidad con persona-tiempo. La prevalencia mide proporción de personas que viven con una condición en un punto o periodo, reflejando magnitud de casos existentes. Así, 'velocidad/magnitud' es contraste pedagógico frecuente, aunque incidencia acumulada no es técnicamente velocidad: es una proporción de riesgo. Prevalencia aumenta con mayor incidencia o duración y disminuye con curación o mortalidad, bajo supuestos apropiados.",
+      "fundamento": "La clave C expresa incidencia como velocidad de aparición y prevalencia como magnitud de enfermedad, con precisión de que la primera se refiere a tasa de incidencia.",
+      "analisis": {
+        "A": "Virulencia es gravedad/capacidad patógena del agente, no incidencia.",
+        "B": "La incidencia acumulada sí puede ser proporción, pero 'frecuencia' no diferencia con claridad prevalencia.",
+        "C": "Asocia tasa de incidencia con velocidad y prevalencia con magnitud.",
+        "D": "Invierte conceptos y omite denominadores."
+      },
+      "perlas": [
+        "Incidencia: casos nuevos; prevalencia: casos existentes.",
+        "Tasa de incidencia = casos nuevos/persona-tiempo."
+      ],
+      "refuerzo": [
+        {
+          "caso": "20 casos nuevos entre 1000 personas seguidas un año.",
+          "clave": "Incidencia acumulada 2% si seguimiento completo."
+        },
+        {
+          "caso": "90 de 1500 habitantes viven con hipertensión hoy.",
+          "clave": "Prevalencia puntual 6%."
+        },
+        {
+          "caso": "15 casos nuevos durante 3000 personas-año.",
+          "clave": "Tasa de incidencia 5 por 1000 personas-año."
+        }
+      ]
+    },
+    {
+      "number": 35,
+      "topic": "Estudio descriptivo: alcances y limitaciones analíticas",
+      "question": "Debido a que se observaron muchos casos de suicidios en adolescentes en la comunidad donde usted labora, le encargan realizar un estudio descriptivo sobre la depresión en adolescentes en su comunidad ¿Cuál será la principal limitante del estudio?",
+      "options": {
+        "A": "Sus resultados no serán extrapolables",
+        "B": "Demandará costos económicos muy elevados",
+        "C": "El análisis estadístico será muy complejo",
+        "D": "No permitirá hallar asociación de variables"
+      },
+      "correct": "D",
+      "temario": "El estudio descriptivo caracteriza frecuencia y distribución de fenómenos por persona, tiempo y lugar, usando prevalencias, promedios o tasas, según diseño. No está concebido para contrastar hipótesis causales de exposición y desenlace y no permite establecer causalidad; sin embargo un conjunto de datos descriptivos sí puede mostrar asociaciones exploratorias, de modo que la opción D es una simplificación de examen. La extrapolación depende del muestreo y población, no del carácter descriptivo por sí solo; costo y complejidad varían. En contexto de suicidio adolescente se requiere respuesta sanitaria inmediata, evaluación de riesgo, rutas de atención y protección, además de investigación.",
+      "fundamento": "D recoge la limitación didáctica usual: el estudio exclusivamente descriptivo no está diseñado para evaluar asociaciones etiológicas, aunque la expresión 'no permitirá hallar asociación' es demasiado absoluta.",
+      "analisis": {
+        "A": "Con muestra representativa y métodos válidos sí puede generalizarse a población definida.",
+        "B": "No todos los descriptivos tienen alto costo.",
+        "C": "Frecuentemente utiliza análisis estadísticos relativamente sencillos.",
+        "D": "Es la más próxima a la falta de propósito analítico, con salvedad sobre asociaciones exploratorias."
+      },
+      "alerta": "Matiz metodológico: un descriptivo puede detectar patrones o asociaciones exploratorias; lo que no prueba es causalidad.",
+      "perlas": [
+        "Descriptivo responde quién, dónde, cuándo y cuánto.",
+        "Analítico contrasta hipótesis de asociación; causalidad exige más evidencia."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Encuesta estima prevalencia de síntomas depresivos por edad.",
+          "clave": "Estudio descriptivo."
+        },
+        {
+          "caso": "Estudio compara exposición a acoso y depresión con medida de asociación.",
+          "clave": "Diseño analítico."
+        },
+        {
+          "caso": "Muestreo aleatorio de toda una provincia estima prevalencia.",
+          "clave": "Resultados potencialmente generalizables dentro de su marco muestral."
+        }
+      ]
+    }
+  ]
+}
