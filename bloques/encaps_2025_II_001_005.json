@@ -1,0 +1,213 @@
+{
+  "bankId": "ENCAPS_2025_II",
+  "source": "Archivo original del usuario: encaps 2025 II claves.pdf, SERUMS MINSA MEDICINA I, 24/08/2025, página 1, preguntas 1-5",
+  "range": "001-005",
+  "status": "desarrollo_razonado_pendiente_cotejo_de_claves_e_integracion_en_banco",
+  "questions": [
+    {
+      "number": 1,
+      "topic": "Medicina tradicional: plantas medicinales y lumbalgia en persona adulta mayor",
+      "question": "Usted se encuentra como serumista en Iñapari donde realiza visita domiciliaria a una adulta mayor de 82 años y que presenta lumbalgia, al indicarle medicamentos se niega refiriendo que en la zona existen plantas medicinales. ¿Cuál le indicarías?",
+      "options": {
+        "A": "Perejil",
+        "B": "Tuna",
+        "C": "Albahaca",
+        "D": "Congona"
+      },
+      "correct": null,
+      "temario": "El cuidado intercultural reconoce la posibilidad de que personas mayores recurran a recursos botánicos locales. Es fundamental identificar con nombre científico la planta propuesta, su preparación, dosis, posibles efectos adversos e interacciones, en lugar de recomendarla solamente por denominación popular. La lumbalgia geriátrica exige examinar trauma, osteoporosis, fractura, fiebre, déficit neurológico, síndrome de cauda equina, síntomas urinarios, cáncer y uso de medicamentos. Antes de elegir perejil, tuna, albahaca o congona se requiere comprobar la referencia etnobotánica que el examen utiliza para atribuir una indicación concreta. El cuadernillo no contiene la ficha de uso medicinal ni la clave y la investigación independiente no permitió establecer con seguridad una respuesta única.",
+      "fundamento": "Sin evidencia verificable de cuál de las cuatro plantas se indica específicamente para lumbalgia en el material normativo/etnobotánico del examen, la clave se conserva como pendiente. No sería seguro inventar una recomendación para una mujer de 82 años.",
+      "analisis": {
+        "A": "Planta de uso alimentario y tradicional; no se demostró indicación específica como respuesta del ítem.",
+        "B": "Planta con diversos usos alimentarios y tradicionales; no hay soporte suficiente para asignarle la clave.",
+        "C": "Hierba aromática de usos populares variados, pero falta la referencia indicada en el temario.",
+        "D": "Planta medicinal conocida localmente en algunos contextos; podría ser la intención del reactivo, pero no se confirmó una indicación inequívoca."
+      },
+      "alerta": "CLAVE PENDIENTE: verificar fuente etnobotánica o solucionario oficial. No tomar como recomendación terapéutica la eventual respuesta del examen.",
+      "perlas": [
+        "Interculturalidad implica respeto, identificación botánica y evaluación de seguridad.",
+        "Lumbalgia a los 82 años: descartar fractura y otras señales de alarma."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Mujer de 83 años presenta lumbalgia intensa tras una caída.",
+          "clave": "Descartar fractura vertebral u otra lesión, sin retrasar evaluación por remedios caseros."
+        },
+        {
+          "caso": "Paciente utiliza infusión herbal pero desconoce la especie exacta.",
+          "clave": "Identificar ingrediente y riesgo de interacción antes de recomendar."
+        },
+        {
+          "caso": "Adulto mayor pide integrar práctica tradicional inocua con fisioterapia.",
+          "clave": "Dialogar y elaborar plan culturalmente pertinente y seguro."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "topic": "Obesidad abdominal y riesgo cardiometabólico: circunferencia de cintura femenina",
+      "question": "En la atención de una paciente de 50 años con diabetes mellitus tipo 2, usted le explica que el perímetro de cintura refleja la presencia de obesidad abdominal e indirectamente el nivel de riesgo cardiovascular. En mujeres con diabetes. ¿Cuál es límite en cm del perímetro de cintura?",
+      "options": {
+        "A": "99",
+        "B": "78",
+        "C": "87",
+        "D": "94"
+      },
+      "correct": "C",
+      "temario": "La circunferencia abdominal estima adiposidad central asociada a resistencia a la insulina y riesgo cardiometabólico. El punto de corte depende del sistema de clasificación y población: una guía peruana sobre diabetes cita obesidad abdominal en mujeres desde 88 cm (NCEP ATP III); otras definiciones usan 80 cm para determinados grupos. En las alternativas del examen figura 87 y no 88; se interpreta razonablemente como el límite superior normal cuando obesidad abdominal empieza con 88 cm, pero esta inferencia exige cotejo con el texto normativo que elaboró el reactivo. La medida se toma con cinta no extensible, de pie, siguiendo referencia anatómica estandarizada, sin comprimir abdomen. En mujeres con diabetes también deben valorarse presión, lípidos, tabaquismo, función renal y riesgos globales.",
+      "fundamento": "Si se considera normal menos de 88 cm y elevado desde 88, 87 cm puede representar máximo valor entero normal entre las alternativas. Es clave provisional, no un umbral nuevo inventado.",
+      "analisis": {
+        "A": "99 cm supera claramente los umbrales habituales de riesgo en mujeres.",
+        "B": "78 cm está por debajo de puntos de corte utilizados para riesgo abdominal.",
+        "C": "87 cm coincide con el último centímetro entero por debajo del umbral de 88 cm según referencia NCEP; requiere cotejo.",
+        "D": "94 cm se emplea en algunos esquemas para hombres y no coincide con el límite femenino descrito."
+      },
+      "alerta": "La norma frecuentemente expresa ≥88 cm, no 87 cm. Verificar cuál definición de 'límite' pretende la pregunta y su clave oficial.",
+      "fuentes_externas": [
+        "https://www.essalud.gob.pe/ietsi/pdfs/guias/aGuia_practica_clinica_para_diagnostico_tratamiento_control_de_diabetes_mellitus_tipo_2.pdf"
+      ],
+      "perlas": [
+        "El riesgo cardiometabólico se interpreta mediante varios factores, no solo cintura.",
+        "No confundir límite normal (<88) con umbral de riesgo (≥88) en el esquema citado."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Mujer de 50 años con cintura 94 cm y DM2.",
+          "clave": "Adiposidad central elevada según esquema ≥88 cm."
+        },
+        {
+          "caso": "Dos guías ofrecen límites distintos para cintura femenina.",
+          "clave": "Identificar población y estándar usado antes de responder."
+        },
+        {
+          "caso": "Paciente con cintura normal y dislipidemia.",
+          "clave": "Evaluar riesgo cardiovascular global, no descartarlo por cintura."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "topic": "Envejecimiento poblacional: índice de longevidad y otros indicadores demográficos",
+      "question": "En la comunidad donde realiza su SERUMS usted observa un alta frecuencia de personas adultas mayores, según informan las autoridades desde hace una década se viene observando este hecho. Para comprender este envejecimiento poblacional y estimar su posible evolución. ¿Cuál es el mejor indicador de salud pública que debe conocer en dicha comunidad?",
+      "options": {
+        "A": "Tasa de migración",
+        "B": "Índice de longevidad",
+        "C": "Esperanza de vida",
+        "D": "Tasa de fertilidad"
+      },
+      "correct": "B",
+      "temario": "El envejecimiento poblacional corresponde al aumento relativo de adultos mayores dentro de la estructura por edades. Sus causas incluyen mayor supervivencia, descenso de fecundidad y procesos migratorios. El índice de longevidad es un indicador de envejecimiento que compara población muy mayor con un conjunto de personas mayores, aunque el límite de edades puede variar según definición estadística utilizada. La esperanza de vida resume condiciones de mortalidad y no mide directamente la proporción actual de adultos mayores; fecundidad y migración influyen en la estructura etaria, pero cada una mide solo uno de sus determinantes. La situación descrita solicita un indicador orientado específicamente al peso relativo de población longeva; entre opciones B es la más directa. Idealmente analizar adicionalmente pirámide poblacional, índice de envejecimiento, dependencia y evolución temporal.",
+      "fundamento": "El índice de longevidad se asocia directamente con características del grupo de adultos mayores, a diferencia de indicadores de flujos migratorios, fecundidad o supervivencia teórica.",
+      "analisis": {
+        "A": "Las migraciones afectan composición etaria, pero no son medida directa de longevidad.",
+        "B": "Indicador demográfico específico del peso de personas de edades avanzadas.",
+        "C": "Estima años esperados de vida bajo mortalidad actual, no necesariamente estructura etaria.",
+        "D": "El descenso de fecundidad contribuye al envejecimiento, pero mide nacimientos."
+      },
+      "alerta": "La expresión 'envejecimiento poblacional' puede corresponder más exactamente al índice de envejecimiento, ausente entre las opciones; se usa B como respuesta razonada.",
+      "perlas": [
+        "Longevidad no equivale a esperanza de vida.",
+        "Índice de envejecimiento compara adultos mayores frente a población joven; índice de longevidad describe edades avanzadas dentro de adultos mayores."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Comunidad aumenta proporción de personas de 80+ entre adultos mayores.",
+          "clave": "Aumento de longevidad poblacional."
+        },
+        {
+          "caso": "Se estima cuántos años vivirá una cohorte hipotética de recién nacidos.",
+          "clave": "Esperanza de vida al nacer."
+        },
+        {
+          "caso": "Disminuyen nacimientos durante tres décadas.",
+          "clave": "La menor fecundidad contribuye al envejecimiento de estructura poblacional."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "topic": "Tuberculosis sin respuesta favorable: antecedente de TB resistente y prueba molecular de sensibilidad",
+      "question": "Paciente joven de 30 años con tratamiento anti-TB, que no mejora al tratamiento al tercer mes, no presenta deterioro clínico-radiológico. Ampliando la historia tiene antecedente de padre con diagnóstico de TBC-DR. ¿Cuál debe ser la conducta inicial del personal de salud?",
+      "options": {
+        "A": "Tomar una muestra de esputo para prueba de sensibilidad rápida",
+        "B": "Debe hacerse la historia al padre",
+        "C": "Debe iniciar tratamiento anti-TBC DR en este momento",
+        "D": "Debe referirse al médico consultor"
+      },
+      "correct": "A",
+      "temario": "Un paciente en tratamiento antituberculoso con respuesta insuficiente y exposición familiar a tuberculosis farmacorresistente requiere evaluación prioritaria de resistencia, adherencia, calidad del esquema, respuesta microbiológica y otras causas de persistencia de síntomas. Debe obtenerse muestra respiratoria adecuada para pruebas moleculares rápidas o de sensibilidad a fármacos según disponibilidad, además de pruebas complementarias que indiquen normas. Conocer antecedentes del contacto TB-DR orienta probabilidad preprueba, pero no prueba por sí solo que el paciente tenga resistencia. No se debe instaurar arbitrariamente un esquema para TB resistente sin la evaluación correspondiente, aunque decisiones urgentes pueden requerir manejo experto. Derivar al médico consultor puede formar parte de la atención, pero la toma de muestras diagnósticas no debería retrasarse.",
+      "fundamento": "La sospecha de resistencia por antecedente familiar y escasa respuesta exige prueba de sensibilidad rápida de esputo; opción A.",
+      "analisis": {
+        "A": "Aporta evidencia bacteriológica para detectar resistencia y orientar tratamiento.",
+        "B": "Ampliar información del contacto es útil, pero no resuelve la condición actual del paciente.",
+        "C": "Cambio a tratamiento TB-DR sin sustento ni valoración puede ser inapropiado.",
+        "D": "Interconsulta puede ser necesaria, pero no debe reemplazar muestra oportuna."
+      },
+      "perlas": [
+        "Contacto TB-DR + evolución desfavorable = investigar resistencia.",
+        "Prueba rápida no sustituye evaluación de adherencia y cultivo cuando corresponda."
+      ],
+      "fuentes_externas": [
+        "https://www.gob.pe/institucion/minsa/informes-publicaciones/6873271-norma-tecnica-de-salud-para-la-prevencion-y-control-de-la-tuberculosis",
+        "https://www.gob.pe/institucion/minsa/normas-legales/3649865-906-2022-minsa"
+      ],
+      "refuerzo": [
+        {
+          "caso": "Paciente con TB en tratamiento y cultivo persistentemente positivo.",
+          "clave": "Investigar adherencia y resistencia microbiológica."
+        },
+        {
+          "caso": "Conviviente de paciente con TB-RR inicia tos prolongada.",
+          "clave": "Estudio diagnóstico temprano y pruebas de resistencia."
+        },
+        {
+          "caso": "Paciente con TB sensible comprobada y dosis omitidas.",
+          "clave": "Corregir adherencia y evaluar evolución antes de atribuir fracaso a resistencia."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "topic": "Atención obstétrica intercultural: parto vertical y embarazo de alto riesgo",
+      "question": "En un establecimiento de la comunidad andina acude una gestante de 39.3 semanas con antecedentes de HTA crónica y diabetes gestacional que no cuenta con todos sus controles prenatales y solicita parto vertical. Usted como médico. ¿Qué conducta debe seguir?",
+      "options": {
+        "A": "Se niega a prestar atención",
+        "B": "Retorna al domicilio a la gestante",
+        "C": "Atiende el parto vertical",
+        "D": "Referir a centro de mayor complejidad"
+      },
+      "correct": "D",
+      "temario": "La posición vertical es una preferencia de parto que debe respetarse con pertinencia cultural y decisión informada cuando resulta clínicamente segura y el establecimiento posee capacidad resolutiva. Sin embargo, hipertensión crónica y diabetes gestacional, especialmente con controles prenatales insuficientes cerca del término, elevan riesgos maternos y fetales, como preeclampsia superpuesta, hiperglucemia, alteraciones de crecimiento, distocia y compromiso fetal. Corresponde evaluar inmediatamente signos vitales, síntomas de alarma, glucemia, bienestar fetal y fase del trabajo de parto; estabilizar y coordinar referencia a centro con capacidad obstétrica-neonatal adecuada cuando no exista capacidad local. No se debe enviar a domicilio sin evaluación ni negar atención. Si el parto es inminente e imposible trasladar con seguridad, prestar atención de emergencia conforme al contexto, respetando en lo posible preferencias.",
+      "fundamento": "La combinación de factores de alto riesgo y falta de vigilancia requiere evaluación y referencia a mayor complejidad si capacidad local insuficiente; D es la mejor entre las opciones.",
+      "analisis": {
+        "A": "Negar atención vulnera derechos y seguridad clínica.",
+        "B": "Regreso sin evaluación ni plan es peligroso.",
+        "C": "El parto vertical no está prohibido universalmente, pero no debe hacerse sin valorar riesgos y capacidad resolutiva.",
+        "D": "Permite manejo de gestación con complicaciones potenciales en establecimiento apropiado."
+      },
+      "alerta": "La conducta concreta depende de fase de parto, condición maternofetal y capacidad resolutiva; no trasladar si el parto es inminente y el traslado generaría mayor riesgo.",
+      "perlas": [
+        "Pertinencia cultural no significa omitir criterios obstétricos de seguridad.",
+        "Gestación de alto riesgo requiere referencia o atención obstétrica resolutiva."
+      ],
+      "fuentes_externas": [
+        "https://www.gob.pe/institucion/minsa/normas-legales/192109-518-2016-minsa",
+        "https://www.inmp.gob.pe/uploads/RD_N%C2%B0_230-2023-DG-INMP-MINSA.pdf"
+      ],
+      "refuerzo": [
+        {
+          "caso": "Gestante de bajo riesgo solicita parto vertical en centro capacitado.",
+          "clave": "Ofrecer opción con evaluación y consentimiento."
+        },
+        {
+          "caso": "Gestante con HTA crónica y cefalea intensa a término.",
+          "clave": "Evaluación y manejo urgente de trastorno hipertensivo; referencia según capacidad."
+        },
+        {
+          "caso": "Gestante con parto expulsivo inminente en centro rural.",
+          "clave": "Atender emergencia segura; no imponer traslado riesgoso."
+        }
+      ]
+    }
+  ]
+}
