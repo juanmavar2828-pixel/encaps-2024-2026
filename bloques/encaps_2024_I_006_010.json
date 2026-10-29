@@ -1,0 +1,149 @@
+{
+  "bankId": "ENCAPS_2024_I",
+  "source": "Cuadernillo Medicina-I 01 septiembre 2024, página 1",
+  "range": "006-010",
+  "format": "breve",
+  "questions": [
+    {
+      "number": 6,
+      "question": "Dentro de sus intervenciones a realizar en su establecimiento de salud, prioriza el programa articulado nutricional (PAN). ¿Cuál es el objetivo del programa?",
+      "options": {
+        "A": "Reducción de la desnutrición crónica en menores de 5 años",
+        "B": "Reducción de desnutrición y anemia en niños",
+        "C": "Disminución la desnutrición aguda en menores de 3 años",
+        "D": "Disminución de la malnutrición en menores de un año"
+      },
+      "correct": "A",
+      "temario": "El PAN se propuso reducir la desnutrición crónica infantil en menores de cinco años.",
+      "fundamento": "El PAN se propuso reducir la desnutrición crónica infantil en menores de cinco años.",
+      "analisis": {
+        "A": "El PAN se propuso reducir la desnutrición crónica infantil en menores de cinco años.",
+        "B": "No es la opción que mejor responde al enunciado.",
+        "C": "No es la opción que mejor responde al enunciado.",
+        "D": "No es la opción que mejor responde al enunciado."
+      },
+      "perlas": [
+        "El PAN se propuso reducir la desnutrición crónica infantil en menores de cinco años."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Aplique el concepto de la pregunta 6 a otro escenario.",
+          "clave": "El PAN se propuso reducir la desnutrición crónica infantil en menores de cinco años."
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "question": "¿Cuál de los siguientes enunciados es un indicador de estructura en la vigilancia epidemiológica en adolescentes?",
+      "options": {
+        "A": "% de adolescentes con consejería en salud nutricional",
+        "B": "% de regiones que cuentan con un documento de análisis de situación de salud regional de adolescentes",
+        "C": "% de adolescentes con consejería en salud sexual y reproductiva",
+        "D": "% de atenciones preventivas en adolescentes con SIS"
+      },
+      "correct": "B",
+      "temario": "Disponer de documentos de análisis expresa capacidad institucional; consejerías y atenciones son procesos.",
+      "fundamento": "Disponer de documentos de análisis expresa capacidad institucional; consejerías y atenciones son procesos.",
+      "analisis": {
+        "A": "No es la opción que mejor responde al enunciado.",
+        "B": "Disponer de documentos de análisis expresa capacidad institucional; consejerías y atenciones son procesos.",
+        "C": "No es la opción que mejor responde al enunciado.",
+        "D": "No es la opción que mejor responde al enunciado."
+      },
+      "perlas": [
+        "Disponer de documentos de análisis expresa capacidad institucional; consejerías y atenciones son procesos."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Aplique el concepto de la pregunta 7 a otro escenario.",
+          "clave": "Disponer de documentos de análisis expresa capacidad institucional; consejerías y atenciones son procesos."
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "question": "Niño de 6 meses de edad, traido a su control de crecimiento y desarrollo al centro de salud de Paracas donde usted labora. Examen peso: 8 Kg. Hb: 10.8 g/dl. De acuerdo a la norma técnica de anemia 2024. ¿Cuál es la dosis de suplementación en mg indicada?",
+      "options": {
+        "A": "24",
+        "B": "16",
+        "C": "32",
+        "D": "40"
+      },
+      "correct": "B",
+      "temario": "Con dosis preventiva de 2 mg/kg/día: 8 × 2 = 16 mg; cotejar la norma de anemia 2024 y clasificación con Hb 10,8.",
+      "fundamento": "Con dosis preventiva de 2 mg/kg/día: 8 × 2 = 16 mg; cotejar la norma de anemia 2024 y clasificación con Hb 10,8.",
+      "analisis": {
+        "A": "No es la opción que mejor responde al enunciado.",
+        "B": "Con dosis preventiva de 2 mg/kg/día: 8 × 2 = 16 mg; cotejar la norma de anemia 2024 y clasificación con Hb 10,8.",
+        "C": "No es la opción que mejor responde al enunciado.",
+        "D": "No es la opción que mejor responde al enunciado."
+      },
+      "perlas": [
+        "Con dosis preventiva de 2 mg/kg/día: 8 × 2 = 16 mg; cotejar la norma de anemia 2024 y clasificación con Hb 10,8."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Aplique el concepto de la pregunta 8 a otro escenario.",
+          "clave": "Con dosis preventiva de 2 mg/kg/día: 8 × 2 = 16 mg; cotejar la norma de anemia 2024 y clasificación con Hb 10,8."
+        }
+      ],
+      "alerta": "Clave provisional; cotejar dosis según norma 2024."
+    },
+    {
+      "number": 9,
+      "question": "Si se debe tomar decisiones con la media. ¿Cuál es la medida de dispersión asociada?",
+      "options": {
+        "A": "Desviación estándar",
+        "B": "Rango intercuartílico",
+        "C": "Varianza",
+        "D": "Curtosis"
+      },
+      "correct": "A",
+      "temario": "La media se informa habitualmente con desviación estándar; la mediana con rango intercuartílico.",
+      "fundamento": "La media se informa habitualmente con desviación estándar; la mediana con rango intercuartílico.",
+      "analisis": {
+        "A": "La media se informa habitualmente con desviación estándar; la mediana con rango intercuartílico.",
+        "B": "No es la opción que mejor responde al enunciado.",
+        "C": "No es la opción que mejor responde al enunciado.",
+        "D": "No es la opción que mejor responde al enunciado."
+      },
+      "perlas": [
+        "La media se informa habitualmente con desviación estándar; la mediana con rango intercuartílico."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Aplique el concepto de la pregunta 9 a otro escenario.",
+          "clave": "La media se informa habitualmente con desviación estándar; la mediana con rango intercuartílico."
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "question": "El modelo Bismark como modelo de salud se caracteriza por tener enfoque en...",
+      "options": {
+        "A": "protección laboral y familiar.",
+        "B": "la comunidad.",
+        "C": "grupos especiales.",
+        "D": "acceso según recurso."
+      },
+      "correct": "A",
+      "temario": "El modelo Bismarck se basa en seguros sociales ligados históricamente a trabajadores y sus familias.",
+      "fundamento": "El modelo Bismarck se basa en seguros sociales ligados históricamente a trabajadores y sus familias.",
+      "analisis": {
+        "A": "El modelo Bismarck se basa en seguros sociales ligados históricamente a trabajadores y sus familias.",
+        "B": "No es la opción que mejor responde al enunciado.",
+        "C": "No es la opción que mejor responde al enunciado.",
+        "D": "No es la opción que mejor responde al enunciado."
+      },
+      "perlas": [
+        "El modelo Bismarck se basa en seguros sociales ligados históricamente a trabajadores y sus familias."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Aplique el concepto de la pregunta 10 a otro escenario.",
+          "clave": "El modelo Bismarck se basa en seguros sociales ligados históricamente a trabajadores y sus familias."
+        }
+      ]
+    }
+  ]
+}
