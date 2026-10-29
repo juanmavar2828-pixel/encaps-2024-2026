@@ -1,0 +1,157 @@
+{
+  "bankId": "ENCAPS_2024_II",
+  "source": "Cuadernillo SERUMS-MINSA Medicina I, 01/09/2024, páginas 7-8; clave 72 verificada en documento técnico PCA-PANTBC, restantes razonadas pendientes cotejo oficial",
+  "range": "071-075",
+  "format": "breve",
+  "questions": [
+    {
+      "number": 71,
+      "topic": "Efectividad de programas sanitarios",
+      "question": "¿Cuál es el criterio que determina: \"el grado en el que un programa de salud puesto en práctica logra lo que se pretende conseguir en una población determinada\"?",
+      "options": {
+        "A": "Eficiencia",
+        "B": "Efectividad",
+        "C": "Eficacia",
+        "D": "Factibilidad"
+      },
+      "correct": "B",
+      "temario": "La efectividad mide logro en condiciones reales de aplicación; la eficacia, en condiciones controladas; eficiencia relaciona resultados con recursos.",
+      "fundamento": "Programa puesto en práctica en población = efectividad.",
+      "analisis": {
+        "A": "Relaciona resultados y recursos.",
+        "B": "Efectos en condiciones reales.",
+        "C": "Resultado en condiciones ideales o controladas.",
+        "D": "Viabilidad para implementar."
+      },
+      "perlas": [
+        "Eficacia = ideal; efectividad = real; eficiencia = recursos."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Se mide el impacto real de una campaña ya implementada en barrios.",
+          "clave": "Efectividad."
+        }
+      ]
+    },
+    {
+      "number": 72,
+      "topic": "PCA-PANTBC: ración alimentaria",
+      "question": "Dentro de la ración de alimentos del PCA-PANTBC. ¿Cuál es el porcentaje de los requerimientos nutricionales calórico-proteicos al mes?",
+      "options": {
+        "A": "50",
+        "B": "60",
+        "C": "40",
+        "D": "30"
+      },
+      "correct": "A",
+      "temario": "La ración del PCA-PANTBC cubre aproximadamente el 50 % de los requerimientos calórico-proteicos mensuales de la persona con tuberculosis y cuatro contactos intradomiciliarios según documento técnico MINSA.",
+      "fundamento": "El documento de formulación de ración establece 50 %; alternativa A.",
+      "analisis": {
+        "A": "Porcentaje establecido.",
+        "B": "No corresponde a la norma.",
+        "C": "No corresponde a la norma.",
+        "D": "No corresponde a la norma."
+      },
+      "perlas": [
+        "PANTBC: 50 % de requerimientos, paciente y cuatro contactos."
+      ],
+      "normativa": [
+        "RM 653-2014/MINSA · Documento técnico PCA-PANTBC: 50 % · https://repositorio.ins.gob.pe/items/d0fef314-ff08-4abb-80e3-e8a0472d28fb"
+      ],
+      "refuerzo": [
+        {
+          "caso": "Familia con una persona en tratamiento por TB recibe canasta complementaria del PANTBC.",
+          "clave": "Cubre aproximadamente 50 % de requerimientos calórico-proteicos mensuales."
+        }
+      ]
+    },
+    {
+      "number": 73,
+      "topic": "Clima organizacional: conflicto y cooperación",
+      "question": "Las dimensiones del clima organizacional son las características susceptibles de ser medidas en una organización y que influyen en el comportamiento de los individuos. Una de las más importantes dimensiones se refiere al nivel de colaboración que se observa entre los empleados en el ejercicio de su trabajo y en los apoyos materiales y humanos que éstos reciben de su organización. ¿Cuál es esa dimensión?",
+      "options": {
+        "A": "Conflicto y cooperación",
+        "B": "Comunicación",
+        "C": "Estructura",
+        "D": "Confort"
+      },
+      "correct": "A",
+      "temario": "Conflicto y cooperación contempla la colaboración entre trabajadores y apoyos recibidos en las tareas.",
+      "fundamento": "El énfasis en nivel de colaboración y apoyos corresponde a conflicto y cooperación.",
+      "analisis": {
+        "A": "Mide colaboración y relaciones de apoyo.",
+        "B": "Enfatiza intercambio de información.",
+        "C": "Describe organización formal.",
+        "D": "Condiciones de comodidad y ambiente."
+      },
+      "perlas": [
+        "Colaboración entre empleados = cooperación."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Encuesta pregunta si colegas colaboran ante sobrecarga asistencial.",
+          "clave": "Dimensión conflicto y cooperación."
+        }
+      ]
+    },
+    {
+      "number": 74,
+      "topic": "FODA: factores internos",
+      "question": "El responsable de capacitación del establecimiento de salud solicita el plan de capacitación a cada servicio. Para ello el encargado del servicio de medicina se reúne con su personal, para realizar el análisis FODA y necesidades de capacitación. ¿Qué componente pertenece al análisis interno?",
+      "options": {
+        "A": "Oportunidades",
+        "B": "Competencias",
+        "C": "Fortaleza",
+        "D": "Amenazas"
+      },
+      "correct": "C",
+      "temario": "En FODA, fortalezas y debilidades corresponden al ambiente interno; oportunidades y amenazas al externo.",
+      "fundamento": "La fortaleza es una de las categorías internas de FODA.",
+      "analisis": {
+        "A": "Factor externo favorable.",
+        "B": "Término posible de capacidades, pero no categoría FODA.",
+        "C": "Categoría interna favorable.",
+        "D": "Factor externo adverso."
+      },
+      "perlas": [
+        "F y D = dentro; O y A = afuera."
+      ],
+      "refuerzo": [
+        {
+          "caso": "El servicio cuenta con profesionales capacitados en emergencias.",
+          "clave": "Fortaleza interna."
+        }
+      ]
+    },
+    {
+      "number": 75,
+      "topic": "Dengue y embarazo: grupo B1",
+      "question": "Gestante que acude a un establecimiento de salud, procedente de una comunidad de la costa norte, presenta fiebre alta, cefalea, dolor retro ocular, mialgias; después de la evaluación realiza su diagnóstico de dengue. ¿A qué grupo pertenecería para iniciar tratamiento?",
+      "options": {
+        "A": "C",
+        "B": "A",
+        "C": "B2",
+        "D": "B1"
+      },
+      "correct": "D",
+      "temario": "En la clasificación clínica para manejo del dengue, la gestación es condición asociada que requiere vigilancia especial aun sin signos de alarma. En el esquema A/B1/B2/C suele corresponder a grupo B1, mientras B2 implica signos de alarma.",
+      "fundamento": "Gestación sin signos de alarma descritos orienta a grupo B1.",
+      "analisis": {
+        "A": "Grupo C corresponde a dengue grave.",
+        "B": "Grupo A es ambulatorio sin condiciones especiales.",
+        "C": "Grupo B2 se vincula con signos de alarma.",
+        "D": "Grupo B1 contempla condiciones asociadas como gestación."
+      },
+      "alerta": "Clave razonada según esquema A/B1/B2/C; cotejar denominación exacta de la norma de 2024.",
+      "perlas": [
+        "Gestante con dengue, aunque sin alarma, exige seguimiento estrecho."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Gestante con dengue confirmado, estable y sin alarma abdominal.",
+          "clave": "Manejo en grupo B1 según esquema de clasificación."
+        }
+      ]
+    }
+  ]
+}
