@@ -1,0 +1,157 @@
+{
+  "bankId": "ENCAPS_2024_II",
+  "source": "Cuadernillo SERUMS MINSA Medicina I 01/09/2024, página 8. Claves razonadas, no oficiales.",
+  "range": "076-080",
+  "format": "breve",
+  "status": "pendiente_cotejo_e_integracion",
+  "questions": [
+    {
+      "number": 76,
+      "topic": "POI y análisis situacional",
+      "question": "En el SERUMS, el profesional de salud al ingresar al establecimiento de salud. ¿Qué es lo primero que debe realizar para poder desarrollar el Plan Operativo Institucional?",
+      "options": {
+        "A": "Análisis poblacional",
+        "B": "Recoger el informe anterior",
+        "C": "Presentarse con el director",
+        "D": "Análisis situacional"
+      },
+      "correct": "D",
+      "temario": "El análisis situacional identifica necesidades, recursos, problemas prioritarios y brechas; permite sustentar actividades del POI.",
+      "fundamento": "Primero se diagnostica la situación del establecimiento y su población.",
+      "analisis": {
+        "A": "Es parte del diagnóstico, no lo abarca todo.",
+        "B": "Aporta antecedentes pero no sustituye diagnóstico.",
+        "C": "Es trámite de incorporación.",
+        "D": "Establece línea de base integral."
+      },
+      "perlas": [
+        "POI: primero diagnóstico situacional, luego metas."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Antes de programar actividades se revisan indicadores, recursos y problemas locales.",
+          "clave": "Análisis situacional."
+        }
+      ]
+    },
+    {
+      "number": 77,
+      "topic": "Interculturalidad y hábitos alimentarios",
+      "question": "Estudiando la prevalencia de anemia en 2020 en la población de Huancavelica encontramos que mantienen patrones culturales asociados a ingestas deficientes y aunadas a costumbres alimentarias de la región. ¿Qué aspecto de la interculturalidad vienen desarrollando?",
+      "options": {
+        "A": "Derechos humanos",
+        "B": "Medicina holística",
+        "C": "Bioética",
+        "D": "Etnocentrismo"
+      },
+      "correct": null,
+      "temario": "Los hábitos alimentarios se relacionan con factores socioculturales. Etnocentrismo significa juzgar otras culturas desde la propia y no se desprende únicamente de mantener costumbres alimentarias.",
+      "fundamento": "Ninguna alternativa describe inequívocamente la observación; no se inventa clave.",
+      "analisis": {
+        "A": "Marco de derechos, no descripción del hábito.",
+        "B": "Visión integral de salud, no nombre del patrón cultural.",
+        "C": "Reflexión ética, no patrón cultural.",
+        "D": "Requiere juicio de superioridad cultural no descrito."
+      },
+      "alerta": "Pregunta ambigua; cotejar el solucionario antes de calificar.",
+      "perlas": [
+        "Hábito cultural ≠ etnocentrismo."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Se adapta consejería nutricional a alimentos y lengua de una comunidad.",
+          "clave": "Pertinencia intercultural."
+        }
+      ]
+    },
+    {
+      "number": 78,
+      "topic": "Prevención primaria: protección específica",
+      "question": "¿Cuál de las siguientes acciones forma parte de una prevención específica?",
+      "options": {
+        "A": "Propicia la actividad física en la comunidad",
+        "B": "Incrementa la cobertura en el programa de inmunización",
+        "C": "Sensibiliza a la población la no ingesta de alcohol",
+        "D": "Promueve el uso de condón"
+      },
+      "correct": "B",
+      "temario": "La protección específica de prevención primaria incluye vacunación y medidas dirigidas a riesgos concretos. El preservativo también es protección específica frente a ITS, por lo que B y D son defendibles según el criterio usado.",
+      "fundamento": "Inmunización es el ejemplo clásico de protección específica; B como clave probable, no exclusiva.",
+      "analisis": {
+        "A": "Promoción general de la salud.",
+        "B": "Protección específica por inmunización.",
+        "C": "Promoción y reducción de factores de riesgo.",
+        "D": "También es protección específica frente a ITS y embarazo."
+      },
+      "alerta": "Ítem potencialmente multirrespuesta: el uso del condón también constituye protección específica.",
+      "perlas": [
+        "Protección específica: vacunas y barreras preventivas."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Centro ofrece vacuna antitetánica para prevenir enfermedad concreta.",
+          "clave": "Protección específica."
+        }
+      ]
+    },
+    {
+      "number": 79,
+      "topic": "Personal de establecimientos I-2",
+      "question": "Luego del proceso de evaluación SERUMS, se le asigna laborar en un establecimiento de salud I-2, con una población asignada de 2550 personas. De acuerdo a normativa vigente. ¿Con qué personal de salud debe contar el establecimiento?",
+      "options": {
+        "A": "Médico, enfermera, biólogo, agentes comunitarios",
+        "B": "Médico, enfermera, obstetra y técnico de enfermería",
+        "C": "Enfermera, obstetra y técnico de enfermería",
+        "D": "Médico, enfermera y auxiliar de enfermería"
+      },
+      "correct": "C",
+      "temario": "La categoría I-2 corresponde al primer nivel sin médico cirujano como exigencia central de la categoría, a diferencia de I-3. Entre las opciones, enfermería, obstetricia y técnico de enfermería se ajustan mejor.",
+      "fundamento": "La dotación propuesta sin médico corresponde a la categoría I-2; verificar la norma de categorización aplicable.",
+      "analisis": {
+        "A": "Incluye médico y biólogo sin relación típica con dotación I-2.",
+        "B": "Incluye médico como personal de I-3.",
+        "C": "Alternativa mejor alineada con I-2.",
+        "D": "Incluye médico y omite obstetricia."
+      },
+      "alerta": "Clave razonada, cotejar dotación mínima normativa vigente al examen.",
+      "perlas": [
+        "I-2 generalmente sin médico; I-3 incorpora médico."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Puesto dispone de enfermería, obstetricia y personal técnico.",
+          "clave": "Dotación compatible con I-2 según condiciones normativas."
+        }
+      ]
+    },
+    {
+      "number": 80,
+      "topic": "Acto de salud y acto médico",
+      "question": "Cuando nos referimos a toda acción o actividad que realizan los otros profesionales de la salud para la promoción, prevención, recuperación y rehabilitación de la salud, según corresponda, que se brinda al paciente, familia y comunidad, hablamos de:",
+      "options": {
+        "A": "Auditoría",
+        "B": "Atención de salud",
+        "C": "Acto de salud",
+        "D": "Acto médico"
+      },
+      "correct": "C",
+      "temario": "El acto de salud comprende las intervenciones de profesionales de salud en sus competencias; el acto médico se atribuye específicamente al profesional médico según normativa.",
+      "fundamento": "La pregunta destaca actividades de otros profesionales de la salud: acto de salud.",
+      "analisis": {
+        "A": "Evaluación de calidad, no intervención.",
+        "B": "Concepto amplio de prestación asistencial.",
+        "C": "Acción profesional sanitaria en sus competencias.",
+        "D": "Acto específico del médico."
+      },
+      "perlas": [
+        "Acto médico: médico; acto de salud: otros profesionales."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Enfermera ejecuta intervención preventiva dentro de sus competencias.",
+          "clave": "Acto de salud."
+        }
+      ]
+    }
+  ]
+}
