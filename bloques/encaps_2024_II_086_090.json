@@ -1,0 +1,158 @@
+{
+  "bankId": "ENCAPS_2024_II",
+  "source": "Cuadernillo original 5960598-medicina-i.pdf, SERUMS MINSA Medicina I 01/09/2024, páginas 9–10; claves razonadas no oficiales",
+  "range": "086-090",
+  "format": "breve",
+  "status": "pendiente_cotejo_oficial_e_integracion",
+  "questions": [
+    {
+      "number": 86,
+      "topic": "Gonococemia y síndrome de infección gonocócica diseminada",
+      "question": "Paciente de 20 años, HSH, presenta fiebre y rash hace una semana. Antecedente de secreción uretral amarillenta hace 2 semanas, le diagnosticaron descarga uretral y no tomó el tratamiento; luego tuvo RS. Examen: PA: 120/70 mmHg, FC: 90 X', T°: 38.5 °C; rash en el cuerpo; AR: MV pasa en ACP; CV: RC regulares y rítmicos; hígado: 13 cm de span hepático. ¿Cuál es el diagnóstico más probable?",
+      "options": {
+        "A": "Sífilis secundaria",
+        "B": "Meningococemia",
+        "C": "Gonococemia",
+        "D": "VIH aguda"
+      },
+      "correct": "C",
+      "temario": "La infección gonocócica uretral no tratada puede diseminarse y producir fiebre, lesiones cutáneas y, a veces, artralgias, tenosinovitis o artritis.",
+      "fundamento": "La uretritis purulenta sin tratar seguida de fiebre y exantema orienta a gonococemia.",
+      "analisis": {
+        "A": "La sífilis secundaria causa rash, pero la secreción purulenta uretral previa favorece gonorrea.",
+        "B": "Puede causar fiebre y petequias, pero no explica tan bien el antecedente uretral.",
+        "C": "Integra uretritis no tratada y manifestaciones sistémicas.",
+        "D": "El VIH agudo puede dar fiebre y rash; no explica específicamente la descarga purulenta."
+      },
+      "alerta": "Clave clínica razonada; confirmar etiología mediante pruebas de ITS y evaluar coinfecciones.",
+      "perlas": [
+        "Gonorrea no tratada + fiebre + rash = pensar en diseminación."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Paciente con gonorrea reciente presenta pústulas cutáneas y tenosinovitis.",
+          "clave": "Sospechar infección gonocócica diseminada."
+        }
+      ]
+    },
+    {
+      "number": 87,
+      "topic": "Atención de emergencias sin exigir referencia",
+      "question": "Acuden a la emergencia médica, de un hospital de alta complejidad, dos pacientes provenientes de la selva peruana, ambos afiliados al Seguro Integral de Salud; uno de ellos viene con su respectiva referencia y el otro no. ¿Qué le corresponde hacer al médico tratante de la emergencia?",
+      "options": {
+        "A": "Derivar al paciente que no tiene referencia a su jurisdicción",
+        "B": "Deriva a la asistenta social para que evalue el caso",
+        "C": "Atender a los dos pacientes por igual",
+        "D": "Atender solo al que cuenta con la respectiva referencia del SIS"
+      },
+      "correct": "C",
+      "temario": "La atención médica de emergencia se brinda sin condicionar la evaluación o estabilización a documentos de referencia, afiliación o trámites administrativos.",
+      "fundamento": "Ambos pacientes requieren atención de emergencia en igualdad de condiciones.",
+      "analisis": {
+        "A": "La ausencia de referencia no justifica negar emergencia.",
+        "B": "Gestiones sociales no deben retrasar la atención.",
+        "C": "Garantiza evaluación y asistencia oportuna.",
+        "D": "No procede exigir referencia para atender emergencia."
+      },
+      "perlas": [
+        "Emergencia primero; trámites después."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Paciente grave llega sin hoja de referencia.",
+          "clave": "Atender y estabilizar inmediatamente."
+        }
+      ]
+    },
+    {
+      "number": 88,
+      "topic": "Indicadores FED, anemia y registro HIS",
+      "question": "En una reunión de la Microred Pinchollo, se hace una evaluación de cumplimiento de indicadores FED; donde para el indicador \"porcentaje de niñas y niños de 12 a 18 meses, con diagnóstico de anemia entre los 6 y 11 meses, que se han recuperado\", del centro de salud de Agua Dura no se registra ningún niño con anemia como recuperado. ¿Dónde está el problema?",
+      "options": {
+        "A": "Incorrecto registro de niños en los hospitales",
+        "B": "Registro incorrecto de CVN",
+        "C": "Error en el registro de HIS",
+        "D": "Perdida del DNI del niño"
+      },
+      "correct": "C",
+      "temario": "El cumplimiento de indicadores de recuperación de anemia exige registrar diagnóstico, tratamiento y recuperación con códigos y fechas adecuados en HIS; primero se audita la calidad de datos y el seguimiento clínico.",
+      "fundamento": "La ausencia de recuperados registrados sugiere revisar el registro HIS del establecimiento.",
+      "analisis": {
+        "A": "No explica específicamente ausencia de recuperaciones en el centro.",
+        "B": "CVN identifica nacimiento y no el desenlace del tratamiento.",
+        "C": "El HIS consolida atenciones, diagnósticos y seguimientos.",
+        "D": "Puede dificultar identificación, pero no es causa general demostrada."
+      },
+      "alerta": "Clave razonada probable, no oficial. Un indicador en cero también podría reflejar falta real de recuperación o seguimiento, no solo error informático.",
+      "perlas": [
+        "Indicador en cero: contrastar atenciones reales y registros HIS."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Niños mejoraron Hb pero el reporte no reconoce recuperaciones.",
+          "clave": "Auditar codificación y registro HIS."
+        }
+      ]
+    },
+    {
+      "number": 89,
+      "topic": "Ámbito ambulatorio del modelo de atención integral",
+      "question": "¿Cuál es un ámbito que se debe considerar, en un foco ampliado del modelo integral de atención, encargada de las actividades de diagnóstico precoz y tratamiento oportuno?",
+      "options": {
+        "A": "Consulta ambulatoria",
+        "B": "Urgencias y observación",
+        "C": "Medicina en domicilio y comunidad",
+        "D": "Hospitalizaciones"
+      },
+      "correct": "A",
+      "temario": "La consulta ambulatoria posibilita evaluación temprana, diagnóstico oportuno y tratamiento antes de requerir hospitalización; el modelo integral también contempla actividades preventivas comunitarias.",
+      "fundamento": "El ámbito típicamente encargado de diagnóstico precoz y tratamiento oportuno entre las opciones es la consulta ambulatoria.",
+      "analisis": {
+        "A": "Permite detección y manejo oportunos.",
+        "B": "Se centra en episodios urgentes.",
+        "C": "Prioriza acciones territoriales y continuidad, también puede detectar problemas.",
+        "D": "Atiende cuadros que requieren internamiento."
+      },
+      "alerta": "Clave razonada; cotejar formulación específica del modelo de atención al que alude el reactivo.",
+      "perlas": [
+        "Consulta ambulatoria = detectar temprano y tratar oportunamente."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Paciente con síntomas iniciales recibe evaluación y manejo en consultorio.",
+          "clave": "Atención ambulatoria."
+        }
+      ]
+    },
+    {
+      "number": 90,
+      "topic": "Dengue B2 y fluidoterapia inicial",
+      "question": "Una paciente con dengue acude a UVICLIN del centro de salud de su comunidad, se le clasifica en el grupo B2 de acuerdo a normativa vigente, el tratamiento con solución salina normal al 0.9% indicado es de ...... ml/Kg de peso en una hora.",
+      "options": {
+        "A": "20",
+        "B": "15",
+        "C": "10",
+        "D": "5"
+      },
+      "correct": "C",
+      "temario": "El grupo B2 corresponde a dengue con signos de alarma; la pauta inicial habitual consiste en cristaloide isotónico a 10 ml/kg durante la primera hora, seguida de reevaluación clínica estricta y ajuste según respuesta y protocolo.",
+      "fundamento": "La dosis inicial esperada en el esquema de manejo de dengue B2 es 10 ml/kg en una hora.",
+      "analisis": {
+        "A": "Se asocia más a bolos de reanimación en choque bajo pautas específicas.",
+        "B": "No corresponde a la dosis B2 inicial esperada.",
+        "C": "Dosis inicial del protocolo evaluado.",
+        "D": "Puede emplearse en etapas posteriores de reducción."
+      },
+      "alerta": "La fluidoterapia debe ajustarse según signos vitales, perfusión, hematocrito, comorbilidades y versión de la norma; no aplicar como pauta universal sin evaluación.",
+      "perlas": [
+        "Dengue B2: cristaloide isotónico y reevaluar al cabo de una hora."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Paciente de 60 kg con dengue B2 estable requiere pauta de 10 ml/kg en primera hora.",
+          "clave": "600 ml en la primera hora, con reevaluación."
+        }
+      ]
+    }
+  ]
+}
