@@ -1,0 +1,181 @@
+{
+  "bankId": "ENCAPS_2025_II",
+  "source": "Evaluación SERUMS MINSA Medicina I de 24-08-2025, PDF proporcionado por usuario",
+  "range": "076-080",
+  "status": "desarrollo_razonado_pendiente_cotejo_claves_oficiales_e_integracion_en_banco",
+  "questions": [
+    {
+      "number": 76,
+      "topic": "Hemorragia del primer trimestre: aborto completo y diagnóstico diferencial",
+      "question": "Mujer de 25 años con gestación referida de 10 semanas, sangrado vaginal y dolor leve hace dos días, hemodinámicamente estable. Ecografía: útero y anexos normales. ¿Diagnóstico?",
+      "options": {
+        "A": "Aborto completo",
+        "B": "Aborto subclínico",
+        "C": "Embarazo ectópico",
+        "D": "Enfermedad trofoblástica gestacional"
+      },
+      "correct": "A",
+      "temario": "El aborto completo consiste en expulsión total de productos de concepción, con disminución de dolor/sangrado y cavidad uterina vacía. Sin embargo, una ecografía sin gestación intrauterina en paciente que refiere embarazo de 10 semanas no demuestra por sí sola aborto completo: confirmar embarazo con β-hCG, antecedentes de ecografía previa y tendencia seriada cuando corresponda; descartar embarazo ectópico (embarazo de localización desconocida). Inestabilidad, dolor intenso, síncope o hemoperitoneo exigen evaluación urgente. La enfermedad trofoblástica suele asociarse con alteraciones ecográficas y β-hCG elevada.",
+      "fundamento": "A es la respuesta razonada que parece buscar el examen por sangrado previo y ecografía vacía; falta confirmar gestación previa y descartar ectópico antes de afirmar el diagnóstico clínico.",
+      "analisis": {
+        "A": "Compatible con expulsión completa, pero exige documentación adicional.",
+        "B": "No es denominación suficientemente definida para el cuadro clínico.",
+        "C": "No queda descartado únicamente por anexos ecográficamente normales.",
+        "D": "Sin signos ecográficos o bioquímicos sugerentes."
+      },
+      "alerta": "Ítem incompleto: embarazo de localización desconocida requiere seguimiento de β-hCG; no asumir aborto completo solo por útero vacío.",
+      "refuerzo": [
+        {
+          "caso": "Sangrado con tejido expulsado, β-hCG descendente y cavidad vacía.",
+          "clave": "Apoya aborto completo tras excluir ectópico."
+        },
+        {
+          "caso": "Test positivo, útero vacío y β-hCG sin descenso adecuado.",
+          "clave": "Investigar embarazo ectópico/localización desconocida."
+        },
+        {
+          "caso": "Sangrado, dolor unilateral y signos de choque.",
+          "clave": "Sospechar ectópico roto; emergencia."
+        }
+      ]
+    },
+    {
+      "number": 77,
+      "topic": "Liderazgo de equipos y calidad asistencial",
+      "question": "El … de los equipos es uno de los factores que influyen decisivamente en la mejora de la calidad asistencial y los resultados sobre la salud de la población.",
+      "options": {
+        "A": "liderazgo",
+        "B": "jefe",
+        "C": "coordinador",
+        "D": "responsable"
+      },
+      "correct": "A",
+      "temario": "El liderazgo clínico orienta objetivos compartidos, coordinación interprofesional, seguridad del paciente, comunicación y cultura de mejora. Diferenciar liderazgo (capacidad de influir y facilitar cambio) de jefatura (cargo formal). Los liderazgos participativos ayudan a detectar problemas, usar indicadores y sostener ciclos de mejora continua. El resultado sanitario también depende de recursos, protocolos y contexto; liderazgo no sustituye sistemas de calidad.",
+      "fundamento": "La construcción 'liderazgo de los equipos' describe factor organizacional que mejora coordinación y calidad.",
+      "analisis": {
+        "A": "Concepto de conducción e influencia sobre desempeño colectivo.",
+        "B": "Cargo de jerarquía, no proceso de mejora en sí mismo.",
+        "C": "Rol específico que no necesariamente ejerce liderazgo efectivo.",
+        "D": "Persona designada; no describe capacidad requerida."
+      },
+      "refuerzo": [
+        {
+          "caso": "Equipo acuerda metas y revisa eventos adversos sin culpas.",
+          "clave": "Liderazgo orientado a seguridad."
+        },
+        {
+          "caso": "Director ocupa cargo pero no moviliza cambios.",
+          "clave": "Jefatura no equivale automáticamente a liderazgo."
+        },
+        {
+          "caso": "Personal participa en indicadores y soluciones.",
+          "clave": "Liderazgo participativo."
+        }
+      ]
+    },
+    {
+      "number": 78,
+      "topic": "Ética de función pública: discreción y confidencialidad en planificación familiar",
+      "question": "Varón solicita alterado al jefe de puesto información sobre tratamiento mensual de planificación familiar de su esposa. El jefe señala que debe guardar reserva. ¿Qué deber del servidor público cumple?",
+      "options": {
+        "A": "Discreción",
+        "B": "Neutralidad",
+        "C": "Responsabilidad",
+        "D": "Transparencia"
+      },
+      "correct": "A",
+      "temario": "La discreción en función pública implica guardar reserva sobre hechos o información conocidos por razón del cargo, salvo deber legal de informar. Los datos sobre planificación familiar son especialmente sensibles y la autonomía de la paciente impide revelarlos al cónyuge sin consentimiento o base jurídica válida. Transparencia en gestión estatal no permite difundir datos clínicos individualizados. En escenarios de presión o violencia potencial, cuidar seguridad y privacidad.",
+      "fundamento": "La obligación de reserva encaja con discreción, opción A.",
+      "analisis": {
+        "A": "Deber de mantener confidencialidad en información obtenida por funciones.",
+        "B": "Implica actuar sin favoritismo indebido.",
+        "C": "Exige asumir efectos de actos y cumplir deberes; demasiado general.",
+        "D": "No autoriza revelar datos médicos sensibles a terceros."
+      },
+      "refuerzo": [
+        {
+          "caso": "Esposo pide método anticonceptivo de paciente competente.",
+          "clave": "No revelar sin autorización."
+        },
+        {
+          "caso": "Funcionario maneja información reservada del expediente.",
+          "clave": "Discreción."
+        },
+        {
+          "caso": "Entidad publica estadísticas anonimizadas.",
+          "clave": "Transparencia compatible con privacidad."
+        }
+      ]
+    },
+    {
+      "number": 79,
+      "topic": "Trastornos hipertensivos gestacionales: preeclampsia grave y eclampsia",
+      "question": "Gestante de 32 semanas con cefalea frontal, epigastralgia, visión borrosa, fotofobia y alteración del estado de conciencia, PA 170/110. ¿Diagnóstico?",
+      "options": {
+        "A": "Emergencia hipertensiva",
+        "B": "Eclampsia",
+        "C": "Preeclampsia",
+        "D": "Hipertensión crónica"
+      },
+      "correct": "C",
+      "temario": "Preeclampsia es hipertensión de inicio después de las 20 semanas con proteinuria o datos de daño orgánico. PA sistólica ≥160 o diastólica ≥110, síntomas neurológicos/visuales y dolor epigástrico son signos de gravedad. Eclampsia requiere convulsiones no atribuibles a otra causa en contexto de preeclampsia: alteración del sensorio aislada no demuestra eclampsia, aunque obliga a descartar encefalopatía, ictus y otras emergencias. Conducta: estabilización, sulfato de magnesio para prevención de convulsiones según protocolo, control de hipertensión severa, evaluación maternofetal y referencia/resolución obstétrica según condición.",
+      "fundamento": "C es la entidad más específica entre opciones por hipertensión severa y signos de severidad, sin convulsiones documentadas.",
+      "analisis": {
+        "A": "Describe urgencia fisiológica, pero diagnóstico obstétrico más específico es preeclampsia con severidad.",
+        "B": "Eclampsia exige convulsión; no se menciona.",
+        "C": "Preeclampsia con signos de severidad, diagnóstico razonado.",
+        "D": "No se documenta hipertensión anterior al embarazo o antes de semana 20."
+      },
+      "alerta": "Emergencia obstétrica; la alteración de conciencia exige evaluación inmediata de complicaciones neurológicas.",
+      "refuerzo": [
+        {
+          "caso": "Gestante 30 semanas PA 165/112 y fosfenos.",
+          "clave": "Preeclampsia con criterios de gravedad."
+        },
+        {
+          "caso": "Gestante hipertensa con convulsión tónico-clónica nueva.",
+          "clave": "Eclampsia hasta demostrar otra causa."
+        },
+        {
+          "caso": "PA elevada documentada desde semana 12.",
+          "clave": "Sospechar hipertensión crónica."
+        }
+      ]
+    },
+    {
+      "number": 80,
+      "topic": "Adulto mayor: valoración inicial VACAM y fragilidad funcional",
+      "question": "Mujer de 70 años en primera consulta refiere un mes de menor fortaleza y velocidad para trabajo agrícola. ¿Qué formato de evaluación inicial aplicar?",
+      "options": {
+        "A": "VACAM corta",
+        "B": "VACAM breve",
+        "C": "VACAM completa",
+        "D": "VGI breve"
+      },
+      "correct": "B",
+      "temario": "La Valoración Clínica del Adulto Mayor (VACAM) busca detectar problemas funcionales, cognitivos, afectivos, nutricionales y sociales; su versión breve se usa como evaluación inicial o tamizaje según instrumentos de atención primaria aplicables. La velocidad de marcha lenta y debilidad son señales de posible fragilidad o sarcopenia: evaluar caídas, movilidad, nutrición, medicación, enfermedad aguda y capacidad funcional; profundizar con evaluación geriátrica integral si se detectan alteraciones. El PDF no define las modalidades VACAM corta/completa ni la norma específica utilizada; verificar nombre e indicación del formato en documento técnico vigente.",
+      "fundamento": "B es respuesta razonada de formato inicial abreviado en primer nivel; pendiente cotejo con fuente normativa y clave oficial.",
+      "analisis": {
+        "A": "Nombre alternativo plausible, pero no verificado como formato normativo en el enunciado.",
+        "B": "Corresponde a valoración breve de entrada en el razonamiento propuesto.",
+        "C": "Evaluación extensa útil si tamizaje revela riesgos, no necesariamente primer paso.",
+        "D": "VGI breve es distractor que exige distinguir nomenclatura técnica."
+      },
+      "alerta": "La denominación VACAM breve requiere contrastar con norma utilizada en el examen; clave provisional.",
+      "refuerzo": [
+        {
+          "caso": "Mayor presenta marcha lenta y fatiga nueva.",
+          "clave": "Tamizaje funcional y de fragilidad; evaluar causas reversibles."
+        },
+        {
+          "caso": "Tamizaje de adulto mayor identifica deterioro cognitivo.",
+          "clave": "Ampliar valoración multidimensional."
+        },
+        {
+          "caso": "Persona mayor con dos caídas recientes.",
+          "clave": "Evaluación de caídas, marcha y factores modificables."
+        }
+      ]
+    }
+  ]
+}
