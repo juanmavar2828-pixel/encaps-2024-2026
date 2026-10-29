@@ -1,0 +1,203 @@
+{
+  "bankId": "ENCAPS_2025_II",
+  "source": "PDF del usuario: evaluación SERUMS–MINSA Medicina I de 24/08/2025, preguntas 81–85",
+  "range": "081-085",
+  "status": "desarrollo_razonado_pendiente_cotejo_claves_oficiales_e_integracion_en_banco",
+  "questions": [
+    {
+      "number": 81,
+      "topic": "Tamizaje de cáncer de mama a los 45 años: decisión compartida",
+      "question": "Mujer de 45 años, asintomática y de bajo riesgo, solicita mamografía porque vio en TikTok que todas las mujeres deben realizarse una. ¿Mejor recomendación?",
+      "options": {
+        "A": "Debe esperar 2 años para realizarla",
+        "B": "No hacerla por riesgo de radiación",
+        "C": "Si desea puede hacerla",
+        "D": "No debe hacerla"
+      },
+      "correct": "C",
+      "temario": "En mujeres asintomáticas de 40–49 años y riesgo promedio, la guía peruana INS CETS 2024 sugiere mamografía bienal mediante recomendación condicional, con decisión compartida: discutir posible reducción de mortalidad, falsos positivos, sobrediagnóstico, radiación de dosis baja y preferencias personales. El deseo de la paciente no reemplaza información ni evaluación de riesgo. En contexto de agosto de 2025, esta guía 2024 es referencia pertinente; normas aprobadas después de la fecha del examen no deben atribuirse retroactivamente. Evaluar antecedentes familiares, BRCA, irradiación torácica y síntomas que cambiarían la estrategia.",
+      "fundamento": "La opción C es la mejor: una mujer de 45 años puede optar por mamografía después de decisión informada; no es contraindicación absoluta ni requiere esperar arbitrariamente.",
+      "analisis": {
+        "A": "No existe regla general de esperar dos años para iniciar en este caso.",
+        "B": "El riesgo de radiación no justifica prohibición absoluta.",
+        "C": "Permite tamizaje conforme a preferencia informada y criterio de guía.",
+        "D": "Niega opción recomendada condicionalmente."
+      },
+      "perlas": [
+        "40–49 años, bajo riesgo: decisión compartida y mamografía bienal sugerida por guía INS 2024.",
+        "Tamizaje es para asintomáticas; signos clínicos requieren evaluación diagnóstica."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Mujer de 45 años asintomática solicita tamizaje.",
+          "clave": "Explicar beneficios y daños, decidir conjuntamente."
+        },
+        {
+          "caso": "Mujer de 43 años con nódulo palpable.",
+          "clave": "Evaluación diagnóstica, no tratar como tamizaje simple."
+        },
+        {
+          "caso": "Mujer de 38 con mutación BRCA.",
+          "clave": "Ruta de alto riesgo, individualizar imagen y consejería."
+        }
+      ],
+      "fuentes_externas": [
+        "https://www.gob.pe/institucion/ins/informes-publicaciones/5707273-guia-de-practica-clinica-n-01-2024-para-el-tamizaje-de-cancer-de-mama-en-el-primer-nivel-de-atencion"
+      ]
+    },
+    {
+      "number": 82,
+      "topic": "Categorización I-2: consulta externa médica intramural/extramural",
+      "question": "Establecimiento cuenta únicamente con UPSS consulta externa por profesional médico, con atención intramural y extramural. ¿Cuál es su categoría?",
+      "options": {
+        "A": "I-1",
+        "B": "I-2",
+        "C": "II-2",
+        "D": "II-1"
+      },
+      "correct": "B",
+      "temario": "En la clasificación tradicional peruana, la categoría I-2 incluye atención ambulatoria por profesional médico y prestaciones acordes con su capacidad; I-1 realiza atenciones de menor complejidad sin obligatoriedad de médico. I-3 suele contar con mayor capacidad y apoyo de patología clínica; II-1 y II-2 son de nivel hospitalario. La categorización definitiva exige verificar todas las UPSS, recursos humanos, equipamiento y normas técnicas aplicables, no solo un dato aislado.",
+      "fundamento": "Consulta externa atendida por médico como única UPSS corresponde mejor a I-2 entre las opciones ofrecidas.",
+      "analisis": {
+        "A": "No representa el perfil médico descrito en comparación clásica I-1/I-2.",
+        "B": "Corresponde al primer nivel con consulta externa por médico.",
+        "C": "Implica estructura hospitalaria de complejidad superior.",
+        "D": "También requiere mayores servicios de nivel hospitalario."
+      },
+      "perlas": [
+        "I-1: atención básica no necesariamente médica; I-2: médico en consulta externa.",
+        "Modalidad extramural no cambia por sí misma la categoría."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Puesto sin consulta por médico permanente.",
+          "clave": "Evaluar I-1 según requisitos."
+        },
+        {
+          "caso": "Consulta médica intramural y campañas extramurales.",
+          "clave": "Compatible con I-2, sujeto a categorización."
+        },
+        {
+          "caso": "Hospital con cirugía y hospitalización.",
+          "clave": "Segundo nivel, no I-2."
+        }
+      ]
+    },
+    {
+      "number": 83,
+      "topic": "Accidente ocupacional cortopunzante: primeros auxilios, notificación y PEP",
+      "question": "Durante sutura, serumista sufre accidente con instrumental cortopunzante contaminado. ¿Qué acción inmediata debes realizar?",
+      "options": {
+        "A": "No desechar el cortopunzante",
+        "B": "No lavar con jabón antiséptico",
+        "C": "Notificar el caso",
+        "D": "Administrarse vacuna toxoide tetánico"
+      },
+      "correct": "C",
+      "temario": "Tras exposición percutánea a sangre o fluidos potencialmente infecciosos: interrumpir procedimiento de modo seguro, lavar inmediatamente con agua y jabón sin fricción intensa ni exprimir herida, reportar/notificar el accidente y acudir de urgencia a evaluación ocupacional. Evaluar fuente y exposición para VIH, VHB y VHC, estado vacunal antihepatitis B, necesidad de inmunoglobulina o vacuna y profilaxis posexposición VIH cuando esté indicada (iniciar cuanto antes, idealmente primeras horas, según protocolo). No existe PEP eficaz establecida para VHC: seguimiento diagnóstico. Tétanos se valora según lesión y vacunación, pero no sustituye protocolo de sangre. La alternativa C es la mejor de las ofrecidas, aunque el primer auxilio físico inmediato (lavado) no figura.",
+      "fundamento": "Notificar formalmente es acción correcta entre opciones y activa ruta de manejo; el lavado inmediato precede o acompaña el reporte, pero no fue ofrecido.",
+      "analisis": {
+        "A": "Cortopunzantes deben eliminarse en contenedor rígido según protocolo.",
+        "B": "Es negación inadecuada; sí corresponde lavar con agua y jabón.",
+        "C": "Es la opción válida que activa evaluación y atención del accidente.",
+        "D": "No es medida universal ni prioritaria para exposición a sangre."
+      },
+      "alerta": "El primer paso real es lavado inmediato con agua y jabón, seguido de notificación y evaluación urgente; el ítem omite la medida más inmediata.",
+      "perlas": [
+        "Pinchazo: lavar, reportar, evaluar PEP VIH/VHB.",
+        "No exprimir la herida ni esperar resultados para gestionar PEP indicada."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Aguja usada perfora dedo en vacunatorio.",
+          "clave": "Lavar, notificar y evaluar exposición."
+        },
+        {
+          "caso": "Trabajador expuesto a sangre con vacunación VHB desconocida.",
+          "clave": "Evaluar profilaxis hepatitis B según serología/vacunas."
+        },
+        {
+          "caso": "Exposición VIH de alto riesgo hace dos horas.",
+          "clave": "Evaluación e inicio urgente de PEP cuando indicada."
+        }
+      ]
+    },
+    {
+      "number": 84,
+      "topic": "Participación comunitaria y movilización social en prevención ITS/VIH",
+      "question": "En Día Mundial del Sida, centro de salud y municipalidad instalan carpas en parque con actividades preventivas para vecinos, escucha activa y vínculos comunitarios. ¿Tipo de participación?",
+      "options": {
+        "A": "Participación como movilización",
+        "B": "Participación vecinal",
+        "C": "Participación política",
+        "D": "Participación por delegación"
+      },
+      "correct": "A",
+      "temario": "La participación como movilización se expresa en convocatoria y acción colectiva alrededor de campañas, actividades comunitarias y objetivos sanitarios comunes. Puede fortalecer vínculos y generar diálogo, pero no equivale por sí misma a cogestión, control social o poder decisorio sostenido. La participación por delegación representa actores elegidos o designados para actuar en nombre del colectivo; la política incluye incidencia en decisiones formales de gobierno. En prevención ITS/VIH, actividades públicas deben preservar privacidad, consentimiento y no estigmatización.",
+      "fundamento": "La actividad descrita reúne instituciones y vecinos en una jornada de acción sanitaria abierta: participación como movilización es respuesta razonada.",
+      "analisis": {
+        "A": "Convocatoria y acción colectiva en campaña sanitaria.",
+        "B": "Concepto amplio de participación de vecinos, pero no modalidad más específica.",
+        "C": "No se plantea decisión política o representación institucional de gobierno.",
+        "D": "No se transfiere representación ni autoridad a delegados."
+      },
+      "alerta": "La tipología de participación depende del marco teórico elegido por el examen; pendiente cotejo de clave.",
+      "perlas": [
+        "Movilización = convocatoria y acción colectiva.",
+        "Participación real también exige escuchar e incorporar decisiones comunitarias."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Campaña vecinal de pruebas voluntarias VIH.",
+          "clave": "Movilización comunitaria sanitaria."
+        },
+        {
+          "caso": "Organización elige representante a consejo de salud.",
+          "clave": "Participación mediante delegación."
+        },
+        {
+          "caso": "Comunidad fiscaliza calidad del servicio.",
+          "clave": "Participación de vigilancia/control social."
+        }
+      ]
+    },
+    {
+      "number": 85,
+      "topic": "Ética del servidor público y parto con adecuación intercultural",
+      "question": "Obstetra en Cutervo atiende a mujer de 28 años quechuahablante en trabajo de parto; se presenta, saluda y ofrece atención del parto con adecuación intercultural. ¿Qué principio ético del servidor público corresponde?",
+      "options": {
+        "A": "Responsabilidad",
+        "B": "Eficiencia",
+        "C": "Justicia y equidad",
+        "D": "Lealtad y obediencia"
+      },
+      "correct": "C",
+      "temario": "La ética pública peruana exige actuación respetuosa, sin discriminación y con acceso equitativo a servicios. Justicia y equidad implica trato justo, distribución razonable de recursos y eliminación de barreras lingüísticas o culturales; dar a una persona quechuahablante comunicación comprensible y adecuar atención segura ejemplifica equidad. La pertinencia cultural en obstetricia incluye idioma, consentimiento, privacidad, acompañamiento y posiciones elegidas conforme evaluación clínica. Responsabilidad y eficiencia son deberes generales, no el principio específico destacado.",
+      "fundamento": "La adaptación intercultural procura acceso efectivo y trato justo para la gestante; C es opción más directa.",
+      "analisis": {
+        "A": "Cumplimiento de deberes es necesario, pero genérico.",
+        "B": "Utilizar recursos adecuadamente no define respeto intercultural.",
+        "C": "Elimina desigualdad de acceso y respeta diversidad.",
+        "D": "Obediencia jerárquica no justifica ni define la acción descrita."
+      },
+      "perlas": [
+        "Equidad requiere apoyos diferenciados para lograr acceso real.",
+        "Atención intercultural = comunicación respetuosa y seguridad obstétrica."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Mujer quechuahablante recibe intérprete para decisiones de parto.",
+          "clave": "Equidad y consentimiento informado."
+        },
+        {
+          "caso": "Personal niega parto por lengua o vestimenta.",
+          "clave": "Discriminación contraria a justicia."
+        },
+        {
+          "caso": "Parturienta solicita acompañante y posición vertical segura.",
+          "clave": "Adecuación intercultural y autonomía."
+        }
+      ]
+    }
+  ]
+}
