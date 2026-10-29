@@ -1,0 +1,156 @@
+{
+  "bankId": "ENCAPS_2024_II",
+  "source": "PDF aportado 5960598-medicina-i.pdf · SERUMS MINSA Medicina I, 01/09/2024, páginas 4–5",
+  "range": "041-045",
+  "format": "breve",
+  "status": "claves_razonadas_pendientes_de_cotejo_e_integracion",
+  "questions": [
+    {
+      "number": 41,
+      "topic": "Gestión de recursos humanos: MOF y CAP",
+      "question": "El jefe de un establecimiento de salud, revisa conjuntamente con su equipo de gestión los resultados de la encuesta de satisfacción del usuario e identifican que el problema principal es el tiempo de demora en la atención. Por lo tanto, evalúan la brecha de recursos humanos para hacer el requerimiento para tal fin. ¿Qué documento de gestión es necesario para evaluar la brecha?",
+      "options": {
+        "A": "MOF - CAP",
+        "B": "CAP – POI",
+        "C": "ROF – CAP",
+        "D": "PEI- MAPRO"
+      },
+      "correct": "A",
+      "temario": "El MOF detalla funciones y el CAP describe cargos previstos. Ambos permiten contrastar funciones y dotación para sustentar necesidades de personal, aunque los instrumentos de gestión modernos pueden emplear equivalentes.",
+      "fundamento": "MOF y CAP son los documentos más directamente vinculados a funciones y cargos.",
+      "analisis": {
+        "A": "Relaciona responsabilidades con plazas.",
+        "B": "El POI programa actividades.",
+        "C": "ROF define estructura institucional, menos detalle funcional del cargo.",
+        "D": "PEI y MAPRO no cuantifican directamente plazas."
+      },
+      "alerta": "Clave A razonada; cotejar instrumentos de gestión aplicables en 2024.",
+      "perlas": [
+        "MOF = funciones; CAP = cargos."
+      ],
+      "refuerzo": [
+        {
+          "caso": "La posta requiere identificar plazas faltantes y funciones de enfermería.",
+          "clave": "Contrastar CAP y funciones del puesto."
+        }
+      ]
+    },
+    {
+      "number": 42,
+      "topic": "Plan Operativo Institucional (POI)",
+      "question": "Qué herramienta le permite poner en marcha las estrategias institucionales, detalla metas anuales de todos los objetivos y entregables y se precisan todas las actividades o tareas necesarias para alcanzar los productos a entregar, establece los recursos, plazos, costos por actividad, estándares de calidad, logística, planes de contingencia frente a los riesgos y finalmente indicadores que servirán para evaluar la gestión y determinar si se han alcanzado o no los indicadores de resultado e impacto establecidos.",
+      "options": {
+        "A": "Plan Anual Institucional",
+        "B": "Plan Estratégico Institucional",
+        "C": "Plan Operativo Institucional",
+        "D": "Plan de Gestión Institucional"
+      },
+      "correct": "C",
+      "temario": "El POI convierte prioridades estratégicas en actividades, metas físicas, responsables y recursos para su ejecución y seguimiento. El PEI define objetivos y acciones estratégicas.",
+      "fundamento": "La programación operativa descrita corresponde al POI.",
+      "analisis": {
+        "A": "No es la denominación específica requerida.",
+        "B": "Define estrategia institucional.",
+        "C": "Detalla actividades y metas operativas.",
+        "D": "Denominación genérica."
+      },
+      "perlas": [
+        "PEI = estrategia; POI = ejecución."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Hospital programa metas de vacunación, presupuesto y responsables del año.",
+          "clave": "Plan Operativo Institucional."
+        }
+      ]
+    },
+    {
+      "number": 43,
+      "topic": "Acreditación sanitaria: fases",
+      "question": "Según la norma técnica de salud para la acreditación de establecimientos de salud y servicios médicos de apoyo, las fases de acreditación son:",
+      "options": {
+        "A": "Evaluación y evaluación interna",
+        "B": "Análisis situacional y evaluación interna",
+        "C": "Autoanálisis y evaluación anual",
+        "D": "Autoevaluación y evaluación externa"
+      },
+      "correct": "D",
+      "temario": "La acreditación contempla autoevaluación interna y evaluación externa para verificar estándares de calidad. No equivale a una inspección única.",
+      "fundamento": "Las dos fases señaladas son autoevaluación y evaluación externa.",
+      "analisis": {
+        "A": "Repite evaluación sin definir la fase externa.",
+        "B": "No enumera las fases del procedimiento.",
+        "C": "No corresponde a la denominación normativa.",
+        "D": "Fases de acreditación."
+      },
+      "perlas": [
+        "Acreditación = autoevaluación + evaluación externa."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Clínica evalúa primero sus propios estándares antes de una comisión externa.",
+          "clave": "Autoevaluación seguida de evaluación externa."
+        }
+      ]
+    },
+    {
+      "number": 44,
+      "topic": "Interculturalidad y conflicto intercultural",
+      "question": "Las creencias que presenta una comunidad determinándolo como válido y propio en su desarrollo cultural no presentando participación en la comunidad ni en el sistema de salud. ¿Qué tipo de problema intercultural presenta?",
+      "options": {
+        "A": "Aculturación",
+        "B": "Conflicto intercultural",
+        "C": "Bioética",
+        "D": "Desarrollo social"
+      },
+      "correct": "B",
+      "temario": "Un conflicto intercultural surge cuando las prácticas o interpretaciones de distintos grupos dificultan relaciones, comunicación o acceso a servicios. La aculturación describe cambios culturales derivados del contacto entre grupos.",
+      "fundamento": "El problema de interacción y participación entre prácticas comunitarias y sistema sanitario apunta a conflicto intercultural.",
+      "analisis": {
+        "A": "Cambio cultural por contacto, no necesariamente conflicto.",
+        "B": "Dificultad de relación entre marcos culturales.",
+        "C": "Campo de ética de la vida y salud.",
+        "D": "Proceso de bienestar social."
+      },
+      "alerta": "Enunciado poco preciso; clave B provisional hasta cotejo del solucionario.",
+      "perlas": [
+        "Interculturalidad requiere diálogo, no imposición."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Comunidad desconfía de una intervención porque desconoce su fundamento cultural.",
+          "clave": "Abordar conflicto intercultural con diálogo."
+        }
+      ]
+    },
+    {
+      "number": 45,
+      "topic": "Consentimiento informado",
+      "question": "En el caso de tratamientos especiales, nuevas modalidades de atención, práctica de procedimiento o intervenciones que puedan afectar psíquica o físicamente al paciente; y la participación del paciente en actividades de docencia, debe realizarse y registrarse con el formato de...",
+      "options": {
+        "A": "autorización de atención.",
+        "B": "solicitud de atención.",
+        "C": "consentimiento informado.",
+        "D": "permiso del paciente."
+      },
+      "correct": "C",
+      "temario": "El consentimiento informado es un proceso de comunicación y decisión autónoma. Cuando corresponde documentarlo, se utiliza el formato formal tras informar beneficios, riesgos y alternativas.",
+      "fundamento": "El documento exigido es consentimiento informado.",
+      "analisis": {
+        "A": "No sustituye el proceso de consentimiento informado.",
+        "B": "Solicitar atención no equivale a aceptar intervención.",
+        "C": "Instrumento correcto.",
+        "D": "Expresión informal e insuficiente."
+      },
+      "perlas": [
+        "Consentir = comprender, decidir libremente y documentar cuando proceda."
+      ],
+      "refuerzo": [
+        {
+          "caso": "Paciente participa en procedimiento docente invasivo.",
+          "clave": "Obtener consentimiento informado específico."
+        }
+      ]
+    }
+  ]
+}
