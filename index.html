@@ -316,7 +316,7 @@ function legacyElapsedMs(x){if(!x?.startedAt)return 0;const stop=(x.paused&&x.pa
 function estimateLegacyReviewMs(x){const ts=Object.values(x?.answers||{}).map(a=>Date.parse(a?.answeredAt||'')).filter(Number.isFinite).sort((a,b)=>a-b);if(!ts.length)return 0;let total=45000;for(let i=1;i<ts.length;i++){const gap=Math.max(0,ts[i]-ts[i-1]);total+=Math.min(gap,5*60*1000)}return total}
 function normalizePauseState(x){if(!x)return x;if(x.paused===undefined)x.paused=false;if(x.pauseStartedAt===undefined)x.pauseStartedAt=null;if(x.pausedAccumMs===undefined)x.pausedAccumMs=0;if(x.timerVersion!==ACTIVE_TIMER_VERSION){let ms=legacyElapsedMs(x);const untimed=!x.durationSec;if(untimed&&ms>6*60*60*1000){ms=estimateLegacyReviewMs(x);x.timerRepairNotice=true}x.activeElapsedMs=Math.max(0,ms);x.activeStartedAt=(!x.finished&&!x.paused)?Date.now():null;x.timerVersion=ACTIVE_TIMER_VERSION}else{if(!Number.isFinite(x.activeElapsedMs))x.activeElapsedMs=0;if(x.finished||x.paused)x.activeStartedAt=null;else if(!Number.isFinite(x.activeStartedAt))x.activeStartedAt=Date.now()}return x}
 function checkpointActiveClock(){if(!session||session.timerVersion!==ACTIVE_TIMER_VERSION||session.finished||session.paused||!Number.isFinite(session.activeStartedAt))return;const now=Date.now();session.activeElapsedMs=Math.max(0,(session.activeElapsedMs||0)+(now-session.activeStartedAt));session.activeStartedAt=now}
-async function saveCurrentSession(){const key=sessionKeyFor(session);if(!key)return;checkpointActiveClock();session.sessionKey=key;sessionBook[key]=clone(session);await saveSessionBook()}
+async function saveCurrentSession(){const key=sessionKeyFor(session);if(!key)return;checkpointActiveClock();session.sessionKey=key;session.savedAt=Date.now();sessionBook[key]=clone(session);await saveSessionBook();if(cloud.user&&cloud.fs){if(cloud.flushTimer){clearTimeout(cloud.flushTimer);cloud.flushTimer=null;}await cloudFlush();}}
 async function deleteSavedSession(key){if(!key)return;delete sessionBook[key];await saveSessionBook()}
 function savedFor(key){return sessionBook[key]||null}
 function defaultFlashSession(){return {items:[],index:0,mode:'due',quick:true,revealed:false,reviewed:0,again:0,hard:0,know:0,startedAt:null,finished:false}}
@@ -959,9 +959,33 @@ window.__cloudQueueMutation=(store,value)=>{if(cloud.applying||!cloud.user||!clo
 window.__cloudQueueClear=store=>{if(cloud.applying||!cloud.user)return;if(store==='progress'||store==='banks')cloud.metaDirty=true};
 window.__cloudQueueDelete=(store,key)=>{if(cloud.applying||!cloud.user)return;if(store==='banks'||store==='progress')cloud.metaDirty=true};
 async function cloudCommit(entries){for(let start=0;start<entries.length;start+=400){const batch=cloud.writeBatch(cloud.fs);for(const entry of entries.slice(start,start+400)){if(entry.remove)batch.delete(entry.ref);else batch.set(entry.ref,entry.data)}await batch.commit()}}
-async function cloudSaveMeta(){const now=Date.now();await cloud.setDoc(cloudMetaRef(),{schemaVersion:1,settings:cloudCopy(settings),sessionBook:cloudCopy(sessionBook),flashSession:cloudCopy(flashSession),retiredBanks:[...retiredBanks],updatedAt:now});cloud.lastMeta=Math.max(cloud.lastMeta,now)}
-async function cloudFlush(){if(!cloud.user||!cloud.fs||cloud.syncing)return;cloud.syncing=true;const queued=[...cloud.pending.values()];cloud.pending.clear();const meta=cloud.metaDirty;cloud.metaDirty=false;try{const now=Date.now(),writes=queued.map((item,index)=>({ref:item.kind==='progress'?cloudProgressRef(item.id):cloudBankRef(item.id),data:item.kind==='progress'?{qid:item.id,data:item.value,updatedAt:now+index}:{bankId:item.id,data:item.value,updatedAt:now+index}}));if(writes.length)await cloudCommit(writes);if(meta||writes.length)await cloudSaveMeta();cloudUi('Sincronizado ✓');}catch(e){for(const item of queued)cloud.pending.set((item.kind==='progress'?'p:':'b:')+item.id,item);cloud.metaDirty=cloud.metaDirty||meta;cloudUi('Pendiente: '+cloudProblem(e));}finally{cloud.syncing=false}}
-async function cloudMergeMeta(data){if(!data)return;if(data.settings)settings={...settings,...cloudCopy(data.settings)};if(data.sessionBook&&typeof data.sessionBook==='object')sessionBook=cloudCopy(data.sessionBook);if(data.flashSession)flashSession=normalizeFlashSession(cloudCopy(data.flashSession));if(Array.isArray(data.retiredBanks))retiredBanks=new Set(data.retiredBanks);settings.cloudBoundUid=cloud.user.uid;await cloudLocalPut('meta',{key:'settings',value:settings});await cloudLocalPut('meta',{key:'sessionBook',value:sessionBook});await cloudLocalPut('meta',{key:'flashSession',value:flashSession});await cloudLocalPut('meta',{key:'retiredBanks',value:[...retiredBanks]});for(const bankId of retiredBanks){if(banks.has(bankId)){banks.delete(bankId);await cloudLocalDelete('banks',bankId)}}const goal=document.getElementById('dailyGoal');if(goal)goal.value=String(settings.dailyGoal||20);cloud.lastMeta=Math.max(cloud.lastMeta,Number(data.updatedAt)||0)}
+let cloudMetaWrite=Promise.resolve();
+async function cloudSaveMeta(){
+  const snapshot={schemaVersion:1,settings:cloudCopy(settings),sessionBook:cloudCopy(sessionBook),flashSession:cloudCopy(flashSession),retiredBanks:[...retiredBanks],updatedAt:Date.now()};
+  const op=cloudMetaWrite.catch(()=>{}).then(async()=>{
+    snapshot.updatedAt=Math.max(Date.now(),cloud.lastMeta+1);
+    await cloud.setDoc(cloudMetaRef(),snapshot);
+    cloud.lastMeta=Math.max(cloud.lastMeta,snapshot.updatedAt);
+  });
+  cloudMetaWrite=op;
+  return op;
+}
+async function cloudFlush(){if(!cloud.user||!cloud.fs)return;if(cloud.syncing){cloud.metaDirty=true;return;}cloud.syncing=true;const queued=[...cloud.pending.values()];cloud.pending.clear();const meta=cloud.metaDirty;cloud.metaDirty=false;try{const now=Date.now(),writes=queued.map((item,index)=>({ref:item.kind==='progress'?cloudProgressRef(item.id):cloudBankRef(item.id),data:item.kind==='progress'?{qid:item.id,data:item.value,updatedAt:now+index}:{bankId:item.id,data:item.value,updatedAt:now+index}}));if(writes.length)await cloudCommit(writes);if(meta||writes.length)await cloudSaveMeta();cloudUi('Sincronizado ✓');}catch(e){for(const item of queued)cloud.pending.set((item.kind==='progress'?'p:':'b:')+item.id,item);cloud.metaDirty=cloud.metaDirty||meta;cloudUi('Pendiente: '+cloudProblem(e));}finally{cloud.syncing=false;if(cloud.metaDirty||cloud.pending.size)cloudSchedule();}}
+async function cloudMergeMeta(data){if(!data)return;if(data.settings)settings={...settings,...cloudCopy(data.settings)};if(data.sessionBook&&typeof data.sessionBook==='object'){
+  const remote=cloudCopy(data.sessionBook);
+  for(const [key,local] of Object.entries(sessionBook)){
+    const candidate=remote[key];
+    if(!candidate){remote[key]=local;continue;}
+    if(local?.sessionId&&candidate?.sessionId&&local.sessionId===candidate.sessionId){
+      const localCount=Object.keys(local.answers||{}).length;
+      const remoteCount=Object.keys(candidate.answers||{}).length;
+      if(localCount>remoteCount||(localCount===remoteCount&&(Number(local.savedAt)||0)>(Number(candidate.savedAt)||0))){
+        remote[key]=local;
+      }
+    }else if((Number(local?.savedAt)||0)>(Number(candidate?.savedAt)||0))remote[key]=local;
+  }
+  sessionBook=remote;
+}if(data.flashSession)flashSession=normalizeFlashSession(cloudCopy(data.flashSession));if(Array.isArray(data.retiredBanks))retiredBanks=new Set(data.retiredBanks);settings.cloudBoundUid=cloud.user.uid;await cloudLocalPut('meta',{key:'settings',value:settings});await cloudLocalPut('meta',{key:'sessionBook',value:sessionBook});await cloudLocalPut('meta',{key:'flashSession',value:flashSession});await cloudLocalPut('meta',{key:'retiredBanks',value:[...retiredBanks]});for(const bankId of retiredBanks){if(banks.has(bankId)){banks.delete(bankId);await cloudLocalDelete('banks',bankId)}}const goal=document.getElementById('dailyGoal');if(goal)goal.value=String(settings.dailyGoal||20);cloud.lastMeta=Math.max(cloud.lastMeta,Number(data.updatedAt)||0)}
 async function cloudApplyBank(raw){const bank=raw?.data;if(!bank?.bankId||retiredBanks.has(bank.bankId))return;validateBank(bank);await cloudLocalPut('banks',bank);banks.set(bank.bankId,bank);cloud.lastBanks=Math.max(cloud.lastBanks,Number(raw.updatedAt)||0)}
 async function cloudApplyProgress(raw){const p=raw?.data;if(!p?.qid)return;if(cloud.pending.has('p:'+p.qid))return;if(p.errorLevel===undefined||p.errorLevel===null)p.errorLevel=(p.wrongCount>0&&p.lastWasCorrect!==true)?1:0;if(!Array.isArray(p.history))p.history=[];migrateFlashFields(p);await cloudLocalPut('progress',p);progress.set(p.qid,p);cloud.lastProgress=Math.max(cloud.lastProgress,Number(raw.updatedAt)||0)}
 async function cloudPullAll(){const meta=await cloud.getDoc(cloudMetaRef());if(meta.exists())await cloudMergeMeta(meta.data());const [banksSnap,progressSnap]=await Promise.all([cloud.getDocs(cloud.collection(cloud.fs,'users',cloud.user.uid,'banks')),cloud.getDocs(cloud.collection(cloud.fs,'users',cloud.user.uid,'progress'))]);for(const row of banksSnap.docs)await cloudApplyBank(row.data());for(const row of progressSnap.docs)await cloudApplyProgress(row.data());renderHome()}
