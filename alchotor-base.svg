@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 430" role="img" aria-label="Alchotor, ave con lentes y uniforme azul básico">
+<defs><linearGradient id="feather" x2=".8" y2="1"><stop stop-color="#e7a052"/><stop offset=".6" stop-color="#995024"/><stop offset="1" stop-color="#64351d"/></linearGradient><linearGradient id="scrub" x2="1" y2="1"><stop stop-color="#307ed4"/><stop offset="1" stop-color="#0c397e"/></linearGradient></defs>
+<path d="M94 255 Q15 280 33 340 Q7 345 17 363 Q57 382 107 340" fill="#995024" stroke="#6d3b21" stroke-width="5"/>
+<path d="M103 300 L180 300 L174 397 L111 397Z" fill="url(#scrub)" stroke="#11376d" stroke-width="6"/>
+<path d="M114 387 L112 410 Q102 425 73 412 Q58 398 83 389Z" fill="#f7fbff" stroke="#173c7b" stroke-width="6"/><path d="M174 387 L179 410 Q187 425 218 412 Q229 398 199 389Z" fill="#f7fbff" stroke="#173c7b" stroke-width="6"/>
+<path d="M87 212 Q67 213 62 251 L83 294 Q86 320 120 322 L185 322 Q222 310 219 280 L222 241 Q212 208 189 204Z" fill="url(#scrub)" stroke="#11376d" stroke-width="6"/>
+<path d="M89 237 Q30 210 29 173 Q15 147 36 145 Q57 147 55 169 L92 193Z" fill="url(#feather)" stroke="#70361b" stroke-width="5"/>
+<path d="M216 234 Q252 245 249 273 Q242 301 223 289" fill="url(#feather)" stroke="#70361b" stroke-width="5"/>
+<path d="M66 112 Q37 61 98 49 L110 18 L134 41 L168 13 L178 47 Q239 62 224 138 Q216 196 177 226 Q117 254 79 206 Q48 161 66 112Z" fill="url(#feather)" stroke="#68391f" stroke-width="7"/>
+<path d="M76 127 Q104 90 144 113 Q185 83 219 126 Q204 194 163 216 Q108 217 80 183Z" fill="#fff0d2"/>
+<ellipse cx="113" cy="144" rx="34" ry="40" fill="#fefcf8" stroke="#1d1b1b" stroke-width="12"/><ellipse cx="186" cy="144" rx="34" ry="40" fill="#fefcf8" stroke="#1d1b1b" stroke-width="12"/>
+<circle cx="118" cy="148" r="19" fill="#cc872d"/><circle cx="120" cy="149" r="10" fill="#181b23"/><circle cx="125" cy="139" r="5" fill="white"/>
+<path d="M162 144 Q182 166 207 145" stroke="#282020" stroke-width="8" fill="none" stroke-linecap="round"/>
+<path d="M147 155 L179 172 Q155 196 139 171Z" fill="#ffb900" stroke="#cc7208" stroke-width="4"/><path d="M143 176 Q155 204 176 180" fill="#a52e28" stroke="#6b221c" stroke-width="3"/>
+<path d="M77 131 L63 119 M216 129 L232 118" stroke="#1d1b1b" stroke-width="12" stroke-linecap="round"/>
+<path d="M109 253 L143 276 L168 253" stroke="#bde1ff" stroke-width="5" fill="none"/>
+<rect x="160" y="286" width="34" height="25" rx="4" fill="#15407c" stroke="#82b2ef" stroke-width="3"/><path d="M169 297 L177 305 L184 294" fill="none" stroke="#e1efff" stroke-width="4"/>
+</svg>
