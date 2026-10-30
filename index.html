@@ -96,6 +96,7 @@ button,input,select{font:inherit} button{cursor:pointer}.wrap{max-width:980px;ma
 .rambosolGlobal{display:flex;align-items:center;gap:9px;border:1px solid #efc77d;background:#fff8e9;border-radius:15px;padding:8px 13px;color:#784808;white-space:nowrap;font-weight:750;font-size:14px;box-shadow:0 2px 8px #5f410b0c}
 .rambosolGlobal .coinIcon{font-size:22px}.rambosolGlobal small{display:block;font-size:11px;color:#95682c;font-weight:600}
 @media(max-width:650px){.rambosolGlobal{padding:6px 9px;gap:6px;font-size:12px}.rambosolGlobal .coinIcon{font-size:18px}.rambosolGlobal small{font-size:10px}}
+.rambosolQuizBar{display:flex;align-items:center;justify-content:flex-end;gap:7px;margin:1px 0 10px;color:#8a5409;font-size:13px;font-weight:700}.rambosolQuizBar span{background:#fff6dc;border-radius:10px;padding:4px 9px;color:#8a630e}
 </style>
 </head>
 <body>
@@ -155,6 +156,7 @@ button,input,select{font:inherit} button{cursor:pointer}.wrap{max-width:980px;ma
   <section id="quiz" class="hidden">
     <div class="card">
       <div class="qhead"><button class="btn ghost" onclick="goHome()">← Inicio</button><span class="pill" id="modePill"></span><div class="actions"><button class="btn ghost" id="pauseBtn" onclick="togglePause()">⏸ Pausar</button><button class="btn ghost finishBtn" onclick="finishSession(false)">Finalizar</button><button class="btn ghost" id="favBtn" onclick="toggleFavorite()">☆</button></div></div>
+      <div class="rambosolQuizBar" aria-live="polite">🪙 <strong id="rambosolQuizTotal">0</strong> Rambosoles <span>Hoy: +<strong id="rambosolQuizToday">0</strong></span></div>
       <div class="sessionbar">
         <div class="sessionstat"><b id="sAnswered">0</b><span>Respondidas</span></div>
         <div class="sessionstat"><b id="sCorrect" class="green">0</b><span id="sCorrectLabel">Correctas</span></div>
@@ -850,6 +852,7 @@ function jumpQuestion(i){if(session.paused)return toast('Primero reanuda el simu
 function openResultQuestion(i){if(i<0||i>=session.items.length)return;session.index=i;showQuiz();renderQuestion()}
 function scrollToQuestionStart(){const el=document.getElementById('qMeta')||document.getElementById('qText');if(!el)return;el.scrollIntoView({behavior:'auto',block:'start',inline:'nearest'});}
 function renderQuestion(){
+ renderRambosoleUI();
  const r=current();if(!r){goHome();return} const {bank,q}=r;const id=qid(bank.bankId,q.code);const saved=session.answers?.[id]||null;const concealed=isRealExamSession()&&!session.finished&&!session.examCommitted;
  document.getElementById('quiz').classList.toggle('studyAnswered',!!saved&&!isRealExamSession()&&!session.finished);
  const mobileNext=document.getElementById('mobileStudyNext');if(mobileNext)mobileNext.textContent=session.index===session.items.length-1?'Ver resultados →':'Siguiente pregunta →';
@@ -1246,7 +1249,7 @@ function rambosolesToday(){normalizeRambosoles();const day=today();return Object
 function renderRambosoleUI(){
   normalizeRambosoles();
   const balance=document.getElementById('rambosoleBalance'),message=document.getElementById('rambosoleMissionText'),avatar=document.getElementById('rambitoAvatar');
-  if(balance)balance.textContent=String(settings.rambosoles);const globalTotal=document.getElementById('rambosolGlobalTotal'),globalToday=document.getElementById('rambosolGlobalToday');if(globalTotal)globalTotal.textContent=String(settings.rambosoles);if(globalToday)globalToday.textContent=String(rambosolesToday());
+  if(balance)balance.textContent=String(settings.rambosoles);const globalTotal=document.getElementById('rambosolGlobalTotal'),globalToday=document.getElementById('rambosolGlobalToday');if(globalTotal)globalTotal.textContent=String(settings.rambosoles);if(globalToday)globalToday.textContent=String(rambosolesToday());const quizTotal=document.getElementById('rambosolQuizTotal'),quizToday=document.getElementById('rambosolQuizToday');if(quizTotal)quizTotal.textContent=String(settings.rambosoles);if(quizToday)quizToday.textContent=String(rambosolesToday());
   if(message){const won=rambosolesToday();message.textContent=won>=20?'Misión diaria completada: vuelve mañana para ganar más Rambosoles.':`Hoy llevas ${won}/20 Rambosoles por flashcards recuperadas.`}
   if(avatar)avatar.dataset.outfit=settings.studyOutfit;
 }
