@@ -97,6 +97,7 @@ button,input,select{font:inherit} button{cursor:pointer}.wrap{max-width:980px;ma
 .rambosolGlobal .coinIcon{font-size:22px}.rambosolGlobal small{display:block;font-size:11px;color:#95682c;font-weight:600}
 @media(max-width:650px){.rambosolGlobal{padding:6px 9px;gap:6px;font-size:12px}.rambosolGlobal .coinIcon{font-size:18px}.rambosolGlobal small{font-size:10px}}
 .rambosolQuizBar{display:flex;align-items:center;justify-content:flex-end;gap:7px;margin:1px 0 10px;color:#8a5409;font-size:13px;font-weight:700}.rambosolQuizBar span{background:#fff6dc;border-radius:10px;padding:4px 9px;color:#8a630e}
+.emojiAvatar{display:inline-flex!important;align-items:center;justify-content:center;position:relative;min-width:64px;min-height:76px;border-radius:18px;background:linear-gradient(155deg,#e7f4ff,#ffffff);border:2px solid #b8d6f6;box-shadow:0 6px 18px #16417b26}.alchotorFace{font-size:43px;line-height:1}.alchotorGear{position:absolute;right:-8px;bottom:-8px;background:#fff8e8;border:1px solid #ebcb8a;border-radius:50%;padding:5px;font-size:20px;box-shadow:0 2px 6px #0002}
 </style>
 </head>
 <body>
@@ -1216,10 +1217,10 @@ async function saveHighlightedFlashcard(){if(!highlightDraft)return;settings.hig
 document.addEventListener('selectionchange',selectionToFlash);document.addEventListener('scroll',()=>{const b=document.getElementById('selectionFlashBtn');if(b?.classList.contains('show'))hideSelectionFlash()},{passive:true});
 
 // V5.7: compañero de estudio personal, guardado dentro de la configuración privada de cada cuenta.
-const studyAvatarInfo={rambito:{name:'Médico guía',role:'compañero de misión',emoji:'🧑‍⚕️',alt:'Médico guía, compañero de estudio'},rambita:{name:'Médica guía',role:'compañera de misión',emoji:'👩‍⚕️',alt:'Médica guía, compañera de estudio'}};
+const studyAvatarInfo={rambito:{name:'Alchotor',role:'médico tutor con lentes y bata blanca',emoji:'👨‍⚕️',alt:'Alchotor, médico tutor con lentes y bata blanca'},rambita:{name:'Alchotora',role:'médica tutora con lentes y bata blanca',emoji:'👩‍⚕️',alt:'Alchotora, médica tutora con lentes y bata blanca'}};
 function selectedStudyAvatar(){return studyAvatarInfo[settings.studyAvatar]||studyAvatarInfo.rambito}
 function studyAvatarMessage(){const active=pvals().filter(p=>activeDebt(p)>0),due=active.filter(p=>!p.dueDate||p.dueDate<=today());if(!pvals().length)return 'Empieza un banco y el médico guía convertirá cada error en una ruta de dominio.';if(due.length)return `Tenemos ${due.length} error${due.length===1?'':'es'} para recuperar. Vamos uno por uno.`;if(active.length)return `Vas bien: quedan ${active.length} errores activos. Elige tu siguiente misión.`;return '¡Territorio dominado! Mantén la racha con flashcards y simulacros.'}
-function renderStudyAvatar(){if(!settings.studyAvatar||!studyAvatarInfo[settings.studyAvatar])settings.studyAvatar='rambito';const avatar=selectedStudyAvatar(),img=document.getElementById('rambitoAvatarImg'),name=document.getElementById('rambitoName'),speech=document.getElementById('rambitoSpeech');if(img){img.textContent=avatar.emoji;img.setAttribute('aria-label',avatar.alt)}if(name)name.textContent=`${avatar.name} · ${avatar.role}`;if(speech)speech.textContent=studyAvatarMessage();for(const id of ['rambito','rambita'])document.getElementById(`avatarChoice${id[0].toUpperCase()+id.slice(1)}`)?.classList.toggle('active',settings.studyAvatar===id)}
+function renderStudyAvatar(){if(!settings.studyAvatar||!studyAvatarInfo[settings.studyAvatar])settings.studyAvatar='rambito';const avatar=selectedStudyAvatar(),img=document.getElementById('rambitoAvatarImg'),name=document.getElementById('rambitoName'),speech=document.getElementById('rambitoSpeech');if(img){const gear={base:'🥼',guardia:'🛡️',clinico:'🩺',comandante:'🎖️',asistente:'🥼',residente:'🧑‍⚕️',estetoscopio:'🩺',especialista:'🏥',corona:'👑'};img.innerHTML=`<span class="alchotorFace">${avatar.emoji}</span><span class="alchotorGear" aria-hidden="true">${gear[settings.studyOutfit]||'🥼'}</span>`;img.setAttribute('aria-label',avatar.alt+' · '+(wardrobeCatalog[settings.studyOutfit]?.name||'uniforme'))}if(name)name.textContent=`${avatar.name} · ${avatar.role}`;if(speech)speech.textContent=studyAvatarMessage();for(const id of ['rambito','rambita'])document.getElementById(`avatarChoice${id[0].toUpperCase()+id.slice(1)}`)?.classList.toggle('active',settings.studyAvatar===id)}
 async function setStudyAvatar(kind){if(!studyAvatarInfo[kind])return;settings.studyAvatar=kind;await saveSettings();renderStudyAvatar();if(cloud.user&&commercial.active)cloudSaveMeta().catch(()=>{});toast(`${studyAvatarInfo[kind].name} te acompañará en tus repasos`)}
 function rambitoCheer(message){const avatar=selectedStudyAvatar(),btn=document.getElementById('rambitoAvatar'),speech=document.getElementById('rambitoSpeech');if(speech)speech.textContent=message||`${avatar.name}: el siguiente acierto reduce una deuda. ¡A por ella!`;if(btn){btn.classList.remove('cheer');void btn.offsetWidth;btn.classList.add('cheer');setTimeout(()=>btn.classList.remove('cheer'),1150)}}
 const _renderHomeV57=renderHome;renderHome=function(){const out=_renderHomeV57();renderStudyAvatar();return out};
@@ -1234,7 +1235,12 @@ const wardrobeCatalog={
   base:{name:'Uniforme de ingreso',icon:'🎒',cost:0,desc:'Tu equipo inicial para recuperar errores.'},
   guardia:{name:'Guardia de recuperación',icon:'🛡️',cost:20,desc:'Para quien no abandona las preguntas difíciles.'},
   clinico:{name:'Clínico de alto rendimiento',icon:'🩺',cost:60,desc:'Un distintivo para el estudio metódico.'},
-  comandante:{name:'Comandante del Residentado',icon:'🎖️',cost:140,desc:'La insignia de quien sostiene el repaso espaciado.'}
+  comandante:{name:'Comandante del Residentado',icon:'🎖️',cost:140,desc:'La insignia de quien sostiene el repaso espaciado.'},
+  asistente:{name:'Bata de asistente médico',icon:'🥼',cost:180,desc:'Tu primera bata profesional de práctica clínica.'},
+  residente:{name:'Uniforme de médico residente',icon:'👨‍⚕️',cost:400,desc:'Indumentaria de residente y distintivo de especialidad.'},
+  estetoscopio:{name:'Estetoscopio de lujo',icon:'🩺',cost:800,desc:'Estetoscopio premium para Alchotor.'},
+  especialista:{name:'Bata de médico especialista',icon:'🏥',cost:1200,desc:'Bata elegante y credencial de especialista.'},
+  corona:{name:'Corona del Maestro de Errores',icon:'👑',cost:3000,desc:'Premio legendario: la corona más exclusiva de Alchotor.'}
 };
 function normalizeRambosoles(){
   settings.rambosoles=Math.max(0,Number(settings.rambosoles)||0);
@@ -1250,13 +1256,13 @@ function renderRambosoleUI(){
   normalizeRambosoles();
   const balance=document.getElementById('rambosoleBalance'),message=document.getElementById('rambosoleMissionText'),avatar=document.getElementById('rambitoAvatar');
   if(balance)balance.textContent=String(settings.rambosoles);const globalTotal=document.getElementById('rambosolGlobalTotal'),globalToday=document.getElementById('rambosolGlobalToday');if(globalTotal)globalTotal.textContent=String(settings.rambosoles);if(globalToday)globalToday.textContent=String(rambosolesToday());const quizTotal=document.getElementById('rambosolQuizTotal'),quizToday=document.getElementById('rambosolQuizToday');if(quizTotal)quizTotal.textContent=String(settings.rambosoles);if(quizToday)quizToday.textContent=String(rambosolesToday());
-  if(message){const won=rambosolesToday();message.textContent=won>=20?'Misión diaria completada: vuelve mañana para ganar más Rambosoles.':`Hoy llevas ${won}/20 Rambosoles por flashcards recuperadas.`}
+  if(message){const won=rambosolesToday();message.textContent=`Hoy has ganado +${won} Rambosoles. ¡Sin límites diarios!`}
   if(avatar)avatar.dataset.outfit=settings.studyOutfit;
 }
 function renderWardrobe(){
   normalizeRambosoles();
   const balance=document.getElementById('wardrobeBalance'),list=document.getElementById('wardrobeList');
-  if(balance)balance.textContent=`🪙 ${settings.rambosoles} Rambosoles disponibles · ${rambosolesToday()}/20 ganados hoy`;
+  if(balance)balance.textContent=`🪙 ${settings.rambosoles} Rambosoles disponibles · ${rambosolesToday()} ganados hoy`;
   if(!list)return;
   list.innerHTML=Object.entries(wardrobeCatalog).map(([id,item])=>{
     const unlocked=settings.wardrobeUnlocked.includes(id),active=settings.studyOutfit===id;
@@ -1280,7 +1286,7 @@ async function unlockOutfit(id){
 async function awardRambosolesForReview(cardId){
   normalizeRambosoles();
   const day=today(),key=`review:${day}:${cardId}`;
-  if(settings.rambosoleLog[key]||rambosolesToday()>=20)return 0;
+  if(settings.rambosoleLog[key])return 0;
   settings.rambosoleLog[key]={day,points:1,at:new Date().toISOString()};settings.rambosoles+=1;
   await saveSettings();if(cloud.user&&commercial.active)cloudSaveMeta().catch(()=>{});
   renderStudyAvatar();return 1;
@@ -1381,7 +1387,7 @@ async function setCurrentErrorType(kind){
 async function awardMissionBonus(kind,points,message){
   normalizeRambosoles();
   const key=`mission:${today()}:${kind}`;
-  if(settings.rambosoleLog[key]||rambosolesToday()+points>RADAR_DAILY_TOTAL_MAX)return 0;
+  if(settings.rambosoleLog[key])return 0;
   settings.rambosoleLog[key]={day:today(),points,kind,at:new Date().toISOString()};settings.rambosoles+=points;
   await saveSettings();if(cloud.user&&commercial.active)cloudSaveMeta().catch(()=>{});renderRambosoleUI();toast(`🪙 +${points} Rambosoles · ${message}`);return points;
 }
@@ -1389,20 +1395,20 @@ function flashReviewPointsToday(){normalizeRambosoles();const prefix=`review:${t
 function questionPointsToday(){normalizeRambosoles();const prefix=`answer:${today()}:`;return Object.entries(settings.rambosoleLog).filter(([key,row])=>key.startsWith(prefix)&&row).reduce((n,[,row])=>n+(Number(row.points)||0),0)}
 async function awardRambosoleForQuestion(questionId){
   normalizeRambosoles();const key=`answer:${today()}:${questionId}`;
-  if(settings.rambosoleLog[key]||questionPointsToday()>=RADAR_DAILY_QUESTION_MAX)return 0;
+  if(settings.rambosoleLog[key])return 0;
   settings.rambosoleLog[key]={day:today(),points:1,kind:'question',at:new Date().toISOString()};settings.rambosoles+=1;
   await saveSettings();if(cloud.user&&commercial.active)cloudSaveMeta().catch(()=>{});renderRambosoleUI();return 1;
 }
 function recoveryPointsToday(){normalizeRambosoles();const prefix=`recovery:${today()}:`;return Object.entries(settings.rambosoleLog).filter(([key,row])=>key.startsWith(prefix)&&row).reduce((n,[,row])=>n+(Number(row.points)||0),0)}
 async function awardRambosolesForRecovery(questionId){
   normalizeRambosoles();const key=`recovery:${today()}:${questionId}`;
-  if(settings.rambosoleLog[key]||recoveryPointsToday()>=RADAR_DAILY_RECOVERY_MAX)return 0;
+  if(settings.rambosoleLog[key])return 0;
   settings.rambosoleLog[key]={day:today(),points:3,kind:'recovery',at:new Date().toISOString()};settings.rambosoles+=3;
   await saveSettings();if(cloud.user&&commercial.active)cloudSaveMeta().catch(()=>{});renderRambosoleUI();return 3;
 }
 awardRambosolesForReview=async function(cardId){
   normalizeRambosoles();const day=today(),key=`review:${day}:${cardId}`;
-  if(settings.rambosoleLog[key]||flashReviewPointsToday()>=RADAR_DAILY_FLASH_MAX)return 0;
+  if(settings.rambosoleLog[key])return 0;
   settings.rambosoleLog[key]={day,points:1,kind:'flashcard',at:new Date().toISOString()};settings.rambosoles+=1;
   await saveSettings();if(cloud.user&&commercial.active)cloudSaveMeta().catch(()=>{});renderStudyAvatar();return 1;
 };
