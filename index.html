@@ -886,8 +886,12 @@ async function answer(letter){
    updateSessionHud();renderQuestionMap();return;
  }
  if(session.answers?.[id])return;const ok=letter===q.correct;session.answers=session.answers||{};session.answers[id]={letter,ok,answeredAt:now};
- await applyChoiceToProgress(bank,q,letter,now,session.mode,session.sessionId,true);await saveCurrentSession();
+ // Actualizar la interfaz de inmediato, sin esperar Firebase ni el premio Rambosol.
+ // Ambos guardados empiezan en el mismo clic y siguen ejecutándose sin bloquear la respuesta.
+ const progressSave=applyChoiceToProgress(bank,q,letter,now,session.mode,session.sessionId,true);
+ const sessionSave=saveCurrentSession();
  showSavedAnswer(session.answers[id],false);document.getElementById('quiz').classList.add('studyAnswered');updateSessionHud();renderQuestionMap();renderHomeStatsOnly();
+ try{await Promise.all([progressSave,sessionSave])}catch(err){console.error('Error guardando respuesta:',err);toast('No se pudo guardar: revisa la sincronización');}
 }
 async function recordDailyErrorReview(p){
  if(p.wrongCount<=0)return;const t=today();settings.dailyCounts=settings.dailyCounts||{};settings.dailyCounts[t]=(settings.dailyCounts[t]||0)+1;
