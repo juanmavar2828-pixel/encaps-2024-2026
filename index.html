@@ -93,11 +93,14 @@ button,input,select{font:inherit} button{cursor:pointer}.wrap{max-width:980px;ma
   font-family:inherit;font-size:16px;font-weight:700;cursor:pointer;
 }
 #quiz.studyAnswered .mobileStudyNext:active{background:#15478e}
+.rambosolGlobal{display:flex;align-items:center;gap:9px;border:1px solid #efc77d;background:#fff8e9;border-radius:15px;padding:8px 13px;color:#784808;white-space:nowrap;font-weight:750;font-size:14px;box-shadow:0 2px 8px #5f410b0c}
+.rambosolGlobal .coinIcon{font-size:22px}.rambosolGlobal small{display:block;font-size:11px;color:#95682c;font-weight:600}
+@media(max-width:650px){.rambosolGlobal{padding:6px 9px;gap:6px;font-size:12px}.rambosolGlobal .coinIcon{font-size:18px}.rambosolGlobal small{font-size:10px}}
 </style>
 </head>
 <body>
 <div class="wrap">
-  <div class="top"><div class="brand"><div class="logo">🩺</div><div><h1>ENCAPS</h1><div class="sub">Medicina 2026-II · Maestro de Errores · FSRS-6 · <span id="firebaseSubtitle">Firebase: comprobando…</span></div></div></div><div class="actions"><button id="adminHeaderBtn" class="btn ghost hidden" onclick="showAdmin()">Administrar</button><button id="cloudHeaderBtn" class="btn secondary" onclick="cloudSignIn()">☁️ Sincronizar</button><button class="btn ghost" onclick="showSettings()">⚙️</button></div></div>
+  <div class="top"><div class="brand"><div class="logo">🩺</div><div><h1>ENCAPS</h1><div class="sub">Medicina 2026-II · Maestro de Errores · FSRS-6 · <span id="firebaseSubtitle">Firebase: comprobando…</span></div></div></div><div class="actions"><div class="rambosolGlobal" aria-label="Saldo de Rambosoles" title="Tus Rambosoles de hoy y el saldo acumulado"><span class="coinIcon">🪙</span><span><span id="rambosolGlobalTotal">0</span> Rambosoles<small>Hoy: +<span id="rambosolGlobalToday">0</span></small></span></div><button id="adminHeaderBtn" class="btn ghost hidden" onclick="showAdmin()">Administrar</button><button id="cloudHeaderBtn" class="btn secondary" onclick="cloudSignIn()">☁️ Sincronizar</button><button class="btn ghost" onclick="showSettings()">⚙️</button></div></div>
 
   <section id="home">
     <nav class="home-nav" aria-label="Accesos rápidos"><a href="#mission">Sala de dominio</a><a href="#radar">Radar</a><a href="#courses">Cursos</a><a href="#banks">Bancos</a><a href="#errors">Errores</a></nav>
@@ -1243,7 +1246,7 @@ function rambosolesToday(){normalizeRambosoles();const day=today();return Object
 function renderRambosoleUI(){
   normalizeRambosoles();
   const balance=document.getElementById('rambosoleBalance'),message=document.getElementById('rambosoleMissionText'),avatar=document.getElementById('rambitoAvatar');
-  if(balance)balance.textContent=String(settings.rambosoles);
+  if(balance)balance.textContent=String(settings.rambosoles);const globalTotal=document.getElementById('rambosolGlobalTotal'),globalToday=document.getElementById('rambosolGlobalToday');if(globalTotal)globalTotal.textContent=String(settings.rambosoles);if(globalToday)globalToday.textContent=String(rambosolesToday());
   if(message){const won=rambosolesToday();message.textContent=won>=20?'Misión diaria completada: vuelve mañana para ganar más Rambosoles.':`Hoy llevas ${won}/20 Rambosoles por flashcards recuperadas.`}
   if(avatar)avatar.dataset.outfit=settings.studyOutfit;
 }
