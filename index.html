@@ -1769,30 +1769,22 @@ window.cloudSyncNow=async()=>{
  }catch(e){cloudUi('Sincronización pendiente: '+cloudProblem(e))}
 };
 
-/* ENCAPS: el proveedor habilitado es correo/contraseña. */
-window.cloudSignIn=()=>{
- if(cloud.user)return window.cloudSyncNow();
- showSettings();
- document.getElementById('cloudGuestActions')?.classList.remove('hidden');
- document.getElementById('cloudEmailAuthBox')?.classList.remove('hidden');
- document.getElementById('cloudLoginBtn')?.classList.add('hidden');
- document.getElementById('cloudEmail')?.focus();
-};
+/* ENCAPS: permitir acceso Google y correo/contraseña sin cambiar identidad ni progreso. */
 document.addEventListener('DOMContentLoaded',()=>{
  const header=document.getElementById('cloudHeaderBtn');
  if(header){header.classList.remove('hidden');header.onclick=()=>window.cloudSignIn();}
  const box=document.getElementById('cloudEmailAuthBox');
  if(box){
    const title=box.querySelector('b');if(title)title.textContent='Cuenta ENCAPS';
-   const info=box.querySelector('.tiny');if(info)info.textContent='Usa tu correo y contraseña para sincronizar tus dispositivos.';
+   const info=box.querySelector('.tiny');if(info)info.textContent='Accede con tu cuenta original. Google y correo/contraseña pueden identificar usuarios distintos.';
    const actions=box.querySelector('.actions');
    if(actions&&!document.getElementById('encapsRegisterBtn')){
-     const b=document.createElement('button');b.id='encapsRegisterBtn';b.className='btn secondary';b.textContent='Crear cuenta';
-     b.onclick=()=>window.cloudEmailCreate();actions.appendChild(b);
+     const btn=document.createElement('button');btn.id='encapsRegisterBtn';btn.className='btn secondary';btn.textContent='Crear cuenta';
+     btn.onclick=()=>window.cloudEmailCreate();actions.appendChild(btn);
    }
  }
  document.getElementById('cloudGuestActions')?.classList.remove('hidden');
- document.getElementById('cloudLoginBtn')?.classList.add('hidden');
+ document.getElementById('cloudLoginBtn')?.classList.remove('hidden');
 });
 
 /* Barra de desplazamiento explícita para Configuración. */
