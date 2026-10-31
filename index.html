@@ -1693,6 +1693,29 @@ async function encapsBindSession(){
    }
  });
 }
+// Comprobar la sesión al regresar a la pestaña, incluso si Firestore estuvo suspendido.
+async function encapsCheckSession(){
+ const token=encapsCloudToken, user=cloud.user;
+ if(!token||!user||!cloud.fs)return;
+ try{
+  const ref=cloud.doc(cloud.fs,'users',user.uid,'app','activeSession');
+  const snap=await cloud.getDoc(ref);
+  if(token!==encapsCloudToken)return;
+  if(!snap.exists()||snap.data()?.token!==token){
+   encapsCloudToken=null;
+   if(encapsSessionUnsub){encapsSessionUnsub();encapsSessionUnsub=null}
+   if(cloud.pullTimer)clearInterval(cloud.pullTimer);
+   if(cloud.flushTimer)clearTimeout(cloud.flushTimer);
+   cloud.started=false;cloud.user=null;
+   commercial.blocked=true;
+   commercialGate(true,'Sesión abierta en otro dispositivo','Esta sesión se cerró. Ingresa nuevamente para estudiar.');
+   await cloud.signOut(cloud.auth);
+  }
+ }catch(e){console.warn('Verificación de sesión pendiente',e)}
+}
+document.addEventListener('visibilitychange',()=>{if(document.visibilityState==='visible')encapsCheckSession()});
+window.addEventListener('focus',()=>encapsCheckSession());
+setInterval(()=>{if(document.visibilityState==='visible')encapsCheckSession()},15000);
 cloudStart=async function(user){
  if(!cloud.localReady){cloud.pendingUser=user;return}
  if(cloud.user?.uid===user.uid&&cloud.started)return;
