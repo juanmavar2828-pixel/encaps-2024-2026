@@ -1739,7 +1739,9 @@ cloudStart=async function(user){
    if(cloud.pullTimer)clearInterval(cloud.pullTimer);
    cloud.pullTimer=setInterval(()=>{if(encapsCloudToken&&cloud.user)cloudPullChanges()},25000);
    cloudUi('☁️ Sincronización activa: '+(user.email||'tu cuenta'));
- }catch(e){cloud.started=false;cloudUi('Error al sincronizar: '+cloudProblem(e));}
+   commercialGate(false);
+   toast('✅ Sesión activa · Sincronización completada');
+ }catch(e){cloud.started=false;cloudUi('Error al sincronizar: '+cloudProblem(e));commercialGate(true,'Sincronización pendiente','No se pudo completar: '+cloudProblem(e)+'. Conserva tu respaldo y vuelve a intentar.');}
 };
 window.cloudSignOut=async()=>{
  if(!cloud.user)return;
