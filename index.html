@@ -2005,6 +2005,42 @@ document.addEventListener('DOMContentLoaded',()=>{
   }catch(e){console.warn('Modo local seguro',e)}
 });
 
+/* ENCAPS: restauración selectiva y explícita de recompensas, sin modificar bancos ni respuestas. */
+window.restoreRambosolesOnly=async function(){
+ if(!cloud.user||!cloud.ready)return toast('Inicia sesión en tu cuenta original antes de recuperar Rambosoles.');
+ const picker=document.createElement('input');picker.type='file';picker.accept='.json,application/json';
+ picker.onchange=async()=>{
+  const file=picker.files&&picker.files[0];if(!file)return;
+  try{
+   const backup=JSON.parse(await file.text());
+   if(backup.type!=='maestro-errores-full'||!backup.settings||!Array.isArray(backup.progress))throw Error('Este archivo no es un respaldo completo válido.');
+   const source=backup.settings, amount=Number(source.rambosoles);
+   if(!Number.isSafeInteger(amount)||amount<0||amount>1000000)throw Error('El saldo de Rambosoles no es válido.');
+   if(source.cloudBoundUid&&source.cloudBoundUid!==cloud.user.uid)throw Error('El respaldo pertenece a otra cuenta de Firebase. Abre tu cuenta original.');
+   const before=Number(settings.rambosoles)||0;
+   const message='Cuenta: '+(cloud.user.email||'cuenta actual')+'\\nSaldo del respaldo: '+amount+'\\nSaldo actual: '+before+'\\n\\nSolo se recuperarán Rambosoles y vestuario. No se modificarán preguntas ni respuestas. ¿Continuar?';
+   if(!confirm(message))return;
+   settings.rambosoles=Math.max(before,amount);
+   settings.rambosoleLog={...(source.rambosoleLog&&typeof source.rambosoleLog==='object'?source.rambosoleLog:{}),...(settings.rambosoleLog||{})};
+   settings.wardrobeUnlocked=[...new Set(['base',...(Array.isArray(source.wardrobeUnlocked)?source.wardrobeUnlocked:[]),...(Array.isArray(settings.wardrobeUnlocked)?settings.wardrobeUnlocked:[])])];
+   await saveSettings();
+   await cloudSaveMeta();
+   renderStudyAvatar();renderRambosoleUI();
+   toast('Rambosoles recuperados y enviados a Firebase: '+settings.rambosoles);
+  }catch(error){alert('No se realizó ningún cambio: '+(error.message||String(error)))}
+ };
+ picker.click();
+};
+document.addEventListener('DOMContentLoaded',()=>{
+ const cloudSection=document.getElementById('cloudEmailAuthBox');
+ if(!cloudSection||document.getElementById('encapsRecoverRambosoles'))return;
+ const btn=document.createElement('button');
+ btn.id='encapsRecoverRambosoles';btn.className='btn secondary';
+ btn.style.marginTop='12px';btn.textContent='🪙 Recuperar solo Rambosoles desde respaldo';
+ btn.onclick=()=>window.restoreRambosolesOnly();
+ cloudSection.parentElement?.appendChild(btn);
+});
+
 </script>
 
 </body>
