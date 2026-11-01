@@ -1867,6 +1867,11 @@ cloudStart=async function(user){
      await cloudPullAll();
    }
    await encapsPullSessionsCloud();
+   // Migrar sesiones anteriores sin borrar ni reemplazar una copia más avanzada.
+   for(const [key,copy] of Object.entries(sessionBook)){
+    if(!copy?.items?.length)continue;
+    try{await encapsSaveSessionCloud(key,copy)}catch(e){console.warn('Sesión conservada sin sobrescribir:',key,e)}
+   }
    settings.cloudBoundUid=user.uid;
    await cloudLocalPut('meta',{key:'settings',value:settings});
    if(cloud.pullTimer)clearInterval(cloud.pullTimer);
