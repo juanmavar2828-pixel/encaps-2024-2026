@@ -335,16 +335,23 @@ function encapsSessionWins(candidate,existing){
  }
  return Number(candidate.savedAt||0)>Number(existing.savedAt||0)&&a>=b;
 }
-async function encapsSaveSessionCloud(key,copy){
+const encapsSessionWriteQueue=new Map();
+async function encapsSaveSessionCloudRaw(key,copy){
  if(!cloud.user||!encapsCloudToken)throw new Error('La sesión de Firebase no está activa');
  const ref=encapsSessionRef(key);
- const currentSnap=await cloud.getDoc(ref);
+ const currentSnap=await cloud.getDocFromServer(ref);
  const existing=currentSnap.exists()?currentSnap.data()?.session:null;
  if(encapsSessionWins(existing,copy))throw new Error('Hay una sesión más reciente en la nube; no se sobrescribió');
  await cloud.setDoc(ref,{key,session:cloudCopy(copy),updatedAt:Date.now()});
- const check=await cloud.getDoc(ref);
+ const check=await cloud.getDocFromServer(ref);
  const remote=check.data()?.session;
  if(!remote||remote.sessionId!==copy.sessionId||Number(remote.index)!==Number(copy.index)||Object.keys(remote.answers||{}).length!==Object.keys(copy.answers||{}).length)throw new Error('La sesión todavía no está verificada en Firebase');
+}
+async function encapsSaveSessionCloud(key,copy){
+ const previous=encapsSessionWriteQueue.get(key)||Promise.resolve();
+ const operation=previous.catch(()=>{}).then(()=>encapsSaveSessionCloudRaw(key,copy));
+ encapsSessionWriteQueue.set(key,operation);
+ try{await operation}finally{if(encapsSessionWriteQueue.get(key)===operation)encapsSessionWriteQueue.delete(key)}
 }
 async function encapsPullSessionsCloud(){
  if(!cloud.user||!cloud.fs)return;
@@ -1053,7 +1060,7 @@ window.cloudSignOut=async()=>{if(!cloud.user)return;try{await cloud.signOut(clou
 window.cloudSyncNow=async()=>{if(!cloud.user)return window.cloudSignIn();await cloudFlush();await cloudPullChanges();toast('Sincronización terminada')};
 window.cloudReplaceAll=async()=>{if(!cloud.user)return;try{cloud.pending.clear();cloud.metaDirty=false;await cloudUploadAll(true)}catch(e){toast('El respaldo quedó local; nube pendiente: '+cloudProblem(e))}};
 (async function cloudBoot(){if(false){cloud.ready=false;cloud.localReady=true;cloud.started=false;return;} // Firebase ENCAPS activado
-if(location.protocol==='file:'){cloud.ready=false;cloud.localReady=true;cloud.started=false;return}try{const [appSdk,authSdk,firestoreSdk]=await Promise.all([import('https://www.gstatic.com/firebasejs/12.19.0/firebase-app.js'),import('https://www.gstatic.com/firebasejs/12.19.0/firebase-auth.js'),import('https://www.gstatic.com/firebasejs/12.19.0/firebase-firestore.js')]);cloud.app=appSdk.initializeApp(FIREBASE_CONFIG);cloud.auth=authSdk.getAuth(cloud.app);cloud.fs=firestoreSdk.getFirestore(cloud.app);cloud.provider=new authSdk.GoogleAuthProvider();cloud.doc=firestoreSdk.doc;cloud.collection=firestoreSdk.collection;cloud.getDoc=firestoreSdk.getDoc;cloud.getDocs=firestoreSdk.getDocs;cloud.setDoc=firestoreSdk.setDoc;cloud.onSnapshot=firestoreSdk.onSnapshot;cloud.writeBatch=firestoreSdk.writeBatch;cloud.query=firestoreSdk.query;cloud.where=firestoreSdk.where;cloud.signInWithPopup=authSdk.signInWithPopup;cloud.signInWithEmailAndPassword=authSdk.signInWithEmailAndPassword;cloud.createUserWithEmailAndPassword=authSdk.createUserWithEmailAndPassword;cloud.signOut=authSdk.signOut;cloud.ready=true;cloudUi();authSdk.onAuthStateChanged(cloud.auth,user=>{if(user)cloudStart(user);else if(!cloud.started){cloud.user=null;cloudUi()}})}catch(e){cloudUi('Firebase no se pudo cargar: '+cloudProblem(e))}})();
+if(location.protocol==='file:'){cloud.ready=false;cloud.localReady=true;cloud.started=false;return}try{const [appSdk,authSdk,firestoreSdk]=await Promise.all([import('https://www.gstatic.com/firebasejs/12.19.0/firebase-app.js'),import('https://www.gstatic.com/firebasejs/12.19.0/firebase-auth.js'),import('https://www.gstatic.com/firebasejs/12.19.0/firebase-firestore.js')]);cloud.app=appSdk.initializeApp(FIREBASE_CONFIG);cloud.auth=authSdk.getAuth(cloud.app);cloud.fs=firestoreSdk.getFirestore(cloud.app);cloud.provider=new authSdk.GoogleAuthProvider();cloud.doc=firestoreSdk.doc;cloud.collection=firestoreSdk.collection;cloud.getDoc=firestoreSdk.getDoc;cloud.getDocFromServer=firestoreSdk.getDocFromServer;cloud.getDocs=firestoreSdk.getDocs;cloud.setDoc=firestoreSdk.setDoc;cloud.onSnapshot=firestoreSdk.onSnapshot;cloud.writeBatch=firestoreSdk.writeBatch;cloud.query=firestoreSdk.query;cloud.where=firestoreSdk.where;cloud.signInWithPopup=authSdk.signInWithPopup;cloud.signInWithEmailAndPassword=authSdk.signInWithEmailAndPassword;cloud.createUserWithEmailAndPassword=authSdk.createUserWithEmailAndPassword;cloud.signOut=authSdk.signOut;cloud.ready=true;cloudUi();authSdk.onAuthStateChanged(cloud.auth,user=>{if(user)cloudStart(user);else if(!cloud.started){cloud.user=null;cloudUi()}})}catch(e){cloudUi('Firebase no se pudo cargar: '+cloudProblem(e))}})();
 
 /* V5.4: acceso comercial, vencimientos, administración privada y una sesión por cuenta. */
 const ADMIN_EMAIL='juanmavar28@gmail.com';
