@@ -894,7 +894,7 @@ function openResultQuestion(i){if(i<0||i>=session.items.length)return;session.in
 function scrollToQuestionStart(){const el=document.getElementById('qMeta')||document.getElementById('qText');if(!el)return;el.scrollIntoView({behavior:'auto',block:'start',inline:'nearest'});}
 function renderQuestion(){
  renderRambosoleUI();
- const r=current();if(!r){goHome();return} const {bank,q}=r;const id=qid(bank.bankId,q.code);const saved=session.answers?.[id]||null;const concealed=isRealExamSession()&&!session.finished&&!session.examCommitted;
+ const r=current();if(!r){goHome();return} const {bank,q}=r;const id=qid(bank.bankId,q.code);const saved=session.answers?.[id]||null;if(saved&&q.correct!=='PENDIENTE'&&(saved.ok===null||saved.ok===undefined)&&!(isRealExamSession()&&!session.finished)){saved.ok=saved.letter===q.correct;saveCurrentSession().catch(err=>console.warn('No se pudo actualizar la calificación de la sesión',err));}const concealed=isRealExamSession()&&!session.finished&&!session.examCommitted;
  document.getElementById('quiz').classList.toggle('studyAnswered',!!saved&&!isRealExamSession()&&!session.finished);
  const mobileNext=document.getElementById('mobileStudyNext');if(mobileNext)mobileNext.textContent=session.index===session.items.length-1?'Ver resultados →':'Siguiente pregunta →';
  document.getElementById('modePill').textContent=session.mode;
