@@ -323,7 +323,46 @@ function legacyElapsedMs(x){if(!x?.startedAt)return 0;const stop=(x.paused&&x.pa
 function estimateLegacyReviewMs(x){const ts=Object.values(x?.answers||{}).map(a=>Date.parse(a?.answeredAt||'')).filter(Number.isFinite).sort((a,b)=>a-b);if(!ts.length)return 0;let total=45000;for(let i=1;i<ts.length;i++){const gap=Math.max(0,ts[i]-ts[i-1]);total+=Math.min(gap,5*60*1000)}return total}
 function normalizePauseState(x){if(!x)return x;if(x.paused===undefined)x.paused=false;if(x.pauseStartedAt===undefined)x.pauseStartedAt=null;if(x.pausedAccumMs===undefined)x.pausedAccumMs=0;if(x.timerVersion!==ACTIVE_TIMER_VERSION){let ms=legacyElapsedMs(x);const untimed=!x.durationSec;if(untimed&&ms>6*60*60*1000){ms=estimateLegacyReviewMs(x);x.timerRepairNotice=true}x.activeElapsedMs=Math.max(0,ms);x.activeStartedAt=(!x.finished&&!x.paused)?Date.now():null;x.timerVersion=ACTIVE_TIMER_VERSION}else{if(!Number.isFinite(x.activeElapsedMs))x.activeElapsedMs=0;if(x.finished||x.paused)x.activeStartedAt=null;else if(!Number.isFinite(x.activeStartedAt))x.activeStartedAt=Date.now()}return x}
 function checkpointActiveClock(){if(!session||session.timerVersion!==ACTIVE_TIMER_VERSION||session.finished||session.paused||!Number.isFinite(session.activeStartedAt))return;const now=Date.now();session.activeElapsedMs=Math.max(0,(session.activeElapsedMs||0)+(now-session.activeStartedAt));session.activeStartedAt=now}
-async function saveCurrentSession(){const key=sessionKeyFor(session);if(!key)return;checkpointActiveClock();session.sessionKey=key;session.savedAt=Date.now();sessionBook[key]=clone(session);await saveSessionBook();if(cloud.user&&cloud.fs&&encapsCloudToken){if(cloud.flushTimer){clearTimeout(cloud.flushTimer);cloud.flushTimer=null;}try{await cloudFlush();await cloudSaveMeta();const verify=await cloud.getDoc(cloudMetaRef());const remote=verify.data()?.sessionBook?.[key];if(!remote||Object.keys(remote.answers||{}).length<Object.keys(session.answers||{}).length||Number(remote.index)!==Number(session.index)){throw new Error('No se confirmó el avance completo en Firebase')}cloudUi('☁️ Simulacro guardado y verificado');}catch(e){cloudUi('⚠️ Avance local guardado, pero pendiente de sincronizar');toast('⚠️ No se verificó el guardado en la nube. No cambies de dispositivo.');console.warn('ENCAPS: fallo de sincronización del simulacro',e)}}}
+/* ENCAPS: sesiones por documento, independientes de los metadatos globales. */
+function encapsSessionRef(key){return cloud.doc(cloud.fs,'users',cloud.user.uid,'sessions',cloudId(key))}
+function encapsSessionWins(candidate,existing){
+ if(!candidate)return false;
+ if(!existing)return true;
+ const a=Object.keys(candidate.answers||{}).length,b=Object.keys(existing.answers||{}).length;
+ if(candidate.sessionId&&candidate.sessionId===existing.sessionId){
+  if(a!==b)return a>b;
+  return Number(candidate.savedAt||0)>Number(existing.savedAt||0);
+ }
+ return Number(candidate.savedAt||0)>Number(existing.savedAt||0)&&a>=b;
+}
+async function encapsSaveSessionCloud(key,copy){
+ if(!cloud.user||!encapsCloudToken)throw new Error('La sesión de Firebase no está activa');
+ const ref=encapsSessionRef(key);
+ const currentSnap=await cloud.getDoc(ref);
+ const existing=currentSnap.exists()?currentSnap.data()?.session:null;
+ if(encapsSessionWins(existing,copy))throw new Error('Hay una sesión más reciente en la nube; no se sobrescribió');
+ await cloud.setDoc(ref,{key,session:cloudCopy(copy),updatedAt:Date.now()});
+ const check=await cloud.getDoc(ref);
+ const remote=check.data()?.session;
+ if(!remote||remote.sessionId!==copy.sessionId||Number(remote.index)!==Number(copy.index)||Object.keys(remote.answers||{}).length!==Object.keys(copy.answers||{}).length)throw new Error('La sesión todavía no está verificada en Firebase');
+}
+async function encapsPullSessionsCloud(){
+ if(!cloud.user||!cloud.fs)return;
+ const snap=await cloud.getDocs(cloud.collection(cloud.fs,'users',cloud.user.uid,'sessions'));
+ let changed=false;
+ for(const row of snap.docs){
+  const data=row.data(),key=data?.key,remote=data?.session;
+  if(!key||!remote||!Array.isArray(remote.items))continue;
+  if(encapsSessionWins(remote,sessionBook[key])){
+   sessionBook[key]=cloudCopy(remote);changed=true;
+  }
+ }
+ if(changed){
+  await cloudLocalPut('meta',{key:'sessionBook',value:sessionBook});
+  refreshAfterBackgroundSync();
+ }
+}
+async function saveCurrentSession(){const key=sessionKeyFor(session);if(!key)return;checkpointActiveClock();session.sessionKey=key;session.savedAt=Date.now();sessionBook[key]=clone(session);await saveSessionBook();if(cloud.user&&cloud.fs&&encapsCloudToken){if(cloud.flushTimer){clearTimeout(cloud.flushTimer);cloud.flushTimer=null;}try{await encapsSaveSessionCloud(key,sessionBook[key]);await cloudFlush();cloudUi('☁️ Simulacro guardado y verificado');}catch(e){cloudUi('⚠️ Avance local guardado, pero pendiente de sincronizar');toast('⚠️ No se verificó el guardado en la nube. No cambies de dispositivo.');console.warn('ENCAPS: fallo de sincronización del simulacro',e)}}}
 async function deleteSavedSession(key){if(!key)return;delete sessionBook[key];await saveSessionBook()}
 function savedFor(key){return sessionBook[key]||null}
 function defaultFlashSession(){return {items:[],index:0,mode:'due',quick:true,revealed:false,reviewed:0,again:0,hard:0,know:0,startedAt:null,finished:false}}
@@ -1827,10 +1866,11 @@ cloudStart=async function(user){
    } else {
      await cloudPullAll();
    }
+   await encapsPullSessionsCloud();
    settings.cloudBoundUid=user.uid;
    await cloudLocalPut('meta',{key:'settings',value:settings});
    if(cloud.pullTimer)clearInterval(cloud.pullTimer);
-   cloud.pullTimer=setInterval(()=>{if(encapsCloudToken&&cloud.user)cloudPullChanges()},25000);
+   cloud.pullTimer=setInterval(()=>{if(encapsCloudToken&&cloud.user){cloudPullChanges();encapsPullSessionsCloud().catch(e=>console.warn('Sesiones pendientes',e))}},25000);
    cloudUi('☁️ Sincronización activa: '+(user.email||'tu cuenta'));
    commercialGate(false);
    document.getElementById('accessGate')?.classList.add('hidden');
