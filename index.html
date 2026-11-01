@@ -888,7 +888,7 @@ function updateSessionHud(){
  const legend=document.getElementById('qMapLegend');if(legend)legend.textContent=concealed?'🔵 respondida · blanco pendiente':'🟢 correcta · 🔴 fallada · blanco pendiente';
  updateTimer();
 }
-function renderQuestionMap(target='questionMap',clickable=true){const el=document.getElementById(target);if(!el)return;const concealed=isRealExamSession()&&!session.finished&&!session.examCommitted&&target!=='resultMap';el.innerHTML=session.items.map((id,i)=>{const a=session.answers?.[id];const cls=a?(concealed?'answered':(a.ok?'correct':'wrong')):'unanswered';const n=questionByQid(id)?.q?.number??(i+1);const action=!clickable?'':(target==='resultMap'?`onclick="openResultQuestion(${i})"`:`onclick="jumpQuestion(${i})"`);return `<button class="qnum ${cls} ${i===session.index?'current':''}" ${action} title="Pregunta ${n}">${n}</button>`}).join('')}
+function renderQuestionMap(target='questionMap',clickable=true){const el=document.getElementById(target);if(!el)return;const concealed=isRealExamSession()&&!session.finished&&!session.examCommitted&&target!=='resultMap';el.innerHTML=session.items.map((id,i)=>{const a=session.answers?.[id];const cls=a?(concealed||a.ok===null||a.ok===undefined?'answered':(a.ok?'correct':'wrong')):'unanswered';const n=questionByQid(id)?.q?.number??(i+1);const action=!clickable?'':(target==='resultMap'?`onclick="openResultQuestion(${i})"`:`onclick="jumpQuestion(${i})"`);return `<button class="qnum ${cls} ${i===session.index?'current':''}" ${action} title="Pregunta ${n}">${n}</button>`}).join('')}
 function jumpQuestion(i){if(session.paused)return toast('Primero reanuda el simulacro.');if(i<0||i>=session.items.length)return;session.index=i;saveCurrentSession();renderQuestion()}
 function openResultQuestion(i){if(i<0||i>=session.items.length)return;session.index=i;showQuiz();renderQuestion()}
 function scrollToQuestionStart(){const el=document.getElementById('qMeta')||document.getElementById('qText');if(!el)return;el.scrollIntoView({behavior:'auto',block:'start',inline:'nearest'});}
@@ -913,7 +913,7 @@ function renderQuestion(){
 }
 function feedbackHtml(q,p,saved){const ok=saved.ok,letter=saved.letter;const pearl=getVillapepa(q);const pearlHtml=pearl?`<div class="pearl"><div class="pearl-title">🔥 VILLAPEPA · PATRÓN DE ALTO RENDIMIENTO</div><div class="pearl-text">${escapeHtml(pearl.replace(/^VILLAPEPA(?:\s+RM)?\s*:?\s*/i,''))}</div></div>`:'';const your=`<div class="tiny">Tu respuesta en esta vuelta: <b>${letter}) ${escapeHtml(q.options[letter])}</b></div>`;const dx=diagnosisHtml(q);const debt=activeDebt(p);return `<div class="answerline">${ok?'✅ CORRECTO':'❌ INCORRECTO'}</div>${your}<div><b>Respuesta correcta: ${q.correct}) ${escapeHtml(q.options[q.correct])}</b></div>${dx}${pearlHtml}<details ${ok?'':'open'}><summary><b>💬 Comentario completo del banco</b></summary><div class="comment">${escapeHtml(q.comment)}</div></details><details style="margin-top:10px"><summary><b>📜 Historial de tus respuestas (${(p.history||[]).length})</b></summary><div class="comment">${historyRows(p,q)}</div></details><div class="tiny" style="margin-top:10px">Historial: ${p.wrongCount||0} fallos · ${p.correctCount||0} aciertos · ${debt>0?'❌ errores activos pendientes '+debt:'🟢 error recuperado'}.</div><div class="actions" style="margin-top:10px"><button class="btn secondary" onclick="addCurrentFlashcard()">🧠 ${p.flashcardActive?'Flashcard activa':'Añadir a flashcards'}</button></div>`}
 // V4.5: al responder no hacemos auto-scroll; el usuario controla cuándo bajar al comentario.
-function showSavedAnswer(saved,focus=false){const r=current();if(!r)return;const {bank,q}=r;document.querySelectorAll('.opt').forEach(btn=>{const l=btn.dataset.letter;if(l===q.correct)btn.classList.add('correct');if(l===saved.letter&&!saved.ok)btn.classList.add('wrong');btn.disabled=true});document.getElementById('qText').innerHTML=highlightQuestion(q.question,q.keywords);const p=progress.get(qid(bank.bankId,q.code))||{};const fb=document.getElementById('feedback');fb.className='feedback '+(saved.ok?'ok':'bad');fb.innerHTML=feedbackHtml(q,p,saved);if(focus)fb.scrollIntoView({behavior:'smooth',block:'nearest'})}
+function showSavedAnswer(saved,focus=false){const r=current();if(!r)return;const {bank,q}=r;document.querySelectorAll('.opt').forEach(btn=>{const l=btn.dataset.letter;if(l===q.correct)btn.classList.add('correct');if(l===saved.letter&&saved.ok===false)btn.classList.add('wrong');if(l===saved.letter&&saved.ok===null)btn.classList.add('exam-selected');btn.disabled=true});document.getElementById('qText').innerHTML=highlightQuestion(q.question,q.keywords);const p=progress.get(qid(bank.bankId,q.code))||{};const fb=document.getElementById('feedback');fb.className='feedback '+(saved.ok===null?'':saved.ok?'ok':'bad');fb.innerHTML=saved.ok===null?'Respuesta guardada. La clave del PDF aún no está verificada; esta pregunta no suma aciertos ni errores.':feedbackHtml(q,p,saved);if(focus)fb.scrollIntoView({behavior:'smooth',block:'nearest'})}
 async function applyChoiceToProgress(bank,q,letter,now,mode,sessionId,countDaily=true){
  const id=qid(bank.bankId,q.code),ok=letter===q.correct;
  let p=progress.get(id)||{qid:id,bankId:bank.bankId,code:q.code,attempts:0,correctCount:0,wrongCount:0,streak:0,favorite:false,wrongChoices:{},errorLevel:0,history:[]};
@@ -925,17 +925,17 @@ async function applyChoiceToProgress(bank,q,letter,now,mode,sessionId,countDaily
  progress.set(id,p);await put('progress',p);if(countDaily)await recordDailyErrorReview(p);return p;
 }
 async function answer(letter){
- const r=current();if(!r)return;if(session.paused)return toast('Primero reanuda el simulacro.');if(session.finished)return toast('Esta vuelta ya terminó. Puedes revisar tus respuestas o iniciar una nueva vuelta.');const {bank,q}=r;const id=qid(bank.bankId,q.code);if(!q.options[letter])return;if(q.correct==='PENDIENTE')return toast('Esta pregunta conserva su clave pendiente; no se califica hasta validarla.');const now=new Date().toISOString();
+ const r=current();if(!r)return;if(session.paused)return toast('Primero reanuda el simulacro.');if(session.finished)return toast('Esta vuelta ya terminó. Puedes revisar tus respuestas o iniciar una nueva vuelta.');const {bank,q}=r;const id=qid(bank.bankId,q.code);if(!q.options[letter])return;const now=new Date().toISOString();
  if(isRealExamSession()){
    session.answers=session.answers||{};session.answers[id]={letter,answeredAt:now};
    await saveCurrentSession();
    document.querySelectorAll('.opt').forEach(btn=>btn.classList.toggle('exam-selected',btn.dataset.letter===letter));
    updateSessionHud();renderQuestionMap();return;
  }
- if(session.answers?.[id])return;const ok=letter===q.correct;session.answers=session.answers||{};session.answers[id]={letter,ok,answeredAt:now};
+ if(session.answers?.[id])return;const ok=q.correct==='PENDIENTE'?null:letter===q.correct;session.answers=session.answers||{};session.answers[id]={letter,ok,answeredAt:now};
  // Actualizar la interfaz de inmediato, sin esperar Firebase ni el premio Rambosol.
  // Ambos guardados empiezan en el mismo clic y siguen ejecutándose sin bloquear la respuesta.
- const progressSave=applyChoiceToProgress(bank,q,letter,now,session.mode,session.sessionId,true);
+ const progressSave=q.correct==='PENDIENTE'?Promise.resolve(null):applyChoiceToProgress(bank,q,letter,now,session.mode,session.sessionId,true);
  const sessionSave=saveCurrentSession();
  showSavedAnswer(session.answers[id],false);document.getElementById('quiz').classList.add('studyAnswered');updateSessionHud();renderQuestionMap();renderHomeStatsOnly();
  try{await Promise.all([progressSave,sessionSave])}catch(err){console.error('Error guardando respuesta:',err);toast('No se pudo guardar: revisa la sincronización');}
@@ -953,7 +953,7 @@ async function commitRealExamProgress(){
  let dailyAdds=0;
  for(const id of session.items){
    const a=session.answers?.[id];if(!a?.letter)continue;const r=questionByQid(id);if(!r)continue;
-   const now=a.answeredAt||new Date().toISOString();a.ok=a.letter===r.q.correct;
+   const now=a.answeredAt||new Date().toISOString();if(r.q.correct==='PENDIENTE'){a.ok=null;continue;}a.ok=a.letter===r.q.correct;
    const p=await applyChoiceToProgress(r.bank,r.q,a.letter,now,'Simulacro real',session.sessionId,false);if((p.wrongCount||0)>0)dailyAdds++;
  }
  if(dailyAdds>0){const t=today();settings.dailyCounts=settings.dailyCounts||{};settings.dailyCounts[t]=(settings.dailyCounts[t]||0)+dailyAdds;const count=settings.dailyCounts[t],goal=settings.dailyGoal||20;if(count>=goal&&settings.lastStudyDate!==t){const y=addDays(t,-1);settings.streak=(settings.lastStudyDate===y)?(settings.streak||0)+1:1;settings.lastStudyDate=t}await saveSettings()}
