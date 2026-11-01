@@ -14,16 +14,16 @@
         "C": "Albahaca",
         "D": "Congona"
       },
-      "correct": null,
-      "temario": "El cuidado intercultural reconoce la posibilidad de que personas mayores recurran a recursos botánicos locales. Es fundamental identificar con nombre científico la planta propuesta, su preparación, dosis, posibles efectos adversos e interacciones, en lugar de recomendarla solamente por denominación popular. La lumbalgia geriátrica exige examinar trauma, osteoporosis, fractura, fiebre, déficit neurológico, síndrome de cauda equina, síntomas urinarios, cáncer y uso de medicamentos. Antes de elegir perejil, tuna, albahaca o congona se requiere comprobar la referencia etnobotánica que el examen utiliza para atribuir una indicación concreta. El cuadernillo no contiene la ficha de uso medicinal ni la clave y la investigación independiente no permitió establecer con seguridad una respuesta única.",
-      "fundamento": "Sin evidencia verificable de cuál de las cuatro plantas se indica específicamente para lumbalgia en el material normativo/etnobotánico del examen, la clave se conserva como pendiente. No sería seguro inventar una recomendación para una mujer de 82 años.",
+      "correct": "D",
+      "temario": "El cuidado intercultural reconoce la posibilidad de que personas mayores recurran a recursos botánicos locales. Es fundamental identificar con nombre científico la planta propuesta, su preparación, dosis, posibles efectos adversos e interacciones, en lugar de recomendarla solamente por denominación popular. La lumbalgia geriátrica exige examinar trauma, osteoporosis, fractura, fiebre, déficit neurológico, síndrome de cauda equina, síntomas urinarios, cáncer y uso de medicamentos. La congona tiene usos tradicionales documentados para dolores reumáticos y procesos inflamatorios; estos testimonios no demuestran eficacia ni seguridad clínica para lumbalgia geriátrica. La clave D se sostiene como interpretación etnobotánica de estudio y queda pendiente el cotejo visual con el resaltado del PDF.",
+      "fundamento": "Clave de estudio: D. Congona. Peperomia inaequalifolia (congona) tiene usos etnobotánicos documentados para dolores reumáticos y procesos dolorosos/inflamatorios tradicionales. La indicación para lumbalgia en una persona de 82 años NO está validada por ensayos clínicos y no sustituye descartar fractura u otras causas graves. Referencias: https://dspace.ups.edu.ec/bitstream/123456789/2941/1/UPS-QT01004.pdf y https://repositorio.uwiener.edu.pe/entities/publication/8dc788a7-0524-47de-9478-12aff47015ca . No se ha confirmado visualmente el resaltado de la clave en el PDF aportado.",
       "analisis": {
         "A": "Planta de uso alimentario y tradicional; no se demostró indicación específica como respuesta del ítem.",
         "B": "Planta con diversos usos alimentarios y tradicionales; no hay soporte suficiente para asignarle la clave.",
         "C": "Hierba aromática de usos populares variados, pero falta la referencia indicada en el temario.",
-        "D": "Planta medicinal conocida localmente en algunos contextos; podría ser la intención del reactivo, pero no se confirmó una indicación inequívoca."
+        "D": "Congona: uso tradicional descrito para dolores reumáticos, inflamación y molestias dolorosas; es la alternativa defendible desde el contexto etnobotánico del reactivo, sin que ello pruebe eficacia clínica específica para lumbalgia."
       },
-      "alerta": "CLAVE PENDIENTE: verificar fuente etnobotánica o solucionario oficial. No tomar como recomendación terapéutica la eventual respuesta del examen.",
+      "alerta": "Clave D defendida con fuentes etnobotánicas; el resaltado del PDF aún requiere cotejo visual. En adulto mayor evitar indicación terapéutica sin valoración clínica.",
       "perlas": [
         "Interculturalidad implica respeto, identificación botánica y evaluación de seguridad.",
         "Lumbalgia a los 82 años: descartar fractura y otras señales de alarma."
