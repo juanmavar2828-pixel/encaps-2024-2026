@@ -58,7 +58,7 @@ button,input,select{font:inherit} button{cursor:pointer}.wrap{max-width:980px;ma
 #encapsScrollRail{position:absolute;right:8px;top:165px;bottom:15px;width:14px;background:#dce6f1;border:1px solid #b3c6db;border-radius:12px;z-index:8;cursor:pointer;touch-action:none}
 #encapsScrollThumb{position:absolute;left:1px;right:1px;top:0;height:70px;border-radius:10px;background:#3377ce;box-shadow:inset 0 0 0 1px #225aab;cursor:grab;touch-action:none}
 #encapsScrollThumb:active{cursor:grabbing}
-.encapsColors{display:none;position:fixed;z-index:1001;background:white;padding:7px;border-radius:12px;box-shadow:0 8px 20px #1234;gap:5px}.encapsColors.show{display:flex}.encapsColors button{border:1px solid #ddd;border-radius:8px;background:#f8fafc;padding:7px;cursor:pointer}.encapsMark{border-radius:3px}.encapsMark[data-color="yellow"]{background:#fff18a}.encapsMark[data-color="green"]{background:#a9efbe}.encapsMark[data-color="red"]{background:#ffb5b5}.encapsFlashEditor{position:fixed;inset:0;background:#091c32a8;z-index:2000;display:flex;align-items:center;justify-content:center;padding:16px}.encapsFlashEditor.hidden{display:none}.encapsFlashPanel{width:min(650px,100%);max-height:90vh;overflow-y:auto;background:white;border-radius:22px;padding:24px;box-shadow:0 20px 55px #0004}.encapsFlashPanel label{display:block;font-weight:800;margin:14px 0 6px}.encapsFlashPanel textarea{width:100%;resize:vertical;border:1px solid #b8cbdd;padding:12px;border-radius:12px;color:#17324f;font:inherit}.encapsFlashPanel .actions{margin-top:16px;justify-content:flex-end}</style>
+.encapsColors{display:none;position:fixed;z-index:1001;background:white;padding:7px;border-radius:12px;box-shadow:0 8px 20px #1234;gap:5px}.encapsColors.show{display:flex}.encapsColors button{border:1px solid #ddd;border-radius:8px;background:#f8fafc;padding:7px;cursor:pointer}.encapsMark{border-radius:3px}.encapsMark[data-color="yellow"]{background:#fff18a}.encapsMark[data-color="green"]{background:#a9efbe}.encapsMark[data-color="red"]{background:#ffb5b5}.encapsFlashEditor{position:fixed;inset:0;background:#091c32a8;z-index:2000;display:flex;align-items:center;justify-content:center;padding:16px}.encapsFlashEditor.hidden{display:none}.encapsFlashPanel{width:min(650px,100%);max-height:90vh;overflow-y:auto;background:white;border-radius:22px;padding:24px;box-shadow:0 20px 55px #0004}.encapsFlashPanel label{display:block;font-weight:800;margin:14px 0 6px}.encapsFlashPanel textarea{width:100%;resize:vertical;border:1px solid #b8cbdd;padding:12px;border-radius:12px;color:#17324f;font:inherit}.encapsFlashPanel .actions{margin-top:16px;justify-content:flex-end}.error-type-actions .selected-error-type{background:#d9eafa!important;border-color:#2677df!important;color:#123d74!important;box-shadow:inset 0 0 0 2px #2677df}</style>
 
 <style id="v510FsrsStyles">
 /* V5.10: FSRS + tarjetero dinámico. */
@@ -1452,12 +1452,31 @@ async function startRescueFive(){
 function errorTypeHtml(p){
   const labels={knowledge:'No conocía el dato',reading:'Leí mal una clave',trap:'Caí en una trampa',time:'Me faltó tiempo',confusion:'Confundí diagnósticos'};
   const current=labels[p.errorType]||null;
-  return `<div class="diagnosis-box" style="margin-top:12px"><span class="diagnosis-icon">🎯</span><span class="diagnosis-label">Huella del error:</span> ${current?`<b>${escapeHtml(current)}</b>`:'marca la causa más probable; esto no cambia tu nota.'}<div class="actions" style="margin-top:9px"><button class="btn ghost" onclick="setCurrentErrorType('knowledge')">📚 Dato</button><button class="btn ghost" onclick="setCurrentErrorType('reading')">🔎 Lectura</button><button class="btn ghost" onclick="setCurrentErrorType('trap')">🪤 Trampa</button><button class="btn ghost" onclick="setCurrentErrorType('time')">⏱ Tiempo</button><button class="btn ghost" onclick="setCurrentErrorType('confusion')">🔀 Confusión</button></div></div>`;
+  return `<div class="diagnosis-box" style="margin-top:12px"><span class="diagnosis-icon">🎯</span><span class="diagnosis-label">Huella del error:</span> ${current?`<b>${escapeHtml(current)}</b>`:'marca la causa más probable; esto no cambia tu nota.'}<div class="error-type-status" aria-live="polite" style="margin-top:7px;font-weight:700">${current?`Seleccionado: ${escapeHtml(current)} ✓`:``}</div><div class="actions error-type-actions" style="margin-top:9px"><button class="btn ghost" data-error-type="knowledge" onclick="setCurrentErrorType('knowledge')">📚 Dato</button><button class="btn ghost" data-error-type="reading" onclick="setCurrentErrorType('reading')">🔎 Lectura</button><button class="btn ghost" data-error-type="trap" onclick="setCurrentErrorType('trap')">🪤 Trampa</button><button class="btn ghost" data-error-type="time" onclick="setCurrentErrorType('time')">⏱ Tiempo</button><button class="btn ghost" data-error-type="confusion" onclick="setCurrentErrorType('confusion')">🔀 Confusión</button></div></div>`;
 }
 async function setCurrentErrorType(kind){
-  const labels={knowledge:'dato',reading:'lectura',trap:'trampa',time:'tiempo',confusion:'confusión'};if(!labels[kind])return;
-  const r=current();if(!r)return;const id=qid(r.bank.bankId,r.q.code),p=progress.get(id);if(!p)return;
-  p.errorType=kind;p.errorTypeAt=new Date().toISOString();progress.set(id,p);await put('progress',p);if(cloud.user&&commercial.active)cloudSaveProgress(p).catch(()=>{});showSavedAnswer(session.answers?.[id],false);toast(`🎯 Marcaste: ${labels[kind]}`);
+ const labels={knowledge:'Dato',reading:'Lectura',trap:'Trampa',time:'Tiempo',confusion:'Confusión'};
+ if(!labels[kind])return;
+ const r=current();if(!r)return toast('No se encontró la pregunta actual');
+ const id=qid(r.bank.bankId,r.q.code),p=progress.get(id);
+ if(!p)return toast('Responde primero la pregunta para registrar la huella');
+ p.errorType=kind;p.errorTypeAt=new Date().toISOString();
+ progress.set(id,p);
+ const wrap=document.querySelector('#feedback .error-type-actions');
+ if(wrap){
+  wrap.querySelectorAll('button[data-error-type]').forEach(btn=>{
+   const active=btn.dataset.errorType===kind;
+   btn.classList.toggle('selected-error-type',active);
+   btn.setAttribute('aria-pressed',String(active));
+  });
+  const status=wrap.parentElement.querySelector('.error-type-status');
+  if(status)status.textContent='Seleccionado: '+labels[kind]+' ✓';
+ }
+ try{
+  await put('progress',p);
+  if(cloud.user&&typeof cloudSaveProgress==='function')cloudSaveProgress(p).catch(()=>{});
+  toast('🎯 Huella guardada: '+labels[kind]);
+ }catch(e){console.error('Error guardando huella',e);toast('No se pudo guardar la huella. Intenta otra vez')}
 }
 async function awardMissionBonus(kind,points,message){
   normalizeRambosoles();
